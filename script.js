@@ -2470,10 +2470,28 @@ class BrutalBeerStats {
                 yOffset += boxHeight + 15;
             });
         } else {
-            // Horizontal layout for desktop
-            const roundWidth = width / rounds.length;
+            // Horizontal layout for desktop with optimal spacing
+            const margin = 20;
+            const availableWidth = width - (margin * 2);
+            const optimalBoxWidth = 140; // Optimal box width
+            const minSpacing = 20; // Minimum spacing between rounds
+            
+            // Calculate if we need to compress or can use optimal spacing
+            const totalNeededWidth = (rounds.length * optimalBoxWidth) + ((rounds.length - 1) * minSpacing);
+            
+            let roundWidth, boxWidth;
+            if (totalNeededWidth <= availableWidth) {
+                // Use optimal spacing
+                boxWidth = optimalBoxWidth;
+                roundWidth = (availableWidth - ((rounds.length - 1) * minSpacing)) / rounds.length;
+            } else {
+                // Compress to fit
+                roundWidth = availableWidth / rounds.length;
+                boxWidth = Math.max(roundWidth - 15, 100); // Minimum 100px width
+            }
+            
             rounds.forEach((round, roundIndex) => {
-                const x = roundIndex * roundWidth + 50;
+                const x = margin + (roundIndex * roundWidth) + (roundWidth - boxWidth) / 2;
                 const spacing = height / (round.length + 1);
 
                 round.forEach((venue, venueIndex) => {
@@ -2483,23 +2501,25 @@ class BrutalBeerStats {
                     svg.append('rect')
                         .attr('x', x)
                         .attr('y', y - 20)
-                        .attr('width', roundWidth - 20)
+                        .attr('width', boxWidth)
                         .attr('height', 40)
                         .attr('fill', roundIndex === rounds.length - 1 ? '#FFD700' : '#FFFFFF')
                         .attr('stroke', '#000000')
                         .attr('stroke-width', 3);
 
+                    // Venue name
                     svg.append('text')
-                        .attr('x', x + (roundWidth - 20) / 2)
+                        .attr('x', x + boxWidth / 2)
                         .attr('y', y - 5)
                         .attr('text-anchor', 'middle')
                         .attr('class', 'chart-axis')
                         .style('font-size', '10px')
                         .style('font-weight', 'bold')
-                        .text(venue.venue.substring(0, 12));
+                        .text(venue.venue.substring(0, Math.floor(boxWidth / 9)));
 
+                    // Rating
                     svg.append('text')
-                        .attr('x', x + (roundWidth - 20) / 2)
+                        .attr('x', x + boxWidth / 2)
                         .attr('y', y + 10)
                         .attr('text-anchor', 'middle')
                         .attr('class', 'chart-axis')
