@@ -2,19 +2,53 @@
 
 class BrutalBeerStats {
     constructor() {
+        // Validate that BEER_DATA exists and is an array
+        if (typeof BEER_DATA === 'undefined') {
+            console.error('BEER_DATA is not defined. Make sure venues_data.js is loaded.');
+            return;
+        }
+        
+        if (!Array.isArray(BEER_DATA) || BEER_DATA.length === 0) {
+            console.error('BEER_DATA is not a valid array or is empty.');
+            return;
+        }
+        
         this.data = BEER_DATA;
         this.currentView = 'timeline';
         this.init();
     }
 
     init() {
-        console.log(`🍺 Loaded ${this.data.length} brutal beer records`);
-        this.processData();
-        this.renderDashboard();
-        this.renderLeaderboards();
-        this.setupExplorationControls();
-        this.renderTimelineChart();
-        this.renderInsights();
+        try {
+            console.log(`🍺 Loaded ${this.data.length} brutal beer records`);
+            this.processData();
+            this.renderDashboard();
+            this.renderLeaderboards();
+            this.setupExplorationControls();
+            this.renderTimelineChart();
+            this.renderInsights();
+        } catch (error) {
+            console.error('Error initializing BrutalBeerStats:', error);
+            this.showError('Error loading beer data. Please check the console for details.');
+        }
+    }
+    
+    showError(message) {
+        document.body.innerHTML = `
+            <div style="
+                padding: 40px;
+                text-align: center;
+                font-family: 'JetBrains Mono', monospace;
+                background: #FF0000;
+                color: #FFFFFF;
+                border: 4px solid #000000;
+                margin: 20px;
+                box-shadow: 8px 8px 0px #000000;
+            ">
+                <h1>🍺 BRUTAL ERROR!</h1>
+                <p>${message}</p>
+            </div>
+        `;
     }
 
     processData() {
@@ -40,15 +74,25 @@ class BrutalBeerStats {
     }
 
     renderDashboard() {
-        // Animate numbers with brutal effect
-        this.animateNumber('total-checkins', this.totalCheckins);
-        document.getElementById('avg-rating').textContent = this.avgRating;
-        this.animateNumber('unique-beers', this.uniqueBeers);
-        document.getElementById('top-venue').textContent = this.topVenue.toUpperCase();
+        // Check if elements exist before updating
+        const totalCheckinsEl = document.getElementById('total-checkins');
+        const avgRatingEl = document.getElementById('avg-rating');
+        const uniqueBeersEl = document.getElementById('unique-beers');
+        const topVenueEl = document.getElementById('top-venue');
+
+        if (totalCheckinsEl) this.animateNumber('total-checkins', this.totalCheckins);
+        if (avgRatingEl) avgRatingEl.textContent = this.avgRating;
+        if (uniqueBeersEl) this.animateNumber('unique-beers', this.uniqueBeers);
+        if (topVenueEl) topVenueEl.textContent = this.topVenue.toUpperCase();
     }
 
     animateNumber(elementId, finalValue) {
         const element = document.getElementById(elementId);
+        if (!element) {
+            console.warn(`Element with ID '${elementId}' not found`);
+            return;
+        }
+        
         let current = 0;
         const increment = Math.ceil(finalValue / 50);
         
