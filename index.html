@@ -11,7 +11,7 @@
     <!-- BRUTAL HEADER -->
     <header class="brutal-header">
         <h1 class="brutal-title">🍺 BEER STATS</h1>
-        <div class="brutal-subtitle">BRUTAL DATA VISUALIZATION</div>
+        <div class="brutal-subtitle">ISRAEL UNTAPPD DATA</div>
     </header>
 
     <!-- AT-A-GLANCE DASHBOARD -->
@@ -39,7 +39,7 @@
 
     <!-- LEADERBOARDS -->
     <section class="brutal-section leaderboards">
-        <h2 class="brutal-heading">BRUTAL RANKINGS</h2>
+        <h2 class="brutal-heading">THE GOOD</h2>
         
         <div class="leaderboard-grid">
             <div class="leaderboard brutal-card">
@@ -48,52 +48,125 @@
             </div>
             
             <div class="leaderboard brutal-card offset-right">
-                <h3 class="leaderboard-title">DOMINANT BREWERIES</h3>
+                <h3 class="leaderboard-title">TOP RATED BREWERIES</h3>
                 <div id="top-breweries" class="leaderboard-list"></div>
             </div>
             
             <div class="leaderboard brutal-card">
-                <h3 class="leaderboard-title">BEER STYLES</h3>
+                <h3 class="leaderboard-title">TOP RATED STYLES</h3>
                 <div id="top-styles" class="leaderboard-list"></div>
             </div>
         </div>
     </section>
 
-    <!-- INTERACTIVE EXPLORATION -->
-    <section class="brutal-section exploration">
-        <h2 class="brutal-heading">DATA EXPLORATION</h2>
+    <!-- THE BAD -->
+    <section class="brutal-section leaderboards">
+        <h2 class="brutal-heading">THE BAD</h2>
         
-        <div class="exploration-controls">
-            <button class="brutal-btn active" data-view="timeline">TIMELINE</button>
-            <button class="brutal-btn" data-view="ratings">RATINGS</button>
-            <button class="brutal-btn" data-view="venues">VENUES</button>
-        </div>
-        
-        <div class="chart-container brutal-card">
-            <div id="main-chart"></div>
+        <div class="leaderboard-grid">
+            <div class="leaderboard brutal-card">
+                <h3 class="leaderboard-title">WORST RATED BEERS</h3>
+                <div id="worst-beers" class="leaderboard-list"></div>
+            </div>
+            
+            <div class="leaderboard brutal-card offset-right">
+                <h3 class="leaderboard-title">WORST RATED BREWERIES</h3>
+                <div id="worst-breweries" class="leaderboard-list"></div>
+            </div>
+            
+            <div class="leaderboard brutal-card">
+                <h3 class="leaderboard-title">WORST RATED STYLES</h3>
+                <div id="worst-styles" class="leaderboard-list"></div>
+            </div>
         </div>
     </section>
 
-    <!-- UNIQUE INSIGHTS -->
-    <section class="brutal-section insights">
-        <h2 class="brutal-heading">BRUTAL INSIGHTS</h2>
+    <!-- EXPLORATION & ANALYSIS -->
+    <section class="brutal-section exploration">
+        <h2 class="brutal-heading">COMMUNITY ANALYSIS</h2>
         
-        <div class="insights-grid">
-            <div class="insight brutal-card">
-                <h3 class="insight-title">VENUE PERSONALITIES</h3>
-                <div id="venue-ratings-chart"></div>
+        <div class="exploration-controls">
+            <button class="brutal-btn active" data-view="quality-matrix">QUALITY VS HYPE</button>
+            <button class="brutal-btn" data-view="weekend-rhythm">PRIME TIME</button>
+            <button class="brutal-btn" data-view="seasonal">SEASONAL</button>
+            <button class="brutal-btn" data-view="ecosystem-network">GALAXY</button>
+            <button class="brutal-btn" data-view="sophistication-wave">ADVENTURE INDEX</button>
+        </div>
+        
+        <div class="chart-container brutal-card">
+            <div id="main-exploration-chart"></div>
+        </div>
+    </section>
+
+    <!-- VENUE & BREWERY INSIGHTS -->
+    <section class="brutal-section venues-breweries">
+        <h2 class="brutal-heading">VENUES & BREWERIES</h2>
+        
+        <div class="venue-brewery-grid">
+            <div class="chart-card brutal-card">
+                <h3 class="chart-title">VENUE REPUTATION</h3>
+                <div id="venue-heatmap-chart"></div>
             </div>
             
-            <div class="insight brutal-card offset-down">
-                <h3 class="insight-title">STYLE VS RATING</h3>
-                <div id="style-rating-scatter"></div>
+            <div class="chart-card brutal-card offset-right">
+                <h3 class="chart-title">BREWERY DOMINANCE</h3>
+                <div id="brewery-treemap-chart"></div>
             </div>
+        </div>
+    </section>
+
+    <!-- RATING & PREFERENCE ANALYSIS -->
+    <section class="brutal-section ratings-prefs">
+        <h2 class="brutal-heading">RATINGS & PREFERENCES</h2>
+        
+        <div class="ratings-grid">
+            <div class="chart-card brutal-card">
+                <h3 class="chart-title">RATING DISTRIBUTIONS</h3>
+                <div id="rating-waves-chart"></div>
+            </div>
+            
+            <div class="chart-card brutal-card offset-down">
+                <h3 class="chart-title">COMMUNITY CHAMPIONS</h3>
+                <div id="consensus-champions-chart"></div>
+            </div>
+            
+            <div class="chart-card brutal-card">
+                <h3 class="chart-title">ABV SWEET SPOT</h3>
+                <div id="abv-analysis-chart"></div>
+            </div>
+        </div>
+    </section>
+
+    <!-- BEER TYPE TIMELINE -->
+    <section class="brutal-section timeline">
+        <h2 class="brutal-heading">STYLES TIMELINE</h2>
+        
+        <div class="timeline-container">
+            <div class="timeline-grid">
+                <div class="chart-card brutal-card">
+                    <h3 class="chart-title">CHECK-INS VOLUME</h3>
+                    <div id="beer-type-checkins-chart"></div>
+                </div>
+                <div class="chart-card brutal-card offset-right">
+                    <h3 class="chart-title">RATINGS EVOLUTION</h3>
+                    <div id="beer-type-ratings-chart"></div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- BATTLE ZONE -->
+    <section class="brutal-section battle">
+        <h2 class="brutal-heading">VENUE BATTLE ROYALE</h2>
+        
+        <div class="battle-container brutal-card">
+            <div id="venue-battle-chart"></div>
         </div>
     </section>
 
     <!-- FOOTER -->
     <footer class="brutal-footer">
-        <div class="footer-text">POWERED BY BRUTAL DESIGN & D3.JS</div>
+        <div class="footer-text">Don't @ me georgeshipg@gmail.com</div>
     </footer>
 
     <script src="venues_data.js"></script>
