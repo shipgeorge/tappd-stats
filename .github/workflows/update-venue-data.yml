@@ -1,0 +1,69 @@
+name: Update Venue Data
+
+on:
+  schedule:
+    # Run daily at 6 AM UTC
+    - cron: '0 6 * * *'
+  # Allow manual trigger
+  workflow_dispatch:
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+        
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.9'
+        
+    - name: Install Chrome
+      uses: browser-actions/setup-chrome@latest
+      with:
+        chrome-version: stable
+        
+    - name: Install ChromeDriver
+      uses: nanasess/setup-chromedriver@master
+        
+    - name: Install Python dependencies
+      run: |
+        cd scrapper
+        pip install -r requirements.txt
+        pip install selenium pandas python-dateutil
+        
+    - name: Run venue scraper
+      env:
+        UNTAPPD_COOKIES: ${{ secrets.UNTAPPD_COOKIES }}
+      run: |
+        python scrapper/github_runner.py
+          
+    - name: Convert data to JavaScript format
+      run: |
+        python convert_venues.py
+        
+    - name: Commit and push changes
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add venues_database.csv venues_data.js
+        if git diff --staged --quiet; then
+          echo "No changes to commit"
+        else
+          git commit -m "🤖 Auto-update venue data - $(date -u '+%Y-%m-%d %H:%M UTC')"
+          git push
+        fi
+        
+    - name: Upload logs as artifacts
+      if: always()
+      uses: actions/upload-artifact@v3
+      with:
+        name: scraping-logs
+        path: |
+          scrapper/*.log
+          scrapper/last_scraping_status.json
+        retention-days: 7
