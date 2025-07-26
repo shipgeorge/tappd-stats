@@ -2575,7 +2575,7 @@ class BrutalBeerStats {
         const cellWidth = width / totalCells;
         const cellHeight = height / 7;
 
-        const colorScale = d3.scaleSequential(d3.interpolateYlOrRd)
+        const colorScale = d3.scaleSequential(d3.interpolateBlues)
             .domain([0, maxCount]);
 
         const dayNames = isFullscreen 
@@ -3880,38 +3880,7 @@ class BrutalBeerStats {
             .style('font-weight', 'bold')
             .text('AVERAGE RATING (QUALITY)');
 
-        // Add horizontal legend below chart
-        const legend = svg.append('g')
-            .attr('transform', `translate(${margin.left}, ${height - 80})`);
-
-        const legendItemsPerRow = Math.ceil(Math.sqrt(data.length));
-        const legendItemWidth = chartWidth / legendItemsPerRow;
-        const legendItemHeight = 25;
-
-        data.forEach((d, i) => {
-            const row = Math.floor(i / legendItemsPerRow);
-            const col = i % legendItemsPerRow;
-            const x = col * legendItemWidth;
-            const y = row * legendItemHeight;
-
-            const legendItem = legend.append('g')
-                .attr('transform', `translate(${x}, ${y})`);
-
-            legendItem.append('circle')
-                .attr('cx', 8)
-                .attr('cy', 8)
-                .attr('r', 6)
-                .attr('fill', colorScale(d.style))
-                .attr('stroke', '#000000')
-                .attr('stroke-width', 2);
-
-            legendItem.append('text')
-                .attr('x', 20)
-                .attr('y', 12)
-                .style('font-size', '10px')
-                .style('font-weight', 'bold')
-                .text(d.style.length > 12 ? d.style.substring(0, 12) + '...' : d.style);
-        });
+        // Legend removed for fullscreen mode
     }
 
     renderSeasonalPatternsChartFullscreen(container, width, height) {
@@ -4173,28 +4142,7 @@ class BrutalBeerStats {
             .style('font-weight', 'bold')
             .text('CHECK-INS');
 
-        // Add horizontal legend below chart
-        const legend = svg.append('g')
-            .attr('transform', `translate(${margin.left}, ${height - 60})`);
-
-        topStyles.forEach((style, i) => {
-            const legendItem = legend.append('g')
-                .attr('transform', `translate(${i * (chartWidth / topStyles.length)}, 0)`);
-
-            legendItem.append('rect')
-                .attr('width', 20)
-                .attr('height', 15)
-                .attr('fill', color(style))
-                .attr('stroke', '#000000')
-                .attr('stroke-width', 2);
-
-            legendItem.append('text')
-                .attr('x', 25)
-                .attr('y', 12)
-                .style('font-size', '11px')
-                .style('font-weight', 'bold')
-                .text(style.length > 15 ? style.substring(0, 15) + '...' : style);
-        });
+        // Legend removed for fullscreen mode
     }
 
     renderWeekendRhythmChartFullscreen(container, width, height) {
@@ -4247,7 +4195,7 @@ class BrutalBeerStats {
             .range([0, chartHeight])
             .padding(0.1);
 
-        const colorScale = d3.scaleSequential(d3.interpolateReds)
+        const colorScale = d3.scaleSequential(d3.interpolateBlues)
             .domain([0, maxCount]);
 
         const dayNames = ['Sun', 'Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat'];
@@ -4392,10 +4340,14 @@ class BrutalBeerStats {
                 }
             });
 
-        // Add axes
+        // Add axes with custom tick values for cleaner display
+        const customTicks = [0, 4, 8, 12, 16, 20]; // Every 4 hours: 00:00, 04:00, 08:00, 12:00, 16:00, 20:00
+        
         g.append('g')
             .attr('transform', `translate(0,${chartHeight})`)
-            .call(d3.axisBottom(xScale).tickFormat(d => `${d.toString().padStart(2, '0')}:00`))
+            .call(d3.axisBottom(xScale)
+                .tickValues(customTicks)
+                .tickFormat(d => `${d.toString().padStart(2, '0')}:00`))
             .selectAll('text')
             .attr('class', 'chart-axis')
             .style('font-size', '12px')
@@ -4428,83 +4380,57 @@ class BrutalBeerStats {
             .style('font-weight', 'bold')
             .text('DAY OF WEEK');
 
-        // Add color scale legend
-        const legendWidth = 200;
-        const legendHeight = 20;
-        const legend = svg.append('g')
-            .attr('transform', `translate(${(width - legendWidth) / 2}, ${height - 40})`);
-
-        const legendScale = d3.scaleLinear()
-            .domain([0, maxCount])
-            .range([0, legendWidth]);
-
-        const legendData = d3.range(0, legendWidth, 2).map(d => ({
-            value: legendScale.invert(d),
-            x: d
-        }));
-
-        legend.selectAll('.legend-rect')
-            .data(legendData)
-            .enter().append('rect')
-            .attr('class', 'legend-rect')
-            .attr('x', d => d.x)
-            .attr('y', 0)
-            .attr('width', 2)
-            .attr('height', legendHeight)
-            .attr('fill', d => colorScale(d.value));
-
-        legend.append('text')
-            .attr('x', 0)
-            .attr('y', legendHeight + 15)
-            .style('font-size', '12px')
-            .style('font-weight', 'bold')
-            .text('0');
-
-        legend.append('text')
-            .attr('x', legendWidth)
-            .attr('y', legendHeight + 15)
-            .attr('text-anchor', 'end')
-            .style('font-size', '12px')
-            .style('font-weight', 'bold')
-            .text(maxCount);
-
-        legend.append('text')
-            .attr('x', legendWidth / 2)
-            .attr('y', -5)
-            .attr('text-anchor', 'middle')
-            .style('font-size', '12px')
-            .style('font-weight', 'bold')
-            .text('CHECK-INS');
+        // Legend removed for fullscreen mode
     }
 
     renderSophisticationWaveChartFullscreen(container, width, height) {
-        // Set up centering container first
-        container.node().style.display = 'flex';
-        container.node().style.flexDirection = 'column';
-        container.node().style.justifyContent = 'center';
-        container.node().style.alignItems = 'center';
-        container.node().style.height = '100vh';
-        container.node().style.width = '100vw';
+        container.selectAll('*').remove();
         
+        // Use nearly full screen width with minimal margins
+        const safeWidth = window.innerWidth - 20; // Just 10px margin each side
+        const safeHeight = window.innerHeight - 20; // Just 10px margin top/bottom
+        
+        // Create a wrapper div for the chart
+        const chartWrapper = container.append('div')
+            .style('width', safeWidth + 'px')
+            .style('height', safeHeight + 'px')
+            .style('display', 'flex')
+            .style('justify-content', 'center')
+            .style('align-items', 'center')
+            .style('background', '#FFFFFF');
+        
+        // Override d3.select to make the chart think the wrapper is the main container
         const oldSelect = d3.select;
         d3.select = (selector) => {
-            if (selector === '#main-exploration-chart') return container;
+            if (selector === '#main-exploration-chart') {
+                // Return a mock container with full width
+                return {
+                    empty: () => false,
+                    selectAll: (sel) => chartWrapper.selectAll(sel),
+                    node: () => ({ 
+                        offsetWidth: safeWidth,
+                        offsetHeight: safeHeight
+                    }),
+                    append: (type) => chartWrapper.append(type),
+                    select: (sel) => chartWrapper.select(sel)
+                };
+            }
             return oldSelect(selector);
         };
         
         this.renderSophisticationWaveChart(true);
         d3.select = oldSelect;
         
-        const svg = container.select('svg')
-            .style('width', Math.min(width, window.innerWidth - 40) + 'px')
-            .style('height', Math.min(height, window.innerHeight - 100) + 'px')
-            .style('background', '#FFFFFF')
-            .style('display', 'block')
-            .style('margin', '0 auto');
+        const svg = chartWrapper.select('svg')
+            .style('width', '100%')
+            .style('height', '100%')
+            .style('max-width', '100%')
+            .style('max-height', '100%')
+            .style('background', '#FFFFFF');
 
         // Enhance readability for mobile fullscreen line chart
         svg.selectAll('.chart-axis text, .axis text')
-            .style('font-size', '11px')
+            .style('font-size', '12px')
             .style('font-weight', 'bold');
             
         // Make lines thicker for mobile visibility
@@ -4513,38 +4439,47 @@ class BrutalBeerStats {
             
         // Enhance legend readability
         svg.selectAll('.legend text')
-            .style('font-size', '11px')
+            .style('font-size', '12px')
             .style('font-weight', 'bold');
     }
 
     renderEcosystemNetworkChartFullscreen(container, width, height) {
-        // Set up centering container first
-        container.node().style.display = 'flex';
-        container.node().style.flexDirection = 'column';
-        container.node().style.justifyContent = 'center';
-        container.node().style.alignItems = 'center';
-        container.node().style.height = '100vh';
-        container.node().style.width = '100vw';
+        container.selectAll('*').remove();
         
+        // Calculate safe dimensions
+        const safeWidth = Math.min(width, window.innerWidth - 40);
+        const safeHeight = Math.min(height, window.innerHeight - 40);
+        
+        // Create a wrapper div for the chart
+        const chartWrapper = container.append('div')
+            .style('width', safeWidth + 'px')
+            .style('height', safeHeight + 'px')
+            .style('display', 'flex')
+            .style('justify-content', 'center')
+            .style('align-items', 'center')
+            .style('background', '#FFFFFF');
+        
+        // Override d3.select temporarily for chart rendering
         const oldSelect = d3.select;
         d3.select = (selector) => {
-            if (selector === '#main-exploration-chart') return container;
+            if (selector === '#main-exploration-chart') return chartWrapper;
             return oldSelect(selector);
         };
         
         this.renderEcosystemNetworkChart(true);
         d3.select = oldSelect;
         
-        const svg = container.select('svg')
-            .style('width', Math.min(width, window.innerWidth - 40) + 'px')
-            .style('height', Math.min(height, window.innerHeight - 100) + 'px')
+        const svg = chartWrapper.select('svg')
+            .style('width', safeWidth + 'px')
+            .style('height', safeHeight + 'px')
+            .style('max-width', safeWidth + 'px')
+            .style('max-height', safeHeight + 'px')
             .style('background', '#FFFFFF')
-            .style('display', 'block')
-            .style('margin', '0 auto');
+            .style('overflow', 'visible');
 
         // Enhance readability for mobile fullscreen network chart
         svg.selectAll('text')
-            .style('font-size', '10px')
+            .style('font-size', '11px')
             .style('font-weight', 'bold');
             
         // Make network nodes larger for touch interaction
