@@ -167,6 +167,11 @@ class BrutalBeerStats {
 
     renderLeaderboard(containerId, data, valueKey, formatter = (val) => val) {
         const container = document.getElementById(containerId);
+        if (!container) {
+            console.warn(`Leaderboard container '${containerId}' not found`);
+            return;
+        }
+        
         container.innerHTML = '';
 
         data.forEach((item, index) => {
@@ -212,8 +217,19 @@ class BrutalBeerStats {
 
     renderTimelineChart() {
         const container = d3.select('#main-chart');
+        if (container.empty()) {
+            console.warn('Timeline chart container #main-chart not found');
+            return;
+        }
+        
+        const containerNode = container.node();
+        if (!containerNode) {
+            console.warn('Timeline chart container node is null');
+            return;
+        }
+        
         const margin = { top: 20, right: 30, bottom: 60, left: 60 };
-        const width = container.node().offsetWidth - margin.left - margin.right;
+        const width = containerNode.offsetWidth - margin.left - margin.right;
         const height = 350 - margin.top - margin.bottom;
 
         // Group data by day
@@ -564,7 +580,52 @@ class BrutalBeerStats {
     }
 }
 
-// Initialize when DOM is loaded
-document.addEventListener('DOMContentLoaded', () => {
-    new BrutalBeerStats();
-});
+// Initialize when DOM is loaded and D3 is available
+function initializeBrutalBeerStats() {
+    // Wait for both DOM and D3.js to be ready
+    if (document.readyState === 'loading') {
+        document.addEventListener('DOMContentLoaded', initializeBrutalBeerStats);
+        return;
+    }
+    
+    // Check if D3.js is loaded
+    if (typeof d3 === 'undefined') {
+        console.error('D3.js is not loaded. Retrying in 100ms...');
+        setTimeout(initializeBrutalBeerStats, 100);
+        return;
+    }
+    
+    // Check if BEER_DATA is available
+    if (typeof BEER_DATA === 'undefined') {
+        console.error('BEER_DATA is not loaded. Make sure venues_data.js loaded properly.');
+        return;
+    }
+    
+    // Wait a bit more to ensure all DOM elements are rendered
+    setTimeout(() => {
+        try {
+            new BrutalBeerStats();
+        } catch (error) {
+            console.error('Failed to initialize BrutalBeerStats:', error);
+            document.body.innerHTML = `
+                <div style="
+                    padding: 40px;
+                    text-align: center;
+                    font-family: 'JetBrains Mono', monospace;
+                    background: #FF0000;
+                    color: #FFFFFF;
+                    border: 4px solid #000000;
+                    margin: 20px;
+                    box-shadow: 8px 8px 0px #000000;
+                ">
+                    <h1>🍺 BRUTAL ERROR!</h1>
+                    <p>Failed to load beer data visualization</p>
+                    <p>Check console for details</p>
+                </div>
+            `;
+        }
+    }, 50);
+}
+
+// Start initialization
+initializeBrutalBeerStats();
