@@ -7,6 +7,7 @@ A neo-brutalist, single-page web application that transforms beer consumption da
 ![D3.js](https://img.shields.io/badge/D3.js-Powered-FF6600?style=for-the-badge)
 ![Auto Scraping](https://img.shields.io/badge/GitHub_Actions-Automated-0066FF?style=for-the-badge)
 ![Interactive Charts](https://img.shields.io/badge/Fullscreen-Mobile_Optimized-FF00FF?style=for-the-badge)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)
 
 ## 🎨 DESIGN PHILOSOPHY
 
