@@ -1,4 +1,99 @@
 venue,user,time,serving,data_rating,beer_name,brewery,beer_type
+lauter,Shmupi Koto,"Sun, 27 Jul 2025 19:45:12 +0000",can,3.7,הייזי שמייזי,Herzl (הרצל),IPA - New England / Hazy
+lauter,Eran Keller,"Sun, 27 Jul 2025 19:34:58 +0000",draft,4.25,Fou' Foune 2023 - Draft Version,Brasserie Cantillon,Lambic - Fruit
+lauter,barak luzon,"Sun, 27 Jul 2025 19:32:52 +0000",draft,4.75,Fou' Foune 2023 - Draft Version,Brasserie Cantillon,Lambic - Fruit
+lauter,barak luzon,"Sun, 27 Jul 2025 19:32:34 +0000",draft,5.0,Vigneronne 2024 - Draft Version,Brasserie Cantillon,Lambic - Fruit
+lauter,barak luzon,"Sun, 27 Jul 2025 19:32:00 +0000",draft,4.75,Rosé De Gambrinus  2025 - Draft Version,Brasserie Cantillon,Lambic - Framboise
+lauter,Alma,"Sun, 27 Jul 2025 19:00:10 +0000",draft,4.25,Cuvée Saint-Gilloise 2023 - Draft Version,Brasserie Cantillon,Lambic - Traditional
+beerbazaar-brewery,yehiam cohen,"Sun, 27 Jul 2025 18:45:47 +0000",draft,3.0,Ziggy (זיגי),BeerBazaar / Mivshelet Ha’Aretz,IPA - New England / Hazy
+lauter,Alma,"Sun, 27 Jul 2025 18:36:18 +0000",draft,4.5,Nath 2024 - Draft Version,Brasserie Cantillon,Lambic - Other
+lauter,Alma,"Sun, 27 Jul 2025 18:33:06 +0000",,4.25,Saint Lamvinus 2024 - Draft Version,Brasserie Cantillon,Lambic - Fruit
+beerbazaar-brewery,Amit Baitner,"Sun, 27 Jul 2025 18:16:44 +0000",draft,4.25,Ziggy (זיגי),BeerBazaar / Mivshelet Ha’Aretz,IPA - New England / Hazy
+beerbazaar-brewery,Dan Lidayi,"Sun, 27 Jul 2025 18:14:54 +0000",draft,4.0,Ziggy (זיגי),BeerBazaar / Mivshelet Ha’Aretz,IPA - New England / Hazy
+lauter,David Siegel,"Sun, 27 Jul 2025 18:07:35 +0000",draft,4.5,Saint Lamvinus 2024 - Draft Version,Brasserie Cantillon,Lambic - Fruit
+schnitt-brewing-company,Miki Zaidel,"Sun, 27 Jul 2025 18:06:52 +0000",,3.75,Twist & Stout,Schnitt Brewing Company﻿,Stout - Irish Dry
+lauter,Miki Zaidel,"Sun, 27 Jul 2025 18:04:26 +0000",,4.25,Saint Lamvinus 2024 - Draft Version,Brasserie Cantillon,Lambic - Fruit
+lauter,Miki Zaidel,"Sun, 27 Jul 2025 18:03:31 +0000",,4.25,Vigneronne 2024 - Draft Version,Brasserie Cantillon,Lambic - Fruit
+schnitt-brewing-company,Miki Zaidel,"Sun, 27 Jul 2025 18:02:10 +0000",draft,4.0,Citra Achra סיטרה אחרא,Schnitt Brewing Company﻿,IPA - Other
+lauter,Shmupi Koto,"Sun, 27 Jul 2025 18:01:32 +0000",draft,4.6,Kriek 2025 - Draft Version,Brasserie Cantillon,Lambic - Kriek
+lauter,Shmupi Koto,"Sun, 27 Jul 2025 18:00:57 +0000",draft,4.6,Cuvée Saint-Gilloise 2023 - Draft Version,Brasserie Cantillon,Lambic - Traditional
+lauter,Shmupi Koto,"Sun, 27 Jul 2025 18:00:30 +0000",draft,4.6,Nath 2024 - Draft Version,Brasserie Cantillon,Lambic - Other
+lauter,David Siegel,"Sun, 27 Jul 2025 17:40:15 +0000",draft,4.5,Kriek 2025 - Draft Version,Brasserie Cantillon,Lambic - Kriek
+beerbazaar-brewery,Oren Sela,"Sun, 27 Jul 2025 17:39:53 +0000",draft,3.5,Ziggy (זיגי),BeerBazaar / Mivshelet Ha’Aretz,IPA - New England / Hazy
+lauter,Shmupi Koto,"Sun, 27 Jul 2025 17:11:26 +0000",draft,4.5,Gueuze 2024 - Draft Version,Brasserie Cantillon,Lambic - Gueuze
+lauter,Shmupi Koto,"Sun, 27 Jul 2025 17:09:41 +0000",draft,4.6,Rosé De Gambrinus  2025 - Draft Version,Brasserie Cantillon,Lambic - Framboise
+lauter,David Siegel,"Sun, 27 Jul 2025 17:00:14 +0000",draft,4.5,Fou' Foune 2023 - Draft Version,Brasserie Cantillon,Lambic - Fruit
+beerline,Slava Gladchenko,"Sun, 27 Jul 2025 16:50:55 +0000",draft,4.5,Delirium Black Barrel Aged,Delirium - Huyghe Brewery,Belgian Strong Dark Ale
+lauter,Ofir Nakar,"Sun, 27 Jul 2025 16:48:05 +0000",draft,5.0,Fou' Foune 2023 - Draft Version,Brasserie Cantillon,Lambic - Fruit
+lauter,Ofir Nakar,"Sun, 27 Jul 2025 16:47:25 +0000",draft,4.5,Saint Lamvinus 2024 - Draft Version,Brasserie Cantillon,Lambic - Fruit
+lauter,Ofir Nakar,"Sun, 27 Jul 2025 16:45:38 +0000",draft,4.0,Vigneronne 2024 - Draft Version,Brasserie Cantillon,Lambic - Fruit
+lauter,Ofir Nakar,"Sun, 27 Jul 2025 16:45:02 +0000",draft,4.5,Nath 2024 - Draft Version,Brasserie Cantillon,Lambic - Other
+lauter,Ofir Nakar,"Sun, 27 Jul 2025 16:43:47 +0000",draft,4.0,Sang Bleu 2024 - Draft Version,Brasserie Cantillon,Lambic - Fruit
+lauter,David Siegel,"Sun, 27 Jul 2025 16:43:13 +0000",draft,,Rosé De Gambrinus  2025 - Draft Version,Brasserie Cantillon,Lambic - Framboise
+lauter,Danielle Yona,"Sun, 27 Jul 2025 16:39:43 +0000",,,Fou' Foune 2023 - Draft Version,Brasserie Cantillon,Lambic - Fruit
+lauter,Danielle Yona,"Sun, 27 Jul 2025 16:39:14 +0000",draft,,Saint Lamvinus 2024 - Draft Version,Brasserie Cantillon,Lambic - Fruit
+lauter,Danielle Yona,"Sun, 27 Jul 2025 16:38:42 +0000",draft,,Vigneronne 2024 - Draft Version,Brasserie Cantillon,Lambic - Fruit
+lauter,Danielle Yona,"Sun, 27 Jul 2025 16:38:29 +0000",,,Nath 2024 - Draft Version,Brasserie Cantillon,Lambic - Other
+lauter,Danielle Yona,"Sun, 27 Jul 2025 16:38:04 +0000",draft,,Sang Bleu 2024 - Draft Version,Brasserie Cantillon,Lambic - Fruit
+lauter,Ofir Nakar,"Sun, 27 Jul 2025 16:25:46 +0000",draft,4.5,Rosé De Gambrinus  2025 - Draft Version,Brasserie Cantillon,Lambic - Framboise
+lauter,Ofir Nakar,"Sun, 27 Jul 2025 16:24:48 +0000",draft,4.5,Kriek 2025 - Draft Version,Brasserie Cantillon,Lambic - Kriek
+lauter,Ofir Nakar,"Sun, 27 Jul 2025 16:23:14 +0000",draft,4.0,Cuvée Saint-Gilloise 2023 - Draft Version,Brasserie Cantillon,Lambic - Traditional
+lauter,Ofir Nakar,"Sun, 27 Jul 2025 16:22:32 +0000",draft,3.5,Grand Cru Bruocsella - Draft Version (2021-2022),Brasserie Cantillon,Lambic - Traditional
+lauter,Ofir Nakar,"Sun, 27 Jul 2025 16:18:48 +0000",draft,4.5,Gueuze 2024 - Draft Version,Brasserie Cantillon,Lambic - Gueuze
+lauter,Alex Sindalovsky,"Sun, 27 Jul 2025 16:01:17 +0000",draft,2.1,Sang Bleu 2024 - Draft Version,Brasserie Cantillon,Lambic - Fruit
+lauter,Alex Sindalovsky,"Sun, 27 Jul 2025 15:59:48 +0000",draft,2.7,Cuvée Saint-Gilloise 2023 - Draft Version,Brasserie Cantillon,Lambic - Traditional
+lauter,Leon,"Sun, 27 Jul 2025 15:58:39 +0000",draft,4.25,Rosé De Gambrinus  2025 - Draft Version,Brasserie Cantillon,Lambic - Framboise
+schnitt-brewing-company,Adam Berelowitz,"Sun, 27 Jul 2025 15:56:48 +0000",draft,3.8,Kimat Gornisht,Schnitt Brewing Company﻿,Non-Alcoholic - Lager
+lauter,Leon,"Sun, 27 Jul 2025 15:54:28 +0000",draft,4.25,Kriek 2025 - Draft Version,Brasserie Cantillon,Lambic - Kriek
+lauter,Aviad Attia,"Sun, 27 Jul 2025 15:52:15 +0000",draft,,Rosé De Gambrinus  2025 - Draft Version,Brasserie Cantillon,Lambic - Framboise
+lauter,Aviad Attia,"Sun, 27 Jul 2025 15:52:04 +0000",draft,5.0,Kriek 2025 - Draft Version,Brasserie Cantillon,Lambic - Kriek
+lauter,Aviad Attia,"Sun, 27 Jul 2025 15:51:55 +0000",,,Cuvée Saint-Gilloise 2023 - Draft Version,Brasserie Cantillon,Lambic - Traditional
+lauter,Aviad Attia,"Sun, 27 Jul 2025 15:51:43 +0000",draft,,Grand Cru Bruocsella - Draft Version (2021-2022),Brasserie Cantillon,Lambic - Traditional
+lauter,Aviad Attia,"Sun, 27 Jul 2025 15:51:22 +0000",draft,,Gueuze 2024 - Draft Version,Brasserie Cantillon,Lambic - Gueuze
+lauter,Leon,"Sun, 27 Jul 2025 15:50:56 +0000",draft,3.75,Cuvée Saint-Gilloise 2023 - Draft Version,Brasserie Cantillon,Lambic - Traditional
+lauter,Boris,"Sun, 27 Jul 2025 15:50:36 +0000",draft,3.75,Rosé De Gambrinus  2025 - Draft Version,Brasserie Cantillon,Lambic - Framboise
+lauter,Boris,"Sun, 27 Jul 2025 15:49:36 +0000",draft,3.5,Kriek 2025 - Draft Version,Brasserie Cantillon,Lambic - Kriek
+lauter,Boris,"Sun, 27 Jul 2025 15:48:25 +0000",draft,3.25,Cuvée Saint-Gilloise 2023 - Draft Version,Brasserie Cantillon,Lambic - Traditional
+lauter,Danielle Yona,"Sun, 27 Jul 2025 15:42:16 +0000",draft,,Rosé De Gambrinus  2025 - Draft Version,Brasserie Cantillon,Lambic - Framboise
+lauter,Danielle Yona,"Sun, 27 Jul 2025 15:42:00 +0000",draft,,Kriek 2025 - Draft Version,Brasserie Cantillon,Lambic - Kriek
+lauter,Danielle Yona,"Sun, 27 Jul 2025 15:41:45 +0000",draft,,Cuvée Saint-Gilloise 2023 - Draft Version,Brasserie Cantillon,Lambic - Traditional
+lauter,Danielle Yona,"Sun, 27 Jul 2025 15:41:30 +0000",,,Grand Cru Bruocsella - Draft Version (2021-2022),Brasserie Cantillon,Lambic - Traditional
+lauter,Danielle Yona,"Sun, 27 Jul 2025 15:40:56 +0000",draft,,Gueuze 2024 - Draft Version,Brasserie Cantillon,Lambic - Gueuze
+lauter,Leon,"Sun, 27 Jul 2025 15:37:20 +0000",draft,4.0,Grand Cru Bruocsella - Draft Version (2021-2022),Brasserie Cantillon,Lambic - Traditional
+lauter,Leon,"Sun, 27 Jul 2025 15:33:27 +0000",draft,4.25,Gueuze 2024 - Draft Version,Brasserie Cantillon,Lambic - Gueuze
+lauter,Leon,"Sun, 27 Jul 2025 15:29:33 +0000",draft,4.5,Fou' Foune 2023 - Draft Version,Brasserie Cantillon,Lambic - Fruit
+lauter,Boris,"Sun, 27 Jul 2025 15:28:04 +0000",draft,3.0,Grand Cru Bruocsella - Draft Version (2021-2022),Brasserie Cantillon,Lambic - Traditional
+lauter,Boris,"Sun, 27 Jul 2025 15:27:44 +0000",draft,3.75,Gueuze 2024 - Draft Version,Brasserie Cantillon,Lambic - Gueuze
+lauter,Boris,"Sun, 27 Jul 2025 15:19:48 +0000",draft,4.25,Fou' Foune 2023 - Draft Version,Brasserie Cantillon,Lambic - Fruit
+lauter,Leon,"Sun, 27 Jul 2025 15:14:00 +0000",draft,4.5,Saint Lamvinus 2024 - Draft Version,Brasserie Cantillon,Lambic - Fruit
+lauter,Gal Sorogon,"Sun, 27 Jul 2025 15:10:32 +0000",,4.0,Saint Lamvinus 2024 - Draft Version,Brasserie Cantillon,Lambic - Fruit
+lauter,Leon,"Sun, 27 Jul 2025 15:08:04 +0000",draft,4.5,Vigneronne 2024 - Draft Version,Brasserie Cantillon,Lambic - Fruit
+lauter,Leon,"Sun, 27 Jul 2025 15:05:11 +0000",draft,4.25,Nath 2024 - Draft Version,Brasserie Cantillon,Lambic - Other
+lauter,Gal Sorogon,"Sun, 27 Jul 2025 15:04:51 +0000",draft,4.5,Fou' Foune 2023 - Draft Version,Brasserie Cantillon,Lambic - Fruit
+lauter,Leon,"Sun, 27 Jul 2025 15:02:28 +0000",draft,4.5,Sang Bleu 2024 - Draft Version,Brasserie Cantillon,Lambic - Fruit
+lauter,Boris,"Sun, 27 Jul 2025 15:01:38 +0000",draft,4.25,Sang Bleu 2024 - Draft Version,Brasserie Cantillon,Lambic - Fruit
+lauter,Boris,"Sun, 27 Jul 2025 15:00:04 +0000",draft,4.0,Nath 2024 - Draft Version,Brasserie Cantillon,Lambic - Other
+lauter,Boris,"Sun, 27 Jul 2025 14:58:39 +0000",draft,4.0,Saint Lamvinus 2024 - Draft Version,Brasserie Cantillon,Lambic - Fruit
+lauter,Boris,"Sun, 27 Jul 2025 14:57:15 +0000",draft,4.25,Vigneronne 2024 - Draft Version,Brasserie Cantillon,Lambic - Fruit
+lauter,Gal Sorogon,"Sun, 27 Jul 2025 14:51:13 +0000",draft,4.5,Rosé De Gambrinus  2025 - Draft Version,Brasserie Cantillon,Lambic - Framboise
+lauter,Gal Sorogon,"Sun, 27 Jul 2025 14:44:22 +0000",draft,4.25,Vigneronne 2024 - Draft Version,Brasserie Cantillon,Lambic - Fruit
+lauter,Miki Zaidel,"Sun, 27 Jul 2025 14:24:02 +0000",draft,4.5,Fou' Foune 2023 - Draft Version,Brasserie Cantillon,Lambic - Fruit
+schnitt-brewing-company,Leon,"Sun, 27 Jul 2025 14:22:37 +0000",draft,3.75,Twist & Stout,Schnitt Brewing Company﻿,Stout - Irish Dry
+lauter,Miki Zaidel,"Sun, 27 Jul 2025 13:45:02 +0000",draft,4.25,Nath 2024 - Draft Version,Brasserie Cantillon,Lambic - Other
+lauter,Miki Zaidel,"Sun, 27 Jul 2025 13:44:19 +0000",draft,4.25,Rosé De Gambrinus  2025 - Draft Version,Brasserie Cantillon,Lambic - Framboise
+lauter,Miki Zaidel,"Sun, 27 Jul 2025 13:24:08 +0000",draft,4.25,Accept All Cookies,Schnitt Brewing Company﻿,Pale Ale - Other
+lauter,Ido Sela,"Sun, 27 Jul 2025 13:17:37 +0000",draft,5.0,Fou' Foune 2023 - Draft Version,Brasserie Cantillon,Lambic - Fruit
+lauter,Ido Sela,"Sun, 27 Jul 2025 13:17:01 +0000",draft,4.1,Saint Lamvinus 2024 - Draft Version,Brasserie Cantillon,Lambic - Fruit
+lauter,Ido Sela,"Sun, 27 Jul 2025 13:04:35 +0000",draft,4.3,Vigneronne 2024 - Draft Version,Brasserie Cantillon,Lambic - Fruit
+schnitt-brewing-company,Miki Zaidel,"Sun, 27 Jul 2025 12:51:44 +0000",draft,3.75,"Shut Up And Drink Me! (שת""פ)",Schnitt Brewing Company﻿,Historical Beer - Lichtenhainer
+lauter,Ido Sela,"Sun, 27 Jul 2025 12:48:33 +0000",draft,4.6,Nath 2024 - Draft Version,Brasserie Cantillon,Lambic - Other
+lauter,Ido Sela,"Sun, 27 Jul 2025 12:41:43 +0000",draft,4.5,Sang Bleu 2024 - Draft Version,Brasserie Cantillon,Lambic - Fruit
+lauter,Ido Sela,"Sun, 27 Jul 2025 12:40:31 +0000",draft,4.6,Rosé De Gambrinus  2025 - Draft Version,Brasserie Cantillon,Lambic - Framboise
+lauter,Ido Sela,"Sun, 27 Jul 2025 12:39:16 +0000",draft,4.5,Kriek 2025 - Draft Version,Brasserie Cantillon,Lambic - Kriek
+lauter,Ido Sela,"Sun, 27 Jul 2025 12:37:30 +0000",draft,4.1,Cuvée Saint-Gilloise 2023 - Draft Version,Brasserie Cantillon,Lambic - Traditional
+lauter,Ido Sela,"Sun, 27 Jul 2025 12:35:13 +0000",,4.2,Gueuze 2024 - Draft Version,Brasserie Cantillon,Lambic - Gueuze
+lauter,Ido Sela,"Sun, 27 Jul 2025 12:34:11 +0000",,4.0,Grand Cru Bruocsella - Draft Version (2021-2022),Brasserie Cantillon,Lambic - Traditional
+schnitt-brewing-company,Miki Zaidel,"Sun, 27 Jul 2025 12:33:05 +0000",draft,4.0,Kimat Gornisht,Schnitt Brewing Company﻿,Non-Alcoholic - Lager
 lauter,Dr Solo,"Sat, 26 Jul 2025 21:13:59 +0000",draft,5.0,Fou' Foune 2023 - Draft Version,Brasserie Cantillon,Lambic - Fruit
 lauter,Dr Solo,"Sat, 26 Jul 2025 21:11:07 +0000",draft,4.8,Vigneronne 2024 - Draft Version,Brasserie Cantillon,Lambic - Fruit
 lauter,Dr Solo,"Sat, 26 Jul 2025 21:09:14 +0000",draft,4.2,Saint Lamvinus 2024 - Draft Version,Brasserie Cantillon,Lambic - Fruit

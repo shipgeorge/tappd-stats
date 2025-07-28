@@ -1,8 +1,863 @@
 // 🍺 BEER STATS DATA - Generated automatically
-// Last updated: 2025-07-27 06:58:38
-// Total records: 2332
+// Last updated: 2025-07-28 07:03:25
+// Total records: 2427
 
 const BEER_DATA = [
+  {
+    "venue": "lauter",
+    "time": "2025-07-27T19:45:12+00:00",
+    "serving": "can",
+    "rating": 3.7,
+    "beer_name": "הייזי שמייזי",
+    "brewery": "Herzl (הרצל)",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-07-27T19:34:58+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "Fou' Foune 2023 - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-07-27T19:32:52+00:00",
+    "serving": "draft",
+    "rating": 4.75,
+    "beer_name": "Fou' Foune 2023 - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-07-27T19:32:34+00:00",
+    "serving": "draft",
+    "rating": 5.0,
+    "beer_name": "Vigneronne 2024 - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-07-27T19:32:00+00:00",
+    "serving": "draft",
+    "rating": 4.75,
+    "beer_name": "Rosé De Gambrinus  2025 - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": "Lambic - Framboise"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-07-27T19:00:10+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "Cuvée Saint-Gilloise 2023 - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": "Lambic - Traditional"
+  },
+  {
+    "venue": "beerbazaar-brewery",
+    "time": "2025-07-27T18:45:47+00:00",
+    "serving": "draft",
+    "rating": 3.0,
+    "beer_name": "Ziggy (זיגי)",
+    "brewery": "BeerBazaar / Mivshelet Ha’Aretz",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-07-27T18:36:18+00:00",
+    "serving": "draft",
+    "rating": 4.5,
+    "beer_name": "Nath 2024 - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": "Lambic - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-07-27T18:33:06+00:00",
+    "serving": "Unknown",
+    "rating": 4.25,
+    "beer_name": "Saint Lamvinus 2024 - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "beerbazaar-brewery",
+    "time": "2025-07-27T18:16:44+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "Ziggy (זיגי)",
+    "brewery": "BeerBazaar / Mivshelet Ha’Aretz",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "beerbazaar-brewery",
+    "time": "2025-07-27T18:14:54+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Ziggy (זיגי)",
+    "brewery": "BeerBazaar / Mivshelet Ha’Aretz",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-07-27T18:07:35+00:00",
+    "serving": "draft",
+    "rating": 4.5,
+    "beer_name": "Saint Lamvinus 2024 - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-07-27T18:06:52+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "Twist & Stout",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Stout - Irish Dry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-07-27T18:04:26+00:00",
+    "serving": "Unknown",
+    "rating": 4.25,
+    "beer_name": "Saint Lamvinus 2024 - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-07-27T18:03:31+00:00",
+    "serving": "Unknown",
+    "rating": 4.25,
+    "beer_name": "Vigneronne 2024 - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-07-27T18:02:10+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Citra Achra סיטרה אחרא",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-07-27T18:01:32+00:00",
+    "serving": "draft",
+    "rating": 4.6,
+    "beer_name": "Kriek 2025 - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": "Lambic - Kriek"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-07-27T18:00:57+00:00",
+    "serving": "draft",
+    "rating": 4.6,
+    "beer_name": "Cuvée Saint-Gilloise 2023 - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": "Lambic - Traditional"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-07-27T18:00:30+00:00",
+    "serving": "draft",
+    "rating": 4.6,
+    "beer_name": "Nath 2024 - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": "Lambic - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-07-27T17:40:15+00:00",
+    "serving": "draft",
+    "rating": 4.5,
+    "beer_name": "Kriek 2025 - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": "Lambic - Kriek"
+  },
+  {
+    "venue": "beerbazaar-brewery",
+    "time": "2025-07-27T17:39:53+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Ziggy (זיגי)",
+    "brewery": "BeerBazaar / Mivshelet Ha’Aretz",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-07-27T17:11:26+00:00",
+    "serving": "draft",
+    "rating": 4.5,
+    "beer_name": "Gueuze 2024 - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": "Lambic - Gueuze"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-07-27T17:09:41+00:00",
+    "serving": "draft",
+    "rating": 4.6,
+    "beer_name": "Rosé De Gambrinus  2025 - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": "Lambic - Framboise"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-07-27T17:00:14+00:00",
+    "serving": "draft",
+    "rating": 4.5,
+    "beer_name": "Fou' Foune 2023 - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "beerline",
+    "time": "2025-07-27T16:50:55+00:00",
+    "serving": "draft",
+    "rating": 4.5,
+    "beer_name": "Delirium Black Barrel Aged",
+    "brewery": "Delirium - Huyghe Brewery",
+    "beer_type": "Belgian Strong Dark Ale"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-07-27T16:48:05+00:00",
+    "serving": "draft",
+    "rating": 5.0,
+    "beer_name": "Fou' Foune 2023 - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-07-27T16:47:25+00:00",
+    "serving": "draft",
+    "rating": 4.5,
+    "beer_name": "Saint Lamvinus 2024 - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-07-27T16:45:38+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Vigneronne 2024 - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-07-27T16:45:02+00:00",
+    "serving": "draft",
+    "rating": 4.5,
+    "beer_name": "Nath 2024 - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": "Lambic - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-07-27T16:43:47+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Sang Bleu 2024 - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-07-27T16:43:13+00:00",
+    "serving": "draft",
+    "rating": null,
+    "beer_name": "Rosé De Gambrinus  2025 - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": "Lambic - Framboise"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-07-27T16:39:43+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Fou' Foune 2023 - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-07-27T16:39:14+00:00",
+    "serving": "draft",
+    "rating": null,
+    "beer_name": "Saint Lamvinus 2024 - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-07-27T16:38:42+00:00",
+    "serving": "draft",
+    "rating": null,
+    "beer_name": "Vigneronne 2024 - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-07-27T16:38:29+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Nath 2024 - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": "Lambic - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-07-27T16:38:04+00:00",
+    "serving": "draft",
+    "rating": null,
+    "beer_name": "Sang Bleu 2024 - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-07-27T16:25:46+00:00",
+    "serving": "draft",
+    "rating": 4.5,
+    "beer_name": "Rosé De Gambrinus  2025 - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": "Lambic - Framboise"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-07-27T16:24:48+00:00",
+    "serving": "draft",
+    "rating": 4.5,
+    "beer_name": "Kriek 2025 - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": "Lambic - Kriek"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-07-27T16:23:14+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Cuvée Saint-Gilloise 2023 - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": "Lambic - Traditional"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-07-27T16:22:32+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Grand Cru Bruocsella - Draft Version (2021-2022)",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": "Lambic - Traditional"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-07-27T16:18:48+00:00",
+    "serving": "draft",
+    "rating": 4.5,
+    "beer_name": "Gueuze 2024 - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": "Lambic - Gueuze"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-07-27T16:01:17+00:00",
+    "serving": "draft",
+    "rating": 2.1,
+    "beer_name": "Sang Bleu 2024 - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-07-27T15:59:48+00:00",
+    "serving": "draft",
+    "rating": 2.7,
+    "beer_name": "Cuvée Saint-Gilloise 2023 - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": "Lambic - Traditional"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-07-27T15:58:39+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "Rosé De Gambrinus  2025 - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": "Lambic - Framboise"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-07-27T15:56:48+00:00",
+    "serving": "draft",
+    "rating": 3.8,
+    "beer_name": "Kimat Gornisht",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Non-Alcoholic - Lager"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-07-27T15:54:28+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "Kriek 2025 - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": "Lambic - Kriek"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-07-27T15:52:15+00:00",
+    "serving": "draft",
+    "rating": null,
+    "beer_name": "Rosé De Gambrinus  2025 - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": "Lambic - Framboise"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-07-27T15:52:04+00:00",
+    "serving": "draft",
+    "rating": 5.0,
+    "beer_name": "Kriek 2025 - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": "Lambic - Kriek"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-07-27T15:51:55+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Cuvée Saint-Gilloise 2023 - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": "Lambic - Traditional"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-07-27T15:51:43+00:00",
+    "serving": "draft",
+    "rating": null,
+    "beer_name": "Grand Cru Bruocsella - Draft Version (2021-2022)",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": "Lambic - Traditional"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-07-27T15:51:22+00:00",
+    "serving": "draft",
+    "rating": null,
+    "beer_name": "Gueuze 2024 - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": "Lambic - Gueuze"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-07-27T15:50:56+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Cuvée Saint-Gilloise 2023 - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": "Lambic - Traditional"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-07-27T15:50:36+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Rosé De Gambrinus  2025 - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": "Lambic - Framboise"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-07-27T15:49:36+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Kriek 2025 - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": "Lambic - Kriek"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-07-27T15:48:25+00:00",
+    "serving": "draft",
+    "rating": 3.25,
+    "beer_name": "Cuvée Saint-Gilloise 2023 - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": "Lambic - Traditional"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-07-27T15:42:16+00:00",
+    "serving": "draft",
+    "rating": null,
+    "beer_name": "Rosé De Gambrinus  2025 - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": "Lambic - Framboise"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-07-27T15:42:00+00:00",
+    "serving": "draft",
+    "rating": null,
+    "beer_name": "Kriek 2025 - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": "Lambic - Kriek"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-07-27T15:41:45+00:00",
+    "serving": "draft",
+    "rating": null,
+    "beer_name": "Cuvée Saint-Gilloise 2023 - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": "Lambic - Traditional"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-07-27T15:41:30+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Grand Cru Bruocsella - Draft Version (2021-2022)",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": "Lambic - Traditional"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-07-27T15:40:56+00:00",
+    "serving": "draft",
+    "rating": null,
+    "beer_name": "Gueuze 2024 - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": "Lambic - Gueuze"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-07-27T15:37:20+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Grand Cru Bruocsella - Draft Version (2021-2022)",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": "Lambic - Traditional"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-07-27T15:33:27+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "Gueuze 2024 - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": "Lambic - Gueuze"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-07-27T15:29:33+00:00",
+    "serving": "draft",
+    "rating": 4.5,
+    "beer_name": "Fou' Foune 2023 - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-07-27T15:28:04+00:00",
+    "serving": "draft",
+    "rating": 3.0,
+    "beer_name": "Grand Cru Bruocsella - Draft Version (2021-2022)",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": "Lambic - Traditional"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-07-27T15:27:44+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Gueuze 2024 - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": "Lambic - Gueuze"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-07-27T15:19:48+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "Fou' Foune 2023 - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-07-27T15:14:00+00:00",
+    "serving": "draft",
+    "rating": 4.5,
+    "beer_name": "Saint Lamvinus 2024 - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-07-27T15:10:32+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Saint Lamvinus 2024 - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-07-27T15:08:04+00:00",
+    "serving": "draft",
+    "rating": 4.5,
+    "beer_name": "Vigneronne 2024 - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-07-27T15:05:11+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "Nath 2024 - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": "Lambic - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-07-27T15:04:51+00:00",
+    "serving": "draft",
+    "rating": 4.5,
+    "beer_name": "Fou' Foune 2023 - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-07-27T15:02:28+00:00",
+    "serving": "draft",
+    "rating": 4.5,
+    "beer_name": "Sang Bleu 2024 - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-07-27T15:01:38+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "Sang Bleu 2024 - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-07-27T15:00:04+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Nath 2024 - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": "Lambic - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-07-27T14:58:39+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Saint Lamvinus 2024 - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-07-27T14:57:15+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "Vigneronne 2024 - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-07-27T14:51:13+00:00",
+    "serving": "draft",
+    "rating": 4.5,
+    "beer_name": "Rosé De Gambrinus  2025 - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": "Lambic - Framboise"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-07-27T14:44:22+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "Vigneronne 2024 - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-07-27T14:24:02+00:00",
+    "serving": "draft",
+    "rating": 4.5,
+    "beer_name": "Fou' Foune 2023 - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-07-27T14:22:37+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Twist & Stout",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Stout - Irish Dry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-07-27T13:45:02+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "Nath 2024 - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": "Lambic - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-07-27T13:44:19+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "Rosé De Gambrinus  2025 - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": "Lambic - Framboise"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-07-27T13:24:08+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "Accept All Cookies",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pale Ale - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-07-27T13:17:37+00:00",
+    "serving": "draft",
+    "rating": 5.0,
+    "beer_name": "Fou' Foune 2023 - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-07-27T13:17:01+00:00",
+    "serving": "draft",
+    "rating": 4.1,
+    "beer_name": "Saint Lamvinus 2024 - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-07-27T13:04:35+00:00",
+    "serving": "draft",
+    "rating": 4.3,
+    "beer_name": "Vigneronne 2024 - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-07-27T12:51:44+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Shut Up And Drink Me! (שת\"פ)",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Historical Beer - Lichtenhainer"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-07-27T12:48:33+00:00",
+    "serving": "draft",
+    "rating": 4.6,
+    "beer_name": "Nath 2024 - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": "Lambic - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-07-27T12:41:43+00:00",
+    "serving": "draft",
+    "rating": 4.5,
+    "beer_name": "Sang Bleu 2024 - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-07-27T12:40:31+00:00",
+    "serving": "draft",
+    "rating": 4.6,
+    "beer_name": "Rosé De Gambrinus  2025 - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": "Lambic - Framboise"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-07-27T12:39:16+00:00",
+    "serving": "draft",
+    "rating": 4.5,
+    "beer_name": "Kriek 2025 - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": "Lambic - Kriek"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-07-27T12:37:30+00:00",
+    "serving": "draft",
+    "rating": 4.1,
+    "beer_name": "Cuvée Saint-Gilloise 2023 - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": "Lambic - Traditional"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-07-27T12:35:13+00:00",
+    "serving": "Unknown",
+    "rating": 4.2,
+    "beer_name": "Gueuze 2024 - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": "Lambic - Gueuze"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-07-27T12:34:11+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Grand Cru Bruocsella - Draft Version (2021-2022)",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": "Lambic - Traditional"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-07-27T12:33:05+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Kimat Gornisht",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Non-Alcoholic - Lager"
+  },
   {
     "venue": "lauter",
     "time": "2025-07-26T21:13:59+00:00",
