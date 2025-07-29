@@ -1,4 +1,38 @@
 venue,user,time,serving,data_rating,beer_name,brewery,beer_type
+lauter,David Siegel,"Mon, 28 Jul 2025 19:51:16 +0000",can,4.5,What Was Was Was Was,Schnitt Brewing Company﻿,IPA - Other
+lauter,Shmupi Koto,"Mon, 28 Jul 2025 19:40:16 +0000",draft,4.6,Cuvée Saint-Gilloise 2023 - Draft Version,Brasserie Cantillon,Lambic - Traditional
+lauter,Shmupi Koto,"Mon, 28 Jul 2025 19:39:36 +0000",draft,4.6,Nath 2024 - Draft Version,Brasserie Cantillon,Lambic - Other
+lauter,Shmupi Koto,"Mon, 28 Jul 2025 19:35:21 +0000",draft,4.6,Kriek 2025 - Draft Version,Brasserie Cantillon,Lambic - Kriek
+lauter,David Siegel,"Mon, 28 Jul 2025 19:14:51 +0000",draft,4.5,Vigneronne 2024 - Draft Version,Brasserie Cantillon,Lambic - Fruit
+lauter,Shmupi Koto,"Mon, 28 Jul 2025 19:12:20 +0000",draft,4.6,Saint Lamvinus 2024 - Draft Version,Brasserie Cantillon,Lambic - Fruit
+lauter,Shmupi Koto,"Mon, 28 Jul 2025 19:10:13 +0000",draft,4.5,Vigneronne 2024 - Draft Version,Brasserie Cantillon,Lambic - Fruit
+lauter,Shmupi Koto,"Mon, 28 Jul 2025 19:09:51 +0000",draft,4.6,Rosé De Gambrinus  2025 - Draft Version,Brasserie Cantillon,Lambic - Framboise
+lauter,Shmupi Koto,"Mon, 28 Jul 2025 18:57:53 +0000",draft,4.5,Gueuze 2024 - Draft Version,Brasserie Cantillon,Lambic - Gueuze
+lauter,David Siegel,"Mon, 28 Jul 2025 17:59:57 +0000",draft,4.25,Nath 2024 - Draft Version,Brasserie Cantillon,Lambic - Other
+schnitt-brewing-company,Diego Breitel,"Mon, 28 Jul 2025 17:49:46 +0000",draft,3.5,Nectaron Dry Hop Pseudo Sue,Toppling Goliath Brewing Co.,Pale Ale - American
+lauter,moria koren,"Mon, 28 Jul 2025 17:21:30 +0000",draft,4.0,Rosé De Gambrinus  2025 - Draft Version,Brasserie Cantillon,Lambic - Framboise
+schnitt-brewing-company,David Siegel,"Mon, 28 Jul 2025 17:11:29 +0000",draft,4.0,Twist & Stout,Schnitt Brewing Company﻿,Stout - Irish Dry
+schnitt-brewing-company,Diego Breitel,"Mon, 28 Jul 2025 17:10:51 +0000",draft,4.25,New School,Schnitt Brewing Company﻿,IPA - Other
+lauter,Michael Bunin,"Mon, 28 Jul 2025 17:08:19 +0000",draft,4.0,Session Intergalactica,Schnitt Brewing Company﻿,IPA - New England / Hazy
+lauter,Michael Heiser,"Mon, 28 Jul 2025 16:56:55 +0000",draft,4.25,Saint Lamvinus 2024 - Draft Version,Brasserie Cantillon,Lambic - Fruit
+schnitt-brewing-company,Dan Lidayi,"Mon, 28 Jul 2025 16:52:45 +0000",draft,4.0,נקטרון האלים,Schnitt Brewing Company﻿,IPA - New England / Hazy
+lauter,Snir Shalom,"Mon, 28 Jul 2025 16:38:37 +0000",draft,4.0,Vigneronne 2024 - Draft Version,Brasserie Cantillon,Lambic - Fruit
+lauter,Snir Shalom,"Mon, 28 Jul 2025 16:27:55 +0000",draft,4.5,Fou' Foune 2023 - Draft Version,Brasserie Cantillon,Lambic - Fruit
+porter-and-sons,Yana O,"Mon, 28 Jul 2025 15:49:48 +0000",draft,3.9,Prior 8,Brouwerij St.Bernardus,Belgian Dubbel
+porter-and-sons,Ⓜ️axx Dee,"Mon, 28 Jul 2025 15:47:06 +0000",draft,3.75,Aecht Schlenkerla Rauchbier – Märzen,"Schlenkerla (""Heller-Bräu"" Trum)",Rauchbier
+porter-and-sons,Yana O,"Mon, 28 Jul 2025 15:46:19 +0000",draft,4.2,Aecht Schlenkerla Rauchbier – Märzen,"Schlenkerla (""Heller-Bräu"" Trum)",Rauchbier
+porter-and-sons,Ⓜ️axx Dee,"Mon, 28 Jul 2025 15:45:43 +0000",draft,3.75,Prior 8,Brouwerij St.Bernardus,Belgian Dubbel
+lauter,Ⓜ️axx Dee,"Mon, 28 Jul 2025 15:23:22 +0000",,3.5,Budweiser Budvar B:DARK / Czechvar B:DARK,Budějovický Budvar,Lager - Tmavé (Czech Dark)
+lauter,Yana O,"Mon, 28 Jul 2025 15:09:52 +0000",,3.5,Budweiser Budvar B:DARK / Czechvar B:DARK,Budějovický Budvar,Lager - Tmavé (Czech Dark)
+schnitt-brewing-company,Nadav Kaddar,"Mon, 28 Jul 2025 12:42:52 +0000",draft,4.0,Twist & Stout,Schnitt Brewing Company﻿,Stout - Irish Dry
+beerbazaar-brewery,Kobi,"Mon, 28 Jul 2025 12:14:00 +0000",,,Ziggy (זיגי),BeerBazaar / Mivshelet Ha’Aretz,IPA - New England / Hazy
+schnitt-brewing-company,Alex Sindalovsky,"Mon, 28 Jul 2025 12:04:03 +0000",draft,2.7,Twist & Stout,Schnitt Brewing Company﻿,Stout - Irish Dry
+lauter,Aviad Attia,"Mon, 28 Jul 2025 10:15:45 +0000",draft,5.0,Fou' Foune 2023 - Draft Version,Brasserie Cantillon,Lambic - Fruit
+lauter,Aviad Attia,"Mon, 28 Jul 2025 10:15:32 +0000",draft,,Saint Lamvinus 2024 - Draft Version,Brasserie Cantillon,Lambic - Fruit
+lauter,Aviad Attia,"Mon, 28 Jul 2025 10:15:20 +0000",,,Vigneronne 2024 - Draft Version,Brasserie Cantillon,Lambic - Fruit
+lauter,Aviad Attia,"Mon, 28 Jul 2025 10:15:08 +0000",draft,,Nath 2024 - Draft Version,Brasserie Cantillon,Lambic - Other
+lauter,Aviad Attia,"Mon, 28 Jul 2025 10:14:59 +0000",draft,,Sang Bleu 2024 - Draft Version,Brasserie Cantillon,Lambic - Fruit
+lauter,nitzan_shitrit_8989,"Mon, 28 Jul 2025 09:56:31 +0000",can,4.5,Forest,Nepo Brewing,IPA - American
 lauter,Shmupi Koto,"Sun, 27 Jul 2025 19:45:12 +0000",can,3.7,הייזי שמייזי,Herzl (הרצל),IPA - New England / Hazy
 lauter,Eran Keller,"Sun, 27 Jul 2025 19:34:58 +0000",draft,4.25,Fou' Foune 2023 - Draft Version,Brasserie Cantillon,Lambic - Fruit
 lauter,barak luzon,"Sun, 27 Jul 2025 19:32:52 +0000",draft,4.75,Fou' Foune 2023 - Draft Version,Brasserie Cantillon,Lambic - Fruit
@@ -213,8 +247,8 @@ lauter,Shmupi Koto,"Sat, 26 Jul 2025 15:40:24 +0000",can,3.7,Smoothie Bowl - Pea
 lauter,David Siegel,"Sat, 26 Jul 2025 15:38:40 +0000",,4.25,Smoothie Bowl - Peachy Dragon,Nepo Brewing,Sour - Smoothie / Pastry
 lauter,Adam Berelowitz,"Sat, 26 Jul 2025 15:35:23 +0000",can,4.3,Smoothie Bowl - Peachy Dragon,Nepo Brewing,Sour - Smoothie / Pastry
 schnitt-brewing-company,Omri Gill,"Sat, 26 Jul 2025 15:33:39 +0000",draft,3.75,Mexico City Twist,Schnitt Brewing Company﻿,Lager - Mexican
-lauter,David Siegel,"Sat, 26 Jul 2025 15:22:08 +0000",,4.0,Pijże,Nepo Brewing,Pale Ale - New England / Hazy
 lauter,Adam Berelowitz,"Sat, 26 Jul 2025 15:22:08 +0000",can,4.2,Smoothie Bowl: Pistachio Fluff,Nepo Brewing,Sour - Smoothie / Pastry
+lauter,David Siegel,"Sat, 26 Jul 2025 15:22:08 +0000",,4.0,Pijże,Nepo Brewing,Pale Ale - New England / Hazy
 lauter,Adam Berelowitz,"Sat, 26 Jul 2025 15:21:39 +0000",can,4.3,Pijże,Nepo Brewing,Pale Ale - New England / Hazy
 lauter,David Siegel,"Sat, 26 Jul 2025 15:20:22 +0000",,4.25,Smoothie Bowl: Pistachio Fluff,Nepo Brewing,Sour - Smoothie / Pastry
 lauter,Anton B,"Sat, 26 Jul 2025 15:17:20 +0000",can,,Windy Hill,Mikkeller,IPA - New England / Hazy
@@ -2090,8 +2124,8 @@ berlin-florentin,Yaron Sh,"Mon, 22 Jan 2024 18:49:44 +0000",can,4.0,"¡Buena Par
 berlin-florentin,Shmupi Koto,"Mon, 22 Jan 2024 18:49:41 +0000",can,3.8,"¡Buena Para El Papa! ¿Si, No?",Brewski,Stout - Imperial / Double Pastry
 berlin-florentin,Shmupi Koto,"Mon, 22 Jan 2024 18:49:04 +0000",can,4.0,200 Units,Brewski,Barleywine - English
 berlin-florentin,Tom Oppenheim,"Mon, 22 Jan 2024 18:48:49 +0000",can,3.5,"¡Buena Para El Papa! ¿Si, No?",Brewski,Stout - Imperial / Double Pastry
-berlin-florentin,ori shuster,"Mon, 22 Jan 2024 18:42:20 +0000",can,4.0,200 Units,Brewski,Barleywine - English
 berlin-florentin,Yaron Sh,"Mon, 22 Jan 2024 18:42:20 +0000",,,200 Units,Brewski,Barleywine - English
+berlin-florentin,ori shuster,"Mon, 22 Jan 2024 18:42:20 +0000",can,4.0,200 Units,Brewski,Barleywine - English
 berlin-florentin,Yaron Sh,"Mon, 22 Jan 2024 18:41:52 +0000",,,Strawberry Pie,Brewski,Sour - Smoothie / Pastry
 berlin-florentin,Itai Snai,"Mon, 22 Jan 2024 18:40:50 +0000",,3.5,200 Units,Brewski,Barleywine - English
 berlin-florentin,Mikhail Stolov,"Mon, 22 Jan 2024 18:38:56 +0000",,3.75,200 Units,Brewski,Barleywine - English

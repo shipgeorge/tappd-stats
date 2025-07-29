@@ -1,8 +1,314 @@
 // 🍺 BEER STATS DATA - Generated automatically
-// Last updated: 2025-07-28 07:03:25
-// Total records: 2427
+// Last updated: 2025-07-29 07:02:28
+// Total records: 2461
 
 const BEER_DATA = [
+  {
+    "venue": "lauter",
+    "time": "2025-07-28T19:51:16+00:00",
+    "serving": "can",
+    "rating": 4.5,
+    "beer_name": "What Was Was Was Was",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-07-28T19:40:16+00:00",
+    "serving": "draft",
+    "rating": 4.6,
+    "beer_name": "Cuvée Saint-Gilloise 2023 - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": "Lambic - Traditional"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-07-28T19:39:36+00:00",
+    "serving": "draft",
+    "rating": 4.6,
+    "beer_name": "Nath 2024 - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": "Lambic - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-07-28T19:35:21+00:00",
+    "serving": "draft",
+    "rating": 4.6,
+    "beer_name": "Kriek 2025 - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": "Lambic - Kriek"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-07-28T19:14:51+00:00",
+    "serving": "draft",
+    "rating": 4.5,
+    "beer_name": "Vigneronne 2024 - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-07-28T19:12:20+00:00",
+    "serving": "draft",
+    "rating": 4.6,
+    "beer_name": "Saint Lamvinus 2024 - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-07-28T19:10:13+00:00",
+    "serving": "draft",
+    "rating": 4.5,
+    "beer_name": "Vigneronne 2024 - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-07-28T19:09:51+00:00",
+    "serving": "draft",
+    "rating": 4.6,
+    "beer_name": "Rosé De Gambrinus  2025 - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": "Lambic - Framboise"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-07-28T18:57:53+00:00",
+    "serving": "draft",
+    "rating": 4.5,
+    "beer_name": "Gueuze 2024 - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": "Lambic - Gueuze"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-07-28T17:59:57+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "Nath 2024 - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": "Lambic - Other"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-07-28T17:49:46+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Nectaron Dry Hop Pseudo Sue",
+    "brewery": "Toppling Goliath Brewing Co.",
+    "beer_type": "Pale Ale - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-07-28T17:21:30+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Rosé De Gambrinus  2025 - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": "Lambic - Framboise"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-07-28T17:11:29+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Twist & Stout",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Stout - Irish Dry"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-07-28T17:10:51+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "New School",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-07-28T17:08:19+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Session Intergalactica",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-07-28T16:56:55+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "Saint Lamvinus 2024 - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-07-28T16:52:45+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "נקטרון האלים",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-07-28T16:38:37+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Vigneronne 2024 - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-07-28T16:27:55+00:00",
+    "serving": "draft",
+    "rating": 4.5,
+    "beer_name": "Fou' Foune 2023 - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "porter-and-sons",
+    "time": "2025-07-28T15:49:48+00:00",
+    "serving": "draft",
+    "rating": 3.9,
+    "beer_name": "Prior 8",
+    "brewery": "Brouwerij St.Bernardus",
+    "beer_type": "Belgian Dubbel"
+  },
+  {
+    "venue": "porter-and-sons",
+    "time": "2025-07-28T15:47:06+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Aecht Schlenkerla Rauchbier – Märzen",
+    "brewery": "Schlenkerla (\"Heller-Bräu\" Trum)",
+    "beer_type": "Rauchbier"
+  },
+  {
+    "venue": "porter-and-sons",
+    "time": "2025-07-28T15:46:19+00:00",
+    "serving": "draft",
+    "rating": 4.2,
+    "beer_name": "Aecht Schlenkerla Rauchbier – Märzen",
+    "brewery": "Schlenkerla (\"Heller-Bräu\" Trum)",
+    "beer_type": "Rauchbier"
+  },
+  {
+    "venue": "porter-and-sons",
+    "time": "2025-07-28T15:45:43+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Prior 8",
+    "brewery": "Brouwerij St.Bernardus",
+    "beer_type": "Belgian Dubbel"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-07-28T15:23:22+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "Budweiser Budvar B:DARK / Czechvar B:DARK",
+    "brewery": "Budějovický Budvar",
+    "beer_type": "Lager - Tmavé (Czech Dark)"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-07-28T15:09:52+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "Budweiser Budvar B:DARK / Czechvar B:DARK",
+    "brewery": "Budějovický Budvar",
+    "beer_type": "Lager - Tmavé (Czech Dark)"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-07-28T12:42:52+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Twist & Stout",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Stout - Irish Dry"
+  },
+  {
+    "venue": "beerbazaar-brewery",
+    "time": "2025-07-28T12:14:00+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Ziggy (זיגי)",
+    "brewery": "BeerBazaar / Mivshelet Ha’Aretz",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-07-28T12:04:03+00:00",
+    "serving": "draft",
+    "rating": 2.7,
+    "beer_name": "Twist & Stout",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Stout - Irish Dry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-07-28T10:15:45+00:00",
+    "serving": "draft",
+    "rating": 5.0,
+    "beer_name": "Fou' Foune 2023 - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-07-28T10:15:32+00:00",
+    "serving": "draft",
+    "rating": null,
+    "beer_name": "Saint Lamvinus 2024 - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-07-28T10:15:20+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Vigneronne 2024 - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-07-28T10:15:08+00:00",
+    "serving": "draft",
+    "rating": null,
+    "beer_name": "Nath 2024 - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": "Lambic - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-07-28T10:14:59+00:00",
+    "serving": "draft",
+    "rating": null,
+    "beer_name": "Sang Bleu 2024 - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-07-28T09:56:31+00:00",
+    "serving": "can",
+    "rating": 4.5,
+    "beer_name": "Forest",
+    "brewery": "Nepo Brewing",
+    "beer_type": "IPA - American"
+  },
   {
     "venue": "lauter",
     "time": "2025-07-27T19:45:12+00:00",
@@ -1932,20 +2238,20 @@ const BEER_DATA = [
   {
     "venue": "lauter",
     "time": "2025-07-26T15:22:08+00:00",
-    "serving": "Unknown",
-    "rating": 4.0,
-    "beer_name": "Pijże",
-    "brewery": "Nepo Brewing",
-    "beer_type": "Pale Ale - New England / Hazy"
-  },
-  {
-    "venue": "lauter",
-    "time": "2025-07-26T15:22:08+00:00",
     "serving": "can",
     "rating": 4.2,
     "beer_name": "Smoothie Bowl: Pistachio Fluff",
     "brewery": "Nepo Brewing",
     "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-07-26T15:22:08+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Pijże",
+    "brewery": "Nepo Brewing",
+    "beer_type": "Pale Ale - New England / Hazy"
   },
   {
     "venue": "lauter",
@@ -18825,8 +19131,8 @@ const BEER_DATA = [
   {
     "venue": "berlin-florentin",
     "time": "2024-01-22T18:42:20+00:00",
-    "serving": "can",
-    "rating": 4.0,
+    "serving": "Unknown",
+    "rating": null,
     "beer_name": "200 Units",
     "brewery": "Brewski",
     "beer_type": "Barleywine - English"
@@ -18834,8 +19140,8 @@ const BEER_DATA = [
   {
     "venue": "berlin-florentin",
     "time": "2024-01-22T18:42:20+00:00",
-    "serving": "Unknown",
-    "rating": null,
+    "serving": "can",
+    "rating": 4.0,
     "beer_name": "200 Units",
     "brewery": "Brewski",
     "beer_type": "Barleywine - English"
