@@ -1,8 +1,494 @@
 // 🍺 BEER STATS DATA - Generated automatically
-// Last updated: 2025-07-29 07:02:28
-// Total records: 2461
+// Last updated: 2025-07-30 07:04:06
+// Total records: 2515
 
 const BEER_DATA = [
+  {
+    "venue": "lauter",
+    "time": "2025-07-29T19:46:23+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Vigneronne 2024 - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-07-29T19:46:05+00:00",
+    "serving": "draft",
+    "rating": null,
+    "beer_name": "Sang Bleu 2024 - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-07-29T19:45:29+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Kriek 2025 - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": "Lambic - Kriek"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-07-29T19:45:09+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Cuvée Saint-Gilloise 2023 - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": "Lambic - Traditional"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-07-29T19:37:52+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Wavelength",
+    "brewery": "Equilibrium Brewery",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-07-29T19:33:47+00:00",
+    "serving": "draft",
+    "rating": 4.5,
+    "beer_name": "Accept All Cookies",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pale Ale - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-07-29T19:10:38+00:00",
+    "serving": "bottle",
+    "rating": 3.3,
+    "beer_name": "Bitter Man",
+    "brewery": "Beerbalach",
+    "beer_type": "Bitter - Best"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-07-29T19:09:44+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Frenemy",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pale Ale - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-07-29T19:07:08+00:00",
+    "serving": "bottle",
+    "rating": 3.0,
+    "beer_name": "Bitter Man",
+    "brewery": "Beerbalach",
+    "beer_type": "Bitter - Best"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-07-29T19:03:59+00:00",
+    "serving": "can",
+    "rating": 4.5,
+    "beer_name": "Smoothie Bowl - Peachy Dragon",
+    "brewery": "Nepo Brewing",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-07-29T18:46:16+00:00",
+    "serving": "draft",
+    "rating": 3.0,
+    "beer_name": "Lazy Bee Hibiscus And Raspberries",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Mead - Session / Short"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-07-29T18:37:48+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Kimat Gornisht",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Non-Alcoholic - Lager"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-07-29T18:36:56+00:00",
+    "serving": "draft",
+    "rating": 3.25,
+    "beer_name": "Accept All Cookies",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pale Ale - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-07-29T18:32:06+00:00",
+    "serving": "can",
+    "rating": 4.5,
+    "beer_name": "Smoothie Bowl: Pistachio Fluff",
+    "brewery": "Nepo Brewing",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-07-29T18:30:49+00:00",
+    "serving": "draft",
+    "rating": 4.5,
+    "beer_name": "Twist & Stout",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Stout - Irish Dry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-07-29T17:49:43+00:00",
+    "serving": "Unknown",
+    "rating": 5.0,
+    "beer_name": "Rosé De Gambrinus  2025 - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": "Lambic - Framboise"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-07-29T17:43:17+00:00",
+    "serving": "draft",
+    "rating": 4.5,
+    "beer_name": "Saint Lamvinus 2024 - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-07-29T17:19:30+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Smoothie Bowl - Peachy Dragon",
+    "brewery": "Nepo Brewing",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-07-29T17:19:27+00:00",
+    "serving": "can",
+    "rating": 4.5,
+    "beer_name": "Smoothie Bowl - Peachy Dragon",
+    "brewery": "Nepo Brewing",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-07-29T17:16:10+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "10th Anniversary Smoothie Bowl",
+    "brewery": "Nepo Brewing",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-07-29T17:12:28+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "Rosé De Gambrinus  2025 - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": "Lambic - Framboise"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-07-29T17:10:45+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Accept All Cookies",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pale Ale - Other"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-07-29T17:09:51+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Alt Neuland",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Altbier - Traditional"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-07-29T17:05:44+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "Dogs Allowed",
+    "brewery": "WarPigs Brewpub",
+    "beer_type": "IPA - Imperial / Double New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-07-29T17:03:06+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Dogs Allowed",
+    "brewery": "WarPigs Brewpub",
+    "beer_type": "IPA - Imperial / Double New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-07-29T17:02:50+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Cuvée Saint-Gilloise 2023 - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": "Lambic - Traditional"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-07-29T16:57:45+00:00",
+    "serving": "can",
+    "rating": 3.8,
+    "beer_name": "Smoothie Bowl: Pistachio Fluff",
+    "brewery": "Nepo Brewing",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-07-29T16:52:48+00:00",
+    "serving": "can",
+    "rating": 3.6,
+    "beer_name": "Dogs Allowed",
+    "brewery": "WarPigs Brewpub",
+    "beer_type": "IPA - Imperial / Double New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-07-29T16:42:58+00:00",
+    "serving": "can",
+    "rating": 4.5,
+    "beer_name": "Smoothie Bowl: Pistachio Fluff",
+    "brewery": "Nepo Brewing",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-07-29T16:41:23+00:00",
+    "serving": "can",
+    "rating": 4.5,
+    "beer_name": "Fire in the Hole",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": "Smoked Beer"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-07-29T16:33:44+00:00",
+    "serving": "can",
+    "rating": 5.0,
+    "beer_name": "Lollihop",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-07-29T16:33:22+00:00",
+    "serving": "can",
+    "rating": 5.0,
+    "beer_name": "Lollihop",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-07-29T16:25:47+00:00",
+    "serving": "can",
+    "rating": 5.0,
+    "beer_name": "Evolution #009",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": "Pale Ale - Other"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-07-29T16:10:49+00:00",
+    "serving": "can",
+    "rating": 5.0,
+    "beer_name": "BeerLab Hop Stop",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": "IPA - Session"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-07-29T16:09:35+00:00",
+    "serving": "draft",
+    "rating": null,
+    "beer_name": "Gueuze 100% Lambic Bio",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": "Lambic - Gueuze"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-07-29T16:09:26+00:00",
+    "serving": "can",
+    "rating": 5.0,
+    "beer_name": "BeerLab Hop Stop",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": "IPA - Session"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-07-29T16:09:04+00:00",
+    "serving": "Unknown",
+    "rating": 4.5,
+    "beer_name": "Rosé de Gambrinus",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": "Lambic - Framboise"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-07-29T16:03:09+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "FranCeco",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-07-29T16:01:37+00:00",
+    "serving": "can",
+    "rating": 5.0,
+    "beer_name": "FranCeco",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-07-29T15:47:40+00:00",
+    "serving": "can",
+    "rating": 5.0,
+    "beer_name": "Summer Barking",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": "IPA - Session"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-07-29T15:47:06+00:00",
+    "serving": "can",
+    "rating": 4.75,
+    "beer_name": "Summer Barking",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": "IPA - Session"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-07-29T15:34:57+00:00",
+    "serving": "can",
+    "rating": 5.0,
+    "beer_name": "March to the Sea",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": "Kölsch"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-07-29T15:33:47+00:00",
+    "serving": "can",
+    "rating": 4.5,
+    "beer_name": "March to the Sea",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": "Kölsch"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-07-29T15:31:31+00:00",
+    "serving": "draft",
+    "rating": 2.5,
+    "beer_name": "Barbãr",
+    "brewery": "Brasserie Lefebvre",
+    "beer_type": "Honey Beer"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-07-29T15:22:09+00:00",
+    "serving": "can",
+    "rating": 4.75,
+    "beer_name": "Patronus",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": "Lager - Světlé (Czech Pale)"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-07-29T15:21:43+00:00",
+    "serving": "can",
+    "rating": 4.5,
+    "beer_name": "Patronus",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": "Lager - Světlé (Czech Pale)"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-07-29T15:12:36+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Vigneronne 2024 - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-07-29T15:07:47+00:00",
+    "serving": "draft",
+    "rating": 4.5,
+    "beer_name": "Gueuze 2024 - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": "Lambic - Gueuze"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-07-29T14:17:47+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Pleroma Karpologi Pineapple Peach Marshmallow Créme Brulée Sour",
+    "brewery": "Omnipollo",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-07-29T14:15:32+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Session Intergalactica",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-07-29T13:35:43+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Budweiser Budvar / Czechvar Original",
+    "brewery": "Budějovický Budvar",
+    "beer_type": "Pilsner - Czech / Bohemian"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-07-29T12:29:01+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Shoreline",
+    "brewery": "Nepo Brewing",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-07-29T12:04:07+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Pink Grapefruit Halcyon",
+    "brewery": "Thornbridge Brewery",
+    "beer_type": "IPA - Imperial / Double"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-07-29T11:56:17+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "New School",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - Other"
+  },
   {
     "venue": "lauter",
     "time": "2025-07-28T19:51:16+00:00",
