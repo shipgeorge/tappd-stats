@@ -1,8 +1,287 @@
 // 🍺 BEER STATS DATA - Generated automatically
-// Last updated: 2025-07-30 07:04:06
-// Total records: 2515
+// Last updated: 2025-07-31 07:02:03
+// Total records: 2546
 
 const BEER_DATA = [
+  {
+    "venue": "lauter",
+    "time": "2025-07-30T20:04:04+00:00",
+    "serving": "draft",
+    "rating": 3.9,
+    "beer_name": "Accept All Cookies",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pale Ale - Other"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-07-30T20:03:19+00:00",
+    "serving": "bottle",
+    "rating": 3.5,
+    "beer_name": "Keha (כהה)",
+    "brewery": "Glentz (גלנץ)",
+    "beer_type": "Stout - Irish Dry"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-07-30T19:54:09+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "Shut Up And Drink Me! (שת\"פ)",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Historical Beer - Lichtenhainer"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-07-30T19:48:23+00:00",
+    "serving": "bottle",
+    "rating": 4.5,
+    "beer_name": "Abt 12 (2025)",
+    "brewery": "Brouwerij St.Bernardus",
+    "beer_type": "Belgian Quadrupel"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-07-30T19:44:32+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "10th Anniversary Smoothie Bowl",
+    "brewery": "Nepo Brewing",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-07-30T19:06:47+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Pacific Northwest IPA",
+    "brewery": "Rogue Ales",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-07-30T18:50:28+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Yes We Can - Citra, Nelson Sauvin (Amplifire Oil), Eclipse",
+    "brewery": "Maryensztadt",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-07-30T18:25:33+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Wavelength",
+    "brewery": "Equilibrium Brewery",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-07-30T18:13:18+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Twist & Stout",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Stout - Irish Dry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-07-30T18:11:49+00:00",
+    "serving": "draft",
+    "rating": 4.5,
+    "beer_name": "Vigneronne 2024 - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-07-30T17:45:47+00:00",
+    "serving": "Unknown",
+    "rating": 4.5,
+    "beer_name": "Slow And Bitter (מריר ועצלני)",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Bitter - Session / Ordinary"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-07-30T17:45:33+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Liquid Cocaine",
+    "brewery": "Mad Scientist",
+    "beer_type": "IPA - Imperial / Double"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-07-30T17:45:21+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "New York Mocaccino",
+    "brewery": "Mad Scientist",
+    "beer_type": "Stout - Milk / Sweet"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-07-30T17:44:58+00:00",
+    "serving": "draft",
+    "rating": 4.5,
+    "beer_name": "Saint Lamvinus 2024 - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-07-30T17:11:40+00:00",
+    "serving": "bottle",
+    "rating": 4.5,
+    "beer_name": "Fou' Foune (2024)",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-07-30T16:40:05+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "Vigneronne 2024 - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-07-30T16:38:24+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Sang Bleu 2024 - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-07-30T16:38:01+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Vigneronne 2024 - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-07-30T16:37:22+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Sang Bleu 2024 - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-07-30T16:36:17+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "Gueuze 2024 - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": "Lambic - Gueuze"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-07-30T16:36:05+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Kriek 2025 - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": "Lambic - Kriek"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-07-30T16:35:36+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Kriek 2025 - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": "Lambic - Kriek"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-07-30T16:35:03+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "Gueuze 2024 - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": "Lambic - Gueuze"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-07-30T16:26:17+00:00",
+    "serving": "bottle",
+    "rating": 4.25,
+    "beer_name": "Muscabella (2023)",
+    "brewery": "Boerenerf",
+    "beer_type": "Lambic - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-07-30T16:08:40+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Pleroma Karpologi Pineapple Peach Marshmallow Créme Brulée Sour",
+    "brewery": "Omnipollo",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-07-30T15:56:30+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Liquid Cocaine",
+    "brewery": "Mad Scientist",
+    "beer_type": "IPA - Imperial / Double"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-07-30T15:45:44+00:00",
+    "serving": "draft",
+    "rating": 4.5,
+    "beer_name": "10th Anniversary Smoothie Bowl",
+    "brewery": "Nepo Brewing",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-07-30T15:38:51+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Accept All Cookies",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pale Ale - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-07-30T15:37:14+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Vedett Extra Pilsner (Extra Blond)",
+    "brewery": "Duvel Moortgat",
+    "beer_type": "Pilsner - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-07-30T14:57:15+00:00",
+    "serving": "draft",
+    "rating": 4.5,
+    "beer_name": "Pleroma Karpologi Pineapple Peach Marshmallow Créme Brulée Sour",
+    "brewery": "Omnipollo",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-07-30T14:56:42+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Nath 2024 - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": "Lambic - Other"
+  },
   {
     "venue": "lauter",
     "time": "2025-07-29T19:46:23+00:00",
@@ -2724,20 +3003,20 @@ const BEER_DATA = [
   {
     "venue": "lauter",
     "time": "2025-07-26T15:22:08+00:00",
-    "serving": "can",
-    "rating": 4.2,
-    "beer_name": "Smoothie Bowl: Pistachio Fluff",
-    "brewery": "Nepo Brewing",
-    "beer_type": "Sour - Smoothie / Pastry"
-  },
-  {
-    "venue": "lauter",
-    "time": "2025-07-26T15:22:08+00:00",
     "serving": "Unknown",
     "rating": 4.0,
     "beer_name": "Pijże",
     "brewery": "Nepo Brewing",
     "beer_type": "Pale Ale - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-07-26T15:22:08+00:00",
+    "serving": "can",
+    "rating": 4.2,
+    "beer_name": "Smoothie Bowl: Pistachio Fluff",
+    "brewery": "Nepo Brewing",
+    "beer_type": "Sour - Smoothie / Pastry"
   },
   {
     "venue": "lauter",
@@ -13183,8 +13462,8 @@ const BEER_DATA = [
     "venue": "berlin-florentin",
     "time": "2024-12-23T18:37:49+00:00",
     "serving": "bottle",
-    "rating": 3.0,
-    "beer_name": "Christmas Ale",
+    "rating": 4.1,
+    "beer_name": "Christmas Ale (2023)",
     "brewery": "Brouwerij St.Bernardus",
     "beer_type": "Winter Ale"
   },
@@ -13192,8 +13471,8 @@ const BEER_DATA = [
     "venue": "berlin-florentin",
     "time": "2024-12-23T18:37:49+00:00",
     "serving": "bottle",
-    "rating": 4.1,
-    "beer_name": "Christmas Ale (2023)",
+    "rating": 3.0,
+    "beer_name": "Christmas Ale",
     "brewery": "Brouwerij St.Bernardus",
     "beer_type": "Winter Ale"
   },
@@ -19617,8 +19896,8 @@ const BEER_DATA = [
   {
     "venue": "berlin-florentin",
     "time": "2024-01-22T18:42:20+00:00",
-    "serving": "Unknown",
-    "rating": null,
+    "serving": "can",
+    "rating": 4.0,
     "beer_name": "200 Units",
     "brewery": "Brewski",
     "beer_type": "Barleywine - English"
@@ -19626,8 +19905,8 @@ const BEER_DATA = [
   {
     "venue": "berlin-florentin",
     "time": "2024-01-22T18:42:20+00:00",
-    "serving": "can",
-    "rating": 4.0,
+    "serving": "Unknown",
+    "rating": null,
     "beer_name": "200 Units",
     "brewery": "Brewski",
     "beer_type": "Barleywine - English"
