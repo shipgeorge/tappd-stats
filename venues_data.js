@@ -1,8 +1,521 @@
 // 🍺 BEER STATS DATA - Generated automatically
-// Last updated: 2025-07-31 07:02:03
-// Total records: 2546
+// Last updated: 2025-08-01 07:03:42
+// Total records: 2603
 
 const BEER_DATA = [
+  {
+    "venue": "lauter",
+    "time": "2025-07-31T21:05:42+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Smoothie Bowl - Peachy Dragon",
+    "brewery": "Nepo Brewing",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-07-31T20:55:17+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Slow And Bitter (מריר ועצלני)",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Bitter - Session / Ordinary"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-07-31T20:44:18+00:00",
+    "serving": "can",
+    "rating": 2.75,
+    "beer_name": "Cocoa Wonderland",
+    "brewery": "Thornbridge Brewery",
+    "beer_type": "Porter - Other"
+  },
+  {
+    "venue": "beerz",
+    "time": "2025-07-31T19:57:27+00:00",
+    "serving": "can",
+    "rating": 4.1,
+    "beer_name": "Smoothie Bowl: Pistachio Fluff",
+    "brewery": "Nepo Brewing",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-07-31T19:47:37+00:00",
+    "serving": "bottle",
+    "rating": 4.0,
+    "beer_name": "Necessary Evil",
+    "brewery": "Thornbridge Brewery",
+    "beer_type": "Stout - Imperial / Double"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-07-31T19:39:29+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Grand Cru Bruocsella - Draft Version (2021-2022)",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": "Lambic - Traditional"
+  },
+  {
+    "venue": "beerz",
+    "time": "2025-07-31T19:35:04+00:00",
+    "serving": "Unknown",
+    "rating": 3.4,
+    "beer_name": "Baize",
+    "brewery": "Thornbridge Brewery",
+    "beer_type": "Stout - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-07-31T19:33:10+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Prior 8",
+    "brewery": "Brouwerij St.Bernardus",
+    "beer_type": "Belgian Dubbel"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-07-31T19:32:26+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "New York Mocaccino",
+    "brewery": "Mad Scientist",
+    "beer_type": "Stout - Milk / Sweet"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-07-31T19:01:30+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "Astryd",
+    "brewery": "Thornbridge Brewery",
+    "beer_type": "Pale Ale - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-07-31T18:56:19+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Pijże",
+    "brewery": "Nepo Brewing",
+    "beer_type": "Pale Ale - New England / Hazy"
+  },
+  {
+    "venue": "beerz",
+    "time": "2025-07-31T18:52:39+00:00",
+    "serving": "can",
+    "rating": 3.6,
+    "beer_name": "Bison",
+    "brewery": "Thornbridge Brewery",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-07-31T18:50:01+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Pink Grapefruit Halcyon",
+    "brewery": "Thornbridge Brewery",
+    "beer_type": "IPA - Imperial / Double"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-07-31T18:18:08+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Slow And Bitter (מריר ועצלני)",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Bitter - Session / Ordinary"
+  },
+  {
+    "venue": "beerz",
+    "time": "2025-07-31T18:12:17+00:00",
+    "serving": "can",
+    "rating": 3.6,
+    "beer_name": "Hacksaw",
+    "brewery": "Thornbridge Brewery",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-07-31T18:04:24+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Arct IPA",
+    "brewery": "Lubrow Brewery",
+    "beer_type": "IPA - Cold"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-07-31T18:03:43+00:00",
+    "serving": "bottle",
+    "rating": 4.0,
+    "beer_name": "Jaipur",
+    "brewery": "Thornbridge Brewery",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-07-31T17:59:15+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Arct IPA",
+    "brewery": "Lubrow Brewery",
+    "beer_type": "IPA - Cold"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-07-31T17:54:25+00:00",
+    "serving": "bottle",
+    "rating": 4.0,
+    "beer_name": "Jaipur",
+    "brewery": "Thornbridge Brewery",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-07-31T17:53:32+00:00",
+    "serving": "draft",
+    "rating": 4.6,
+    "beer_name": "Cuvée Saint-Gilloise 2023 - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": "Lambic - Traditional"
+  },
+  {
+    "venue": "beerz",
+    "time": "2025-07-31T17:53:16+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Pacific Northwest IPA",
+    "brewery": "Rogue Ales",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-07-31T17:52:48+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Atslananas (עצלננס) Smoothie NEIPA",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-07-31T17:19:30+00:00",
+    "serving": "can",
+    "rating": null,
+    "beer_name": "Shoreline",
+    "brewery": "Nepo Brewing",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-07-31T17:16:30+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Mexico City Twist",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Lager - Mexican"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-07-31T17:13:18+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Pacific Northwest IPA",
+    "brewery": "Rogue Ales",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-07-31T17:09:53+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Mexico City Twist",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Lager - Mexican"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-07-31T16:59:06+00:00",
+    "serving": "can",
+    "rating": 2.5,
+    "beer_name": "Pacific Northwest IPA",
+    "brewery": "Rogue Ales",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-07-31T16:56:48+00:00",
+    "serving": "can",
+    "rating": 2.0,
+    "beer_name": "Pacific Northwest IPA",
+    "brewery": "Rogue Ales",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-07-31T16:55:52+00:00",
+    "serving": "can",
+    "rating": 3.8,
+    "beer_name": "South Dakota 61",
+    "brewery": "Mammut",
+    "beer_type": "IPA - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-07-31T16:42:36+00:00",
+    "serving": "can",
+    "rating": 3.4,
+    "beer_name": "South Dakota 61",
+    "brewery": "Mammut",
+    "beer_type": "IPA - Other"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-07-31T16:36:57+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Atslananas (עצלננס) Smoothie NEIPA",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-07-31T16:16:59+00:00",
+    "serving": "Unknown",
+    "rating": 3.6,
+    "beer_name": "Charlotte",
+    "brewery": "Nepo Brewing",
+    "beer_type": "Fruit Beer"
+  },
+  {
+    "venue": "porter-and-sons",
+    "time": "2025-07-31T16:03:25+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "הפילס שבחדר the Pils In the Room",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pilsner - German"
+  },
+  {
+    "venue": "porter-and-sons",
+    "time": "2025-07-31T16:01:59+00:00",
+    "serving": "draft",
+    "rating": null,
+    "beer_name": "Budweiser Budvar B:DARK / Czechvar B:DARK",
+    "brewery": "Budějovický Budvar",
+    "beer_type": "Lager - Tmavé (Czech Dark)"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-07-31T15:57:37+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "Twist & Stout",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Stout - Irish Dry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-07-31T15:37:18+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Shoreline",
+    "brewery": "Nepo Brewing",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-07-31T15:29:10+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Shoreline",
+    "brewery": "Nepo Brewing",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-07-31T15:27:31+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "Day Maker",
+    "brewery": "Thornbridge Brewery",
+    "beer_type": "IPA - Session"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-07-31T15:02:03+00:00",
+    "serving": "draft",
+    "rating": 4.2,
+    "beer_name": "Saint Lamvinus (2024)",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-07-31T14:57:01+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Accept All Cookies",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pale Ale - Other"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-07-31T14:45:00+00:00",
+    "serving": "draft",
+    "rating": 3.9,
+    "beer_name": "Shut Up And Drink Me! (שת\"פ)",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Historical Beer - Lichtenhainer"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-07-31T14:42:53+00:00",
+    "serving": "draft",
+    "rating": 3.6,
+    "beer_name": "Twist & Stout",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Stout - Irish Dry"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-07-31T14:33:55+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "Mexico City Twist",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Lager - Mexican"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-07-31T14:29:41+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Pleroma Karpologi Pineapple Peach Marshmallow Créme Brulée Sour",
+    "brewery": "Omnipollo",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-07-31T14:21:51+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Saint Lamvinus 2024 - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-07-31T14:21:24+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "Kriek 2025 - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": "Lambic - Kriek"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-07-31T14:20:31+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "נקטרון האלים",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-07-31T14:17:14+00:00",
+    "serving": "draft",
+    "rating": 3.25,
+    "beer_name": "Accept All Cookies",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pale Ale - Other"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-07-31T14:16:40+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "נקטרון האלים",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-07-31T14:13:01+00:00",
+    "serving": "draft",
+    "rating": 3.8,
+    "beer_name": "באה מאהבה",
+    "brewery": "New Pioneer Brewing Co - חלוץ חדש",
+    "beer_type": "Red Ale - American Amber / Red"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-07-31T14:07:30+00:00",
+    "serving": "draft",
+    "rating": 4.3,
+    "beer_name": "Nath 2024 - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": "Lambic - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-07-31T14:06:23+00:00",
+    "serving": "draft",
+    "rating": 4.3,
+    "beer_name": "Kriek 2025 - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": "Lambic - Kriek"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-07-31T13:46:19+00:00",
+    "serving": "draft",
+    "rating": 3.25,
+    "beer_name": "Atslananas (עצלננס) Smoothie NEIPA",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-07-31T13:43:32+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Twist & Stout",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Stout - Irish Dry"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-07-31T12:53:21+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Twist & Stout",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Stout - Irish Dry"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-07-31T12:28:51+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "נקטרון האלים",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-07-31T12:21:51+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "Atslananas (עצלננס) Smoothie NEIPA",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
   {
     "venue": "lauter",
     "time": "2025-07-30T20:04:04+00:00",
