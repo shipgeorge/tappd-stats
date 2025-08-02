@@ -1,8 +1,431 @@
 // 🍺 BEER STATS DATA - Generated automatically
-// Last updated: 2025-08-01 07:03:42
-// Total records: 2603
+// Last updated: 2025-08-02 06:57:28
+// Total records: 2650
 
 const BEER_DATA = [
+  {
+    "venue": "lauter",
+    "time": "2025-08-01T23:46:35+00:00",
+    "serving": "draft",
+    "rating": 3.2,
+    "beer_name": "La Chouffe Blonde",
+    "brewery": "Brasserie d'Achouffe",
+    "beer_type": "Belgian Strong Golden Ale"
+  },
+  {
+    "venue": "porter-and-sons",
+    "time": "2025-08-01T19:56:44+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Aecht Schlenkerla Rauchbier – Märzen",
+    "brewery": "Schlenkerla (\"Heller-Bräu\" Trum)",
+    "beer_type": "Rauchbier"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-01T18:54:35+00:00",
+    "serving": "Unknown",
+    "rating": 4.5,
+    "beer_name": "Muscabella (2023)",
+    "brewery": "Boerenerf",
+    "beer_type": "Lambic - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-01T18:42:09+00:00",
+    "serving": "bottle",
+    "rating": 4.5,
+    "beer_name": "Muscabella (2023)",
+    "brewery": "Boerenerf",
+    "beer_type": "Lambic - Other"
+  },
+  {
+    "venue": "beerline",
+    "time": "2025-08-01T17:13:46+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "Delirium Black Barrel Aged",
+    "brewery": "Delirium - Huyghe Brewery",
+    "beer_type": "Belgian Strong Dark Ale"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-01T17:03:28+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "10th Anniversary Smoothie Bowl",
+    "brewery": "Nepo Brewing",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-01T17:02:17+00:00",
+    "serving": "draft",
+    "rating": 4.5,
+    "beer_name": "10th Anniversary Smoothie Bowl",
+    "brewery": "Nepo Brewing",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-01T17:00:03+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "10th Anniversary Smoothie Bowl",
+    "brewery": "Nepo Brewing",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "beerline",
+    "time": "2025-08-01T16:50:36+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Delirium Argentum",
+    "brewery": "Delirium - Huyghe Brewery",
+    "beer_type": "IPA - Belgian"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-01T16:50:00+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Day Maker",
+    "brewery": "Thornbridge Brewery",
+    "beer_type": "IPA - Session"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-01T15:59:22+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "Day Maker",
+    "brewery": "Thornbridge Brewery",
+    "beer_type": "IPA - Session"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-08-01T15:26:57+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Kimat Gornisht",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Non-Alcoholic - Lager"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-08-01T15:21:18+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Atslananas (עצלננס) Smoothie NEIPA",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-01T15:05:31+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "10th Anniversary Smoothie Bowl",
+    "brewery": "Nepo Brewing",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-08-01T14:54:21+00:00",
+    "serving": "draft",
+    "rating": 3.0,
+    "beer_name": "Shut Up And Drink Me! (שת\"פ)",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Historical Beer - Lichtenhainer"
+  },
+  {
+    "venue": "porter-and-sons",
+    "time": "2025-08-01T14:44:30+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "Kriek 100% Lambic Bio (2024)",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": "Lambic - Kriek"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-08-01T14:34:03+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Jaffa IPA",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-08-01T14:09:29+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Mexico City",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Lager - Mexican"
+  },
+  {
+    "venue": "porter-and-sons",
+    "time": "2025-08-01T14:02:51+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "Gueuze Tilquin – Draft Version",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": "Lambic - Gueuze"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-08-01T13:57:54+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "Slow And Bitter (מריר ועצלני)",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Bitter - Session / Ordinary"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-01T13:43:01+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "10th Anniversary Smoothie Bowl",
+    "brewery": "Nepo Brewing",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-01T13:41:14+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Pink Grapefruit Halcyon",
+    "brewery": "Thornbridge Brewery",
+    "beer_type": "IPA - Imperial / Double"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-01T13:40:48+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Day Maker",
+    "brewery": "Thornbridge Brewery",
+    "beer_type": "IPA - Session"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-01T13:40:10+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Accept All Cookies",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pale Ale - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-01T12:41:19+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "10th Anniversary Smoothie Bowl",
+    "brewery": "Nepo Brewing",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-01T12:37:24+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "10th Anniversary Smoothie Bowl",
+    "brewery": "Nepo Brewing",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-01T12:19:15+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Mexico City Twist",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Lager - Mexican"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-01T12:11:57+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Atslananas (עצלננס) Smoothie NEIPA",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-01T11:44:44+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "Grand Cru Bruocsella - Draft Version (2021-2022)",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": "Lambic - Traditional"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-01T11:28:41+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "Grand Cru Bruocsella - Draft Version (2021-2022)",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": "Lambic - Traditional"
+  },
+  {
+    "venue": "beerbazaar-brewery",
+    "time": "2025-08-01T11:27:13+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "תמתי",
+    "brewery": "BeerBazaar / Mivshelet Ha’Aretz",
+    "beer_type": "Stout - Coffee"
+  },
+  {
+    "venue": "beerbazaar-brewery",
+    "time": "2025-08-01T11:25:44+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Ziggy (זיגי)",
+    "brewery": "BeerBazaar / Mivshelet Ha’Aretz",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-01T11:22:16+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Liquid Cocaine",
+    "brewery": "Mad Scientist",
+    "beer_type": "IPA - Imperial / Double"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-01T11:17:19+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Pleroma Karpologi Pineapple Peach Marshmallow Créme Brulée Sour",
+    "brewery": "Omnipollo",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-01T11:00:39+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Grand Cru Bruocsella - Draft Version (2021-2022)",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": "Lambic - Traditional"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-01T10:50:28+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "10th Anniversary Smoothie Bowl",
+    "brewery": "Nepo Brewing",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-01T10:25:35+00:00",
+    "serving": "draft",
+    "rating": 4.2,
+    "beer_name": "10th Anniversary Smoothie Bowl",
+    "brewery": "Nepo Brewing",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-08-01T10:17:37+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "Shut Up And Drink Me! (שת\"פ)",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Historical Beer - Lichtenhainer"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-01T10:08:15+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Grand Cru Bruocsella - Draft Version (2021-2022)",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": "Lambic - Traditional"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-01T10:07:30+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Atslananas (עצלננס) Smoothie NEIPA",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-01T10:06:22+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Prior 8",
+    "brewery": "Brouwerij St.Bernardus",
+    "beer_type": "Belgian Dubbel"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-01T10:06:17+00:00",
+    "serving": "draft",
+    "rating": 2.5,
+    "beer_name": "10th Anniversary Smoothie Bowl",
+    "brewery": "Nepo Brewing",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-01T09:46:52+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "10th Anniversary Smoothie Bowl",
+    "brewery": "Nepo Brewing",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-01T09:44:50+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "10th Anniversary Smoothie Bowl",
+    "brewery": "Nepo Brewing",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-01T09:44:00+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Mexico City Twist",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Lager - Mexican"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-01T09:32:12+00:00",
+    "serving": "draft",
+    "rating": 4.5,
+    "beer_name": "10th Anniversary Smoothie Bowl",
+    "brewery": "Nepo Brewing",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-01T09:24:18+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "Atslananas (עצלננס) Smoothie NEIPA",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
   {
     "venue": "lauter",
     "time": "2025-07-31T21:05:42+00:00",

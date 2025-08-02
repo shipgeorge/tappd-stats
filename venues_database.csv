@@ -1,4 +1,51 @@
 venue,user,time,serving,data_rating,beer_name,brewery,beer_type
+lauter,גל סילברמן,"Fri, 01 Aug 2025 23:46:35 +0000",draft,3.2,La Chouffe Blonde,Brasserie d'Achouffe,Belgian Strong Golden Ale
+porter-and-sons,Shmupi Koto,"Fri, 01 Aug 2025 19:56:44 +0000",draft,4.0,Aecht Schlenkerla Rauchbier – Märzen,"Schlenkerla (""Heller-Bräu"" Trum)",Rauchbier
+lauter,David Siegel,"Fri, 01 Aug 2025 18:54:35 +0000",,4.5,Muscabella (2023),Boerenerf,Lambic - Other
+lauter,Shmupi Koto,"Fri, 01 Aug 2025 18:42:09 +0000",bottle,4.5,Muscabella (2023),Boerenerf,Lambic - Other
+beerline,Philip Greenberg,"Fri, 01 Aug 2025 17:13:46 +0000",draft,4.25,Delirium Black Barrel Aged,Delirium - Huyghe Brewery,Belgian Strong Dark Ale
+lauter,David Siegel,"Fri, 01 Aug 2025 17:03:28 +0000",draft,3.75,10th Anniversary Smoothie Bowl,Nepo Brewing,Sour - Smoothie / Pastry
+lauter,Vasa,"Fri, 01 Aug 2025 17:02:17 +0000",draft,4.5,10th Anniversary Smoothie Bowl,Nepo Brewing,Sour - Smoothie / Pastry
+lauter,Amit 1,"Fri, 01 Aug 2025 17:00:03 +0000",draft,4.0,10th Anniversary Smoothie Bowl,Nepo Brewing,Sour - Smoothie / Pastry
+beerline,Philip Greenberg,"Fri, 01 Aug 2025 16:50:36 +0000",draft,4.0,Delirium Argentum,Delirium - Huyghe Brewery,IPA - Belgian
+lauter,Amit 1,"Fri, 01 Aug 2025 16:50:00 +0000",draft,4.0,Day Maker,Thornbridge Brewery,IPA - Session
+lauter,Cormac Mc Donnell,"Fri, 01 Aug 2025 15:59:22 +0000",,3.5,Day Maker,Thornbridge Brewery,IPA - Session
+schnitt-brewing-company,Vladimir Kanevsky,"Fri, 01 Aug 2025 15:26:57 +0000",draft,4.0,Kimat Gornisht,Schnitt Brewing Company﻿,Non-Alcoholic - Lager
+schnitt-brewing-company,Vladimir Kanevsky,"Fri, 01 Aug 2025 15:21:18 +0000",draft,3.75,Atslananas (עצלננס) Smoothie NEIPA,Schnitt Brewing Company﻿,IPA - New England / Hazy
+lauter,Mishel iavorsci,"Fri, 01 Aug 2025 15:05:31 +0000",draft,4.25,10th Anniversary Smoothie Bowl,Nepo Brewing,Sour - Smoothie / Pastry
+schnitt-brewing-company,Eylon Hadar,"Fri, 01 Aug 2025 14:54:21 +0000",draft,3.0,"Shut Up And Drink Me! (שת""פ)",Schnitt Brewing Company﻿,Historical Beer - Lichtenhainer
+porter-and-sons,Mishel iavorsci,"Fri, 01 Aug 2025 14:44:30 +0000",draft,4.25,Kriek 100% Lambic Bio (2024),Brasserie Cantillon,Lambic - Kriek
+schnitt-brewing-company,Cormac Mc Donnell,"Fri, 01 Aug 2025 14:34:03 +0000",,4.0,Jaffa IPA,Schnitt Brewing Company﻿,IPA - American
+schnitt-brewing-company,Vladimir Kanevsky,"Fri, 01 Aug 2025 14:09:29 +0000",draft,3.5,Mexico City,Schnitt Brewing Company﻿,Lager - Mexican
+porter-and-sons,Mishel iavorsci,"Fri, 01 Aug 2025 14:02:51 +0000",draft,4.25,Gueuze Tilquin – Draft Version,Gueuzerie Tilquin,Lambic - Gueuze
+schnitt-brewing-company,Cormac Mc Donnell,"Fri, 01 Aug 2025 13:57:54 +0000",,3.5,Slow And Bitter (מריר ועצלני),Schnitt Brewing Company﻿,Bitter - Session / Ordinary
+lauter,Eylon Hadar,"Fri, 01 Aug 2025 13:43:01 +0000",draft,4.0,10th Anniversary Smoothie Bowl,Nepo Brewing,Sour - Smoothie / Pastry
+lauter,Eylon Hadar,"Fri, 01 Aug 2025 13:41:14 +0000",draft,3.5,Pink Grapefruit Halcyon,Thornbridge Brewery,IPA - Imperial / Double
+lauter,Eylon Hadar,"Fri, 01 Aug 2025 13:40:48 +0000",draft,3.75,Day Maker,Thornbridge Brewery,IPA - Session
+lauter,Eylon Hadar,"Fri, 01 Aug 2025 13:40:10 +0000",draft,4.0,Accept All Cookies,Schnitt Brewing Company﻿,Pale Ale - Other
+lauter,Niv Gellert,"Fri, 01 Aug 2025 12:41:19 +0000",draft,3.75,10th Anniversary Smoothie Bowl,Nepo Brewing,Sour - Smoothie / Pastry
+lauter,Amit Carmi,"Fri, 01 Aug 2025 12:37:24 +0000",draft,4.0,10th Anniversary Smoothie Bowl,Nepo Brewing,Sour - Smoothie / Pastry
+lauter,Niv Gellert,"Fri, 01 Aug 2025 12:19:15 +0000",draft,3.5,Mexico City Twist,Schnitt Brewing Company﻿,Lager - Mexican
+lauter,Amit Carmi,"Fri, 01 Aug 2025 12:11:57 +0000",draft,4.0,Atslananas (עצלננס) Smoothie NEIPA,Schnitt Brewing Company﻿,IPA - New England / Hazy
+lauter,Arthur Neaman,"Fri, 01 Aug 2025 11:44:44 +0000",draft,4.25,Grand Cru Bruocsella - Draft Version (2021-2022),Brasserie Cantillon,Lambic - Traditional
+lauter,Niv Gellert,"Fri, 01 Aug 2025 11:28:41 +0000",,3.75,Grand Cru Bruocsella - Draft Version (2021-2022),Brasserie Cantillon,Lambic - Traditional
+beerbazaar-brewery,Guy Elkayam,"Fri, 01 Aug 2025 11:27:13 +0000",can,4.25,תמתי,BeerBazaar / Mivshelet Ha’Aretz,Stout - Coffee
+beerbazaar-brewery,Guy Elkayam,"Fri, 01 Aug 2025 11:25:44 +0000",draft,4.0,Ziggy (זיגי),BeerBazaar / Mivshelet Ha’Aretz,IPA - New England / Hazy
+lauter,Ohad Segall,"Fri, 01 Aug 2025 11:22:16 +0000",draft,3.75,Liquid Cocaine,Mad Scientist,IPA - Imperial / Double
+lauter,Ohad Segall,"Fri, 01 Aug 2025 11:17:19 +0000",draft,3.75,Pleroma Karpologi Pineapple Peach Marshmallow Créme Brulée Sour,Omnipollo,Sour - Smoothie / Pastry
+lauter,Ohad Segall,"Fri, 01 Aug 2025 11:00:39 +0000",draft,3.75,Grand Cru Bruocsella - Draft Version (2021-2022),Brasserie Cantillon,Lambic - Traditional
+lauter,Ohad Segall,"Fri, 01 Aug 2025 10:50:28 +0000",draft,4.0,10th Anniversary Smoothie Bowl,Nepo Brewing,Sour - Smoothie / Pastry
+lauter,Adam Berelowitz,"Fri, 01 Aug 2025 10:25:35 +0000",draft,4.2,10th Anniversary Smoothie Bowl,Nepo Brewing,Sour - Smoothie / Pastry
+schnitt-brewing-company,Eylon,"Fri, 01 Aug 2025 10:17:37 +0000",,3.5,"Shut Up And Drink Me! (שת""פ)",Schnitt Brewing Company﻿,Historical Beer - Lichtenhainer
+lauter,S C,"Fri, 01 Aug 2025 10:08:15 +0000",draft,4.0,Grand Cru Bruocsella - Draft Version (2021-2022),Brasserie Cantillon,Lambic - Traditional
+lauter,S C,"Fri, 01 Aug 2025 10:07:30 +0000",draft,4.0,Atslananas (עצלננס) Smoothie NEIPA,Schnitt Brewing Company﻿,IPA - New England / Hazy
+lauter,Yaron Sh,"Fri, 01 Aug 2025 10:06:22 +0000",draft,4.0,Prior 8,Brouwerij St.Bernardus,Belgian Dubbel
+lauter,Ido Mund,"Fri, 01 Aug 2025 10:06:17 +0000",draft,2.5,10th Anniversary Smoothie Bowl,Nepo Brewing,Sour - Smoothie / Pastry
+lauter,Dor_eilon,"Fri, 01 Aug 2025 09:46:52 +0000",draft,4.0,10th Anniversary Smoothie Bowl,Nepo Brewing,Sour - Smoothie / Pastry
+lauter,Yaron Sh,"Fri, 01 Aug 2025 09:44:50 +0000",draft,4.25,10th Anniversary Smoothie Bowl,Nepo Brewing,Sour - Smoothie / Pastry
+lauter,גל סילברמן,"Fri, 01 Aug 2025 09:44:00 +0000",draft,3.5,Mexico City Twist,Schnitt Brewing Company﻿,Lager - Mexican
+lauter,Nativ Kapach,"Fri, 01 Aug 2025 09:32:12 +0000",draft,4.5,10th Anniversary Smoothie Bowl,Nepo Brewing,Sour - Smoothie / Pastry
+lauter,Yaron Sh,"Fri, 01 Aug 2025 09:24:18 +0000",draft,4.25,Atslananas (עצלננס) Smoothie NEIPA,Schnitt Brewing Company﻿,IPA - New England / Hazy
 lauter,Elad Schitrit,"Thu, 31 Jul 2025 21:05:42 +0000",can,3.75,Smoothie Bowl - Peachy Dragon,Nepo Brewing,Sour - Smoothie / Pastry
 schnitt-brewing-company,Lee Ker,"Thu, 31 Jul 2025 20:55:17 +0000",,,Slow And Bitter (מריר ועצלני),Schnitt Brewing Company﻿,Bitter - Session / Ordinary
 schnitt-brewing-company,ido_dinar_6673,"Thu, 31 Jul 2025 20:44:18 +0000",can,2.75,Cocoa Wonderland,Thornbridge Brewery,Porter - Other
