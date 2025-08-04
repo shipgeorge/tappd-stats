@@ -1,8 +1,215 @@
 // 🍺 BEER STATS DATA - Generated automatically
-// Last updated: 2025-08-03 06:58:11
-// Total records: 2691
+// Last updated: 2025-08-04 07:42:37
+// Total records: 2714
 
 const BEER_DATA = [
+  {
+    "venue": "ursa",
+    "time": "2025-08-03T19:56:26+00:00",
+    "serving": "can",
+    "rating": null,
+    "beer_name": "Cold Beer",
+    "brewery": "BrewDog",
+    "beer_type": "Lager - Pale"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-08-03T19:43:14+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Twist & Stout",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Stout - Irish Dry"
+  },
+  {
+    "venue": "ursa",
+    "time": "2025-08-03T19:30:57+00:00",
+    "serving": "can",
+    "rating": null,
+    "beer_name": "Cold Beer",
+    "brewery": "BrewDog",
+    "beer_type": "Lager - Pale"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-03T17:56:37+00:00",
+    "serving": "bottle",
+    "rating": null,
+    "beer_name": "Samichlaus Schwarzes",
+    "brewery": "Schloss Eggenberg",
+    "beer_type": "Malt Liquor"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-03T17:56:26+00:00",
+    "serving": "bottle",
+    "rating": 4.5,
+    "beer_name": "Bourbon Barrel Aged - Imperial Coffee Stout",
+    "brewery": "Vocation Brewery",
+    "beer_type": "Stout - Imperial / Double Coffee"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-03T17:37:01+00:00",
+    "serving": "bottle",
+    "rating": 3.75,
+    "beer_name": "Bourbon Barrel Aged - Imperial Coffee Stout",
+    "brewery": "Vocation Brewery",
+    "beer_type": "Stout - Imperial / Double Coffee"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-03T16:54:38+00:00",
+    "serving": "bottle",
+    "rating": 4.25,
+    "beer_name": "Wild Berry Imperial Stout - Bourbon Barrel Aged",
+    "brewery": "Vocation Brewery",
+    "beer_type": "Stout - Imperial / Double"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-03T16:53:30+00:00",
+    "serving": "bottle",
+    "rating": 4.5,
+    "beer_name": "Wild Berry Imperial Stout - Bourbon Barrel Aged",
+    "brewery": "Vocation Brewery",
+    "beer_type": "Stout - Imperial / Double"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-03T16:52:39+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "A Sour Love Story",
+    "brewery": "HORIZONT Brewing",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-03T16:37:16+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Budweiser Budvar B:DARK / Czechvar B:DARK",
+    "brewery": "Budějovický Budvar",
+    "beer_type": "Lager - Tmavé (Czech Dark)"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-03T16:36:14+00:00",
+    "serving": "draft",
+    "rating": null,
+    "beer_name": "Ronen HaKeha HaMerusha'at Dark Ale (הבירה הכהה המרושעת)",
+    "brewery": "Srigim (שריגים)",
+    "beer_type": "Brown Ale - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-03T16:27:42+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Smoothie Bowl: Pistachio Fluff",
+    "brewery": "Nepo Brewing",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-03T16:27:19+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "Smoothie Bowl: Pistachio Fluff",
+    "brewery": "Nepo Brewing",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-03T15:50:52+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "10th Anniversary Smoothie Bowl",
+    "brewery": "Nepo Brewing",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-03T15:50:50+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "10th Anniversary Smoothie Bowl",
+    "brewery": "Nepo Brewing",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-03T15:26:40+00:00",
+    "serving": "draft",
+    "rating": 2.5,
+    "beer_name": "באה מאהבה",
+    "brewery": "New Pioneer Brewing Co - חלוץ חדש",
+    "beer_type": "Red Ale - American Amber / Red"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-03T15:07:27+00:00",
+    "serving": "draft",
+    "rating": 4.2,
+    "beer_name": "10th Anniversary Smoothie Bowl",
+    "brewery": "Nepo Brewing",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-03T14:42:06+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "באה מאהבה",
+    "brewery": "New Pioneer Brewing Co - חלוץ חדש",
+    "beer_type": "Red Ale - American Amber / Red"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-03T14:34:31+00:00",
+    "serving": "draft",
+    "rating": 4.2,
+    "beer_name": "Atslananas (עצלננס) Smoothie NEIPA",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-08-03T13:59:14+00:00",
+    "serving": "draft",
+    "rating": 4.75,
+    "beer_name": "Atslananas (עצלננס) Smoothie NEIPA",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-08-03T12:25:38+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Frenemy",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pale Ale - American"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-08-03T10:27:27+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Mexico City Twist",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Lager - Mexican"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-03T10:00:34+00:00",
+    "serving": "draft",
+    "rating": 3.0,
+    "beer_name": "Ronen HaKeha HaMerusha'at Dark Ale (הבירה הכהה המרושעת)",
+    "brewery": "Srigim (שריגים)",
+    "beer_type": "Brown Ale - American"
+  },
   {
     "venue": "lauter",
     "time": "2025-08-02T19:46:24+00:00",
@@ -14767,8 +14974,8 @@ const BEER_DATA = [
     "venue": "berlin-florentin",
     "time": "2024-12-23T18:37:49+00:00",
     "serving": "bottle",
-    "rating": 4.1,
-    "beer_name": "Christmas Ale (2023)",
+    "rating": 3.0,
+    "beer_name": "Christmas Ale",
     "brewery": "Brouwerij St.Bernardus",
     "beer_type": "Winter Ale"
   },
@@ -14776,8 +14983,8 @@ const BEER_DATA = [
     "venue": "berlin-florentin",
     "time": "2024-12-23T18:37:49+00:00",
     "serving": "bottle",
-    "rating": 3.0,
-    "beer_name": "Christmas Ale",
+    "rating": 4.1,
+    "beer_name": "Christmas Ale (2023)",
     "brewery": "Brouwerij St.Bernardus",
     "beer_type": "Winter Ale"
   },
@@ -21201,8 +21408,8 @@ const BEER_DATA = [
   {
     "venue": "berlin-florentin",
     "time": "2024-01-22T18:42:20+00:00",
-    "serving": "can",
-    "rating": 4.0,
+    "serving": "Unknown",
+    "rating": null,
     "beer_name": "200 Units",
     "brewery": "Brewski",
     "beer_type": "Barleywine - English"
@@ -21210,8 +21417,8 @@ const BEER_DATA = [
   {
     "venue": "berlin-florentin",
     "time": "2024-01-22T18:42:20+00:00",
-    "serving": "Unknown",
-    "rating": null,
+    "serving": "can",
+    "rating": 4.0,
     "beer_name": "200 Units",
     "brewery": "Brewski",
     "beer_type": "Barleywine - English"

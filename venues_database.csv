@@ -1,4 +1,27 @@
 venue,user,time,serving,data_rating,beer_name,brewery,beer_type
+ursa,Aviad Attia,"Sun, 03 Aug 2025 19:56:26 +0000",can,,Cold Beer,BrewDog,Lager - Pale
+schnitt-brewing-company,Lee Ker,"Sun, 03 Aug 2025 19:43:14 +0000",,,Twist & Stout,Schnitt Brewing Company﻿,Stout - Irish Dry
+ursa,Danielle Yona,"Sun, 03 Aug 2025 19:30:57 +0000",can,,Cold Beer,BrewDog,Lager - Pale
+lauter,Lee Ker,"Sun, 03 Aug 2025 17:56:37 +0000",bottle,,Samichlaus Schwarzes,Schloss Eggenberg,Malt Liquor
+lauter,Tal,"Sun, 03 Aug 2025 17:56:26 +0000",bottle,4.5,Bourbon Barrel Aged - Imperial Coffee Stout,Vocation Brewery,Stout - Imperial / Double Coffee
+lauter,adi_zadik_2741,"Sun, 03 Aug 2025 17:37:01 +0000",bottle,3.75,Bourbon Barrel Aged - Imperial Coffee Stout,Vocation Brewery,Stout - Imperial / Double Coffee
+lauter,adi_zadik_2741,"Sun, 03 Aug 2025 16:54:38 +0000",bottle,4.25,Wild Berry Imperial Stout - Bourbon Barrel Aged,Vocation Brewery,Stout - Imperial / Double
+lauter,Tal,"Sun, 03 Aug 2025 16:53:30 +0000",bottle,4.5,Wild Berry Imperial Stout - Bourbon Barrel Aged,Vocation Brewery,Stout - Imperial / Double
+lauter,adi_zadik_2741,"Sun, 03 Aug 2025 16:52:39 +0000",can,3.75,A Sour Love Story,HORIZONT Brewing,Sour - Fruited
+lauter,Lee Ker,"Sun, 03 Aug 2025 16:37:16 +0000",,,Budweiser Budvar B:DARK / Czechvar B:DARK,Budějovický Budvar,Lager - Tmavé (Czech Dark)
+lauter,Lee Ker,"Sun, 03 Aug 2025 16:36:14 +0000",draft,,Ronen HaKeha HaMerusha'at Dark Ale (הבירה הכהה המרושעת),Srigim (שריגים),Brown Ale - American
+lauter,adi_zadik_2741,"Sun, 03 Aug 2025 16:27:42 +0000",can,3.75,Smoothie Bowl: Pistachio Fluff,Nepo Brewing,Sour - Smoothie / Pastry
+lauter,Tal,"Sun, 03 Aug 2025 16:27:19 +0000",can,4.25,Smoothie Bowl: Pistachio Fluff,Nepo Brewing,Sour - Smoothie / Pastry
+lauter,Tal,"Sun, 03 Aug 2025 15:50:52 +0000",draft,4.0,10th Anniversary Smoothie Bowl,Nepo Brewing,Sour - Smoothie / Pastry
+lauter,adi_zadik_2741,"Sun, 03 Aug 2025 15:50:50 +0000",draft,4.25,10th Anniversary Smoothie Bowl,Nepo Brewing,Sour - Smoothie / Pastry
+b7-beer-house,Oren Hazan,"Sun, 03 Aug 2025 15:26:40 +0000",draft,2.5,באה מאהבה,New Pioneer Brewing Co - חלוץ חדש,Red Ale - American Amber / Red
+lauter,Yana O,"Sun, 03 Aug 2025 15:07:27 +0000",draft,4.2,10th Anniversary Smoothie Bowl,Nepo Brewing,Sour - Smoothie / Pastry
+b7-beer-house,Yuval Lutski,"Sun, 03 Aug 2025 14:42:06 +0000",draft,4.25,באה מאהבה,New Pioneer Brewing Co - חלוץ חדש,Red Ale - American Amber / Red
+lauter,Yana O,"Sun, 03 Aug 2025 14:34:31 +0000",draft,4.2,Atslananas (עצלננס) Smoothie NEIPA,Schnitt Brewing Company﻿,IPA - New England / Hazy
+schnitt-brewing-company,Inbal1501,"Sun, 03 Aug 2025 13:59:14 +0000",draft,4.75,Atslananas (עצלננס) Smoothie NEIPA,Schnitt Brewing Company﻿,IPA - New England / Hazy
+schnitt-brewing-company,Arthur Neaman,"Sun, 03 Aug 2025 12:25:38 +0000",draft,3.75,Frenemy,Schnitt Brewing Company﻿,Pale Ale - American
+schnitt-brewing-company,Alex Shtouff,"Sun, 03 Aug 2025 10:27:27 +0000",draft,3.75,Mexico City Twist,Schnitt Brewing Company﻿,Lager - Mexican
+lauter,גל סילברמן,"Sun, 03 Aug 2025 10:00:34 +0000",draft,3.0,Ronen HaKeha HaMerusha'at Dark Ale (הבירה הכהה המרושעת),Srigim (שריגים),Brown Ale - American
 lauter,UV R,"Sat, 02 Aug 2025 19:46:24 +0000",,4.25,Dogs Allowed,WarPigs Brewpub,IPA - Imperial / Double New England / Hazy
 lauter,Nir Langer,"Sat, 02 Aug 2025 19:34:18 +0000",can,3.75,Kærlighed Spring/Summer 2025,Mikkeller,Pale Ale - American
 lauter,Shmupi Koto,"Sat, 02 Aug 2025 19:34:07 +0000",bottle,4.8,Oude Roussanne Tilquin à l'Ancienne (2021-2022),Gueuzerie Tilquin,Lambic - Fruit
@@ -1639,8 +1662,8 @@ berlin-florentin,Sharon Confino,"Mon, 23 Dec 2024 18:45:24 +0000",bottle,3.75,Fr
 berlin-florentin,Yana O,"Mon, 23 Dec 2024 18:44:17 +0000",bottle,4.0,Framboise,Brouwerij Lindemans,Lambic - Framboise
 berlin-florentin,Ⓜ️axx Dee,"Mon, 23 Dec 2024 18:44:11 +0000",bottle,4.0,Framboise,Brouwerij Lindemans,Lambic - Framboise
 berlin-florentin,Ⓜ️axx Dee,"Mon, 23 Dec 2024 18:38:17 +0000",bottle,4.0,Christmas Ale (2023),Brouwerij St.Bernardus,Winter Ale
-berlin-florentin,Yana O,"Mon, 23 Dec 2024 18:37:49 +0000",bottle,4.1,Christmas Ale (2023),Brouwerij St.Bernardus,Winter Ale
 berlin-florentin,Sharon Confino,"Mon, 23 Dec 2024 18:37:49 +0000",bottle,3.0,Christmas Ale,Brouwerij St.Bernardus,Winter Ale
+berlin-florentin,Yana O,"Mon, 23 Dec 2024 18:37:49 +0000",bottle,4.1,Christmas Ale (2023),Brouwerij St.Bernardus,Winter Ale
 berlin-florentin,Sharon Confino,"Mon, 23 Dec 2024 18:32:18 +0000",bottle,4.5,Faro,Brouwerij Lindemans,Lambic - Faro
 berlin-florentin,Yana O,"Mon, 23 Dec 2024 18:30:45 +0000",bottle,4.0,Faro,Brouwerij Lindemans,Lambic - Faro
 berlin-florentin,Ⓜ️axx Dee,"Mon, 23 Dec 2024 18:30:43 +0000",bottle,4.1,Faro,Brouwerij Lindemans,Lambic - Faro
@@ -2354,8 +2377,8 @@ berlin-florentin,Yaron Sh,"Mon, 22 Jan 2024 18:49:44 +0000",can,4.0,"¡Buena Par
 berlin-florentin,Shmupi Koto,"Mon, 22 Jan 2024 18:49:41 +0000",can,3.8,"¡Buena Para El Papa! ¿Si, No?",Brewski,Stout - Imperial / Double Pastry
 berlin-florentin,Shmupi Koto,"Mon, 22 Jan 2024 18:49:04 +0000",can,4.0,200 Units,Brewski,Barleywine - English
 berlin-florentin,Tom Oppenheim,"Mon, 22 Jan 2024 18:48:49 +0000",can,3.5,"¡Buena Para El Papa! ¿Si, No?",Brewski,Stout - Imperial / Double Pastry
-berlin-florentin,ori shuster,"Mon, 22 Jan 2024 18:42:20 +0000",can,4.0,200 Units,Brewski,Barleywine - English
 berlin-florentin,Yaron Sh,"Mon, 22 Jan 2024 18:42:20 +0000",,,200 Units,Brewski,Barleywine - English
+berlin-florentin,ori shuster,"Mon, 22 Jan 2024 18:42:20 +0000",can,4.0,200 Units,Brewski,Barleywine - English
 berlin-florentin,Yaron Sh,"Mon, 22 Jan 2024 18:41:52 +0000",,,Strawberry Pie,Brewski,Sour - Smoothie / Pastry
 berlin-florentin,Itai Snai,"Mon, 22 Jan 2024 18:40:50 +0000",,3.5,200 Units,Brewski,Barleywine - English
 berlin-florentin,Mikhail Stolov,"Mon, 22 Jan 2024 18:38:56 +0000",,3.75,200 Units,Brewski,Barleywine - English
