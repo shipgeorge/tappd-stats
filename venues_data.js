@@ -1,8 +1,1619 @@
 // 🍺 BEER STATS DATA - Generated automatically
-// Last updated: 2025-08-05 07:04:29
-// Total records: 2882
+// Last updated: 2025-08-06 07:04:29
+// Total records: 3061
 
 const BEER_DATA = [
+  {
+    "venue": "lauter",
+    "time": "2025-08-05T20:20:29+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "Supernatural",
+    "brewery": "Shred Beer Company",
+    "beer_type": "IPA - Triple"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-05T20:18:32+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "Monstrous Oils",
+    "brewery": "Cellarmaker Brewing Company",
+    "beer_type": "IPA - Quadruple"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-05T20:17:23+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "SLUSHY XL: Haha!",
+    "brewery": "450 North Brewing Company",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-05T20:16:23+00:00",
+    "serving": "can",
+    "rating": 4.5,
+    "beer_name": "Coagula",
+    "brewery": "Brujos Brewing",
+    "beer_type": "IPA - Triple"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-05T20:02:21+00:00",
+    "serving": "draft",
+    "rating": null,
+    "beer_name": "10th Anniversary Smoothie Bowl",
+    "brewery": "Nepo Brewing",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-05T19:59:29+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Caramel Coconut Fluffernutter",
+    "brewery": "Equilibrium Brewery",
+    "beer_type": "Stout - Imperial / Double Pastry"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-08-05T19:58:52+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Mexico City Twist",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Lager - Mexican"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-05T19:58:37+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Coagula",
+    "brewery": "Brujos Brewing",
+    "beer_type": "IPA - Triple"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-05T19:57:50+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Hydralisk",
+    "brewery": "Spanish Marie Brewery",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-05T19:52:32+00:00",
+    "serving": "Unknown",
+    "rating": 4.25,
+    "beer_name": "Caramel Coconut Fluffernutter",
+    "brewery": "Equilibrium Brewery",
+    "beer_type": "Stout - Imperial / Double Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-05T19:48:49+00:00",
+    "serving": "bottle",
+    "rating": 4.5,
+    "beer_name": "Caramel Coconut Fluffernutter",
+    "brewery": "Equilibrium Brewery",
+    "beer_type": "Stout - Imperial / Double Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-05T19:47:43+00:00",
+    "serving": "Unknown",
+    "rating": 4.75,
+    "beer_name": "Caramel Coconut Fluffernutter",
+    "brewery": "Equilibrium Brewery",
+    "beer_type": "Stout - Imperial / Double Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-05T19:47:29+00:00",
+    "serving": "bottle",
+    "rating": 4.0,
+    "beer_name": "Caramel Coconut Fluffernutter",
+    "brewery": "Equilibrium Brewery",
+    "beer_type": "Stout - Imperial / Double Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-05T19:47:26+00:00",
+    "serving": "bottle",
+    "rating": 4.5,
+    "beer_name": "Caramel Coconut Fluffernutter",
+    "brewery": "Equilibrium Brewery",
+    "beer_type": "Stout - Imperial / Double Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-05T19:44:04+00:00",
+    "serving": "Unknown",
+    "rating": 4.8,
+    "beer_name": "Caramel Coconut Fluffernutter",
+    "brewery": "Equilibrium Brewery",
+    "beer_type": "Stout - Imperial / Double Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-05T19:41:59+00:00",
+    "serving": "can",
+    "rating": 2.25,
+    "beer_name": "Coagula",
+    "brewery": "Brujos Brewing",
+    "beer_type": "IPA - Triple"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-05T19:40:27+00:00",
+    "serving": "Unknown",
+    "rating": 4.5,
+    "beer_name": "Coagula",
+    "brewery": "Brujos Brewing",
+    "beer_type": "IPA - Triple"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-05T19:40:23+00:00",
+    "serving": "can",
+    "rating": 4.75,
+    "beer_name": "Coagula",
+    "brewery": "Brujos Brewing",
+    "beer_type": "IPA - Triple"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-05T19:39:57+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Coagula",
+    "brewery": "Brujos Brewing",
+    "beer_type": "IPA - Triple"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-05T19:37:37+00:00",
+    "serving": "Unknown",
+    "rating": 4.6,
+    "beer_name": "Coagula",
+    "brewery": "Brujos Brewing",
+    "beer_type": "IPA - Triple"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-05T19:34:44+00:00",
+    "serving": "Unknown",
+    "rating": 4.25,
+    "beer_name": "Hydralisk",
+    "brewery": "Spanish Marie Brewery",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-05T19:34:03+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "Hydralisk",
+    "brewery": "Spanish Marie Brewery",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-05T19:32:48+00:00",
+    "serving": "Unknown",
+    "rating": 4.5,
+    "beer_name": "Hydralisk",
+    "brewery": "Spanish Marie Brewery",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-05T19:32:12+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Hydralisk",
+    "brewery": "Spanish Marie Brewery",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-05T19:31:48+00:00",
+    "serving": "Unknown",
+    "rating": 4.25,
+    "beer_name": "Hydralisk",
+    "brewery": "Spanish Marie Brewery",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-05T19:29:11+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "SLUSHY XL: Haha!",
+    "brewery": "450 North Brewing Company",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-05T19:29:05+00:00",
+    "serving": "Unknown",
+    "rating": 4.3,
+    "beer_name": "Hydralisk",
+    "brewery": "Spanish Marie Brewery",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-05T19:28:30+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "SLUSHY XL: Haha!",
+    "brewery": "450 North Brewing Company",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-05T19:26:45+00:00",
+    "serving": "Unknown",
+    "rating": 4.25,
+    "beer_name": "SLUSHY XL: Haha!",
+    "brewery": "450 North Brewing Company",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-05T19:24:07+00:00",
+    "serving": "can",
+    "rating": 4.5,
+    "beer_name": "SLUSHY XL: Haha!",
+    "brewery": "450 North Brewing Company",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-05T19:24:07+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "SLUSHY XL: Haha!",
+    "brewery": "450 North Brewing Company",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-05T19:21:59+00:00",
+    "serving": "Unknown",
+    "rating": 4.3,
+    "beer_name": "SLUSHY XL: Haha!",
+    "brewery": "450 North Brewing Company",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-05T19:16:22+00:00",
+    "serving": "Unknown",
+    "rating": 4.25,
+    "beer_name": "Monstrous Oils",
+    "brewery": "Cellarmaker Brewing Company",
+    "beer_type": "IPA - Quadruple"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-05T19:15:56+00:00",
+    "serving": "Unknown",
+    "rating": 4.25,
+    "beer_name": "Monstrous Oils",
+    "brewery": "Cellarmaker Brewing Company",
+    "beer_type": "IPA - Quadruple"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-05T19:15:35+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Monstrous Oils",
+    "brewery": "Cellarmaker Brewing Company",
+    "beer_type": "IPA - Quadruple"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-05T19:15:13+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Monstrous Oils",
+    "brewery": "Cellarmaker Brewing Company",
+    "beer_type": "IPA - Quadruple"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-05T19:12:40+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "Monstrous Oils",
+    "brewery": "Cellarmaker Brewing Company",
+    "beer_type": "IPA - Quadruple"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-05T19:12:15+00:00",
+    "serving": "Unknown",
+    "rating": 4.4,
+    "beer_name": "Monstrous Oils",
+    "brewery": "Cellarmaker Brewing Company",
+    "beer_type": "IPA - Quadruple"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-05T19:11:02+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Supernatural",
+    "brewery": "Shred Beer Company",
+    "beer_type": "IPA - Triple"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-05T19:09:35+00:00",
+    "serving": "Unknown",
+    "rating": 4.25,
+    "beer_name": "Supernatural",
+    "brewery": "Shred Beer Company",
+    "beer_type": "IPA - Triple"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-05T19:09:11+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Supernatural",
+    "brewery": "Shred Beer Company",
+    "beer_type": "IPA - Triple"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-05T19:08:33+00:00",
+    "serving": "can",
+    "rating": 2.75,
+    "beer_name": "Supernatural",
+    "brewery": "Shred Beer Company",
+    "beer_type": "IPA - Triple"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-08-05T19:06:55+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Samichlaus Schwarzes",
+    "brewery": "Schloss Eggenberg",
+    "beer_type": "Malt Liquor"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-05T19:06:39+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Supernatural",
+    "brewery": "Shred Beer Company",
+    "beer_type": "IPA - Triple"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-05T19:04:30+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Dr. Nopain",
+    "brewery": "4BREWERS",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-05T19:04:24+00:00",
+    "serving": "Unknown",
+    "rating": 4.3,
+    "beer_name": "Supernatural",
+    "brewery": "Shred Beer Company",
+    "beer_type": "IPA - Triple"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-05T19:03:47+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Dr. Nopain",
+    "brewery": "4BREWERS",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-05T19:03:20+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Dr. Nopain",
+    "brewery": "4BREWERS",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-05T19:03:19+00:00",
+    "serving": "Unknown",
+    "rating": 4.25,
+    "beer_name": "OUOUOU",
+    "brewery": "4BREWERS",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-05T19:01:45+00:00",
+    "serving": "Unknown",
+    "rating": 4.25,
+    "beer_name": "Dr. Nopain",
+    "brewery": "4BREWERS",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-05T19:01:03+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Dr. Nopain",
+    "brewery": "4BREWERS",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-05T19:00:31+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Dr. Nopain",
+    "brewery": "4BREWERS",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-05T18:59:51+00:00",
+    "serving": "Unknown",
+    "rating": 4.2,
+    "beer_name": "Dr. Nopain",
+    "brewery": "4BREWERS",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-05T18:55:43+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "OUOUOU",
+    "brewery": "4BREWERS",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-05T18:54:00+00:00",
+    "serving": "can",
+    "rating": 4.5,
+    "beer_name": "OUOUOU",
+    "brewery": "4BREWERS",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-05T18:53:25+00:00",
+    "serving": "Unknown",
+    "rating": 4.5,
+    "beer_name": "OUOUOU",
+    "brewery": "4BREWERS",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-05T18:53:15+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "OUOUOU",
+    "brewery": "4BREWERS",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-05T18:52:26+00:00",
+    "serving": "Unknown",
+    "rating": 4.6,
+    "beer_name": "OUOUOU",
+    "brewery": "4BREWERS",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-05T18:52:25+00:00",
+    "serving": "Unknown",
+    "rating": 3.25,
+    "beer_name": "OUOUOU",
+    "brewery": "4BREWERS",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-05T18:50:13+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Whakahoa",
+    "brewery": "Factory Brewing",
+    "beer_type": "IPA - Triple New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-08-05T18:49:49+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Twist & Stout",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Stout - Irish Dry"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-08-05T18:49:42+00:00",
+    "serving": "draft",
+    "rating": 3.0,
+    "beer_name": "Twist & Stout",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Stout - Irish Dry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-05T18:49:38+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Whakahoa",
+    "brewery": "Factory Brewing",
+    "beer_type": "IPA - Triple New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-05T18:49:38+00:00",
+    "serving": "Unknown",
+    "rating": 4.5,
+    "beer_name": "Whakahoa",
+    "brewery": "Factory Brewing",
+    "beer_type": "IPA - Triple New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-05T18:49:26+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "Whakahoa",
+    "brewery": "Factory Brewing",
+    "beer_type": "IPA - Triple New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-05T18:49:14+00:00",
+    "serving": "Unknown",
+    "rating": 4.5,
+    "beer_name": "Whakahoa",
+    "brewery": "Factory Brewing",
+    "beer_type": "IPA - Triple New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-05T18:48:30+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Magical Path",
+    "brewery": "Shred Beer Company",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-05T18:47:36+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "Magical Path",
+    "brewery": "Shred Beer Company",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-05T18:47:23+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "Whakahoa",
+    "brewery": "Factory Brewing",
+    "beer_type": "IPA - Triple New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-05T18:45:57+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Pudi-Padi",
+    "brewery": "Tuletorn Brewing",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-05T18:45:26+00:00",
+    "serving": "Unknown",
+    "rating": 4.2,
+    "beer_name": "Whakahoa",
+    "brewery": "Factory Brewing",
+    "beer_type": "IPA - Triple New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-05T18:41:34+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "Magical Path",
+    "brewery": "Shred Beer Company",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-05T18:41:12+00:00",
+    "serving": "Unknown",
+    "rating": 4.25,
+    "beer_name": "Magical Path",
+    "brewery": "Shred Beer Company",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-05T18:39:56+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Magical Path",
+    "brewery": "Shred Beer Company",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-05T18:39:22+00:00",
+    "serving": "Unknown",
+    "rating": 4.3,
+    "beer_name": "Magical Path",
+    "brewery": "Shred Beer Company",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-05T18:38:42+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Magical Path",
+    "brewery": "Shred Beer Company",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-05T18:36:24+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "Pudi-Padi",
+    "brewery": "Tuletorn Brewing",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-05T18:34:43+00:00",
+    "serving": "Unknown",
+    "rating": 4.5,
+    "beer_name": "Pudi-Padi",
+    "brewery": "Tuletorn Brewing",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-05T18:34:12+00:00",
+    "serving": "Unknown",
+    "rating": 4.5,
+    "beer_name": "Bestikad",
+    "brewery": "Tuletorn Brewing",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-05T18:34:11+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "Pudi-Padi",
+    "brewery": "Tuletorn Brewing",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-05T18:33:49+00:00",
+    "serving": "Unknown",
+    "rating": 4.25,
+    "beer_name": "Pudi-Padi",
+    "brewery": "Tuletorn Brewing",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-05T18:32:10+00:00",
+    "serving": "can",
+    "rating": 4.75,
+    "beer_name": "Pudi-Padi",
+    "brewery": "Tuletorn Brewing",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-05T18:31:14+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Bestikad",
+    "brewery": "Tuletorn Brewing",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-05T18:30:40+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Муза",
+    "brewery": "4BREWERS",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-05T18:30:31+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "Bestikad",
+    "brewery": "Tuletorn Brewing",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-05T18:30:06+00:00",
+    "serving": "Unknown",
+    "rating": 4.5,
+    "beer_name": "Pudi-Padi",
+    "brewery": "Tuletorn Brewing",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-05T18:29:43+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "Bestikad",
+    "brewery": "Tuletorn Brewing",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-05T18:28:34+00:00",
+    "serving": "Unknown",
+    "rating": 4.5,
+    "beer_name": "Bestikad",
+    "brewery": "Tuletorn Brewing",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-05T18:28:18+00:00",
+    "serving": "Unknown",
+    "rating": 4.3,
+    "beer_name": "Bestikad",
+    "brewery": "Tuletorn Brewing",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-05T18:26:27+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "B2-GEZER",
+    "brewery": "Oak & Ash",
+    "beer_type": "IPA - Fruited"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-05T18:26:09+00:00",
+    "serving": "can",
+    "rating": 4.5,
+    "beer_name": "Bestikad",
+    "brewery": "Tuletorn Brewing",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-05T18:24:15+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Муза",
+    "brewery": "4BREWERS",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-05T18:23:00+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Plastic Palm Tree",
+    "brewery": "Tuletorn Brewing",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-05T18:22:29+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "Plastic Palm Tree",
+    "brewery": "Tuletorn Brewing",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-05T18:22:20+00:00",
+    "serving": "Unknown",
+    "rating": 4.25,
+    "beer_name": "Plastic Palm Tree",
+    "brewery": "Tuletorn Brewing",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-05T18:21:49+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "Plastic Palm Tree",
+    "brewery": "Tuletorn Brewing",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-05T18:20:29+00:00",
+    "serving": "Unknown",
+    "rating": 4.5,
+    "beer_name": "Plastic Palm Tree",
+    "brewery": "Tuletorn Brewing",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-05T18:19:53+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "Pixel",
+    "brewery": "Phase Three Brewing",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-05T18:19:43+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Plastic Palm Tree",
+    "brewery": "Tuletorn Brewing",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-05T18:18:54+00:00",
+    "serving": "Unknown",
+    "rating": 4.5,
+    "beer_name": "Plastic Palm Tree",
+    "brewery": "Tuletorn Brewing",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-05T18:15:01+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Pixel",
+    "brewery": "Phase Three Brewing",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-05T18:14:09+00:00",
+    "serving": "Unknown",
+    "rating": 4.25,
+    "beer_name": "Double Pepperoni",
+    "brewery": "Hop Butcher For The World",
+    "beer_type": "IPA - Imperial / Double New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-05T18:12:13+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "Double Pepperoni",
+    "brewery": "Hop Butcher For The World",
+    "beer_type": "IPA - Imperial / Double New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-08-05T18:10:50+00:00",
+    "serving": "draft",
+    "rating": 3.25,
+    "beer_name": "Jaffa IPA",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-05T18:10:23+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "Double Pepperoni",
+    "brewery": "Hop Butcher For The World",
+    "beer_type": "IPA - Imperial / Double New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-05T18:10:01+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Double Pepperoni",
+    "brewery": "Hop Butcher For The World",
+    "beer_type": "IPA - Imperial / Double New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-05T18:09:35+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "Double Pepperoni",
+    "brewery": "Hop Butcher For The World",
+    "beer_type": "IPA - Imperial / Double New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-05T18:09:21+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Double Pepperoni",
+    "brewery": "Hop Butcher For The World",
+    "beer_type": "IPA - Imperial / Double New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-05T18:06:54+00:00",
+    "serving": "Unknown",
+    "rating": 4.2,
+    "beer_name": "Double Pepperoni",
+    "brewery": "Hop Butcher For The World",
+    "beer_type": "IPA - Imperial / Double New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-08-05T18:04:27+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Atslananas (עצלננס) Smoothie NEIPA",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-05T18:03:55+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Pixel",
+    "brewery": "Phase Three Brewing",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-05T18:03:13+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Cold Beer",
+    "brewery": "BrewDog",
+    "beer_type": "Lager - Pale"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-05T18:03:10+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "Pixel",
+    "brewery": "Phase Three Brewing",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-05T18:03:00+00:00",
+    "serving": "Unknown",
+    "rating": 4.25,
+    "beer_name": "Муза",
+    "brewery": "4BREWERS",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-05T18:02:44+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Pixel",
+    "brewery": "Phase Three Brewing",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-05T18:02:10+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Pixel",
+    "brewery": "Phase Three Brewing",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-05T18:00:02+00:00",
+    "serving": "Unknown",
+    "rating": 4.3,
+    "beer_name": "Pixel",
+    "brewery": "Phase Three Brewing",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-05T17:57:33+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Муза",
+    "brewery": "4BREWERS",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-05T17:57:21+00:00",
+    "serving": "Unknown",
+    "rating": 4.5,
+    "beer_name": "Муза",
+    "brewery": "4BREWERS",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-05T17:56:13+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "Муза",
+    "brewery": "4BREWERS",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-05T17:54:57+00:00",
+    "serving": "Unknown",
+    "rating": 4.2,
+    "beer_name": "Муза",
+    "brewery": "4BREWERS",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-05T17:54:35+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "Муза",
+    "brewery": "4BREWERS",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-05T17:53:20+00:00",
+    "serving": "Unknown",
+    "rating": 4.25,
+    "beer_name": "Bianca Expedition Blueberry Blackberry Kiwi Lassi Gose",
+    "brewery": "Omnipollo",
+    "beer_type": "Sour - Fruited Gose"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-05T17:53:02+00:00",
+    "serving": "can",
+    "rating": 4.5,
+    "beer_name": "Bianca Expedition Blueberry Blackberry Kiwi Lassi Gose",
+    "brewery": "Omnipollo",
+    "beer_type": "Sour - Fruited Gose"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-05T17:51:48+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Bianca Expedition Blueberry Blackberry Kiwi Lassi Gose",
+    "brewery": "Omnipollo",
+    "beer_type": "Sour - Fruited Gose"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-05T17:51:07+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Bianca Expedition Blueberry Blackberry Kiwi Lassi Gose",
+    "brewery": "Omnipollo",
+    "beer_type": "Sour - Fruited Gose"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-05T17:49:37+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "Bianca Expedition Blueberry Blackberry Kiwi Lassi Gose",
+    "brewery": "Omnipollo",
+    "beer_type": "Sour - Fruited Gose"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-05T17:49:22+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Bianca Expedition Blueberry Blackberry Kiwi Lassi Gose",
+    "brewery": "Omnipollo",
+    "beer_type": "Sour - Fruited Gose"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-05T17:48:55+00:00",
+    "serving": "can",
+    "rating": 4.5,
+    "beer_name": "Bianca Expedition Blueberry Blackberry Kiwi Lassi Gose",
+    "brewery": "Omnipollo",
+    "beer_type": "Sour - Fruited Gose"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-05T17:48:31+00:00",
+    "serving": "Unknown",
+    "rating": 4.5,
+    "beer_name": "Bianca Expedition Blueberry Blackberry Kiwi Lassi Gose",
+    "brewery": "Omnipollo",
+    "beer_type": "Sour - Fruited Gose"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-05T17:46:22+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Space Monkey Mafia",
+    "brewery": "Moonraker Brewing Company",
+    "beer_type": "IPA - Cold"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-05T17:44:37+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Space Monkey Mafia",
+    "brewery": "Moonraker Brewing Company",
+    "beer_type": "IPA - Cold"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-05T17:44:16+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Space Monkey Mafia",
+    "brewery": "Moonraker Brewing Company",
+    "beer_type": "IPA - Cold"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-05T17:43:44+00:00",
+    "serving": "Unknown",
+    "rating": 3.25,
+    "beer_name": "Space Monkey Mafia",
+    "brewery": "Moonraker Brewing Company",
+    "beer_type": "IPA - Cold"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-05T17:43:14+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Space Monkey Mafia",
+    "brewery": "Moonraker Brewing Company",
+    "beer_type": "IPA - Cold"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-05T17:42:05+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Space Monkey Mafia",
+    "brewery": "Moonraker Brewing Company",
+    "beer_type": "IPA - Cold"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-05T17:40:52+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Space Monkey Mafia",
+    "brewery": "Moonraker Brewing Company",
+    "beer_type": "IPA - Cold"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-05T17:40:20+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Splitty Westy",
+    "brewery": "Fat Lizard Brewing Co.",
+    "beer_type": "IPA - Imperial / Double"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-05T17:39:59+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Splitty Westy",
+    "brewery": "Fat Lizard Brewing Co.",
+    "beer_type": "IPA - Imperial / Double"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-05T17:39:14+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Splitty Westy",
+    "brewery": "Fat Lizard Brewing Co.",
+    "beer_type": "IPA - Imperial / Double"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-05T17:38:02+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Splitty Westy",
+    "brewery": "Fat Lizard Brewing Co.",
+    "beer_type": "IPA - Imperial / Double"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-05T17:37:39+00:00",
+    "serving": "can",
+    "rating": 4.5,
+    "beer_name": "Sekret Machines",
+    "brewery": "8 bit Brewing Company",
+    "beer_type": "IPA - Imperial / Double"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-05T17:37:03+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Splitty Westy",
+    "brewery": "Fat Lizard Brewing Co.",
+    "beer_type": "IPA - Imperial / Double"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-05T17:36:58+00:00",
+    "serving": "can",
+    "rating": 2.75,
+    "beer_name": "Splitty Westy",
+    "brewery": "Fat Lizard Brewing Co.",
+    "beer_type": "IPA - Imperial / Double"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-05T17:36:28+00:00",
+    "serving": "Unknown",
+    "rating": 3.6,
+    "beer_name": "Splitty Westy",
+    "brewery": "Fat Lizard Brewing Co.",
+    "beer_type": "IPA - Imperial / Double"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-05T17:36:26+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "Sekret Machines",
+    "brewery": "8 bit Brewing Company",
+    "beer_type": "IPA - Imperial / Double"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-05T17:36:01+00:00",
+    "serving": "can",
+    "rating": 3.0,
+    "beer_name": "Splitty Westy",
+    "brewery": "Fat Lizard Brewing Co.",
+    "beer_type": "IPA - Imperial / Double"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-05T17:33:12+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Sekret Machines",
+    "brewery": "8 bit Brewing Company",
+    "beer_type": "IPA - Imperial / Double"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-05T17:32:46+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "GIRAFFE MILK",
+    "brewery": "4BREWERS",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-05T17:32:26+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Jupiter",
+    "brewery": "Browarny Craft Beer",
+    "beer_type": "Sour - Fruited Gose"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-05T17:29:16+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Sekret Machines",
+    "brewery": "8 bit Brewing Company",
+    "beer_type": "IPA - Imperial / Double"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-05T17:28:59+00:00",
+    "serving": "Unknown",
+    "rating": 4.2,
+    "beer_name": "Sekret Machines",
+    "brewery": "8 bit Brewing Company",
+    "beer_type": "IPA - Imperial / Double"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-05T17:28:50+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "Sekret Machines",
+    "brewery": "8 bit Brewing Company",
+    "beer_type": "IPA - Imperial / Double"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-05T17:27:57+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Sekret Machines",
+    "brewery": "8 bit Brewing Company",
+    "beer_type": "IPA - Imperial / Double"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-05T17:25:54+00:00",
+    "serving": "can",
+    "rating": 3.25,
+    "beer_name": "GIRAFFE MILK",
+    "brewery": "4BREWERS",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-05T17:25:28+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "GIRAFFE MILK",
+    "brewery": "4BREWERS",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-05T17:25:23+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "Jupiter",
+    "brewery": "Browarny Craft Beer",
+    "beer_type": "Sour - Fruited Gose"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-05T17:25:09+00:00",
+    "serving": "can",
+    "rating": 3.0,
+    "beer_name": "Jupiter",
+    "brewery": "Browarny Craft Beer",
+    "beer_type": "Sour - Fruited Gose"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-05T17:24:51+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "GIRAFFE MILK",
+    "brewery": "4BREWERS",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-05T17:24:32+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "GIRAFFE MILK",
+    "brewery": "4BREWERS",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-05T17:23:19+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "GIRAFFE MILK",
+    "brewery": "4BREWERS",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-05T17:21:52+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "GIRAFFE MILK",
+    "brewery": "4BREWERS",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-05T17:21:35+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Jupiter",
+    "brewery": "Browarny Craft Beer",
+    "beer_type": "Sour - Fruited Gose"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-05T17:18:16+00:00",
+    "serving": "Unknown",
+    "rating": 3.8,
+    "beer_name": "Jupiter",
+    "brewery": "Browarny Craft Beer",
+    "beer_type": "Sour - Fruited Gose"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-05T17:17:01+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Jupiter",
+    "brewery": "Browarny Craft Beer",
+    "beer_type": "Sour - Fruited Gose"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-05T17:16:42+00:00",
+    "serving": "can",
+    "rating": 4.5,
+    "beer_name": "Jupiter",
+    "brewery": "Browarny Craft Beer",
+    "beer_type": "Sour - Fruited Gose"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-05T17:00:00+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Accept All Cookies",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pale Ale - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-05T16:52:01+00:00",
+    "serving": "draft",
+    "rating": 2.5,
+    "beer_name": "KRUSHED IT",
+    "brewery": "Oak & Ash",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-08-05T16:46:40+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Twist & Stout",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Stout - Irish Dry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-05T16:39:21+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Smoothie Bowl: Pistachio Fluff",
+    "brewery": "Nepo Brewing",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-08-05T16:35:18+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Atslananas (עצלננס) Smoothie NEIPA",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-05T16:15:18+00:00",
+    "serving": "draft",
+    "rating": 2.75,
+    "beer_name": "10th Anniversary Smoothie Bowl",
+    "brewery": "Nepo Brewing",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-05T16:13:04+00:00",
+    "serving": "draft",
+    "rating": 3.25,
+    "beer_name": "Atslananas (עצלננס) Smoothie NEIPA",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-05T16:08:12+00:00",
+    "serving": "draft",
+    "rating": 4.75,
+    "beer_name": "Pink Grapefruit Halcyon",
+    "brewery": "Thornbridge Brewery",
+    "beer_type": "IPA - Imperial / Double"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-08-05T16:03:05+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Citra Achra סיטרה אחרא",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-05T16:01:01+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Pink Grapefruit Halcyon",
+    "brewery": "Thornbridge Brewery",
+    "beer_type": "IPA - Imperial / Double"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-05T15:57:59+00:00",
+    "serving": "draft",
+    "rating": 2.75,
+    "beer_name": "Accept All Cookies",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pale Ale - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-05T15:40:59+00:00",
+    "serving": "draft",
+    "rating": 3.0,
+    "beer_name": "Premium Cider",
+    "brewery": "Westons Cider",
+    "beer_type": "Cider - Traditional / Apfelwein"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-08-05T15:35:30+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "What Was Was Was Was",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - Other"
+  },
   {
     "venue": "schnitt-brewing-company",
     "time": "2025-08-04T21:14:49+00:00",
@@ -16486,8 +18097,8 @@ const BEER_DATA = [
     "venue": "berlin-florentin",
     "time": "2024-12-23T18:37:49+00:00",
     "serving": "bottle",
-    "rating": 3.0,
-    "beer_name": "Christmas Ale",
+    "rating": 4.1,
+    "beer_name": "Christmas Ale (2023)",
     "brewery": "Brouwerij St.Bernardus",
     "beer_type": "Winter Ale"
   },
@@ -16495,8 +18106,8 @@ const BEER_DATA = [
     "venue": "berlin-florentin",
     "time": "2024-12-23T18:37:49+00:00",
     "serving": "bottle",
-    "rating": 4.1,
-    "beer_name": "Christmas Ale (2023)",
+    "rating": 3.0,
+    "beer_name": "Christmas Ale",
     "brewery": "Brouwerij St.Bernardus",
     "beer_type": "Winter Ale"
   },

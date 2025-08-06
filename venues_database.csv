@@ -1,4 +1,183 @@
 venue,user,time,serving,data_rating,beer_name,brewery,beer_type
+lauter,Yaniv Alal,"Tue, 05 Aug 2025 20:20:29 +0000",can,4.25,Supernatural,Shred Beer Company,IPA - Triple
+lauter,Yaniv Alal,"Tue, 05 Aug 2025 20:18:32 +0000",can,4.25,Monstrous Oils,Cellarmaker Brewing Company,IPA - Quadruple
+lauter,Yaniv Alal,"Tue, 05 Aug 2025 20:17:23 +0000",can,4.0,SLUSHY XL: Haha!,450 North Brewing Company,Sour - Smoothie / Pastry
+lauter,Yaniv Alal,"Tue, 05 Aug 2025 20:16:23 +0000",can,4.5,Coagula,Brujos Brewing,IPA - Triple
+lauter,Oren Sleepwalker,"Tue, 05 Aug 2025 20:02:21 +0000",draft,,10th Anniversary Smoothie Bowl,Nepo Brewing,Sour - Smoothie / Pastry
+lauter,Oren Sleepwalker,"Tue, 05 Aug 2025 19:59:29 +0000",,,Caramel Coconut Fluffernutter,Equilibrium Brewery,Stout - Imperial / Double Pastry
+schnitt-brewing-company,Nadav Kaddar,"Tue, 05 Aug 2025 19:58:52 +0000",draft,3.75,Mexico City Twist,Schnitt Brewing Company﻿,Lager - Mexican
+lauter,Oren Sleepwalker,"Tue, 05 Aug 2025 19:58:37 +0000",,,Coagula,Brujos Brewing,IPA - Triple
+lauter,Oren Sleepwalker,"Tue, 05 Aug 2025 19:57:50 +0000",,,Hydralisk,Spanish Marie Brewery,Sour - Smoothie / Pastry
+lauter,Yaron Sh,"Tue, 05 Aug 2025 19:52:32 +0000",,4.25,Caramel Coconut Fluffernutter,Equilibrium Brewery,Stout - Imperial / Double Pastry
+lauter,Yaniv Alal,"Tue, 05 Aug 2025 19:48:49 +0000",bottle,4.5,Caramel Coconut Fluffernutter,Equilibrium Brewery,Stout - Imperial / Double Pastry
+lauter,Shaul A,"Tue, 05 Aug 2025 19:47:43 +0000",,4.75,Caramel Coconut Fluffernutter,Equilibrium Brewery,Stout - Imperial / Double Pastry
+lauter,Mikhail Stolov,"Tue, 05 Aug 2025 19:47:29 +0000",bottle,4.0,Caramel Coconut Fluffernutter,Equilibrium Brewery,Stout - Imperial / Double Pastry
+lauter,Yosef Dahan,"Tue, 05 Aug 2025 19:47:26 +0000",bottle,4.5,Caramel Coconut Fluffernutter,Equilibrium Brewery,Stout - Imperial / Double Pastry
+lauter,Kobi,"Tue, 05 Aug 2025 19:44:04 +0000",,4.8,Caramel Coconut Fluffernutter,Equilibrium Brewery,Stout - Imperial / Double Pastry
+lauter,Yosef Dahan,"Tue, 05 Aug 2025 19:41:59 +0000",can,2.25,Coagula,Brujos Brewing,IPA - Triple
+lauter,Yaron Sh,"Tue, 05 Aug 2025 19:40:27 +0000",,4.5,Coagula,Brujos Brewing,IPA - Triple
+lauter,Mikhail Stolov,"Tue, 05 Aug 2025 19:40:23 +0000",can,4.75,Coagula,Brujos Brewing,IPA - Triple
+lauter,Shaul A,"Tue, 05 Aug 2025 19:39:57 +0000",,4.0,Coagula,Brujos Brewing,IPA - Triple
+lauter,Kobi,"Tue, 05 Aug 2025 19:37:37 +0000",,4.6,Coagula,Brujos Brewing,IPA - Triple
+lauter,Yaron Sh,"Tue, 05 Aug 2025 19:34:44 +0000",,4.25,Hydralisk,Spanish Marie Brewery,Sour - Smoothie / Pastry
+lauter,Yaniv Alal,"Tue, 05 Aug 2025 19:34:03 +0000",can,4.25,Hydralisk,Spanish Marie Brewery,Sour - Smoothie / Pastry
+lauter,Shaul A,"Tue, 05 Aug 2025 19:32:48 +0000",,4.5,Hydralisk,Spanish Marie Brewery,Sour - Smoothie / Pastry
+lauter,Yosef Dahan,"Tue, 05 Aug 2025 19:32:12 +0000",can,4.0,Hydralisk,Spanish Marie Brewery,Sour - Smoothie / Pastry
+lauter,Mikhail Stolov,"Tue, 05 Aug 2025 19:31:48 +0000",,4.25,Hydralisk,Spanish Marie Brewery,Sour - Smoothie / Pastry
+lauter,Yaron Sh,"Tue, 05 Aug 2025 19:29:11 +0000",,4.0,SLUSHY XL: Haha!,450 North Brewing Company,Sour - Smoothie / Pastry
+lauter,Kobi,"Tue, 05 Aug 2025 19:29:05 +0000",,4.3,Hydralisk,Spanish Marie Brewery,Sour - Smoothie / Pastry
+lauter,Yosef Dahan,"Tue, 05 Aug 2025 19:28:30 +0000",can,3.75,SLUSHY XL: Haha!,450 North Brewing Company,Sour - Smoothie / Pastry
+lauter,Shaul A,"Tue, 05 Aug 2025 19:26:45 +0000",,4.25,SLUSHY XL: Haha!,450 North Brewing Company,Sour - Smoothie / Pastry
+lauter,Mikhail Stolov,"Tue, 05 Aug 2025 19:24:07 +0000",can,4.5,SLUSHY XL: Haha!,450 North Brewing Company,Sour - Smoothie / Pastry
+lauter,Oren Sleepwalker,"Tue, 05 Aug 2025 19:24:07 +0000",,,SLUSHY XL: Haha!,450 North Brewing Company,Sour - Smoothie / Pastry
+lauter,Kobi,"Tue, 05 Aug 2025 19:21:59 +0000",,4.3,SLUSHY XL: Haha!,450 North Brewing Company,Sour - Smoothie / Pastry
+lauter,Shaul A,"Tue, 05 Aug 2025 19:16:22 +0000",,4.25,Monstrous Oils,Cellarmaker Brewing Company,IPA - Quadruple
+lauter,Yaron Sh,"Tue, 05 Aug 2025 19:15:56 +0000",,4.25,Monstrous Oils,Cellarmaker Brewing Company,IPA - Quadruple
+lauter,Yosef Dahan,"Tue, 05 Aug 2025 19:15:35 +0000",can,4.0,Monstrous Oils,Cellarmaker Brewing Company,IPA - Quadruple
+lauter,Oren Sleepwalker,"Tue, 05 Aug 2025 19:15:13 +0000",,,Monstrous Oils,Cellarmaker Brewing Company,IPA - Quadruple
+lauter,Mikhail Stolov,"Tue, 05 Aug 2025 19:12:40 +0000",can,4.25,Monstrous Oils,Cellarmaker Brewing Company,IPA - Quadruple
+lauter,Kobi,"Tue, 05 Aug 2025 19:12:15 +0000",,4.4,Monstrous Oils,Cellarmaker Brewing Company,IPA - Quadruple
+lauter,Oren Sleepwalker,"Tue, 05 Aug 2025 19:11:02 +0000",,,Supernatural,Shred Beer Company,IPA - Triple
+lauter,Shaul A,"Tue, 05 Aug 2025 19:09:35 +0000",,4.25,Supernatural,Shred Beer Company,IPA - Triple
+lauter,Yaron Sh,"Tue, 05 Aug 2025 19:09:11 +0000",,4.0,Supernatural,Shred Beer Company,IPA - Triple
+lauter,Yosef Dahan,"Tue, 05 Aug 2025 19:08:33 +0000",can,2.75,Supernatural,Shred Beer Company,IPA - Triple
+schnitt-brewing-company,Lee Ker,"Tue, 05 Aug 2025 19:06:55 +0000",,,Samichlaus Schwarzes,Schloss Eggenberg,Malt Liquor
+lauter,Mikhail Stolov,"Tue, 05 Aug 2025 19:06:39 +0000",can,3.75,Supernatural,Shred Beer Company,IPA - Triple
+lauter,Oren Sleepwalker,"Tue, 05 Aug 2025 19:04:30 +0000",,,Dr. Nopain,4BREWERS,Sour - Fruited
+lauter,Kobi,"Tue, 05 Aug 2025 19:04:24 +0000",,4.3,Supernatural,Shred Beer Company,IPA - Triple
+lauter,Yaron Sh,"Tue, 05 Aug 2025 19:03:47 +0000",,4.0,Dr. Nopain,4BREWERS,Sour - Fruited
+lauter,Yaniv Alal,"Tue, 05 Aug 2025 19:03:20 +0000",can,3.75,Dr. Nopain,4BREWERS,Sour - Fruited
+lauter,Yaron Sh,"Tue, 05 Aug 2025 19:03:19 +0000",,4.25,OUOUOU,4BREWERS,Sour - Fruited
+lauter,Shaul A,"Tue, 05 Aug 2025 19:01:45 +0000",,4.25,Dr. Nopain,4BREWERS,Sour - Fruited
+lauter,Yosef Dahan,"Tue, 05 Aug 2025 19:01:03 +0000",can,3.75,Dr. Nopain,4BREWERS,Sour - Fruited
+lauter,Mikhail Stolov,"Tue, 05 Aug 2025 19:00:31 +0000",can,3.5,Dr. Nopain,4BREWERS,Sour - Fruited
+lauter,Kobi,"Tue, 05 Aug 2025 18:59:51 +0000",,4.2,Dr. Nopain,4BREWERS,Sour - Fruited
+lauter,Oren Sleepwalker,"Tue, 05 Aug 2025 18:55:43 +0000",,,OUOUOU,4BREWERS,Sour - Fruited
+lauter,Yaniv Alal,"Tue, 05 Aug 2025 18:54:00 +0000",can,4.5,OUOUOU,4BREWERS,Sour - Fruited
+lauter,Shaul A,"Tue, 05 Aug 2025 18:53:25 +0000",,4.5,OUOUOU,4BREWERS,Sour - Fruited
+lauter,Yosef Dahan,"Tue, 05 Aug 2025 18:53:15 +0000",can,3.75,OUOUOU,4BREWERS,Sour - Fruited
+lauter,Kobi,"Tue, 05 Aug 2025 18:52:26 +0000",,4.6,OUOUOU,4BREWERS,Sour - Fruited
+lauter,Mikhail Stolov,"Tue, 05 Aug 2025 18:52:25 +0000",,3.25,OUOUOU,4BREWERS,Sour - Fruited
+lauter,Oren Sleepwalker,"Tue, 05 Aug 2025 18:50:13 +0000",,,Whakahoa,Factory Brewing,IPA - Triple New England / Hazy
+schnitt-brewing-company,Arkady Gerasimuk,"Tue, 05 Aug 2025 18:49:49 +0000",draft,3.5,Twist & Stout,Schnitt Brewing Company﻿,Stout - Irish Dry
+schnitt-brewing-company,Yaniv Gorodetsky,"Tue, 05 Aug 2025 18:49:42 +0000",draft,3.0,Twist & Stout,Schnitt Brewing Company﻿,Stout - Irish Dry
+lauter,Yosef Dahan,"Tue, 05 Aug 2025 18:49:38 +0000",can,4.0,Whakahoa,Factory Brewing,IPA - Triple New England / Hazy
+lauter,Yaron Sh,"Tue, 05 Aug 2025 18:49:38 +0000",,4.5,Whakahoa,Factory Brewing,IPA - Triple New England / Hazy
+lauter,Yaniv Alal,"Tue, 05 Aug 2025 18:49:26 +0000",draft,4.25,Whakahoa,Factory Brewing,IPA - Triple New England / Hazy
+lauter,Shaul A,"Tue, 05 Aug 2025 18:49:14 +0000",,4.5,Whakahoa,Factory Brewing,IPA - Triple New England / Hazy
+lauter,Yaron Sh,"Tue, 05 Aug 2025 18:48:30 +0000",,4.0,Magical Path,Shred Beer Company,IPA - New England / Hazy
+lauter,Yaniv Alal,"Tue, 05 Aug 2025 18:47:36 +0000",can,4.25,Magical Path,Shred Beer Company,IPA - New England / Hazy
+lauter,Mikhail Stolov,"Tue, 05 Aug 2025 18:47:23 +0000",can,4.25,Whakahoa,Factory Brewing,IPA - Triple New England / Hazy
+lauter,Oren Sleepwalker,"Tue, 05 Aug 2025 18:45:57 +0000",,,Pudi-Padi,Tuletorn Brewing,Sour - Smoothie / Pastry
+lauter,Kobi,"Tue, 05 Aug 2025 18:45:26 +0000",,4.2,Whakahoa,Factory Brewing,IPA - Triple New England / Hazy
+lauter,Yosef Dahan,"Tue, 05 Aug 2025 18:41:34 +0000",can,4.25,Magical Path,Shred Beer Company,IPA - New England / Hazy
+lauter,Shaul A,"Tue, 05 Aug 2025 18:41:12 +0000",,4.25,Magical Path,Shred Beer Company,IPA - New England / Hazy
+lauter,Oren Sleepwalker,"Tue, 05 Aug 2025 18:39:56 +0000",,,Magical Path,Shred Beer Company,IPA - New England / Hazy
+lauter,Kobi,"Tue, 05 Aug 2025 18:39:22 +0000",,4.3,Magical Path,Shred Beer Company,IPA - New England / Hazy
+lauter,Mikhail Stolov,"Tue, 05 Aug 2025 18:38:42 +0000",can,3.75,Magical Path,Shred Beer Company,IPA - New England / Hazy
+lauter,Yosef Dahan,"Tue, 05 Aug 2025 18:36:24 +0000",can,4.25,Pudi-Padi,Tuletorn Brewing,Sour - Smoothie / Pastry
+lauter,Yaron Sh,"Tue, 05 Aug 2025 18:34:43 +0000",,4.5,Pudi-Padi,Tuletorn Brewing,Sour - Smoothie / Pastry
+lauter,Yaron Sh,"Tue, 05 Aug 2025 18:34:12 +0000",,4.5,Bestikad,Tuletorn Brewing,Sour - Smoothie / Pastry
+lauter,Yaniv Alal,"Tue, 05 Aug 2025 18:34:11 +0000",can,4.25,Pudi-Padi,Tuletorn Brewing,Sour - Smoothie / Pastry
+lauter,Shaul A,"Tue, 05 Aug 2025 18:33:49 +0000",,4.25,Pudi-Padi,Tuletorn Brewing,Sour - Smoothie / Pastry
+lauter,Mikhail Stolov,"Tue, 05 Aug 2025 18:32:10 +0000",can,4.75,Pudi-Padi,Tuletorn Brewing,Sour - Smoothie / Pastry
+lauter,Oren Sleepwalker,"Tue, 05 Aug 2025 18:31:14 +0000",,,Bestikad,Tuletorn Brewing,Sour - Smoothie / Pastry
+lauter,Oren Sleepwalker,"Tue, 05 Aug 2025 18:30:40 +0000",,,Муза,4BREWERS,Sour - Smoothie / Pastry
+lauter,Yosef Dahan,"Tue, 05 Aug 2025 18:30:31 +0000",can,4.25,Bestikad,Tuletorn Brewing,Sour - Smoothie / Pastry
+lauter,Kobi,"Tue, 05 Aug 2025 18:30:06 +0000",,4.5,Pudi-Padi,Tuletorn Brewing,Sour - Smoothie / Pastry
+lauter,Yaniv Alal,"Tue, 05 Aug 2025 18:29:43 +0000",can,4.25,Bestikad,Tuletorn Brewing,Sour - Smoothie / Pastry
+lauter,Shaul A,"Tue, 05 Aug 2025 18:28:34 +0000",,4.5,Bestikad,Tuletorn Brewing,Sour - Smoothie / Pastry
+lauter,Kobi,"Tue, 05 Aug 2025 18:28:18 +0000",,4.3,Bestikad,Tuletorn Brewing,Sour - Smoothie / Pastry
+b7-beer-house,Alex Fux,"Tue, 05 Aug 2025 18:26:27 +0000",,3.5,B2-GEZER,Oak & Ash,IPA - Fruited
+lauter,Mikhail Stolov,"Tue, 05 Aug 2025 18:26:09 +0000",can,4.5,Bestikad,Tuletorn Brewing,Sour - Smoothie / Pastry
+lauter,Yaniv Alal,"Tue, 05 Aug 2025 18:24:15 +0000",can,4.0,Муза,4BREWERS,Sour - Smoothie / Pastry
+lauter,Yaron Sh,"Tue, 05 Aug 2025 18:23:00 +0000",,4.0,Plastic Palm Tree,Tuletorn Brewing,Sour - Smoothie / Pastry
+lauter,Yosef Dahan,"Tue, 05 Aug 2025 18:22:29 +0000",can,4.25,Plastic Palm Tree,Tuletorn Brewing,Sour - Smoothie / Pastry
+lauter,Shaul A,"Tue, 05 Aug 2025 18:22:20 +0000",,4.25,Plastic Palm Tree,Tuletorn Brewing,Sour - Smoothie / Pastry
+lauter,Yaniv Alal,"Tue, 05 Aug 2025 18:21:49 +0000",can,4.25,Plastic Palm Tree,Tuletorn Brewing,Sour - Smoothie / Pastry
+lauter,Mikhail Stolov,"Tue, 05 Aug 2025 18:20:29 +0000",,4.5,Plastic Palm Tree,Tuletorn Brewing,Sour - Smoothie / Pastry
+lauter,Yaniv Alal,"Tue, 05 Aug 2025 18:19:53 +0000",can,4.25,Pixel,Phase Three Brewing,IPA - New England / Hazy
+lauter,Oren Sleepwalker,"Tue, 05 Aug 2025 18:19:43 +0000",,,Plastic Palm Tree,Tuletorn Brewing,Sour - Smoothie / Pastry
+lauter,Kobi,"Tue, 05 Aug 2025 18:18:54 +0000",,4.5,Plastic Palm Tree,Tuletorn Brewing,Sour - Smoothie / Pastry
+lauter,Yaron Sh,"Tue, 05 Aug 2025 18:15:01 +0000",,4.0,Pixel,Phase Three Brewing,IPA - New England / Hazy
+lauter,Yaron Sh,"Tue, 05 Aug 2025 18:14:09 +0000",,4.25,Double Pepperoni,Hop Butcher For The World,IPA - Imperial / Double New England / Hazy
+lauter,Yaniv Alal,"Tue, 05 Aug 2025 18:12:13 +0000",can,4.25,Double Pepperoni,Hop Butcher For The World,IPA - Imperial / Double New England / Hazy
+schnitt-brewing-company,Arkady Gerasimuk,"Tue, 05 Aug 2025 18:10:50 +0000",draft,3.25,Jaffa IPA,Schnitt Brewing Company﻿,IPA - American
+lauter,Yosef Dahan,"Tue, 05 Aug 2025 18:10:23 +0000",can,4.25,Double Pepperoni,Hop Butcher For The World,IPA - Imperial / Double New England / Hazy
+lauter,Oren Sleepwalker,"Tue, 05 Aug 2025 18:10:01 +0000",,,Double Pepperoni,Hop Butcher For The World,IPA - Imperial / Double New England / Hazy
+lauter,Mikhail Stolov,"Tue, 05 Aug 2025 18:09:35 +0000",can,4.25,Double Pepperoni,Hop Butcher For The World,IPA - Imperial / Double New England / Hazy
+lauter,Shaul A,"Tue, 05 Aug 2025 18:09:21 +0000",,4.0,Double Pepperoni,Hop Butcher For The World,IPA - Imperial / Double New England / Hazy
+lauter,Kobi,"Tue, 05 Aug 2025 18:06:54 +0000",,4.2,Double Pepperoni,Hop Butcher For The World,IPA - Imperial / Double New England / Hazy
+schnitt-brewing-company,Arkady Gerasimuk,"Tue, 05 Aug 2025 18:04:27 +0000",draft,4.0,Atslananas (עצלננס) Smoothie NEIPA,Schnitt Brewing Company﻿,IPA - New England / Hazy
+lauter,Shaul A,"Tue, 05 Aug 2025 18:03:55 +0000",,4.0,Pixel,Phase Three Brewing,IPA - New England / Hazy
+lauter,Slava Gvantmakher,"Tue, 05 Aug 2025 18:03:13 +0000",can,3.5,Cold Beer,BrewDog,Lager - Pale
+lauter,Yosef Dahan,"Tue, 05 Aug 2025 18:03:10 +0000",can,4.25,Pixel,Phase Three Brewing,IPA - New England / Hazy
+lauter,Yaron Sh,"Tue, 05 Aug 2025 18:03:00 +0000",,4.25,Муза,4BREWERS,Sour - Smoothie / Pastry
+lauter,Oren Sleepwalker,"Tue, 05 Aug 2025 18:02:44 +0000",,,Pixel,Phase Three Brewing,IPA - New England / Hazy
+lauter,Mikhail Stolov,"Tue, 05 Aug 2025 18:02:10 +0000",can,3.5,Pixel,Phase Three Brewing,IPA - New England / Hazy
+lauter,Kobi,"Tue, 05 Aug 2025 18:00:02 +0000",,4.3,Pixel,Phase Three Brewing,IPA - New England / Hazy
+lauter,Yosef Dahan,"Tue, 05 Aug 2025 17:57:33 +0000",can,4.0,Муза,4BREWERS,Sour - Smoothie / Pastry
+lauter,Shaul A,"Tue, 05 Aug 2025 17:57:21 +0000",,4.5,Муза,4BREWERS,Sour - Smoothie / Pastry
+lauter,Avihai Moshe,"Tue, 05 Aug 2025 17:56:13 +0000",can,4.25,Муза,4BREWERS,Sour - Smoothie / Pastry
+lauter,Kobi,"Tue, 05 Aug 2025 17:54:57 +0000",,4.2,Муза,4BREWERS,Sour - Smoothie / Pastry
+lauter,Mikhail Stolov,"Tue, 05 Aug 2025 17:54:35 +0000",can,4.25,Муза,4BREWERS,Sour - Smoothie / Pastry
+lauter,Shaul A,"Tue, 05 Aug 2025 17:53:20 +0000",,4.25,Bianca Expedition Blueberry Blackberry Kiwi Lassi Gose,Omnipollo,Sour - Fruited Gose
+lauter,Yaniv Alal,"Tue, 05 Aug 2025 17:53:02 +0000",can,4.5,Bianca Expedition Blueberry Blackberry Kiwi Lassi Gose,Omnipollo,Sour - Fruited Gose
+lauter,Oren Sleepwalker,"Tue, 05 Aug 2025 17:51:48 +0000",,,Bianca Expedition Blueberry Blackberry Kiwi Lassi Gose,Omnipollo,Sour - Fruited Gose
+lauter,Yaron Sh,"Tue, 05 Aug 2025 17:51:07 +0000",,4.0,Bianca Expedition Blueberry Blackberry Kiwi Lassi Gose,Omnipollo,Sour - Fruited Gose
+lauter,Yosef Dahan,"Tue, 05 Aug 2025 17:49:37 +0000",can,4.25,Bianca Expedition Blueberry Blackberry Kiwi Lassi Gose,Omnipollo,Sour - Fruited Gose
+lauter,Mikhail Stolov,"Tue, 05 Aug 2025 17:49:22 +0000",can,4.0,Bianca Expedition Blueberry Blackberry Kiwi Lassi Gose,Omnipollo,Sour - Fruited Gose
+lauter,Avihai Moshe,"Tue, 05 Aug 2025 17:48:55 +0000",can,4.5,Bianca Expedition Blueberry Blackberry Kiwi Lassi Gose,Omnipollo,Sour - Fruited Gose
+lauter,Kobi,"Tue, 05 Aug 2025 17:48:31 +0000",,4.5,Bianca Expedition Blueberry Blackberry Kiwi Lassi Gose,Omnipollo,Sour - Fruited Gose
+lauter,Yosef Dahan,"Tue, 05 Aug 2025 17:46:22 +0000",can,3.75,Space Monkey Mafia,Moonraker Brewing Company,IPA - Cold
+lauter,Yaron Sh,"Tue, 05 Aug 2025 17:44:37 +0000",,4.0,Space Monkey Mafia,Moonraker Brewing Company,IPA - Cold
+lauter,Avihai Moshe,"Tue, 05 Aug 2025 17:44:16 +0000",can,3.75,Space Monkey Mafia,Moonraker Brewing Company,IPA - Cold
+lauter,Shaul A,"Tue, 05 Aug 2025 17:43:44 +0000",,3.25,Space Monkey Mafia,Moonraker Brewing Company,IPA - Cold
+lauter,Oren Sleepwalker,"Tue, 05 Aug 2025 17:43:14 +0000",,,Space Monkey Mafia,Moonraker Brewing Company,IPA - Cold
+lauter,Kobi,"Tue, 05 Aug 2025 17:42:05 +0000",,4.0,Space Monkey Mafia,Moonraker Brewing Company,IPA - Cold
+lauter,Mikhail Stolov,"Tue, 05 Aug 2025 17:40:52 +0000",can,3.5,Space Monkey Mafia,Moonraker Brewing Company,IPA - Cold
+lauter,Oren Sleepwalker,"Tue, 05 Aug 2025 17:40:20 +0000",,,Splitty Westy,Fat Lizard Brewing Co.,IPA - Imperial / Double
+lauter,Yaron Sh,"Tue, 05 Aug 2025 17:39:59 +0000",,4.0,Splitty Westy,Fat Lizard Brewing Co.,IPA - Imperial / Double
+lauter,Yaniv Alal,"Tue, 05 Aug 2025 17:39:14 +0000",can,3.75,Splitty Westy,Fat Lizard Brewing Co.,IPA - Imperial / Double
+lauter,Shaul A,"Tue, 05 Aug 2025 17:38:02 +0000",,4.0,Splitty Westy,Fat Lizard Brewing Co.,IPA - Imperial / Double
+lauter,Yaniv Alal,"Tue, 05 Aug 2025 17:37:39 +0000",can,4.5,Sekret Machines,8 bit Brewing Company,IPA - Imperial / Double
+lauter,Avihai Moshe,"Tue, 05 Aug 2025 17:37:03 +0000",can,3.5,Splitty Westy,Fat Lizard Brewing Co.,IPA - Imperial / Double
+lauter,Yosef Dahan,"Tue, 05 Aug 2025 17:36:58 +0000",can,2.75,Splitty Westy,Fat Lizard Brewing Co.,IPA - Imperial / Double
+lauter,Kobi,"Tue, 05 Aug 2025 17:36:28 +0000",,3.6,Splitty Westy,Fat Lizard Brewing Co.,IPA - Imperial / Double
+lauter,Shaul A,"Tue, 05 Aug 2025 17:36:26 +0000",,3.75,Sekret Machines,8 bit Brewing Company,IPA - Imperial / Double
+lauter,Mikhail Stolov,"Tue, 05 Aug 2025 17:36:01 +0000",can,3.0,Splitty Westy,Fat Lizard Brewing Co.,IPA - Imperial / Double
+lauter,Oren Sleepwalker,"Tue, 05 Aug 2025 17:33:12 +0000",,,Sekret Machines,8 bit Brewing Company,IPA - Imperial / Double
+lauter,Oren Sleepwalker,"Tue, 05 Aug 2025 17:32:46 +0000",,,GIRAFFE MILK,4BREWERS,Sour - Fruited
+lauter,Oren Sleepwalker,"Tue, 05 Aug 2025 17:32:26 +0000",,,Jupiter,Browarny Craft Beer,Sour - Fruited Gose
+lauter,Yosef Dahan,"Tue, 05 Aug 2025 17:29:16 +0000",can,4.0,Sekret Machines,8 bit Brewing Company,IPA - Imperial / Double
+lauter,Kobi,"Tue, 05 Aug 2025 17:28:59 +0000",,4.2,Sekret Machines,8 bit Brewing Company,IPA - Imperial / Double
+lauter,Avihai Moshe,"Tue, 05 Aug 2025 17:28:50 +0000",can,4.25,Sekret Machines,8 bit Brewing Company,IPA - Imperial / Double
+lauter,Mikhail Stolov,"Tue, 05 Aug 2025 17:27:57 +0000",can,3.75,Sekret Machines,8 bit Brewing Company,IPA - Imperial / Double
+lauter,Yosef Dahan,"Tue, 05 Aug 2025 17:25:54 +0000",can,3.25,GIRAFFE MILK,4BREWERS,Sour - Fruited
+lauter,Yaniv Alal,"Tue, 05 Aug 2025 17:25:28 +0000",can,4.0,GIRAFFE MILK,4BREWERS,Sour - Fruited
+lauter,Shaul A,"Tue, 05 Aug 2025 17:25:23 +0000",,3.5,Jupiter,Browarny Craft Beer,Sour - Fruited Gose
+lauter,Yosef Dahan,"Tue, 05 Aug 2025 17:25:09 +0000",can,3.0,Jupiter,Browarny Craft Beer,Sour - Fruited Gose
+lauter,Yaron Sh,"Tue, 05 Aug 2025 17:24:51 +0000",,4.0,GIRAFFE MILK,4BREWERS,Sour - Fruited
+lauter,Shaul A,"Tue, 05 Aug 2025 17:24:32 +0000",,4.0,GIRAFFE MILK,4BREWERS,Sour - Fruited
+lauter,Kobi,"Tue, 05 Aug 2025 17:23:19 +0000",,4.0,GIRAFFE MILK,4BREWERS,Sour - Fruited
+lauter,Avihai Moshe,"Tue, 05 Aug 2025 17:21:52 +0000",can,4.25,GIRAFFE MILK,4BREWERS,Sour - Fruited
+lauter,Yaron Sh,"Tue, 05 Aug 2025 17:21:35 +0000",,4.0,Jupiter,Browarny Craft Beer,Sour - Fruited Gose
+lauter,Kobi,"Tue, 05 Aug 2025 17:18:16 +0000",,3.8,Jupiter,Browarny Craft Beer,Sour - Fruited Gose
+lauter,Avihai Moshe,"Tue, 05 Aug 2025 17:17:01 +0000",can,3.75,Jupiter,Browarny Craft Beer,Sour - Fruited Gose
+lauter,Yaniv Alal,"Tue, 05 Aug 2025 17:16:42 +0000",can,4.5,Jupiter,Browarny Craft Beer,Sour - Fruited Gose
+lauter,Kobi,"Tue, 05 Aug 2025 17:00:00 +0000",,,Accept All Cookies,Schnitt Brewing Company﻿,Pale Ale - Other
+lauter,Yosef Dahan,"Tue, 05 Aug 2025 16:52:01 +0000",draft,2.5,KRUSHED IT,Oak & Ash,IPA - New England / Hazy
+schnitt-brewing-company,Mikhail Stolov,"Tue, 05 Aug 2025 16:46:40 +0000",draft,3.75,Twist & Stout,Schnitt Brewing Company﻿,Stout - Irish Dry
+lauter,Slava Gvantmakher,"Tue, 05 Aug 2025 16:39:21 +0000",can,4.0,Smoothie Bowl: Pistachio Fluff,Nepo Brewing,Sour - Smoothie / Pastry
+schnitt-brewing-company,Timor N,"Tue, 05 Aug 2025 16:35:18 +0000",draft,3.75,Atslananas (עצלננס) Smoothie NEIPA,Schnitt Brewing Company﻿,IPA - New England / Hazy
+lauter,Yosef Dahan,"Tue, 05 Aug 2025 16:15:18 +0000",draft,2.75,10th Anniversary Smoothie Bowl,Nepo Brewing,Sour - Smoothie / Pastry
+lauter,Yosef Dahan,"Tue, 05 Aug 2025 16:13:04 +0000",draft,3.25,Atslananas (עצלננס) Smoothie NEIPA,Schnitt Brewing Company﻿,IPA - New England / Hazy
+lauter,Ilya Feldman,"Tue, 05 Aug 2025 16:08:12 +0000",draft,4.75,Pink Grapefruit Halcyon,Thornbridge Brewery,IPA - Imperial / Double
+schnitt-brewing-company,Timor N,"Tue, 05 Aug 2025 16:03:05 +0000",draft,3.75,Citra Achra סיטרה אחרא,Schnitt Brewing Company﻿,IPA - Other
+lauter,Yosef Dahan,"Tue, 05 Aug 2025 16:01:01 +0000",draft,3.5,Pink Grapefruit Halcyon,Thornbridge Brewery,IPA - Imperial / Double
+lauter,Yosef Dahan,"Tue, 05 Aug 2025 15:57:59 +0000",draft,2.75,Accept All Cookies,Schnitt Brewing Company﻿,Pale Ale - Other
+lauter,Yosef Dahan,"Tue, 05 Aug 2025 15:40:59 +0000",draft,3.0,Premium Cider,Westons Cider,Cider - Traditional / Apfelwein
+schnitt-brewing-company,Timor N,"Tue, 05 Aug 2025 15:35:30 +0000",draft,4.0,What Was Was Was Was,Schnitt Brewing Company﻿,IPA - Other
 schnitt-brewing-company,Yosef Dahan,"Mon, 04 Aug 2025 21:14:49 +0000",draft,3.25,Kimat Gornisht,Schnitt Brewing Company﻿,Non-Alcoholic - Lager
 lauter,Kfeer Blau,"Mon, 04 Aug 2025 20:33:38 +0000",can,5.0,Naughty and Nice - Caramel Cookie Chocolate Imperial Stout,Vocation Brewery,Stout - Imperial / Double Milk
 lauter,גל סילברמן,"Mon, 04 Aug 2025 20:28:32 +0000",bottle,4.4,STAVE,BreWskey,Barleywine - American
@@ -1830,8 +2009,8 @@ berlin-florentin,Sharon Confino,"Mon, 23 Dec 2024 18:45:24 +0000",bottle,3.75,Fr
 berlin-florentin,Yana O,"Mon, 23 Dec 2024 18:44:17 +0000",bottle,4.0,Framboise,Brouwerij Lindemans,Lambic - Framboise
 berlin-florentin,Ⓜ️axx Dee,"Mon, 23 Dec 2024 18:44:11 +0000",bottle,4.0,Framboise,Brouwerij Lindemans,Lambic - Framboise
 berlin-florentin,Ⓜ️axx Dee,"Mon, 23 Dec 2024 18:38:17 +0000",bottle,4.0,Christmas Ale (2023),Brouwerij St.Bernardus,Winter Ale
-berlin-florentin,Sharon Confino,"Mon, 23 Dec 2024 18:37:49 +0000",bottle,3.0,Christmas Ale,Brouwerij St.Bernardus,Winter Ale
 berlin-florentin,Yana O,"Mon, 23 Dec 2024 18:37:49 +0000",bottle,4.1,Christmas Ale (2023),Brouwerij St.Bernardus,Winter Ale
+berlin-florentin,Sharon Confino,"Mon, 23 Dec 2024 18:37:49 +0000",bottle,3.0,Christmas Ale,Brouwerij St.Bernardus,Winter Ale
 berlin-florentin,Sharon Confino,"Mon, 23 Dec 2024 18:32:18 +0000",bottle,4.5,Faro,Brouwerij Lindemans,Lambic - Faro
 berlin-florentin,Yana O,"Mon, 23 Dec 2024 18:30:45 +0000",bottle,4.0,Faro,Brouwerij Lindemans,Lambic - Faro
 berlin-florentin,Ⓜ️axx Dee,"Mon, 23 Dec 2024 18:30:43 +0000",bottle,4.1,Faro,Brouwerij Lindemans,Lambic - Faro
