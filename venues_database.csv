@@ -1,4 +1,49 @@
 venue,user,time,serving,data_rating,beer_name,brewery,beer_type
+lauter,Shay Lapid,"Wed, 06 Aug 2025 20:24:17 +0000",draft,3.25,Pleroma Karpologi Pineapple Peach Marshmallow Créme Brulée Sour,Omnipollo,Sour - Smoothie / Pastry
+lauter,Roie Gilad,"Wed, 06 Aug 2025 20:24:04 +0000",draft,3.25,Pink Grapefruit Halcyon,Thornbridge Brewery,IPA - Imperial / Double
+lauter,Roie Gilad,"Wed, 06 Aug 2025 19:39:03 +0000",can,3.5,Into the Timberstorm,HORIZONT Brewing,Gluten-Free
+lauter,Roie Gilad,"Wed, 06 Aug 2025 19:20:22 +0000",can,4.0,Windy Hill,Mikkeller,IPA - New England / Hazy
+lauter,Roie Gilad,"Wed, 06 Aug 2025 19:19:01 +0000",bottle,4.5,Necessary Evil (2021),Thornbridge Brewery,Stout - Imperial / Double
+lauter,Shay Lapid,"Wed, 06 Aug 2025 19:18:34 +0000",can,4.25,Windy Hill,Mikkeller,IPA - New England / Hazy
+lauter,Jonathan Adi,"Wed, 06 Aug 2025 19:06:48 +0000",can,3.0,Dogs Allowed,WarPigs Brewpub,IPA - Imperial / Double New England / Hazy
+schnitt-brewing-company,Yaron Sh,"Wed, 06 Aug 2025 18:57:16 +0000",bottle,4.25,Oude Pêche Jaune Tilquin à l'Ancienne (2022-2023),Gueuzerie Tilquin,Lambic - Fruit
+schnitt-brewing-company,Oren Sleepwalker,"Wed, 06 Aug 2025 18:55:55 +0000",bottle,,Oude Pêche Jaune Tilquin à l'Ancienne (2022-2023),Gueuzerie Tilquin,Lambic - Fruit
+lauter,Shay Lapid,"Wed, 06 Aug 2025 18:55:05 +0000",,4.25,Necessary Evil (2021),Thornbridge Brewery,Stout - Imperial / Double
+schnitt-brewing-company,Sagi Amit,"Wed, 06 Aug 2025 18:50:39 +0000",bottle,4.2,Oude Pêche Jaune Tilquin à l'Ancienne (2022-2023),Gueuzerie Tilquin,Lambic - Fruit
+lauter,Roie Gilad,"Wed, 06 Aug 2025 18:47:29 +0000",can,2.75,Domówka - APA Zbyszko & Motueka,Maryensztadt,Pale Ale - American
+lauter,Roie Gilad,"Wed, 06 Aug 2025 18:46:18 +0000",bottle,4.25,Oude Pêche Jaune Tilquin à l'Ancienne (2022-2023),Gueuzerie Tilquin,Lambic - Fruit
+lauter,Shay Lapid,"Wed, 06 Aug 2025 18:45:13 +0000",can,3.75,Domówka - APA Zbyszko & Motueka,Maryensztadt,Pale Ale - American
+lauter,Nir Langer,"Wed, 06 Aug 2025 18:44:50 +0000",bottle,4.25,Oude Gueuze (2023-2),Boerenerf,Lambic - Gueuze
+lauter,Roie Gilad,"Wed, 06 Aug 2025 18:35:05 +0000",can,3.0,Maryensztadt Klasycznie IPA,Maryensztadt,IPA - American
+schnitt-brewing-company,Yaron Sh,"Wed, 06 Aug 2025 18:31:46 +0000",draft,4.0,"Shut Up And Drink Me! (שת""פ)",Schnitt Brewing Company﻿,Historical Beer - Lichtenhainer
+lauter,Shay Lapid,"Wed, 06 Aug 2025 18:19:17 +0000",bottle,4.25,Oude Pêche Jaune Tilquin à l'Ancienne (2022-2023),Gueuzerie Tilquin,Lambic - Fruit
+schnitt-brewing-company,Oren Sleepwalker,"Wed, 06 Aug 2025 18:14:36 +0000",,,Twist & Stout,Schnitt Brewing Company﻿,Stout - Irish Dry
+lauter,Roie Gilad,"Wed, 06 Aug 2025 17:59:31 +0000",draft,3.75,KRUSHED IT,Oak & Ash,IPA - New England / Hazy
+schnitt-brewing-company,Oren Sleepwalker,"Wed, 06 Aug 2025 17:59:25 +0000",,,"Shut Up And Drink Me! (שת""פ)",Schnitt Brewing Company﻿,Historical Beer - Lichtenhainer
+lauter,Shay Lapid,"Wed, 06 Aug 2025 17:58:31 +0000",,3.5,KRUSHED IT,Oak & Ash,IPA - New England / Hazy
+schnitt-brewing-company,Yaron Sh,"Wed, 06 Aug 2025 17:56:43 +0000",draft,4.0,What Was Was Was Was,Schnitt Brewing Company﻿,IPA - Other
+schnitt-brewing-company,Sagi Amit,"Wed, 06 Aug 2025 17:56:24 +0000",draft,3.5,"Shut Up And Drink Me! (שת""פ)",Schnitt Brewing Company﻿,Historical Beer - Lichtenhainer
+lauter,Matan Mizrahi,"Wed, 06 Aug 2025 17:34:41 +0000",,4.25,KRUSHED IT,Oak & Ash,IPA - New England / Hazy
+lauter,Or Cohen,"Wed, 06 Aug 2025 17:24:52 +0000",draft,3.75,KRUSHED IT,Oak & Ash,IPA - New England / Hazy
+lauter,Or Cohen,"Wed, 06 Aug 2025 17:20:27 +0000",can,4.5,Кибергулливер,4BREWERS,Sour - Smoothie / Pastry
+lauter,Or Cohen,"Wed, 06 Aug 2025 17:19:46 +0000",can,4.0,Sangre Fresca,AF Brew,Sour - Other Gose
+lauter,Kobi,"Wed, 06 Aug 2025 17:16:22 +0000",,4.0,Кибергулливер,4BREWERS,Sour - Smoothie / Pastry
+lauter,Kobi,"Wed, 06 Aug 2025 17:05:08 +0000",,3.9,Sangre Fresca,AF Brew,Sour - Other Gose
+lauter,Raz Ko,"Wed, 06 Aug 2025 16:39:18 +0000",draft,3.7,Prior 8,Brouwerij St.Bernardus,Belgian Dubbel
+lauter,Raz Ko,"Wed, 06 Aug 2025 16:38:34 +0000",draft,3.7,Accept All Cookies,Schnitt Brewing Company﻿,Pale Ale - Other
+lauter,Raz Ko,"Wed, 06 Aug 2025 16:27:22 +0000",draft,3.9,Atslananas (עצלננס) Smoothie NEIPA,Schnitt Brewing Company﻿,IPA - New England / Hazy
+lauter,Raz Ko,"Wed, 06 Aug 2025 16:22:11 +0000",draft,3.7,Mexico City Twist,Schnitt Brewing Company﻿,Lager - Mexican
+b7-beer-house,2jewswantsomebooze,"Wed, 06 Aug 2025 14:34:34 +0000",draft,3.75,Vaadat Kishut (ועדת כישות) 2025,Herzl (הרצל),IPA - American
+lauter,Nikolay Magola,"Wed, 06 Aug 2025 14:27:00 +0000",draft,3.25,KRUSHED IT,Oak & Ash,IPA - New England / Hazy
+lauter,Boris,"Wed, 06 Aug 2025 14:26:36 +0000",draft,3.25,KRUSHED IT,Oak & Ash,IPA - New England / Hazy
+schnitt-brewing-company,Nikolay Magola,"Wed, 06 Aug 2025 13:57:21 +0000",draft,3.0,Frenemy,Schnitt Brewing Company﻿,Pale Ale - American
+b7-beer-house,kashut,"Wed, 06 Aug 2025 13:20:51 +0000",,4.0,"מנגו, כשות ותמרות ענן Mango, Hops and Pillars of Clouds",New Pioneer Brewing Co - חלוץ חדש,IPA - Fruited
+b7-beer-house,kashut,"Wed, 06 Aug 2025 13:19:35 +0000",draft,4.0,Vaadat Kishut (ועדת כישות) 2025,Herzl (הרצל),IPA - American
+schnitt-brewing-company,Nikolay Magola,"Wed, 06 Aug 2025 13:11:17 +0000",draft,3.25,Twist & Stout,Schnitt Brewing Company﻿,Stout - Irish Dry
+schnitt-brewing-company,Nikolay Magola,"Wed, 06 Aug 2025 13:08:40 +0000",draft,3.25,Atslananas (עצלננס) Smoothie NEIPA,Schnitt Brewing Company﻿,IPA - New England / Hazy
+schnitt-brewing-company,Nikolay Magola,"Wed, 06 Aug 2025 13:02:19 +0000",draft,3.5,"Shut Up And Drink Me! (שת""פ)",Schnitt Brewing Company﻿,Historical Beer - Lichtenhainer
+b7-beer-house,Yotam Bar-natan,"Wed, 06 Aug 2025 12:30:57 +0000",draft,4.2,Strawberry Sundae,Vault City Brewing,Sour - Fruited
+b7-beer-house,Yotam Bar-natan,"Wed, 06 Aug 2025 10:23:13 +0000",draft,3.5,B2-GEZER,Oak & Ash,IPA - Fruited
 lauter,Yaniv Alal,"Tue, 05 Aug 2025 20:20:29 +0000",can,4.25,Supernatural,Shred Beer Company,IPA - Triple
 lauter,Yaniv Alal,"Tue, 05 Aug 2025 20:18:32 +0000",can,4.25,Monstrous Oils,Cellarmaker Brewing Company,IPA - Quadruple
 lauter,Yaniv Alal,"Tue, 05 Aug 2025 20:17:23 +0000",can,4.0,SLUSHY XL: Haha!,450 North Brewing Company,Sour - Smoothie / Pastry

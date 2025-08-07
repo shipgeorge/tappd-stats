@@ -1,8 +1,413 @@
 // 🍺 BEER STATS DATA - Generated automatically
-// Last updated: 2025-08-06 07:04:29
-// Total records: 3061
+// Last updated: 2025-08-07 07:03:36
+// Total records: 3106
 
 const BEER_DATA = [
+  {
+    "venue": "lauter",
+    "time": "2025-08-06T20:24:17+00:00",
+    "serving": "draft",
+    "rating": 3.25,
+    "beer_name": "Pleroma Karpologi Pineapple Peach Marshmallow Créme Brulée Sour",
+    "brewery": "Omnipollo",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-06T20:24:04+00:00",
+    "serving": "draft",
+    "rating": 3.25,
+    "beer_name": "Pink Grapefruit Halcyon",
+    "brewery": "Thornbridge Brewery",
+    "beer_type": "IPA - Imperial / Double"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-06T19:39:03+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Into the Timberstorm",
+    "brewery": "HORIZONT Brewing",
+    "beer_type": "Gluten-Free"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-06T19:20:22+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Windy Hill",
+    "brewery": "Mikkeller",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-06T19:19:01+00:00",
+    "serving": "bottle",
+    "rating": 4.5,
+    "beer_name": "Necessary Evil (2021)",
+    "brewery": "Thornbridge Brewery",
+    "beer_type": "Stout - Imperial / Double"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-06T19:18:34+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "Windy Hill",
+    "brewery": "Mikkeller",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-06T19:06:48+00:00",
+    "serving": "can",
+    "rating": 3.0,
+    "beer_name": "Dogs Allowed",
+    "brewery": "WarPigs Brewpub",
+    "beer_type": "IPA - Imperial / Double New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-08-06T18:57:16+00:00",
+    "serving": "bottle",
+    "rating": 4.25,
+    "beer_name": "Oude Pêche Jaune Tilquin à l'Ancienne (2022-2023)",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-08-06T18:55:55+00:00",
+    "serving": "bottle",
+    "rating": null,
+    "beer_name": "Oude Pêche Jaune Tilquin à l'Ancienne (2022-2023)",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-06T18:55:05+00:00",
+    "serving": "Unknown",
+    "rating": 4.25,
+    "beer_name": "Necessary Evil (2021)",
+    "brewery": "Thornbridge Brewery",
+    "beer_type": "Stout - Imperial / Double"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-08-06T18:50:39+00:00",
+    "serving": "bottle",
+    "rating": 4.2,
+    "beer_name": "Oude Pêche Jaune Tilquin à l'Ancienne (2022-2023)",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-06T18:47:29+00:00",
+    "serving": "can",
+    "rating": 2.75,
+    "beer_name": "Domówka - APA Zbyszko & Motueka",
+    "brewery": "Maryensztadt",
+    "beer_type": "Pale Ale - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-06T18:46:18+00:00",
+    "serving": "bottle",
+    "rating": 4.25,
+    "beer_name": "Oude Pêche Jaune Tilquin à l'Ancienne (2022-2023)",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-06T18:45:13+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Domówka - APA Zbyszko & Motueka",
+    "brewery": "Maryensztadt",
+    "beer_type": "Pale Ale - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-06T18:44:50+00:00",
+    "serving": "bottle",
+    "rating": 4.25,
+    "beer_name": "Oude Gueuze (2023-2)",
+    "brewery": "Boerenerf",
+    "beer_type": "Lambic - Gueuze"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-06T18:35:05+00:00",
+    "serving": "can",
+    "rating": 3.0,
+    "beer_name": "Maryensztadt Klasycznie IPA",
+    "brewery": "Maryensztadt",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-08-06T18:31:46+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Shut Up And Drink Me! (שת\"פ)",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Historical Beer - Lichtenhainer"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-06T18:19:17+00:00",
+    "serving": "bottle",
+    "rating": 4.25,
+    "beer_name": "Oude Pêche Jaune Tilquin à l'Ancienne (2022-2023)",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-08-06T18:14:36+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Twist & Stout",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Stout - Irish Dry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-06T17:59:31+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "KRUSHED IT",
+    "brewery": "Oak & Ash",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-08-06T17:59:25+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Shut Up And Drink Me! (שת\"פ)",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Historical Beer - Lichtenhainer"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-06T17:58:31+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "KRUSHED IT",
+    "brewery": "Oak & Ash",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-08-06T17:56:43+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "What Was Was Was Was",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - Other"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-08-06T17:56:24+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Shut Up And Drink Me! (שת\"פ)",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Historical Beer - Lichtenhainer"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-06T17:34:41+00:00",
+    "serving": "Unknown",
+    "rating": 4.25,
+    "beer_name": "KRUSHED IT",
+    "brewery": "Oak & Ash",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-06T17:24:52+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "KRUSHED IT",
+    "brewery": "Oak & Ash",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-06T17:20:27+00:00",
+    "serving": "can",
+    "rating": 4.5,
+    "beer_name": "Кибергулливер",
+    "brewery": "4BREWERS",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-06T17:19:46+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Sangre Fresca",
+    "brewery": "AF Brew",
+    "beer_type": "Sour - Other Gose"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-06T17:16:22+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Кибергулливер",
+    "brewery": "4BREWERS",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-06T17:05:08+00:00",
+    "serving": "Unknown",
+    "rating": 3.9,
+    "beer_name": "Sangre Fresca",
+    "brewery": "AF Brew",
+    "beer_type": "Sour - Other Gose"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-06T16:39:18+00:00",
+    "serving": "draft",
+    "rating": 3.7,
+    "beer_name": "Prior 8",
+    "brewery": "Brouwerij St.Bernardus",
+    "beer_type": "Belgian Dubbel"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-06T16:38:34+00:00",
+    "serving": "draft",
+    "rating": 3.7,
+    "beer_name": "Accept All Cookies",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pale Ale - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-06T16:27:22+00:00",
+    "serving": "draft",
+    "rating": 3.9,
+    "beer_name": "Atslananas (עצלננס) Smoothie NEIPA",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-06T16:22:11+00:00",
+    "serving": "draft",
+    "rating": 3.7,
+    "beer_name": "Mexico City Twist",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Lager - Mexican"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-06T14:34:34+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Vaadat Kishut (ועדת כישות) 2025",
+    "brewery": "Herzl (הרצל)",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-06T14:27:00+00:00",
+    "serving": "draft",
+    "rating": 3.25,
+    "beer_name": "KRUSHED IT",
+    "brewery": "Oak & Ash",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-06T14:26:36+00:00",
+    "serving": "draft",
+    "rating": 3.25,
+    "beer_name": "KRUSHED IT",
+    "brewery": "Oak & Ash",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-08-06T13:57:21+00:00",
+    "serving": "draft",
+    "rating": 3.0,
+    "beer_name": "Frenemy",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pale Ale - American"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-06T13:20:51+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "מנגו, כשות ותמרות ענן Mango, Hops and Pillars of Clouds",
+    "brewery": "New Pioneer Brewing Co - חלוץ חדש",
+    "beer_type": "IPA - Fruited"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-06T13:19:35+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Vaadat Kishut (ועדת כישות) 2025",
+    "brewery": "Herzl (הרצל)",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-08-06T13:11:17+00:00",
+    "serving": "draft",
+    "rating": 3.25,
+    "beer_name": "Twist & Stout",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Stout - Irish Dry"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-08-06T13:08:40+00:00",
+    "serving": "draft",
+    "rating": 3.25,
+    "beer_name": "Atslananas (עצלננס) Smoothie NEIPA",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-08-06T13:02:19+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Shut Up And Drink Me! (שת\"פ)",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Historical Beer - Lichtenhainer"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-06T12:30:57+00:00",
+    "serving": "draft",
+    "rating": 4.2,
+    "beer_name": "Strawberry Sundae",
+    "brewery": "Vault City Brewing",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-06T10:23:13+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "B2-GEZER",
+    "brewery": "Oak & Ash",
+    "beer_type": "IPA - Fruited"
+  },
   {
     "venue": "lauter",
     "time": "2025-08-05T20:20:29+00:00",
