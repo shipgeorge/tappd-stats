@@ -1,4 +1,61 @@
 venue,user,time,serving,data_rating,beer_name,brewery,beer_type
+lauter,גל סילברמן,"Thu, 07 Aug 2025 22:58:47 +0000",draft,2.5,Tucher Pils,Tucher Bräu,Pilsner - German
+lauter,גל סילברמן,"Thu, 07 Aug 2025 22:57:40 +0000",draft,2.9,Kimat Gornisht,Schnitt Brewing Company﻿,Non-Alcoholic - Lager
+lauter,גל סילברמן,"Thu, 07 Aug 2025 22:52:35 +0000",can,3.9,Ārpus X Factory Quintuple Dry Hopped Motueka X Nelson Sauvin QIPA,Ārpus Brewing Co.,IPA - Quadruple
+lauter,Adam Berelowitz,"Thu, 07 Aug 2025 22:43:49 +0000",can,2.6,Breakfast Club 3.0,Vocation Brewery,Stout - Pastry
+lauter,Ido Sela,"Thu, 07 Aug 2025 22:42:11 +0000",bottle,4.2,Eclipse,Schmulz,Mead - Braggot
+lauter,Adam Berelowitz,"Thu, 07 Aug 2025 22:36:47 +0000",bottle,4.8,Eclipse,Schmulz,Mead - Braggot
+lauter,Ido Meir,"Thu, 07 Aug 2025 22:34:47 +0000",can,4.5,Ārpus X Factory Quintuple Dry Hopped Motueka X Nelson Sauvin QIPA,Ārpus Brewing Co.,IPA - Quadruple
+lauter,Ido Sela,"Thu, 07 Aug 2025 22:27:44 +0000",can,4.5,Ārpus X Factory Quintuple Dry Hopped Motueka X Nelson Sauvin QIPA,Ārpus Brewing Co.,IPA - Quadruple
+lauter,Omri Gill,"Thu, 07 Aug 2025 22:17:40 +0000",bottle,4.75,Eclipse,Schmulz,Mead - Braggot
+lauter,David Siegel,"Thu, 07 Aug 2025 22:08:48 +0000",,4.25,Breakfast Club 3.0,Vocation Brewery,Stout - Pastry
+lauter,Rom Tagar,"Thu, 07 Aug 2025 21:22:36 +0000",can,3.25,Breakfast Club 3.0,Vocation Brewery,Stout - Pastry
+schnitt-brewing-company,Rom Tagar,"Thu, 07 Aug 2025 21:21:33 +0000",draft,4.5,Anything Gose: Mango,Schnitt Brewing Company﻿,Sour - Fruited Gose
+schnitt-brewing-company,Rom Tagar,"Thu, 07 Aug 2025 21:19:42 +0000",,4.0,Chucky,Schnitt Brewing Company﻿,Pale Ale - American
+lauter,Adam Berelowitz,"Thu, 07 Aug 2025 21:18:28 +0000",can,4.2,Ārpus X Factory Quintuple Dry Hopped Motueka X Nelson Sauvin QIPA,Ārpus Brewing Co.,IPA - Quadruple
+lauter,einavushlan,"Thu, 07 Aug 2025 20:47:46 +0000",bottle,4.0,Pescharina (Oogst 2023),Boerenerf,Lambic - Fruit
+lauter,Ido Meir,"Thu, 07 Aug 2025 20:26:23 +0000",draft,4.5,Smoothie Bowl - Peachy Dragon,Nepo Brewing,Sour - Smoothie / Pastry
+lauter,Nir Langer,"Thu, 07 Aug 2025 20:24:03 +0000",bottle,4.75,Eclipse,Schmulz,Mead - Braggot
+lauter,Ido Meir,"Thu, 07 Aug 2025 20:23:34 +0000",draft,4.5,Slow And Bitter (מריר ועצלני),Schnitt Brewing Company﻿,Bitter - Session / Ordinary
+lauter,Ido Meir,"Thu, 07 Aug 2025 20:22:22 +0000",draft,4.5,ביתי ועצלני // Slow And Bitter Clone,Rockfield's Sky,"Homebrew, Bitter - Session / Ordinary"
+schnitt-brewing-company,Dima Shleifman,"Thu, 07 Aug 2025 19:54:26 +0000",draft,3.5,Chucky,Schnitt Brewing Company﻿,Pale Ale - American
+schnitt-brewing-company,Alex Fux,"Thu, 07 Aug 2025 19:28:09 +0000",draft,4.0,Mexico City Twist,Schnitt Brewing Company﻿,Lager - Mexican
+schnitt-brewing-company,Dima Shleifman,"Thu, 07 Aug 2025 19:17:39 +0000",draft,3.5,Fabrizio,Schnitt Brewing Company﻿,Pilsner - Italian
+schnitt-brewing-company,Dima Shleifman,"Thu, 07 Aug 2025 19:07:21 +0000",draft,3.0,"Shut Up And Drink Me! (שת""פ)",Schnitt Brewing Company﻿,Historical Beer - Lichtenhainer
+lauter,dafi20,"Thu, 07 Aug 2025 18:55:43 +0000",draft,5.0,Smoothie Bowl - Peachy Dragon,Nepo Brewing,Sour - Smoothie / Pastry
+schnitt-brewing-company,Alex Fux,"Thu, 07 Aug 2025 18:52:58 +0000",draft,4.0,Frenemy,Schnitt Brewing Company﻿,Pale Ale - American
+lauter,Dor_eilon,"Thu, 07 Aug 2025 18:51:55 +0000",draft,4.0,Smoothie Bowl - Peachy Dragon,Nepo Brewing,Sour - Smoothie / Pastry
+lauter,Adam Berelowitz,"Thu, 07 Aug 2025 18:50:44 +0000",draft,4.1,Tucher Pils,Tucher Bräu,Pilsner - German
+beerline,Philip Greenberg,"Thu, 07 Aug 2025 18:43:43 +0000",,4.25,Kasteel Rouge,Kasteel Brouwerij Vanhonsebrouck,Fruit Beer
+schnitt-brewing-company,Omri Gill,"Thu, 07 Aug 2025 18:39:53 +0000",draft,3.75,Anything Gose: Mango,Schnitt Brewing Company﻿,Sour - Fruited Gose
+lauter,dafi20,"Thu, 07 Aug 2025 18:28:46 +0000",,4.5,Atslananas (עצלננס) Smoothie NEIPA,Schnitt Brewing Company﻿,IPA - New England / Hazy
+lauter,dafi20,"Thu, 07 Aug 2025 18:27:38 +0000",,3.5,Pink Grapefruit Halcyon,Thornbridge Brewery,IPA - Imperial / Double
+lauter,Kelly Inbar,"Thu, 07 Aug 2025 18:23:24 +0000",draft,4.25,Smoothie Bowl - Peachy Dragon,Nepo Brewing,Sour - Smoothie / Pastry
+lauter,Ido Meir,"Thu, 07 Aug 2025 18:23:14 +0000",draft,4.0,Pink Grapefruit Halcyon,Thornbridge Brewery,IPA - Imperial / Double
+schnitt-brewing-company,Alex Fux,"Thu, 07 Aug 2025 18:17:48 +0000",draft,3.5,Twist & Stout,Schnitt Brewing Company﻿,Stout - Irish Dry
+schnitt-brewing-company,Ben Sm,"Thu, 07 Aug 2025 18:14:44 +0000",,3.75,Jaffa IPA,Schnitt Brewing Company﻿,IPA - American
+schnitt-brewing-company,Omri Gill,"Thu, 07 Aug 2025 18:02:12 +0000",draft,4.0,Fabrizio,Schnitt Brewing Company﻿,Pilsner - Italian
+lauter,Adam Berelowitz,"Thu, 07 Aug 2025 18:01:21 +0000",draft,4.3,Smoothie Bowl - Peachy Dragon,Nepo Brewing,Sour - Smoothie / Pastry
+schnitt-brewing-company,Dima Shleifman,"Thu, 07 Aug 2025 17:58:31 +0000",draft,3.25,הפילס שבחדר the Pils In the Room,Schnitt Brewing Company﻿,Pilsner - German
+schnitt-brewing-company,Dima Shleifman,"Thu, 07 Aug 2025 17:53:12 +0000",draft,3.5,Anything Gose: Mango,Schnitt Brewing Company﻿,Sour - Fruited Gose
+schnitt-brewing-company,Dima Shleifman,"Thu, 07 Aug 2025 17:49:14 +0000",draft,3.75,Atslananas (עצלננס) Smoothie NEIPA,Schnitt Brewing Company﻿,IPA - New England / Hazy
+lauter,Omri Gill,"Thu, 07 Aug 2025 17:34:03 +0000",draft,4.25,Smoothie Bowl - Peachy Dragon,Nepo Brewing,Sour - Smoothie / Pastry
+lauter,Omri Gill,"Thu, 07 Aug 2025 17:29:23 +0000",draft,3.75,KRUSHED IT,Oak & Ash,IPA - New England / Hazy
+schnitt-brewing-company,German Syomov,"Thu, 07 Aug 2025 17:26:20 +0000",draft,4.0,Atslananas (עצלננס) Smoothie NEIPA,Schnitt Brewing Company﻿,IPA - New England / Hazy
+beerline,stas_shapiro_8354,"Thu, 07 Aug 2025 17:23:51 +0000",draft,4.0,Delirium Black Barrel Aged,Delirium - Huyghe Brewery,Belgian Strong Dark Ale
+schnitt-brewing-company,Alex Fux,"Thu, 07 Aug 2025 17:23:03 +0000",draft,3.0,הפילס שבחדר the Pils In the Room,Schnitt Brewing Company﻿,Pilsner - German
+schnitt-brewing-company,Rom Tagar,"Thu, 07 Aug 2025 17:02:15 +0000",,3.5,Mexico City Twist,Schnitt Brewing Company﻿,Lager - Mexican
+schnitt-brewing-company,Omri Gill,"Thu, 07 Aug 2025 17:01:48 +0000",draft,3.75,Salt N' Peppa,Schnitt Brewing Company﻿,Lager - Other
+lauter,UV R,"Thu, 07 Aug 2025 16:35:50 +0000",can,4.5,Smoothie Bowl - Peachy Dragon,Nepo Brewing,Sour - Smoothie / Pastry
+schnitt-brewing-company,Nir Langer,"Thu, 07 Aug 2025 16:14:26 +0000",,,Salt N' Peppa,Schnitt Brewing Company﻿,Lager - Other
+schnitt-brewing-company,Nir Langer,"Thu, 07 Aug 2025 16:12:12 +0000",,,Anything Gose: Mango,Schnitt Brewing Company﻿,Sour - Fruited Gose
+schnitt-brewing-company,Nir Langer,"Thu, 07 Aug 2025 16:11:53 +0000",,,Tea Party: Green Tea And Jasmine,Schnitt Brewing Company﻿,Pale Ale - Other
+lauter,einavushlan,"Thu, 07 Aug 2025 16:11:05 +0000",draft,3.5,Atslananas (עצלננס) Smoothie NEIPA,Schnitt Brewing Company﻿,IPA - New England / Hazy
+lauter,Gadi Hirsch,"Thu, 07 Aug 2025 13:27:59 +0000",draft,4.0,10th Anniversary Smoothie Bowl,Nepo Brewing,Sour - Smoothie / Pastry
+schnitt-brewing-company,Gadi Hirsch,"Thu, 07 Aug 2025 12:48:24 +0000",draft,4.0,Kelly's Green Pony,Schnitt Brewing Company﻿,IPA - New England / Hazy
+schnitt-brewing-company,Roman Lipkin,"Thu, 07 Aug 2025 12:00:00 +0000",draft,4.0,Chucky,Schnitt Brewing Company﻿,Pale Ale - American
+schnitt-brewing-company,Gadi Hirsch,"Thu, 07 Aug 2025 10:55:38 +0000",,4.0,Twist & Stout,Schnitt Brewing Company﻿,Stout - Irish Dry
+lauter,Adam Berelowitz,"Thu, 07 Aug 2025 10:15:03 +0000",can,4.1,Pilsner Urquell,Plzeňský Prazdroj,Pilsner - Czech / Bohemian
 lauter,Shay Lapid,"Wed, 06 Aug 2025 20:24:17 +0000",draft,3.25,Pleroma Karpologi Pineapple Peach Marshmallow Créme Brulée Sour,Omnipollo,Sour - Smoothie / Pastry
 lauter,Roie Gilad,"Wed, 06 Aug 2025 20:24:04 +0000",draft,3.25,Pink Grapefruit Halcyon,Thornbridge Brewery,IPA - Imperial / Double
 lauter,Roie Gilad,"Wed, 06 Aug 2025 19:39:03 +0000",can,3.5,Into the Timberstorm,HORIZONT Brewing,Gluten-Free

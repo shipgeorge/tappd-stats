@@ -1,8 +1,521 @@
 // 🍺 BEER STATS DATA - Generated automatically
-// Last updated: 2025-08-07 07:03:36
-// Total records: 3106
+// Last updated: 2025-08-08 07:04:03
+// Total records: 3163
 
 const BEER_DATA = [
+  {
+    "venue": "lauter",
+    "time": "2025-08-07T22:58:47+00:00",
+    "serving": "draft",
+    "rating": 2.5,
+    "beer_name": "Tucher Pils",
+    "brewery": "Tucher Bräu",
+    "beer_type": "Pilsner - German"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-07T22:57:40+00:00",
+    "serving": "draft",
+    "rating": 2.9,
+    "beer_name": "Kimat Gornisht",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Non-Alcoholic - Lager"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-07T22:52:35+00:00",
+    "serving": "can",
+    "rating": 3.9,
+    "beer_name": "Ārpus X Factory Quintuple Dry Hopped Motueka X Nelson Sauvin QIPA",
+    "brewery": "Ārpus Brewing Co.",
+    "beer_type": "IPA - Quadruple"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-07T22:43:49+00:00",
+    "serving": "can",
+    "rating": 2.6,
+    "beer_name": "Breakfast Club 3.0",
+    "brewery": "Vocation Brewery",
+    "beer_type": "Stout - Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-07T22:42:11+00:00",
+    "serving": "bottle",
+    "rating": 4.2,
+    "beer_name": "Eclipse",
+    "brewery": "Schmulz",
+    "beer_type": "Mead - Braggot"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-07T22:36:47+00:00",
+    "serving": "bottle",
+    "rating": 4.8,
+    "beer_name": "Eclipse",
+    "brewery": "Schmulz",
+    "beer_type": "Mead - Braggot"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-07T22:34:47+00:00",
+    "serving": "can",
+    "rating": 4.5,
+    "beer_name": "Ārpus X Factory Quintuple Dry Hopped Motueka X Nelson Sauvin QIPA",
+    "brewery": "Ārpus Brewing Co.",
+    "beer_type": "IPA - Quadruple"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-07T22:27:44+00:00",
+    "serving": "can",
+    "rating": 4.5,
+    "beer_name": "Ārpus X Factory Quintuple Dry Hopped Motueka X Nelson Sauvin QIPA",
+    "brewery": "Ārpus Brewing Co.",
+    "beer_type": "IPA - Quadruple"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-07T22:17:40+00:00",
+    "serving": "bottle",
+    "rating": 4.75,
+    "beer_name": "Eclipse",
+    "brewery": "Schmulz",
+    "beer_type": "Mead - Braggot"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-07T22:08:48+00:00",
+    "serving": "Unknown",
+    "rating": 4.25,
+    "beer_name": "Breakfast Club 3.0",
+    "brewery": "Vocation Brewery",
+    "beer_type": "Stout - Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-07T21:22:36+00:00",
+    "serving": "can",
+    "rating": 3.25,
+    "beer_name": "Breakfast Club 3.0",
+    "brewery": "Vocation Brewery",
+    "beer_type": "Stout - Pastry"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-08-07T21:21:33+00:00",
+    "serving": "draft",
+    "rating": 4.5,
+    "beer_name": "Anything Gose: Mango",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Sour - Fruited Gose"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-08-07T21:19:42+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Chucky",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pale Ale - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-07T21:18:28+00:00",
+    "serving": "can",
+    "rating": 4.2,
+    "beer_name": "Ārpus X Factory Quintuple Dry Hopped Motueka X Nelson Sauvin QIPA",
+    "brewery": "Ārpus Brewing Co.",
+    "beer_type": "IPA - Quadruple"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-07T20:47:46+00:00",
+    "serving": "bottle",
+    "rating": 4.0,
+    "beer_name": "Pescharina (Oogst 2023)",
+    "brewery": "Boerenerf",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-07T20:26:23+00:00",
+    "serving": "draft",
+    "rating": 4.5,
+    "beer_name": "Smoothie Bowl - Peachy Dragon",
+    "brewery": "Nepo Brewing",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-07T20:24:03+00:00",
+    "serving": "bottle",
+    "rating": 4.75,
+    "beer_name": "Eclipse",
+    "brewery": "Schmulz",
+    "beer_type": "Mead - Braggot"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-07T20:23:34+00:00",
+    "serving": "draft",
+    "rating": 4.5,
+    "beer_name": "Slow And Bitter (מריר ועצלני)",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Bitter - Session / Ordinary"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-07T20:22:22+00:00",
+    "serving": "draft",
+    "rating": 4.5,
+    "beer_name": "ביתי ועצלני // Slow And Bitter Clone",
+    "brewery": "Rockfield's Sky",
+    "beer_type": "Homebrew, Bitter - Session / Ordinary"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-08-07T19:54:26+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Chucky",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pale Ale - American"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-08-07T19:28:09+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Mexico City Twist",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Lager - Mexican"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-08-07T19:17:39+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Fabrizio",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pilsner - Italian"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-08-07T19:07:21+00:00",
+    "serving": "draft",
+    "rating": 3.0,
+    "beer_name": "Shut Up And Drink Me! (שת\"פ)",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Historical Beer - Lichtenhainer"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-07T18:55:43+00:00",
+    "serving": "draft",
+    "rating": 5.0,
+    "beer_name": "Smoothie Bowl - Peachy Dragon",
+    "brewery": "Nepo Brewing",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-08-07T18:52:58+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Frenemy",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pale Ale - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-07T18:51:55+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Smoothie Bowl - Peachy Dragon",
+    "brewery": "Nepo Brewing",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-07T18:50:44+00:00",
+    "serving": "draft",
+    "rating": 4.1,
+    "beer_name": "Tucher Pils",
+    "brewery": "Tucher Bräu",
+    "beer_type": "Pilsner - German"
+  },
+  {
+    "venue": "beerline",
+    "time": "2025-08-07T18:43:43+00:00",
+    "serving": "Unknown",
+    "rating": 4.25,
+    "beer_name": "Kasteel Rouge",
+    "brewery": "Kasteel Brouwerij Vanhonsebrouck",
+    "beer_type": "Fruit Beer"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-08-07T18:39:53+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Anything Gose: Mango",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Sour - Fruited Gose"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-07T18:28:46+00:00",
+    "serving": "Unknown",
+    "rating": 4.5,
+    "beer_name": "Atslananas (עצלננס) Smoothie NEIPA",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-07T18:27:38+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "Pink Grapefruit Halcyon",
+    "brewery": "Thornbridge Brewery",
+    "beer_type": "IPA - Imperial / Double"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-07T18:23:24+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "Smoothie Bowl - Peachy Dragon",
+    "brewery": "Nepo Brewing",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-07T18:23:14+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Pink Grapefruit Halcyon",
+    "brewery": "Thornbridge Brewery",
+    "beer_type": "IPA - Imperial / Double"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-08-07T18:17:48+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Twist & Stout",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Stout - Irish Dry"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-08-07T18:14:44+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "Jaffa IPA",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-08-07T18:02:12+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Fabrizio",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pilsner - Italian"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-07T18:01:21+00:00",
+    "serving": "draft",
+    "rating": 4.3,
+    "beer_name": "Smoothie Bowl - Peachy Dragon",
+    "brewery": "Nepo Brewing",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-08-07T17:58:31+00:00",
+    "serving": "draft",
+    "rating": 3.25,
+    "beer_name": "הפילס שבחדר the Pils In the Room",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pilsner - German"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-08-07T17:53:12+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Anything Gose: Mango",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Sour - Fruited Gose"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-08-07T17:49:14+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Atslananas (עצלננס) Smoothie NEIPA",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-07T17:34:03+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "Smoothie Bowl - Peachy Dragon",
+    "brewery": "Nepo Brewing",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-07T17:29:23+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "KRUSHED IT",
+    "brewery": "Oak & Ash",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-08-07T17:26:20+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Atslananas (עצלננס) Smoothie NEIPA",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "beerline",
+    "time": "2025-08-07T17:23:51+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Delirium Black Barrel Aged",
+    "brewery": "Delirium - Huyghe Brewery",
+    "beer_type": "Belgian Strong Dark Ale"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-08-07T17:23:03+00:00",
+    "serving": "draft",
+    "rating": 3.0,
+    "beer_name": "הפילס שבחדר the Pils In the Room",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pilsner - German"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-08-07T17:02:15+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "Mexico City Twist",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Lager - Mexican"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-08-07T17:01:48+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Salt N' Peppa",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Lager - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-07T16:35:50+00:00",
+    "serving": "can",
+    "rating": 4.5,
+    "beer_name": "Smoothie Bowl - Peachy Dragon",
+    "brewery": "Nepo Brewing",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-08-07T16:14:26+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Salt N' Peppa",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Lager - Other"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-08-07T16:12:12+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Anything Gose: Mango",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Sour - Fruited Gose"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-08-07T16:11:53+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Tea Party: Green Tea And Jasmine",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pale Ale - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-07T16:11:05+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Atslananas (עצלננס) Smoothie NEIPA",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-07T13:27:59+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "10th Anniversary Smoothie Bowl",
+    "brewery": "Nepo Brewing",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-08-07T12:48:24+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Kelly's Green Pony",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-08-07T12:00:00+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Chucky",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pale Ale - American"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-08-07T10:55:38+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Twist & Stout",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Stout - Irish Dry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-07T10:15:03+00:00",
+    "serving": "can",
+    "rating": 4.1,
+    "beer_name": "Pilsner Urquell",
+    "brewery": "Plzeňský Prazdroj",
+    "beer_type": "Pilsner - Czech / Bohemian"
+  },
   {
     "venue": "lauter",
     "time": "2025-08-06T20:24:17+00:00",
