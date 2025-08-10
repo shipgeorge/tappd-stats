@@ -1,8 +1,269 @@
 // 🍺 BEER STATS DATA - Generated automatically
-// Last updated: 2025-08-09 06:56:01
-// Total records: 3223
+// Last updated: 2025-08-10 06:55:50
+// Total records: 3252
 
 const BEER_DATA = [
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-09T19:24:46+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "Smoothie Bowl - Peachy Dragon",
+    "brewery": "Nepo Brewing",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-09T19:23:53+00:00",
+    "serving": "Unknown",
+    "rating": 4.25,
+    "beer_name": "Day Maker",
+    "brewery": "Thornbridge Brewery",
+    "beer_type": "IPA - Session"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-09T19:06:18+00:00",
+    "serving": "can",
+    "rating": 3.0,
+    "beer_name": "Smoothie Bowl: Pistachio Fluff",
+    "brewery": "Nepo Brewing",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-09T19:04:58+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Smoothie Bowl: Pistachio Fluff",
+    "brewery": "Nepo Brewing",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-09T18:19:01+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "10th Anniversary Smoothie Bowl",
+    "brewery": "Nepo Brewing",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-09T18:18:55+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "10th Anniversary Smoothie Bowl",
+    "brewery": "Nepo Brewing",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-09T17:54:54+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "Smoothie Bowl - Peachy Dragon",
+    "brewery": "Nepo Brewing",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-09T17:44:08+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Smoothie Bowl - Peachy Dragon",
+    "brewery": "Nepo Brewing",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-09T16:40:49+00:00",
+    "serving": "draft",
+    "rating": 3.25,
+    "beer_name": "New York Mocaccino",
+    "brewery": "Mad Scientist",
+    "beer_type": "Stout - Milk / Sweet"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-09T14:41:01+00:00",
+    "serving": "Unknown",
+    "rating": 2.5,
+    "beer_name": "Liquid Cocaine",
+    "brewery": "Mad Scientist",
+    "beer_type": "IPA - Imperial / Double"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-09T14:27:18+00:00",
+    "serving": "draft",
+    "rating": 3.8,
+    "beer_name": "Lucky Break",
+    "brewery": "BrewDog",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-09T13:50:44+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Atslananas (עצלננס) Smoothie NEIPA",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-09T13:48:52+00:00",
+    "serving": "draft",
+    "rating": 4.5,
+    "beer_name": "Smoothie Bowl - Peachy Dragon",
+    "brewery": "Nepo Brewing",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-09T13:12:37+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Smoothie Bowl - Peachy Dragon",
+    "brewery": "Nepo Brewing",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-09T11:59:48+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Smoothie Bowl - Peachy Dragon",
+    "brewery": "Nepo Brewing",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-09T11:14:14+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "New York Mocaccino",
+    "brewery": "Mad Scientist",
+    "beer_type": "Stout - Milk / Sweet"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-09T11:09:41+00:00",
+    "serving": "draft",
+    "rating": 3.0,
+    "beer_name": "Lidski bread kvass (Квас Лидский Хлебный)",
+    "brewery": "Lidskae Piva (Лідскае Піва)",
+    "beer_type": "Kvass"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-09T11:08:49+00:00",
+    "serving": "draft",
+    "rating": 5.0,
+    "beer_name": "Slow And Bitter (מריר ועצלני)",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Bitter - Session / Ordinary"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-09T10:53:29+00:00",
+    "serving": "bottle",
+    "rating": 4.5,
+    "beer_name": "Oude Mûre Tilquin à L'Ancienne (2022-2023)",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-09T10:51:27+00:00",
+    "serving": "Unknown",
+    "rating": 4.2,
+    "beer_name": "Lidski bread kvass (Квас Лидский Хлебный)",
+    "brewery": "Lidskae Piva (Лідскае Піва)",
+    "beer_type": "Kvass"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-09T10:42:59+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Premium Cider",
+    "brewery": "Westons Cider",
+    "beer_type": "Cider - Traditional / Apfelwein"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-09T10:41:37+00:00",
+    "serving": "draft",
+    "rating": 4.1,
+    "beer_name": "Lidski bread kvass (Квас Лидский Хлебный)",
+    "brewery": "Lidskae Piva (Лідскае Піва)",
+    "beer_type": "Kvass"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-09T10:41:25+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "Slow And Bitter (מריר ועצלני)",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Bitter - Session / Ordinary"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-09T10:29:58+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Liquid Cocaine",
+    "brewery": "Mad Scientist",
+    "beer_type": "IPA - Imperial / Double"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-09T10:22:22+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Pink Grapefruit Halcyon",
+    "brewery": "Thornbridge Brewery",
+    "beer_type": "IPA - Imperial / Double"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-09T10:18:33+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Atslananas (עצלננס) Smoothie NEIPA",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-09T10:16:44+00:00",
+    "serving": "draft",
+    "rating": 4.1,
+    "beer_name": "Tucher Pils",
+    "brewery": "Tucher Bräu",
+    "beer_type": "Pilsner - German"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-09T10:15:03+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Mexico City Twist",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Lager - Mexican"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-09T10:10:31+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Kimat Gornisht",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Non-Alcoholic - Lager"
+  },
   {
     "venue": "lauter",
     "time": "2025-08-08T22:00:23+00:00",
