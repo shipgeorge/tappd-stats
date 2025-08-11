@@ -1,4 +1,19 @@
 venue,user,time,serving,data_rating,beer_name,brewery,beer_type
+lauter,Ido Kessler,"Sun, 10 Aug 2025 21:40:38 +0000",bottle,3.5,B2-GEZER,Oak & Ash,IPA - Fruited
+b7-beer-house,Oren Hazan,"Sun, 10 Aug 2025 18:44:03 +0000",draft,3.75,Smoothie Bowl - Peachy Dragon,Nepo Brewing,Sour - Smoothie / Pastry
+porter-and-sons,Shmupi Koto,"Sun, 10 Aug 2025 18:33:12 +0000",draft,4.5,Kriek 100% Lambic Bio (2024),Brasserie Cantillon,Lambic - Kriek
+lauter,Instinct Basic,"Sun, 10 Aug 2025 18:12:56 +0000",draft,3.5,Smoothie Bowl - Peachy Dragon,Nepo Brewing,Sour - Smoothie / Pastry
+b7-beer-house,Alex Fux,"Sun, 10 Aug 2025 18:07:22 +0000",draft,5.0,באה מאהבה,New Pioneer Brewing Co - חלוץ חדש,Red Ale - American Amber / Red
+lauter,Shmupi Koto,"Sun, 10 Aug 2025 18:06:18 +0000",bottle,4.0,Jaipur,Thornbridge Brewery,IPA - American
+lauter,Nir Langer,"Sun, 10 Aug 2025 17:52:53 +0000",,,She Phone,Schnitt Brewing Company﻿,IPA - Rye
+lauter,Instinct Basic,"Sun, 10 Aug 2025 16:23:51 +0000",can,3.75,10th Anniversary Smoothie Bowl,Nepo Brewing,Sour - Smoothie / Pastry
+lauter,Instinct Basic,"Sun, 10 Aug 2025 16:02:47 +0000",,3.5,שייפא חאלא,New Pioneer Brewing Co - חלוץ חדש,IPA - New England / Hazy
+lauter,גל סילברמן,"Sun, 10 Aug 2025 15:20:28 +0000",bottle,3.3,Kasteel Cuvée,Kasteel Brouwerij Vanhonsebrouck,Belgian Quadrupel
+b7-beer-house,Марк Марков,"Sun, 10 Aug 2025 14:56:36 +0000",draft,4.5,Smoothie Bowl - Peachy Dragon,Nepo Brewing,Sour - Smoothie / Pastry
+b7-beer-house,Марк Марков,"Sun, 10 Aug 2025 14:37:31 +0000",draft,3.75,באה מאהבה,New Pioneer Brewing Co - חלוץ חדש,Red Ale - American Amber / Red
+b7-beer-house,Марк Марков,"Sun, 10 Aug 2025 14:16:43 +0000",draft,4.0,בול בפוני,New Pioneer Brewing Co - חלוץ חדש,Sour - Fruited
+lauter,Gabi David,"Sun, 10 Aug 2025 14:05:48 +0000",draft,3.75,Pink Grapefruit Halcyon,Thornbridge Brewery,IPA - Imperial / Double
+lauter,Gabi David,"Sun, 10 Aug 2025 13:45:16 +0000",draft,4.25,Smoothie Bowl - Peachy Dragon,Nepo Brewing,Sour - Smoothie / Pastry
 b7-beer-house,sourlips69,"Sat, 09 Aug 2025 19:24:46 +0000",,3.75,Smoothie Bowl - Peachy Dragon,Nepo Brewing,Sour - Smoothie / Pastry
 b7-beer-house,sourlips69,"Sat, 09 Aug 2025 19:23:53 +0000",,4.25,Day Maker,Thornbridge Brewery,IPA - Session
 lauter,anton_tarasuk_1704,"Sat, 09 Aug 2025 19:06:18 +0000",can,3.0,Smoothie Bowl: Pistachio Fluff,Nepo Brewing,Sour - Smoothie / Pastry
@@ -219,8 +234,8 @@ lauter,Yaron Sh,"Tue, 05 Aug 2025 19:29:11 +0000",,4.0,SLUSHY XL: Haha!,450 Nort
 lauter,Kobi,"Tue, 05 Aug 2025 19:29:05 +0000",,4.3,Hydralisk,Spanish Marie Brewery,Sour - Smoothie / Pastry
 lauter,Yosef Dahan,"Tue, 05 Aug 2025 19:28:30 +0000",can,3.75,SLUSHY XL: Haha!,450 North Brewing Company,Sour - Smoothie / Pastry
 lauter,Shaul A,"Tue, 05 Aug 2025 19:26:45 +0000",,4.25,SLUSHY XL: Haha!,450 North Brewing Company,Sour - Smoothie / Pastry
-lauter,Mikhail Stolov,"Tue, 05 Aug 2025 19:24:07 +0000",can,4.5,SLUSHY XL: Haha!,450 North Brewing Company,Sour - Smoothie / Pastry
 lauter,Oren Sleepwalker,"Tue, 05 Aug 2025 19:24:07 +0000",,,SLUSHY XL: Haha!,450 North Brewing Company,Sour - Smoothie / Pastry
+lauter,Mikhail Stolov,"Tue, 05 Aug 2025 19:24:07 +0000",can,4.5,SLUSHY XL: Haha!,450 North Brewing Company,Sour - Smoothie / Pastry
 lauter,Kobi,"Tue, 05 Aug 2025 19:21:59 +0000",,4.3,SLUSHY XL: Haha!,450 North Brewing Company,Sour - Smoothie / Pastry
 lauter,Shaul A,"Tue, 05 Aug 2025 19:16:22 +0000",,4.25,Monstrous Oils,Cellarmaker Brewing Company,IPA - Quadruple
 lauter,Yaron Sh,"Tue, 05 Aug 2025 19:15:56 +0000",,4.25,Monstrous Oils,Cellarmaker Brewing Company,IPA - Quadruple
@@ -1154,8 +1169,8 @@ lauter,Sivan Nagola,"Fri, 25 Jul 2025 18:16:52 +0000",draft,4.5,Rosé De Gambrin
 lauter,Shmupi Koto,"Fri, 25 Jul 2025 18:16:45 +0000",draft,4.6,Sang Bleu 2024 - Draft Version,Brasserie Cantillon,Lambic - Fruit
 lauter,Yahly Guttman,"Fri, 25 Jul 2025 18:16:17 +0000",,5.0,Fou' Foune 2023 - Draft Version,Brasserie Cantillon,Lambic - Fruit
 lauter,Sivan Nagola,"Fri, 25 Jul 2025 18:15:54 +0000",draft,4.0,Kriek 2025 - Draft Version,Brasserie Cantillon,Lambic - Kriek
-lauter,Sivan Nagola,"Fri, 25 Jul 2025 18:15:23 +0000",draft,4.0,Cuvée Saint-Gilloise 2023 - Draft Version,Brasserie Cantillon,Lambic - Traditional
 lauter,Eli Smikin,"Fri, 25 Jul 2025 18:15:23 +0000",draft,4.8,Fou' Foune 2023 - Draft Version,Brasserie Cantillon,Lambic - Fruit
+lauter,Sivan Nagola,"Fri, 25 Jul 2025 18:15:23 +0000",draft,4.0,Cuvée Saint-Gilloise 2023 - Draft Version,Brasserie Cantillon,Lambic - Traditional
 lauter,Sivan Nagola,"Fri, 25 Jul 2025 18:14:47 +0000",draft,4.75,Gueuze 2024 - Draft Version,Brasserie Cantillon,Lambic - Gueuze
 lauter,Sivan Nagola,"Fri, 25 Jul 2025 18:14:07 +0000",draft,4.0,Grand Cru Bruocsella - Draft Version (2021-2022),Brasserie Cantillon,Lambic - Traditional
 lauter,Itai Snai,"Fri, 25 Jul 2025 18:10:14 +0000",,4.5,Fou' Foune 2023 - Draft Version,Brasserie Cantillon,Lambic - Fruit

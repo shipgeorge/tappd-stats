@@ -1,8 +1,143 @@
 // 🍺 BEER STATS DATA - Generated automatically
-// Last updated: 2025-08-10 06:55:50
-// Total records: 3252
+// Last updated: 2025-08-11 07:02:09
+// Total records: 3267
 
 const BEER_DATA = [
+  {
+    "venue": "lauter",
+    "time": "2025-08-10T21:40:38+00:00",
+    "serving": "bottle",
+    "rating": 3.5,
+    "beer_name": "B2-GEZER",
+    "brewery": "Oak & Ash",
+    "beer_type": "IPA - Fruited"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-10T18:44:03+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Smoothie Bowl - Peachy Dragon",
+    "brewery": "Nepo Brewing",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "porter-and-sons",
+    "time": "2025-08-10T18:33:12+00:00",
+    "serving": "draft",
+    "rating": 4.5,
+    "beer_name": "Kriek 100% Lambic Bio (2024)",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": "Lambic - Kriek"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-10T18:12:56+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Smoothie Bowl - Peachy Dragon",
+    "brewery": "Nepo Brewing",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-10T18:07:22+00:00",
+    "serving": "draft",
+    "rating": 5.0,
+    "beer_name": "באה מאהבה",
+    "brewery": "New Pioneer Brewing Co - חלוץ חדש",
+    "beer_type": "Red Ale - American Amber / Red"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-10T18:06:18+00:00",
+    "serving": "bottle",
+    "rating": 4.0,
+    "beer_name": "Jaipur",
+    "brewery": "Thornbridge Brewery",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-10T17:52:53+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "She Phone",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - Rye"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-10T16:23:51+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "10th Anniversary Smoothie Bowl",
+    "brewery": "Nepo Brewing",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-10T16:02:47+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "שייפא חאלא",
+    "brewery": "New Pioneer Brewing Co - חלוץ חדש",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-10T15:20:28+00:00",
+    "serving": "bottle",
+    "rating": 3.3,
+    "beer_name": "Kasteel Cuvée",
+    "brewery": "Kasteel Brouwerij Vanhonsebrouck",
+    "beer_type": "Belgian Quadrupel"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-10T14:56:36+00:00",
+    "serving": "draft",
+    "rating": 4.5,
+    "beer_name": "Smoothie Bowl - Peachy Dragon",
+    "brewery": "Nepo Brewing",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-10T14:37:31+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "באה מאהבה",
+    "brewery": "New Pioneer Brewing Co - חלוץ חדש",
+    "beer_type": "Red Ale - American Amber / Red"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-10T14:16:43+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "בול בפוני",
+    "brewery": "New Pioneer Brewing Co - חלוץ חדש",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-10T14:05:48+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Pink Grapefruit Halcyon",
+    "brewery": "Thornbridge Brewery",
+    "beer_type": "IPA - Imperial / Double"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-10T13:45:16+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "Smoothie Bowl - Peachy Dragon",
+    "brewery": "Nepo Brewing",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
   {
     "venue": "b7-beer-house",
     "time": "2025-08-09T19:24:46+00:00",
@@ -1986,8 +2121,8 @@ const BEER_DATA = [
   {
     "venue": "lauter",
     "time": "2025-08-05T19:24:07+00:00",
-    "serving": "can",
-    "rating": 4.5,
+    "serving": "Unknown",
+    "rating": null,
     "beer_name": "SLUSHY XL: Haha!",
     "brewery": "450 North Brewing Company",
     "beer_type": "Sour - Smoothie / Pastry"
@@ -1995,8 +2130,8 @@ const BEER_DATA = [
   {
     "venue": "lauter",
     "time": "2025-08-05T19:24:07+00:00",
-    "serving": "Unknown",
-    "rating": null,
+    "serving": "can",
+    "rating": 4.5,
     "beer_name": "SLUSHY XL: Haha!",
     "brewery": "450 North Brewing Company",
     "beer_type": "Sour - Smoothie / Pastry"
@@ -10402,19 +10537,19 @@ const BEER_DATA = [
     "venue": "lauter",
     "time": "2025-07-25T18:15:23+00:00",
     "serving": "draft",
-    "rating": 4.0,
-    "beer_name": "Cuvée Saint-Gilloise 2023 - Draft Version",
+    "rating": 4.8,
+    "beer_name": "Fou' Foune 2023 - Draft Version",
     "brewery": "Brasserie Cantillon",
-    "beer_type": "Lambic - Traditional"
+    "beer_type": "Lambic - Fruit"
   },
   {
     "venue": "lauter",
     "time": "2025-07-25T18:15:23+00:00",
     "serving": "draft",
-    "rating": 4.8,
-    "beer_name": "Fou' Foune 2023 - Draft Version",
+    "rating": 4.0,
+    "beer_name": "Cuvée Saint-Gilloise 2023 - Draft Version",
     "brewery": "Brasserie Cantillon",
-    "beer_type": "Lambic - Fruit"
+    "beer_type": "Lambic - Traditional"
   },
   {
     "venue": "lauter",
