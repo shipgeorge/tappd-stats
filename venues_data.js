@@ -1,8 +1,161 @@
 // 🍺 BEER STATS DATA - Generated automatically
-// Last updated: 2025-08-12 06:57:17
-// Total records: 3280
+// Last updated: 2025-08-13 06:58:53
+// Total records: 3297
 
 const BEER_DATA = [
+  {
+    "venue": "porter-and-sons",
+    "time": "2025-08-12T20:52:49+00:00",
+    "serving": "draft",
+    "rating": 4.5,
+    "beer_name": "Kriek 100% Lambic Bio (2024)",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": "Lambic - Kriek"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-12T20:19:53+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Atslananas (עצלננס) Smoothie NEIPA",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-12T19:32:05+00:00",
+    "serving": "bottle",
+    "rating": 4.0,
+    "beer_name": "Jaipur",
+    "brewery": "Thornbridge Brewery",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-12T16:58:22+00:00",
+    "serving": "bottle",
+    "rating": 4.0,
+    "beer_name": "Kriek 2023-1",
+    "brewery": "Boerenerf",
+    "beer_type": "Lambic - Kriek"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-12T16:38:05+00:00",
+    "serving": "Unknown",
+    "rating": 4.25,
+    "beer_name": "MC²",
+    "brewery": "Equilibrium Brewery",
+    "beer_type": "IPA - Imperial / Double New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-12T16:08:25+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Atslananas (עצלננס) Smoothie NEIPA",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-12T16:06:20+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "Pink Grapefruit Halcyon",
+    "brewery": "Thornbridge Brewery",
+    "beer_type": "IPA - Imperial / Double"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-12T16:01:16+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "Liquid Cocaine",
+    "brewery": "Mad Scientist",
+    "beer_type": "IPA - Imperial / Double"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-12T15:10:37+00:00",
+    "serving": "Unknown",
+    "rating": 5.0,
+    "beer_name": "Smoothie Bowl - Peachy Dragon",
+    "brewery": "Nepo Brewing",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-08-12T14:49:38+00:00",
+    "serving": "Unknown",
+    "rating": 3.0,
+    "beer_name": "Tea Party: Green Tea And Jasmine",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pale Ale - Other"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-08-12T14:47:50+00:00",
+    "serving": "Unknown",
+    "rating": 3.8,
+    "beer_name": "Anything Gose: Mango",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Sour - Fruited Gose"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-08-12T14:46:32+00:00",
+    "serving": "Unknown",
+    "rating": 3.7,
+    "beer_name": "Salt N' Peppa",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Lager - Other"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-08-12T14:45:10+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Atslananas (עצלננס) Smoothie NEIPA",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-08-12T09:46:17+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Atslananas (עצלננס) Smoothie NEIPA",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-08-12T09:42:49+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Anything Gose: Mango",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Sour - Fruited Gose"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-08-12T09:36:25+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Shut Up And Drink Me! (שת\"פ)",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Historical Beer - Lichtenhainer"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-08-12T09:32:04+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Salt N' Peppa",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Lager - Other"
+  },
   {
     "venue": "ursa",
     "time": "2025-08-11T18:50:49+00:00",
@@ -10654,19 +10807,19 @@ const BEER_DATA = [
     "venue": "lauter",
     "time": "2025-07-25T18:15:23+00:00",
     "serving": "draft",
-    "rating": 4.8,
-    "beer_name": "Fou' Foune 2023 - Draft Version",
+    "rating": 4.0,
+    "beer_name": "Cuvée Saint-Gilloise 2023 - Draft Version",
     "brewery": "Brasserie Cantillon",
-    "beer_type": "Lambic - Fruit"
+    "beer_type": "Lambic - Traditional"
   },
   {
     "venue": "lauter",
     "time": "2025-07-25T18:15:23+00:00",
     "serving": "draft",
-    "rating": 4.0,
-    "beer_name": "Cuvée Saint-Gilloise 2023 - Draft Version",
+    "rating": 4.8,
+    "beer_name": "Fou' Foune 2023 - Draft Version",
     "brewery": "Brasserie Cantillon",
-    "beer_type": "Lambic - Traditional"
+    "beer_type": "Lambic - Fruit"
   },
   {
     "venue": "lauter",
@@ -20068,8 +20221,8 @@ const BEER_DATA = [
     "venue": "berlin-florentin",
     "time": "2024-12-23T18:37:49+00:00",
     "serving": "bottle",
-    "rating": 4.1,
-    "beer_name": "Christmas Ale (2023)",
+    "rating": 3.0,
+    "beer_name": "Christmas Ale",
     "brewery": "Brouwerij St.Bernardus",
     "beer_type": "Winter Ale"
   },
@@ -20077,8 +20230,8 @@ const BEER_DATA = [
     "venue": "berlin-florentin",
     "time": "2024-12-23T18:37:49+00:00",
     "serving": "bottle",
-    "rating": 3.0,
-    "beer_name": "Christmas Ale",
+    "rating": 4.1,
+    "beer_name": "Christmas Ale (2023)",
     "brewery": "Brouwerij St.Bernardus",
     "beer_type": "Winter Ale"
   },
@@ -26502,8 +26655,8 @@ const BEER_DATA = [
   {
     "venue": "berlin-florentin",
     "time": "2024-01-22T18:42:20+00:00",
-    "serving": "can",
-    "rating": 4.0,
+    "serving": "Unknown",
+    "rating": null,
     "beer_name": "200 Units",
     "brewery": "Brewski",
     "beer_type": "Barleywine - English"
@@ -26511,8 +26664,8 @@ const BEER_DATA = [
   {
     "venue": "berlin-florentin",
     "time": "2024-01-22T18:42:20+00:00",
-    "serving": "Unknown",
-    "rating": null,
+    "serving": "can",
+    "rating": 4.0,
     "beer_name": "200 Units",
     "brewery": "Brewski",
     "beer_type": "Barleywine - English"
