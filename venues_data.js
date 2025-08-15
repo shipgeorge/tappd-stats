@@ -1,8 +1,323 @@
 // 🍺 BEER STATS DATA - Generated automatically
-// Last updated: 2025-08-14 06:59:05
-// Total records: 3319
+// Last updated: 2025-08-15 06:57:53
+// Total records: 3354
 
 const BEER_DATA = [
+  {
+    "venue": "lauter",
+    "time": "2025-08-14T21:48:02+00:00",
+    "serving": "can",
+    "rating": 3.8,
+    "beer_name": "Deepness.",
+    "brewery": "Moon Lark Brewery",
+    "beer_type": "Porter - Baltic"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-14T21:46:31+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Zombie Mania",
+    "brewery": "Beer Zombies Brewing Co.",
+    "beer_type": "IPA - Triple New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-14T21:45:15+00:00",
+    "serving": "can",
+    "rating": 3.8,
+    "beer_name": "IDEAL V.2",
+    "brewery": "DOSKIWIS BREWING",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-14T21:43:55+00:00",
+    "serving": "can",
+    "rating": 2.0,
+    "beer_name": "Dead Guy IPA",
+    "brewery": "Rogue Ales",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-08-14T21:40:41+00:00",
+    "serving": "draft",
+    "rating": 3.7,
+    "beer_name": "IN THE  SMALL",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Table Beer"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-08-14T21:09:14+00:00",
+    "serving": "Unknown",
+    "rating": 3.7,
+    "beer_name": "IN THE  SMALL",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Table Beer"
+  },
+  {
+    "venue": "beerline",
+    "time": "2025-08-14T20:25:42+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "Delirium Black Barrel Aged",
+    "brewery": "Delirium - Huyghe Brewery",
+    "beer_type": "Belgian Strong Dark Ale"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-08-14T20:18:47+00:00",
+    "serving": "Unknown",
+    "rating": 3.8,
+    "beer_name": "Porter&Sons: Marshmallow",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Porter - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-14T20:13:44+00:00",
+    "serving": "draft",
+    "rating": 3.8,
+    "beer_name": "Pink Grapefruit Halcyon",
+    "brewery": "Thornbridge Brewery",
+    "beer_type": "IPA - Imperial / Double"
+  },
+  {
+    "venue": "beerz",
+    "time": "2025-08-14T20:03:51+00:00",
+    "serving": "can",
+    "rating": 4.8,
+    "beer_name": "Yummy Blackcurrant, Prunes & Tonka",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-14T19:54:54+00:00",
+    "serving": "can",
+    "rating": 4.2,
+    "beer_name": "Deepness.",
+    "brewery": "Moon Lark Brewery",
+    "beer_type": "Porter - Baltic"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-14T19:52:17+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Smoothie Bowl - Peachy Dragon",
+    "brewery": "Nepo Brewing",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-14T19:52:07+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "Pink Grapefruit Halcyon",
+    "brewery": "Thornbridge Brewery",
+    "beer_type": "IPA - Imperial / Double"
+  },
+  {
+    "venue": "beerz",
+    "time": "2025-08-14T19:39:31+00:00",
+    "serving": "bottle",
+    "rating": 4.7,
+    "beer_name": "Outset (barrel aged)",
+    "brewery": "Paragon Brewery & Taproom",
+    "beer_type": "Stout - Imperial / Double Oatmeal"
+  },
+  {
+    "venue": "beerz",
+    "time": "2025-08-14T18:58:01+00:00",
+    "serving": "can",
+    "rating": 3.4,
+    "beer_name": "Trucks Use Low Gear",
+    "brewery": "Salama Brewing Company",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "beerz",
+    "time": "2025-08-14T18:52:28+00:00",
+    "serving": "can",
+    "rating": 3.7,
+    "beer_name": "Мокро коте",
+    "brewery": "Beer Bastards Brewing",
+    "beer_type": "IPA - Session"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-14T18:15:15+00:00",
+    "serving": "draft",
+    "rating": 4.3,
+    "beer_name": "Smoothie Bowl - Peachy Dragon",
+    "brewery": "Nepo Brewing",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "beerz",
+    "time": "2025-08-14T18:13:11+00:00",
+    "serving": "can",
+    "rating": 3.6,
+    "beer_name": "90 Road",
+    "brewery": "Lubrow Brewery",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-14T18:13:04+00:00",
+    "serving": "bottle",
+    "rating": 4.1,
+    "beer_name": "Wild Berry Imperial Stout - Bourbon Barrel Aged",
+    "brewery": "Vocation Brewery",
+    "beer_type": "Stout - Imperial / Double"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-14T18:12:01+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Wild Berry Imperial Stout - Bourbon Barrel Aged",
+    "brewery": "Vocation Brewery",
+    "beer_type": "Stout - Imperial / Double"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-14T16:48:35+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "New York Mocaccino",
+    "brewery": "Mad Scientist",
+    "beer_type": "Stout - Milk / Sweet"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-14T16:36:12+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Prior 8",
+    "brewery": "Brouwerij St.Bernardus",
+    "beer_type": "Belgian Dubbel"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-14T16:32:23+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "New York Mocaccino",
+    "brewery": "Mad Scientist",
+    "beer_type": "Stout - Milk / Sweet"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-14T16:32:04+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Premium Cider",
+    "brewery": "Westons Cider",
+    "beer_type": "Cider - Traditional / Apfelwein"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-14T16:28:05+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Barbãr",
+    "brewery": "Brasserie Lefebvre",
+    "beer_type": "Honey Beer"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-14T16:27:41+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Budweiser Budvar B:DARK / Czechvar B:DARK",
+    "brewery": "Budějovický Budvar",
+    "beer_type": "Lager - Tmavé (Czech Dark)"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-14T15:51:07+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Salt N' Peppa",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Lager - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-14T15:49:36+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Alt Neuland",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Altbier - Traditional"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-08-14T15:22:00+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Porter&Sons: Marshmallow",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Porter - Other"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-14T14:32:25+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "באה מאהבה",
+    "brewery": "New Pioneer Brewing Co - חלוץ חדש",
+    "beer_type": "Red Ale - American Amber / Red"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-14T13:49:19+00:00",
+    "serving": "Unknown",
+    "rating": 3.25,
+    "beer_name": "New York Mocaccino",
+    "brewery": "Mad Scientist",
+    "beer_type": "Stout - Milk / Sweet"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-14T13:48:55+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Pleroma Karpologi Pineapple Peach Marshmallow Créme Brulée Sour",
+    "brewery": "Omnipollo",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-14T13:48:38+00:00",
+    "serving": "Unknown",
+    "rating": 4.25,
+    "beer_name": "Smoothie Bowl - Peachy Dragon",
+    "brewery": "Nepo Brewing",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-08-14T13:29:07+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Holy Schnitt",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-08-14T12:27:00+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "Kelly's Green Pony",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
   {
     "venue": "lauter",
     "time": "2025-08-13T19:29:47+00:00",
