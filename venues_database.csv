@@ -1,4 +1,51 @@
 venue,user,time,serving,data_rating,beer_name,brewery,beer_type
+beerbazaar-brewery,Ariel Manzon,"Mon, 18 Aug 2025 20:59:47 +0000",can,4.0,Ziggy (זיגי),BeerBazaar / Mivshelet Ha’Aretz,IPA - New England / Hazy
+beerz,Gal Sokol,"Mon, 18 Aug 2025 19:46:57 +0000",can,3.5,Red Sour,Lubrow Brewery,Sour - Fruited
+schnitt-brewing-company,Ori Pemper,"Mon, 18 Aug 2025 19:19:05 +0000",draft,4.0,Porter&Sons: Marshmallow,Schnitt Brewing Company﻿,Porter - Other
+schnitt-brewing-company,Ori Pemper,"Mon, 18 Aug 2025 19:17:43 +0000",,3.75,Anything Gose: Mango,Schnitt Brewing Company﻿,Sour - Fruited Gose
+lauter,Ori Pemper,"Mon, 18 Aug 2025 19:15:14 +0000",,3.75,New York Mocaccino,Mad Scientist,Stout - Milk / Sweet
+lauter,Ori Pemper,"Mon, 18 Aug 2025 19:08:49 +0000",draft,4.0,10th Anniversary Smoothie Bowl,Nepo Brewing,Sour - Smoothie / Pastry
+lauter,Ori Pemper,"Mon, 18 Aug 2025 19:05:18 +0000",draft,3.5,Salt N' Peppa,Schnitt Brewing Company﻿,Lager - Other
+lauter,Ori Pemper,"Mon, 18 Aug 2025 19:03:45 +0000",draft,3.75,B2-GEZER,Oak & Ash,IPA - Fruited
+lauter,Tal,"Mon, 18 Aug 2025 18:38:38 +0000",bottle,4.5,Oude Gueuze (2023-2),Boerenerf,Lambic - Gueuze
+lauter,adi_zadik_2741,"Mon, 18 Aug 2025 18:38:22 +0000",bottle,4.25,Oude Gueuze (2023-2),Boerenerf,Lambic - Gueuze
+lauter,Tal,"Mon, 18 Aug 2025 18:04:20 +0000",bottle,4.25,Strong Sour (2025),Shapiro (שפירא),Sour - Other
+lauter,Tal,"Mon, 18 Aug 2025 17:57:51 +0000",bottle,4.25,Bitter Man,Beerbalach,Bitter - Best
+lauter,adi_zadik_2741,"Mon, 18 Aug 2025 17:51:29 +0000",bottle,3.75,Bitter Man,Beerbalach,Bitter - Best
+lauter,Tal,"Mon, 18 Aug 2025 17:23:15 +0000",draft,4.0,B2-GEZER,Oak & Ash,IPA - Fruited
+lauter,adi_zadik_2741,"Mon, 18 Aug 2025 17:22:07 +0000",draft,3.5,B2-GEZER,Oak & Ash,IPA - Fruited
+schnitt-brewing-company,Yaron Veksler,"Mon, 18 Aug 2025 16:48:13 +0000",draft,4.0,Kelly's Green Pony,Schnitt Brewing Company﻿,IPA - New England / Hazy
+schnitt-brewing-company,T T,"Mon, 18 Aug 2025 16:24:05 +0000",draft,3.5,Mexico City Twist,Schnitt Brewing Company﻿,Lager - Mexican
+lauter,barak luzon,"Mon, 18 Aug 2025 16:19:55 +0000",draft,3.75,Accept All Cookies,Schnitt Brewing Company﻿,Pale Ale - Other
+lauter,Ofir Dayan,"Mon, 18 Aug 2025 16:09:42 +0000",draft,3.75,B2-GEZER,Oak & Ash,IPA - Fruited
+lauter,Yuval Shalom,"Mon, 18 Aug 2025 16:07:41 +0000",draft,3.0,B2-GEZER,Oak & Ash,IPA - Fruited
+lauter,Yulia1605,"Mon, 18 Aug 2025 15:53:36 +0000",,4.0,Tripel,Brouwerij St.Bernardus,Belgian Tripel
+lauter,Yulia1605,"Mon, 18 Aug 2025 15:53:10 +0000",,5.0,10th Anniversary Smoothie Bowl,Nepo Brewing,Sour - Smoothie / Pastry
+lauter,barak luzon,"Mon, 18 Aug 2025 15:40:55 +0000",,3.5,She Phone,Schnitt Brewing Company﻿,IPA - Rye
+lauter,igal_mazor,"Mon, 18 Aug 2025 15:33:27 +0000",draft,4.5,10th Anniversary Smoothie Bowl,Nepo Brewing,Sour - Smoothie / Pastry
+lauter,igal_mazor,"Mon, 18 Aug 2025 15:30:45 +0000",draft,4.0,Stiegl-Radler Grapefruit,Stieglbrauerei zu Salzburg,Shandy / Radler
+lauter,Aviad Attia,"Mon, 18 Aug 2025 15:30:03 +0000",,,Tea Party: Green Tea And Jasmine,Schnitt Brewing Company﻿,Pale Ale - Other
+lauter,Aviad Attia,"Mon, 18 Aug 2025 15:29:38 +0000",draft,,B2-GEZER,Oak & Ash,IPA - Fruited
+lauter,Danielle Yona,"Mon, 18 Aug 2025 15:29:22 +0000",draft,,Tea Party: Green Tea And Jasmine,Schnitt Brewing Company﻿,Pale Ale - Other
+lauter,Aviad Attia,"Mon, 18 Aug 2025 15:28:57 +0000",,,10th Anniversary Smoothie Bowl,Nepo Brewing,Sour - Smoothie / Pastry
+lauter,Danielle Yona,"Mon, 18 Aug 2025 15:28:55 +0000",,,B2-GEZER,Oak & Ash,IPA - Fruited
+lauter,Danielle Yona,"Mon, 18 Aug 2025 15:28:38 +0000",draft,5.0,10th Anniversary Smoothie Bowl,Nepo Brewing,Sour - Smoothie / Pastry
+lauter,Danielle Yona,"Mon, 18 Aug 2025 15:27:44 +0000",,,Salt N' Peppa,Schnitt Brewing Company﻿,Lager - Other
+lauter,Danielle Yona,"Mon, 18 Aug 2025 15:27:08 +0000",,,She Phone,Schnitt Brewing Company﻿,IPA - Rye
+schnitt-brewing-company,Danielle Yona,"Mon, 18 Aug 2025 14:58:40 +0000",draft,,Porter&Sons: Marshmallow,Schnitt Brewing Company﻿,Porter - Other
+schnitt-brewing-company,Aviad Attia,"Mon, 18 Aug 2025 14:58:17 +0000",,,Porter&Sons: Marshmallow,Schnitt Brewing Company﻿,Porter - Other
+schnitt-brewing-company,Danielle Yona,"Mon, 18 Aug 2025 14:57:56 +0000",,,Anything Gose: Mango,Schnitt Brewing Company﻿,Sour - Fruited Gose
+schnitt-brewing-company,Aviad Attia,"Mon, 18 Aug 2025 14:57:51 +0000",draft,,Anything Gose: Mango,Schnitt Brewing Company﻿,Sour - Fruited Gose
+schnitt-brewing-company,Aviad Attia,"Mon, 18 Aug 2025 14:57:43 +0000",,,IN THE  SMALL,Schnitt Brewing Company﻿,Table Beer
+schnitt-brewing-company,Aviad Attia,"Mon, 18 Aug 2025 14:57:33 +0000",draft,,"Shut Up And Drink Me! (שת""פ)",Schnitt Brewing Company﻿,Historical Beer - Lichtenhainer
+schnitt-brewing-company,Danielle Yona,"Mon, 18 Aug 2025 14:57:32 +0000",,,IN THE  SMALL,Schnitt Brewing Company﻿,Table Beer
+schnitt-brewing-company,Danielle Yona,"Mon, 18 Aug 2025 14:57:05 +0000",draft,,"Shut Up And Drink Me! (שת""פ)",Schnitt Brewing Company﻿,Historical Beer - Lichtenhainer
+schnitt-brewing-company,Ilya Yeruhimovich,"Mon, 18 Aug 2025 14:51:23 +0000",draft,3.8,Atslananas (עצלננס) Smoothie NEIPA,Schnitt Brewing Company﻿,IPA - New England / Hazy
+schnitt-brewing-company,Yulia1605,"Mon, 18 Aug 2025 14:33:38 +0000",,1.0,Anything Gose: Mango,Schnitt Brewing Company﻿,Sour - Fruited Gose
+lauter,Yulia1605,"Mon, 18 Aug 2025 14:30:48 +0000",,3.0,B2-GEZER,Oak & Ash,IPA - Fruited
+lauter,Adam Berelowitz,"Mon, 18 Aug 2025 14:10:14 +0000",bottle,4.0,Maryensztadt Klasycznie IPA,Maryensztadt,IPA - American
+schnitt-brewing-company,Alex Shtouff,"Mon, 18 Aug 2025 09:59:23 +0000",draft,4.25,Porter&Sons: Marshmallow,Schnitt Brewing Company﻿,Porter - Other
+schnitt-brewing-company,Dan G,"Mon, 18 Aug 2025 09:23:53 +0000",can,3.5,Salt N' Peppa,Schnitt Brewing Company﻿,Lager - Other
 lauter,Adi Levi,"Sun, 17 Aug 2025 21:25:50 +0000",,3.75,She Phone,Schnitt Brewing Company﻿,IPA - Rye
 lauter,Adi Levi,"Sun, 17 Aug 2025 21:24:39 +0000",,3.75,B2-GEZER,Oak & Ash,IPA - Fruited
 schnitt-brewing-company,Adi Levi,"Sun, 17 Aug 2025 21:22:06 +0000",,3.5,Salt N' Peppa,Schnitt Brewing Company﻿,Lager - Other
@@ -516,8 +563,8 @@ lauter,Mikhail Stolov,"Tue, 05 Aug 2025 18:52:25 +0000",,3.25,OUOUOU,4BREWERS,So
 lauter,Oren Sleepwalker,"Tue, 05 Aug 2025 18:50:13 +0000",,,Whakahoa,Factory Brewing,IPA - Triple New England / Hazy
 schnitt-brewing-company,Arkady Gerasimuk,"Tue, 05 Aug 2025 18:49:49 +0000",draft,3.5,Twist & Stout,Schnitt Brewing Company﻿,Stout - Irish Dry
 schnitt-brewing-company,Yaniv Gorodetsky,"Tue, 05 Aug 2025 18:49:42 +0000",draft,3.0,Twist & Stout,Schnitt Brewing Company﻿,Stout - Irish Dry
-lauter,Yaron Sh,"Tue, 05 Aug 2025 18:49:38 +0000",,4.5,Whakahoa,Factory Brewing,IPA - Triple New England / Hazy
 lauter,Yosef Dahan,"Tue, 05 Aug 2025 18:49:38 +0000",can,4.0,Whakahoa,Factory Brewing,IPA - Triple New England / Hazy
+lauter,Yaron Sh,"Tue, 05 Aug 2025 18:49:38 +0000",,4.5,Whakahoa,Factory Brewing,IPA - Triple New England / Hazy
 lauter,Yaniv Alal,"Tue, 05 Aug 2025 18:49:26 +0000",draft,4.25,Whakahoa,Factory Brewing,IPA - Triple New England / Hazy
 lauter,Shaul A,"Tue, 05 Aug 2025 18:49:14 +0000",,4.5,Whakahoa,Factory Brewing,IPA - Triple New England / Hazy
 lauter,Yaron Sh,"Tue, 05 Aug 2025 18:48:30 +0000",,4.0,Magical Path,Shred Beer Company,IPA - New England / Hazy
@@ -2464,8 +2511,8 @@ berlin-florentin,Sharon Confino,"Mon, 23 Dec 2024 18:45:24 +0000",bottle,3.75,Fr
 berlin-florentin,Yana O,"Mon, 23 Dec 2024 18:44:17 +0000",bottle,4.0,Framboise,Brouwerij Lindemans,Lambic - Framboise
 berlin-florentin,Ⓜ️axx Dee,"Mon, 23 Dec 2024 18:44:11 +0000",bottle,4.0,Framboise,Brouwerij Lindemans,Lambic - Framboise
 berlin-florentin,Ⓜ️axx Dee,"Mon, 23 Dec 2024 18:38:17 +0000",bottle,4.0,Christmas Ale (2023),Brouwerij St.Bernardus,Winter Ale
-berlin-florentin,Yana O,"Mon, 23 Dec 2024 18:37:49 +0000",bottle,4.1,Christmas Ale (2023),Brouwerij St.Bernardus,Winter Ale
 berlin-florentin,Sharon Confino,"Mon, 23 Dec 2024 18:37:49 +0000",bottle,3.0,Christmas Ale,Brouwerij St.Bernardus,Winter Ale
+berlin-florentin,Yana O,"Mon, 23 Dec 2024 18:37:49 +0000",bottle,4.1,Christmas Ale (2023),Brouwerij St.Bernardus,Winter Ale
 berlin-florentin,Sharon Confino,"Mon, 23 Dec 2024 18:32:18 +0000",bottle,4.5,Faro,Brouwerij Lindemans,Lambic - Faro
 berlin-florentin,Yana O,"Mon, 23 Dec 2024 18:30:45 +0000",bottle,4.0,Faro,Brouwerij Lindemans,Lambic - Faro
 berlin-florentin,Ⓜ️axx Dee,"Mon, 23 Dec 2024 18:30:43 +0000",bottle,4.1,Faro,Brouwerij Lindemans,Lambic - Faro
