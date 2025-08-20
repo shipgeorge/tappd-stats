@@ -1,8 +1,476 @@
 // 🍺 BEER STATS DATA - Generated automatically
-// Last updated: 2025-08-19 06:55:00
-// Total records: 3563
+// Last updated: 2025-08-20 06:57:31
+// Total records: 3615
 
 const BEER_DATA = [
+  {
+    "venue": "lauter",
+    "time": "2025-08-19T19:39:32+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "Night Shift 2024 - Imperial Milk Porter Aged In Pedro Ximénez Sherry & Rum Barrels W. Sour Cherry & Poppy Seed",
+    "brewery": "HORIZONT Brewing",
+    "beer_type": "Porter - Imperial / Double"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-19T19:30:49+00:00",
+    "serving": "bottle",
+    "rating": 4.6,
+    "beer_name": "Night Shift 2024 - Imperial Milk Porter Aged In Pedro Ximénez Sherry & Rum Barrels W. Sour Cherry & Poppy Seed",
+    "brewery": "HORIZONT Brewing",
+    "beer_type": "Porter - Imperial / Double"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-19T19:22:35+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "B2-GEZER",
+    "brewery": "Oak & Ash",
+    "beer_type": "IPA - Fruited"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-19T19:19:13+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Do Stuff Together",
+    "brewery": "Mikkeller",
+    "beer_type": "Pale Ale - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-19T19:13:29+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "B2-GEZER",
+    "brewery": "Oak & Ash",
+    "beer_type": "IPA - Fruited"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-19T19:12:15+00:00",
+    "serving": "draft",
+    "rating": 4.3,
+    "beer_name": "Pijże",
+    "brewery": "Nepo Brewing",
+    "beer_type": "Pale Ale - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-19T17:53:57+00:00",
+    "serving": "draft",
+    "rating": 3.6,
+    "beer_name": "B2-GEZER",
+    "brewery": "Oak & Ash",
+    "beer_type": "IPA - Fruited"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-08-19T17:45:38+00:00",
+    "serving": "draft",
+    "rating": 3.25,
+    "beer_name": "Atslananas (עצלננס) Smoothie NEIPA",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - Fruited"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-08-19T17:44:47+00:00",
+    "serving": "draft",
+    "rating": 3.25,
+    "beer_name": "Beta Czech (בטא צ'כי)",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pilsner - Czech / Bohemian"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-19T17:16:59+00:00",
+    "serving": "draft",
+    "rating": 3.6,
+    "beer_name": "Tea Party: Green Tea And Jasmine",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pale Ale - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-19T17:08:56+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Salt N' Peppa",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Lager - Other"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-08-19T17:01:02+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Chucky",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pale Ale - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-19T16:51:21+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "Yes We Can: Citra, Idaho 7, HBC586",
+    "brewery": "Maryensztadt",
+    "beer_type": "IPA - Session"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-19T16:45:05+00:00",
+    "serving": "draft",
+    "rating": 3.4,
+    "beer_name": "Pijże",
+    "brewery": "Nepo Brewing",
+    "beer_type": "Pale Ale - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-19T16:42:01+00:00",
+    "serving": "draft",
+    "rating": 3.2,
+    "beer_name": "B2-GEZER",
+    "brewery": "Oak & Ash",
+    "beer_type": "IPA - Fruited"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-19T16:38:59+00:00",
+    "serving": "bottle",
+    "rating": 3.0,
+    "beer_name": "Pacific Northwest IPA",
+    "brewery": "Rogue Ales",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-19T16:32:00+00:00",
+    "serving": "draft",
+    "rating": 2.9,
+    "beer_name": "KRUSHED IT",
+    "brewery": "Oak & Ash",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-19T16:27:35+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Shoreline",
+    "brewery": "Nepo Brewing",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-19T15:25:50+00:00",
+    "serving": "draft",
+    "rating": 3.6,
+    "beer_name": "B2-GEZER",
+    "brewery": "Oak & Ash",
+    "beer_type": "IPA - Fruited"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-08-19T14:47:04+00:00",
+    "serving": "Unknown",
+    "rating": 3.4,
+    "beer_name": "IN THE  SMALL",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Table Beer"
+  },
+  {
+    "venue": "berlin-florentin",
+    "time": "2025-08-19T14:17:57+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Blonde Ale",
+    "brewery": "בירה שקמה Shikma Beer",
+    "beer_type": "Blonde / Golden Ale - Other"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-19T12:55:57+00:00",
+    "serving": "draft",
+    "rating": 4.5,
+    "beer_name": "מייד אין יזרעאל 2025",
+    "brewery": "New Pioneer Brewing Co - חלוץ חדש",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-08-19T11:32:21+00:00",
+    "serving": "bottle",
+    "rating": 4.25,
+    "beer_name": "Shadow On the Wall",
+    "brewery": "Prizm Brewing Co.",
+    "beer_type": "Stout - Imperial / Double Coffee"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-08-19T11:32:02+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "Mango Double Take Imperial Sour",
+    "brewery": "One Drop Brewing Co",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-08-19T11:31:19+00:00",
+    "serving": "bottle",
+    "rating": 3.75,
+    "beer_name": "Shadow On the Wall",
+    "brewery": "Prizm Brewing Co.",
+    "beer_type": "Stout - Imperial / Double Coffee"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-08-19T11:23:07+00:00",
+    "serving": "can",
+    "rating": 4.5,
+    "beer_name": "Mango Double Take Imperial Sour",
+    "brewery": "One Drop Brewing Co",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-08-19T11:17:36+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Porter&Sons: Marshmallow",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Porter - Other"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-08-19T11:17:15+00:00",
+    "serving": "Unknown",
+    "rating": 4.25,
+    "beer_name": "Porter&Sons: Marshmallow",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Porter - Other"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-08-19T11:15:08+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "Agra אגרה",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Lager - IPL (India Pale Lager)"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-08-19T11:14:36+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "Agra אגרה",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Lager - IPL (India Pale Lager)"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-08-19T11:13:22+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "Tea Party: Green Tea And Jasmine",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pale Ale - Other"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-08-19T11:11:32+00:00",
+    "serving": "Unknown",
+    "rating": 2.0,
+    "beer_name": "Anything Gose: Mango",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Sour - Fruited Gose"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-08-19T11:10:56+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "Anything Gose: Mango",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Sour - Fruited Gose"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-08-19T11:09:05+00:00",
+    "serving": "Unknown",
+    "rating": 3.0,
+    "beer_name": "Salt N' Peppa",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Lager - Other"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-08-19T11:09:00+00:00",
+    "serving": "Unknown",
+    "rating": 3.0,
+    "beer_name": "Salt N' Peppa",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Lager - Other"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-08-19T11:06:37+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "Wolfgang",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Lager - Vienna"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-08-19T11:06:10+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "Wolfgang",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Lager - Vienna"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-08-19T11:04:59+00:00",
+    "serving": "Unknown",
+    "rating": 3.0,
+    "beer_name": "הפילס שבחדר the Pils In the Room",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pilsner - German"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-08-19T11:03:42+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "הפילס שבחדר the Pils In the Room",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pilsner - German"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-08-19T11:03:05+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "IN THE  SMALL",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Table Beer"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-08-19T11:00:51+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "IN THE  SMALL",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Table Beer"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-08-19T10:58:54+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "Holy Schnitt",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-08-19T10:58:44+00:00",
+    "serving": "draft",
+    "rating": null,
+    "beer_name": "Holy Schnitt",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-08-19T10:55:01+00:00",
+    "serving": "draft",
+    "rating": 3.25,
+    "beer_name": "Weissman",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Wheat Beer - Hefeweizen"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-08-19T10:51:35+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "Weissman",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Wheat Beer - Hefeweizen"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-08-19T10:50:03+00:00",
+    "serving": "draft",
+    "rating": 3.0,
+    "beer_name": "Chucky",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pale Ale - American"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-08-19T10:48:36+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "Chucky",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pale Ale - American"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-08-19T10:48:24+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Shut Up And Drink Me! (שת\"פ)",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Historical Beer - Lichtenhainer"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-08-19T10:46:11+00:00",
+    "serving": "Unknown",
+    "rating": 3.0,
+    "beer_name": "Shut Up And Drink Me! (שת\"פ)",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Historical Beer - Lichtenhainer"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-08-19T10:45:33+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Shut Up And Drink Me! (שת\"פ)",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Historical Beer - Lichtenhainer"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-08-19T10:44:48+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Kelly's Green Pony",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-08-19T10:44:19+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "Kelly's Green Pony",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
   {
     "venue": "beerbazaar-brewery",
     "time": "2025-08-18T20:59:47+00:00",
@@ -29049,8 +29517,8 @@ const BEER_DATA = [
   {
     "venue": "berlin-florentin",
     "time": "2024-01-22T18:42:20+00:00",
-    "serving": "Unknown",
-    "rating": null,
+    "serving": "can",
+    "rating": 4.0,
     "beer_name": "200 Units",
     "brewery": "Brewski",
     "beer_type": "Barleywine - English"
@@ -29058,8 +29526,8 @@ const BEER_DATA = [
   {
     "venue": "berlin-florentin",
     "time": "2024-01-22T18:42:20+00:00",
-    "serving": "can",
-    "rating": 4.0,
+    "serving": "Unknown",
+    "rating": null,
     "beer_name": "200 Units",
     "brewery": "Brewski",
     "beer_type": "Barleywine - English"
