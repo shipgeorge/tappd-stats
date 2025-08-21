@@ -1,4 +1,101 @@
 venue,user,time,serving,data_rating,beer_name,brewery,beer_type
+lauter,גל סילברמן,"Wed, 20 Aug 2025 23:39:10 +0000",can,3.7,Sour Series - Time For A Restart,HORIZONT Brewing,Sour - Fruited Gose
+lauter,גל סילברמן,"Wed, 20 Aug 2025 23:38:06 +0000",can,3.0,Selfish Games Journey1000,HORIZONT Brewing,Pilsner - Other
+lauter,גל סילברמן,"Wed, 20 Aug 2025 23:37:13 +0000",bottle,4.7,Ambrosia (2023),Boerenerf,Mead - Melomel
+lauter,גל סילברמן,"Wed, 20 Aug 2025 23:35:36 +0000",can,3.8,Selfish Games - One Night In Dubai,HORIZONT Brewing,Stout - Imperial / Double
+lauter,Kelly Inbar,"Wed, 20 Aug 2025 20:09:20 +0000",can,4.5,Selfish Games - One Night In Dubai,HORIZONT Brewing,Stout - Imperial / Double
+lauter,Ratam Edri,"Wed, 20 Aug 2025 19:56:33 +0000",,4.25,Pleroma Karpologi Pineapple Peach Marshmallow Créme Brulée Sour,Omnipollo,Sour - Smoothie / Pastry
+lauter,Ratam Edri,"Wed, 20 Aug 2025 19:53:35 +0000",,3.25,B2-GEZER,Oak & Ash,IPA - Fruited
+lauter,Ratam Edri,"Wed, 20 Aug 2025 19:51:21 +0000",,4.25,10th Anniversary Smoothie Bowl,Nepo Brewing,Sour - Smoothie / Pastry
+lauter,Shmupi Koto,"Wed, 20 Aug 2025 19:37:25 +0000",bottle,4.6,Ambrosia (2023),Boerenerf,Mead - Melomel
+lauter,Nirit Agiv,"Wed, 20 Aug 2025 19:37:14 +0000",bottle,4.7,Ambrosia (2023),Boerenerf,Mead - Melomel
+lauter,Lior Aufgang,"Wed, 20 Aug 2025 19:34:47 +0000",bottle,5.0,Ambrosia (2023),Boerenerf,Mead - Melomel
+lauter,גל סילברמן,"Wed, 20 Aug 2025 19:32:34 +0000",can,3.9,Hazy Queen - Superdelic Edition,HORIZONT Brewing,IPA - New England / Hazy
+lauter,גל סילברמן,"Wed, 20 Aug 2025 19:31:38 +0000",can,3.6,Pastry Factory: Cheese Cake,Moersleutel Craft Brewery,Stout - Imperial / Double Pastry
+lauter,גל סילברמן,"Wed, 20 Aug 2025 19:30:12 +0000",draft,3.4,Hazy Jane,BrewDog,IPA - New England / Hazy
+lauter,Kelly Inbar,"Wed, 20 Aug 2025 19:28:25 +0000",can,3.75,Chillwave,HORIZONT Brewing,Gluten-Free
+lauter,Lior Aufgang,"Wed, 20 Aug 2025 19:09:52 +0000",bottle,5.0,Kriek 2023-1,Boerenerf,Lambic - Kriek
+lauter,Kelly Inbar,"Wed, 20 Aug 2025 19:09:06 +0000",draft,4.5,Kriek 2023-1,Boerenerf,Lambic - Kriek
+lauter,Kelly Inbar,"Wed, 20 Aug 2025 19:05:54 +0000",can,3.5,Selfish Games Journey1000,HORIZONT Brewing,Pilsner - Other
+lauter,Lior Aufgang,"Wed, 20 Aug 2025 18:46:35 +0000",bottle,5.0,Oude Kriek de Schaerbeek Tilquin à l'ancienne (2023-2024),Gueuzerie Tilquin,Lambic - Kriek
+b7-beer-house,Yuval Erets Kdosha,"Wed, 20 Aug 2025 18:32:51 +0000",can,2.0,Triple Chocolate Stout,Tuletorn Brewing,Stout - Imperial / Double
+lauter,Kelly Inbar,"Wed, 20 Aug 2025 18:30:58 +0000",can,3.75,Sour Series - Time For A Restart,HORIZONT Brewing,Sour - Fruited Gose
+b7-beer-house,Yotam Bar-natan,"Wed, 20 Aug 2025 18:27:13 +0000",can,4.2,Triple Chocolate Stout,Tuletorn Brewing,Stout - Imperial / Double
+b7-beer-house,Yuval Erets Kdosha,"Wed, 20 Aug 2025 18:24:29 +0000",,2.0,Fudge Fandango: Tar Tango,Tuletorn Brewing,Stout - Imperial / Double Pastry
+b7-beer-house,Yotam Bar-natan,"Wed, 20 Aug 2025 18:23:41 +0000",can,4.3,Fudge Fandango: Tar Tango,Tuletorn Brewing,Stout - Imperial / Double Pastry
+b7-beer-house,Yuval Erets Kdosha,"Wed, 20 Aug 2025 18:19:14 +0000",can,3.75,Apricrush,Tuletorn Brewing,Sour - Smoothie / Pastry
+b7-beer-house,Vitaly Pintushel,"Wed, 20 Aug 2025 18:17:15 +0000",can,3.25,Apricrush,Tuletorn Brewing,Sour - Smoothie / Pastry
+b7-beer-house,Yotam Bar-natan,"Wed, 20 Aug 2025 18:16:27 +0000",can,4.2,Apricrush,Tuletorn Brewing,Sour - Smoothie / Pastry
+b7-beer-house,Yuval Erets Kdosha,"Wed, 20 Aug 2025 18:13:33 +0000",can,4.25,Tom Yum Mun,Käbliku Pruulikoda,Sour - Other Gose
+b7-beer-house,Vitaly Pintushel,"Wed, 20 Aug 2025 18:12:41 +0000",can,3.0,Tom Yum Mun,Käbliku Pruulikoda,Sour - Other Gose
+b7-beer-house,Yotam Bar-natan,"Wed, 20 Aug 2025 18:12:24 +0000",can,3.8,Tom Yum Mun,Käbliku Pruulikoda,Sour - Other Gose
+b7-beer-house,Yuval Erets Kdosha,"Wed, 20 Aug 2025 18:07:36 +0000",can,4.25,Bestikad,Tuletorn Brewing,Sour - Smoothie / Pastry
+b7-beer-house,Vitaly Pintushel,"Wed, 20 Aug 2025 18:07:00 +0000",can,5.0,Bestikad,Tuletorn Brewing,Sour - Smoothie / Pastry
+b7-beer-house,Yotam Bar-natan,"Wed, 20 Aug 2025 18:06:36 +0000",can,4.7,Bestikad,Tuletorn Brewing,Sour - Smoothie / Pastry
+b7-beer-house,Vitaly Pintushel,"Wed, 20 Aug 2025 18:03:48 +0000",can,3.25,Brekkie,Tuletorn Brewing,Sour - Fruited
+b7-beer-house,Yuval Erets Kdosha,"Wed, 20 Aug 2025 18:03:10 +0000",can,4.0,Brekkie,Tuletorn Brewing,Sour - Fruited
+b7-beer-house,Yotam Bar-natan,"Wed, 20 Aug 2025 18:02:53 +0000",can,3.7,Brekkie,Tuletorn Brewing,Sour - Fruited
+lauter,csms100,"Wed, 20 Aug 2025 18:00:15 +0000",,3.25,Salt N' Peppa,Schnitt Brewing Company﻿,Lager - Other
+lauter,roie_grannot_5121,"Wed, 20 Aug 2025 17:59:28 +0000",draft,3.75,Blanche de Bruxelles,Brasserie Lefebvre,Wheat Beer - Witbier / Blanche
+b7-beer-house,Yuval Erets Kdosha,"Wed, 20 Aug 2025 17:59:05 +0000",can,4.5,TIC TAC TOE Mango & Curuba,ODU Brewery,Sour - Smoothie / Pastry
+b7-beer-house,Vitaly Pintushel,"Wed, 20 Aug 2025 17:58:56 +0000",can,3.5,TIC TAC TOE Mango & Curuba,ODU Brewery,Sour - Smoothie / Pastry
+b7-beer-house,Yotam Bar-natan,"Wed, 20 Aug 2025 17:58:35 +0000",can,4.7,TIC TAC TOE Mango & Curuba,ODU Brewery,Sour - Smoothie / Pastry
+b7-beer-house,Yotam Bar-natan,"Wed, 20 Aug 2025 17:52:18 +0000",can,3.8,Catch Up! Chili,Anderson's Brewery,Sour - Tomato / Vegetable Gose
+b7-beer-house,Yuval Erets Kdosha,"Wed, 20 Aug 2025 17:50:34 +0000",can,4.25,"Brix - Pear, Golden Fruit And Passion Fruit",ODU Brewery,Sour - Smoothie / Pastry
+b7-beer-house,Vitaly Pintushel,"Wed, 20 Aug 2025 17:50:13 +0000",can,3.75,Catch Up! Chili,Anderson's Brewery,Sour - Tomato / Vegetable Gose
+b7-beer-house,Yuval Erets Kdosha,"Wed, 20 Aug 2025 17:49:47 +0000",can,4.25,Catch Up! Chili,Anderson's Brewery,Sour - Tomato / Vegetable Gose
+b7-beer-house,Vitaly Pintushel,"Wed, 20 Aug 2025 17:47:53 +0000",can,3.75,"Brix - Pear, Golden Fruit And Passion Fruit",ODU Brewery,Sour - Smoothie / Pastry
+b7-beer-house,Yotam Bar-natan,"Wed, 20 Aug 2025 17:47:32 +0000",can,4.0,"Brix - Pear, Golden Fruit And Passion Fruit",ODU Brewery,Sour - Smoothie / Pastry
+b7-beer-house,Vitaly Pintushel,"Wed, 20 Aug 2025 17:44:31 +0000",can,4.5,Crimson Kiss,Pühaste Brewery,Sour - Fruited Gose
+b7-beer-house,Yotam Bar-natan,"Wed, 20 Aug 2025 17:44:25 +0000",can,3.9,Crimson Kiss,Pühaste Brewery,Sour - Fruited Gose
+b7-beer-house,Yuval Erets Kdosha,"Wed, 20 Aug 2025 17:44:10 +0000",,4.75,Crimson Kiss,Pühaste Brewery,Sour - Fruited Gose
+b7-beer-house,Yuval Erets Kdosha,"Wed, 20 Aug 2025 17:37:34 +0000",can,2.0,Hullumaja Puhvet (2022),Käbliku Pruulikoda,IPA - Triple
+b7-beer-house,Vitaly Pintushel,"Wed, 20 Aug 2025 17:37:06 +0000",can,2.75,Hullumaja Puhvet (2022),Käbliku Pruulikoda,IPA - Triple
+b7-beer-house,Yotam Bar-natan,"Wed, 20 Aug 2025 17:36:58 +0000",can,2.8,Hullumaja Puhvet,Käbliku Pruulikoda,"Homebrew, IPA - Triple"
+b7-beer-house,Yuval Erets Kdosha,"Wed, 20 Aug 2025 17:34:23 +0000",can,4.5,DDH Mosaic x Citra Pale Ale,Ārpus Brewing Co.,Pale Ale - New England / Hazy
+b7-beer-house,Vitaly Pintushel,"Wed, 20 Aug 2025 17:34:22 +0000",can,3.75,DDH Mosaic x Citra Pale Ale,Ārpus Brewing Co.,Pale Ale - New England / Hazy
+b7-beer-house,Yotam Bar-natan,"Wed, 20 Aug 2025 17:33:28 +0000",can,3.8,DDH Mosaic x Citra Pale Ale,Ārpus Brewing Co.,Pale Ale - New England / Hazy
+b7-beer-house,Yuval Erets Kdosha,"Wed, 20 Aug 2025 17:27:59 +0000",can,3.5,Söör,Viljandi Vaadimees,Barleywine - English
+b7-beer-house,Vitaly Pintushel,"Wed, 20 Aug 2025 17:27:18 +0000",can,3.25,Söör,Viljandi Vaadimees,Barleywine - English
+b7-beer-house,Yotam Bar-natan,"Wed, 20 Aug 2025 17:27:02 +0000",can,3.8,Söör,Viljandi Vaadimees,Barleywine - English
+b7-beer-house,Vitaly Pintushel,"Wed, 20 Aug 2025 17:23:19 +0000",can,3.75,Kuuu,Viljandi Vaadimees,Smoked Beer
+b7-beer-house,Yuval Erets Kdosha,"Wed, 20 Aug 2025 17:23:06 +0000",can,3.75,Kuuu,Viljandi Vaadimees,Smoked Beer
+b7-beer-house,Yotam Bar-natan,"Wed, 20 Aug 2025 17:22:43 +0000",can,3.5,Kuuu,Viljandi Vaadimees,Smoked Beer
+b7-beer-house,Yuval Erets Kdosha,"Wed, 20 Aug 2025 17:18:56 +0000",can,3.0,Pekopojad,Hiiumaa Pruulikoda,Rye Beer
+b7-beer-house,Yotam Bar-natan,"Wed, 20 Aug 2025 17:18:04 +0000",can,3.6,Pekopojad,Hiiumaa Pruulikoda,Rye Beer
+b7-beer-house,Vitaly Pintushel,"Wed, 20 Aug 2025 17:17:54 +0000",can,3.25,Pekopojad,Hiiumaa Pruulikoda,Rye Beer
+b7-beer-house,Yuval Erets Kdosha,"Wed, 20 Aug 2025 17:14:31 +0000",,4.0,Kuutōbine,Anderson's Brewery,Porter - Baltic
+b7-beer-house,Yotam Bar-natan,"Wed, 20 Aug 2025 17:11:46 +0000",can,3.4,Kuutōbine,Anderson's Brewery,Porter - Baltic
+lauter,Yanai Ben- Alon,"Wed, 20 Aug 2025 17:02:15 +0000",draft,3.75,Pleroma Karpologi Pineapple Peach Marshmallow Créme Brulée Sour,Omnipollo,Sour - Smoothie / Pastry
+lauter,Yanai Ben- Alon,"Wed, 20 Aug 2025 17:01:53 +0000",can,3.75,Tea Party: Green Tea And Jasmine,Schnitt Brewing Company﻿,Pale Ale - Other
+lauter,Yanai Ben- Alon,"Wed, 20 Aug 2025 17:01:35 +0000",draft,3.5,Pijże,Nepo Brewing,Pale Ale - New England / Hazy
+lauter,Yanai Ben- Alon,"Wed, 20 Aug 2025 17:01:04 +0000",draft,3.5,Salt N' Peppa,Schnitt Brewing Company﻿,Lager - Other
+lauter,Yanai Ben- Alon,"Wed, 20 Aug 2025 17:00:42 +0000",,1.25,Blanche de Bruxelles,Brasserie Lefebvre,Wheat Beer - Witbier / Blanche
+schnitt-brewing-company,Yanai Ben- Alon,"Wed, 20 Aug 2025 17:00:13 +0000",draft,3.5,Kimat Gornisht,Schnitt Brewing Company﻿,Non-Alcoholic - Lager
+lauter,Yanai Ben- Alon,"Wed, 20 Aug 2025 16:59:38 +0000",draft,3.5,Kimat Gornisht,Schnitt Brewing Company﻿,Non-Alcoholic - Lager
+lauter,Yanai Ben- Alon,"Wed, 20 Aug 2025 16:58:54 +0000",,4.0,Duvel Magritte,Duvel Moortgat,Belgian Strong Golden Ale
+lauter,Yanai Ben- Alon,"Wed, 20 Aug 2025 16:56:10 +0000",bottle,4.25,Night Shift Vintage 2023 - Rye Wine Aged In Bourbon Barrels - Aged 2 Years,HORIZONT Brewing,Rye Wine
+lauter,Yanai Ben- Alon,"Wed, 20 Aug 2025 16:54:02 +0000",bottle,3.5,Duvel,Duvel Moortgat,Belgian Strong Golden Ale
+lauter,roie_grannot_5121,"Wed, 20 Aug 2025 16:50:24 +0000",can,3.25,Japanese Rice Lager,Mikkeller,Lager - Japanese Rice
+lauter,csms100,"Wed, 20 Aug 2025 16:49:58 +0000",can,4.0,"Californication - Sabro, Citra, Idaho 7 & Lemondrop",Maryensztadt,IPA - New England / Hazy
+b7-beer-house,sourlips69,"Wed, 20 Aug 2025 16:42:24 +0000",can,3.5,Sour Series - Time For A Restart,HORIZONT Brewing,Sour - Fruited Gose
+lauter,Gal Sorogon,"Wed, 20 Aug 2025 16:37:32 +0000",draft,4.25,10th Anniversary Smoothie Bowl,Nepo Brewing,Sour - Smoothie / Pastry
+b7-beer-house,Vera Markovsky,"Wed, 20 Aug 2025 16:37:07 +0000",can,4.25,Giant Raspberry Vanilla Lollipop,Vault City Brewing,Sour - Smoothie / Pastry
+lauter,Gal Sorogon,"Wed, 20 Aug 2025 16:29:27 +0000",draft,3.75,Kimat Gornisht,Schnitt Brewing Company﻿,Non-Alcoholic - Lager
+lauter,mich_8994,"Wed, 20 Aug 2025 15:45:53 +0000",draft,4.5,Pijże,Nepo Brewing,Pale Ale - New England / Hazy
+b7-beer-house,Yotam Bar-natan,"Wed, 20 Aug 2025 15:17:26 +0000",draft,4.2,Strawberry Sundae,Vault City Brewing,Sour - Fruited
+lauter,Kelly Inbar,"Wed, 20 Aug 2025 15:17:20 +0000",draft,3.75,B2-GEZER,Oak & Ash,IPA - Fruited
+lauter,Kelly Inbar,"Wed, 20 Aug 2025 15:16:22 +0000",draft,3.5,Tea Party: Green Tea And Jasmine,Schnitt Brewing Company﻿,Pale Ale - Other
+lauter,Kelly Inbar,"Wed, 20 Aug 2025 15:16:05 +0000",draft,3.0,Pijże,Nepo Brewing,Pale Ale - New England / Hazy
+lauter,Kelly Inbar,"Wed, 20 Aug 2025 15:11:04 +0000",can,4.0,Hazy Queen - Superdelic Edition,HORIZONT Brewing,IPA - New England / Hazy
+lauter,Dor Lerner,"Wed, 20 Aug 2025 13:44:05 +0000",,,10th Anniversary Smoothie Bowl,Nepo Brewing,Sour - Smoothie / Pastry
+lauter,Dor Lerner,"Wed, 20 Aug 2025 13:33:59 +0000",draft,,Pijże,Nepo Brewing,Pale Ale - New England / Hazy
+lauter,Dor Lerner,"Wed, 20 Aug 2025 13:25:39 +0000",,,Salt N' Peppa,Schnitt Brewing Company﻿,Lager - Other
+schnitt-brewing-company,avremi,"Wed, 20 Aug 2025 12:23:05 +0000",draft,4.25,Kelly's Green Pony,Schnitt Brewing Company﻿,IPA - New England / Hazy
+b7-beer-house,Yotam Bar-natan,"Wed, 20 Aug 2025 11:31:59 +0000",draft,4.5,מייד אין יזרעאל 2025,New Pioneer Brewing Co - חלוץ חדש,IPA - American
+schnitt-brewing-company,Yaniv Alal,"Wed, 20 Aug 2025 11:04:22 +0000",draft,4.25,Anything Gose: Mango,Schnitt Brewing Company﻿,Sour - Fruited Gose
+schnitt-brewing-company,Yaniv Alal,"Wed, 20 Aug 2025 11:03:36 +0000",draft,4.0,Porter&Sons: Marshmallow,Schnitt Brewing Company﻿,Porter - Other
+schnitt-brewing-company,S C,"Wed, 20 Aug 2025 10:27:13 +0000",draft,3.5,Tea Party: Green Tea And Jasmine,Schnitt Brewing Company﻿,Pale Ale - Other
 lauter,UV R,"Tue, 19 Aug 2025 19:39:32 +0000",,3.75,Night Shift 2024 - Imperial Milk Porter Aged In Pedro Ximénez Sherry & Rum Barrels W. Sour Cherry & Poppy Seed,HORIZONT Brewing,Porter - Imperial / Double
 lauter,Adam Berelowitz,"Tue, 19 Aug 2025 19:30:49 +0000",bottle,4.6,Night Shift 2024 - Imperial Milk Porter Aged In Pedro Ximénez Sherry & Rum Barrels W. Sour Cherry & Poppy Seed,HORIZONT Brewing,Porter - Imperial / Double
 lauter,UV R,"Tue, 19 Aug 2025 19:22:35 +0000",,3.75,B2-GEZER,Oak & Ash,IPA - Fruited
@@ -2563,8 +2660,8 @@ berlin-florentin,Sharon Confino,"Mon, 23 Dec 2024 18:45:24 +0000",bottle,3.75,Fr
 berlin-florentin,Yana O,"Mon, 23 Dec 2024 18:44:17 +0000",bottle,4.0,Framboise,Brouwerij Lindemans,Lambic - Framboise
 berlin-florentin,Ⓜ️axx Dee,"Mon, 23 Dec 2024 18:44:11 +0000",bottle,4.0,Framboise,Brouwerij Lindemans,Lambic - Framboise
 berlin-florentin,Ⓜ️axx Dee,"Mon, 23 Dec 2024 18:38:17 +0000",bottle,4.0,Christmas Ale (2023),Brouwerij St.Bernardus,Winter Ale
-berlin-florentin,Sharon Confino,"Mon, 23 Dec 2024 18:37:49 +0000",bottle,3.0,Christmas Ale,Brouwerij St.Bernardus,Winter Ale
 berlin-florentin,Yana O,"Mon, 23 Dec 2024 18:37:49 +0000",bottle,4.1,Christmas Ale (2023),Brouwerij St.Bernardus,Winter Ale
+berlin-florentin,Sharon Confino,"Mon, 23 Dec 2024 18:37:49 +0000",bottle,3.0,Christmas Ale,Brouwerij St.Bernardus,Winter Ale
 berlin-florentin,Sharon Confino,"Mon, 23 Dec 2024 18:32:18 +0000",bottle,4.5,Faro,Brouwerij Lindemans,Lambic - Faro
 berlin-florentin,Yana O,"Mon, 23 Dec 2024 18:30:45 +0000",bottle,4.0,Faro,Brouwerij Lindemans,Lambic - Faro
 berlin-florentin,Ⓜ️axx Dee,"Mon, 23 Dec 2024 18:30:43 +0000",bottle,4.1,Faro,Brouwerij Lindemans,Lambic - Faro

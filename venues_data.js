@@ -1,8 +1,881 @@
 // 🍺 BEER STATS DATA - Generated automatically
-// Last updated: 2025-08-20 06:57:31
-// Total records: 3615
+// Last updated: 2025-08-21 07:04:46
+// Total records: 3712
 
 const BEER_DATA = [
+  {
+    "venue": "lauter",
+    "time": "2025-08-20T23:39:10+00:00",
+    "serving": "can",
+    "rating": 3.7,
+    "beer_name": "Sour Series - Time For A Restart",
+    "brewery": "HORIZONT Brewing",
+    "beer_type": "Sour - Fruited Gose"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-20T23:38:06+00:00",
+    "serving": "can",
+    "rating": 3.0,
+    "beer_name": "Selfish Games Journey1000",
+    "brewery": "HORIZONT Brewing",
+    "beer_type": "Pilsner - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-20T23:37:13+00:00",
+    "serving": "bottle",
+    "rating": 4.7,
+    "beer_name": "Ambrosia (2023)",
+    "brewery": "Boerenerf",
+    "beer_type": "Mead - Melomel"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-20T23:35:36+00:00",
+    "serving": "can",
+    "rating": 3.8,
+    "beer_name": "Selfish Games - One Night In Dubai",
+    "brewery": "HORIZONT Brewing",
+    "beer_type": "Stout - Imperial / Double"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-20T20:09:20+00:00",
+    "serving": "can",
+    "rating": 4.5,
+    "beer_name": "Selfish Games - One Night In Dubai",
+    "brewery": "HORIZONT Brewing",
+    "beer_type": "Stout - Imperial / Double"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-20T19:56:33+00:00",
+    "serving": "Unknown",
+    "rating": 4.25,
+    "beer_name": "Pleroma Karpologi Pineapple Peach Marshmallow Créme Brulée Sour",
+    "brewery": "Omnipollo",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-20T19:53:35+00:00",
+    "serving": "Unknown",
+    "rating": 3.25,
+    "beer_name": "B2-GEZER",
+    "brewery": "Oak & Ash",
+    "beer_type": "IPA - Fruited"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-20T19:51:21+00:00",
+    "serving": "Unknown",
+    "rating": 4.25,
+    "beer_name": "10th Anniversary Smoothie Bowl",
+    "brewery": "Nepo Brewing",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-20T19:37:25+00:00",
+    "serving": "bottle",
+    "rating": 4.6,
+    "beer_name": "Ambrosia (2023)",
+    "brewery": "Boerenerf",
+    "beer_type": "Mead - Melomel"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-20T19:37:14+00:00",
+    "serving": "bottle",
+    "rating": 4.7,
+    "beer_name": "Ambrosia (2023)",
+    "brewery": "Boerenerf",
+    "beer_type": "Mead - Melomel"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-20T19:34:47+00:00",
+    "serving": "bottle",
+    "rating": 5.0,
+    "beer_name": "Ambrosia (2023)",
+    "brewery": "Boerenerf",
+    "beer_type": "Mead - Melomel"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-20T19:32:34+00:00",
+    "serving": "can",
+    "rating": 3.9,
+    "beer_name": "Hazy Queen - Superdelic Edition",
+    "brewery": "HORIZONT Brewing",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-20T19:31:38+00:00",
+    "serving": "can",
+    "rating": 3.6,
+    "beer_name": "Pastry Factory: Cheese Cake",
+    "brewery": "Moersleutel Craft Brewery",
+    "beer_type": "Stout - Imperial / Double Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-20T19:30:12+00:00",
+    "serving": "draft",
+    "rating": 3.4,
+    "beer_name": "Hazy Jane",
+    "brewery": "BrewDog",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-20T19:28:25+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Chillwave",
+    "brewery": "HORIZONT Brewing",
+    "beer_type": "Gluten-Free"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-20T19:09:52+00:00",
+    "serving": "bottle",
+    "rating": 5.0,
+    "beer_name": "Kriek 2023-1",
+    "brewery": "Boerenerf",
+    "beer_type": "Lambic - Kriek"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-20T19:09:06+00:00",
+    "serving": "draft",
+    "rating": 4.5,
+    "beer_name": "Kriek 2023-1",
+    "brewery": "Boerenerf",
+    "beer_type": "Lambic - Kriek"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-20T19:05:54+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Selfish Games Journey1000",
+    "brewery": "HORIZONT Brewing",
+    "beer_type": "Pilsner - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-20T18:46:35+00:00",
+    "serving": "bottle",
+    "rating": 5.0,
+    "beer_name": "Oude Kriek de Schaerbeek Tilquin à l'ancienne (2023-2024)",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": "Lambic - Kriek"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-20T18:32:51+00:00",
+    "serving": "can",
+    "rating": 2.0,
+    "beer_name": "Triple Chocolate Stout",
+    "brewery": "Tuletorn Brewing",
+    "beer_type": "Stout - Imperial / Double"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-20T18:30:58+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Sour Series - Time For A Restart",
+    "brewery": "HORIZONT Brewing",
+    "beer_type": "Sour - Fruited Gose"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-20T18:27:13+00:00",
+    "serving": "can",
+    "rating": 4.2,
+    "beer_name": "Triple Chocolate Stout",
+    "brewery": "Tuletorn Brewing",
+    "beer_type": "Stout - Imperial / Double"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-20T18:24:29+00:00",
+    "serving": "Unknown",
+    "rating": 2.0,
+    "beer_name": "Fudge Fandango: Tar Tango",
+    "brewery": "Tuletorn Brewing",
+    "beer_type": "Stout - Imperial / Double Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-20T18:23:41+00:00",
+    "serving": "can",
+    "rating": 4.3,
+    "beer_name": "Fudge Fandango: Tar Tango",
+    "brewery": "Tuletorn Brewing",
+    "beer_type": "Stout - Imperial / Double Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-20T18:19:14+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Apricrush",
+    "brewery": "Tuletorn Brewing",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-20T18:17:15+00:00",
+    "serving": "can",
+    "rating": 3.25,
+    "beer_name": "Apricrush",
+    "brewery": "Tuletorn Brewing",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-20T18:16:27+00:00",
+    "serving": "can",
+    "rating": 4.2,
+    "beer_name": "Apricrush",
+    "brewery": "Tuletorn Brewing",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-20T18:13:33+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "Tom Yum Mun",
+    "brewery": "Käbliku Pruulikoda",
+    "beer_type": "Sour - Other Gose"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-20T18:12:41+00:00",
+    "serving": "can",
+    "rating": 3.0,
+    "beer_name": "Tom Yum Mun",
+    "brewery": "Käbliku Pruulikoda",
+    "beer_type": "Sour - Other Gose"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-20T18:12:24+00:00",
+    "serving": "can",
+    "rating": 3.8,
+    "beer_name": "Tom Yum Mun",
+    "brewery": "Käbliku Pruulikoda",
+    "beer_type": "Sour - Other Gose"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-20T18:07:36+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "Bestikad",
+    "brewery": "Tuletorn Brewing",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-20T18:07:00+00:00",
+    "serving": "can",
+    "rating": 5.0,
+    "beer_name": "Bestikad",
+    "brewery": "Tuletorn Brewing",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-20T18:06:36+00:00",
+    "serving": "can",
+    "rating": 4.7,
+    "beer_name": "Bestikad",
+    "brewery": "Tuletorn Brewing",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-20T18:03:48+00:00",
+    "serving": "can",
+    "rating": 3.25,
+    "beer_name": "Brekkie",
+    "brewery": "Tuletorn Brewing",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-20T18:03:10+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Brekkie",
+    "brewery": "Tuletorn Brewing",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-20T18:02:53+00:00",
+    "serving": "can",
+    "rating": 3.7,
+    "beer_name": "Brekkie",
+    "brewery": "Tuletorn Brewing",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-20T18:00:15+00:00",
+    "serving": "Unknown",
+    "rating": 3.25,
+    "beer_name": "Salt N' Peppa",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Lager - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-20T17:59:28+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Blanche de Bruxelles",
+    "brewery": "Brasserie Lefebvre",
+    "beer_type": "Wheat Beer - Witbier / Blanche"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-20T17:59:05+00:00",
+    "serving": "can",
+    "rating": 4.5,
+    "beer_name": "TIC TAC TOE Mango & Curuba",
+    "brewery": "ODU Brewery",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-20T17:58:56+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "TIC TAC TOE Mango & Curuba",
+    "brewery": "ODU Brewery",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-20T17:58:35+00:00",
+    "serving": "can",
+    "rating": 4.7,
+    "beer_name": "TIC TAC TOE Mango & Curuba",
+    "brewery": "ODU Brewery",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-20T17:52:18+00:00",
+    "serving": "can",
+    "rating": 3.8,
+    "beer_name": "Catch Up! Chili",
+    "brewery": "Anderson's Brewery",
+    "beer_type": "Sour - Tomato / Vegetable Gose"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-20T17:50:34+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "Brix - Pear, Golden Fruit And Passion Fruit",
+    "brewery": "ODU Brewery",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-20T17:50:13+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Catch Up! Chili",
+    "brewery": "Anderson's Brewery",
+    "beer_type": "Sour - Tomato / Vegetable Gose"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-20T17:49:47+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "Catch Up! Chili",
+    "brewery": "Anderson's Brewery",
+    "beer_type": "Sour - Tomato / Vegetable Gose"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-20T17:47:53+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Brix - Pear, Golden Fruit And Passion Fruit",
+    "brewery": "ODU Brewery",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-20T17:47:32+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Brix - Pear, Golden Fruit And Passion Fruit",
+    "brewery": "ODU Brewery",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-20T17:44:31+00:00",
+    "serving": "can",
+    "rating": 4.5,
+    "beer_name": "Crimson Kiss",
+    "brewery": "Pühaste Brewery",
+    "beer_type": "Sour - Fruited Gose"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-20T17:44:25+00:00",
+    "serving": "can",
+    "rating": 3.9,
+    "beer_name": "Crimson Kiss",
+    "brewery": "Pühaste Brewery",
+    "beer_type": "Sour - Fruited Gose"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-20T17:44:10+00:00",
+    "serving": "Unknown",
+    "rating": 4.75,
+    "beer_name": "Crimson Kiss",
+    "brewery": "Pühaste Brewery",
+    "beer_type": "Sour - Fruited Gose"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-20T17:37:34+00:00",
+    "serving": "can",
+    "rating": 2.0,
+    "beer_name": "Hullumaja Puhvet (2022)",
+    "brewery": "Käbliku Pruulikoda",
+    "beer_type": "IPA - Triple"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-20T17:37:06+00:00",
+    "serving": "can",
+    "rating": 2.75,
+    "beer_name": "Hullumaja Puhvet (2022)",
+    "brewery": "Käbliku Pruulikoda",
+    "beer_type": "IPA - Triple"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-20T17:36:58+00:00",
+    "serving": "can",
+    "rating": 2.8,
+    "beer_name": "Hullumaja Puhvet",
+    "brewery": "Käbliku Pruulikoda",
+    "beer_type": "Homebrew, IPA - Triple"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-20T17:34:23+00:00",
+    "serving": "can",
+    "rating": 4.5,
+    "beer_name": "DDH Mosaic x Citra Pale Ale",
+    "brewery": "Ārpus Brewing Co.",
+    "beer_type": "Pale Ale - New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-20T17:34:22+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "DDH Mosaic x Citra Pale Ale",
+    "brewery": "Ārpus Brewing Co.",
+    "beer_type": "Pale Ale - New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-20T17:33:28+00:00",
+    "serving": "can",
+    "rating": 3.8,
+    "beer_name": "DDH Mosaic x Citra Pale Ale",
+    "brewery": "Ārpus Brewing Co.",
+    "beer_type": "Pale Ale - New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-20T17:27:59+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Söör",
+    "brewery": "Viljandi Vaadimees",
+    "beer_type": "Barleywine - English"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-20T17:27:18+00:00",
+    "serving": "can",
+    "rating": 3.25,
+    "beer_name": "Söör",
+    "brewery": "Viljandi Vaadimees",
+    "beer_type": "Barleywine - English"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-20T17:27:02+00:00",
+    "serving": "can",
+    "rating": 3.8,
+    "beer_name": "Söör",
+    "brewery": "Viljandi Vaadimees",
+    "beer_type": "Barleywine - English"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-20T17:23:19+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Kuuu",
+    "brewery": "Viljandi Vaadimees",
+    "beer_type": "Smoked Beer"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-20T17:23:06+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Kuuu",
+    "brewery": "Viljandi Vaadimees",
+    "beer_type": "Smoked Beer"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-20T17:22:43+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Kuuu",
+    "brewery": "Viljandi Vaadimees",
+    "beer_type": "Smoked Beer"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-20T17:18:56+00:00",
+    "serving": "can",
+    "rating": 3.0,
+    "beer_name": "Pekopojad",
+    "brewery": "Hiiumaa Pruulikoda",
+    "beer_type": "Rye Beer"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-20T17:18:04+00:00",
+    "serving": "can",
+    "rating": 3.6,
+    "beer_name": "Pekopojad",
+    "brewery": "Hiiumaa Pruulikoda",
+    "beer_type": "Rye Beer"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-20T17:17:54+00:00",
+    "serving": "can",
+    "rating": 3.25,
+    "beer_name": "Pekopojad",
+    "brewery": "Hiiumaa Pruulikoda",
+    "beer_type": "Rye Beer"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-20T17:14:31+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Kuutōbine",
+    "brewery": "Anderson's Brewery",
+    "beer_type": "Porter - Baltic"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-20T17:11:46+00:00",
+    "serving": "can",
+    "rating": 3.4,
+    "beer_name": "Kuutōbine",
+    "brewery": "Anderson's Brewery",
+    "beer_type": "Porter - Baltic"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-20T17:02:15+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Pleroma Karpologi Pineapple Peach Marshmallow Créme Brulée Sour",
+    "brewery": "Omnipollo",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-20T17:01:53+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Tea Party: Green Tea And Jasmine",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pale Ale - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-20T17:01:35+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Pijże",
+    "brewery": "Nepo Brewing",
+    "beer_type": "Pale Ale - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-20T17:01:04+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Salt N' Peppa",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Lager - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-20T17:00:42+00:00",
+    "serving": "Unknown",
+    "rating": 1.25,
+    "beer_name": "Blanche de Bruxelles",
+    "brewery": "Brasserie Lefebvre",
+    "beer_type": "Wheat Beer - Witbier / Blanche"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-08-20T17:00:13+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Kimat Gornisht",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Non-Alcoholic - Lager"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-20T16:59:38+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Kimat Gornisht",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Non-Alcoholic - Lager"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-20T16:58:54+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Duvel Magritte",
+    "brewery": "Duvel Moortgat",
+    "beer_type": "Belgian Strong Golden Ale"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-20T16:56:10+00:00",
+    "serving": "bottle",
+    "rating": 4.25,
+    "beer_name": "Night Shift Vintage 2023 - Rye Wine Aged In Bourbon Barrels - Aged 2 Years",
+    "brewery": "HORIZONT Brewing",
+    "beer_type": "Rye Wine"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-20T16:54:02+00:00",
+    "serving": "bottle",
+    "rating": 3.5,
+    "beer_name": "Duvel",
+    "brewery": "Duvel Moortgat",
+    "beer_type": "Belgian Strong Golden Ale"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-20T16:50:24+00:00",
+    "serving": "can",
+    "rating": 3.25,
+    "beer_name": "Japanese Rice Lager",
+    "brewery": "Mikkeller",
+    "beer_type": "Lager - Japanese Rice"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-20T16:49:58+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Californication - Sabro, Citra, Idaho 7 & Lemondrop",
+    "brewery": "Maryensztadt",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-20T16:42:24+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Sour Series - Time For A Restart",
+    "brewery": "HORIZONT Brewing",
+    "beer_type": "Sour - Fruited Gose"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-20T16:37:32+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "10th Anniversary Smoothie Bowl",
+    "brewery": "Nepo Brewing",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-20T16:37:07+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "Giant Raspberry Vanilla Lollipop",
+    "brewery": "Vault City Brewing",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-20T16:29:27+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Kimat Gornisht",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Non-Alcoholic - Lager"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-20T15:45:53+00:00",
+    "serving": "draft",
+    "rating": 4.5,
+    "beer_name": "Pijże",
+    "brewery": "Nepo Brewing",
+    "beer_type": "Pale Ale - New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-20T15:17:26+00:00",
+    "serving": "draft",
+    "rating": 4.2,
+    "beer_name": "Strawberry Sundae",
+    "brewery": "Vault City Brewing",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-20T15:17:20+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "B2-GEZER",
+    "brewery": "Oak & Ash",
+    "beer_type": "IPA - Fruited"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-20T15:16:22+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Tea Party: Green Tea And Jasmine",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pale Ale - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-20T15:16:05+00:00",
+    "serving": "draft",
+    "rating": 3.0,
+    "beer_name": "Pijże",
+    "brewery": "Nepo Brewing",
+    "beer_type": "Pale Ale - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-20T15:11:04+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Hazy Queen - Superdelic Edition",
+    "brewery": "HORIZONT Brewing",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-20T13:44:05+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "10th Anniversary Smoothie Bowl",
+    "brewery": "Nepo Brewing",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-20T13:33:59+00:00",
+    "serving": "draft",
+    "rating": null,
+    "beer_name": "Pijże",
+    "brewery": "Nepo Brewing",
+    "beer_type": "Pale Ale - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-20T13:25:39+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Salt N' Peppa",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Lager - Other"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-08-20T12:23:05+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "Kelly's Green Pony",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-20T11:31:59+00:00",
+    "serving": "draft",
+    "rating": 4.5,
+    "beer_name": "מייד אין יזרעאל 2025",
+    "brewery": "New Pioneer Brewing Co - חלוץ חדש",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-08-20T11:04:22+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "Anything Gose: Mango",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Sour - Fruited Gose"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-08-20T11:03:36+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Porter&Sons: Marshmallow",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Porter - Other"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-08-20T10:27:13+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Tea Party: Green Tea And Jasmine",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pale Ale - Other"
+  },
   {
     "venue": "lauter",
     "time": "2025-08-19T19:39:32+00:00",
@@ -23083,8 +23956,8 @@ const BEER_DATA = [
     "venue": "berlin-florentin",
     "time": "2024-12-23T18:37:49+00:00",
     "serving": "bottle",
-    "rating": 3.0,
-    "beer_name": "Christmas Ale",
+    "rating": 4.1,
+    "beer_name": "Christmas Ale (2023)",
     "brewery": "Brouwerij St.Bernardus",
     "beer_type": "Winter Ale"
   },
@@ -23092,8 +23965,8 @@ const BEER_DATA = [
     "venue": "berlin-florentin",
     "time": "2024-12-23T18:37:49+00:00",
     "serving": "bottle",
-    "rating": 4.1,
-    "beer_name": "Christmas Ale (2023)",
+    "rating": 3.0,
+    "beer_name": "Christmas Ale",
     "brewery": "Brouwerij St.Bernardus",
     "beer_type": "Winter Ale"
   },
