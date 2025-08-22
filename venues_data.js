@@ -1,8 +1,1871 @@
 // 🍺 BEER STATS DATA - Generated automatically
-// Last updated: 2025-08-21 07:04:46
-// Total records: 3712
+// Last updated: 2025-08-22 06:55:23
+// Total records: 3919
 
 const BEER_DATA = [
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-22T06:11:30+00:00",
+    "serving": "bottle",
+    "rating": 3.5,
+    "beer_name": "Benediktiner Weissbier Alkoholfrei",
+    "brewery": "Benediktiner Weissbräu",
+    "beer_type": "Non-Alcoholic - Wheat"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-21T21:38:57+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Selfish Games - Hops of the Damned",
+    "brewery": "HORIZONT Brewing",
+    "beer_type": "IPA - Other"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-08-21T21:34:27+00:00",
+    "serving": "Unknown",
+    "rating": 4.25,
+    "beer_name": "Givat Batich גבעת בטיח",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Farmhouse Ale - Saison"
+  },
+  {
+    "venue": "beerz",
+    "time": "2025-08-21T21:10:30+00:00",
+    "serving": "can",
+    "rating": 3.0,
+    "beer_name": "Selfish Games - Hops of the Damned",
+    "brewery": "HORIZONT Brewing",
+    "beer_type": "IPA - Other"
+  },
+  {
+    "venue": "beerz",
+    "time": "2025-08-21T21:09:50+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Hazy Queen - Superdelic Edition",
+    "brewery": "HORIZONT Brewing",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "beerz",
+    "time": "2025-08-21T21:09:18+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Arct IPA",
+    "brewery": "Lubrow Brewery",
+    "beer_type": "IPA - Cold"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-21T21:09:12+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Sour Series - Time For A Restart",
+    "brewery": "HORIZONT Brewing",
+    "beer_type": "Sour - Fruited Gose"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-08-21T20:55:11+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Givat Batich גבעת בטיח",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Farmhouse Ale - Saison"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-08-21T20:51:07+00:00",
+    "serving": "Unknown",
+    "rating": 4.25,
+    "beer_name": "Shut Up And Drink Me! (שת\"פ)",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Historical Beer - Lichtenhainer"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-08-21T20:06:38+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "Sessionista",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-21T19:53:40+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Anything Gose: Mango",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Sour - Fruited Gose"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-21T19:52:19+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "B2-GEZER",
+    "brewery": "Oak & Ash",
+    "beer_type": "IPA - Fruited"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-21T19:51:09+00:00",
+    "serving": "bottle",
+    "rating": 3.5,
+    "beer_name": "Strong Sour (2025)",
+    "brewery": "Shapiro (שפירא)",
+    "beer_type": "Sour - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-21T19:51:01+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Strong Sour (2025)",
+    "brewery": "Shapiro (שפירא)",
+    "beer_type": "Sour - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-21T19:48:21+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Liquid Cocaine",
+    "brewery": "Mad Scientist",
+    "beer_type": "IPA - Imperial / Double"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-08-21T19:39:52+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Kelly's Green Pony",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-21T19:01:50+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Selfish Games - One Night In Dubai",
+    "brewery": "HORIZONT Brewing",
+    "beer_type": "Stout - Imperial / Double"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-21T19:00:22+00:00",
+    "serving": "bottle",
+    "rating": 3.0,
+    "beer_name": "שייפא חאלא",
+    "brewery": "New Pioneer Brewing Co - חלוץ חדש",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-21T18:59:16+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "Budweiser Budvar / Czechvar Original",
+    "brewery": "Budějovický Budvar",
+    "beer_type": "Pilsner - Czech / Bohemian"
+  },
+  {
+    "venue": "beerz",
+    "time": "2025-08-21T18:55:06+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Hobgoblin IPA",
+    "brewery": "Marston's Brewery",
+    "beer_type": "IPA - English"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-21T18:52:10+00:00",
+    "serving": "can",
+    "rating": 3.4,
+    "beer_name": "Selfish Games Journey1000",
+    "brewery": "HORIZONT Brewing",
+    "beer_type": "Pilsner - Other"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-21T18:39:00+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Hazy Queen - Superdelic Edition",
+    "brewery": "HORIZONT Brewing",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "beerz",
+    "time": "2025-08-21T18:32:07+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Hazy Queen",
+    "brewery": "HORIZONT Brewing",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-08-21T18:18:44+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "Porter&Sons: Marshmallow",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Porter - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-21T18:11:42+00:00",
+    "serving": "Unknown",
+    "rating": 3.0,
+    "beer_name": "Pleroma Karpologi Pineapple Peach Marshmallow Créme Brulée Sour",
+    "brewery": "Omnipollo",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-21T18:10:33+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Hazy Jane",
+    "brewery": "BrewDog",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-21T18:09:28+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Hazy Queen",
+    "brewery": "HORIZONT Brewing",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-21T18:02:48+00:00",
+    "serving": "can",
+    "rating": 2.75,
+    "beer_name": "Craft Sidras Spanguolių Skonio",
+    "brewery": "Vilkmerges Alus",
+    "beer_type": "Cider - Other Fruit"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-21T17:58:58+00:00",
+    "serving": "draft",
+    "rating": 4.2,
+    "beer_name": "Jam Roly Poly",
+    "brewery": "Vault City Brewing",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-21T17:58:22+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Jam Roly Poly",
+    "brewery": "Vault City Brewing",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-21T17:58:13+00:00",
+    "serving": "draft",
+    "rating": 2.1,
+    "beer_name": "Hita Yisraelit (חיטה ישראלית)",
+    "brewery": "Alexander (אלכסנדר)",
+    "beer_type": "Wheat Beer - Hefeweizen"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-21T17:57:41+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Ipa וזה...",
+    "brewery": "Herzl (הרצל)",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-21T17:55:35+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Hita Yisraelit (חיטה ישראלית)",
+    "brewery": "Alexander (אלכסנדר)",
+    "beer_type": "Wheat Beer - Hefeweizen"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-21T17:54:26+00:00",
+    "serving": "draft",
+    "rating": 3.6,
+    "beer_name": "Ipa וזה...",
+    "brewery": "Herzl (הרצל)",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-21T17:54:20+00:00",
+    "serving": "draft",
+    "rating": 2.0,
+    "beer_name": "Hita Yisraelit (חיטה ישראלית)",
+    "brewery": "Alexander (אלכסנדר)",
+    "beer_type": "Wheat Beer - Hefeweizen"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-21T17:53:32+00:00",
+    "serving": "draft",
+    "rating": 3.2,
+    "beer_name": "Ipa וזה...",
+    "brewery": "Herzl (הרצל)",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-21T17:53:06+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Ipa וזה...",
+    "brewery": "Herzl (הרצל)",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-21T17:44:21+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "מייד אין יזרעאל 2025",
+    "brewery": "New Pioneer Brewing Co - חלוץ חדש",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-21T17:37:55+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "מייד אין יזרעאל 2025",
+    "brewery": "New Pioneer Brewing Co - חלוץ חדש",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-21T17:37:16+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "מייד אין יזרעאל 2025",
+    "brewery": "New Pioneer Brewing Co - חלוץ חדש",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-21T17:36:44+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "מייד אין יזרעאל 2025",
+    "brewery": "New Pioneer Brewing Co - חלוץ חדש",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-21T17:35:50+00:00",
+    "serving": "draft",
+    "rating": 4.4,
+    "beer_name": "Strawberry Sundae",
+    "brewery": "Vault City Brewing",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-21T17:26:17+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Ipa וזה...",
+    "brewery": "Herzl (הרצל)",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-08-21T17:20:06+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Sessionista",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-21T17:17:47+00:00",
+    "serving": "draft",
+    "rating": 3.8,
+    "beer_name": "מייד אין יזרעאל 2025",
+    "brewery": "New Pioneer Brewing Co - חלוץ חדש",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-21T17:07:17+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "מייד אין יזרעאל 2025",
+    "brewery": "New Pioneer Brewing Co - חלוץ חדש",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-21T17:03:14+00:00",
+    "serving": "bottle",
+    "rating": 3.6,
+    "beer_name": "Chimay Grande Réserve (Blue) (2017)",
+    "brewery": "Bières de Chimay",
+    "beer_type": "Belgian Strong Dark Ale"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-21T17:02:37+00:00",
+    "serving": "bottle",
+    "rating": 3.2,
+    "beer_name": "Chimay Grande Réserve (Blue) (2017)",
+    "brewery": "Bières de Chimay",
+    "beer_type": "Belgian Strong Dark Ale"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-21T17:01:50+00:00",
+    "serving": "bottle",
+    "rating": 4.2,
+    "beer_name": "Necessary Evil (2020)",
+    "brewery": "Thornbridge Brewery",
+    "beer_type": "Stout - Imperial / Double"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-21T17:01:37+00:00",
+    "serving": "bottle",
+    "rating": 3.25,
+    "beer_name": "Chimay Grande Réserve (Blue) (2017)",
+    "brewery": "Bières de Chimay",
+    "beer_type": "Belgian Strong Dark Ale"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-21T17:01:34+00:00",
+    "serving": "bottle",
+    "rating": 4.2,
+    "beer_name": "Necessary Evil (2020)",
+    "brewery": "Thornbridge Brewery",
+    "beer_type": "Stout - Imperial / Double"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-21T17:01:06+00:00",
+    "serving": "bottle",
+    "rating": 3.4,
+    "beer_name": "Lupulus Hibernatus (2016)",
+    "brewery": "Brasserie Lupulus",
+    "beer_type": "Winter Warmer"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-21T17:00:46+00:00",
+    "serving": "bottle",
+    "rating": 3.7,
+    "beer_name": "Lupulus Hibernatus (2016)",
+    "brewery": "Brasserie Lupulus",
+    "beer_type": "Winter Warmer"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-21T16:59:49+00:00",
+    "serving": "bottle",
+    "rating": 3.6,
+    "beer_name": "Chimay Grande Réserve (Blue) (2017)",
+    "brewery": "Bières de Chimay",
+    "beer_type": "Belgian Strong Dark Ale"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-21T16:58:54+00:00",
+    "serving": "bottle",
+    "rating": null,
+    "beer_name": "Chimay Grande Réserve (Blue) (2017)",
+    "brewery": "Bières de Chimay",
+    "beer_type": "Belgian Strong Dark Ale"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-21T16:56:32+00:00",
+    "serving": "bottle",
+    "rating": 3.6,
+    "beer_name": "Chimay Grande Réserve (Blue) (2017)",
+    "brewery": "Bières de Chimay",
+    "beer_type": "Belgian Strong Dark Ale"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-21T16:54:34+00:00",
+    "serving": "bottle",
+    "rating": 4.0,
+    "beer_name": "Necessary Evil (2020)",
+    "brewery": "Thornbridge Brewery",
+    "beer_type": "Stout - Imperial / Double"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-21T16:52:06+00:00",
+    "serving": "can",
+    "rating": 3.2,
+    "beer_name": "Penal IPA",
+    "brewery": "Ravangrad",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-21T16:51:06+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Penal IPA",
+    "brewery": "Ravangrad",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-21T16:49:51+00:00",
+    "serving": "bottle",
+    "rating": 4.1,
+    "beer_name": "Necessary Evil (2020)",
+    "brewery": "Thornbridge Brewery",
+    "beer_type": "Stout - Imperial / Double"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-21T16:48:03+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Penal IPA",
+    "brewery": "Ravangrad",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-21T16:47:04+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Penal IPA",
+    "brewery": "Ravangrad",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-21T16:45:31+00:00",
+    "serving": "bottle",
+    "rating": 3.75,
+    "beer_name": "Necessary Evil (2020)",
+    "brewery": "Thornbridge Brewery",
+    "beer_type": "Stout - Imperial / Double"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-21T16:44:26+00:00",
+    "serving": "bottle",
+    "rating": 4.1,
+    "beer_name": "Necessary Evil (2020)",
+    "brewery": "Thornbridge Brewery",
+    "beer_type": "Stout - Imperial / Double"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-21T16:44:18+00:00",
+    "serving": "bottle",
+    "rating": 3.5,
+    "beer_name": "Lupulus Hibernatus (2016)",
+    "brewery": "Brasserie Lupulus",
+    "beer_type": "Winter Warmer"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-21T16:43:11+00:00",
+    "serving": "bottle",
+    "rating": 3.9,
+    "beer_name": "Lupulus Hibernatus (2016)",
+    "brewery": "Brasserie Lupulus",
+    "beer_type": "Winter Warmer"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-21T16:42:44+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Necessary Evil (2020)",
+    "brewery": "Thornbridge Brewery",
+    "beer_type": "Stout - Imperial / Double"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-21T16:40:36+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "Lupulus Hibernatus",
+    "brewery": "Brasserie Lupulus",
+    "beer_type": "Winter Warmer"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-21T16:40:27+00:00",
+    "serving": "bottle",
+    "rating": 4.0,
+    "beer_name": "Necessary Evil (2020)",
+    "brewery": "Thornbridge Brewery",
+    "beer_type": "Stout - Imperial / Double"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-21T16:39:30+00:00",
+    "serving": "bottle",
+    "rating": 3.5,
+    "beer_name": "Lupulus Hibernatus (2016)",
+    "brewery": "Brasserie Lupulus",
+    "beer_type": "Winter Warmer"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-21T16:39:10+00:00",
+    "serving": "can",
+    "rating": 3.7,
+    "beer_name": "Lupulus Hibernatus (2016)",
+    "brewery": "Brasserie Lupulus",
+    "beer_type": "Winter Warmer"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-21T16:38:11+00:00",
+    "serving": "bottle",
+    "rating": 3.7,
+    "beer_name": "Lupulus Hibernatus",
+    "brewery": "Brasserie Lupulus",
+    "beer_type": "Winter Warmer"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-21T16:38:01+00:00",
+    "serving": "bottle",
+    "rating": 3.6,
+    "beer_name": "Lupulus Hibernatus (2016)",
+    "brewery": "Brasserie Lupulus",
+    "beer_type": "Winter Warmer"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-21T16:27:07+00:00",
+    "serving": "bottle",
+    "rating": 3.6,
+    "beer_name": "Vintage Ale (2018)",
+    "brewery": "Fuller's Griffin Brewery",
+    "beer_type": "Old / Stock Ale"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-21T16:25:36+00:00",
+    "serving": "Unknown",
+    "rating": 3.7,
+    "beer_name": "Vintage Ale (2018)",
+    "brewery": "Fuller's Griffin Brewery",
+    "beer_type": "Old / Stock Ale"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-21T16:25:12+00:00",
+    "serving": "bottle",
+    "rating": 3.75,
+    "beer_name": "Vintage Ale (2018)",
+    "brewery": "Fuller's Griffin Brewery",
+    "beer_type": "Old / Stock Ale"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-21T16:25:07+00:00",
+    "serving": "Unknown",
+    "rating": 3.8,
+    "beer_name": "Vintage Ale (2018)",
+    "brewery": "Fuller's Griffin Brewery",
+    "beer_type": "Old / Stock Ale"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-21T16:25:00+00:00",
+    "serving": "bottle",
+    "rating": 3.7,
+    "beer_name": "Vintage Ale (2018)",
+    "brewery": "Fuller's Griffin Brewery",
+    "beer_type": "Old / Stock Ale"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-21T16:24:29+00:00",
+    "serving": "bottle",
+    "rating": 3.8,
+    "beer_name": "Vintage Ale (2018)",
+    "brewery": "Fuller's Griffin Brewery",
+    "beer_type": "Old / Stock Ale"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-21T16:23:23+00:00",
+    "serving": "bottle",
+    "rating": 3.8,
+    "beer_name": "Spontantripleraspberry (2019)",
+    "brewery": "Mikkeller",
+    "beer_type": "Lambic - Framboise"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-21T16:23:18+00:00",
+    "serving": "bottle",
+    "rating": 3.7,
+    "beer_name": "Vintage Ale (2018)",
+    "brewery": "Fuller's Griffin Brewery",
+    "beer_type": "Old / Stock Ale"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-21T16:21:53+00:00",
+    "serving": "bottle",
+    "rating": 3.5,
+    "beer_name": "Spontantripleraspberry (2019)",
+    "brewery": "Mikkeller",
+    "beer_type": "Lambic - Framboise"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-21T16:20:50+00:00",
+    "serving": "bottle",
+    "rating": 4.1,
+    "beer_name": "Spontantripleraspberry (2019)",
+    "brewery": "Mikkeller",
+    "beer_type": "Lambic - Framboise"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-21T16:20:10+00:00",
+    "serving": "bottle",
+    "rating": 3.7,
+    "beer_name": "Spontantripleraspberry (2019)",
+    "brewery": "Mikkeller",
+    "beer_type": "Lambic - Framboise"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-21T16:19:04+00:00",
+    "serving": "bottle",
+    "rating": 4.0,
+    "beer_name": "Spontantripleraspberry (2019)",
+    "brewery": "Mikkeller",
+    "beer_type": "Lambic - Framboise"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-21T16:18:33+00:00",
+    "serving": "can",
+    "rating": 3.8,
+    "beer_name": "Spontantripleraspberry (2019)",
+    "brewery": "Mikkeller",
+    "beer_type": "Lambic - Framboise"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-21T16:15:42+00:00",
+    "serving": "can",
+    "rating": 3.6,
+    "beer_name": "Incognito",
+    "brewery": "Vocation Brewery",
+    "beer_type": "IPA - Imperial / Double"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-21T16:15:35+00:00",
+    "serving": "bottle",
+    "rating": 2.9,
+    "beer_name": "Ola Dubh 12 Year Special Reserve (2019)",
+    "brewery": "Harviestoun Brewery",
+    "beer_type": "Porter - Imperial / Double"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-21T16:15:25+00:00",
+    "serving": "bottle",
+    "rating": 3.9,
+    "beer_name": "Spontantripleraspberry",
+    "brewery": "Mikkeller",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-21T16:15:21+00:00",
+    "serving": "bottle",
+    "rating": 3.5,
+    "beer_name": "Spontantripleraspberry (2019)",
+    "brewery": "Mikkeller",
+    "beer_type": "Lambic - Framboise"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-21T16:14:54+00:00",
+    "serving": "Unknown",
+    "rating": 4.25,
+    "beer_name": "Spontantripleraspberry",
+    "brewery": "Mikkeller",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-21T16:14:47+00:00",
+    "serving": "bottle",
+    "rating": 2.4,
+    "beer_name": "Ola Dubh 12 Year Special Reserve (2019)",
+    "brewery": "Harviestoun Brewery",
+    "beer_type": "Porter - Imperial / Double"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-21T16:14:43+00:00",
+    "serving": "bottle",
+    "rating": 2.6,
+    "beer_name": "Ola Dubh 12 Year Special Reserve (2019)",
+    "brewery": "Harviestoun Brewery",
+    "beer_type": "Porter - Imperial / Double"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-21T16:14:33+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "Ola Dubh 12 Year Special Reserve (2019)",
+    "brewery": "Harviestoun Brewery",
+    "beer_type": "Porter - Imperial / Double"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-21T16:14:14+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "B2-GEZER",
+    "brewery": "Oak & Ash",
+    "beer_type": "IPA - Fruited"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-21T16:13:49+00:00",
+    "serving": "bottle",
+    "rating": 3.6,
+    "beer_name": "Ola Dubh 12 Year Special Reserve (2019)",
+    "brewery": "Harviestoun Brewery",
+    "beer_type": "Porter - Imperial / Double"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-21T16:13:27+00:00",
+    "serving": "bottle",
+    "rating": 3.75,
+    "beer_name": "Ola Dubh 12 Year Special Reserve (2019)",
+    "brewery": "Harviestoun Brewery",
+    "beer_type": "Porter - Imperial / Double"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-21T16:12:43+00:00",
+    "serving": "bottle",
+    "rating": 3.5,
+    "beer_name": "Ola Dubh 12 Year Special Reserve (2019)",
+    "brewery": "Harviestoun Brewery",
+    "beer_type": "Porter - Imperial / Double"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-21T16:06:59+00:00",
+    "serving": "draft",
+    "rating": 3.0,
+    "beer_name": "KRUSHED IT",
+    "brewery": "Oak & Ash",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-21T16:06:53+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Nitro Mini M*rs",
+    "brewery": "Vault City Brewing",
+    "beer_type": "Stout - Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-21T16:06:09+00:00",
+    "serving": "draft",
+    "rating": 4.5,
+    "beer_name": "Budweiser Budvar / Czechvar Original",
+    "brewery": "Budějovický Budvar",
+    "beer_type": "Pilsner - Czech / Bohemian"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-21T16:06:04+00:00",
+    "serving": "can",
+    "rating": 3.8,
+    "beer_name": "Nitro Mini M*rs",
+    "brewery": "Vault City Brewing",
+    "beer_type": "Stout - Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-21T16:05:43+00:00",
+    "serving": "can",
+    "rating": 3.8,
+    "beer_name": "Nitro Mini M*rs",
+    "brewery": "Vault City Brewing",
+    "beer_type": "Stout - Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-21T16:05:31+00:00",
+    "serving": "draft",
+    "rating": 2.25,
+    "beer_name": "B2-GEZER",
+    "brewery": "Oak & Ash",
+    "beer_type": "IPA - Fruited"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-21T16:04:40+00:00",
+    "serving": "can",
+    "rating": 3.6,
+    "beer_name": "Nitro Mini M*rs",
+    "brewery": "Vault City Brewing",
+    "beer_type": "Stout - Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-21T16:04:25+00:00",
+    "serving": "can",
+    "rating": 3.8,
+    "beer_name": "Nitro Mini M*rs",
+    "brewery": "Vault City Brewing",
+    "beer_type": "Stout - Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-21T16:04:24+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Nitro Mini M*rs",
+    "brewery": "Vault City Brewing",
+    "beer_type": "Stout - Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-21T16:03:38+00:00",
+    "serving": "can",
+    "rating": 4.2,
+    "beer_name": "Salted Caramel Crema",
+    "brewery": "Vault City Brewing",
+    "beer_type": "Stout - Imperial / Double Coffee"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-21T16:03:08+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "Salted Caramel Crema",
+    "brewery": "Vault City Brewing",
+    "beer_type": "Stout - Imperial / Double Coffee"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-21T16:02:37+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "Nitro Mini M*rs",
+    "brewery": "Vault City Brewing",
+    "beer_type": "Stout - Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-21T16:02:37+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Nitro Mini M*rs",
+    "brewery": "Vault City Brewing",
+    "beer_type": "Stout - Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-21T16:02:21+00:00",
+    "serving": "can",
+    "rating": 4.3,
+    "beer_name": "Salted Caramel Crema",
+    "brewery": "Vault City Brewing",
+    "beer_type": "Stout - Imperial / Double Coffee"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-21T16:02:06+00:00",
+    "serving": "can",
+    "rating": 3.9,
+    "beer_name": "Birthday Cake",
+    "brewery": "Vocation Brewery",
+    "beer_type": "Stout - Milk / Sweet"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-21T16:01:24+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Naughty & Nice - White Chocolate & Raspberry",
+    "brewery": "Vocation Brewery",
+    "beer_type": "Stout - White / Golden"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-21T16:00:48+00:00",
+    "serving": "can",
+    "rating": 3.7,
+    "beer_name": "Naughty & Nice - White Chocolate & Raspberry",
+    "brewery": "Vocation Brewery",
+    "beer_type": "Stout - White / Golden"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-21T16:00:28+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "KRUSHED IT",
+    "brewery": "Oak & Ash",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-21T16:00:28+00:00",
+    "serving": "can",
+    "rating": 5.0,
+    "beer_name": "Naughty & Nice - White Chocolate & Raspberry",
+    "brewery": "Vocation Brewery",
+    "beer_type": "Stout - White / Golden"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-21T16:00:18+00:00",
+    "serving": "can",
+    "rating": 3.8,
+    "beer_name": "Naughty & Nice - White Chocolate & Raspberry",
+    "brewery": "Vocation Brewery",
+    "beer_type": "Stout - White / Golden"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-21T16:00:01+00:00",
+    "serving": "can",
+    "rating": 3.8,
+    "beer_name": "Naughty & Nice - White Chocolate & Raspberry",
+    "brewery": "Vocation Brewery",
+    "beer_type": "Stout - White / Golden"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-21T15:59:41+00:00",
+    "serving": "can",
+    "rating": 3.9,
+    "beer_name": "Naughty & Nice - White Chocolate & Raspberry",
+    "brewery": "Vocation Brewery",
+    "beer_type": "Stout - White / Golden"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-21T15:59:21+00:00",
+    "serving": "can",
+    "rating": 4.3,
+    "beer_name": "Birthday Cake",
+    "brewery": "Vocation Brewery",
+    "beer_type": "Stout - Milk / Sweet"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-21T15:59:11+00:00",
+    "serving": "can",
+    "rating": 3.8,
+    "beer_name": "Peach Rings",
+    "brewery": "Vault City Brewing",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-21T15:59:11+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Naughty & Nice - White Chocolate & Raspberry",
+    "brewery": "Vocation Brewery",
+    "beer_type": "Stout - White / Golden"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-21T15:58:45+00:00",
+    "serving": "can",
+    "rating": 3.8,
+    "beer_name": "Naughty & Nice - White Chocolate & Raspberry",
+    "brewery": "Vocation Brewery",
+    "beer_type": "Stout - White / Golden"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-21T15:58:44+00:00",
+    "serving": "can",
+    "rating": 3.25,
+    "beer_name": "Naughty & Nice - White Chocolate & Raspberry",
+    "brewery": "Vocation Brewery",
+    "beer_type": "Stout - White / Golden"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-21T15:58:21+00:00",
+    "serving": "can",
+    "rating": 3.7,
+    "beer_name": "Incognito",
+    "brewery": "Vocation Brewery",
+    "beer_type": "IPA - Imperial / Double"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-21T15:58:19+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Incognito",
+    "brewery": "Vocation Brewery",
+    "beer_type": "IPA - Imperial / Double"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-21T15:58:18+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "B2-GEZER",
+    "brewery": "Oak & Ash",
+    "beer_type": "IPA - Fruited"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-21T15:57:43+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Incognito",
+    "brewery": "Vocation Brewery",
+    "beer_type": "IPA - Imperial / Double"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-21T15:57:17+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Incognito",
+    "brewery": "Vocation Brewery",
+    "beer_type": "IPA - Imperial / Double"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-21T15:57:02+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Incognito",
+    "brewery": "Vocation Brewery",
+    "beer_type": "IPA - Imperial / Double"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-21T15:57:00+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Naughty & Nice - White Chocolate & Raspberry",
+    "brewery": "Vocation Brewery",
+    "beer_type": "Stout - White / Golden"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-21T15:56:21+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Incognito",
+    "brewery": "Vocation Brewery",
+    "beer_type": "IPA - Imperial / Double"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-21T15:55:20+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Birthday Cake",
+    "brewery": "Vocation Brewery",
+    "beer_type": "Stout - Milk / Sweet"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-21T15:54:36+00:00",
+    "serving": "can",
+    "rating": 3.7,
+    "beer_name": "Incognito",
+    "brewery": "Vocation Brewery",
+    "beer_type": "IPA - Imperial / Double"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-21T15:54:33+00:00",
+    "serving": "Unknown",
+    "rating": 4.25,
+    "beer_name": "Strawberry Fields",
+    "brewery": "Vault City Brewing",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-21T15:54:05+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Birthday Cake",
+    "brewery": "Vocation Brewery",
+    "beer_type": "Stout - Milk / Sweet"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-21T15:53:25+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Incognito",
+    "brewery": "Vocation Brewery",
+    "beer_type": "IPA - Imperial / Double"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-21T15:53:01+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Birthday Cake",
+    "brewery": "Vocation Brewery",
+    "beer_type": "Stout - Milk / Sweet"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-21T15:52:54+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Birthday Cake",
+    "brewery": "Vocation Brewery",
+    "beer_type": "Stout - Milk / Sweet"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-21T15:51:52+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Outer Limit - New World Pale",
+    "brewery": "Vocation Brewery",
+    "beer_type": "Pale Ale - New Zealand"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-21T15:51:17+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Outer Limit - New World Pale",
+    "brewery": "Vocation Brewery",
+    "beer_type": "Pale Ale - New Zealand"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-21T15:51:00+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Birthday Cake",
+    "brewery": "Vocation Brewery",
+    "beer_type": "Stout - Milk / Sweet"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-21T15:50:45+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "Shesh Plus Super Juice 2024 Winter Edition - שש פלוס סופר ג'וס 2024 מהדורת חורף",
+    "brewery": "New Pioneer Brewing Co - חלוץ חדש",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-21T15:50:30+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "KRUSHED IT",
+    "brewery": "Oak & Ash",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-21T15:50:26+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Caught In the Rain",
+    "brewery": "Vault City Brewing",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-21T15:49:48+00:00",
+    "serving": "can",
+    "rating": 3.9,
+    "beer_name": "Birthday Cake Cask Edition",
+    "brewery": "Vocation Brewery",
+    "beer_type": "Stout - Milk / Sweet"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-21T15:49:41+00:00",
+    "serving": "can",
+    "rating": 3.8,
+    "beer_name": "Strawberry Fields",
+    "brewery": "Vault City Brewing",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-21T15:49:38+00:00",
+    "serving": "draft",
+    "rating": 4.2,
+    "beer_name": "Shesh Plus Super Juice 2024 Winter Edition - שש פלוס סופר ג'וס 2024 מהדורת חורף",
+    "brewery": "New Pioneer Brewing Co - חלוץ חדש",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-21T15:49:21+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Raspberry Cream Soda",
+    "brewery": "Vault City Brewing",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-21T15:48:58+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Raspberry Cream Soda",
+    "brewery": "Vault City Brewing",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-21T15:48:53+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Raspberry Cream Soda",
+    "brewery": "Vault City Brewing",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-21T15:48:40+00:00",
+    "serving": "Unknown",
+    "rating": 4.25,
+    "beer_name": "Birthday Cake Cask Edition",
+    "brewery": "Vocation Brewery",
+    "beer_type": "Stout - Milk / Sweet"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-21T15:48:18+00:00",
+    "serving": "can",
+    "rating": 4.2,
+    "beer_name": "Peach Rings",
+    "brewery": "Vault City Brewing",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-21T15:48:10+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Raspberry Cream Soda",
+    "brewery": "Vault City Brewing",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-21T15:47:43+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Outer Limit - New World Pale",
+    "brewery": "Vocation Brewery",
+    "beer_type": "Pale Ale - New Zealand"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-21T15:47:18+00:00",
+    "serving": "Unknown",
+    "rating": 3.8,
+    "beer_name": "Strawberry Fields",
+    "brewery": "Vault City Brewing",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-21T15:47:07+00:00",
+    "serving": "Unknown",
+    "rating": 3.9,
+    "beer_name": "Jungle Juice",
+    "brewery": "Vault City Brewing",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-21T15:46:28+00:00",
+    "serving": "Unknown",
+    "rating": 3.25,
+    "beer_name": "Tea Party: Green Tea And Jasmine",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pale Ale - Other"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-21T15:45:54+00:00",
+    "serving": "can",
+    "rating": 3.9,
+    "beer_name": "Raspberry Cream Soda",
+    "brewery": "Vault City Brewing",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-21T15:45:09+00:00",
+    "serving": "can",
+    "rating": 3.6,
+    "beer_name": "Raspberry Cream Soda",
+    "brewery": "Vault City Brewing",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-21T15:44:50+00:00",
+    "serving": "Unknown",
+    "rating": 3.7,
+    "beer_name": "Caught In the Rain",
+    "brewery": "Vault City Brewing",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-21T15:43:37+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Peach Rings",
+    "brewery": "Vault City Brewing",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-21T15:43:34+00:00",
+    "serving": "Unknown",
+    "rating": 4.25,
+    "beer_name": "Peach Rings",
+    "brewery": "Vault City Brewing",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-21T15:43:30+00:00",
+    "serving": "can",
+    "rating": 3.7,
+    "beer_name": "Outer Limit - New World Pale",
+    "brewery": "Vocation Brewery",
+    "beer_type": "Pale Ale - New Zealand"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-21T15:43:02+00:00",
+    "serving": "can",
+    "rating": 3.6,
+    "beer_name": "Outer Limit - New World Pale",
+    "brewery": "Vocation Brewery",
+    "beer_type": "Pale Ale - New Zealand"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-21T15:42:43+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Outer Limit - New World Pale",
+    "brewery": "Vocation Brewery",
+    "beer_type": "Pale Ale - New Zealand"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-21T15:42:26+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Pijże",
+    "brewery": "Nepo Brewing",
+    "beer_type": "Pale Ale - New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-21T15:42:08+00:00",
+    "serving": "can",
+    "rating": 3.6,
+    "beer_name": "Outer Limit - New World Pale",
+    "brewery": "Vocation Brewery",
+    "beer_type": "Pale Ale - New Zealand"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-21T15:41:59+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Jungle Juice",
+    "brewery": "Vault City Brewing",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-21T15:41:57+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Blanche de Bruxelles",
+    "brewery": "Brasserie Lefebvre",
+    "beer_type": "Wheat Beer - Witbier / Blanche"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-21T15:41:42+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Outer Limit - New World Pale",
+    "brewery": "Vocation Brewery",
+    "beer_type": "Pale Ale - New Zealand"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-21T15:41:41+00:00",
+    "serving": "can",
+    "rating": 4.1,
+    "beer_name": "Caught In the Rain",
+    "brewery": "Vault City Brewing",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-21T15:39:53+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Jungle Juice",
+    "brewery": "Vault City Brewing",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-21T15:38:12+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Jungle Juice",
+    "brewery": "Vault City Brewing",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-21T15:36:11+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Kimat Gornisht",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Non-Alcoholic - Lager"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-21T15:34:56+00:00",
+    "serving": "draft",
+    "rating": 2.5,
+    "beer_name": "Salt N' Peppa",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Lager - Other"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-21T15:30:27+00:00",
+    "serving": "can",
+    "rating": 4.3,
+    "beer_name": "Peach Rings",
+    "brewery": "Vault City Brewing",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-21T15:30:19+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Peach Rings",
+    "brewery": "Vault City Brewing",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-21T15:30:14+00:00",
+    "serving": "can",
+    "rating": 4.3,
+    "beer_name": "Peach Rings",
+    "brewery": "Vault City Brewing",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-21T15:29:59+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Caught In the Rain",
+    "brewery": "Vault City Brewing",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-21T15:29:32+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "Peach Rings",
+    "brewery": "Vault City Brewing",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-21T15:28:45+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Jungle Juice",
+    "brewery": "Vault City Brewing",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-21T15:28:34+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Jungle Juice",
+    "brewery": "Vault City Brewing",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-21T15:28:15+00:00",
+    "serving": "can",
+    "rating": 4.2,
+    "beer_name": "Jungle Juice",
+    "brewery": "Vault City Brewing",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-21T15:28:04+00:00",
+    "serving": "can",
+    "rating": 4.2,
+    "beer_name": "Jungle Juice",
+    "brewery": "Vault City Brewing",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-21T15:27:44+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Caught In the Rain",
+    "brewery": "Vault City Brewing",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-21T15:27:24+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Caught In the Rain",
+    "brewery": "Vault City Brewing",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-21T15:26:56+00:00",
+    "serving": "can",
+    "rating": 3.8,
+    "beer_name": "Caught In the Rain",
+    "brewery": "Vault City Brewing",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-21T15:25:01+00:00",
+    "serving": "can",
+    "rating": 3.9,
+    "beer_name": "Strawberry Fields",
+    "brewery": "Vault City Brewing",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-21T15:24:36+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Jungle Juice",
+    "brewery": "Vault City Brewing",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-21T15:24:33+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Strawberry Fields",
+    "brewery": "Vault City Brewing",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-21T15:23:18+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Strawberry Fields",
+    "brewery": "Vault City Brewing",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-21T15:23:12+00:00",
+    "serving": "can",
+    "rating": 3.7,
+    "beer_name": "Strawberry Fields",
+    "brewery": "Vault City Brewing",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-21T15:22:44+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Peach Rings",
+    "brewery": "Vault City Brewing",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-21T15:22:30+00:00",
+    "serving": "can",
+    "rating": 4.3,
+    "beer_name": "Peach Rings",
+    "brewery": "Vault City Brewing",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-21T15:22:09+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Caught In the Rain",
+    "brewery": "Vault City Brewing",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-21T15:22:00+00:00",
+    "serving": "can",
+    "rating": 3.7,
+    "beer_name": "Strawberry Fields",
+    "brewery": "Vault City Brewing",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-21T15:14:44+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "מייד אין יזרעאל 2025",
+    "brewery": "New Pioneer Brewing Co - חלוץ חדש",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-21T15:12:44+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Strawberry Fields",
+    "brewery": "Vault City Brewing",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-21T15:12:08+00:00",
+    "serving": "can",
+    "rating": 3.8,
+    "beer_name": "Strawberry Fields",
+    "brewery": "Vault City Brewing",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-08-21T13:49:34+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Kelly's Green Pony",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-08-21T12:34:47+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Givat Batich גבעת בטיח",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Farmhouse Ale - Saison"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-08-21T12:34:08+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Sessionista",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-08-21T12:33:40+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "IN THE  SMALL",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Table Beer"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-08-21T12:32:47+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Porter&Sons: Marshmallow",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Porter - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-21T10:03:33+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "Pijże",
+    "brewery": "Nepo Brewing",
+    "beer_type": "Pale Ale - New England / Hazy"
+  },
   {
     "venue": "lauter",
     "time": "2025-08-20T23:39:10+00:00",
@@ -13497,20 +15360,20 @@ const BEER_DATA = [
   {
     "venue": "lauter",
     "time": "2025-07-26T15:22:08+00:00",
-    "serving": "can",
-    "rating": 4.2,
-    "beer_name": "Smoothie Bowl: Pistachio Fluff",
-    "brewery": "Nepo Brewing",
-    "beer_type": "Sour - Smoothie / Pastry"
-  },
-  {
-    "venue": "lauter",
-    "time": "2025-07-26T15:22:08+00:00",
     "serving": "Unknown",
     "rating": 4.0,
     "beer_name": "Pijże",
     "brewery": "Nepo Brewing",
     "beer_type": "Pale Ale - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-07-26T15:22:08+00:00",
+    "serving": "can",
+    "rating": 4.2,
+    "beer_name": "Smoothie Bowl: Pistachio Fluff",
+    "brewery": "Nepo Brewing",
+    "beer_type": "Sour - Smoothie / Pastry"
   },
   {
     "venue": "lauter",
@@ -14542,19 +16405,19 @@ const BEER_DATA = [
     "venue": "lauter",
     "time": "2025-07-25T18:15:23+00:00",
     "serving": "draft",
-    "rating": 4.8,
-    "beer_name": "Fou' Foune 2023 - Draft Version",
+    "rating": 4.0,
+    "beer_name": "Cuvée Saint-Gilloise 2023 - Draft Version",
     "brewery": "Brasserie Cantillon",
-    "beer_type": "Lambic - Fruit"
+    "beer_type": "Lambic - Traditional"
   },
   {
     "venue": "lauter",
     "time": "2025-07-25T18:15:23+00:00",
     "serving": "draft",
-    "rating": 4.0,
-    "beer_name": "Cuvée Saint-Gilloise 2023 - Draft Version",
+    "rating": 4.8,
+    "beer_name": "Fou' Foune 2023 - Draft Version",
     "brewery": "Brasserie Cantillon",
-    "beer_type": "Lambic - Traditional"
+    "beer_type": "Lambic - Fruit"
   },
   {
     "venue": "lauter",
@@ -23956,8 +25819,8 @@ const BEER_DATA = [
     "venue": "berlin-florentin",
     "time": "2024-12-23T18:37:49+00:00",
     "serving": "bottle",
-    "rating": 4.1,
-    "beer_name": "Christmas Ale (2023)",
+    "rating": 3.0,
+    "beer_name": "Christmas Ale",
     "brewery": "Brouwerij St.Bernardus",
     "beer_type": "Winter Ale"
   },
@@ -23965,8 +25828,8 @@ const BEER_DATA = [
     "venue": "berlin-florentin",
     "time": "2024-12-23T18:37:49+00:00",
     "serving": "bottle",
-    "rating": 3.0,
-    "beer_name": "Christmas Ale",
+    "rating": 4.1,
+    "beer_name": "Christmas Ale (2023)",
     "brewery": "Brouwerij St.Bernardus",
     "beer_type": "Winter Ale"
   },
