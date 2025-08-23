@@ -1,4 +1,55 @@
 venue,user,time,serving,data_rating,beer_name,brewery,beer_type
+b7-beer-house,Eli Smikin,"Sat, 23 Aug 2025 06:49:15 +0000",can,4.1,Selfish Games - One Night In Dubai,HORIZONT Brewing,Stout - Imperial / Double
+b7-beer-house,Eli Smikin,"Sat, 23 Aug 2025 06:43:31 +0000",bottle,4.0,Necessary Evil (2020),Thornbridge Brewery,Stout - Imperial / Double
+lauter,Ben Gat Sherman,"Fri, 22 Aug 2025 21:54:36 +0000",bottle,4.75,Muscabella (2023),Boerenerf,Lambic - Other
+porter-and-sons,Shmupi Koto,"Fri, 22 Aug 2025 19:45:17 +0000",draft,4.5,Gueuze Tilquin – Draft Version,Gueuzerie Tilquin,Lambic - Gueuze
+lauter,Miki Zaidel,"Fri, 22 Aug 2025 18:52:07 +0000",draft,4.0,Salt N' Peppa,Schnitt Brewing Company﻿,Lager - Other
+schnitt-brewing-company,David Siegel,"Fri, 22 Aug 2025 17:28:30 +0000",,,IN THE  SMALL,Schnitt Brewing Company﻿,Table Beer
+schnitt-brewing-company,TheOnlyMagicalNoob,"Fri, 22 Aug 2025 16:37:12 +0000",draft,3.5,Porter&Sons: Marshmallow,Schnitt Brewing Company﻿,Porter - Other
+schnitt-brewing-company,Nadav Cohen,"Fri, 22 Aug 2025 16:25:04 +0000",,3.75,Porter&Sons: Marshmallow,Schnitt Brewing Company﻿,Porter - Other
+lauter,Nadav Kaddar,"Fri, 22 Aug 2025 16:20:34 +0000",,,Kimat Gornisht,Schnitt Brewing Company﻿,Non-Alcoholic - Lager
+lauter,Nadav Kaddar,"Fri, 22 Aug 2025 16:20:04 +0000",,4.0,Salt N' Peppa,Schnitt Brewing Company﻿,Lager - Other
+lauter,Nadav Kaddar,"Fri, 22 Aug 2025 16:19:21 +0000",,,Tea Party: Green Tea And Jasmine,Schnitt Brewing Company﻿,Pale Ale - Other
+lauter,Nadav Kaddar,"Fri, 22 Aug 2025 16:18:49 +0000",,3.5,Ronen The Ugly Beer (הבירה המכוערת),Srigim (שריגים),IPA - American
+lauter,Nadav Kaddar,"Fri, 22 Aug 2025 16:18:12 +0000",,,Givat Batich גבעת בטיח,Schnitt Brewing Company﻿,Farmhouse Ale - Saison
+lauter,Nadav Kaddar,"Fri, 22 Aug 2025 16:17:35 +0000",,,Porter&Sons: Marshmallow,Schnitt Brewing Company﻿,Porter - Other
+lauter,Nadav Kaddar,"Fri, 22 Aug 2025 16:16:57 +0000",,3.75,Anything Gose: Mango,Schnitt Brewing Company﻿,Sour - Fruited Gose
+lauter,Nadav Kaddar,"Fri, 22 Aug 2025 16:16:10 +0000",,3.75,Chucky,Schnitt Brewing Company﻿,Pale Ale - American
+lauter,David Siegel,"Fri, 22 Aug 2025 16:13:29 +0000",can,3.75,Pinball,BrewDog,IPA - Imperial / Double New England / Hazy
+lauter,Nir Langer,"Fri, 22 Aug 2025 15:46:25 +0000",can,3.75,Pinball,BrewDog,IPA - Imperial / Double New England / Hazy
+lauter,UV R,"Fri, 22 Aug 2025 15:36:25 +0000",can,3.75,Chillwave,HORIZONT Brewing,Gluten-Free
+ursa,Ben Rouda,"Fri, 22 Aug 2025 15:34:54 +0000",can,4.25,Dogs Allowed,WarPigs Brewpub,IPA - Imperial / Double New England / Hazy
+schnitt-brewing-company,David Siegel,"Fri, 22 Aug 2025 15:33:27 +0000",draft,,Sessionista,Schnitt Brewing Company﻿,IPA - New England / Hazy
+schnitt-brewing-company,UV R,"Fri, 22 Aug 2025 15:28:41 +0000",draft,3.75,Sessionista,Schnitt Brewing Company﻿,IPA - New England / Hazy
+schnitt-brewing-company,UV R,"Fri, 22 Aug 2025 15:21:03 +0000",draft,3.5,Givat Batich גבעת בטיח,Schnitt Brewing Company﻿,Farmhouse Ale - Saison
+lauter,Ilya Markovsky,"Fri, 22 Aug 2025 13:49:50 +0000",draft,3.8,Kimat Gornisht,Schnitt Brewing Company﻿,Non-Alcoholic - Lager
+schnitt-brewing-company,Tom Lahav,"Fri, 22 Aug 2025 13:41:54 +0000",,3.5,Porter&Sons: Marshmallow,Schnitt Brewing Company﻿,Porter - Other
+schnitt-brewing-company,Tom Lahav,"Fri, 22 Aug 2025 13:36:34 +0000",,3.25,IN THE  SMALL,Schnitt Brewing Company﻿,Table Beer
+schnitt-brewing-company,Tom Lahav,"Fri, 22 Aug 2025 13:34:25 +0000",,4.0,Sessionista,Schnitt Brewing Company﻿,IPA - New England / Hazy
+schnitt-brewing-company,Tom Lahav,"Fri, 22 Aug 2025 13:32:02 +0000",,3.75,Givat Batich גבעת בטיח,Schnitt Brewing Company﻿,Farmhouse Ale - Saison
+schnitt-brewing-company,Dr Troubles,"Fri, 22 Aug 2025 11:26:21 +0000",,3.75,Sessionista,Schnitt Brewing Company﻿,IPA - New England / Hazy
+schnitt-brewing-company,Dr Troubles,"Fri, 22 Aug 2025 11:24:50 +0000",,3.75,Givat Batich גבעת בטיח,Schnitt Brewing Company﻿,Farmhouse Ale - Saison
+schnitt-brewing-company,Avi Shalom,"Fri, 22 Aug 2025 11:12:32 +0000",draft,4.0,Porter&Sons: Marshmallow,Schnitt Brewing Company﻿,Porter - Other
+schnitt-brewing-company,Avi Shalom,"Fri, 22 Aug 2025 11:12:07 +0000",draft,3.75,Tea Party: Green Tea And Jasmine,Schnitt Brewing Company﻿,Pale Ale - Other
+schnitt-brewing-company,Avi Shalom,"Fri, 22 Aug 2025 11:11:49 +0000",draft,3.5,Anything Gose: Mango,Schnitt Brewing Company﻿,Sour - Fruited Gose
+schnitt-brewing-company,Avi Shalom,"Fri, 22 Aug 2025 11:11:38 +0000",draft,3.5,Salt N' Peppa,Schnitt Brewing Company﻿,Lager - Other
+schnitt-brewing-company,Avi Shalom,"Fri, 22 Aug 2025 11:11:09 +0000",draft,3.75,הפילס שבחדר the Pils In the Room,Schnitt Brewing Company﻿,Pilsner - German
+schnitt-brewing-company,Avi Shalom,"Fri, 22 Aug 2025 11:10:19 +0000",draft,3.5,Givat Batich גבעת בטיח,Schnitt Brewing Company﻿,Farmhouse Ale - Saison
+b7-beer-house,Eylon,"Fri, 22 Aug 2025 10:52:39 +0000",can,3.75,Selfish Games - One Night In Dubai,HORIZONT Brewing,Stout - Imperial / Double
+b7-beer-house,Eylon,"Fri, 22 Aug 2025 10:31:21 +0000",draft,3.75,מייד אין יזרעאל 2025,New Pioneer Brewing Co - חלוץ חדש,IPA - American
+lauter,Tomer Brisker,"Fri, 22 Aug 2025 10:14:26 +0000",draft,,Salt N' Peppa,Schnitt Brewing Company﻿,Lager - Other
+lauter,Mel Vaserman,"Fri, 22 Aug 2025 08:55:11 +0000",draft,4.25,10th Anniversary Smoothie Bowl,Nepo Brewing,Sour - Smoothie / Pastry
+b7-beer-house,Eli Smikin,"Fri, 22 Aug 2025 08:22:51 +0000",bottle,3.4,Ola Dubh 12 Year Special Reserve (2019),Harviestoun Brewery,Porter - Imperial / Double
+b7-beer-house,Eli Smikin,"Fri, 22 Aug 2025 08:21:19 +0000",bottle,4.2,Chimay Grande Réserve (Blue) (2017),Bières de Chimay,Belgian Strong Dark Ale
+b7-beer-house,Eli Smikin,"Fri, 22 Aug 2025 08:16:46 +0000",draft,4.0,מייד אין יזרעאל 2025,New Pioneer Brewing Co - חלוץ חדש,IPA - American
+b7-beer-house,Eli Smikin,"Fri, 22 Aug 2025 08:15:11 +0000",can,3.5,Birthday Cake,Vocation Brewery,Stout - Milk / Sweet
+b7-beer-house,Eli Smikin,"Fri, 22 Aug 2025 08:13:09 +0000",can,4.0,Naughty & Nice - White Chocolate & Raspberry,Vocation Brewery,Stout - White / Golden
+b7-beer-house,Eli Smikin,"Fri, 22 Aug 2025 08:10:12 +0000",bottle,3.6,Spontantripleraspberry (2019),Mikkeller,Lambic - Framboise
+b7-beer-house,Eli Smikin,"Fri, 22 Aug 2025 08:05:48 +0000",bottle,3.5,Lupulus Hibernatus (2016),Brasserie Lupulus,Winter Warmer
+b7-beer-house,Eli Smikin,"Fri, 22 Aug 2025 07:56:47 +0000",can,3.8,Penal IPA,Ravangrad,IPA - American
+b7-beer-house,Eli Smikin,"Fri, 22 Aug 2025 07:29:15 +0000",can,3.7,Nitro Mini M*rs,Vault City Brewing,Stout - Pastry
+b7-beer-house,Eli Smikin,"Fri, 22 Aug 2025 07:26:21 +0000",can,3.9,Incognito,Vocation Brewery,IPA - Imperial / Double
+b7-beer-house,Eli Smikin,"Fri, 22 Aug 2025 07:22:39 +0000",bottle,3.5,Vintage Ale (2018),Fuller's Griffin Brewery,Old / Stock Ale
 b7-beer-house,Elior Mizrahi,"Fri, 22 Aug 2025 06:11:30 +0000",bottle,3.5,Benediktiner Weissbier Alkoholfrei,Benediktiner Weissbräu,Non-Alcoholic - Wheat
 lauter,Omri Gill,"Thu, 21 Aug 2025 21:38:57 +0000",can,3.75,Selfish Games - Hops of the Damned,HORIZONT Brewing,IPA - Other
 schnitt-brewing-company,Ido Meir,"Thu, 21 Aug 2025 21:34:27 +0000",,4.25,Givat Batich גבעת בטיח,Schnitt Brewing Company﻿,Farmhouse Ale - Saison
@@ -108,8 +159,8 @@ b7-beer-house,Liad Shaked,"Thu, 21 Aug 2025 16:04:25 +0000",can,3.8,Nitro Mini M
 b7-beer-house,Tom Lahav,"Thu, 21 Aug 2025 16:04:24 +0000",can,3.5,Nitro Mini M*rs,Vault City Brewing,Stout - Pastry
 b7-beer-house,Raz Ko,"Thu, 21 Aug 2025 16:03:38 +0000",can,4.2,Salted Caramel Crema,Vault City Brewing,Stout - Imperial / Double Coffee
 b7-beer-house,Eran Keller,"Thu, 21 Aug 2025 16:03:08 +0000",can,4.25,Salted Caramel Crema,Vault City Brewing,Stout - Imperial / Double Coffee
-b7-beer-house,Elior Mizrahi,"Thu, 21 Aug 2025 16:02:37 +0000",,3.75,Nitro Mini M*rs,Vault City Brewing,Stout - Pastry
 b7-beer-house,Raz Ko,"Thu, 21 Aug 2025 16:02:37 +0000",can,3.5,Nitro Mini M*rs,Vault City Brewing,Stout - Pastry
+b7-beer-house,Elior Mizrahi,"Thu, 21 Aug 2025 16:02:37 +0000",,3.75,Nitro Mini M*rs,Vault City Brewing,Stout - Pastry
 b7-beer-house,Liad Shaked,"Thu, 21 Aug 2025 16:02:21 +0000",can,4.3,Salted Caramel Crema,Vault City Brewing,Stout - Imperial / Double Coffee
 b7-beer-house,Ido Cohen,"Thu, 21 Aug 2025 16:02:06 +0000",can,3.9,Birthday Cake,Vocation Brewery,Stout - Milk / Sweet
 b7-beer-house,Eran Keller,"Thu, 21 Aug 2025 16:01:24 +0000",can,3.75,Naughty & Nice - White Chocolate & Raspberry,Vocation Brewery,Stout - White / Golden
@@ -120,8 +171,8 @@ b7-beer-house,גל סילברמן,"Thu, 21 Aug 2025 16:00:18 +0000",can,3.8,Naug
 b7-beer-house,Guy Azene,"Thu, 21 Aug 2025 16:00:01 +0000",can,3.8,Naughty & Nice - White Chocolate & Raspberry,Vocation Brewery,Stout - White / Golden
 b7-beer-house,Liad Shaked,"Thu, 21 Aug 2025 15:59:41 +0000",can,3.9,Naughty & Nice - White Chocolate & Raspberry,Vocation Brewery,Stout - White / Golden
 b7-beer-house,Yotam Bar-natan,"Thu, 21 Aug 2025 15:59:21 +0000",can,4.3,Birthday Cake,Vocation Brewery,Stout - Milk / Sweet
-b7-beer-house,Eli Smikin,"Thu, 21 Aug 2025 15:59:11 +0000",can,3.8,Peach Rings,Vault City Brewing,Sour - Fruited
 b7-beer-house,Elior Mizrahi,"Thu, 21 Aug 2025 15:59:11 +0000",,4.0,Naughty & Nice - White Chocolate & Raspberry,Vocation Brewery,Stout - White / Golden
+b7-beer-house,Eli Smikin,"Thu, 21 Aug 2025 15:59:11 +0000",can,3.8,Peach Rings,Vault City Brewing,Sour - Fruited
 b7-beer-house,Yotam Bar-natan,"Thu, 21 Aug 2025 15:58:45 +0000",can,3.8,Naughty & Nice - White Chocolate & Raspberry,Vocation Brewery,Stout - White / Golden
 b7-beer-house,Tom Lahav,"Thu, 21 Aug 2025 15:58:44 +0000",can,3.25,Naughty & Nice - White Chocolate & Raspberry,Vocation Brewery,Stout - White / Golden
 b7-beer-house,Yotam Bar-natan,"Thu, 21 Aug 2025 15:58:21 +0000",can,3.7,Incognito,Vocation Brewery,IPA - Imperial / Double

@@ -1,8 +1,467 @@
 // 🍺 BEER STATS DATA - Generated automatically
-// Last updated: 2025-08-22 06:55:23
-// Total records: 3919
+// Last updated: 2025-08-23 06:51:17
+// Total records: 3970
 
 const BEER_DATA = [
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-23T06:49:15+00:00",
+    "serving": "can",
+    "rating": 4.1,
+    "beer_name": "Selfish Games - One Night In Dubai",
+    "brewery": "HORIZONT Brewing",
+    "beer_type": "Stout - Imperial / Double"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-23T06:43:31+00:00",
+    "serving": "bottle",
+    "rating": 4.0,
+    "beer_name": "Necessary Evil (2020)",
+    "brewery": "Thornbridge Brewery",
+    "beer_type": "Stout - Imperial / Double"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-22T21:54:36+00:00",
+    "serving": "bottle",
+    "rating": 4.75,
+    "beer_name": "Muscabella (2023)",
+    "brewery": "Boerenerf",
+    "beer_type": "Lambic - Other"
+  },
+  {
+    "venue": "porter-and-sons",
+    "time": "2025-08-22T19:45:17+00:00",
+    "serving": "draft",
+    "rating": 4.5,
+    "beer_name": "Gueuze Tilquin – Draft Version",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": "Lambic - Gueuze"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-22T18:52:07+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Salt N' Peppa",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Lager - Other"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-08-22T17:28:30+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "IN THE  SMALL",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Table Beer"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-08-22T16:37:12+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Porter&Sons: Marshmallow",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Porter - Other"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-08-22T16:25:04+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "Porter&Sons: Marshmallow",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Porter - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-22T16:20:34+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Kimat Gornisht",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Non-Alcoholic - Lager"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-22T16:20:04+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Salt N' Peppa",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Lager - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-22T16:19:21+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Tea Party: Green Tea And Jasmine",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pale Ale - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-22T16:18:49+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "Ronen The Ugly Beer (הבירה המכוערת)",
+    "brewery": "Srigim (שריגים)",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-22T16:18:12+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Givat Batich גבעת בטיח",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Farmhouse Ale - Saison"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-22T16:17:35+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Porter&Sons: Marshmallow",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Porter - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-22T16:16:57+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "Anything Gose: Mango",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Sour - Fruited Gose"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-22T16:16:10+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "Chucky",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pale Ale - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-22T16:13:29+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Pinball",
+    "brewery": "BrewDog",
+    "beer_type": "IPA - Imperial / Double New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-22T15:46:25+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Pinball",
+    "brewery": "BrewDog",
+    "beer_type": "IPA - Imperial / Double New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-22T15:36:25+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Chillwave",
+    "brewery": "HORIZONT Brewing",
+    "beer_type": "Gluten-Free"
+  },
+  {
+    "venue": "ursa",
+    "time": "2025-08-22T15:34:54+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "Dogs Allowed",
+    "brewery": "WarPigs Brewpub",
+    "beer_type": "IPA - Imperial / Double New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-08-22T15:33:27+00:00",
+    "serving": "draft",
+    "rating": null,
+    "beer_name": "Sessionista",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-08-22T15:28:41+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Sessionista",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-08-22T15:21:03+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Givat Batich גבעת בטיח",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Farmhouse Ale - Saison"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-22T13:49:50+00:00",
+    "serving": "draft",
+    "rating": 3.8,
+    "beer_name": "Kimat Gornisht",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Non-Alcoholic - Lager"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-08-22T13:41:54+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "Porter&Sons: Marshmallow",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Porter - Other"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-08-22T13:36:34+00:00",
+    "serving": "Unknown",
+    "rating": 3.25,
+    "beer_name": "IN THE  SMALL",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Table Beer"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-08-22T13:34:25+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Sessionista",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-08-22T13:32:02+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "Givat Batich גבעת בטיח",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Farmhouse Ale - Saison"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-08-22T11:26:21+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "Sessionista",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-08-22T11:24:50+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "Givat Batich גבעת בטיח",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Farmhouse Ale - Saison"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-08-22T11:12:32+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Porter&Sons: Marshmallow",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Porter - Other"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-08-22T11:12:07+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Tea Party: Green Tea And Jasmine",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pale Ale - Other"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-08-22T11:11:49+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Anything Gose: Mango",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Sour - Fruited Gose"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-08-22T11:11:38+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Salt N' Peppa",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Lager - Other"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-08-22T11:11:09+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "הפילס שבחדר the Pils In the Room",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pilsner - German"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-08-22T11:10:19+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Givat Batich גבעת בטיח",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Farmhouse Ale - Saison"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-22T10:52:39+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Selfish Games - One Night In Dubai",
+    "brewery": "HORIZONT Brewing",
+    "beer_type": "Stout - Imperial / Double"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-22T10:31:21+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "מייד אין יזרעאל 2025",
+    "brewery": "New Pioneer Brewing Co - חלוץ חדש",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-22T10:14:26+00:00",
+    "serving": "draft",
+    "rating": null,
+    "beer_name": "Salt N' Peppa",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Lager - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-22T08:55:11+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "10th Anniversary Smoothie Bowl",
+    "brewery": "Nepo Brewing",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-22T08:22:51+00:00",
+    "serving": "bottle",
+    "rating": 3.4,
+    "beer_name": "Ola Dubh 12 Year Special Reserve (2019)",
+    "brewery": "Harviestoun Brewery",
+    "beer_type": "Porter - Imperial / Double"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-22T08:21:19+00:00",
+    "serving": "bottle",
+    "rating": 4.2,
+    "beer_name": "Chimay Grande Réserve (Blue) (2017)",
+    "brewery": "Bières de Chimay",
+    "beer_type": "Belgian Strong Dark Ale"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-22T08:16:46+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "מייד אין יזרעאל 2025",
+    "brewery": "New Pioneer Brewing Co - חלוץ חדש",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-22T08:15:11+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Birthday Cake",
+    "brewery": "Vocation Brewery",
+    "beer_type": "Stout - Milk / Sweet"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-22T08:13:09+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Naughty & Nice - White Chocolate & Raspberry",
+    "brewery": "Vocation Brewery",
+    "beer_type": "Stout - White / Golden"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-22T08:10:12+00:00",
+    "serving": "bottle",
+    "rating": 3.6,
+    "beer_name": "Spontantripleraspberry (2019)",
+    "brewery": "Mikkeller",
+    "beer_type": "Lambic - Framboise"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-22T08:05:48+00:00",
+    "serving": "bottle",
+    "rating": 3.5,
+    "beer_name": "Lupulus Hibernatus (2016)",
+    "brewery": "Brasserie Lupulus",
+    "beer_type": "Winter Warmer"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-22T07:56:47+00:00",
+    "serving": "can",
+    "rating": 3.8,
+    "beer_name": "Penal IPA",
+    "brewery": "Ravangrad",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-22T07:29:15+00:00",
+    "serving": "can",
+    "rating": 3.7,
+    "beer_name": "Nitro Mini M*rs",
+    "brewery": "Vault City Brewing",
+    "beer_type": "Stout - Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-22T07:26:21+00:00",
+    "serving": "can",
+    "rating": 3.9,
+    "beer_name": "Incognito",
+    "brewery": "Vocation Brewery",
+    "beer_type": "IPA - Imperial / Double"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-22T07:22:39+00:00",
+    "serving": "bottle",
+    "rating": 3.5,
+    "beer_name": "Vintage Ale (2018)",
+    "brewery": "Fuller's Griffin Brewery",
+    "beer_type": "Old / Stock Ale"
+  },
   {
     "venue": "b7-beer-house",
     "time": "2025-08-22T06:11:30+00:00",
@@ -987,8 +1446,8 @@ const BEER_DATA = [
   {
     "venue": "b7-beer-house",
     "time": "2025-08-21T16:02:37+00:00",
-    "serving": "Unknown",
-    "rating": 3.75,
+    "serving": "can",
+    "rating": 3.5,
     "beer_name": "Nitro Mini M*rs",
     "brewery": "Vault City Brewing",
     "beer_type": "Stout - Pastry"
@@ -996,8 +1455,8 @@ const BEER_DATA = [
   {
     "venue": "b7-beer-house",
     "time": "2025-08-21T16:02:37+00:00",
-    "serving": "can",
-    "rating": 3.5,
+    "serving": "Unknown",
+    "rating": 3.75,
     "beer_name": "Nitro Mini M*rs",
     "brewery": "Vault City Brewing",
     "beer_type": "Stout - Pastry"
@@ -1095,20 +1554,20 @@ const BEER_DATA = [
   {
     "venue": "b7-beer-house",
     "time": "2025-08-21T15:59:11+00:00",
-    "serving": "can",
-    "rating": 3.8,
-    "beer_name": "Peach Rings",
-    "brewery": "Vault City Brewing",
-    "beer_type": "Sour - Fruited"
-  },
-  {
-    "venue": "b7-beer-house",
-    "time": "2025-08-21T15:59:11+00:00",
     "serving": "Unknown",
     "rating": 4.0,
     "beer_name": "Naughty & Nice - White Chocolate & Raspberry",
     "brewery": "Vocation Brewery",
     "beer_type": "Stout - White / Golden"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-21T15:59:11+00:00",
+    "serving": "can",
+    "rating": 3.8,
+    "beer_name": "Peach Rings",
+    "brewery": "Vault City Brewing",
+    "beer_type": "Sour - Fruited"
   },
   {
     "venue": "b7-beer-house",
