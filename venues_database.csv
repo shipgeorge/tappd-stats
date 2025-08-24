@@ -1,4 +1,55 @@
 venue,user,time,serving,data_rating,beer_name,brewery,beer_type
+schnitt-brewing-company,Elad Schitrit,"Sat, 23 Aug 2025 21:39:27 +0000",draft,4.0,Sessionista,Schnitt Brewing Company﻿,IPA - New England / Hazy
+lauter,Elad Schitrit,"Sat, 23 Aug 2025 20:37:41 +0000",bottle,3.75,5G Stoned,Schmulz,Historical Beer - Steinbier
+lauter,Yanai Ben- Alon,"Sat, 23 Aug 2025 20:32:33 +0000",bottle,3.75,5G Stoned,Schmulz,Historical Beer - Steinbier
+lauter,Yanai Ben- Alon,"Sat, 23 Aug 2025 20:22:41 +0000",can,4.5,Dogs Allowed,WarPigs Brewpub,IPA - Imperial / Double New England / Hazy
+b7-beer-house,Elior Mizrahi,"Sat, 23 Aug 2025 20:05:43 +0000",bottle,4.25,באה מאהבה,New Pioneer Brewing Co - חלוץ חדש,Red Ale - American Amber / Red
+schnitt-brewing-company,Elad Schitrit,"Sat, 23 Aug 2025 19:55:03 +0000",,3.0,Porter&Sons: Marshmallow,Schnitt Brewing Company﻿,Porter - Other
+schnitt-brewing-company,Elad Schitrit,"Sat, 23 Aug 2025 19:43:12 +0000",draft,3.25,Givat Batich גבעת בטיח,Schnitt Brewing Company﻿,Farmhouse Ale - Saison
+schnitt-brewing-company,David Siegel,"Sat, 23 Aug 2025 19:41:16 +0000",,3.75,Givat Batich גבעת בטיח,Schnitt Brewing Company﻿,Farmhouse Ale - Saison
+lauter,Mishel iavorsci,"Sat, 23 Aug 2025 18:42:31 +0000",draft,3.75,Pijże,Nepo Brewing,Pale Ale - New England / Hazy
+schnitt-brewing-company,oren avrashi,"Sat, 23 Aug 2025 18:37:29 +0000",draft,3.75,Porter&Sons: Marshmallow,Schnitt Brewing Company﻿,Porter - Other
+schnitt-brewing-company,oren avrashi,"Sat, 23 Aug 2025 18:36:20 +0000",draft,3.5,IN THE  SMALL,Schnitt Brewing Company﻿,Table Beer
+schnitt-brewing-company,oren avrashi,"Sat, 23 Aug 2025 18:35:36 +0000",draft,3.75,Sessionista,Schnitt Brewing Company﻿,IPA - New England / Hazy
+schnitt-brewing-company,oren avrashi,"Sat, 23 Aug 2025 18:34:49 +0000",draft,3.25,Givat Batich גבעת בטיח,Schnitt Brewing Company﻿,Farmhouse Ale - Saison
+schnitt-brewing-company,Omri Gill,"Sat, 23 Aug 2025 18:16:56 +0000",draft,4.25,Sessionista,Schnitt Brewing Company﻿,IPA - New England / Hazy
+lauter,Omri Gill,"Sat, 23 Aug 2025 18:16:36 +0000",draft,3.25,Soundwave IPA,Siren Craft Brew,IPA - American
+lauter,Omri Gill,"Sat, 23 Aug 2025 17:28:13 +0000",draft,3.75,Kimat Gornisht,Schnitt Brewing Company﻿,Non-Alcoholic - Lager
+lauter,Omri Gill,"Sat, 23 Aug 2025 17:27:54 +0000",,4.5,Slow And Bitter (מריר ועצלני),Schnitt Brewing Company﻿,Bitter - Session / Ordinary
+porter-and-sons,Omri Gill,"Sat, 23 Aug 2025 17:27:32 +0000",draft,4.0,Fruitesse,Brouwerij Liefmans,Fruit Beer
+porter-and-sons,Omri Gill,"Sat, 23 Aug 2025 17:24:06 +0000",draft,4.0,Tucher Pils,Tucher Bräu,Pilsner - German
+porter-and-sons,Omri Gill,"Sat, 23 Aug 2025 17:23:46 +0000",draft,4.0,הפילס שבחדר the Pils In the Room,Schnitt Brewing Company﻿,Pilsner - German
+b7-beer-house,Ori Pemper,"Sat, 23 Aug 2025 17:19:31 +0000",draft,4.0,Jam Roly Poly,Vault City Brewing,Sour - Smoothie / Pastry
+lauter,Zeev,"Sat, 23 Aug 2025 16:44:11 +0000",bottle,4.0,Disko (Cellar Series),Põhjala,Stout - Imperial / Double
+lauter,Zeev,"Sat, 23 Aug 2025 14:19:39 +0000",draft,3.5,Anything Gose: Mango,Schnitt Brewing Company﻿,Sour - Fruited Gose
+lauter,Zeev,"Sat, 23 Aug 2025 14:18:59 +0000",draft,3.5,Porter&Sons: Marshmallow,Schnitt Brewing Company﻿,Porter - Other
+lauter,Zeev,"Sat, 23 Aug 2025 14:18:18 +0000",draft,3.25,Tea Party: Green Tea And Jasmine,Schnitt Brewing Company﻿,Pale Ale - Other
+lauter,Zeev,"Sat, 23 Aug 2025 14:17:41 +0000",draft,3.0,Salt N' Peppa,Schnitt Brewing Company﻿,Lager - Other
+lauter,Zeev,"Sat, 23 Aug 2025 14:10:00 +0000",,3.5,Slow And Bitter (מריר ועצלני),Schnitt Brewing Company﻿,Bitter - Session / Ordinary
+lauter,Shakuf,"Sat, 23 Aug 2025 14:08:24 +0000",draft,4.0,New York Mocaccino,Mad Scientist,Stout - Milk / Sweet
+lauter,Shakuf,"Sat, 23 Aug 2025 14:07:35 +0000",draft,3.5,Tea Party: Green Tea And Jasmine,Schnitt Brewing Company﻿,Pale Ale - Other
+lauter,Shakuf,"Sat, 23 Aug 2025 14:06:11 +0000",draft,3.75,A Sour Love Story,HORIZONT Brewing,Sour - Fruited
+lauter,Avi Levy,"Sat, 23 Aug 2025 14:04:45 +0000",draft,3.75,New York Mocaccino,Mad Scientist,Stout - Milk / Sweet
+lauter,Avi Levy,"Sat, 23 Aug 2025 13:59:15 +0000",draft,3.5,A Sour Love Story,HORIZONT Brewing,Sour - Fruited
+lauter,Avi Levy,"Sat, 23 Aug 2025 13:53:26 +0000",draft,3.25,Tea Party: Green Tea And Jasmine,Schnitt Brewing Company﻿,Pale Ale - Other
+berlin-florentin,Peleg Magen,"Sat, 23 Aug 2025 13:50:01 +0000",bottle,4.25,Kurg (Cellar Series),Põhjala,Stout - Imperial / Double
+lauter,Alexander S,"Sat, 23 Aug 2025 13:29:20 +0000",draft,3.75,Soundwave IPA,Siren Craft Brew,IPA - American
+lauter,YanivMeir1503,"Sat, 23 Aug 2025 13:12:08 +0000",,,Kimat Gornisht,Schnitt Brewing Company﻿,Non-Alcoholic - Lager
+lauter,Alexander S,"Sat, 23 Aug 2025 13:05:38 +0000",draft,4.25,10th Anniversary Smoothie Bowl,Nepo Brewing,Sour - Smoothie / Pastry
+lauter,YanivMeir1503,"Sat, 23 Aug 2025 12:46:31 +0000",draft,,A Sour Love Story,HORIZONT Brewing,Sour - Fruited
+lauter,YanivMeir1503,"Sat, 23 Aug 2025 12:22:06 +0000",draft,,Liquid Cocaine,Mad Scientist,IPA - Imperial / Double
+lauter,Alexander S,"Sat, 23 Aug 2025 12:06:51 +0000",draft,3.75,Anything Gose: Mango,Schnitt Brewing Company﻿,Sour - Fruited Gose
+lauter,YanivMeir1503,"Sat, 23 Aug 2025 12:00:30 +0000",draft,,Pijże,Nepo Brewing,Pale Ale - New England / Hazy
+lauter,Gadi Hirsch,"Sat, 23 Aug 2025 11:51:38 +0000",can,4.0,Wavelength,Equilibrium Brewery,IPA - American
+schnitt-brewing-company,Gadi Hirsch,"Sat, 23 Aug 2025 11:39:46 +0000",draft,4.0,Sessionista,Schnitt Brewing Company﻿,IPA - New England / Hazy
+schnitt-brewing-company,Gadi Hirsch,"Sat, 23 Aug 2025 11:38:29 +0000",draft,3.5,Salt N' Peppa,Schnitt Brewing Company﻿,Lager - Other
+schnitt-brewing-company,Gadi Hirsch,"Sat, 23 Aug 2025 11:37:44 +0000",draft,3.75,Givat Batich גבעת בטיח,Schnitt Brewing Company﻿,Farmhouse Ale - Saison
+lauter,Alexander S,"Sat, 23 Aug 2025 11:15:11 +0000",draft,3.75,Liquid Cocaine,Mad Scientist,IPA - Imperial / Double
+lauter,Alexander S,"Sat, 23 Aug 2025 11:05:05 +0000",draft,3.5,Porter&Sons: Marshmallow,Schnitt Brewing Company﻿,Porter - Other
+lauter,Alexander S,"Sat, 23 Aug 2025 11:01:40 +0000",draft,3.75,Anything Gose: Mango,Schnitt Brewing Company﻿,Sour - Fruited Gose
+lauter,Alexander S,"Sat, 23 Aug 2025 10:54:01 +0000",draft,3.0,Tea Party: Green Tea And Jasmine,Schnitt Brewing Company﻿,Pale Ale - Other
+lauter,Alexander S,"Sat, 23 Aug 2025 10:34:28 +0000",draft,3.5,Pijże,Nepo Brewing,Pale Ale - New England / Hazy
+b7-beer-house,Eli Smikin,"Sat, 23 Aug 2025 06:54:51 +0000",can,4.0,Selfish Games Journey1000,HORIZONT Brewing,Pilsner - Other
 b7-beer-house,Eli Smikin,"Sat, 23 Aug 2025 06:49:15 +0000",can,4.1,Selfish Games - One Night In Dubai,HORIZONT Brewing,Stout - Imperial / Double
 b7-beer-house,Eli Smikin,"Sat, 23 Aug 2025 06:43:31 +0000",bottle,4.0,Necessary Evil (2020),Thornbridge Brewery,Stout - Imperial / Double
 lauter,Ben Gat Sherman,"Fri, 22 Aug 2025 21:54:36 +0000",bottle,4.75,Muscabella (2023),Boerenerf,Lambic - Other
@@ -970,8 +1021,8 @@ lauter,Mikhail Stolov,"Tue, 05 Aug 2025 18:52:25 +0000",,3.25,OUOUOU,4BREWERS,So
 lauter,Oren Sleepwalker,"Tue, 05 Aug 2025 18:50:13 +0000",,,Whakahoa,Factory Brewing,IPA - Triple New England / Hazy
 schnitt-brewing-company,Arkady Gerasimuk,"Tue, 05 Aug 2025 18:49:49 +0000",draft,3.5,Twist & Stout,Schnitt Brewing Company﻿,Stout - Irish Dry
 schnitt-brewing-company,Yaniv Gorodetsky,"Tue, 05 Aug 2025 18:49:42 +0000",draft,3.0,Twist & Stout,Schnitt Brewing Company﻿,Stout - Irish Dry
-lauter,Yosef Dahan,"Tue, 05 Aug 2025 18:49:38 +0000",can,4.0,Whakahoa,Factory Brewing,IPA - Triple New England / Hazy
 lauter,Yaron Sh,"Tue, 05 Aug 2025 18:49:38 +0000",,4.5,Whakahoa,Factory Brewing,IPA - Triple New England / Hazy
+lauter,Yosef Dahan,"Tue, 05 Aug 2025 18:49:38 +0000",can,4.0,Whakahoa,Factory Brewing,IPA - Triple New England / Hazy
 lauter,Yaniv Alal,"Tue, 05 Aug 2025 18:49:26 +0000",draft,4.25,Whakahoa,Factory Brewing,IPA - Triple New England / Hazy
 lauter,Shaul A,"Tue, 05 Aug 2025 18:49:14 +0000",,4.5,Whakahoa,Factory Brewing,IPA - Triple New England / Hazy
 lauter,Yaron Sh,"Tue, 05 Aug 2025 18:48:30 +0000",,4.0,Magical Path,Shred Beer Company,IPA - New England / Hazy
