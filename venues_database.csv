@@ -1,4 +1,32 @@
 venue,user,time,serving,data_rating,beer_name,brewery,beer_type
+schnitt-brewing-company,Yael Hochberg Yanai,"Sun, 24 Aug 2025 21:30:41 +0000",draft,3.5,הפילס שבחדר the Pils In the Room,Schnitt Brewing Company﻿,Pilsner - German
+lauter,Alma,"Sun, 24 Aug 2025 20:51:16 +0000",can,4.25,Riesling People,Mikkeller,IPA - New England / Hazy
+lauter,Lee Ker,"Sun, 24 Aug 2025 20:13:37 +0000",bottle,,Bitter Man,Beerbalach,Bitter - Best
+lauter,Shmupi Koto,"Sun, 24 Aug 2025 19:34:56 +0000",bottle,4.5,Classic Gueuze (2024),Brasserie Cantillon,Lambic - Gueuze
+lauter,Shmupi Koto,"Sun, 24 Aug 2025 18:21:25 +0000",bottle,4.0,Jaipur,Thornbridge Brewery,IPA - American
+lauter,Lee Ker,"Sun, 24 Aug 2025 17:52:51 +0000",,,Budweiser Budvar B:DARK / Czechvar B:DARK,Budějovický Budvar,Lager - Tmavé (Czech Dark)
+lauter,Lee Ker,"Sun, 24 Aug 2025 17:32:29 +0000",,,New York Mocaccino,Mad Scientist,Stout - Milk / Sweet
+lauter,Lee Ker,"Sun, 24 Aug 2025 17:02:29 +0000",,,Twist & Stout,Schnitt Brewing Company﻿,Stout - Irish Dry
+lauter,Slava Gvantmakher,"Sun, 24 Aug 2025 17:00:23 +0000",draft,3.5,Chucky,Schnitt Brewing Company﻿,Pale Ale - American
+lauter,yairjacoby,"Sun, 24 Aug 2025 16:58:55 +0000",,4.0,Liquid Cocaine,Mad Scientist,IPA - Imperial / Double
+schnitt-brewing-company,Lee Ker,"Sun, 24 Aug 2025 16:45:44 +0000",,,Slow And Bitter (מריר ועצלני),Schnitt Brewing Company﻿,Bitter - Session / Ordinary
+schnitt-brewing-company,Lee Ker,"Sun, 24 Aug 2025 16:27:02 +0000",,,Porter&Sons: Marshmallow,Schnitt Brewing Company﻿,Porter - Other
+lauter,Gabi David,"Sun, 24 Aug 2025 15:52:13 +0000",draft,3.5,Anything Gose: Mango,Schnitt Brewing Company﻿,Sour - Fruited Gose
+lauter,Gabi David,"Sun, 24 Aug 2025 15:51:15 +0000",,3.5,Salt N' Peppa,Schnitt Brewing Company﻿,Lager - Other
+lauter,Gabi David,"Sun, 24 Aug 2025 15:45:48 +0000",draft,3.75,Tea Party: Green Tea And Jasmine,Schnitt Brewing Company﻿,Pale Ale - Other
+lauter,noam_polotsky_5318,"Sun, 24 Aug 2025 15:31:18 +0000",draft,3.75,A Sour Love Story,HORIZONT Brewing,Sour - Fruited
+lauter,noam_polotsky_5318,"Sun, 24 Aug 2025 15:30:25 +0000",draft,4.5,Hazy Queen,HORIZONT Brewing,IPA - New England / Hazy
+schnitt-brewing-company,Gabi David,"Sun, 24 Aug 2025 15:09:55 +0000",draft,3.75,Porter&Sons: Marshmallow,Schnitt Brewing Company﻿,Porter - Other
+schnitt-brewing-company,Gabi David,"Sun, 24 Aug 2025 15:09:35 +0000",draft,4.0,Givat Batich גבעת בטיח,Schnitt Brewing Company﻿,Farmhouse Ale - Saison
+schnitt-brewing-company,Gabi David,"Sun, 24 Aug 2025 15:08:34 +0000",draft,3.75,Sessionista,Schnitt Brewing Company﻿,IPA - New England / Hazy
+lauter,Slava Gvantmakher,"Sun, 24 Aug 2025 14:59:36 +0000",draft,3.5,Salt N' Peppa,Schnitt Brewing Company﻿,Lager - Other
+b7-beer-house,Yotam Bar-natan,"Sun, 24 Aug 2025 14:14:59 +0000",can,4.1,GALACTIC MATTER // HAZY IPA,Northern Monk,IPA - New England / Hazy
+schnitt-brewing-company,Yana O,"Sun, 24 Aug 2025 13:47:07 +0000",,4.0,Sessionista,Schnitt Brewing Company﻿,IPA - New England / Hazy
+schnitt-brewing-company,Ⓜ️axx Dee,"Sun, 24 Aug 2025 13:46:58 +0000",,3.75,Sessionista,Schnitt Brewing Company﻿,IPA - New England / Hazy
+schnitt-brewing-company,Ⓜ️axx Dee,"Sun, 24 Aug 2025 13:44:39 +0000",,3.75,Givat Batich גבעת בטיח,Schnitt Brewing Company﻿,Farmhouse Ale - Saison
+schnitt-brewing-company,Yana O,"Sun, 24 Aug 2025 13:41:12 +0000",,3.7,Givat Batich גבעת בטיח,Schnitt Brewing Company﻿,Farmhouse Ale - Saison
+schnitt-brewing-company,Ⓜ️axx Dee,"Sun, 24 Aug 2025 13:27:43 +0000",,4.25,Kelly's Green Pony,Schnitt Brewing Company﻿,IPA - New England / Hazy
+b7-beer-house,Yotam Bar-natan,"Sun, 24 Aug 2025 11:42:50 +0000",draft,4.1,Jam Roly Poly,Vault City Brewing,Sour - Smoothie / Pastry
 schnitt-brewing-company,Elad Schitrit,"Sat, 23 Aug 2025 21:39:27 +0000",draft,4.0,Sessionista,Schnitt Brewing Company﻿,IPA - New England / Hazy
 lauter,Elad Schitrit,"Sat, 23 Aug 2025 20:37:41 +0000",bottle,3.75,5G Stoned,Schmulz,Historical Beer - Steinbier
 lauter,Yanai Ben- Alon,"Sat, 23 Aug 2025 20:32:33 +0000",bottle,3.75,5G Stoned,Schmulz,Historical Beer - Steinbier
@@ -1807,8 +1835,8 @@ lauter,Shmupi Koto,"Sat, 26 Jul 2025 15:40:24 +0000",can,3.7,Smoothie Bowl - Pea
 lauter,David Siegel,"Sat, 26 Jul 2025 15:38:40 +0000",,4.25,Smoothie Bowl - Peachy Dragon,Nepo Brewing,Sour - Smoothie / Pastry
 lauter,Adam Berelowitz,"Sat, 26 Jul 2025 15:35:23 +0000",can,4.3,Smoothie Bowl - Peachy Dragon,Nepo Brewing,Sour - Smoothie / Pastry
 schnitt-brewing-company,Omri Gill,"Sat, 26 Jul 2025 15:33:39 +0000",draft,3.75,Mexico City Twist,Schnitt Brewing Company﻿,Lager - Mexican
-lauter,David Siegel,"Sat, 26 Jul 2025 15:22:08 +0000",,4.0,Pijże,Nepo Brewing,Pale Ale - New England / Hazy
 lauter,Adam Berelowitz,"Sat, 26 Jul 2025 15:22:08 +0000",can,4.2,Smoothie Bowl: Pistachio Fluff,Nepo Brewing,Sour - Smoothie / Pastry
+lauter,David Siegel,"Sat, 26 Jul 2025 15:22:08 +0000",,4.0,Pijże,Nepo Brewing,Pale Ale - New England / Hazy
 lauter,Adam Berelowitz,"Sat, 26 Jul 2025 15:21:39 +0000",can,4.3,Pijże,Nepo Brewing,Pale Ale - New England / Hazy
 lauter,David Siegel,"Sat, 26 Jul 2025 15:20:22 +0000",,4.25,Smoothie Bowl: Pistachio Fluff,Nepo Brewing,Sour - Smoothie / Pastry
 lauter,Anton B,"Sat, 26 Jul 2025 15:17:20 +0000",can,,Windy Hill,Mikkeller,IPA - New England / Hazy
@@ -3684,8 +3712,8 @@ berlin-florentin,Yaron Sh,"Mon, 22 Jan 2024 18:49:44 +0000",can,4.0,"¡Buena Par
 berlin-florentin,Shmupi Koto,"Mon, 22 Jan 2024 18:49:41 +0000",can,3.8,"¡Buena Para El Papa! ¿Si, No?",Brewski,Stout - Imperial / Double Pastry
 berlin-florentin,Shmupi Koto,"Mon, 22 Jan 2024 18:49:04 +0000",can,4.0,200 Units,Brewski,Barleywine - English
 berlin-florentin,Tom Oppenheim,"Mon, 22 Jan 2024 18:48:49 +0000",can,3.5,"¡Buena Para El Papa! ¿Si, No?",Brewski,Stout - Imperial / Double Pastry
-berlin-florentin,ori shuster,"Mon, 22 Jan 2024 18:42:20 +0000",can,4.0,200 Units,Brewski,Barleywine - English
 berlin-florentin,Yaron Sh,"Mon, 22 Jan 2024 18:42:20 +0000",,,200 Units,Brewski,Barleywine - English
+berlin-florentin,ori shuster,"Mon, 22 Jan 2024 18:42:20 +0000",can,4.0,200 Units,Brewski,Barleywine - English
 berlin-florentin,Yaron Sh,"Mon, 22 Jan 2024 18:41:52 +0000",,,Strawberry Pie,Brewski,Sour - Smoothie / Pastry
 berlin-florentin,Itai Snai,"Mon, 22 Jan 2024 18:40:50 +0000",,3.5,200 Units,Brewski,Barleywine - English
 berlin-florentin,Mikhail Stolov,"Mon, 22 Jan 2024 18:38:56 +0000",,3.75,200 Units,Brewski,Barleywine - English
