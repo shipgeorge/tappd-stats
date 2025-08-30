@@ -1,8 +1,530 @@
 // 🍺 BEER STATS DATA - Generated automatically
-// Last updated: 2025-08-29 06:37:04
-// Total records: 4178
+// Last updated: 2025-08-30 06:33:33
+// Total records: 4236
 
 const BEER_DATA = [
+  {
+    "venue": "berlin-florentin",
+    "time": "2025-08-29T22:21:21+00:00",
+    "serving": "can",
+    "rating": 3.6,
+    "beer_name": "חתול עם תעלול",
+    "brewery": "BeerBazaar / Mivshelet Ha’Aretz",
+    "beer_type": "Pale Ale - American"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-08-29T21:53:23+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "Givat Batich גבעת בטיח",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Farmhouse Ale - Saison"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-08-29T21:19:21+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "IN THE  SMALL",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Table Beer"
+  },
+  {
+    "venue": "beerz",
+    "time": "2025-08-29T20:32:51+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Lidski bread kvass (Квас Лидский Хлебный)",
+    "brewery": "Lidskae Piva (Лідскае Піва)",
+    "beer_type": "Kvass"
+  },
+  {
+    "venue": "beerz",
+    "time": "2025-08-29T20:20:59+00:00",
+    "serving": "draft",
+    "rating": 4.5,
+    "beer_name": "Pleroma Karpologi Pineapple Peach Marshmallow Créme Brulée Sour",
+    "brewery": "Omnipollo",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "berlin-florentin",
+    "time": "2025-08-29T20:16:31+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Budweiser Budvar / Czechvar Original",
+    "brewery": "Budějovický Budvar",
+    "beer_type": "Pilsner - Czech / Bohemian"
+  },
+  {
+    "venue": "berlin-florentin",
+    "time": "2025-08-29T20:15:15+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Blacpac",
+    "brewery": "Brewski",
+    "beer_type": "Stout - Imperial / Double Pastry"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-08-29T20:04:23+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "OrIPA",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-08-29T20:04:11+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "OrIPA",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-08-29T19:52:59+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Tea Party: Green Tea And Jasmine",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pale Ale - Other"
+  },
+  {
+    "venue": "berlin-florentin",
+    "time": "2025-08-29T19:42:59+00:00",
+    "serving": "can",
+    "rating": 3.8,
+    "beer_name": "Blacpac",
+    "brewery": "Brewski",
+    "beer_type": "Stout - Imperial / Double Pastry"
+  },
+  {
+    "venue": "berlin-florentin",
+    "time": "2025-08-29T19:42:29+00:00",
+    "serving": "Unknown",
+    "rating": 3.8,
+    "beer_name": "Kuldne Duo",
+    "brewery": "Katlamaja Brewery",
+    "beer_type": "Homebrew, Mead - Metheglin"
+  },
+  {
+    "venue": "berlin-florentin",
+    "time": "2025-08-29T19:23:31+00:00",
+    "serving": "can",
+    "rating": 3.6,
+    "beer_name": "עשן הזמן",
+    "brewery": "BeerBazaar / Mivshelet Ha’Aretz",
+    "beer_type": "Lager - Smoked"
+  },
+  {
+    "venue": "berlin-florentin",
+    "time": "2025-08-29T19:22:30+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Guinness Draught",
+    "brewery": "Guinness",
+    "beer_type": "Stout - Irish Dry"
+  },
+  {
+    "venue": "berlin-florentin",
+    "time": "2025-08-29T19:19:47+00:00",
+    "serving": "bottle",
+    "rating": 3.5,
+    "beer_name": "Kuldne Duo",
+    "brewery": "Katlamaja Brewery",
+    "beer_type": "Homebrew, Mead - Metheglin"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-08-29T19:14:23+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Tea Party: Green Tea And Jasmine",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pale Ale - Other"
+  },
+  {
+    "venue": "berlin-florentin",
+    "time": "2025-08-29T19:12:39+00:00",
+    "serving": "can",
+    "rating": 3.4,
+    "beer_name": "עשן הזמן",
+    "brewery": "BeerBazaar / Mivshelet Ha’Aretz",
+    "beer_type": "Lager - Smoked"
+  },
+  {
+    "venue": "berlin-florentin",
+    "time": "2025-08-29T18:58:28+00:00",
+    "serving": "bottle",
+    "rating": 4.4,
+    "beer_name": "Kuldne Duo",
+    "brewery": "Katlamaja Brewery",
+    "beer_type": "Homebrew, Mead - Metheglin"
+  },
+  {
+    "venue": "berlin-florentin",
+    "time": "2025-08-29T18:55:31+00:00",
+    "serving": "bottle",
+    "rating": 3.75,
+    "beer_name": "Abt 12 (2014)",
+    "brewery": "Brouwerij St.Bernardus",
+    "beer_type": "Belgian Quadrupel"
+  },
+  {
+    "venue": "berlin-florentin",
+    "time": "2025-08-29T18:21:06+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Do Stuff Together",
+    "brewery": "Mikkeller",
+    "beer_type": "Pale Ale - New England / Hazy"
+  },
+  {
+    "venue": "berlin-florentin",
+    "time": "2025-08-29T18:20:46+00:00",
+    "serving": "can",
+    "rating": 3.7,
+    "beer_name": "Dogs Allowed",
+    "brewery": "WarPigs Brewpub",
+    "beer_type": "IPA - Imperial / Double New England / Hazy"
+  },
+  {
+    "venue": "berlin-florentin",
+    "time": "2025-08-29T18:20:06+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Dogs Allowed",
+    "brewery": "WarPigs Brewpub",
+    "beer_type": "IPA - Imperial / Double New England / Hazy"
+  },
+  {
+    "venue": "berlin-florentin",
+    "time": "2025-08-29T18:15:46+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "Porter Alon (פורטר אלון)",
+    "brewery": "Negev Brewery (נגב)",
+    "beer_type": "Porter - Other"
+  },
+  {
+    "venue": "berlin-florentin",
+    "time": "2025-08-29T18:07:43+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Guinness Draught",
+    "brewery": "Guinness",
+    "beer_type": "Stout - Irish Dry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-29T17:51:20+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "DDH Hopchest DIPA",
+    "brewery": "Ārpus Brewing Co.",
+    "beer_type": "IPA - Imperial / Double New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-29T17:47:12+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "DDH Hopchest DIPA",
+    "brewery": "Ārpus Brewing Co.",
+    "beer_type": "IPA - Imperial / Double New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-29T17:31:36+00:00",
+    "serving": "can",
+    "rating": 3.9,
+    "beer_name": "DDH Hopheart IPA",
+    "brewery": "Ārpus Brewing Co.",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-29T17:18:51+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "Californication - Citra, El Dorado & Mosaic",
+    "brewery": "Maryensztadt",
+    "beer_type": "Pale Ale - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-29T17:17:19+00:00",
+    "serving": "draft",
+    "rating": 3.3,
+    "beer_name": "New York Mocaccino",
+    "brewery": "Mad Scientist",
+    "beer_type": "Stout - Milk / Sweet"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-29T17:13:32+00:00",
+    "serving": "can",
+    "rating": 3.8,
+    "beer_name": "Californication - Citra, El Dorado & Mosaic",
+    "brewery": "Maryensztadt",
+    "beer_type": "Pale Ale - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-29T15:25:19+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "Hazy Queen",
+    "brewery": "HORIZONT Brewing",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-29T15:17:46+00:00",
+    "serving": "draft",
+    "rating": 3.0,
+    "beer_name": "Givat Batich גבעת בטיח",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Farmhouse Ale - Saison"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-29T15:15:37+00:00",
+    "serving": "draft",
+    "rating": 2.75,
+    "beer_name": "Pijże",
+    "brewery": "Nepo Brewing",
+    "beer_type": "Pale Ale - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-29T15:11:56+00:00",
+    "serving": "draft",
+    "rating": 3.0,
+    "beer_name": "A Sour Love Story",
+    "brewery": "HORIZONT Brewing",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-29T15:09:42+00:00",
+    "serving": "draft",
+    "rating": 2.75,
+    "beer_name": "Morning Joe",
+    "brewery": "HORIZONT Brewing",
+    "beer_type": "Stout - Coffee"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-29T14:48:08+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "Porter&Sons: Marshmallow",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Porter - Other"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-08-29T14:40:13+00:00",
+    "serving": "can",
+    "rating": 4.1,
+    "beer_name": "Californication - Sabro, Citra, Idaho 7 & Lemondrop",
+    "brewery": "Maryensztadt",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-08-29T14:23:47+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Sessionista",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-29T14:21:14+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Givat Batich גבעת בטיח",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Farmhouse Ale - Saison"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-08-29T14:13:05+00:00",
+    "serving": "draft",
+    "rating": 3.4,
+    "beer_name": "Holy Schnitt",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-08-29T14:10:53+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Porter&Sons: Marshmallow",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Porter - Other"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-08-29T13:46:12+00:00",
+    "serving": "draft",
+    "rating": 3.9,
+    "beer_name": "Triple Hope",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-08-29T13:45:18+00:00",
+    "serving": "draft",
+    "rating": 3.1,
+    "beer_name": "Sessionista",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-08-29T13:27:57+00:00",
+    "serving": "Unknown",
+    "rating": 3.25,
+    "beer_name": "Tea Party: Green Tea And Jasmine",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pale Ale - Other"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-08-29T13:27:31+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "IN THE  SMALL",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Table Beer"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-08-29T13:11:41+00:00",
+    "serving": "draft",
+    "rating": 4.5,
+    "beer_name": "IN THE  SMALL",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Table Beer"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-08-29T12:04:00+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Porter&Sons: Marshmallow",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Porter - Other"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-08-29T12:03:08+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Givat Batich גבעת בטיח",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Farmhouse Ale - Saison"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-08-29T12:02:33+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Sessionista",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-29T11:09:56+00:00",
+    "serving": "can",
+    "rating": 4.5,
+    "beer_name": "Giant Raspberry Vanilla Lollipop",
+    "brewery": "Vault City Brewing",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-29T11:06:39+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "New York Mocaccino",
+    "brewery": "Mad Scientist",
+    "beer_type": "Stout - Milk / Sweet"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-29T11:01:01+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Morning Joe",
+    "brewery": "HORIZONT Brewing",
+    "beer_type": "Stout - Coffee"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-08-29T10:52:19+00:00",
+    "serving": "draft",
+    "rating": 3.25,
+    "beer_name": "Porter&Sons: Marshmallow",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Porter - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-29T10:05:25+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Budweiser Budvar / Czechvar Original",
+    "brewery": "Budějovický Budvar",
+    "beer_type": "Pilsner - Czech / Bohemian"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-29T10:05:03+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Accept All Cookies",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pale Ale - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-29T10:04:16+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Givat Batich גבעת בטיח",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Farmhouse Ale - Saison"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-29T09:04:36+00:00",
+    "serving": "bottle",
+    "rating": 3.25,
+    "beer_name": "Hard Pear Cider (סיידר אגסים אלכוהולי חצי יבש)",
+    "brewery": "Hamatsesa (המתססה)",
+    "beer_type": "Cider - Perry / Poiré"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-29T09:03:35+00:00",
+    "serving": "bottle",
+    "rating": 3.5,
+    "beer_name": "סיידר תפוחים אלכוהולי חצי יבש",
+    "brewery": "Hamatsesa (המתססה)",
+    "beer_type": "Cider - Traditional / Apfelwein"
+  },
   {
     "venue": "lauter",
     "time": "2025-08-28T23:13:33+00:00",
@@ -17691,20 +18213,20 @@ const BEER_DATA = [
   {
     "venue": "lauter",
     "time": "2025-07-26T15:22:08+00:00",
-    "serving": "Unknown",
-    "rating": 4.0,
-    "beer_name": "Pijże",
-    "brewery": "Nepo Brewing",
-    "beer_type": "Pale Ale - New England / Hazy"
-  },
-  {
-    "venue": "lauter",
-    "time": "2025-07-26T15:22:08+00:00",
     "serving": "can",
     "rating": 4.2,
     "beer_name": "Smoothie Bowl: Pistachio Fluff",
     "brewery": "Nepo Brewing",
     "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-07-26T15:22:08+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Pijże",
+    "brewery": "Nepo Brewing",
+    "beer_type": "Pale Ale - New England / Hazy"
   },
   {
     "venue": "lauter",
@@ -18736,19 +19258,19 @@ const BEER_DATA = [
     "venue": "lauter",
     "time": "2025-07-25T18:15:23+00:00",
     "serving": "draft",
-    "rating": 4.0,
-    "beer_name": "Cuvée Saint-Gilloise 2023 - Draft Version",
+    "rating": 4.8,
+    "beer_name": "Fou' Foune 2023 - Draft Version",
     "brewery": "Brasserie Cantillon",
-    "beer_type": "Lambic - Traditional"
+    "beer_type": "Lambic - Fruit"
   },
   {
     "venue": "lauter",
     "time": "2025-07-25T18:15:23+00:00",
     "serving": "draft",
-    "rating": 4.8,
-    "beer_name": "Fou' Foune 2023 - Draft Version",
+    "rating": 4.0,
+    "beer_name": "Cuvée Saint-Gilloise 2023 - Draft Version",
     "brewery": "Brasserie Cantillon",
-    "beer_type": "Lambic - Fruit"
+    "beer_type": "Lambic - Traditional"
   },
   {
     "venue": "lauter",
