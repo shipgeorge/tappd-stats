@@ -1,8 +1,278 @@
 // 🍺 BEER STATS DATA - Generated automatically
-// Last updated: 2025-08-31 06:34:48
-// Total records: 4268
+// Last updated: 2025-09-01 06:40:46
+// Total records: 4298
 
 const BEER_DATA = [
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-08-31T20:02:03+00:00",
+    "serving": "bottle",
+    "rating": null,
+    "beer_name": "Barbãr",
+    "brewery": "Brasserie Lefebvre",
+    "beer_type": "Honey Beer"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-08-31T20:01:36+00:00",
+    "serving": "bottle",
+    "rating": null,
+    "beer_name": "Barbãr Bok",
+    "brewery": "Brasserie Lefebvre",
+    "beer_type": "Bock - Single / Traditional"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-31T19:29:53+00:00",
+    "serving": "Unknown",
+    "rating": 3.0,
+    "beer_name": "Oude Gueuze (2023-1)",
+    "brewery": "Boerenerf",
+    "beer_type": "Lambic - Gueuze"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-08-31T19:19:41+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Porter&Sons: Marshmallow",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Porter - Other"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-08-31T19:18:45+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Salt N' Peppa",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Lager - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-31T18:55:58+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Broken Dream",
+    "brewery": "Siren Craft Brew",
+    "beer_type": "Stout - Oatmeal"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-08-31T18:21:29+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Twist & Stout",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Stout - Irish Dry"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-08-31T18:21:00+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Budweiser Budvar B:DARK / Czechvar B:DARK",
+    "brewery": "Budějovický Budvar",
+    "beer_type": "Lager - Tmavé (Czech Dark)"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-31T17:55:55+00:00",
+    "serving": "bottle",
+    "rating": 4.0,
+    "beer_name": "Amber Ale (תקומה)",
+    "brewery": "בירה שקמה Shikma Beer",
+    "beer_type": "Red Ale - American Amber / Red"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-08-31T17:47:31+00:00",
+    "serving": "draft",
+    "rating": 3.7,
+    "beer_name": "OrIPA",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-08-31T17:46:33+00:00",
+    "serving": "draft",
+    "rating": 3.9,
+    "beer_name": "Sessionista",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-31T17:16:23+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Slow And Bitter (מריר ועצלני)",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Bitter - Session / Ordinary"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-31T17:05:42+00:00",
+    "serving": "Unknown",
+    "rating": 2.75,
+    "beer_name": "Anything Gose: Mango",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Sour - Fruited Gose"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-31T16:34:47+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Mexico City Twist",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Lager - Mexican"
+  },
+  {
+    "venue": "ursa",
+    "time": "2025-08-31T16:20:02+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Pinball",
+    "brewery": "BrewDog",
+    "beer_type": "IPA - Imperial / Double New England / Hazy"
+  },
+  {
+    "venue": "ursa",
+    "time": "2025-08-31T16:03:44+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Dogs Allowed",
+    "brewery": "WarPigs Brewpub",
+    "beer_type": "IPA - Imperial / Double New England / Hazy"
+  },
+  {
+    "venue": "ursa",
+    "time": "2025-08-31T16:02:10+00:00",
+    "serving": "can",
+    "rating": null,
+    "beer_name": "Dogs Allowed",
+    "brewery": "WarPigs Brewpub",
+    "beer_type": "IPA - Imperial / Double New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-31T15:46:28+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Pijże",
+    "brewery": "Nepo Brewing",
+    "beer_type": "Pale Ale - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-31T15:38:49+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Anything Gose: Mango",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Sour - Fruited Gose"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-08-31T15:16:26+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Porter&Sons: Marshmallow",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Porter - Other"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-08-31T14:58:35+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Sessionista",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-31T14:45:01+00:00",
+    "serving": "can",
+    "rating": 3.6,
+    "beer_name": "שנה טובה כפרה",
+    "brewery": "Herzl (הרצל)",
+    "beer_type": "IPA - Other"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-08-31T14:41:12+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Givat Batich גבעת בטיח",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Farmhouse Ale - Saison"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-08-31T14:36:16+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "IN THE  SMALL",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Table Beer"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-31T14:13:28+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "שנה טובה כפרה",
+    "brewery": "Herzl (הרצל)",
+    "beer_type": "IPA - Other"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-08-31T11:49:28+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Givat Batich גבעת בטיח",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Farmhouse Ale - Saison"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-08-31T09:52:31+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Anything Gose: Mango",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Sour - Fruited Gose"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-08-31T09:50:36+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "IN THE  SMALL",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Table Beer"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-08-31T09:46:43+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Givat Batich גבעת בטיח",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Farmhouse Ale - Saison"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-08-31T09:45:53+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "OrIPA",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - American"
+  },
   {
     "venue": "lauter",
     "time": "2025-08-30T19:37:02+00:00",
@@ -4180,15 +4450,6 @@ const BEER_DATA = [
     "beer_type": "Stout - White / Golden"
   },
   {
-    "venue": "lauter",
-    "time": "2025-08-21T16:00:28+00:00",
-    "serving": "draft",
-    "rating": 3.5,
-    "beer_name": "KRUSHED IT",
-    "brewery": "Oak & Ash",
-    "beer_type": "IPA - New England / Hazy"
-  },
-  {
     "venue": "b7-beer-house",
     "time": "2025-08-21T16:00:28+00:00",
     "serving": "can",
@@ -4196,6 +4457,15 @@ const BEER_DATA = [
     "beer_name": "Naughty & Nice - White Chocolate & Raspberry",
     "brewery": "Vocation Brewery",
     "beer_type": "Stout - White / Golden"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-21T16:00:28+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "KRUSHED IT",
+    "brewery": "Oak & Ash",
+    "beer_type": "IPA - New England / Hazy"
   },
   {
     "venue": "b7-beer-house",
@@ -28960,8 +29230,8 @@ const BEER_DATA = [
     "venue": "berlin-florentin",
     "time": "2024-12-23T18:37:49+00:00",
     "serving": "bottle",
-    "rating": 3.0,
-    "beer_name": "Christmas Ale",
+    "rating": 4.1,
+    "beer_name": "Christmas Ale (2023)",
     "brewery": "Brouwerij St.Bernardus",
     "beer_type": "Winter Ale"
   },
@@ -28969,8 +29239,8 @@ const BEER_DATA = [
     "venue": "berlin-florentin",
     "time": "2024-12-23T18:37:49+00:00",
     "serving": "bottle",
-    "rating": 4.1,
-    "beer_name": "Christmas Ale (2023)",
+    "rating": 3.0,
+    "beer_name": "Christmas Ale",
     "brewery": "Brouwerij St.Bernardus",
     "beer_type": "Winter Ale"
   },
@@ -35394,8 +35664,8 @@ const BEER_DATA = [
   {
     "venue": "berlin-florentin",
     "time": "2024-01-22T18:42:20+00:00",
-    "serving": "can",
-    "rating": 4.0,
+    "serving": "Unknown",
+    "rating": null,
     "beer_name": "200 Units",
     "brewery": "Brewski",
     "beer_type": "Barleywine - English"
@@ -35403,8 +35673,8 @@ const BEER_DATA = [
   {
     "venue": "berlin-florentin",
     "time": "2024-01-22T18:42:20+00:00",
-    "serving": "Unknown",
-    "rating": null,
+    "serving": "can",
+    "rating": 4.0,
     "beer_name": "200 Units",
     "brewery": "Brewski",
     "beer_type": "Barleywine - English"
