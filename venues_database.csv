@@ -1,4 +1,67 @@
 venue,user,time,serving,data_rating,beer_name,brewery,beer_type
+schnitt-brewing-company,Ohad Tzairi,"Fri, 05 Sep 2025 21:30:26 +0000",draft,3.5,OrIPA,Schnitt Brewing Company﻿,IPA - American
+schnitt-brewing-company,Ohad Tzairi,"Fri, 05 Sep 2025 20:35:54 +0000",draft,4.0,Sessionista,Schnitt Brewing Company﻿,IPA - New England / Hazy
+lauter,Ohad Pinhas,"Fri, 05 Sep 2025 20:24:33 +0000",draft,4.5,Meerts Tilquin à la Kriek de Schaerbeek,Gueuzerie Tilquin,Lambic - Fruit
+lauter,Ohad Tzairi,"Fri, 05 Sep 2025 20:23:35 +0000",draft,4.25,Meerts Tilquin à la Kriek de Schaerbeek,Gueuzerie Tilquin,Lambic - Fruit
+lauter,Ohad Tzairi,"Fri, 05 Sep 2025 20:17:13 +0000",bottle,3.75,Sweet Dreams,Oak & Ash,Sour - Fruited
+schnitt-brewing-company,moti_shatz_0409,"Fri, 05 Sep 2025 20:00:14 +0000",draft,3.5,OrIPA,Schnitt Brewing Company﻿,IPA - American
+lauter,nadavbd,"Fri, 05 Sep 2025 19:59:09 +0000",bottle,4.25,Strong Sour (2024),Shapiro (שפירא),Sour - Other
+lauter,Ohad Pinhas,"Fri, 05 Sep 2025 19:51:39 +0000",draft,3.25,Porter&Sons: Marshmallow,Schnitt Brewing Company﻿,Porter - Other
+lauter,Zeev,"Fri, 05 Sep 2025 17:50:26 +0000",draft,4.25,Meerts Tilquin à la Kriek de Schaerbeek,Gueuzerie Tilquin,Lambic - Fruit
+lauter,Zeev,"Fri, 05 Sep 2025 17:44:51 +0000",draft,3.5,Givat Batich גבעת בטיח,Schnitt Brewing Company﻿,Farmhouse Ale - Saison
+lauter,Yanai Ben- Alon,"Fri, 05 Sep 2025 17:41:44 +0000",draft,4.0,Paleraiser,Schnitt Brewing Company﻿,Pale Ale - American
+schnitt-brewing-company,Adam Berelowitz,"Fri, 05 Sep 2025 17:03:20 +0000",draft,3.8,IN THE  SMALL,Schnitt Brewing Company﻿,Table Beer
+lauter,Eylon,"Fri, 05 Sep 2025 16:36:22 +0000",draft,4.5,Meerts Tilquin à la Kriek de Schaerbeek,Gueuzerie Tilquin,Lambic - Fruit
+schnitt-brewing-company,Eylon,"Fri, 05 Sep 2025 16:19:06 +0000",draft,3.75,Anything Gose: Mango,Schnitt Brewing Company﻿,Sour - Fruited Gose
+schnitt-brewing-company,Eylon,"Fri, 05 Sep 2025 16:11:53 +0000",draft,3.5,Sessionista,Schnitt Brewing Company﻿,IPA - New England / Hazy
+lauter,Raz Ko,"Fri, 05 Sep 2025 16:10:10 +0000",draft,3.3,Kimat Gornisht,Schnitt Brewing Company﻿,Non-Alcoholic - Lager
+schnitt-brewing-company,Eylon,"Fri, 05 Sep 2025 16:08:44 +0000",draft,3.5,Porter&Sons: Marshmallow,Schnitt Brewing Company﻿,Porter - Other
+schnitt-brewing-company,Eylon,"Fri, 05 Sep 2025 16:07:21 +0000",draft,3.0,Tea Party: Green Tea And Jasmine,Schnitt Brewing Company﻿,Pale Ale - Other
+lauter,Raz Ko,"Fri, 05 Sep 2025 16:03:44 +0000",draft,4.2,Meerts Tilquin à la Kriek de Schaerbeek,Gueuzerie Tilquin,Lambic - Fruit
+lauter,Raz Ko,"Fri, 05 Sep 2025 16:00:34 +0000",draft,3.7,Weissman,Schnitt Brewing Company﻿,Wheat Beer - Hefeweizen
+schnitt-brewing-company,Eylon,"Fri, 05 Sep 2025 16:00:30 +0000",draft,3.0,IN THE  SMALL,Schnitt Brewing Company﻿,Table Beer
+lauter,Shmupi Koto,"Fri, 05 Sep 2025 15:46:16 +0000",draft,3.0,Tea Party: Green Tea And Jasmine,Schnitt Brewing Company﻿,Pale Ale - Other
+lauter,Omri Gill,"Fri, 05 Sep 2025 15:33:11 +0000",draft,4.0,Meerts Tilquin à la Kriek de Schaerbeek,Gueuzerie Tilquin,Lambic - Fruit
+schnitt-brewing-company,Omri Gill,"Fri, 05 Sep 2025 15:32:11 +0000",draft,3.75,Paleraiser,Schnitt Brewing Company﻿,Pale Ale - American
+lauter,David Siegel,"Fri, 05 Sep 2025 15:27:53 +0000",,4.5,Meerts Tilquin à la Kriek de Schaerbeek,Gueuzerie Tilquin,Lambic - Fruit
+schnitt-brewing-company,Vasa,"Fri, 05 Sep 2025 15:21:41 +0000",draft,3.75,Paleraiser,Schnitt Brewing Company﻿,Pale Ale - American
+lauter,Raz Ko,"Fri, 05 Sep 2025 15:12:37 +0000",draft,3.6,Porter&Sons: Marshmallow,Schnitt Brewing Company﻿,Porter - Other
+lauter,Raz Ko,"Fri, 05 Sep 2025 15:11:50 +0000",draft,3.3,Givat Batich גבעת בטיח,Schnitt Brewing Company﻿,Farmhouse Ale - Saison
+lauter,Shmupi Koto,"Fri, 05 Sep 2025 15:05:25 +0000",draft,3.5,Porter&Sons: Marshmallow,Schnitt Brewing Company﻿,Porter - Other
+lauter,Shmupi Koto,"Fri, 05 Sep 2025 15:04:30 +0000",draft,3.0,Givat Batich גבעת בטיח,Schnitt Brewing Company﻿,Farmhouse Ale - Saison
+schnitt-brewing-company,David Siegel,"Fri, 05 Sep 2025 14:52:32 +0000",draft,2.75,Paleraiser,Schnitt Brewing Company﻿,Pale Ale - American
+lauter,TheOnlyMagicalNoob,"Fri, 05 Sep 2025 14:47:06 +0000",bottle,3.75,Summer Vibes,Oak & Ash,Sour - Smoothie / Pastry
+lauter,Tom Lahav,"Fri, 05 Sep 2025 14:39:13 +0000",,4.0,Meerts Tilquin à la Kriek de Schaerbeek,Gueuzerie Tilquin,Lambic - Fruit
+lauter,Shmupi Koto,"Fri, 05 Sep 2025 14:38:11 +0000",draft,4.3,Meerts Tilquin à la Kriek de Schaerbeek,Gueuzerie Tilquin,Lambic - Fruit
+schnitt-brewing-company,Vladimir Kanevsky,"Fri, 05 Sep 2025 13:11:18 +0000",draft,4.5,Paleraiser,Schnitt Brewing Company﻿,Pale Ale - American
+schnitt-brewing-company,Yoav Kowalski,"Fri, 05 Sep 2025 13:08:03 +0000",,3.5,Paleraiser,Schnitt Brewing Company﻿,Pale Ale - American
+lauter,Yoav Kowalski,"Fri, 05 Sep 2025 12:42:53 +0000",draft,4.25,Meerts Tilquin à la Kriek de Schaerbeek,Gueuzerie Tilquin,Lambic - Fruit
+lauter,Yanai Ben- Alon,"Fri, 05 Sep 2025 12:32:23 +0000",bottle,4.5,Samichlaus Classic (2024),Schloss Eggenberg,Bock - Doppelbock
+lauter,Yanai Ben- Alon,"Fri, 05 Sep 2025 12:31:53 +0000",bottle,4.75,Samichlaus Schwarzes (2022),Schloss Eggenberg,Bock - Doppelbock
+lauter,Yanai Ben- Alon,"Fri, 05 Sep 2025 12:30:30 +0000",bottle,4.0,Genesis - ג'נסיס,Suitcase Beer Co - בירות מזוודה,Sour - Other
+lauter,Eylon Hadar,"Fri, 05 Sep 2025 12:30:23 +0000",bottle,3.5,Golden,Taybeh Brewing Company,Lager - Pale
+lauter,Yanai Ben- Alon,"Fri, 05 Sep 2025 12:29:59 +0000",bottle,3.0,Marshmallow Madness,Oak & Ash,Porter - Other
+lauter,Eylon Hadar,"Fri, 05 Sep 2025 12:29:43 +0000",bottle,4.0,Night Shift 2024 - Imperial Milk Porter Aged In Pedro Ximénez Sherry & Rum Barrels W. Sour Cherry & Poppy Seed,HORIZONT Brewing,Porter - Imperial / Double
+lauter,Yanai Ben- Alon,"Fri, 05 Sep 2025 12:29:38 +0000",bottle,4.0,קלאסית,בירה קיבוץ,Lager - Helles
+lauter,Eylon Hadar,"Fri, 05 Sep 2025 12:29:17 +0000",bottle,4.0,Night Shift Vintage 2024 - Triticale Wine Aged In Gemenc Whiskey & Tennessee Whiskey Barrels,HORIZONT Brewing,Specialty Grain
+lauter,Yanai Ben- Alon,"Fri, 05 Sep 2025 12:28:45 +0000",bottle,3.25,Christmas Ale (2024),Brouwerij St.Bernardus,Winter Ale
+lauter,Yanai Ben- Alon,"Fri, 05 Sep 2025 12:28:24 +0000",bottle,4.25,Abt 12 (2024),Brouwerij St.Bernardus,Belgian Quadrupel
+lauter,Yanai Ben- Alon,"Fri, 05 Sep 2025 12:28:02 +0000",bottle,3.75,Golden,Taybeh Brewing Company,Lager - Pale
+lauter,Yanai Ben- Alon,"Fri, 05 Sep 2025 12:27:44 +0000",bottle,3.5,Dark,Taybeh Brewing Company,Lager - Dark
+lauter,Yanai Ben- Alon,"Fri, 05 Sep 2025 12:27:21 +0000",bottle,4.25,Night Shift 2024 - Imperial Milk Porter Aged In Pedro Ximénez Sherry & Rum Barrels W. Sour Cherry & Poppy Seed,HORIZONT Brewing,Porter - Imperial / Double
+lauter,Yanai Ben- Alon,"Fri, 05 Sep 2025 12:27:04 +0000",bottle,4.0,Night Shift Vintage 2024 - Triticale Wine Aged In Gemenc Whiskey & Tennessee Whiskey Barrels,HORIZONT Brewing,Specialty Grain
+lauter,Yanai Ben- Alon,"Fri, 05 Sep 2025 12:26:44 +0000",bottle,4.25,Night Shift Vintage 2024 - Russian Imperial Stout Aged In Pedro Ximénez Sherry & Rum Barrels W. Orange & Chocolate,HORIZONT Brewing,Stout - Russian Imperial
+lauter,Yanai Ben- Alon,"Fri, 05 Sep 2025 12:26:24 +0000",bottle,4.25,Night Shift Vintage 2024 - Imperial Pastry Stout Aged In Bourbon Barrels With Hazelnut & Caramel,HORIZONT Brewing,Stout - Imperial / Double Pastry
+lauter,Yanai Ben- Alon,"Fri, 05 Sep 2025 12:25:58 +0000",bottle,3.0,Hitachino Nest Espresso Stout,Kiuchi Brewery,Stout - Coffee
+lauter,Yanai Ben- Alon,"Fri, 05 Sep 2025 12:25:36 +0000",bottle,4.25,Double IPA 2025 (Rakau & Mosaic),Shapiro (שפירא),IPA - Imperial / Double
+lauter,Yanai Ben- Alon,"Fri, 05 Sep 2025 12:24:45 +0000",bottle,3.5,גלו-ביר,New Pioneer Brewing Co - חלוץ חדש,Winter Ale
+lauter,Yanai Ben- Alon,"Fri, 05 Sep 2025 12:24:11 +0000",draft,4.75,Meerts Tilquin à la Kriek de Schaerbeek,Gueuzerie Tilquin,Lambic - Fruit
+schnitt-brewing-company,nadavbd,"Fri, 05 Sep 2025 12:17:16 +0000",draft,4.25,Porter&Sons: Marshmallow,Schnitt Brewing Company﻿,Porter - Other
+schnitt-brewing-company,nadavbd,"Fri, 05 Sep 2025 12:14:56 +0000",draft,4.0,Paleraiser,Schnitt Brewing Company﻿,Pale Ale - American
+schnitt-brewing-company,nadavbd,"Fri, 05 Sep 2025 12:13:51 +0000",draft,3.75,Atslananas (עצלננס) Smoothie NEIPA,Schnitt Brewing Company﻿,IPA - Fruited
+schnitt-brewing-company,nadavbd,"Fri, 05 Sep 2025 12:10:08 +0000",draft,4.0,Triple Hope,Schnitt Brewing Company﻿,IPA - New England / Hazy
+schnitt-brewing-company,Tomer Brisker,"Fri, 05 Sep 2025 10:36:40 +0000",,,Sessionista,Schnitt Brewing Company﻿,IPA - New England / Hazy
+lauter,Eden Dupont,"Fri, 05 Sep 2025 08:09:46 +0000",draft,5.0,Meerts Tilquin à la Kriek de Schaerbeek,Gueuzerie Tilquin,Lambic - Fruit
 schnitt-brewing-company,Nir Langer,"Thu, 04 Sep 2025 21:30:35 +0000",,,Paleraiser,Schnitt Brewing Company﻿,Pale Ale - American
 lauter,Elad Schitrit,"Thu, 04 Sep 2025 21:19:50 +0000",bottle,4.75,Kurg (Cellar Series),Põhjala,Stout - Imperial / Double
 schnitt-brewing-company,Dr Troubles,"Thu, 04 Sep 2025 21:05:01 +0000",draft,3.5,Lazy N'Hazy,Schnitt Brewing Company﻿,IPA - New England / Hazy
@@ -1547,8 +1610,8 @@ lauter,Yaron Sh,"Tue, 05 Aug 2025 19:29:11 +0000",,4.0,SLUSHY XL: Haha!,450 Nort
 lauter,Kobi,"Tue, 05 Aug 2025 19:29:05 +0000",,4.3,Hydralisk,Spanish Marie Brewery,Sour - Smoothie / Pastry
 lauter,Yosef Dahan,"Tue, 05 Aug 2025 19:28:30 +0000",can,3.75,SLUSHY XL: Haha!,450 North Brewing Company,Sour - Smoothie / Pastry
 lauter,Shaul A,"Tue, 05 Aug 2025 19:26:45 +0000",,4.25,SLUSHY XL: Haha!,450 North Brewing Company,Sour - Smoothie / Pastry
-lauter,Mikhail Stolov,"Tue, 05 Aug 2025 19:24:07 +0000",can,4.5,SLUSHY XL: Haha!,450 North Brewing Company,Sour - Smoothie / Pastry
 lauter,Oren Sleepwalker,"Tue, 05 Aug 2025 19:24:07 +0000",,,SLUSHY XL: Haha!,450 North Brewing Company,Sour - Smoothie / Pastry
+lauter,Mikhail Stolov,"Tue, 05 Aug 2025 19:24:07 +0000",can,4.5,SLUSHY XL: Haha!,450 North Brewing Company,Sour - Smoothie / Pastry
 lauter,Kobi,"Tue, 05 Aug 2025 19:21:59 +0000",,4.3,SLUSHY XL: Haha!,450 North Brewing Company,Sour - Smoothie / Pastry
 lauter,Shaul A,"Tue, 05 Aug 2025 19:16:22 +0000",,4.25,Monstrous Oils,Cellarmaker Brewing Company,IPA - Quadruple
 lauter,Yaron Sh,"Tue, 05 Aug 2025 19:15:56 +0000",,4.25,Monstrous Oils,Cellarmaker Brewing Company,IPA - Quadruple
@@ -1580,8 +1643,8 @@ lauter,Mikhail Stolov,"Tue, 05 Aug 2025 18:52:25 +0000",,3.25,OUOUOU,4BREWERS,So
 lauter,Oren Sleepwalker,"Tue, 05 Aug 2025 18:50:13 +0000",,,Whakahoa,Factory Brewing,IPA - Triple New England / Hazy
 schnitt-brewing-company,Arkady Gerasimuk,"Tue, 05 Aug 2025 18:49:49 +0000",draft,3.5,Twist & Stout,Schnitt Brewing Company﻿,Stout - Irish Dry
 schnitt-brewing-company,Yaniv Gorodetsky,"Tue, 05 Aug 2025 18:49:42 +0000",draft,3.0,Twist & Stout,Schnitt Brewing Company﻿,Stout - Irish Dry
-lauter,Yosef Dahan,"Tue, 05 Aug 2025 18:49:38 +0000",can,4.0,Whakahoa,Factory Brewing,IPA - Triple New England / Hazy
 lauter,Yaron Sh,"Tue, 05 Aug 2025 18:49:38 +0000",,4.5,Whakahoa,Factory Brewing,IPA - Triple New England / Hazy
+lauter,Yosef Dahan,"Tue, 05 Aug 2025 18:49:38 +0000",can,4.0,Whakahoa,Factory Brewing,IPA - Triple New England / Hazy
 lauter,Yaniv Alal,"Tue, 05 Aug 2025 18:49:26 +0000",draft,4.25,Whakahoa,Factory Brewing,IPA - Triple New England / Hazy
 lauter,Shaul A,"Tue, 05 Aug 2025 18:49:14 +0000",,4.5,Whakahoa,Factory Brewing,IPA - Triple New England / Hazy
 lauter,Yaron Sh,"Tue, 05 Aug 2025 18:48:30 +0000",,4.0,Magical Path,Shred Beer Company,IPA - New England / Hazy
@@ -2366,8 +2429,8 @@ lauter,Shmupi Koto,"Sat, 26 Jul 2025 15:40:24 +0000",can,3.7,Smoothie Bowl - Pea
 lauter,David Siegel,"Sat, 26 Jul 2025 15:38:40 +0000",,4.25,Smoothie Bowl - Peachy Dragon,Nepo Brewing,Sour - Smoothie / Pastry
 lauter,Adam Berelowitz,"Sat, 26 Jul 2025 15:35:23 +0000",can,4.3,Smoothie Bowl - Peachy Dragon,Nepo Brewing,Sour - Smoothie / Pastry
 schnitt-brewing-company,Omri Gill,"Sat, 26 Jul 2025 15:33:39 +0000",draft,3.75,Mexico City Twist,Schnitt Brewing Company﻿,Lager - Mexican
-lauter,Adam Berelowitz,"Sat, 26 Jul 2025 15:22:08 +0000",can,4.2,Smoothie Bowl: Pistachio Fluff,Nepo Brewing,Sour - Smoothie / Pastry
 lauter,David Siegel,"Sat, 26 Jul 2025 15:22:08 +0000",,4.0,Pijże,Nepo Brewing,Pale Ale - New England / Hazy
+lauter,Adam Berelowitz,"Sat, 26 Jul 2025 15:22:08 +0000",can,4.2,Smoothie Bowl: Pistachio Fluff,Nepo Brewing,Sour - Smoothie / Pastry
 lauter,Adam Berelowitz,"Sat, 26 Jul 2025 15:21:39 +0000",can,4.3,Pijże,Nepo Brewing,Pale Ale - New England / Hazy
 lauter,David Siegel,"Sat, 26 Jul 2025 15:20:22 +0000",,4.25,Smoothie Bowl: Pistachio Fluff,Nepo Brewing,Sour - Smoothie / Pastry
 lauter,Anton B,"Sat, 26 Jul 2025 15:17:20 +0000",can,,Windy Hill,Mikkeller,IPA - New England / Hazy
@@ -2482,8 +2545,8 @@ lauter,Sivan Nagola,"Fri, 25 Jul 2025 18:16:52 +0000",draft,4.5,Rosé De Gambrin
 lauter,Shmupi Koto,"Fri, 25 Jul 2025 18:16:45 +0000",draft,4.6,Sang Bleu 2024 - Draft Version,Brasserie Cantillon,Lambic - Fruit
 lauter,Yahly Guttman,"Fri, 25 Jul 2025 18:16:17 +0000",,5.0,Fou' Foune 2023 - Draft Version,Brasserie Cantillon,Lambic - Fruit
 lauter,Sivan Nagola,"Fri, 25 Jul 2025 18:15:54 +0000",draft,4.0,Kriek 2025 - Draft Version,Brasserie Cantillon,Lambic - Kriek
-lauter,Sivan Nagola,"Fri, 25 Jul 2025 18:15:23 +0000",draft,4.0,Cuvée Saint-Gilloise 2023 - Draft Version,Brasserie Cantillon,Lambic - Traditional
 lauter,Eli Smikin,"Fri, 25 Jul 2025 18:15:23 +0000",draft,4.8,Fou' Foune 2023 - Draft Version,Brasserie Cantillon,Lambic - Fruit
+lauter,Sivan Nagola,"Fri, 25 Jul 2025 18:15:23 +0000",draft,4.0,Cuvée Saint-Gilloise 2023 - Draft Version,Brasserie Cantillon,Lambic - Traditional
 lauter,Sivan Nagola,"Fri, 25 Jul 2025 18:14:47 +0000",draft,4.75,Gueuze 2024 - Draft Version,Brasserie Cantillon,Lambic - Gueuze
 lauter,Sivan Nagola,"Fri, 25 Jul 2025 18:14:07 +0000",draft,4.0,Grand Cru Bruocsella - Draft Version (2021-2022),Brasserie Cantillon,Lambic - Traditional
 lauter,Itai Snai,"Fri, 25 Jul 2025 18:10:14 +0000",,4.5,Fou' Foune 2023 - Draft Version,Brasserie Cantillon,Lambic - Fruit
@@ -4243,8 +4306,8 @@ berlin-florentin,Yaron Sh,"Mon, 22 Jan 2024 18:49:44 +0000",can,4.0,"¡Buena Par
 berlin-florentin,Shmupi Koto,"Mon, 22 Jan 2024 18:49:41 +0000",can,3.8,"¡Buena Para El Papa! ¿Si, No?",Brewski,Stout - Imperial / Double Pastry
 berlin-florentin,Shmupi Koto,"Mon, 22 Jan 2024 18:49:04 +0000",can,4.0,200 Units,Brewski,Barleywine - English
 berlin-florentin,Tom Oppenheim,"Mon, 22 Jan 2024 18:48:49 +0000",can,3.5,"¡Buena Para El Papa! ¿Si, No?",Brewski,Stout - Imperial / Double Pastry
-berlin-florentin,ori shuster,"Mon, 22 Jan 2024 18:42:20 +0000",can,4.0,200 Units,Brewski,Barleywine - English
 berlin-florentin,Yaron Sh,"Mon, 22 Jan 2024 18:42:20 +0000",,,200 Units,Brewski,Barleywine - English
+berlin-florentin,ori shuster,"Mon, 22 Jan 2024 18:42:20 +0000",can,4.0,200 Units,Brewski,Barleywine - English
 berlin-florentin,Yaron Sh,"Mon, 22 Jan 2024 18:41:52 +0000",,,Strawberry Pie,Brewski,Sour - Smoothie / Pastry
 berlin-florentin,Itai Snai,"Mon, 22 Jan 2024 18:40:50 +0000",,3.5,200 Units,Brewski,Barleywine - English
 berlin-florentin,Mikhail Stolov,"Mon, 22 Jan 2024 18:38:56 +0000",,3.75,200 Units,Brewski,Barleywine - English
