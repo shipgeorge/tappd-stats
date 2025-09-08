@@ -1,4 +1,103 @@
 venue,user,time,serving,data_rating,beer_name,brewery,beer_type
+lauter,Yoav Rozenfeld,"Sun, 07 Sep 2025 20:06:58 +0000",can,3.0,Broken Dream,Siren Craft Brew,Stout - Oatmeal
+lauter,Ido Cohen,"Sun, 07 Sep 2025 20:04:00 +0000",bottle,4.6,Ambrosia (2023),Boerenerf,Mead - Melomel
+lauter,Lin K.,"Sun, 07 Sep 2025 19:58:18 +0000",,4.75,Ambrosia (2023),Boerenerf,Mead - Melomel
+b7-beer-house,Gilad Neeman,"Sun, 07 Sep 2025 19:54:31 +0000",bottle,4.5,תוצרת הארץ,New Pioneer Brewing Co - חלוץ חדש,Pale Ale - American
+lauter,Lin K.,"Sun, 07 Sep 2025 19:54:22 +0000",bottle,,Kriek 100% Lambic Bio (2025),Brasserie Cantillon,Lambic - Kriek
+lauter,Lin K.,"Sun, 07 Sep 2025 19:53:48 +0000",,,Framboos Kriek Tonka (2019),Bokke,Lambic - Fruit
+lauter,Lin K.,"Sun, 07 Sep 2025 19:52:30 +0000",,,Pay In Blood,Métaphore,Wild Ale - Other
+lauter,Lin K.,"Sun, 07 Sep 2025 19:51:54 +0000",,,Lou Pepe Kriek (2016),Brasserie Cantillon,Lambic - Kriek
+lauter,Lin K.,"Sun, 07 Sep 2025 19:51:31 +0000",bottle,,Bourbon Kriek (2022),Bofkont,Lambic - Kriek
+lauter,Lin K.,"Sun, 07 Sep 2025 19:50:44 +0000",bottle,3.75,Oude Schaarbeekse Kriek Millésime,Brouwerij Boon,Lambic - Kriek
+lauter,Lin K.,"Sun, 07 Sep 2025 19:50:18 +0000",bottle,4.25,3 Fonteinen Intens Rood (Intense Red),Brouwerij 3 Fonteinen,Lambic - Kriek
+lauter,Ido Cohen,"Sun, 07 Sep 2025 19:50:00 +0000",bottle,4.1,Saison Rood Fruit - Kers/Kriek (2019),Antidoot - Wilde Fermenten,Farmhouse Ale - Saison
+lauter,Lin K.,"Sun, 07 Sep 2025 19:49:37 +0000",bottle,3.25,Gummy Bear Blue Label (2020),Bofkont,Lambic - Kriek
+lauter,Lin K.,"Sun, 07 Sep 2025 19:48:47 +0000",bottle,4.0,Oude Kriek (Vieille) (2017),Oud Beersel,Lambic - Kriek
+lauter,Ido Cohen,"Sun, 07 Sep 2025 19:48:00 +0000",,4.1,Kriek 100% Lambic Bio (2025),Brasserie Cantillon,Lambic - Kriek
+lauter,Lin K.,"Sun, 07 Sep 2025 19:46:41 +0000",bottle,4.25,Zomerkriek (Bottle Version) (2023),Boerenerf,Lambic - Kriek
+lauter,Lin K.,"Sun, 07 Sep 2025 19:46:14 +0000",bottle,4.5,Oude Kriek de Schaerbeek Tilquin à l'ancienne (2023-2024),Gueuzerie Tilquin,Lambic - Kriek
+lauter,Ido Cohen,"Sun, 07 Sep 2025 19:46:09 +0000",bottle,4.4,Framboos Kriek Tonka (2019),Bokke,Lambic - Fruit
+lauter,Lin K.,"Sun, 07 Sep 2025 19:45:44 +0000",bottle,4.5,3 Fonteinen Oude Kriek Bio (season 22|23) Blend No. 40,Brouwerij 3 Fonteinen,Lambic - Kriek
+lauter,Ido Cohen,"Sun, 07 Sep 2025 19:45:09 +0000",bottle,4.2,3 Fonteinen Schaarbeekse Kriek Oogst 2018 (season 18|19) Blend No. 99,Brouwerij 3 Fonteinen,Lambic - Kriek
+lauter,Lin K.,"Sun, 07 Sep 2025 19:44:46 +0000",bottle,4.25,Kriek 2023-1,Boerenerf,Lambic - Kriek
+lauter,Assaf Levanon,"Sun, 07 Sep 2025 19:44:42 +0000",draft,4.0,Meerts Tilquin à la Kriek de Schaerbeek,Gueuzerie Tilquin,Lambic - Fruit
+lauter,Ido Cohen,"Sun, 07 Sep 2025 19:44:27 +0000",bottle,4.1,Pay In Blood,Métaphore,Wild Ale - Other
+lauter,Lin K.,"Sun, 07 Sep 2025 19:43:50 +0000",bottle,4.5,Kriek 100% Lambic (2024),Brasserie Cantillon,Lambic - Kriek
+lauter,Ido Cohen,"Sun, 07 Sep 2025 19:43:21 +0000",,4.2,Lou Pepe Kriek (2016),Brasserie Cantillon,Lambic - Kriek
+lauter,barak luzon,"Sun, 07 Sep 2025 19:43:13 +0000",bottle,4.25,Kriek 1,Galileo Brewery,"Homebrew, Lambic - Kriek"
+lauter,Ido Cohen,"Sun, 07 Sep 2025 19:42:35 +0000",bottle,3.8,Bourbon Kriek (2022),Bofkont,Lambic - Kriek
+lauter,Lin K.,"Sun, 07 Sep 2025 19:41:41 +0000",,4.0,Kriek Lambiek,Geuzestekerij De Cam,Lambic - Kriek
+lauter,Ido Cohen,"Sun, 07 Sep 2025 19:41:14 +0000",bottle,4.2,Oude Schaarbeekse Kriek Millésime (2023),Brouwerij Boon,Lambic - Kriek
+lauter,Lin K.,"Sun, 07 Sep 2025 19:40:06 +0000",bottle,4.0,Kriek Brut (2024),Brouwerij Liefmans,Lambic - Kriek
+lauter,Ido Cohen,"Sun, 07 Sep 2025 19:40:00 +0000",bottle,4.0,3 Fonteinen Intens Rood (season 18|19) Blend No. 112,Brouwerij 3 Fonteinen,Lambic - Kriek
+lauter,barak luzon,"Sun, 07 Sep 2025 19:38:35 +0000",bottle,4.0,Saison Rood Fruit - Kers/Kriek (2019),Antidoot - Wilde Fermenten,Farmhouse Ale - Saison
+lauter,Ido Cohen,"Sun, 07 Sep 2025 19:38:00 +0000",bottle,4.2,Kriek 100% Lambic (2024),Brasserie Cantillon,Lambic - Kriek
+lauter,barak luzon,"Sun, 07 Sep 2025 19:37:44 +0000",bottle,5.0,Framboos Kriek Tonka (2019),Bokke,Lambic - Fruit
+lauter,Ido Cohen,"Sun, 07 Sep 2025 19:37:12 +0000",bottle,3.9,Gummy Bear Blue Label (2020),Bofkont,Lambic - Kriek
+lauter,barak luzon,"Sun, 07 Sep 2025 19:36:30 +0000",bottle,4.75,3 Fonteinen Schaarbeekse Kriek Oogst 2018 (season 18|19) Blend No. 99,Brouwerij 3 Fonteinen,Lambic - Kriek
+lauter,Ido Cohen,"Sun, 07 Sep 2025 19:36:26 +0000",bottle,4.1,Oude Kriek (Vieille) (2017),Oud Beersel,Lambic - Kriek
+lauter,Ido Cohen,"Sun, 07 Sep 2025 19:35:26 +0000",bottle,4.3,Zomerkriek (Bottle Version) (2023),Boerenerf,Lambic - Kriek
+lauter,barak luzon,"Sun, 07 Sep 2025 19:35:24 +0000",bottle,4.25,Pay In Blood,Métaphore,Wild Ale - Other
+lauter,Ido Cohen,"Sun, 07 Sep 2025 19:35:00 +0000",bottle,4.1,Oude Kriek de Schaerbeek Tilquin à l'ancienne (2023-2024),Gueuzerie Tilquin,Lambic - Kriek
+lauter,barak luzon,"Sun, 07 Sep 2025 19:34:52 +0000",bottle,4.5,Lou Pepe Kriek (2016),Brasserie Cantillon,Lambic - Kriek
+lauter,Dor_eilon,"Sun, 07 Sep 2025 19:34:25 +0000",draft,3.75,Givat Batich גבעת בטיח,Schnitt Brewing Company﻿,Farmhouse Ale - Saison
+lauter,Ido Cohen,"Sun, 07 Sep 2025 19:34:24 +0000",bottle,4.3,3 Fonteinen Oude Kriek Bio (season 22|23) Blend No. 40,Brouwerij 3 Fonteinen,Lambic - Kriek
+lauter,barak luzon,"Sun, 07 Sep 2025 19:34:23 +0000",bottle,3.75,Bourbon Kriek (2022),Bofkont,Lambic - Kriek
+lauter,Dor_eilon,"Sun, 07 Sep 2025 19:33:46 +0000",draft,4.0,Porter&Sons: Marshmallow,Schnitt Brewing Company﻿,Porter - Other
+lauter,barak luzon,"Sun, 07 Sep 2025 19:33:42 +0000",bottle,4.25,Oude Schaarbeekse Kriek Millésime (2023),Brouwerij Boon,Lambic - Kriek
+lauter,Ido Cohen,"Sun, 07 Sep 2025 19:33:00 +0000",bottle,4.3,Kriek 2023-1,Boerenerf,Lambic - Kriek
+lauter,Ido Cohen,"Sun, 07 Sep 2025 19:32:00 +0000",bottle,4.2,Kriek 100% Lambic (2024),Brasserie Cantillon,Lambic - Kriek
+lauter,barak luzon,"Sun, 07 Sep 2025 19:31:48 +0000",bottle,4.0,Gummy Bear Blue Label (2020),Bofkont,Lambic - Kriek
+lauter,Ido Cohen,"Sun, 07 Sep 2025 19:31:16 +0000",bottle,,Kriek (2024),Geuzestekerij De Cam,Lambic - Kriek
+lauter,barak luzon,"Sun, 07 Sep 2025 19:31:10 +0000",bottle,4.25,Oude Kriek (Vieille) (2017),Oud Beersel,Lambic - Kriek
+lauter,Ido Cohen,"Sun, 07 Sep 2025 19:31:00 +0000",bottle,3.5,Kriek Brut (2024),Brouwerij Liefmans,Lambic - Kriek
+lauter,barak luzon,"Sun, 07 Sep 2025 19:30:22 +0000",bottle,4.5,Zomerkriek (Bottle Version) (2023),Boerenerf,Lambic - Kriek
+lauter,Ido Cohen,"Sun, 07 Sep 2025 19:30:00 +0000",bottle,4.1,Kriek 1,Galileo Brewery,"Homebrew, Lambic - Kriek"
+lauter,barak luzon,"Sun, 07 Sep 2025 19:28:51 +0000",bottle,4.5,3 Fonteinen Oude Kriek Bio (season 22|23) Blend No. 40,Brouwerij 3 Fonteinen,Lambic - Kriek
+lauter,barak luzon,"Sun, 07 Sep 2025 19:27:59 +0000",bottle,4.0,Kriek 2023-1,Boerenerf,Lambic - Kriek
+lauter,Zvika Rosenthal,"Sun, 07 Sep 2025 19:27:07 +0000",bottle,4.3,Ambrosia (2023),Boerenerf,Mead - Melomel
+lauter,barak luzon,"Sun, 07 Sep 2025 19:26:50 +0000",bottle,3.75,Kriek Lambiek,Geuzestekerij De Cam,Lambic - Kriek
+lauter,barak luzon,"Sun, 07 Sep 2025 19:24:09 +0000",,4.0,Kriek Brut (2024),Brouwerij Liefmans,Lambic - Kriek
+schnitt-brewing-company,Yarden Greenpeter,"Sun, 07 Sep 2025 18:42:14 +0000",draft,3.5,Salt N' Peppa,Schnitt Brewing Company﻿,Lager - Other
+lauter,Lin K.,"Sun, 07 Sep 2025 18:39:22 +0000",bottle,4.75,Berry Me A Sandwich,Schmulz,Mead - Other
+schnitt-brewing-company,Ido Cohen,"Sun, 07 Sep 2025 18:38:50 +0000",bottle,4.4,Berry Me A Sandwich,Schmulz,Mead - Other
+lauter,Ilya Markovsky,"Sun, 07 Sep 2025 18:37:14 +0000",,5.0,Berry Me A Sandwich,Schmulz,Mead - Other
+schnitt-brewing-company,ron_nefyodov,"Sun, 07 Sep 2025 18:36:18 +0000",draft,4.0,Givat Batich גבעת בטיח,Schnitt Brewing Company﻿,Farmhouse Ale - Saison
+schnitt-brewing-company,David Siegel,"Sun, 07 Sep 2025 16:49:14 +0000",draft,3.75,"Same Schnitt, Different Hop: Amarillo",Schnitt Brewing Company﻿,Pale Ale - Other
+lauter,Lin K.,"Sun, 07 Sep 2025 16:23:07 +0000",draft,4.25,Meerts Tilquin à la Kriek de Schaerbeek,Gueuzerie Tilquin,Lambic - Fruit
+lauter,Lin K.,"Sun, 07 Sep 2025 16:14:12 +0000",draft,3.75,Porter&Sons: Marshmallow,Schnitt Brewing Company﻿,Porter - Other
+schnitt-brewing-company,Ido Cohen,"Sun, 07 Sep 2025 16:03:39 +0000",,3.9,Anything Gose: Mango,Schnitt Brewing Company﻿,Sour - Fruited Gose
+schnitt-brewing-company,Ido Cohen,"Sun, 07 Sep 2025 15:58:39 +0000",,3.4,Givat Batich גבעת בטיח,Schnitt Brewing Company﻿,Farmhouse Ale - Saison
+schnitt-brewing-company,Ido Cohen,"Sun, 07 Sep 2025 15:55:27 +0000",,3.7,Sessionista,Schnitt Brewing Company﻿,IPA - New England / Hazy
+schnitt-brewing-company,Ido Cohen,"Sun, 07 Sep 2025 15:52:56 +0000",,3.7,Paleraiser,Schnitt Brewing Company﻿,Pale Ale - American
+porter-and-sons,Yoav Rozenfeld,"Sun, 07 Sep 2025 15:49:00 +0000",draft,4.25,Soundwave IPA,Siren Craft Brew,IPA - American
+lauter,Danielle Yona,"Sun, 07 Sep 2025 15:32:21 +0000",draft,,Meerts Tilquin à la Kriek de Schaerbeek,Gueuzerie Tilquin,Lambic - Fruit
+lauter,Aviad Attia,"Sun, 07 Sep 2025 15:32:20 +0000",draft,,Meerts Tilquin à la Kriek de Schaerbeek,Gueuzerie Tilquin,Lambic - Fruit
+porter-and-sons,Ben54321,"Sun, 07 Sep 2025 15:31:06 +0000",draft,4.25,Lumina,Siren Craft Brew,IPA - Session
+schnitt-brewing-company,Danielle Yona,"Sun, 07 Sep 2025 15:30:48 +0000",,,Givat Batich גבעת בטיח,Schnitt Brewing Company﻿,Farmhouse Ale - Saison
+porter-and-sons,Yoav Rozenfeld,"Sun, 07 Sep 2025 15:30:37 +0000",draft,4.25,Sessionista,Schnitt Brewing Company﻿,IPA - New England / Hazy
+schnitt-brewing-company,Danielle Yona,"Sun, 07 Sep 2025 15:30:26 +0000",,,Paleraiser,Schnitt Brewing Company﻿,Pale Ale - American
+schnitt-brewing-company,Danielle Yona,"Sun, 07 Sep 2025 15:30:07 +0000",draft,,Sessionista,Schnitt Brewing Company﻿,IPA - New England / Hazy
+schnitt-brewing-company,Arnon Ben-dov,"Sun, 07 Sep 2025 14:58:11 +0000",,3.75,Anything Gose: Mango,Schnitt Brewing Company﻿,Sour - Fruited Gose
+schnitt-brewing-company,Arnon Ben-dov,"Sun, 07 Sep 2025 14:57:45 +0000",,3.75,Paleraiser,Schnitt Brewing Company﻿,Pale Ale - American
+schnitt-brewing-company,Arnon Ben-dov,"Sun, 07 Sep 2025 14:57:12 +0000",,3.75,IN THE  SMALL,Schnitt Brewing Company﻿,Table Beer
+schnitt-brewing-company,Arnon Ben-dov,"Sun, 07 Sep 2025 14:56:30 +0000",,3.75,OrIPA,Schnitt Brewing Company﻿,IPA - American
+schnitt-brewing-company,Arnon Ben-dov,"Sun, 07 Sep 2025 14:48:14 +0000",,3.5,Porter&Sons: Marshmallow,Schnitt Brewing Company﻿,Porter - Other
+schnitt-brewing-company,Aviad Attia,"Sun, 07 Sep 2025 14:47:47 +0000",,,Paleraiser,Schnitt Brewing Company﻿,Pale Ale - American
+schnitt-brewing-company,Aviad Attia,"Sun, 07 Sep 2025 14:47:34 +0000",,,Sessionista,Schnitt Brewing Company﻿,IPA - New England / Hazy
+schnitt-brewing-company,Yuval Shalom,"Sun, 07 Sep 2025 14:08:12 +0000",draft,4.0,Sessionista,Schnitt Brewing Company﻿,IPA - New England / Hazy
+schnitt-brewing-company,Yuval Shalom,"Sun, 07 Sep 2025 14:06:01 +0000",,3.5,Givat Batich גבעת בטיח,Schnitt Brewing Company﻿,Farmhouse Ale - Saison
+schnitt-brewing-company,Lior Degabli,"Sun, 07 Sep 2025 11:45:54 +0000",,3.5,Paleraiser,Schnitt Brewing Company﻿,Pale Ale - American
+schnitt-brewing-company,Lior Degabli,"Sun, 07 Sep 2025 11:44:26 +0000",,3.25,IN THE  SMALL,Schnitt Brewing Company﻿,Table Beer
+schnitt-brewing-company,Lior Degabli,"Sun, 07 Sep 2025 11:42:20 +0000",,3.75,Sessionista,Schnitt Brewing Company﻿,IPA - New England / Hazy
+schnitt-brewing-company,Lior Degabli,"Sun, 07 Sep 2025 11:40:32 +0000",,3.25,Givat Batich גבעת בטיח,Schnitt Brewing Company﻿,Farmhouse Ale - Saison
+lauter,Lior Degabli,"Sun, 07 Sep 2025 11:33:54 +0000",draft,4.25,Meerts Tilquin à la Kriek de Schaerbeek,Gueuzerie Tilquin,Lambic - Fruit
+schnitt-brewing-company,Stas Pruchansky,"Sun, 07 Sep 2025 10:27:57 +0000",draft,3.7,Paleraiser,Schnitt Brewing Company﻿,Pale Ale - American
+schnitt-brewing-company,Stas Pruchansky,"Sun, 07 Sep 2025 10:26:09 +0000",draft,3.8,Sessionista,Schnitt Brewing Company﻿,IPA - New England / Hazy
+schnitt-brewing-company,Ilya Markovsky,"Sun, 07 Sep 2025 10:22:54 +0000",draft,3.6,Paleraiser,Schnitt Brewing Company﻿,Pale Ale - American
+schnitt-brewing-company,Ilya Markovsky,"Sun, 07 Sep 2025 10:21:52 +0000",draft,3.8,Sessionista,Schnitt Brewing Company﻿,IPA - New England / Hazy
+schnitt-brewing-company,Max N,"Sun, 07 Sep 2025 10:21:29 +0000",draft,3.6,Paleraiser,Schnitt Brewing Company﻿,Pale Ale - American
+schnitt-brewing-company,Yana O,"Sun, 07 Sep 2025 09:54:37 +0000",,3.8,Paleraiser,Schnitt Brewing Company﻿,Pale Ale - American
 lauter,Nir Langer,"Sat, 06 Sep 2025 20:38:46 +0000",draft,4.25,Meerts Tilquin à la Kriek de Schaerbeek,Gueuzerie Tilquin,Lambic - Fruit
 lauter,Ben Gat Sherman,"Sat, 06 Sep 2025 20:28:28 +0000",draft,4.25,Meerts Tilquin à la Kriek de Schaerbeek,Gueuzerie Tilquin,Lambic - Fruit
 lauter,Guy Azene,"Sat, 06 Sep 2025 20:18:23 +0000",draft,3.3,Porter&Sons: Marshmallow,Schnitt Brewing Company﻿,Porter - Other
@@ -879,8 +978,8 @@ b7-beer-house,Liad Shaked,"Thu, 21 Aug 2025 16:02:21 +0000",can,4.3,Salted Caram
 b7-beer-house,Ido Cohen,"Thu, 21 Aug 2025 16:02:06 +0000",can,3.9,Birthday Cake,Vocation Brewery,Stout - Milk / Sweet
 b7-beer-house,Eran Keller,"Thu, 21 Aug 2025 16:01:24 +0000",can,3.75,Naughty & Nice - White Chocolate & Raspberry,Vocation Brewery,Stout - White / Golden
 b7-beer-house,Ido Cohen,"Thu, 21 Aug 2025 16:00:48 +0000",can,3.7,Naughty & Nice - White Chocolate & Raspberry,Vocation Brewery,Stout - White / Golden
-b7-beer-house,sourlips69,"Thu, 21 Aug 2025 16:00:28 +0000",can,5.0,Naughty & Nice - White Chocolate & Raspberry,Vocation Brewery,Stout - White / Golden
 lauter,Danny Ganelin,"Thu, 21 Aug 2025 16:00:28 +0000",draft,3.5,KRUSHED IT,Oak & Ash,IPA - New England / Hazy
+b7-beer-house,sourlips69,"Thu, 21 Aug 2025 16:00:28 +0000",can,5.0,Naughty & Nice - White Chocolate & Raspberry,Vocation Brewery,Stout - White / Golden
 b7-beer-house,גל סילברמן,"Thu, 21 Aug 2025 16:00:18 +0000",can,3.8,Naughty & Nice - White Chocolate & Raspberry,Vocation Brewery,Stout - White / Golden
 b7-beer-house,Guy Azene,"Thu, 21 Aug 2025 16:00:01 +0000",can,3.8,Naughty & Nice - White Chocolate & Raspberry,Vocation Brewery,Stout - White / Golden
 b7-beer-house,Liad Shaked,"Thu, 21 Aug 2025 15:59:41 +0000",can,3.9,Naughty & Nice - White Chocolate & Raspberry,Vocation Brewery,Stout - White / Golden
@@ -2586,8 +2685,8 @@ lauter,Sivan Nagola,"Fri, 25 Jul 2025 18:16:52 +0000",draft,4.5,Rosé De Gambrin
 lauter,Shmupi Koto,"Fri, 25 Jul 2025 18:16:45 +0000",draft,4.6,Sang Bleu 2024 - Draft Version,Brasserie Cantillon,Lambic - Fruit
 lauter,Yahly Guttman,"Fri, 25 Jul 2025 18:16:17 +0000",,5.0,Fou' Foune 2023 - Draft Version,Brasserie Cantillon,Lambic - Fruit
 lauter,Sivan Nagola,"Fri, 25 Jul 2025 18:15:54 +0000",draft,4.0,Kriek 2025 - Draft Version,Brasserie Cantillon,Lambic - Kriek
-lauter,Eli Smikin,"Fri, 25 Jul 2025 18:15:23 +0000",draft,4.8,Fou' Foune 2023 - Draft Version,Brasserie Cantillon,Lambic - Fruit
 lauter,Sivan Nagola,"Fri, 25 Jul 2025 18:15:23 +0000",draft,4.0,Cuvée Saint-Gilloise 2023 - Draft Version,Brasserie Cantillon,Lambic - Traditional
+lauter,Eli Smikin,"Fri, 25 Jul 2025 18:15:23 +0000",draft,4.8,Fou' Foune 2023 - Draft Version,Brasserie Cantillon,Lambic - Fruit
 lauter,Sivan Nagola,"Fri, 25 Jul 2025 18:14:47 +0000",draft,4.75,Gueuze 2024 - Draft Version,Brasserie Cantillon,Lambic - Gueuze
 lauter,Sivan Nagola,"Fri, 25 Jul 2025 18:14:07 +0000",draft,4.0,Grand Cru Bruocsella - Draft Version (2021-2022),Brasserie Cantillon,Lambic - Traditional
 lauter,Itai Snai,"Fri, 25 Jul 2025 18:10:14 +0000",,4.5,Fou' Foune 2023 - Draft Version,Brasserie Cantillon,Lambic - Fruit
