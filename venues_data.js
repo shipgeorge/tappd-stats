@@ -1,8 +1,782 @@
 // 🍺 BEER STATS DATA - Generated automatically
-// Last updated: 2025-09-08 06:39:33
-// Total records: 4783
+// Last updated: 2025-09-09 06:38:20
+// Total records: 4869
 
 const BEER_DATA = [
+  {
+    "venue": "lauter",
+    "time": "2025-09-08T20:52:02+00:00",
+    "serving": "draft",
+    "rating": 4.4,
+    "beer_name": "Meerts Tilquin à la Kriek de Schaerbeek",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-08T20:41:52+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Meerts Tilquin à la Kriek de Schaerbeek",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-09-08T20:27:52+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "Paleraiser",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pale Ale - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-08T20:25:11+00:00",
+    "serving": "draft",
+    "rating": 3.25,
+    "beer_name": "Tucher Pils",
+    "brewery": "Tucher Bräu",
+    "beer_type": "Pilsner - German"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-08T20:17:05+00:00",
+    "serving": "bottle",
+    "rating": 3.8,
+    "beer_name": "Deepseek Bourbon Barrel-Aged",
+    "brewery": "Antelope",
+    "beer_type": "Mead - Melomel"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-09-08T20:10:18+00:00",
+    "serving": "Unknown",
+    "rating": 4.1,
+    "beer_name": "OrIPA",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-08T20:03:50+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "Meerts Tilquin à la Kriek de Schaerbeek",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-08T20:03:12+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Pleroma Karpologi Pineapple Peach Marshmallow Créme Brulée Sour",
+    "brewery": "Omnipollo",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-09-08T20:02:35+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Triple Hope",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-09-08T19:43:36+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Lazy N'Hazy",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-09-08T19:42:45+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Same Schnitt, Different Hop: Amarillo",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pale Ale - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-08T19:40:02+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Kopparberg Strawberry & Lime",
+    "brewery": "Kopparbergs Bryggeri",
+    "beer_type": "Cider - Other Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-08T19:38:53+00:00",
+    "serving": "draft",
+    "rating": 3.3,
+    "beer_name": "Kopparberg Strawberry & Lime",
+    "brewery": "Kopparbergs Bryggeri",
+    "beer_type": "Cider - Other Fruit"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-09-08T19:29:48+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "שנה טובה כפרה",
+    "brewery": "Herzl (הרצל)",
+    "beer_type": "IPA - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-08T18:52:17+00:00",
+    "serving": "bottle",
+    "rating": 3.75,
+    "beer_name": "Bjorn's Beer",
+    "brewery": "Attali's Family Brewery",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-08T18:51:44+00:00",
+    "serving": "bottle",
+    "rating": 4.6,
+    "beer_name": "Space Q",
+    "brewery": "Antelope",
+    "beer_type": "Mead - Melomel"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-08T18:51:43+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Bjorn's Beer",
+    "brewery": "Attali's Family Brewery",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-09-08T18:50:30+00:00",
+    "serving": "draft",
+    "rating": null,
+    "beer_name": "Anything Gose: Mango",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Sour - Fruited Gose"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-09-08T18:50:09+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Tea Party: Green Tea And Jasmine",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pale Ale - Other"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-09-08T18:49:46+00:00",
+    "serving": "draft",
+    "rating": null,
+    "beer_name": "Salt N' Peppa",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Lager - Other"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-09-08T18:48:25+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Paleraiser",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pale Ale - American"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-09-08T18:36:00+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Triple Hope",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-08T18:30:36+00:00",
+    "serving": "bottle",
+    "rating": 4.4,
+    "beer_name": "Shio Mead - Basil House",
+    "brewery": "Antelope",
+    "beer_type": "Mead - Metheglin"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-08T18:27:41+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Weissman",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Wheat Beer - Hefeweizen"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-09-08T18:21:59+00:00",
+    "serving": "draft",
+    "rating": 5.0,
+    "beer_name": "OrIPA",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-09-08T18:21:46+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Lazy N'Hazy",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-09-08T18:21:13+00:00",
+    "serving": "bottle",
+    "rating": 5.0,
+    "beer_name": "Admiral Nelson",
+    "brewery": "קישקשתא (Kishkashta)",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-09-08T18:20:50+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Same Schnitt, Different Hop: Amarillo",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pale Ale - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-08T18:20:23+00:00",
+    "serving": "bottle",
+    "rating": 4.2,
+    "beer_name": "What Churchill Said",
+    "brewery": "Antelope",
+    "beer_type": "Farmhouse Ale - Saison"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-09-08T18:19:59+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Lazy N'Hazy",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-08T18:05:04+00:00",
+    "serving": "bottle",
+    "rating": 3.9,
+    "beer_name": "Kinoshita",
+    "brewery": "Antelope",
+    "beer_type": "Mead - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-08T17:53:55+00:00",
+    "serving": "bottle",
+    "rating": 3.9,
+    "beer_name": "TOFU (Jasmine Tea and Yuzu Mead)",
+    "brewery": "Antelope",
+    "beer_type": "Mead - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-08T17:52:39+00:00",
+    "serving": "bottle",
+    "rating": 3.8,
+    "beer_name": "This Is It",
+    "brewery": "Antelope",
+    "beer_type": "Mead - Other"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-09-08T17:52:11+00:00",
+    "serving": "draft",
+    "rating": 3.25,
+    "beer_name": "Paleraiser",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pale Ale - American"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-09-08T17:47:44+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Sessionista",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-09-08T17:42:49+00:00",
+    "serving": "draft",
+    "rating": 3.25,
+    "beer_name": "IN THE  SMALL",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Table Beer"
+  },
+  {
+    "venue": "beerline",
+    "time": "2025-09-08T17:37:50+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "10th Anniversary Smoothie Bowl",
+    "brewery": "Nepo Brewing",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-09-08T17:37:13+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Sessionista",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-09-08T17:35:20+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "IN THE  SMALL",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Table Beer"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-09-08T17:34:10+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Sessionista",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-09-08T17:33:32+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Triple Hope",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-08T17:31:23+00:00",
+    "serving": "Unknown",
+    "rating": 3.25,
+    "beer_name": "Lazy N'Hazy",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-09-08T17:29:33+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "Delirium Red",
+    "brewery": "Delirium - Huyghe Brewery",
+    "beer_type": "Fruit Beer"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-08T17:29:31+00:00",
+    "serving": "Unknown",
+    "rating": 2.25,
+    "beer_name": "Tucher Helles Hefe Weizen",
+    "brewery": "Tucher Bräu",
+    "beer_type": "Wheat Beer - Hefeweizen"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-08T15:25:36+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Gentle Bastard",
+    "brewery": "HORIZONT Brewing",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-08T15:25:10+00:00",
+    "serving": "draft",
+    "rating": 2.75,
+    "beer_name": "Meerts Tilquin à la Kriek de Schaerbeek",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-09-08T15:20:34+00:00",
+    "serving": "bottle",
+    "rating": 2.25,
+    "beer_name": "Tempus Project - Light Becomes Her Damson Foudre Beer",
+    "brewery": "Beavertown",
+    "beer_type": "Sour - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-08T15:14:58+00:00",
+    "serving": "bottle",
+    "rating": 4.4,
+    "beer_name": "Framboos Kriek Tonka (2019)",
+    "brewery": "Bokke",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-08T15:14:12+00:00",
+    "serving": "bottle",
+    "rating": 4.2,
+    "beer_name": "3 Fonteinen Intens Rood (season 18|19) Blend No. 112",
+    "brewery": "Brouwerij 3 Fonteinen",
+    "beer_type": "Lambic - Kriek"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-08T15:13:22+00:00",
+    "serving": "bottle",
+    "rating": 4.5,
+    "beer_name": "Kriek 100% Lambic (2024)",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": "Lambic - Kriek"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-08T15:12:35+00:00",
+    "serving": "bottle",
+    "rating": 4.2,
+    "beer_name": "3 Fonteinen Schaarbeekse Kriek Oogst 2018 (season 18|19) Blend No. 99",
+    "brewery": "Brouwerij 3 Fonteinen",
+    "beer_type": "Lambic - Kriek"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-08T15:11:53+00:00",
+    "serving": "bottle",
+    "rating": 4.0,
+    "beer_name": "3 Fonteinen Oude Kriek Bio (season 22|23) Blend No. 40",
+    "brewery": "Brouwerij 3 Fonteinen",
+    "beer_type": "Lambic - Kriek"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-08T15:11:11+00:00",
+    "serving": "bottle",
+    "rating": 4.1,
+    "beer_name": "Zomerkriek (Bottle Version) (2023)",
+    "brewery": "Boerenerf",
+    "beer_type": "Lambic - Kriek"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-08T15:09:38+00:00",
+    "serving": "bottle",
+    "rating": 4.3,
+    "beer_name": "Kriek 2023-1",
+    "brewery": "Boerenerf",
+    "beer_type": "Lambic - Kriek"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-08T15:08:52+00:00",
+    "serving": "bottle",
+    "rating": 4.1,
+    "beer_name": "Pay In Blood",
+    "brewery": "Métaphore",
+    "beer_type": "Wild Ale - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-08T15:08:15+00:00",
+    "serving": "bottle",
+    "rating": 4.2,
+    "beer_name": "Saison Rood Fruit - Kers/Kriek (2019)",
+    "brewery": "Antidoot - Wilde Fermenten",
+    "beer_type": "Farmhouse Ale - Saison"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-08T15:07:30+00:00",
+    "serving": "bottle",
+    "rating": 3.9,
+    "beer_name": "Oude Kriek (Vieille) (2017)",
+    "brewery": "Oud Beersel",
+    "beer_type": "Lambic - Kriek"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-08T15:06:53+00:00",
+    "serving": "bottle",
+    "rating": 3.8,
+    "beer_name": "Gummy Bear Blue Label (2020)",
+    "brewery": "Bofkont",
+    "beer_type": "Lambic - Kriek"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-08T15:06:08+00:00",
+    "serving": "bottle",
+    "rating": 3.8,
+    "beer_name": "Kriek 1",
+    "brewery": "Galileo Brewery",
+    "beer_type": "Homebrew, Lambic - Kriek"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-08T15:05:31+00:00",
+    "serving": "bottle",
+    "rating": 3.9,
+    "beer_name": "Kriek (2024)",
+    "brewery": "Geuzestekerij De Cam",
+    "beer_type": "Lambic - Kriek"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-08T15:04:34+00:00",
+    "serving": "bottle",
+    "rating": 4.0,
+    "beer_name": "Oude Schaarbeekse Kriek Millésime",
+    "brewery": "Brouwerij Boon",
+    "beer_type": "Lambic - Kriek"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-08T15:03:14+00:00",
+    "serving": "bottle",
+    "rating": 3.8,
+    "beer_name": "Bourbon Kriek (2022)",
+    "brewery": "Bofkont",
+    "beer_type": "Lambic - Kriek"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-08T15:02:26+00:00",
+    "serving": "bottle",
+    "rating": 3.7,
+    "beer_name": "Kriek Brut (2024)",
+    "brewery": "Brouwerij Liefmans",
+    "beer_type": "Lambic - Kriek"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-08T14:19:18+00:00",
+    "serving": "Unknown",
+    "rating": 3.25,
+    "beer_name": "Porter&Sons: Marshmallow",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Porter - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-08T14:18:16+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Meerts Tilquin à la Kriek de Schaerbeek",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-08T14:18:00+00:00",
+    "serving": "Unknown",
+    "rating": 4.25,
+    "beer_name": "Pleroma Karpologi Pineapple Peach Marshmallow Créme Brulée Sour",
+    "brewery": "Omnipollo",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-09-08T11:52:48+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "OrIPA",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-09-08T11:51:52+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Accept All Cookies",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pale Ale - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-08T10:33:18+00:00",
+    "serving": "bottle",
+    "rating": 4.5,
+    "beer_name": "Kriek 1",
+    "brewery": "Galileo Brewery",
+    "beer_type": "Homebrew, Lambic - Kriek"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-08T10:28:28+00:00",
+    "serving": "bottle",
+    "rating": 3.4,
+    "beer_name": "Kriek Brut (2024)",
+    "brewery": "Brouwerij Liefmans",
+    "beer_type": "Lambic - Kriek"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-08T10:27:00+00:00",
+    "serving": "bottle",
+    "rating": 4.4,
+    "beer_name": "Kriek (2024)",
+    "brewery": "Geuzestekerij De Cam",
+    "beer_type": "Lambic - Kriek"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-08T10:23:24+00:00",
+    "serving": "bottle",
+    "rating": 4.5,
+    "beer_name": "3 Fonteinen Oude Kriek Bio (season 22|23) Blend No. 40",
+    "brewery": "Brouwerij 3 Fonteinen",
+    "beer_type": "Lambic - Kriek"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-09-08T10:22:35+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Triple Hope",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-09-08T10:20:58+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "Sessionista",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-08T10:20:00+00:00",
+    "serving": "bottle",
+    "rating": 4.4,
+    "beer_name": "Oude Kriek (Vieille) (2017)",
+    "brewery": "Oud Beersel",
+    "beer_type": "Lambic - Kriek"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-08T10:18:07+00:00",
+    "serving": "bottle",
+    "rating": 3.9,
+    "beer_name": "Gummy Bear Blue Label (2020)",
+    "brewery": "Bofkont",
+    "beer_type": "Lambic - Kriek"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-08T10:16:51+00:00",
+    "serving": "bottle",
+    "rating": 4.0,
+    "beer_name": "Kriek 100% Lambic (2024)",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": "Lambic - Kriek"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-08T10:16:00+00:00",
+    "serving": "bottle",
+    "rating": 4.5,
+    "beer_name": "3 Fonteinen Intens Rood (season 18|19) Blend No. 112",
+    "brewery": "Brouwerij 3 Fonteinen",
+    "beer_type": "Lambic - Kriek"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-08T10:13:57+00:00",
+    "serving": "bottle",
+    "rating": 4.3,
+    "beer_name": "Oude Schaarbeekse Kriek Millésime (2023)",
+    "brewery": "Brouwerij Boon",
+    "beer_type": "Lambic - Kriek"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-08T10:10:22+00:00",
+    "serving": "bottle",
+    "rating": 4.0,
+    "beer_name": "Bourbon Kriek (2022)",
+    "brewery": "Bofkont",
+    "beer_type": "Lambic - Kriek"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-08T10:09:38+00:00",
+    "serving": "bottle",
+    "rating": 4.4,
+    "beer_name": "Lou Pepe Kriek (2016)",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": "Lambic - Kriek"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-08T10:08:51+00:00",
+    "serving": "bottle",
+    "rating": 4.0,
+    "beer_name": "Kriek 1",
+    "brewery": "Galileo Brewery",
+    "beer_type": "Homebrew, Lambic - Kriek"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-08T10:07:35+00:00",
+    "serving": "bottle",
+    "rating": 4.3,
+    "beer_name": "Pay In Blood",
+    "brewery": "Métaphore",
+    "beer_type": "Wild Ale - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-08T10:06:05+00:00",
+    "serving": "bottle",
+    "rating": 4.3,
+    "beer_name": "3 Fonteinen Schaarbeekse Kriek Oogst 2018 (season 18|19) Blend No. 99",
+    "brewery": "Brouwerij 3 Fonteinen",
+    "beer_type": "Lambic - Kriek"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-08T10:03:55+00:00",
+    "serving": "bottle",
+    "rating": 4.1,
+    "beer_name": "Framboos Kriek Tonka (2019)",
+    "brewery": "Bokke",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-08T10:01:47+00:00",
+    "serving": "bottle",
+    "rating": 4.4,
+    "beer_name": "Kriek 100% Lambic Bio (2025)",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": "Lambic - Kriek"
+  },
   {
     "venue": "lauter",
     "time": "2025-09-07T20:06:58+00:00",
@@ -8763,8 +9537,8 @@ const BEER_DATA = [
   {
     "venue": "b7-beer-house",
     "time": "2025-08-21T16:02:37+00:00",
-    "serving": "Unknown",
-    "rating": 3.75,
+    "serving": "can",
+    "rating": 3.5,
     "beer_name": "Nitro Mini M*rs",
     "brewery": "Vault City Brewing",
     "beer_type": "Stout - Pastry"
@@ -8772,8 +9546,8 @@ const BEER_DATA = [
   {
     "venue": "b7-beer-house",
     "time": "2025-08-21T16:02:37+00:00",
-    "serving": "can",
-    "rating": 3.5,
+    "serving": "Unknown",
+    "rating": 3.75,
     "beer_name": "Nitro Mini M*rs",
     "brewery": "Vault City Brewing",
     "beer_type": "Stout - Pastry"
@@ -8871,20 +9645,20 @@ const BEER_DATA = [
   {
     "venue": "b7-beer-house",
     "time": "2025-08-21T15:59:11+00:00",
-    "serving": "can",
-    "rating": 3.8,
-    "beer_name": "Peach Rings",
-    "brewery": "Vault City Brewing",
-    "beer_type": "Sour - Fruited"
-  },
-  {
-    "venue": "b7-beer-house",
-    "time": "2025-08-21T15:59:11+00:00",
     "serving": "Unknown",
     "rating": 4.0,
     "beer_name": "Naughty & Nice - White Chocolate & Raspberry",
     "brewery": "Vocation Brewery",
     "beer_type": "Stout - White / Golden"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-21T15:59:11+00:00",
+    "serving": "can",
+    "rating": 3.8,
+    "beer_name": "Peach Rings",
+    "brewery": "Vault City Brewing",
+    "beer_type": "Sour - Fruited"
   },
   {
     "venue": "b7-beer-house",
@@ -33595,8 +34369,8 @@ const BEER_DATA = [
     "venue": "berlin-florentin",
     "time": "2024-12-23T18:37:49+00:00",
     "serving": "bottle",
-    "rating": 3.0,
-    "beer_name": "Christmas Ale",
+    "rating": 4.1,
+    "beer_name": "Christmas Ale (2023)",
     "brewery": "Brouwerij St.Bernardus",
     "beer_type": "Winter Ale"
   },
@@ -33604,8 +34378,8 @@ const BEER_DATA = [
     "venue": "berlin-florentin",
     "time": "2024-12-23T18:37:49+00:00",
     "serving": "bottle",
-    "rating": 4.1,
-    "beer_name": "Christmas Ale (2023)",
+    "rating": 3.0,
+    "beer_name": "Christmas Ale",
     "brewery": "Brouwerij St.Bernardus",
     "beer_type": "Winter Ale"
   },
