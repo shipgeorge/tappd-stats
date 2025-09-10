@@ -1,8 +1,161 @@
 // 🍺 BEER STATS DATA - Generated automatically
-// Last updated: 2025-09-09 06:38:20
-// Total records: 4869
+// Last updated: 2025-09-10 06:37:00
+// Total records: 4886
 
 const BEER_DATA = [
+  {
+    "venue": "beerz",
+    "time": "2025-09-09T19:59:20+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Yes We Can - Hazy IPA Citra, Motueka, Zibi, Eclipse",
+    "brewery": "Maryensztadt",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "beerz",
+    "time": "2025-09-09T19:57:15+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "Pleroma Karpologi Pineapple Peach Marshmallow Créme Brulée Sour",
+    "brewery": "Omnipollo",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "beerz",
+    "time": "2025-09-09T19:57:09+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "Yes We Can - Hazy IPA Citra, Motueka, Zibi, Eclipse",
+    "brewery": "Maryensztadt",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "beerz",
+    "time": "2025-09-09T19:49:19+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Pacific Northwest IPA",
+    "brewery": "Rogue Ales",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "beerz",
+    "time": "2025-09-09T19:47:40+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "Pacific Northwest IPA",
+    "brewery": "Rogue Ales",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "beerz",
+    "time": "2025-09-09T19:47:10+00:00",
+    "serving": "Unknown",
+    "rating": 3.25,
+    "beer_name": "Tennent's Stout",
+    "brewery": "Tennent's Caledonian Brewery",
+    "beer_type": "Stout - English"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-09-09T19:35:55+00:00",
+    "serving": "draft",
+    "rating": 3.0,
+    "beer_name": "Porter&Sons: Marshmallow",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Porter - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-09T19:31:40+00:00",
+    "serving": "can",
+    "rating": null,
+    "beer_name": "Hazelnut Brown Ale",
+    "brewery": "Rogue Ales",
+    "beer_type": "Brown Ale - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-09T19:31:01+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Cocoa Wonderland",
+    "brewery": "Thornbridge Brewery",
+    "beer_type": "Porter - Other"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-09-09T19:02:17+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Naughty & Nice",
+    "brewery": "Vocation Brewery",
+    "beer_type": "Stout - Milk / Sweet"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-09-09T16:54:01+00:00",
+    "serving": "draft",
+    "rating": 3.25,
+    "beer_name": "Paleraiser",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pale Ale - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-09T16:22:12+00:00",
+    "serving": "draft",
+    "rating": 3.0,
+    "beer_name": "Tea Party: Green Tea And Jasmine",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pale Ale - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-09T16:00:04+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Meerts Tilquin à la Kriek de Schaerbeek",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-09T15:06:36+00:00",
+    "serving": "draft",
+    "rating": 2.0,
+    "beer_name": "Meerts Tilquin à la Kriek de Schaerbeek",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-09T14:41:40+00:00",
+    "serving": "draft",
+    "rating": 3.0,
+    "beer_name": "Kopparberg Strawberry & Lime",
+    "brewery": "Kopparbergs Bryggeri",
+    "beer_type": "Cider - Other Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-09T14:39:06+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Beck's",
+    "brewery": "Brauerei Beck",
+    "beer_type": "Pilsner - German"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-09-09T09:38:58+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Paleraiser",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pale Ale - American"
+  },
   {
     "venue": "lauter",
     "time": "2025-09-08T20:52:02+00:00",
@@ -9537,8 +9690,8 @@ const BEER_DATA = [
   {
     "venue": "b7-beer-house",
     "time": "2025-08-21T16:02:37+00:00",
-    "serving": "can",
-    "rating": 3.5,
+    "serving": "Unknown",
+    "rating": 3.75,
     "beer_name": "Nitro Mini M*rs",
     "brewery": "Vault City Brewing",
     "beer_type": "Stout - Pastry"
@@ -9546,8 +9699,8 @@ const BEER_DATA = [
   {
     "venue": "b7-beer-house",
     "time": "2025-08-21T16:02:37+00:00",
-    "serving": "Unknown",
-    "rating": 3.75,
+    "serving": "can",
+    "rating": 3.5,
     "beer_name": "Nitro Mini M*rs",
     "brewery": "Vault City Brewing",
     "beer_type": "Stout - Pastry"
@@ -9645,20 +9798,20 @@ const BEER_DATA = [
   {
     "venue": "b7-beer-house",
     "time": "2025-08-21T15:59:11+00:00",
-    "serving": "Unknown",
-    "rating": 4.0,
-    "beer_name": "Naughty & Nice - White Chocolate & Raspberry",
-    "brewery": "Vocation Brewery",
-    "beer_type": "Stout - White / Golden"
-  },
-  {
-    "venue": "b7-beer-house",
-    "time": "2025-08-21T15:59:11+00:00",
     "serving": "can",
     "rating": 3.8,
     "beer_name": "Peach Rings",
     "brewery": "Vault City Brewing",
     "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-21T15:59:11+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Naughty & Nice - White Chocolate & Raspberry",
+    "brewery": "Vocation Brewery",
+    "beer_type": "Stout - White / Golden"
   },
   {
     "venue": "b7-beer-house",
@@ -16539,8 +16692,8 @@ const BEER_DATA = [
   {
     "venue": "lauter",
     "time": "2025-08-05T19:24:07+00:00",
-    "serving": "Unknown",
-    "rating": null,
+    "serving": "can",
+    "rating": 4.5,
     "beer_name": "SLUSHY XL: Haha!",
     "brewery": "450 North Brewing Company",
     "beer_type": "Sour - Smoothie / Pastry"
@@ -16548,8 +16701,8 @@ const BEER_DATA = [
   {
     "venue": "lauter",
     "time": "2025-08-05T19:24:07+00:00",
-    "serving": "can",
-    "rating": 4.5,
+    "serving": "Unknown",
+    "rating": null,
     "beer_name": "SLUSHY XL: Haha!",
     "brewery": "450 North Brewing Company",
     "beer_type": "Sour - Smoothie / Pastry"
@@ -23910,20 +24063,20 @@ const BEER_DATA = [
   {
     "venue": "lauter",
     "time": "2025-07-26T15:22:08+00:00",
-    "serving": "Unknown",
-    "rating": 4.0,
-    "beer_name": "Pijże",
-    "brewery": "Nepo Brewing",
-    "beer_type": "Pale Ale - New England / Hazy"
-  },
-  {
-    "venue": "lauter",
-    "time": "2025-07-26T15:22:08+00:00",
     "serving": "can",
     "rating": 4.2,
     "beer_name": "Smoothie Bowl: Pistachio Fluff",
     "brewery": "Nepo Brewing",
     "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-07-26T15:22:08+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Pijże",
+    "brewery": "Nepo Brewing",
+    "beer_type": "Pale Ale - New England / Hazy"
   },
   {
     "venue": "lauter",
@@ -40803,8 +40956,8 @@ const BEER_DATA = [
   {
     "venue": "berlin-florentin",
     "time": "2024-01-22T18:42:20+00:00",
-    "serving": "Unknown",
-    "rating": null,
+    "serving": "can",
+    "rating": 4.0,
     "beer_name": "200 Units",
     "brewery": "Brewski",
     "beer_type": "Barleywine - English"
@@ -40812,8 +40965,8 @@ const BEER_DATA = [
   {
     "venue": "berlin-florentin",
     "time": "2024-01-22T18:42:20+00:00",
-    "serving": "can",
-    "rating": 4.0,
+    "serving": "Unknown",
+    "rating": null,
     "beer_name": "200 Units",
     "brewery": "Brewski",
     "beer_type": "Barleywine - English"

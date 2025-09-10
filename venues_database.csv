@@ -1,4 +1,21 @@
 venue,user,time,serving,data_rating,beer_name,brewery,beer_type
+beerz,Ohad Pinhas,"Tue, 09 Sep 2025 19:59:20 +0000",can,3.75,"Yes We Can - Hazy IPA Citra, Motueka, Zibi, Eclipse",Maryensztadt,IPA - New England / Hazy
+beerz,Nir Stettiner,"Tue, 09 Sep 2025 19:57:15 +0000",,3.75,Pleroma Karpologi Pineapple Peach Marshmallow Créme Brulée Sour,Omnipollo,Sour - Smoothie / Pastry
+beerz,Ohad Tzairi,"Tue, 09 Sep 2025 19:57:09 +0000",,3.75,"Yes We Can - Hazy IPA Citra, Motueka, Zibi, Eclipse",Maryensztadt,IPA - New England / Hazy
+beerz,Ohad Pinhas,"Tue, 09 Sep 2025 19:49:19 +0000",can,3.5,Pacific Northwest IPA,Rogue Ales,IPA - American
+beerz,Ohad Tzairi,"Tue, 09 Sep 2025 19:47:40 +0000",,3.5,Pacific Northwest IPA,Rogue Ales,IPA - American
+beerz,Ohad Tzairi,"Tue, 09 Sep 2025 19:47:10 +0000",,3.25,Tennent's Stout,Tennent's Caledonian Brewery,Stout - English
+schnitt-brewing-company,dandan_ransenberg,"Tue, 09 Sep 2025 19:35:55 +0000",draft,3.0,Porter&Sons: Marshmallow,Schnitt Brewing Company﻿,Porter - Other
+lauter,Lee Ker,"Tue, 09 Sep 2025 19:31:40 +0000",can,,Hazelnut Brown Ale,Rogue Ales,Brown Ale - American
+lauter,Lee Ker,"Tue, 09 Sep 2025 19:31:01 +0000",,,Cocoa Wonderland,Thornbridge Brewery,Porter - Other
+b7-beer-house,Martin Sampson,"Tue, 09 Sep 2025 19:02:17 +0000",,,Naughty & Nice,Vocation Brewery,Stout - Milk / Sweet
+schnitt-brewing-company,TheOnlyMagicalNoob,"Tue, 09 Sep 2025 16:54:01 +0000",draft,3.25,Paleraiser,Schnitt Brewing Company﻿,Pale Ale - American
+lauter,TheOnlyMagicalNoob,"Tue, 09 Sep 2025 16:22:12 +0000",draft,3.0,Tea Party: Green Tea And Jasmine,Schnitt Brewing Company﻿,Pale Ale - Other
+lauter,barak luzon,"Tue, 09 Sep 2025 16:00:04 +0000",,4.0,Meerts Tilquin à la Kriek de Schaerbeek,Gueuzerie Tilquin,Lambic - Fruit
+lauter,Yaniv Gorodetsky,"Tue, 09 Sep 2025 15:06:36 +0000",draft,2.0,Meerts Tilquin à la Kriek de Schaerbeek,Gueuzerie Tilquin,Lambic - Fruit
+lauter,Kelly Inbar,"Tue, 09 Sep 2025 14:41:40 +0000",draft,3.0,Kopparberg Strawberry & Lime,Kopparbergs Bryggeri,Cider - Other Fruit
+lauter,Kelly Inbar,"Tue, 09 Sep 2025 14:39:06 +0000",draft,3.5,Beck's,Brauerei Beck,Pilsner - German
+schnitt-brewing-company,Alex Shtouff,"Tue, 09 Sep 2025 09:38:58 +0000",draft,3.75,Paleraiser,Schnitt Brewing Company﻿,Pale Ale - American
 lauter,Dr Solo,"Mon, 08 Sep 2025 20:52:02 +0000",draft,4.4,Meerts Tilquin à la Kriek de Schaerbeek,Gueuzerie Tilquin,Lambic - Fruit
 lauter,Kelly Inbar,"Mon, 08 Sep 2025 20:41:52 +0000",draft,4.0,Meerts Tilquin à la Kriek de Schaerbeek,Gueuzerie Tilquin,Lambic - Fruit
 schnitt-brewing-company,Maxx Dee,"Mon, 08 Sep 2025 20:27:52 +0000",,3.75,Paleraiser,Schnitt Brewing Company﻿,Pale Ale - American
@@ -1058,8 +1075,8 @@ b7-beer-house,Liad Shaked,"Thu, 21 Aug 2025 16:04:25 +0000",can,3.8,Nitro Mini M
 b7-beer-house,Tom Lahav,"Thu, 21 Aug 2025 16:04:24 +0000",can,3.5,Nitro Mini M*rs,Vault City Brewing,Stout - Pastry
 b7-beer-house,Raz Ko,"Thu, 21 Aug 2025 16:03:38 +0000",can,4.2,Salted Caramel Crema,Vault City Brewing,Stout - Imperial / Double Coffee
 b7-beer-house,Eran Keller,"Thu, 21 Aug 2025 16:03:08 +0000",can,4.25,Salted Caramel Crema,Vault City Brewing,Stout - Imperial / Double Coffee
-b7-beer-house,Raz Ko,"Thu, 21 Aug 2025 16:02:37 +0000",can,3.5,Nitro Mini M*rs,Vault City Brewing,Stout - Pastry
 b7-beer-house,Elior Mizrahi,"Thu, 21 Aug 2025 16:02:37 +0000",,3.75,Nitro Mini M*rs,Vault City Brewing,Stout - Pastry
+b7-beer-house,Raz Ko,"Thu, 21 Aug 2025 16:02:37 +0000",can,3.5,Nitro Mini M*rs,Vault City Brewing,Stout - Pastry
 b7-beer-house,Liad Shaked,"Thu, 21 Aug 2025 16:02:21 +0000",can,4.3,Salted Caramel Crema,Vault City Brewing,Stout - Imperial / Double Coffee
 b7-beer-house,Ido Cohen,"Thu, 21 Aug 2025 16:02:06 +0000",can,3.9,Birthday Cake,Vocation Brewery,Stout - Milk / Sweet
 b7-beer-house,Eran Keller,"Thu, 21 Aug 2025 16:01:24 +0000",can,3.75,Naughty & Nice - White Chocolate & Raspberry,Vocation Brewery,Stout - White / Golden
@@ -1070,8 +1087,8 @@ b7-beer-house,גל סילברמן,"Thu, 21 Aug 2025 16:00:18 +0000",can,3.8,Naug
 b7-beer-house,Guy Azene,"Thu, 21 Aug 2025 16:00:01 +0000",can,3.8,Naughty & Nice - White Chocolate & Raspberry,Vocation Brewery,Stout - White / Golden
 b7-beer-house,Liad Shaked,"Thu, 21 Aug 2025 15:59:41 +0000",can,3.9,Naughty & Nice - White Chocolate & Raspberry,Vocation Brewery,Stout - White / Golden
 b7-beer-house,Yotam Bar-natan,"Thu, 21 Aug 2025 15:59:21 +0000",can,4.3,Birthday Cake,Vocation Brewery,Stout - Milk / Sweet
-b7-beer-house,Elior Mizrahi,"Thu, 21 Aug 2025 15:59:11 +0000",,4.0,Naughty & Nice - White Chocolate & Raspberry,Vocation Brewery,Stout - White / Golden
 b7-beer-house,Eli Smikin,"Thu, 21 Aug 2025 15:59:11 +0000",can,3.8,Peach Rings,Vault City Brewing,Sour - Fruited
+b7-beer-house,Elior Mizrahi,"Thu, 21 Aug 2025 15:59:11 +0000",,4.0,Naughty & Nice - White Chocolate & Raspberry,Vocation Brewery,Stout - White / Golden
 b7-beer-house,Yotam Bar-natan,"Thu, 21 Aug 2025 15:58:45 +0000",can,3.8,Naughty & Nice - White Chocolate & Raspberry,Vocation Brewery,Stout - White / Golden
 b7-beer-house,Tom Lahav,"Thu, 21 Aug 2025 15:58:44 +0000",can,3.25,Naughty & Nice - White Chocolate & Raspberry,Vocation Brewery,Stout - White / Golden
 b7-beer-house,Yotam Bar-natan,"Thu, 21 Aug 2025 15:58:21 +0000",can,3.7,Incognito,Vocation Brewery,IPA - Imperial / Double
@@ -1836,8 +1853,8 @@ lauter,Yaron Sh,"Tue, 05 Aug 2025 19:29:11 +0000",,4.0,SLUSHY XL: Haha!,450 Nort
 lauter,Kobi,"Tue, 05 Aug 2025 19:29:05 +0000",,4.3,Hydralisk,Spanish Marie Brewery,Sour - Smoothie / Pastry
 lauter,Yosef Dahan,"Tue, 05 Aug 2025 19:28:30 +0000",can,3.75,SLUSHY XL: Haha!,450 North Brewing Company,Sour - Smoothie / Pastry
 lauter,Shaul A,"Tue, 05 Aug 2025 19:26:45 +0000",,4.25,SLUSHY XL: Haha!,450 North Brewing Company,Sour - Smoothie / Pastry
-lauter,Oren Sleepwalker,"Tue, 05 Aug 2025 19:24:07 +0000",,,SLUSHY XL: Haha!,450 North Brewing Company,Sour - Smoothie / Pastry
 lauter,Mikhail Stolov,"Tue, 05 Aug 2025 19:24:07 +0000",can,4.5,SLUSHY XL: Haha!,450 North Brewing Company,Sour - Smoothie / Pastry
+lauter,Oren Sleepwalker,"Tue, 05 Aug 2025 19:24:07 +0000",,,SLUSHY XL: Haha!,450 North Brewing Company,Sour - Smoothie / Pastry
 lauter,Kobi,"Tue, 05 Aug 2025 19:21:59 +0000",,4.3,SLUSHY XL: Haha!,450 North Brewing Company,Sour - Smoothie / Pastry
 lauter,Shaul A,"Tue, 05 Aug 2025 19:16:22 +0000",,4.25,Monstrous Oils,Cellarmaker Brewing Company,IPA - Quadruple
 lauter,Yaron Sh,"Tue, 05 Aug 2025 19:15:56 +0000",,4.25,Monstrous Oils,Cellarmaker Brewing Company,IPA - Quadruple
@@ -2655,8 +2672,8 @@ lauter,Shmupi Koto,"Sat, 26 Jul 2025 15:40:24 +0000",can,3.7,Smoothie Bowl - Pea
 lauter,David Siegel,"Sat, 26 Jul 2025 15:38:40 +0000",,4.25,Smoothie Bowl - Peachy Dragon,Nepo Brewing,Sour - Smoothie / Pastry
 lauter,Adam Berelowitz,"Sat, 26 Jul 2025 15:35:23 +0000",can,4.3,Smoothie Bowl - Peachy Dragon,Nepo Brewing,Sour - Smoothie / Pastry
 schnitt-brewing-company,Omri Gill,"Sat, 26 Jul 2025 15:33:39 +0000",draft,3.75,Mexico City Twist,Schnitt Brewing Company﻿,Lager - Mexican
-lauter,David Siegel,"Sat, 26 Jul 2025 15:22:08 +0000",,4.0,Pijże,Nepo Brewing,Pale Ale - New England / Hazy
 lauter,Adam Berelowitz,"Sat, 26 Jul 2025 15:22:08 +0000",can,4.2,Smoothie Bowl: Pistachio Fluff,Nepo Brewing,Sour - Smoothie / Pastry
+lauter,David Siegel,"Sat, 26 Jul 2025 15:22:08 +0000",,4.0,Pijże,Nepo Brewing,Pale Ale - New England / Hazy
 lauter,Adam Berelowitz,"Sat, 26 Jul 2025 15:21:39 +0000",can,4.3,Pijże,Nepo Brewing,Pale Ale - New England / Hazy
 lauter,David Siegel,"Sat, 26 Jul 2025 15:20:22 +0000",,4.25,Smoothie Bowl: Pistachio Fluff,Nepo Brewing,Sour - Smoothie / Pastry
 lauter,Anton B,"Sat, 26 Jul 2025 15:17:20 +0000",can,,Windy Hill,Mikkeller,IPA - New England / Hazy
@@ -4532,8 +4549,8 @@ berlin-florentin,Yaron Sh,"Mon, 22 Jan 2024 18:49:44 +0000",can,4.0,"¡Buena Par
 berlin-florentin,Shmupi Koto,"Mon, 22 Jan 2024 18:49:41 +0000",can,3.8,"¡Buena Para El Papa! ¿Si, No?",Brewski,Stout - Imperial / Double Pastry
 berlin-florentin,Shmupi Koto,"Mon, 22 Jan 2024 18:49:04 +0000",can,4.0,200 Units,Brewski,Barleywine - English
 berlin-florentin,Tom Oppenheim,"Mon, 22 Jan 2024 18:48:49 +0000",can,3.5,"¡Buena Para El Papa! ¿Si, No?",Brewski,Stout - Imperial / Double Pastry
-berlin-florentin,Yaron Sh,"Mon, 22 Jan 2024 18:42:20 +0000",,,200 Units,Brewski,Barleywine - English
 berlin-florentin,ori shuster,"Mon, 22 Jan 2024 18:42:20 +0000",can,4.0,200 Units,Brewski,Barleywine - English
+berlin-florentin,Yaron Sh,"Mon, 22 Jan 2024 18:42:20 +0000",,,200 Units,Brewski,Barleywine - English
 berlin-florentin,Yaron Sh,"Mon, 22 Jan 2024 18:41:52 +0000",,,Strawberry Pie,Brewski,Sour - Smoothie / Pastry
 berlin-florentin,Itai Snai,"Mon, 22 Jan 2024 18:40:50 +0000",,3.5,200 Units,Brewski,Barleywine - English
 berlin-florentin,Mikhail Stolov,"Mon, 22 Jan 2024 18:38:56 +0000",,3.75,200 Units,Brewski,Barleywine - English
