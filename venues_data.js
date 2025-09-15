@@ -1,8 +1,782 @@
 // 🍺 BEER STATS DATA - Generated automatically
-// Last updated: 2025-09-14 06:34:29
-// Total records: 5312
+// Last updated: 2025-09-15 06:40:22
+// Total records: 5398
 
 const BEER_DATA = [
+  {
+    "venue": "lauter",
+    "time": "2025-09-14T23:08:59+00:00",
+    "serving": "draft",
+    "rating": 3.7,
+    "beer_name": "Sessionista",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-14T20:57:48+00:00",
+    "serving": "bottle",
+    "rating": 4.3,
+    "beer_name": "Meerts Tilquin aux Baies de Sureau (2020-2021)",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-14T20:52:41+00:00",
+    "serving": "bottle",
+    "rating": 4.5,
+    "beer_name": "Meerts Tilquin aux Fruits des Bois (2020-2021)",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-14T20:51:12+00:00",
+    "serving": "bottle",
+    "rating": 4.0,
+    "beer_name": "Meerts Tilquin à la Mirabelle (2020-2021)",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-14T20:44:41+00:00",
+    "serving": "Unknown",
+    "rating": 4.1,
+    "beer_name": "Meerts Tilquin au Pinot Meunier (2020-2021)",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-09-14T19:42:30+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Porter&Sons: Marshmallow",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Porter - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-14T19:22:36+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Pencil Fight Rematch",
+    "brewery": "RaR Brewing",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-14T19:20:39+00:00",
+    "serving": "bottle",
+    "rating": 4.3,
+    "beer_name": "Meerts Tilquin aux Baies de Sureau (2020-2021)",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-14T19:20:14+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "שנה טובה כפרה",
+    "brewery": "Herzl (הרצל)",
+    "beer_type": "IPA - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-14T19:19:19+00:00",
+    "serving": "bottle",
+    "rating": 4.3,
+    "beer_name": "Meerts Tilquin à la Mirabelle (2020-2021)",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-14T19:16:48+00:00",
+    "serving": "bottle",
+    "rating": 4.4,
+    "beer_name": "Meerts Tilquin aux Fruits des Bois (2020-2021)",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-14T19:13:51+00:00",
+    "serving": "bottle",
+    "rating": 4.0,
+    "beer_name": "Meerts Tilquin au Pinot Meunier (2020-2021)",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-14T19:02:00+00:00",
+    "serving": "draft",
+    "rating": 3.7,
+    "beer_name": "Admiral Nelson",
+    "brewery": "קישקשתא (Kishkashta)",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-14T18:59:18+00:00",
+    "serving": "bottle",
+    "rating": 4.2,
+    "beer_name": "Meerts Tilquin au Cassis (2020-2021)",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-14T18:49:42+00:00",
+    "serving": "bottle",
+    "rating": 4.2,
+    "beer_name": "Meerts Tilquin au Gewurztraminer (2020-2021)",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-14T18:48:10+00:00",
+    "serving": "bottle",
+    "rating": 4.0,
+    "beer_name": "Unknown Grape Madness",
+    "brewery": "Tomer & Tamar",
+    "beer_type": "Homebrew, Sour - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-14T18:44:38+00:00",
+    "serving": "can",
+    "rating": 4.3,
+    "beer_name": "Pencil Fight Rematch",
+    "brewery": "RaR Brewing",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-14T18:37:56+00:00",
+    "serving": "can",
+    "rating": 4.5,
+    "beer_name": "Pencil Fight Rematch",
+    "brewery": "RaR Brewing",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-09-14T18:34:15+00:00",
+    "serving": "Unknown",
+    "rating": 2.75,
+    "beer_name": "Strawberry Sundae",
+    "brewery": "Vault City Brewing",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-09-14T18:32:14+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Black Heart",
+    "brewery": "BrewDog",
+    "beer_type": "Stout - Irish Dry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-14T18:28:32+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Delirium Black Barrel Aged",
+    "brewery": "Delirium - Huyghe Brewery",
+    "beer_type": "Belgian Strong Dark Ale"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-14T18:27:42+00:00",
+    "serving": "draft",
+    "rating": null,
+    "beer_name": "Meerts Tilquin à la Kriek de Schaerbeek",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-14T18:21:45+00:00",
+    "serving": "bottle",
+    "rating": 4.4,
+    "beer_name": "Meerts Tilquin à la Syrah (2021-2022)",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-14T18:13:07+00:00",
+    "serving": "bottle",
+    "rating": 4.4,
+    "beer_name": "Meerts Tilquin à l'Airelle Sauvage (2021-2022)",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-14T18:09:26+00:00",
+    "serving": "bottle",
+    "rating": 4.3,
+    "beer_name": "Meerts Tilquin à la Roussanne (2021-2022)",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-14T18:06:16+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "Meerts Tilquin à la Kriek de Schaerbeek",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-14T18:03:02+00:00",
+    "serving": "bottle",
+    "rating": 4.2,
+    "beer_name": "Meerts Tilquin au Riesling (2020-2021)",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-14T17:59:04+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Givat Batich גבעת בטיח",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Farmhouse Ale - Saison"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-14T17:58:30+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Fruitheart Smoothie Sour Ale",
+    "brewery": "Ārpus Brewing Co.",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-14T17:56:36+00:00",
+    "serving": "bottle",
+    "rating": 4.0,
+    "beer_name": "Meerts Tilquin au Riesling (2021-2022)",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-14T17:56:17+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Sweet Dreams",
+    "brewery": "Oak & Ash",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-14T17:54:49+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Black Currant x Cherry x Blueberry x Coconut x Almond Smoothie Sour Ale",
+    "brewery": "Ārpus Brewing Co.",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-14T17:52:52+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Dragon Fruit X Pear X Banana X Pineapple X Lemon Smoothie Sour Ale",
+    "brewery": "Ārpus Brewing Co.",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-14T17:52:36+00:00",
+    "serving": "can",
+    "rating": 4.2,
+    "beer_name": "Meerts Tilquin au Pinot Gris (2020-2021)",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-14T17:52:13+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Lazy Evenings",
+    "brewery": "Oak & Ash",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-14T17:51:22+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Sweet Dreams",
+    "brewery": "Oak & Ash",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-14T17:46:11+00:00",
+    "serving": "bottle",
+    "rating": 4.0,
+    "beer_name": "Meerts Tilquin au Pinot Gris (2021-2022)",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-14T17:42:32+00:00",
+    "serving": "draft",
+    "rating": 3.25,
+    "beer_name": "Lazy Evenings",
+    "brewery": "Oak & Ash",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-14T17:39:28+00:00",
+    "serving": "bottle",
+    "rating": 4.4,
+    "beer_name": "Meerts Tilquin au Pinot Noir (2020-2021)",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-14T17:39:06+00:00",
+    "serving": "Unknown",
+    "rating": 3.7,
+    "beer_name": "Jaffa IPA",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-14T17:38:04+00:00",
+    "serving": "bottle",
+    "rating": 4.0,
+    "beer_name": "Meerts Tilquin au Pinot Noir (2021-2022)",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-14T17:37:49+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "Dragon Fruit X Pear X Banana X Pineapple X Lemon Smoothie Sour Ale",
+    "brewery": "Ārpus Brewing Co.",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-14T17:36:32+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "Dragon Fruit X Pear X Banana X Pineapple X Lemon Smoothie Sour Ale",
+    "brewery": "Ārpus Brewing Co.",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-14T17:36:18+00:00",
+    "serving": "bottle",
+    "rating": 4.4,
+    "beer_name": "Meerts Tilquin au Pinot Noir (2021-2022)",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-14T17:32:01+00:00",
+    "serving": "draft",
+    "rating": 4.5,
+    "beer_name": "Black Currant x Cherry x Blueberry x Coconut x Almond Smoothie Sour Ale",
+    "brewery": "Ārpus Brewing Co.",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-14T17:31:29+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "Black Currant x Cherry x Blueberry x Coconut x Almond Smoothie Sour Ale",
+    "brewery": "Ārpus Brewing Co.",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-14T17:24:49+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Dragon Fruit X Pear X Banana X Pineapple X Lemon Smoothie Sour Ale",
+    "brewery": "Ārpus Brewing Co.",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-14T17:24:29+00:00",
+    "serving": "draft",
+    "rating": null,
+    "beer_name": "Black Currant x Cherry x Blueberry x Coconut x Almond Smoothie Sour Ale",
+    "brewery": "Ārpus Brewing Co.",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-14T17:23:57+00:00",
+    "serving": "draft",
+    "rating": null,
+    "beer_name": "Fruitheart Smoothie Sour Ale",
+    "brewery": "Ārpus Brewing Co.",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-14T17:23:36+00:00",
+    "serving": "draft",
+    "rating": null,
+    "beer_name": "Eclipse",
+    "brewery": "Schmulz",
+    "beer_type": "Mead - Braggot"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-14T16:58:12+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "Delirium Black Barrel Aged",
+    "brewery": "Delirium - Huyghe Brewery",
+    "beer_type": "Belgian Strong Dark Ale"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-09-14T16:48:17+00:00",
+    "serving": "draft",
+    "rating": 3.7,
+    "beer_name": "IN THE  SMALL",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Table Beer"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-14T16:22:07+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "Black Currant x Cherry x Blueberry x Coconut x Almond Smoothie Sour Ale",
+    "brewery": "Ārpus Brewing Co.",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-14T16:20:20+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Delirium Black Barrel Aged",
+    "brewery": "Delirium - Huyghe Brewery",
+    "beer_type": "Belgian Strong Dark Ale"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-14T16:19:55+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "Eclipse",
+    "brewery": "Schmulz",
+    "beer_type": "Mead - Braggot"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-14T16:19:54+00:00",
+    "serving": "draft",
+    "rating": 4.3,
+    "beer_name": "Meerts Tilquin à la Kriek de Schaerbeek",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-14T16:18:20+00:00",
+    "serving": "Unknown",
+    "rating": 4.1,
+    "beer_name": "Eclipse",
+    "brewery": "Schmulz",
+    "beer_type": "Mead - Braggot"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-14T16:15:28+00:00",
+    "serving": "Unknown",
+    "rating": 3.7,
+    "beer_name": "Delirium Black Barrel Aged",
+    "brewery": "Delirium - Huyghe Brewery",
+    "beer_type": "Belgian Strong Dark Ale"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-14T16:13:55+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Delirium Black Barrel Aged",
+    "brewery": "Delirium - Huyghe Brewery",
+    "beer_type": "Belgian Strong Dark Ale"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-14T16:12:53+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Lazy Evenings",
+    "brewery": "Oak & Ash",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-14T16:11:13+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Delirium Black Barrel Aged",
+    "brewery": "Delirium - Huyghe Brewery",
+    "beer_type": "Belgian Strong Dark Ale"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-14T16:10:24+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Budweiser Budvar B:DARK / Czechvar B:DARK",
+    "brewery": "Budějovický Budvar",
+    "beer_type": "Lager - Tmavé (Czech Dark)"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-14T16:09:00+00:00",
+    "serving": "draft",
+    "rating": 4.5,
+    "beer_name": "Dragon Fruit X Pear X Banana X Pineapple X Lemon Smoothie Sour Ale",
+    "brewery": "Ārpus Brewing Co.",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-14T16:07:06+00:00",
+    "serving": "draft",
+    "rating": 4.2,
+    "beer_name": "Dragon Fruit X Pear X Banana X Pineapple X Lemon Smoothie Sour Ale",
+    "brewery": "Ārpus Brewing Co.",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-14T16:06:11+00:00",
+    "serving": "draft",
+    "rating": 4.6,
+    "beer_name": "Black Currant x Cherry x Blueberry x Coconut x Almond Smoothie Sour Ale",
+    "brewery": "Ārpus Brewing Co.",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-14T16:04:49+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Sidras Pusiau Sausas",
+    "brewery": "Volfas Engelman",
+    "beer_type": "Cider - Traditional / Apfelwein"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-14T16:00:43+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Admiral Nelson",
+    "brewery": "קישקשתא (Kishkashta)",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-14T15:52:21+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Admiral Nelson",
+    "brewery": "קישקשתא (Kishkashta)",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-14T15:39:06+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Delirium Black Barrel Aged",
+    "brewery": "Delirium - Huyghe Brewery",
+    "beer_type": "Belgian Strong Dark Ale"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-14T15:30:40+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Birthday Popsicle קרטיב יום הולדת",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-14T15:24:39+00:00",
+    "serving": "draft",
+    "rating": 4.75,
+    "beer_name": "Black Currant x Cherry x Blueberry x Coconut x Almond Smoothie Sour Ale",
+    "brewery": "Ārpus Brewing Co.",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-14T15:10:04+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Eclipse",
+    "brewery": "Schmulz",
+    "beer_type": "Mead - Braggot"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-14T14:58:33+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Lazy Evenings",
+    "brewery": "Oak & Ash",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-14T14:54:19+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Eclipse",
+    "brewery": "Schmulz",
+    "beer_type": "Mead - Braggot"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-14T14:40:12+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Birthday Popsicle קרטיב יום הולדת",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-14T14:29:53+00:00",
+    "serving": "draft",
+    "rating": 4.5,
+    "beer_name": "Dragon Fruit X Pear X Banana X Pineapple X Lemon Smoothie Sour Ale",
+    "brewery": "Ārpus Brewing Co.",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-14T14:17:54+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Birthday Popsicle קרטיב יום הולדת",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-14T14:15:01+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "Dragon Fruit X Pear X Banana X Pineapple X Lemon Smoothie Sour Ale",
+    "brewery": "Ārpus Brewing Co.",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-14T14:08:16+00:00",
+    "serving": "draft",
+    "rating": 4.75,
+    "beer_name": "Black Currant x Cherry x Blueberry x Coconut x Almond Smoothie Sour Ale",
+    "brewery": "Ārpus Brewing Co.",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-14T14:00:08+00:00",
+    "serving": "draft",
+    "rating": 4.5,
+    "beer_name": "Black Currant x Cherry x Blueberry x Coconut x Almond Smoothie Sour Ale",
+    "brewery": "Ārpus Brewing Co.",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-14T13:51:56+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Sidras Pusiau Sausas",
+    "brewery": "Volfas Engelman",
+    "beer_type": "Cider - Traditional / Apfelwein"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-14T13:32:39+00:00",
+    "serving": "draft",
+    "rating": 4.75,
+    "beer_name": "Black Currant x Cherry x Blueberry x Coconut x Almond Smoothie Sour Ale",
+    "brewery": "Ārpus Brewing Co.",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-14T13:28:47+00:00",
+    "serving": "draft",
+    "rating": 4.5,
+    "beer_name": "Dragon Fruit X Pear X Banana X Pineapple X Lemon Smoothie Sour Ale",
+    "brewery": "Ārpus Brewing Co.",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-14T13:25:03+00:00",
+    "serving": "draft",
+    "rating": 4.5,
+    "beer_name": "Black Currant x Cherry x Blueberry x Coconut x Almond Smoothie Sour Ale",
+    "brewery": "Ārpus Brewing Co.",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-14T13:23:59+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "Eclipse",
+    "brewery": "Schmulz",
+    "beer_type": "Mead - Braggot"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-14T07:14:44+00:00",
+    "serving": "bottle",
+    "rating": 5.0,
+    "beer_name": "Alfajoreplay",
+    "brewery": "Schmulz",
+    "beer_type": "Mead - Other"
+  },
   {
     "venue": "lauter",
     "time": "2025-09-14T04:54:37+00:00",
@@ -8691,7 +9465,7 @@ const BEER_DATA = [
   {
     "venue": "lauter",
     "time": "2025-09-01T17:44:35+00:00",
-    "serving": "bottle",
+    "serving": "Unknown",
     "rating": 4.0,
     "beer_name": "Hops Don’t Lie",
     "brewery": "Thurø Bryghus",
@@ -8700,7 +9474,7 @@ const BEER_DATA = [
   {
     "venue": "lauter",
     "time": "2025-09-01T17:44:35+00:00",
-    "serving": "Unknown",
+    "serving": "bottle",
     "rating": 4.0,
     "beer_name": "Hops Don’t Lie",
     "brewery": "Thurø Bryghus",
@@ -13576,15 +14350,6 @@ const BEER_DATA = [
     "beer_type": "Stout - White / Golden"
   },
   {
-    "venue": "lauter",
-    "time": "2025-08-21T16:00:28+00:00",
-    "serving": "draft",
-    "rating": 3.5,
-    "beer_name": "KRUSHED IT",
-    "brewery": "Oak & Ash",
-    "beer_type": "IPA - New England / Hazy"
-  },
-  {
     "venue": "b7-beer-house",
     "time": "2025-08-21T16:00:28+00:00",
     "serving": "can",
@@ -13592,6 +14357,15 @@ const BEER_DATA = [
     "beer_name": "Naughty & Nice - White Chocolate & Raspberry",
     "brewery": "Vocation Brewery",
     "beer_type": "Stout - White / Golden"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-21T16:00:28+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "KRUSHED IT",
+    "brewery": "Oak & Ash",
+    "beer_type": "IPA - New England / Hazy"
   },
   {
     "venue": "b7-beer-house",
@@ -20526,8 +21300,8 @@ const BEER_DATA = [
   {
     "venue": "lauter",
     "time": "2025-08-05T19:24:07+00:00",
-    "serving": "can",
-    "rating": 4.5,
+    "serving": "Unknown",
+    "rating": null,
     "beer_name": "SLUSHY XL: Haha!",
     "brewery": "450 North Brewing Company",
     "beer_type": "Sour - Smoothie / Pastry"
@@ -20535,8 +21309,8 @@ const BEER_DATA = [
   {
     "venue": "lauter",
     "time": "2025-08-05T19:24:07+00:00",
-    "serving": "Unknown",
-    "rating": null,
+    "serving": "can",
+    "rating": 4.5,
     "beer_name": "SLUSHY XL: Haha!",
     "brewery": "450 North Brewing Company",
     "beer_type": "Sour - Smoothie / Pastry"
@@ -20823,8 +21597,8 @@ const BEER_DATA = [
   {
     "venue": "lauter",
     "time": "2025-08-05T18:49:38+00:00",
-    "serving": "Unknown",
-    "rating": 4.5,
+    "serving": "can",
+    "rating": 4.0,
     "beer_name": "Whakahoa",
     "brewery": "Factory Brewing",
     "beer_type": "IPA - Triple New England / Hazy"
@@ -20832,8 +21606,8 @@ const BEER_DATA = [
   {
     "venue": "lauter",
     "time": "2025-08-05T18:49:38+00:00",
-    "serving": "can",
-    "rating": 4.0,
+    "serving": "Unknown",
+    "rating": 4.5,
     "beer_name": "Whakahoa",
     "brewery": "Factory Brewing",
     "beer_type": "IPA - Triple New England / Hazy"
