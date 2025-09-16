@@ -1,8 +1,287 @@
 // 🍺 BEER STATS DATA - Generated automatically
-// Last updated: 2025-09-15 06:40:22
-// Total records: 5398
+// Last updated: 2025-09-16 06:37:33
+// Total records: 5429
 
 const BEER_DATA = [
+  {
+    "venue": "lauter",
+    "time": "2025-09-15T19:38:00+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Lazy Evenings",
+    "brewery": "Oak & Ash",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-15T19:25:48+00:00",
+    "serving": "bottle",
+    "rating": 4.8,
+    "beer_name": "Pescharina (Oogst 2023)",
+    "brewery": "Boerenerf",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-09-15T19:18:09+00:00",
+    "serving": "draft",
+    "rating": 2.5,
+    "beer_name": "Lazy Bee Hibiscus And Raspberries",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Mead - Session / Short"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-09-15T19:17:40+00:00",
+    "serving": "draft",
+    "rating": 2.25,
+    "beer_name": "Salt N' Peppa",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Lager - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-15T18:42:25+00:00",
+    "serving": "draft",
+    "rating": 4.75,
+    "beer_name": "Delirium Black Barrel Aged",
+    "brewery": "Delirium - Huyghe Brewery",
+    "beer_type": "Belgian Strong Dark Ale"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-15T18:21:35+00:00",
+    "serving": "bottle",
+    "rating": 4.0,
+    "beer_name": "Jaipur",
+    "brewery": "Thornbridge Brewery",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-15T18:02:31+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "Dragon Fruit X Pear X Banana X Pineapple X Lemon Smoothie Sour Ale",
+    "brewery": "Ārpus Brewing Co.",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-09-15T18:00:37+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Porter&Sons: Marshmallow",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Porter - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-15T17:57:27+00:00",
+    "serving": "draft",
+    "rating": 2.7,
+    "beer_name": "Sidras Pusiau Sausas",
+    "brewery": "Volfas Engelman",
+    "beer_type": "Cider - Traditional / Apfelwein"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-15T17:00:05+00:00",
+    "serving": "draft",
+    "rating": 4.5,
+    "beer_name": "Dragon Fruit X Pear X Banana X Pineapple X Lemon Smoothie Sour Ale",
+    "brewery": "Ārpus Brewing Co.",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-15T16:59:38+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "Black Currant x Cherry x Blueberry x Coconut x Almond Smoothie Sour Ale",
+    "brewery": "Ārpus Brewing Co.",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-15T16:01:20+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "Eclipse",
+    "brewery": "Schmulz",
+    "beer_type": "Mead - Braggot"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-15T15:13:38+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Sweet Dreams",
+    "brewery": "Oak & Ash",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-15T15:13:05+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Admiral Nelson",
+    "brewery": "קישקשתא (Kishkashta)",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-15T15:13:03+00:00",
+    "serving": "draft",
+    "rating": null,
+    "beer_name": "Sweet Dreams",
+    "brewery": "Oak & Ash",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-15T15:12:38+00:00",
+    "serving": "draft",
+    "rating": null,
+    "beer_name": "Dragon Fruit X Pear X Banana X Pineapple X Lemon Smoothie Sour Ale",
+    "brewery": "Ārpus Brewing Co.",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-15T15:12:31+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Admiral Nelson",
+    "brewery": "קישקשתא (Kishkashta)",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-15T15:12:09+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Lazy Evenings",
+    "brewery": "Oak & Ash",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-15T15:11:43+00:00",
+    "serving": "draft",
+    "rating": null,
+    "beer_name": "Black Currant x Cherry x Blueberry x Coconut x Almond Smoothie Sour Ale",
+    "brewery": "Ārpus Brewing Co.",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-15T15:11:42+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Dragon Fruit X Pear X Banana X Pineapple X Lemon Smoothie Sour Ale",
+    "brewery": "Ārpus Brewing Co.",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-15T15:11:02+00:00",
+    "serving": "draft",
+    "rating": null,
+    "beer_name": "Lazy Evenings",
+    "brewery": "Oak & Ash",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-15T15:10:20+00:00",
+    "serving": "draft",
+    "rating": null,
+    "beer_name": "Black Currant x Cherry x Blueberry x Coconut x Almond Smoothie Sour Ale",
+    "brewery": "Ārpus Brewing Co.",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-15T15:07:20+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Eclipse",
+    "brewery": "Schmulz",
+    "beer_type": "Mead - Braggot"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-09-15T14:52:00+00:00",
+    "serving": "draft",
+    "rating": 4.75,
+    "beer_name": "Triple Hope",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-15T14:45:27+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Sessionista",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-15T14:43:17+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Admiral Nelson",
+    "brewery": "קישקשתא (Kishkashta)",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-09-15T14:04:24+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Mandatory Afterglow",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Lager - IPL (India Pale Lager)"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-15T13:54:52+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "Dragon Fruit X Pear X Banana X Pineapple X Lemon Smoothie Sour Ale",
+    "brewery": "Ārpus Brewing Co.",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-15T13:42:38+00:00",
+    "serving": "Unknown",
+    "rating": 4.25,
+    "beer_name": "Black Currant x Cherry x Blueberry x Coconut x Almond Smoothie Sour Ale",
+    "brewery": "Ārpus Brewing Co.",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-15T09:05:21+00:00",
+    "serving": "draft",
+    "rating": 4.5,
+    "beer_name": "Dragon Fruit X Pear X Banana X Pineapple X Lemon Smoothie Sour Ale",
+    "brewery": "Ārpus Brewing Co.",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-15T08:14:47+00:00",
+    "serving": "bottle",
+    "rating": 3.7,
+    "beer_name": "Chimay Grande Réserve (Blue) (2012)",
+    "brewery": "Bières de Chimay",
+    "beer_type": "Belgian Strong Dark Ale"
+  },
   {
     "venue": "lauter",
     "time": "2025-09-14T23:08:59+00:00",
@@ -14298,8 +14577,8 @@ const BEER_DATA = [
   {
     "venue": "b7-beer-house",
     "time": "2025-08-21T16:02:37+00:00",
-    "serving": "Unknown",
-    "rating": 3.75,
+    "serving": "can",
+    "rating": 3.5,
     "beer_name": "Nitro Mini M*rs",
     "brewery": "Vault City Brewing",
     "beer_type": "Stout - Pastry"
@@ -14307,8 +14586,8 @@ const BEER_DATA = [
   {
     "venue": "b7-beer-house",
     "time": "2025-08-21T16:02:37+00:00",
-    "serving": "can",
-    "rating": 3.5,
+    "serving": "Unknown",
+    "rating": 3.75,
     "beer_name": "Nitro Mini M*rs",
     "brewery": "Vault City Brewing",
     "beer_type": "Stout - Pastry"
@@ -14350,15 +14629,6 @@ const BEER_DATA = [
     "beer_type": "Stout - White / Golden"
   },
   {
-    "venue": "b7-beer-house",
-    "time": "2025-08-21T16:00:28+00:00",
-    "serving": "can",
-    "rating": 5.0,
-    "beer_name": "Naughty & Nice - White Chocolate & Raspberry",
-    "brewery": "Vocation Brewery",
-    "beer_type": "Stout - White / Golden"
-  },
-  {
     "venue": "lauter",
     "time": "2025-08-21T16:00:28+00:00",
     "serving": "draft",
@@ -14366,6 +14636,15 @@ const BEER_DATA = [
     "beer_name": "KRUSHED IT",
     "brewery": "Oak & Ash",
     "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-21T16:00:28+00:00",
+    "serving": "can",
+    "rating": 5.0,
+    "beer_name": "Naughty & Nice - White Chocolate & Raspberry",
+    "brewery": "Vocation Brewery",
+    "beer_type": "Stout - White / Golden"
   },
   {
     "venue": "b7-beer-house",
