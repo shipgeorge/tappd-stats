@@ -1,8 +1,620 @@
 // 🍺 BEER STATS DATA - Generated automatically
-// Last updated: 2025-09-17 06:37:33
-// Total records: 5464
+// Last updated: 2025-09-18 06:37:18
+// Total records: 5532
 
 const BEER_DATA = [
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-09-18T04:31:35+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "IN THE  SMALL",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Table Beer"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-09-17T21:25:25+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "It Is What It Is",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Blonde / Golden Ale - Other"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-09-17T21:23:23+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "I(tai)PA",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-17T19:52:58+00:00",
+    "serving": "draft",
+    "rating": 4.5,
+    "beer_name": "Black Currant x Cherry x Blueberry x Coconut x Almond Smoothie Sour Ale",
+    "brewery": "Ārpus Brewing Co.",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-09-17T19:46:03+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "OrIPA",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-17T18:50:52+00:00",
+    "serving": "Unknown",
+    "rating": 4.5,
+    "beer_name": "Beejoya",
+    "brewery": "Schmulz",
+    "beer_type": "Mead - Melomel"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-17T18:43:48+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "Delirium Black Barrel Aged",
+    "brewery": "Delirium - Huyghe Brewery",
+    "beer_type": "Belgian Strong Dark Ale"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-17T18:24:05+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Malabiscus sour",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Sour - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-17T18:21:30+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Pleroma Karpologi Pineapple Peach Marshmallow Créme Brulée Sour",
+    "brewery": "Omnipollo",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-17T18:16:49+00:00",
+    "serving": "can",
+    "rating": 4.75,
+    "beer_name": "Dragon Fruit X Pear X Banana X Pineapple X Lemon Smoothie Sour Ale",
+    "brewery": "Ārpus Brewing Co.",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "berlin-florentin",
+    "time": "2025-09-17T18:09:14+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "Tempus - The Veil Is Thin",
+    "brewery": "Beavertown",
+    "beer_type": "Stout - Imperial / Double"
+  },
+  {
+    "venue": "berlin-florentin",
+    "time": "2025-09-17T18:08:57+00:00",
+    "serving": "bottle",
+    "rating": 4.5,
+    "beer_name": "Tempus - The Veil Is Thin",
+    "brewery": "Beavertown",
+    "beer_type": "Stout - Imperial / Double"
+  },
+  {
+    "venue": "berlin-florentin",
+    "time": "2025-09-17T18:08:39+00:00",
+    "serving": "bottle",
+    "rating": 4.0,
+    "beer_name": "Tempus - The Veil Is Thin",
+    "brewery": "Beavertown",
+    "beer_type": "Stout - Imperial / Double"
+  },
+  {
+    "venue": "berlin-florentin",
+    "time": "2025-09-17T18:01:18+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "In Plenty",
+    "brewery": "Omnipollo",
+    "beer_type": "Stout - Imperial / Double Pastry"
+  },
+  {
+    "venue": "berlin-florentin",
+    "time": "2025-09-17T17:59:49+00:00",
+    "serving": "bottle",
+    "rating": 4.5,
+    "beer_name": "In Plenty",
+    "brewery": "Omnipollo",
+    "beer_type": "Stout - Imperial / Double Pastry"
+  },
+  {
+    "venue": "berlin-florentin",
+    "time": "2025-09-17T17:53:59+00:00",
+    "serving": "Unknown",
+    "rating": 4.5,
+    "beer_name": "Anagram Blueberry Cheesecake Stout",
+    "brewery": "Omnipollo",
+    "beer_type": "Stout - Imperial / Double Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-17T17:50:43+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Admiral Nelson",
+    "brewery": "קישקשתא (Kishkashta)",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "berlin-florentin",
+    "time": "2025-09-17T17:50:09+00:00",
+    "serving": "bottle",
+    "rating": 4.75,
+    "beer_name": "Anagram Blueberry Hazelnut Coffee Cheesecake Stout 2022",
+    "brewery": "Omnipollo",
+    "beer_type": "Stout - Imperial / Double Pastry"
+  },
+  {
+    "venue": "berlin-florentin",
+    "time": "2025-09-17T17:48:36+00:00",
+    "serving": "bottle",
+    "rating": 3.5,
+    "beer_name": "Anagram Blueberry Cheesecake Stout",
+    "brewery": "Omnipollo",
+    "beer_type": "Stout - Imperial / Double Pastry"
+  },
+  {
+    "venue": "berlin-florentin",
+    "time": "2025-09-17T17:47:26+00:00",
+    "serving": "Unknown",
+    "rating": 4.5,
+    "beer_name": "7 Sons",
+    "brewery": "Omnipollo",
+    "beer_type": "Stout - Imperial / Double Pastry"
+  },
+  {
+    "venue": "berlin-florentin",
+    "time": "2025-09-17T17:45:11+00:00",
+    "serving": "bottle",
+    "rating": 4.75,
+    "beer_name": "7 Sons",
+    "brewery": "Omnipollo",
+    "beer_type": "Stout - Imperial / Double Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-09-17T17:44:47+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Naughty and Nice - Caramel Cookie Chocolate Imperial Stout",
+    "brewery": "Vocation Brewery",
+    "beer_type": "Stout - Imperial / Double Milk"
+  },
+  {
+    "venue": "berlin-florentin",
+    "time": "2025-09-17T17:42:27+00:00",
+    "serving": "Unknown",
+    "rating": 4.25,
+    "beer_name": "Noa Pecan Mud Cake Stout",
+    "brewery": "Omnipollo",
+    "beer_type": "Stout - Imperial / Double Pastry"
+  },
+  {
+    "venue": "berlin-florentin",
+    "time": "2025-09-17T17:38:26+00:00",
+    "serving": "bottle",
+    "rating": 3.75,
+    "beer_name": "Noa Pecan Mud Cake Stout",
+    "brewery": "Omnipollo",
+    "beer_type": "Stout - Imperial / Double Pastry"
+  },
+  {
+    "venue": "berlin-florentin",
+    "time": "2025-09-17T17:34:49+00:00",
+    "serving": "Unknown",
+    "rating": 4.25,
+    "beer_name": "Bianca Expedition Blueberry Blackberry Kiwi Lassi Gose",
+    "brewery": "Omnipollo",
+    "beer_type": "Sour - Fruited Gose"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-09-17T17:28:07+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Hazelnut Brown Ale",
+    "brewery": "Rogue Ales",
+    "beer_type": "Brown Ale - American"
+  },
+  {
+    "venue": "berlin-florentin",
+    "time": "2025-09-17T17:26:26+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "God’s Raspberry Ice Cream Sour",
+    "brewery": "Omnipollo",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "berlin-florentin",
+    "time": "2025-09-17T17:25:36+00:00",
+    "serving": "can",
+    "rating": 4.75,
+    "beer_name": "God’s Raspberry Ice Cream Sour",
+    "brewery": "Omnipollo",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-17T17:24:57+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "שנה טובה כפרה",
+    "brewery": "Herzl (הרצל)",
+    "beer_type": "IPA - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-17T17:24:23+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Admiral Nelson",
+    "brewery": "קישקשתא (Kishkashta)",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-17T17:22:42+00:00",
+    "serving": "draft",
+    "rating": 3.0,
+    "beer_name": "Eclipse",
+    "brewery": "Schmulz",
+    "beer_type": "Mead - Braggot"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-17T17:22:20+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Honey Hunter Ginger Lemon",
+    "brewery": "Schmulz",
+    "beer_type": "Mead - Melomel"
+  },
+  {
+    "venue": "berlin-florentin",
+    "time": "2025-09-17T17:19:33+00:00",
+    "serving": "Unknown",
+    "rating": 4.25,
+    "beer_name": "Bianca Expedition Blueberry Blackberry Kiwi Lassi Gose",
+    "brewery": "Omnipollo",
+    "beer_type": "Sour - Fruited Gose"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-17T17:18:53+00:00",
+    "serving": "bottle",
+    "rating": 4.0,
+    "beer_name": "Honey Hunter",
+    "brewery": "Schmulz",
+    "beer_type": "Mead - Traditional"
+  },
+  {
+    "venue": "berlin-florentin",
+    "time": "2025-09-17T17:18:01+00:00",
+    "serving": "can",
+    "rating": 4.75,
+    "beer_name": "Bianca Expedition Blueberry Blackberry Kiwi Lassi Gose",
+    "brewery": "Omnipollo",
+    "beer_type": "Sour - Fruited Gose"
+  },
+  {
+    "venue": "berlin-florentin",
+    "time": "2025-09-17T17:10:36+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Triple Amun",
+    "brewery": "Omnipollo",
+    "beer_type": "IPA - Triple New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-17T17:10:18+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "Honey Hunter",
+    "brewery": "Schmulz",
+    "beer_type": "Mead - Traditional"
+  },
+  {
+    "venue": "berlin-florentin",
+    "time": "2025-09-17T17:10:04+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "Triple Amun",
+    "brewery": "Omnipollo",
+    "beer_type": "IPA - Triple New England / Hazy"
+  },
+  {
+    "venue": "berlin-florentin",
+    "time": "2025-09-17T17:09:28+00:00",
+    "serving": "can",
+    "rating": 4.5,
+    "beer_name": "Triple Amun",
+    "brewery": "Omnipollo",
+    "beer_type": "IPA - Triple New England / Hazy"
+  },
+  {
+    "venue": "berlin-florentin",
+    "time": "2025-09-17T17:06:51+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "Pim",
+    "brewery": "Omnipollo",
+    "beer_type": "Pale Ale - New England / Hazy"
+  },
+  {
+    "venue": "berlin-florentin",
+    "time": "2025-09-17T17:06:35+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "Pim",
+    "brewery": "Omnipollo",
+    "beer_type": "Pale Ale - New England / Hazy"
+  },
+  {
+    "venue": "berlin-florentin",
+    "time": "2025-09-17T17:06:12+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Pim",
+    "brewery": "Omnipollo",
+    "beer_type": "Pale Ale - New England / Hazy"
+  },
+  {
+    "venue": "berlin-florentin",
+    "time": "2025-09-17T17:03:04+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "Manna",
+    "brewery": "Omnipollo",
+    "beer_type": "IPA - Imperial / Double New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-17T17:02:27+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "שנה טובה כפרה",
+    "brewery": "Herzl (הרצל)",
+    "beer_type": "IPA - Other"
+  },
+  {
+    "venue": "berlin-florentin",
+    "time": "2025-09-17T17:02:03+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Manna",
+    "brewery": "Omnipollo",
+    "beer_type": "IPA - Imperial / Double New England / Hazy"
+  },
+  {
+    "venue": "berlin-florentin",
+    "time": "2025-09-17T16:58:53+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Deep Work",
+    "brewery": "Omnipollo",
+    "beer_type": "IPA - Other"
+  },
+  {
+    "venue": "berlin-florentin",
+    "time": "2025-09-17T16:58:35+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "Deep Work",
+    "brewery": "Omnipollo",
+    "beer_type": "IPA - Other"
+  },
+  {
+    "venue": "berlin-florentin",
+    "time": "2025-09-17T16:55:58+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Pleroma Karpologi Pineapple Peach Marshmallow Créme Brulée Sour",
+    "brewery": "Omnipollo",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "berlin-florentin",
+    "time": "2025-09-17T16:46:21+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Pleroma Karpologi Pineapple Peach Marshmallow Créme Brulée Sour",
+    "brewery": "Omnipollo",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-17T16:45:38+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "Black Currant x Cherry x Blueberry x Coconut x Almond Smoothie Sour Ale",
+    "brewery": "Ārpus Brewing Co.",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "berlin-florentin",
+    "time": "2025-09-17T16:35:05+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Soundwave IPA",
+    "brewery": "Siren Craft Brew",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-17T16:32:38+00:00",
+    "serving": "draft",
+    "rating": 4.5,
+    "beer_name": "Dragon Fruit X Pear X Banana X Pineapple X Lemon Smoothie Sour Ale",
+    "brewery": "Ārpus Brewing Co.",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-09-17T16:15:48+00:00",
+    "serving": "draft",
+    "rating": 2.75,
+    "beer_name": "באה מאהבה",
+    "brewery": "New Pioneer Brewing Co - חלוץ חדש",
+    "beer_type": "Red Ale - American Amber / Red"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-09-17T16:12:36+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Salt N' Peppa",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Lager - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-17T15:57:04+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "שנה טובה כפרה",
+    "brewery": "Herzl (הרצל)",
+    "beer_type": "IPA - Other"
+  },
+  {
+    "venue": "berlin-florentin",
+    "time": "2025-09-17T15:53:41+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Porter Alon (פורטר אלון)",
+    "brewery": "Negev Brewery (נגב)",
+    "beer_type": "Porter - Other"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-09-17T15:46:15+00:00",
+    "serving": "draft",
+    "rating": 3.25,
+    "beer_name": "שנה טובה כפרה",
+    "brewery": "Herzl (הרצל)",
+    "beer_type": "IPA - Other"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-09-17T15:00:17+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "Sessionista",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-09-17T14:44:19+00:00",
+    "serving": "draft",
+    "rating": 3.0,
+    "beer_name": "OrIPA",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-09-17T14:38:47+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Givat Batich גבעת בטיח",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Farmhouse Ale - Saison"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-17T14:37:50+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Lazy N'Hazy",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-17T14:23:36+00:00",
+    "serving": "draft",
+    "rating": 4.5,
+    "beer_name": "Dragon Fruit X Pear X Banana X Pineapple X Lemon Smoothie Sour Ale",
+    "brewery": "Ārpus Brewing Co.",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-09-17T13:30:54+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Frenemy",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pale Ale - American"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-09-17T13:28:14+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Lazy N'Hazy",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-09-17T13:23:54+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Lazy N'Hazy",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-09-17T10:55:18+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "OrIPA",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-17T07:30:04+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "Black Currant x Cherry x Blueberry x Coconut x Almond Smoothie Sour Ale",
+    "brewery": "Ārpus Brewing Co.",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-17T07:20:19+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Lazy Evenings",
+    "brewery": "Oak & Ash",
+    "beer_type": "Sour - Fruited"
+  },
   {
     "venue": "b7-beer-house",
     "time": "2025-09-16T20:42:52+00:00",
@@ -10059,7 +10671,7 @@ const BEER_DATA = [
   {
     "venue": "lauter",
     "time": "2025-09-01T17:44:35+00:00",
-    "serving": "bottle",
+    "serving": "Unknown",
     "rating": 4.0,
     "beer_name": "Hops Don’t Lie",
     "brewery": "Thurø Bryghus",
@@ -10068,7 +10680,7 @@ const BEER_DATA = [
   {
     "venue": "lauter",
     "time": "2025-09-01T17:44:35+00:00",
-    "serving": "Unknown",
+    "serving": "bottle",
     "rating": 4.0,
     "beer_name": "Hops Don’t Lie",
     "brewery": "Thurø Bryghus",
@@ -14892,8 +15504,8 @@ const BEER_DATA = [
   {
     "venue": "b7-beer-house",
     "time": "2025-08-21T16:02:37+00:00",
-    "serving": "Unknown",
-    "rating": 3.75,
+    "serving": "can",
+    "rating": 3.5,
     "beer_name": "Nitro Mini M*rs",
     "brewery": "Vault City Brewing",
     "beer_type": "Stout - Pastry"
@@ -14901,8 +15513,8 @@ const BEER_DATA = [
   {
     "venue": "b7-beer-house",
     "time": "2025-08-21T16:02:37+00:00",
-    "serving": "can",
-    "rating": 3.5,
+    "serving": "Unknown",
+    "rating": 3.75,
     "beer_name": "Nitro Mini M*rs",
     "brewery": "Vault City Brewing",
     "beer_type": "Stout - Pastry"
@@ -14944,15 +15556,6 @@ const BEER_DATA = [
     "beer_type": "Stout - White / Golden"
   },
   {
-    "venue": "b7-beer-house",
-    "time": "2025-08-21T16:00:28+00:00",
-    "serving": "can",
-    "rating": 5.0,
-    "beer_name": "Naughty & Nice - White Chocolate & Raspberry",
-    "brewery": "Vocation Brewery",
-    "beer_type": "Stout - White / Golden"
-  },
-  {
     "venue": "lauter",
     "time": "2025-08-21T16:00:28+00:00",
     "serving": "draft",
@@ -14960,6 +15563,15 @@ const BEER_DATA = [
     "beer_name": "KRUSHED IT",
     "brewery": "Oak & Ash",
     "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-21T16:00:28+00:00",
+    "serving": "can",
+    "rating": 5.0,
+    "beer_name": "Naughty & Nice - White Chocolate & Raspberry",
+    "brewery": "Vocation Brewery",
+    "beer_type": "Stout - White / Golden"
   },
   {
     "venue": "b7-beer-house",
@@ -15000,20 +15612,20 @@ const BEER_DATA = [
   {
     "venue": "b7-beer-house",
     "time": "2025-08-21T15:59:11+00:00",
-    "serving": "Unknown",
-    "rating": 4.0,
-    "beer_name": "Naughty & Nice - White Chocolate & Raspberry",
-    "brewery": "Vocation Brewery",
-    "beer_type": "Stout - White / Golden"
-  },
-  {
-    "venue": "b7-beer-house",
-    "time": "2025-08-21T15:59:11+00:00",
     "serving": "can",
     "rating": 3.8,
     "beer_name": "Peach Rings",
     "brewery": "Vault City Brewing",
     "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-21T15:59:11+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Naughty & Nice - White Chocolate & Raspberry",
+    "brewery": "Vocation Brewery",
+    "beer_type": "Stout - White / Golden"
   },
   {
     "venue": "b7-beer-house",
