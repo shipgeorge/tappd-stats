@@ -1,8 +1,278 @@
 // 🍺 BEER STATS DATA - Generated automatically
-// Last updated: 2025-09-19 06:37:18
-// Total records: 5576
+// Last updated: 2025-09-20 06:34:13
+// Total records: 5606
 
 const BEER_DATA = [
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-09-19T20:44:12+00:00",
+    "serving": "draft",
+    "rating": 4.5,
+    "beer_name": "Lazy Bee Hibiscus And Raspberries",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Mead - Session / Short"
+  },
+  {
+    "venue": "beerz",
+    "time": "2025-09-19T20:39:19+00:00",
+    "serving": "bottle",
+    "rating": 4.0,
+    "beer_name": "3 Fonteinen Oude Kriek (season 21|22) Blend No. 29",
+    "brewery": "Brouwerij 3 Fonteinen",
+    "beer_type": "Lambic - Kriek"
+  },
+  {
+    "venue": "beerz",
+    "time": "2025-09-19T20:38:29+00:00",
+    "serving": "bottle",
+    "rating": 3.0,
+    "beer_name": "Oude Abricot Tilquin à l'Ancienne (2023-2024)",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-09-19T19:51:15+00:00",
+    "serving": "can",
+    "rating": 4.5,
+    "beer_name": "Japanese Rice Lager",
+    "brewery": "Mikkeller",
+    "beer_type": "Lager - Japanese Rice"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-09-19T19:48:24+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Salt N' Peppa",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Lager - Other"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-09-19T19:43:12+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Cold Beer Peach",
+    "brewery": "BrewDog",
+    "beer_type": "Lager - Other"
+  },
+  {
+    "venue": "beerz",
+    "time": "2025-09-19T18:47:43+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Never Again Tomato Gose",
+    "brewery": "Ārpus Brewing Co.",
+    "beer_type": "Sour - Tomato / Vegetable Gose"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-19T16:59:43+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Never Again Tomato Gose",
+    "brewery": "Ārpus Brewing Co.",
+    "beer_type": "Sour - Tomato / Vegetable Gose"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-19T16:59:29+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Never Again Tomato Gose",
+    "brewery": "Ārpus Brewing Co.",
+    "beer_type": "Sour - Tomato / Vegetable Gose"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-19T16:57:13+00:00",
+    "serving": "can",
+    "rating": 4.5,
+    "beer_name": "Never Again Tomato Gose",
+    "brewery": "Ārpus Brewing Co.",
+    "beer_type": "Sour - Tomato / Vegetable Gose"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-09-19T16:56:41+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "I(tai)PA",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-19T16:54:43+00:00",
+    "serving": "draft",
+    "rating": 5.0,
+    "beer_name": "Meerts Tilquin à la Kriek de Schaerbeek",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-09-19T16:53:37+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Lazy Bee Hibiscus And Raspberries",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Mead - Session / Short"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-09-19T16:52:27+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "Triple Hope",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-09-19T15:23:58+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Mandatory Afterglow",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Lager - IPL (India Pale Lager)"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-19T14:58:08+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Meerts Tilquin à la Kriek de Schaerbeek",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-19T14:57:32+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "שנה טובה כפרה",
+    "brewery": "Herzl (הרצל)",
+    "beer_type": "IPA - Other"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-09-19T14:53:05+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Mandatory Afterglow",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Lager - IPL (India Pale Lager)"
+  },
+  {
+    "venue": "beerline",
+    "time": "2025-09-19T14:33:52+00:00",
+    "serving": "Unknown",
+    "rating": 4.5,
+    "beer_name": "Delirium Red",
+    "brewery": "Delirium - Huyghe Brewery",
+    "beer_type": "Fruit Beer"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-09-19T14:03:50+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "In the Little",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - Session"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-19T14:00:31+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Budvar Half and Half / G'mischtes",
+    "brewery": "Budějovický Budvar",
+    "beer_type": "Black & Tan"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-19T13:49:35+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Budweiser Budvar / Czechvar Original",
+    "brewery": "Budějovický Budvar",
+    "beer_type": "Pilsner - Czech / Bohemian"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-09-19T13:12:56+00:00",
+    "serving": "draft",
+    "rating": 4.5,
+    "beer_name": "Mandatory Afterglow",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Lager - IPL (India Pale Lager)"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-19T11:55:54+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Shut Up And Drink Me! (שת\"פ)",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Historical Beer - Lichtenhainer"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-09-19T11:38:36+00:00",
+    "serving": "Unknown",
+    "rating": 4.75,
+    "beer_name": "Black Currant x Cherry x Blueberry x Coconut x Almond Smoothie Sour Ale",
+    "brewery": "Ārpus Brewing Co.",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "porter-and-sons",
+    "time": "2025-09-19T11:04:34+00:00",
+    "serving": "draft",
+    "rating": 3.8,
+    "beer_name": "Porter&Sons: Marshmallow",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Porter - Other"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-09-19T10:43:51+00:00",
+    "serving": "bottle",
+    "rating": 4.3,
+    "beer_name": "Muscabella (2023)",
+    "brewery": "Boerenerf",
+    "beer_type": "Lambic - Other"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-09-19T10:08:56+00:00",
+    "serving": "draft",
+    "rating": 4.6,
+    "beer_name": "Black Currant x Cherry x Blueberry x Coconut x Almond Smoothie Sour Ale",
+    "brewery": "Ārpus Brewing Co.",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-19T08:46:00+00:00",
+    "serving": "Unknown",
+    "rating": 4.25,
+    "beer_name": "Dragon Fruit X Pear X Banana X Pineapple X Lemon Smoothie Sour Ale",
+    "brewery": "Ārpus Brewing Co.",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-19T08:43:41+00:00",
+    "serving": "Unknown",
+    "rating": 4.5,
+    "beer_name": "Sessionista",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
   {
     "venue": "beerz",
     "time": "2025-09-18T20:45:28+00:00",
@@ -11067,7 +11337,7 @@ const BEER_DATA = [
   {
     "venue": "lauter",
     "time": "2025-09-01T17:44:35+00:00",
-    "serving": "Unknown",
+    "serving": "bottle",
     "rating": 4.0,
     "beer_name": "Hops Don’t Lie",
     "brewery": "Thurø Bryghus",
@@ -11076,7 +11346,7 @@ const BEER_DATA = [
   {
     "venue": "lauter",
     "time": "2025-09-01T17:44:35+00:00",
-    "serving": "bottle",
+    "serving": "Unknown",
     "rating": 4.0,
     "beer_name": "Hops Don’t Lie",
     "brewery": "Thurø Bryghus",
@@ -40732,8 +41002,8 @@ const BEER_DATA = [
     "venue": "berlin-florentin",
     "time": "2024-12-23T18:37:49+00:00",
     "serving": "bottle",
-    "rating": 3.0,
-    "beer_name": "Christmas Ale",
+    "rating": 4.1,
+    "beer_name": "Christmas Ale (2023)",
     "brewery": "Brouwerij St.Bernardus",
     "beer_type": "Winter Ale"
   },
@@ -40741,8 +41011,8 @@ const BEER_DATA = [
     "venue": "berlin-florentin",
     "time": "2024-12-23T18:37:49+00:00",
     "serving": "bottle",
-    "rating": 4.1,
-    "beer_name": "Christmas Ale (2023)",
+    "rating": 3.0,
+    "beer_name": "Christmas Ale",
     "brewery": "Brouwerij St.Bernardus",
     "beer_type": "Winter Ale"
   },
