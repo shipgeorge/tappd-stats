@@ -1,4 +1,48 @@
 venue,user,time,serving,data_rating,beer_name,brewery,beer_type
+b7-beer-house,Alex Fux,"Sun, 21 Sep 2025 20:02:45 +0000",draft,4.0,Black Currant x Cherry x Blueberry x Coconut x Almond Smoothie Sour Ale,Ārpus Brewing Co.,Sour - Smoothie / Pastry
+b7-beer-house,Israel Shenkman,"Sun, 21 Sep 2025 19:30:11 +0000",,4.25,PATRONS PROJECT 42.05 // BILLELIS // GOLDEN AXIS // HAZY IPA,Northern Monk,IPA - New Zealand
+lauter,daniel_or_3382,"Sun, 21 Sep 2025 19:15:18 +0000",can,3.75,New York Mocaccino,Mad Scientist,Stout - Milk / Sweet
+b7-beer-house,Yotam Bar-natan,"Sun, 21 Sep 2025 19:09:43 +0000",can,3.9,PATRONS PROJECT 42.05 // BILLELIS // GOLDEN AXIS // HAZY IPA,Northern Monk,IPA - New Zealand
+b7-beer-house,Alex Fux,"Sun, 21 Sep 2025 19:06:55 +0000",can,4.0,PATRONS PROJECT 42.05 // BILLELIS // GOLDEN AXIS // HAZY IPA,Northern Monk,IPA - New Zealand
+b7-beer-house,Alex Fux,"Sun, 21 Sep 2025 18:48:29 +0000",draft,5.0,תוצרת הארץ,New Pioneer Brewing Co - חלוץ חדש,Pale Ale - American
+lauter,daniel_or_3382,"Sun, 21 Sep 2025 18:47:47 +0000",can,4.25,Lazy Bee Hibiscus And Raspberries,Schnitt Brewing Company﻿,Mead - Session / Short
+b7-beer-house,Israel Shenkman,"Sun, 21 Sep 2025 18:47:29 +0000",draft,4.0,Kriek 2025 - Draft Version,Brasserie Cantillon,Lambic - Kriek
+b7-beer-house,Alex Fux,"Sun, 21 Sep 2025 18:47:07 +0000",,,Kriek 2025 - Draft Version,Brasserie Cantillon,Lambic - Kriek
+lauter,daniel_or_3382,"Sun, 21 Sep 2025 18:46:59 +0000",can,4.0,Lazy Bee Classic,Schnitt Brewing Company﻿,Mead - Session / Short
+porter-and-sons,Lee Ker,"Sun, 21 Sep 2025 18:41:32 +0000",,,Barbãr,Brasserie Lefebvre,Honey Beer
+b7-beer-house,Israel Shenkman,"Sun, 21 Sep 2025 18:39:50 +0000",draft,4.25,Black Currant x Cherry x Blueberry x Coconut x Almond Smoothie Sour Ale,Ārpus Brewing Co.,Sour - Smoothie / Pastry
+porter-and-sons,Lee Ker,"Sun, 21 Sep 2025 18:38:09 +0000",,,Maredsous Triple / Tripel,Abbaye de Maredsous,Belgian Tripel
+lauter,daniel_or_3382,"Sun, 21 Sep 2025 18:18:31 +0000",draft,4.25,A Sour Love Story,HORIZONT Brewing,Sour - Fruited
+lauter,daniel_or_3382,"Sun, 21 Sep 2025 18:16:31 +0000",draft,3.25,Lazy Evenings,Oak & Ash,Sour - Fruited
+lauter,daniel_or_3382,"Sun, 21 Sep 2025 17:56:09 +0000",draft,5.0,Fruitheart Smoothie Sour Ale,Ārpus Brewing Co.,Sour - Smoothie / Pastry
+lauter,daniel_or_3382,"Sun, 21 Sep 2025 17:54:36 +0000",draft,3.0,Anything Gose: Mango,Schnitt Brewing Company﻿,Sour - Fruited Gose
+lauter,daniel_or_3382,"Sun, 21 Sep 2025 17:53:36 +0000",can,3.25,God’s Raspberry Ice Cream Sour,Omnipollo,Sour - Fruited
+porter-and-sons,Lee Ker,"Sun, 21 Sep 2025 17:46:03 +0000",,,Bock,Alexander (אלכסנדר),Bock - Single / Traditional
+b7-beer-house,Yotam Bar-natan,"Sun, 21 Sep 2025 17:41:21 +0000",can,4.3,One More Quarter,Sudden Death Brewing Co.,Sour - Fruited
+b7-beer-house,Yotam Bar-natan,"Sun, 21 Sep 2025 17:30:00 +0000",,4.2,Kriek 2025 - Draft Version,Brasserie Cantillon,Lambic - Kriek
+porter-and-sons,Lee Ker,"Sun, 21 Sep 2025 17:02:23 +0000",,,Budweiser Budvar B:DARK / Czechvar B:DARK,Budějovický Budvar,Lager - Tmavé (Czech Dark)
+porter-and-sons,Lee Ker,"Sun, 21 Sep 2025 17:00:12 +0000",,,Magners Original Irish Cider,Magners Irish Cider,Cider - Traditional / Apfelwein
+lauter,Ohad Tzairi,"Sun, 21 Sep 2025 17:00:02 +0000",can,3.25,"Same Schnitt, Different Hop: Amarillo",Schnitt Brewing Company﻿,Pale Ale - Other
+lauter,Ohad Tzairi,"Sun, 21 Sep 2025 16:59:18 +0000",can,3.25,Domówka - APA Zbyszko & Motueka,Maryensztadt,Pale Ale - American
+schnitt-brewing-company,Andrey Granovsky,"Sun, 21 Sep 2025 16:40:57 +0000",draft,3.5,Paleraiser,Schnitt Brewing Company﻿,Pale Ale - American
+schnitt-brewing-company,Andrey Granovsky,"Sun, 21 Sep 2025 16:40:43 +0000",draft,3.5,Salt N' Peppa,Schnitt Brewing Company﻿,Lager - Other
+lauter,Ohad Pinhas,"Sun, 21 Sep 2025 16:23:21 +0000",can,3.25,Domówka - APA Zbyszko & Motueka,Maryensztadt,Pale Ale - American
+lauter,Ohad Tzairi,"Sun, 21 Sep 2025 16:10:30 +0000",,2.0,"Shut Up And Drink Me! (שת""פ)",Schnitt Brewing Company﻿,Historical Beer - Lichtenhainer
+lauter,Ohad Tzairi,"Sun, 21 Sep 2025 16:07:13 +0000",draft,3.5,Lazy Evenings,Oak & Ash,Sour - Fruited
+lauter,Ohad Pinhas,"Sun, 21 Sep 2025 16:07:07 +0000",,1.75,"Shut Up And Drink Me! (שת""פ)",Schnitt Brewing Company﻿,Historical Beer - Lichtenhainer
+lauter,Ohad Pinhas,"Sun, 21 Sep 2025 16:05:02 +0000",draft,3.5,Lazy Evenings,Oak & Ash,Sour - Fruited
+lauter,Ohad Tzairi,"Sun, 21 Sep 2025 16:04:27 +0000",draft,3.0,הפילס שבחדר the Pils In the Room,Schnitt Brewing Company﻿,Pilsner - German
+lauter,Ohad Pinhas,"Sun, 21 Sep 2025 16:03:59 +0000",draft,2.5,הפילס שבחדר the Pils In the Room,Schnitt Brewing Company﻿,Pilsner - German
+schnitt-brewing-company,Ron Levy,"Sun, 21 Sep 2025 15:50:21 +0000",draft,3.9,I(tai)PA,Schnitt Brewing Company﻿,IPA - Other
+schnitt-brewing-company,Mia Levy,"Sun, 21 Sep 2025 15:49:50 +0000",draft,3.0,I(tai)PA,Schnitt Brewing Company﻿,IPA - Other
+schnitt-brewing-company,Suzanne Levy,"Sun, 21 Sep 2025 15:46:46 +0000",draft,3.5,Lazy Bee Hibiscus And Raspberries,Schnitt Brewing Company﻿,Mead - Session / Short
+schnitt-brewing-company,Jon,"Sun, 21 Sep 2025 10:53:38 +0000",draft,3.75,I(tai)PA,Schnitt Brewing Company﻿,IPA - Other
+schnitt-brewing-company,Jon,"Sun, 21 Sep 2025 10:08:59 +0000",draft,3.75,"Same Schnitt, Different Hop: Amarillo",Schnitt Brewing Company﻿,Pale Ale - Other
+schnitt-brewing-company,Dor Lerner,"Sun, 21 Sep 2025 09:56:32 +0000",draft,,Mandatory Afterglow,Schnitt Brewing Company﻿,Lager - IPL (India Pale Lager)
+schnitt-brewing-company,Dor Lerner,"Sun, 21 Sep 2025 09:56:06 +0000",,,Paleraiser,Schnitt Brewing Company﻿,Pale Ale - American
+schnitt-brewing-company,Dor Lerner,"Sun, 21 Sep 2025 09:54:56 +0000",draft,,IN THE  SMALL,Schnitt Brewing Company﻿,Table Beer
+schnitt-brewing-company,Dor Lerner,"Sun, 21 Sep 2025 09:54:38 +0000",draft,,Sessionista,Schnitt Brewing Company﻿,IPA - New England / Hazy
+schnitt-brewing-company,Jon,"Sun, 21 Sep 2025 09:34:50 +0000",draft,3.5,IN THE  SMALL,Schnitt Brewing Company﻿,Table Beer
 b7-beer-house,Aryeh Genger,"Sun, 21 Sep 2025 06:09:21 +0000",,4.5,Black Currant x Cherry x Blueberry x Coconut x Almond Smoothie Sour Ale,Ārpus Brewing Co.,Sour - Smoothie / Pastry
 lauter,Kelly Inbar,"Sat, 20 Sep 2025 20:25:35 +0000",can,4.0,Never Again Tomato Gose,Ārpus Brewing Co.,Sour - Tomato / Vegetable Gose
 lauter,csms100,"Sat, 20 Sep 2025 19:26:36 +0000",can,3.75,Ich Bin Raspberry,Mikkeller,Sour - Fruited Berliner Weisse
@@ -3434,8 +3478,8 @@ lauter,Shmupi Koto,"Sat, 26 Jul 2025 15:40:24 +0000",can,3.7,Smoothie Bowl - Pea
 lauter,David Siegel,"Sat, 26 Jul 2025 15:38:40 +0000",,4.25,Smoothie Bowl - Peachy Dragon,Nepo Brewing,Sour - Smoothie / Pastry
 lauter,Adam Berelowitz,"Sat, 26 Jul 2025 15:35:23 +0000",can,4.3,Smoothie Bowl - Peachy Dragon,Nepo Brewing,Sour - Smoothie / Pastry
 schnitt-brewing-company,Omri Gill,"Sat, 26 Jul 2025 15:33:39 +0000",draft,3.75,Mexico City Twist,Schnitt Brewing Company﻿,Lager - Mexican
-lauter,David Siegel,"Sat, 26 Jul 2025 15:22:08 +0000",,4.0,Pijże,Nepo Brewing,Pale Ale - New England / Hazy
 lauter,Adam Berelowitz,"Sat, 26 Jul 2025 15:22:08 +0000",can,4.2,Smoothie Bowl: Pistachio Fluff,Nepo Brewing,Sour - Smoothie / Pastry
+lauter,David Siegel,"Sat, 26 Jul 2025 15:22:08 +0000",,4.0,Pijże,Nepo Brewing,Pale Ale - New England / Hazy
 lauter,Adam Berelowitz,"Sat, 26 Jul 2025 15:21:39 +0000",can,4.3,Pijże,Nepo Brewing,Pale Ale - New England / Hazy
 lauter,David Siegel,"Sat, 26 Jul 2025 15:20:22 +0000",,4.25,Smoothie Bowl: Pistachio Fluff,Nepo Brewing,Sour - Smoothie / Pastry
 lauter,Anton B,"Sat, 26 Jul 2025 15:17:20 +0000",can,,Windy Hill,Mikkeller,IPA - New England / Hazy

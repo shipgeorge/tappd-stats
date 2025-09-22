@@ -1,8 +1,404 @@
 // 🍺 BEER STATS DATA - Generated automatically
-// Last updated: 2025-09-21 06:35:31
-// Total records: 5648
+// Last updated: 2025-09-22 06:39:37
+// Total records: 5692
 
 const BEER_DATA = [
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-09-21T20:02:45+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Black Currant x Cherry x Blueberry x Coconut x Almond Smoothie Sour Ale",
+    "brewery": "Ārpus Brewing Co.",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-09-21T19:30:11+00:00",
+    "serving": "Unknown",
+    "rating": 4.25,
+    "beer_name": "PATRONS PROJECT 42.05 // BILLELIS // GOLDEN AXIS // HAZY IPA",
+    "brewery": "Northern Monk",
+    "beer_type": "IPA - New Zealand"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-21T19:15:18+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "New York Mocaccino",
+    "brewery": "Mad Scientist",
+    "beer_type": "Stout - Milk / Sweet"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-09-21T19:09:43+00:00",
+    "serving": "can",
+    "rating": 3.9,
+    "beer_name": "PATRONS PROJECT 42.05 // BILLELIS // GOLDEN AXIS // HAZY IPA",
+    "brewery": "Northern Monk",
+    "beer_type": "IPA - New Zealand"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-09-21T19:06:55+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "PATRONS PROJECT 42.05 // BILLELIS // GOLDEN AXIS // HAZY IPA",
+    "brewery": "Northern Monk",
+    "beer_type": "IPA - New Zealand"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-09-21T18:48:29+00:00",
+    "serving": "draft",
+    "rating": 5.0,
+    "beer_name": "תוצרת הארץ",
+    "brewery": "New Pioneer Brewing Co - חלוץ חדש",
+    "beer_type": "Pale Ale - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-21T18:47:47+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "Lazy Bee Hibiscus And Raspberries",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Mead - Session / Short"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-09-21T18:47:29+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Kriek 2025 - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": "Lambic - Kriek"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-09-21T18:47:07+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Kriek 2025 - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": "Lambic - Kriek"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-21T18:46:59+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Lazy Bee Classic",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Mead - Session / Short"
+  },
+  {
+    "venue": "porter-and-sons",
+    "time": "2025-09-21T18:41:32+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Barbãr",
+    "brewery": "Brasserie Lefebvre",
+    "beer_type": "Honey Beer"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-09-21T18:39:50+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "Black Currant x Cherry x Blueberry x Coconut x Almond Smoothie Sour Ale",
+    "brewery": "Ārpus Brewing Co.",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "porter-and-sons",
+    "time": "2025-09-21T18:38:09+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Maredsous Triple / Tripel",
+    "brewery": "Abbaye de Maredsous",
+    "beer_type": "Belgian Tripel"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-21T18:18:31+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "A Sour Love Story",
+    "brewery": "HORIZONT Brewing",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-21T18:16:31+00:00",
+    "serving": "draft",
+    "rating": 3.25,
+    "beer_name": "Lazy Evenings",
+    "brewery": "Oak & Ash",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-21T17:56:09+00:00",
+    "serving": "draft",
+    "rating": 5.0,
+    "beer_name": "Fruitheart Smoothie Sour Ale",
+    "brewery": "Ārpus Brewing Co.",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-21T17:54:36+00:00",
+    "serving": "draft",
+    "rating": 3.0,
+    "beer_name": "Anything Gose: Mango",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Sour - Fruited Gose"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-21T17:53:36+00:00",
+    "serving": "can",
+    "rating": 3.25,
+    "beer_name": "God’s Raspberry Ice Cream Sour",
+    "brewery": "Omnipollo",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "porter-and-sons",
+    "time": "2025-09-21T17:46:03+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Bock",
+    "brewery": "Alexander (אלכסנדר)",
+    "beer_type": "Bock - Single / Traditional"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-09-21T17:41:21+00:00",
+    "serving": "can",
+    "rating": 4.3,
+    "beer_name": "One More Quarter",
+    "brewery": "Sudden Death Brewing Co.",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-09-21T17:30:00+00:00",
+    "serving": "Unknown",
+    "rating": 4.2,
+    "beer_name": "Kriek 2025 - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": "Lambic - Kriek"
+  },
+  {
+    "venue": "porter-and-sons",
+    "time": "2025-09-21T17:02:23+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Budweiser Budvar B:DARK / Czechvar B:DARK",
+    "brewery": "Budějovický Budvar",
+    "beer_type": "Lager - Tmavé (Czech Dark)"
+  },
+  {
+    "venue": "porter-and-sons",
+    "time": "2025-09-21T17:00:12+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Magners Original Irish Cider",
+    "brewery": "Magners Irish Cider",
+    "beer_type": "Cider - Traditional / Apfelwein"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-21T17:00:02+00:00",
+    "serving": "can",
+    "rating": 3.25,
+    "beer_name": "Same Schnitt, Different Hop: Amarillo",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pale Ale - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-21T16:59:18+00:00",
+    "serving": "can",
+    "rating": 3.25,
+    "beer_name": "Domówka - APA Zbyszko & Motueka",
+    "brewery": "Maryensztadt",
+    "beer_type": "Pale Ale - American"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-09-21T16:40:57+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Paleraiser",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pale Ale - American"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-09-21T16:40:43+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Salt N' Peppa",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Lager - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-21T16:23:21+00:00",
+    "serving": "can",
+    "rating": 3.25,
+    "beer_name": "Domówka - APA Zbyszko & Motueka",
+    "brewery": "Maryensztadt",
+    "beer_type": "Pale Ale - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-21T16:10:30+00:00",
+    "serving": "Unknown",
+    "rating": 2.0,
+    "beer_name": "Shut Up And Drink Me! (שת\"פ)",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Historical Beer - Lichtenhainer"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-21T16:07:13+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Lazy Evenings",
+    "brewery": "Oak & Ash",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-21T16:07:07+00:00",
+    "serving": "Unknown",
+    "rating": 1.75,
+    "beer_name": "Shut Up And Drink Me! (שת\"פ)",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Historical Beer - Lichtenhainer"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-21T16:05:02+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Lazy Evenings",
+    "brewery": "Oak & Ash",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-21T16:04:27+00:00",
+    "serving": "draft",
+    "rating": 3.0,
+    "beer_name": "הפילס שבחדר the Pils In the Room",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pilsner - German"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-21T16:03:59+00:00",
+    "serving": "draft",
+    "rating": 2.5,
+    "beer_name": "הפילס שבחדר the Pils In the Room",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pilsner - German"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-09-21T15:50:21+00:00",
+    "serving": "draft",
+    "rating": 3.9,
+    "beer_name": "I(tai)PA",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - Other"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-09-21T15:49:50+00:00",
+    "serving": "draft",
+    "rating": 3.0,
+    "beer_name": "I(tai)PA",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - Other"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-09-21T15:46:46+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Lazy Bee Hibiscus And Raspberries",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Mead - Session / Short"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-09-21T10:53:38+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "I(tai)PA",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - Other"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-09-21T10:08:59+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Same Schnitt, Different Hop: Amarillo",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pale Ale - Other"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-09-21T09:56:32+00:00",
+    "serving": "draft",
+    "rating": null,
+    "beer_name": "Mandatory Afterglow",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Lager - IPL (India Pale Lager)"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-09-21T09:56:06+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Paleraiser",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pale Ale - American"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-09-21T09:54:56+00:00",
+    "serving": "draft",
+    "rating": null,
+    "beer_name": "IN THE  SMALL",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Table Beer"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-09-21T09:54:38+00:00",
+    "serving": "draft",
+    "rating": null,
+    "beer_name": "Sessionista",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-09-21T09:34:50+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "IN THE  SMALL",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Table Beer"
+  },
   {
     "venue": "b7-beer-house",
     "time": "2025-09-21T06:09:21+00:00",
@@ -30921,20 +31317,20 @@ const BEER_DATA = [
   {
     "venue": "lauter",
     "time": "2025-07-26T15:22:08+00:00",
-    "serving": "Unknown",
-    "rating": 4.0,
-    "beer_name": "Pijże",
-    "brewery": "Nepo Brewing",
-    "beer_type": "Pale Ale - New England / Hazy"
-  },
-  {
-    "venue": "lauter",
-    "time": "2025-07-26T15:22:08+00:00",
     "serving": "can",
     "rating": 4.2,
     "beer_name": "Smoothie Bowl: Pistachio Fluff",
     "brewery": "Nepo Brewing",
     "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-07-26T15:22:08+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Pijże",
+    "brewery": "Nepo Brewing",
+    "beer_type": "Pale Ale - New England / Hazy"
   },
   {
     "venue": "lauter",
