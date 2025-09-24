@@ -1,4 +1,70 @@
 venue,user,time,serving,data_rating,beer_name,brewery,beer_type
+lauter,Raz Hechter,"Tue, 23 Sep 2025 21:39:14 +0000",draft,4.0,Dragon Fruit X Pear X Banana X Pineapple X Lemon Smoothie Sour Ale,Ārpus Brewing Co.,Sour - Smoothie / Pastry
+lauter,Raz Hechter,"Tue, 23 Sep 2025 21:35:39 +0000",draft,4.5,Meerts Tilquin à la Kriek de Schaerbeek,Gueuzerie Tilquin,Lambic - Fruit
+lauter,Raz Hechter,"Tue, 23 Sep 2025 21:26:23 +0000",draft,3.25,In the Little,Schnitt Brewing Company﻿,IPA - Session
+lauter,Raz Hechter,"Tue, 23 Sep 2025 21:12:44 +0000",draft,3.25,Pleroma Karpologi Pineapple Peach Marshmallow Créme Brulée Sour,Omnipollo,Sour - Smoothie / Pastry
+lauter,Raz Hechter,"Tue, 23 Sep 2025 21:02:55 +0000",draft,3.25,קץ הדעת,נעמה סורקין,Cider - Dry
+lauter,Raz Hechter,"Tue, 23 Sep 2025 20:59:46 +0000",draft,3.75,Fruitheart Smoothie Sour Ale,Ārpus Brewing Co.,Sour - Smoothie / Pastry
+lauter,Raz Hechter,"Tue, 23 Sep 2025 20:55:04 +0000",draft,3.5,A Sour Love Story,HORIZONT Brewing,Sour - Fruited
+schnitt-brewing-company,Raz Hechter,"Tue, 23 Sep 2025 20:38:36 +0000",,3.75,Sessionista,Schnitt Brewing Company﻿,IPA - New England / Hazy
+schnitt-brewing-company,Raz Hechter,"Tue, 23 Sep 2025 20:36:14 +0000",draft,2.75,IN THE  SMALL,Schnitt Brewing Company﻿,Table Beer
+schnitt-brewing-company,Raz Hechter,"Tue, 23 Sep 2025 20:34:34 +0000",draft,4.0,Paleraiser,Schnitt Brewing Company﻿,Pale Ale - American
+schnitt-brewing-company,Raz Hechter,"Tue, 23 Sep 2025 20:32:21 +0000",draft,3.5,Salt N' Peppa,Schnitt Brewing Company﻿,Lager - Other
+schnitt-brewing-company,Raz Hechter,"Tue, 23 Sep 2025 20:31:02 +0000",draft,3.25,Porter&Sons: Marshmallow,Schnitt Brewing Company﻿,Porter - Other
+schnitt-brewing-company,Raz Hechter,"Tue, 23 Sep 2025 20:29:06 +0000",draft,3.25,Accept All Cookies,Schnitt Brewing Company﻿,Pale Ale - Other
+schnitt-brewing-company,Elad Schitrit,"Tue, 23 Sep 2025 20:19:02 +0000",draft,3.75,Muuumbai,Schnitt Brewing Company﻿,Lager - IPL (India Pale Lager)
+lauter,idan_chen_9008,"Tue, 23 Sep 2025 19:37:37 +0000",bottle,3.5,Night Shift Vintage 2023 - Gerbeaud-Inspired Pastry Barley Wine Aged In Rhum Barrels,HORIZONT Brewing,Barleywine - Other
+lauter,דניאל אור,"Tue, 23 Sep 2025 19:33:49 +0000",,3.75,Night Shift Vintage 2023 - Gerbeaud-Inspired Pastry Barley Wine Aged In Rhum Barrels,HORIZONT Brewing,Barleywine - Other
+lauter,Gal Sokol,"Tue, 23 Sep 2025 19:25:25 +0000",,4.25,A Sour Love Story,HORIZONT Brewing,Sour - Fruited
+lauter,idan_chen_9008,"Tue, 23 Sep 2025 19:16:21 +0000",draft,5.0,Kopparberg Strawberry & Lime,Kopparbergs Bryggeri,Cider - Other Fruit
+lauter,Joseph,"Tue, 23 Sep 2025 19:07:19 +0000",can,4.5,Dragon Fruit X Pear X Banana X Pineapple X Lemon Smoothie Sour Ale,Ārpus Brewing Co.,Sour - Smoothie / Pastry
+lauter,דניאל אור,"Tue, 23 Sep 2025 18:56:15 +0000",can,3.75,Accept All Cookies,Schnitt Brewing Company﻿,Pale Ale - Other
+lauter,Gal Sokol,"Tue, 23 Sep 2025 18:56:13 +0000",can,4.5,Accept All Cookies,Schnitt Brewing Company﻿,Pale Ale - Other
+lauter,Gal Sokol,"Tue, 23 Sep 2025 18:55:35 +0000",can,4.5,Lazy Bee Hibiscus And Raspberries,Schnitt Brewing Company﻿,Mead - Session / Short
+lauter,Gal Sokol,"Tue, 23 Sep 2025 18:54:55 +0000",draft,4.5,Anything Gose: Mango,Schnitt Brewing Company﻿,Sour - Fruited Gose
+lauter,Gal Sokol,"Tue, 23 Sep 2025 18:53:59 +0000",draft,4.5,Oude Gewurzt Tilquin à l'Ancienne (2020-2021),Gueuzerie Tilquin,Lambic - Fruit
+lauter,דניאל אור,"Tue, 23 Sep 2025 18:52:33 +0000",draft,4.25,Kopparberg Strawberry & Lime,Kopparbergs Bryggeri,Cider - Other Fruit
+lauter,Gal Sokol,"Tue, 23 Sep 2025 18:52:18 +0000",draft,4.5,Pleroma Karpologi Pineapple Peach Marshmallow Créme Brulée Sour,Omnipollo,Sour - Smoothie / Pastry
+lauter,zmogi,"Tue, 23 Sep 2025 18:51:52 +0000",,4.75,Dragon Fruit X Pear X Banana X Pineapple X Lemon Smoothie Sour Ale,Ārpus Brewing Co.,Sour - Smoothie / Pastry
+lauter,zmogi,"Tue, 23 Sep 2025 18:50:43 +0000",,2.5,Salt N' Peppa,Schnitt Brewing Company﻿,Lager - Other
+lauter,Gal Sokol,"Tue, 23 Sep 2025 18:50:32 +0000",draft,3.0,Salt N' Peppa,Schnitt Brewing Company﻿,Lager - Other
+lauter,דניאל אור,"Tue, 23 Sep 2025 18:50:29 +0000",draft,3.25,Salt N' Peppa,Schnitt Brewing Company﻿,Lager - Other
+lauter,zmogi,"Tue, 23 Sep 2025 18:49:36 +0000",,2.5,Salt N Peppa,Ballast Point Brewing Company,Sour - Traditional Gose
+lauter,zmogi,"Tue, 23 Sep 2025 18:48:17 +0000",,4.0,Kopparberg Strawberry & Lime,Kopparbergs Bryggeri,Cider - Other Fruit
+lauter,Gal Sokol,"Tue, 23 Sep 2025 18:48:07 +0000",,4.5,Rekorderlig Strawberry-Lime (Jordgubb-Lime),Åbro Bryggeri,Cider - Other Fruit
+lauter,idan_chen_9008,"Tue, 23 Sep 2025 18:43:29 +0000",can,4.75,Selfish Games - One Night In Dubai,HORIZONT Brewing,Stout - Imperial / Double
+lauter,דניאל אור,"Tue, 23 Sep 2025 18:42:49 +0000",can,4.0,Selfish Games - One Night In Dubai,HORIZONT Brewing,Stout - Imperial / Double
+lauter,דניאל אור,"Tue, 23 Sep 2025 18:37:43 +0000",can,3.75,Tea Party: Green Tea And Jasmine,Schnitt Brewing Company﻿,Pale Ale - Other
+lauter,idan_chen_9008,"Tue, 23 Sep 2025 18:34:18 +0000",can,3.5,Tea Party: Green Tea And Jasmine,Schnitt Brewing Company﻿,Pale Ale - Other
+lauter,Gal Sokol,"Tue, 23 Sep 2025 18:29:31 +0000",draft,4.5,Selfish Games - One Night In Dubai,HORIZONT Brewing,Stout - Imperial / Double
+beerline,stas_shapiro_8354,"Tue, 23 Sep 2025 17:59:35 +0000",draft,4.0,Delirium Black Barrel Aged,Delirium - Huyghe Brewery,Belgian Strong Dark Ale
+lauter,דניאל אור,"Tue, 23 Sep 2025 17:59:08 +0000",draft,4.25,Pleroma Karpologi Pineapple Peach Marshmallow Créme Brulée Sour,Omnipollo,Sour - Smoothie / Pastry
+lauter,Omri Gill,"Tue, 23 Sep 2025 17:56:18 +0000",draft,4.5,Dragon Fruit X Pear X Banana X Pineapple X Lemon Smoothie Sour Ale,Ārpus Brewing Co.,Sour - Smoothie / Pastry
+schnitt-brewing-company,Omri Gill,"Tue, 23 Sep 2025 17:55:49 +0000",draft,4.0,הפילס שבחדר the Pils In the Room,Schnitt Brewing Company﻿,Pilsner - German
+lauter,Eylon Hadar,"Tue, 23 Sep 2025 17:48:50 +0000",draft,3.0,Sweet Dreams,Oak & Ash,Sour - Fruited
+lauter,דניאל אור,"Tue, 23 Sep 2025 17:44:52 +0000",draft,3.75,"Shut Up And Drink Me! (שת""פ)",Schnitt Brewing Company﻿,Historical Beer - Lichtenhainer
+lauter,דניאל אור,"Tue, 23 Sep 2025 17:41:03 +0000",draft,4.0,6 To 66,Schnitt Brewing Company﻿,Pale Ale - American
+lauter,דניאל אור,"Tue, 23 Sep 2025 17:23:43 +0000",can,4.0,Wingman Tropical Storm,BrewDog,IPA - Imperial / Double
+lauter,Amit Carmi,"Tue, 23 Sep 2025 17:20:58 +0000",draft,4.5,Meerts Tilquin à la Kriek de Schaerbeek,Gueuzerie Tilquin,Lambic - Fruit
+lauter,דניאל אור,"Tue, 23 Sep 2025 17:20:52 +0000",can,4.0,Hazy Jane Guava,BrewDog,IPA - Milkshake
+lauter,Amit Carmi,"Tue, 23 Sep 2025 17:20:23 +0000",draft,4.25,Dragon Fruit X Pear X Banana X Pineapple X Lemon Smoothie Sour Ale,Ārpus Brewing Co.,Sour - Smoothie / Pastry
+lauter,דניאל אור,"Tue, 23 Sep 2025 17:09:06 +0000",draft,4.25,Oude Kriek de Schaerbeek Tilquin à l'ancienne (2023-2024),Gueuzerie Tilquin,Lambic - Kriek
+lauter,דניאל אור,"Tue, 23 Sep 2025 17:07:53 +0000",draft,3.5,Rimonim (רימונים),Srigim (שריגים),Fruit Beer
+schnitt-brewing-company,Yonatan Bashi,"Tue, 23 Sep 2025 16:25:15 +0000",,,Salt N' Peppa,Schnitt Brewing Company﻿,Lager - Other
+schnitt-brewing-company,Yonatan Bashi,"Tue, 23 Sep 2025 16:24:49 +0000",,,Muuumbai,Schnitt Brewing Company﻿,Lager - IPL (India Pale Lager)
+schnitt-brewing-company,Yonatan Bashi,"Tue, 23 Sep 2025 16:24:18 +0000",,,OrIPA,Schnitt Brewing Company﻿,IPA - American
+schnitt-brewing-company,Yonatan Bashi,"Tue, 23 Sep 2025 16:23:48 +0000",,,Sessionista,Schnitt Brewing Company﻿,IPA - New England / Hazy
+schnitt-brewing-company,Yonatan Bashi,"Tue, 23 Sep 2025 15:56:23 +0000",,,Alt Neuland,Schnitt Brewing Company﻿,Altbier - Traditional
+lauter,Sy Co,"Tue, 23 Sep 2025 15:26:59 +0000",,,Bourbon Barrel Aged - Imperial Coffee Stout,Vocation Brewery,Stout - Imperial / Double Coffee
+lauter,Sy Co,"Tue, 23 Sep 2025 15:25:54 +0000",,,Wild Berry Imperial Stout - Bourbon Barrel Aged,Vocation Brewery,Stout - Imperial / Double
+schnitt-brewing-company,Yonatan Bashi,"Tue, 23 Sep 2025 15:05:40 +0000",,,Porter&Sons: Marshmallow,Schnitt Brewing Company﻿,Porter - Other
+schnitt-brewing-company,Yonatan Bashi,"Tue, 23 Sep 2025 15:05:14 +0000",,,הפילס שבחדר the Pils In the Room,Schnitt Brewing Company﻿,Pilsner - German
+schnitt-brewing-company,Yonatan Bashi,"Tue, 23 Sep 2025 15:04:30 +0000",,,Mandatory Afterglow,Schnitt Brewing Company﻿,Lager - IPL (India Pale Lager)
+schnitt-brewing-company,Yonatan Bashi,"Tue, 23 Sep 2025 15:03:32 +0000",,,Paleraiser,Schnitt Brewing Company﻿,Pale Ale - American
+schnitt-brewing-company,Yonatan Bashi,"Tue, 23 Sep 2025 15:01:44 +0000",,,IN THE  SMALL,Schnitt Brewing Company﻿,Table Beer
+lauter,Ohad Pinhas,"Tue, 23 Sep 2025 13:11:10 +0000",can,3.5,Eclaron Pils | Iunga / Tomyski / Izabela / Książecy,Lubrow Brewery,Pilsner - Other
+schnitt-brewing-company,Ofer Karmi,"Tue, 23 Sep 2025 10:44:47 +0000",draft,3.5,Lazy N'Hazy,Schnitt Brewing Company﻿,IPA - New England / Hazy
+schnitt-brewing-company,Ohad Pinhas,"Tue, 23 Sep 2025 10:32:44 +0000",,2.5,OrIPA,Schnitt Brewing Company﻿,IPA - American
 beerz,daniel tkach,"Mon, 22 Sep 2025 19:29:02 +0000",can,4.0,Dragon Fruit X Pear X Banana X Pineapple X Lemon Smoothie Sour Ale,Ārpus Brewing Co.,Sour - Smoothie / Pastry
 lauter,skhott,"Mon, 22 Sep 2025 11:34:24 +0000",can,3.5,Hazy Queen,HORIZONT Brewing,IPA - New England / Hazy
 b7-beer-house,Yotam Bar-natan,"Mon, 22 Sep 2025 11:28:16 +0000",can,3.5,Dark Ale,Sheeta Brewery (בירה שיטה),Schwarzbier
