@@ -1,8 +1,170 @@
 // 🍺 BEER STATS DATA - Generated automatically
-// Last updated: 2025-09-28 06:35:10
-// Total records: 5888
+// Last updated: 2025-09-29 06:39:51
+// Total records: 5906
 
 const BEER_DATA = [
+  {
+    "venue": "lauter",
+    "time": "2025-09-28T19:56:05+00:00",
+    "serving": "bottle",
+    "rating": 3.5,
+    "beer_name": "Noa Pecan Mud Cake Stout",
+    "brewery": "Omnipollo",
+    "beer_type": "Stout - Imperial / Double Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-28T19:53:43+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Selfish Games - One Night In Dubai",
+    "brewery": "HORIZONT Brewing",
+    "beer_type": "Stout - Imperial / Double"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-28T19:52:42+00:00",
+    "serving": "bottle",
+    "rating": null,
+    "beer_name": "Noa Pecan Mud Cake Stout",
+    "brewery": "Omnipollo",
+    "beer_type": "Stout - Imperial / Double Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-28T19:50:55+00:00",
+    "serving": "can",
+    "rating": null,
+    "beer_name": "Selfish Games - One Night In Dubai",
+    "brewery": "HORIZONT Brewing",
+    "beer_type": "Stout - Imperial / Double"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-28T19:25:50+00:00",
+    "serving": "bottle",
+    "rating": 4.0,
+    "beer_name": "Barbãr Bok",
+    "brewery": "Brasserie Lefebvre",
+    "beer_type": "Bock - Single / Traditional"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-09-28T19:24:52+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Alt Neuland",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Altbier - Traditional"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-09-28T19:23:41+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Weissman",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Wheat Beer - Hefeweizen"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-09-28T19:22:49+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Slow And Bitter (מריר ועצלני)",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Bitter - Session / Ordinary"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-28T19:08:57+00:00",
+    "serving": "bottle",
+    "rating": 4.0,
+    "beer_name": "1838",
+    "brewery": "Thornbridge Brewery",
+    "beer_type": "Pale Ale - English"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-28T18:15:45+00:00",
+    "serving": "draft",
+    "rating": null,
+    "beer_name": "קץ הדעת",
+    "brewery": "נעמה סורקין",
+    "beer_type": "Cider - Dry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-28T18:12:48+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Tucher Pils",
+    "brewery": "Tucher Bräu",
+    "beer_type": "Pilsner - German"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-28T17:49:09+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Barbãr Bok",
+    "brewery": "Brasserie Lefebvre",
+    "beer_type": "Bock - Single / Traditional"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-28T17:47:38+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Twist & Stout",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Stout - Irish Dry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-28T17:22:15+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Shut Up And Drink Me! (שת\"פ)",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Historical Beer - Lichtenhainer"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-09-28T16:47:54+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Alt Neuland",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Altbier - Traditional"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-28T13:35:37+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Dragon Fruit X Pear X Banana X Pineapple X Lemon Smoothie Sour Ale",
+    "brewery": "Ārpus Brewing Co.",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-09-28T11:13:16+00:00",
+    "serving": "draft",
+    "rating": 2.8,
+    "beer_name": "Mandatory Afterglow",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Lager - IPL (India Pale Lager)"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-09-28T09:42:35+00:00",
+    "serving": "draft",
+    "rating": 4.75,
+    "beer_name": "Dragon Fruit X Pear X Banana X Pineapple X Lemon Smoothie Sour Ale",
+    "brewery": "Ārpus Brewing Co.",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
   {
     "venue": "schnitt-brewing-company",
     "time": "2025-09-27T19:44:37+00:00",
@@ -18708,8 +18870,8 @@ const BEER_DATA = [
   {
     "venue": "b7-beer-house",
     "time": "2025-08-21T16:02:37+00:00",
-    "serving": "Unknown",
-    "rating": 3.75,
+    "serving": "can",
+    "rating": 3.5,
     "beer_name": "Nitro Mini M*rs",
     "brewery": "Vault City Brewing",
     "beer_type": "Stout - Pastry"
@@ -18717,8 +18879,8 @@ const BEER_DATA = [
   {
     "venue": "b7-beer-house",
     "time": "2025-08-21T16:02:37+00:00",
-    "serving": "can",
-    "rating": 3.5,
+    "serving": "Unknown",
+    "rating": 3.75,
     "beer_name": "Nitro Mini M*rs",
     "brewery": "Vault City Brewing",
     "beer_type": "Stout - Pastry"
@@ -18760,15 +18922,6 @@ const BEER_DATA = [
     "beer_type": "Stout - White / Golden"
   },
   {
-    "venue": "b7-beer-house",
-    "time": "2025-08-21T16:00:28+00:00",
-    "serving": "can",
-    "rating": 5.0,
-    "beer_name": "Naughty & Nice - White Chocolate & Raspberry",
-    "brewery": "Vocation Brewery",
-    "beer_type": "Stout - White / Golden"
-  },
-  {
     "venue": "lauter",
     "time": "2025-08-21T16:00:28+00:00",
     "serving": "draft",
@@ -18776,6 +18929,15 @@ const BEER_DATA = [
     "beer_name": "KRUSHED IT",
     "brewery": "Oak & Ash",
     "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-21T16:00:28+00:00",
+    "serving": "can",
+    "rating": 5.0,
+    "beer_name": "Naughty & Nice - White Chocolate & Raspberry",
+    "brewery": "Vocation Brewery",
+    "beer_type": "Stout - White / Golden"
   },
   {
     "venue": "b7-beer-house",
@@ -34126,19 +34288,19 @@ const BEER_DATA = [
     "venue": "lauter",
     "time": "2025-07-25T18:15:23+00:00",
     "serving": "draft",
-    "rating": 4.8,
-    "beer_name": "Fou' Foune 2023 - Draft Version",
+    "rating": 4.0,
+    "beer_name": "Cuvée Saint-Gilloise 2023 - Draft Version",
     "brewery": "Brasserie Cantillon",
-    "beer_type": "Lambic - Fruit"
+    "beer_type": "Lambic - Traditional"
   },
   {
     "venue": "lauter",
     "time": "2025-07-25T18:15:23+00:00",
     "serving": "draft",
-    "rating": 4.0,
-    "beer_name": "Cuvée Saint-Gilloise 2023 - Draft Version",
+    "rating": 4.8,
+    "beer_name": "Fou' Foune 2023 - Draft Version",
     "brewery": "Brasserie Cantillon",
-    "beer_type": "Lambic - Traditional"
+    "beer_type": "Lambic - Fruit"
   },
   {
     "venue": "lauter",
@@ -43540,8 +43702,8 @@ const BEER_DATA = [
     "venue": "berlin-florentin",
     "time": "2024-12-23T18:37:49+00:00",
     "serving": "bottle",
-    "rating": 3.0,
-    "beer_name": "Christmas Ale",
+    "rating": 4.1,
+    "beer_name": "Christmas Ale (2023)",
     "brewery": "Brouwerij St.Bernardus",
     "beer_type": "Winter Ale"
   },
@@ -43549,8 +43711,8 @@ const BEER_DATA = [
     "venue": "berlin-florentin",
     "time": "2024-12-23T18:37:49+00:00",
     "serving": "bottle",
-    "rating": 4.1,
-    "beer_name": "Christmas Ale (2023)",
+    "rating": 3.0,
+    "beer_name": "Christmas Ale",
     "brewery": "Brouwerij St.Bernardus",
     "beer_type": "Winter Ale"
   },
@@ -49974,8 +50136,8 @@ const BEER_DATA = [
   {
     "venue": "berlin-florentin",
     "time": "2024-01-22T18:42:20+00:00",
-    "serving": "Unknown",
-    "rating": null,
+    "serving": "can",
+    "rating": 4.0,
     "beer_name": "200 Units",
     "brewery": "Brewski",
     "beer_type": "Barleywine - English"
@@ -49983,8 +50145,8 @@ const BEER_DATA = [
   {
     "venue": "berlin-florentin",
     "time": "2024-01-22T18:42:20+00:00",
-    "serving": "can",
-    "rating": 4.0,
+    "serving": "Unknown",
+    "rating": null,
     "beer_name": "200 Units",
     "brewery": "Brewski",
     "beer_type": "Barleywine - English"

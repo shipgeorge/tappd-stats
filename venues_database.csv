@@ -1,4 +1,22 @@
 venue,user,time,serving,data_rating,beer_name,brewery,beer_type
+lauter,drinking_park,"Sun, 28 Sep 2025 19:56:05 +0000",bottle,3.5,Noa Pecan Mud Cake Stout,Omnipollo,Stout - Imperial / Double Pastry
+lauter,drinking_park,"Sun, 28 Sep 2025 19:53:43 +0000",can,4.0,Selfish Games - One Night In Dubai,HORIZONT Brewing,Stout - Imperial / Double
+lauter,Lee Ker,"Sun, 28 Sep 2025 19:52:42 +0000",bottle,,Noa Pecan Mud Cake Stout,Omnipollo,Stout - Imperial / Double Pastry
+lauter,Lee Ker,"Sun, 28 Sep 2025 19:50:55 +0000",can,,Selfish Games - One Night In Dubai,HORIZONT Brewing,Stout - Imperial / Double
+lauter,drinking_park,"Sun, 28 Sep 2025 19:25:50 +0000",bottle,4.0,Barbãr Bok,Brasserie Lefebvre,Bock - Single / Traditional
+schnitt-brewing-company,drinking_park,"Sun, 28 Sep 2025 19:24:52 +0000",,,Alt Neuland,Schnitt Brewing Company﻿,Altbier - Traditional
+schnitt-brewing-company,drinking_park,"Sun, 28 Sep 2025 19:23:41 +0000",,,Weissman,Schnitt Brewing Company﻿,Wheat Beer - Hefeweizen
+schnitt-brewing-company,Lee Ker,"Sun, 28 Sep 2025 19:22:49 +0000",,,Slow And Bitter (מריר ועצלני),Schnitt Brewing Company﻿,Bitter - Session / Ordinary
+lauter,UV R,"Sun, 28 Sep 2025 19:08:57 +0000",bottle,4.0,1838,Thornbridge Brewery,Pale Ale - English
+lauter,Tomer Brisker,"Sun, 28 Sep 2025 18:15:45 +0000",draft,,קץ הדעת,נעמה סורקין,Cider - Dry
+lauter,UV R,"Sun, 28 Sep 2025 18:12:48 +0000",draft,4.0,Tucher Pils,Tucher Bräu,Pilsner - German
+lauter,Lee Ker,"Sun, 28 Sep 2025 17:49:09 +0000",,,Barbãr Bok,Brasserie Lefebvre,Bock - Single / Traditional
+lauter,Lee Ker,"Sun, 28 Sep 2025 17:47:38 +0000",,,Twist & Stout,Schnitt Brewing Company﻿,Stout - Irish Dry
+lauter,Tomer Brisker,"Sun, 28 Sep 2025 17:22:15 +0000",,,"Shut Up And Drink Me! (שת""פ)",Schnitt Brewing Company﻿,Historical Beer - Lichtenhainer
+schnitt-brewing-company,Lee Ker,"Sun, 28 Sep 2025 16:47:54 +0000",,,Alt Neuland,Schnitt Brewing Company﻿,Altbier - Traditional
+lauter,Boris Zhuravel,"Sun, 28 Sep 2025 13:35:37 +0000",draft,4.0,Dragon Fruit X Pear X Banana X Pineapple X Lemon Smoothie Sour Ale,Ārpus Brewing Co.,Sour - Smoothie / Pastry
+schnitt-brewing-company,Alex Sindalovsky,"Sun, 28 Sep 2025 11:13:16 +0000",draft,2.8,Mandatory Afterglow,Schnitt Brewing Company﻿,Lager - IPL (India Pale Lager)
+b7-beer-house,Natalia Ya,"Sun, 28 Sep 2025 09:42:35 +0000",draft,4.75,Dragon Fruit X Pear X Banana X Pineapple X Lemon Smoothie Sour Ale,Ārpus Brewing Co.,Sour - Smoothie / Pastry
 schnitt-brewing-company,Shiran Kushnir,"Sat, 27 Sep 2025 19:44:37 +0000",draft,4.0,Muuumbai,Schnitt Brewing Company﻿,Lager - IPL (India Pale Lager)
 schnitt-brewing-company,Shon Kupstaitis,"Sat, 27 Sep 2025 19:05:18 +0000",draft,3.5,Lazy Bee Hibiscus And Raspberries,Schnitt Brewing Company﻿,Mead - Session / Short
 lauter,Shon Kupstaitis,"Sat, 27 Sep 2025 19:03:39 +0000",draft,4.5,Dragon Fruit X Pear X Banana X Pineapple X Lemon Smoothie Sour Ale,Ārpus Brewing Co.,Sour - Smoothie / Pastry
@@ -2077,14 +2095,14 @@ b7-beer-house,Liad Shaked,"Thu, 21 Aug 2025 16:04:25 +0000",can,3.8,Nitro Mini M
 b7-beer-house,Tom Lahav,"Thu, 21 Aug 2025 16:04:24 +0000",can,3.5,Nitro Mini M*rs,Vault City Brewing,Stout - Pastry
 b7-beer-house,Raz Ko,"Thu, 21 Aug 2025 16:03:38 +0000",can,4.2,Salted Caramel Crema,Vault City Brewing,Stout - Imperial / Double Coffee
 b7-beer-house,Eran Keller,"Thu, 21 Aug 2025 16:03:08 +0000",can,4.25,Salted Caramel Crema,Vault City Brewing,Stout - Imperial / Double Coffee
-b7-beer-house,Elior Mizrahi,"Thu, 21 Aug 2025 16:02:37 +0000",,3.75,Nitro Mini M*rs,Vault City Brewing,Stout - Pastry
 b7-beer-house,Raz Ko,"Thu, 21 Aug 2025 16:02:37 +0000",can,3.5,Nitro Mini M*rs,Vault City Brewing,Stout - Pastry
+b7-beer-house,Elior Mizrahi,"Thu, 21 Aug 2025 16:02:37 +0000",,3.75,Nitro Mini M*rs,Vault City Brewing,Stout - Pastry
 b7-beer-house,Liad Shaked,"Thu, 21 Aug 2025 16:02:21 +0000",can,4.3,Salted Caramel Crema,Vault City Brewing,Stout - Imperial / Double Coffee
 b7-beer-house,Ido Cohen,"Thu, 21 Aug 2025 16:02:06 +0000",can,3.9,Birthday Cake,Vocation Brewery,Stout - Milk / Sweet
 b7-beer-house,Eran Keller,"Thu, 21 Aug 2025 16:01:24 +0000",can,3.75,Naughty & Nice - White Chocolate & Raspberry,Vocation Brewery,Stout - White / Golden
 b7-beer-house,Ido Cohen,"Thu, 21 Aug 2025 16:00:48 +0000",can,3.7,Naughty & Nice - White Chocolate & Raspberry,Vocation Brewery,Stout - White / Golden
-b7-beer-house,sourlips69,"Thu, 21 Aug 2025 16:00:28 +0000",can,5.0,Naughty & Nice - White Chocolate & Raspberry,Vocation Brewery,Stout - White / Golden
 lauter,Danny Ganelin,"Thu, 21 Aug 2025 16:00:28 +0000",draft,3.5,KRUSHED IT,Oak & Ash,IPA - New England / Hazy
+b7-beer-house,sourlips69,"Thu, 21 Aug 2025 16:00:28 +0000",can,5.0,Naughty & Nice - White Chocolate & Raspberry,Vocation Brewery,Stout - White / Golden
 b7-beer-house,גל סילברמן,"Thu, 21 Aug 2025 16:00:18 +0000",can,3.8,Naughty & Nice - White Chocolate & Raspberry,Vocation Brewery,Stout - White / Golden
 b7-beer-house,Guy Azene,"Thu, 21 Aug 2025 16:00:01 +0000",can,3.8,Naughty & Nice - White Chocolate & Raspberry,Vocation Brewery,Stout - White / Golden
 b7-beer-house,Liad Shaked,"Thu, 21 Aug 2025 15:59:41 +0000",can,3.9,Naughty & Nice - White Chocolate & Raspberry,Vocation Brewery,Stout - White / Golden
@@ -3790,8 +3808,8 @@ lauter,Sivan Nagola,"Fri, 25 Jul 2025 18:16:52 +0000",draft,4.5,Rosé De Gambrin
 lauter,Shmupi Koto,"Fri, 25 Jul 2025 18:16:45 +0000",draft,4.6,Sang Bleu 2024 - Draft Version,Brasserie Cantillon,Lambic - Fruit
 lauter,Yahly Guttman,"Fri, 25 Jul 2025 18:16:17 +0000",,5.0,Fou' Foune 2023 - Draft Version,Brasserie Cantillon,Lambic - Fruit
 lauter,Sivan Nagola,"Fri, 25 Jul 2025 18:15:54 +0000",draft,4.0,Kriek 2025 - Draft Version,Brasserie Cantillon,Lambic - Kriek
-lauter,Eli Smikin,"Fri, 25 Jul 2025 18:15:23 +0000",draft,4.8,Fou' Foune 2023 - Draft Version,Brasserie Cantillon,Lambic - Fruit
 lauter,Sivan Nagola,"Fri, 25 Jul 2025 18:15:23 +0000",draft,4.0,Cuvée Saint-Gilloise 2023 - Draft Version,Brasserie Cantillon,Lambic - Traditional
+lauter,Eli Smikin,"Fri, 25 Jul 2025 18:15:23 +0000",draft,4.8,Fou' Foune 2023 - Draft Version,Brasserie Cantillon,Lambic - Fruit
 lauter,Sivan Nagola,"Fri, 25 Jul 2025 18:14:47 +0000",draft,4.75,Gueuze 2024 - Draft Version,Brasserie Cantillon,Lambic - Gueuze
 lauter,Sivan Nagola,"Fri, 25 Jul 2025 18:14:07 +0000",draft,4.0,Grand Cru Bruocsella - Draft Version (2021-2022),Brasserie Cantillon,Lambic - Traditional
 lauter,Itai Snai,"Fri, 25 Jul 2025 18:10:14 +0000",,4.5,Fou' Foune 2023 - Draft Version,Brasserie Cantillon,Lambic - Fruit
@@ -4836,8 +4854,8 @@ berlin-florentin,Sharon Confino,"Mon, 23 Dec 2024 18:45:24 +0000",bottle,3.75,Fr
 berlin-florentin,Yana O,"Mon, 23 Dec 2024 18:44:17 +0000",bottle,4.0,Framboise,Brouwerij Lindemans,Lambic - Framboise
 berlin-florentin,Ⓜ️axx Dee,"Mon, 23 Dec 2024 18:44:11 +0000",bottle,4.0,Framboise,Brouwerij Lindemans,Lambic - Framboise
 berlin-florentin,Ⓜ️axx Dee,"Mon, 23 Dec 2024 18:38:17 +0000",bottle,4.0,Christmas Ale (2023),Brouwerij St.Bernardus,Winter Ale
-berlin-florentin,Sharon Confino,"Mon, 23 Dec 2024 18:37:49 +0000",bottle,3.0,Christmas Ale,Brouwerij St.Bernardus,Winter Ale
 berlin-florentin,Yana O,"Mon, 23 Dec 2024 18:37:49 +0000",bottle,4.1,Christmas Ale (2023),Brouwerij St.Bernardus,Winter Ale
+berlin-florentin,Sharon Confino,"Mon, 23 Dec 2024 18:37:49 +0000",bottle,3.0,Christmas Ale,Brouwerij St.Bernardus,Winter Ale
 berlin-florentin,Sharon Confino,"Mon, 23 Dec 2024 18:32:18 +0000",bottle,4.5,Faro,Brouwerij Lindemans,Lambic - Faro
 berlin-florentin,Yana O,"Mon, 23 Dec 2024 18:30:45 +0000",bottle,4.0,Faro,Brouwerij Lindemans,Lambic - Faro
 berlin-florentin,Ⓜ️axx Dee,"Mon, 23 Dec 2024 18:30:43 +0000",bottle,4.1,Faro,Brouwerij Lindemans,Lambic - Faro
@@ -5551,8 +5569,8 @@ berlin-florentin,Yaron Sh,"Mon, 22 Jan 2024 18:49:44 +0000",can,4.0,"¡Buena Par
 berlin-florentin,Shmupi Koto,"Mon, 22 Jan 2024 18:49:41 +0000",can,3.8,"¡Buena Para El Papa! ¿Si, No?",Brewski,Stout - Imperial / Double Pastry
 berlin-florentin,Shmupi Koto,"Mon, 22 Jan 2024 18:49:04 +0000",can,4.0,200 Units,Brewski,Barleywine - English
 berlin-florentin,Tom Oppenheim,"Mon, 22 Jan 2024 18:48:49 +0000",can,3.5,"¡Buena Para El Papa! ¿Si, No?",Brewski,Stout - Imperial / Double Pastry
-berlin-florentin,Yaron Sh,"Mon, 22 Jan 2024 18:42:20 +0000",,,200 Units,Brewski,Barleywine - English
 berlin-florentin,ori shuster,"Mon, 22 Jan 2024 18:42:20 +0000",can,4.0,200 Units,Brewski,Barleywine - English
+berlin-florentin,Yaron Sh,"Mon, 22 Jan 2024 18:42:20 +0000",,,200 Units,Brewski,Barleywine - English
 berlin-florentin,Yaron Sh,"Mon, 22 Jan 2024 18:41:52 +0000",,,Strawberry Pie,Brewski,Sour - Smoothie / Pastry
 berlin-florentin,Itai Snai,"Mon, 22 Jan 2024 18:40:50 +0000",,3.5,200 Units,Brewski,Barleywine - English
 berlin-florentin,Mikhail Stolov,"Mon, 22 Jan 2024 18:38:56 +0000",,3.75,200 Units,Brewski,Barleywine - English
