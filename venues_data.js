@@ -1,8 +1,233 @@
 // 🍺 BEER STATS DATA - Generated automatically
-// Last updated: 2025-09-30 06:38:33
-// Total records: 5929
+// Last updated: 2025-10-01 06:37:56
+// Total records: 5954
 
 const BEER_DATA = [
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-09-30T21:45:53+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Same Schnitt, Different Hop: Amarillo",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pale Ale - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-30T21:15:12+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Dragon Fruit X Pear X Banana X Pineapple X Lemon Smoothie Sour Ale",
+    "brewery": "Ārpus Brewing Co.",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-30T20:59:12+00:00",
+    "serving": "bottle",
+    "rating": 4.25,
+    "beer_name": "Oude Abricot Tilquin à l'Ancienne (2023-2024)",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-30T20:29:21+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Mandatory Afterglow",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Lager - IPL (India Pale Lager)"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-30T20:26:02+00:00",
+    "serving": "bottle",
+    "rating": 4.0,
+    "beer_name": "Bjorn's Beer",
+    "brewery": "Attali's Family Brewery",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-30T20:18:27+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "Ronen The Ugly Beer (הבירה המכוערת)",
+    "brewery": "Srigim (שריגים)",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-30T19:35:28+00:00",
+    "serving": "Unknown",
+    "rating": 3.25,
+    "beer_name": "Lazy Evenings",
+    "brewery": "Oak & Ash",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-30T19:27:16+00:00",
+    "serving": "bottle",
+    "rating": 4.25,
+    "beer_name": "Framboos (2022)",
+    "brewery": "Boerenerf",
+    "beer_type": "Lambic - Framboise"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-30T19:23:02+00:00",
+    "serving": "bottle",
+    "rating": 4.25,
+    "beer_name": "Bière en Barrique – Fråmbooze",
+    "brewery": "Brasserie des Garrigues",
+    "beer_type": "Sour - Fruited Berliner Weisse"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-30T18:36:08+00:00",
+    "serving": "draft",
+    "rating": 3.25,
+    "beer_name": "Lazy Evenings",
+    "brewery": "Oak & Ash",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-30T18:33:32+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Malabiscus sour",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Sour - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-30T18:31:34+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "Mandatory Afterglow",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Lager - IPL (India Pale Lager)"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-30T18:30:58+00:00",
+    "serving": "Unknown",
+    "rating": 4.25,
+    "beer_name": "Dragon Fruit X Pear X Banana X Pineapple X Lemon Smoothie Sour Ale",
+    "brewery": "Ārpus Brewing Co.",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-30T18:29:17+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Fruitheart Smoothie Sour Ale",
+    "brewery": "Ārpus Brewing Co.",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "porter-and-sons",
+    "time": "2025-09-30T18:04:12+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Prior 8",
+    "brewery": "Brouwerij St.Bernardus",
+    "beer_type": "Belgian Dubbel"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-09-30T17:38:17+00:00",
+    "serving": "Unknown",
+    "rating": 4.5,
+    "beer_name": "Shut Up And Drink Me! (שת\"פ)",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Historical Beer - Lichtenhainer"
+  },
+  {
+    "venue": "porter-and-sons",
+    "time": "2025-09-30T17:15:59+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Soundwave IPA",
+    "brewery": "Siren Craft Brew",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "porter-and-sons",
+    "time": "2025-09-30T17:15:38+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Green Mountain",
+    "brewery": "Thornbridge Brewery",
+    "beer_type": "IPA - Session"
+  },
+  {
+    "venue": "porter-and-sons",
+    "time": "2025-09-30T17:15:08+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Kelly's Green Pony",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-09-30T17:09:15+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "Selfish Games - One Night In Dubai",
+    "brewery": "HORIZONT Brewing",
+    "beer_type": "Stout - Imperial / Double"
+  },
+  {
+    "venue": "porter-and-sons",
+    "time": "2025-09-30T16:52:35+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Budweiser Budvar B:DARK / Czechvar B:DARK",
+    "brewery": "Budějovický Budvar",
+    "beer_type": "Lager - Tmavé (Czech Dark)"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-09-30T15:49:14+00:00",
+    "serving": "draft",
+    "rating": 4.5,
+    "beer_name": "Slow And Bitter (מריר ועצלני)",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Bitter - Session / Ordinary"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-09-30T15:44:50+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Mandatory Afterglow",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Lager - IPL (India Pale Lager)"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-09-30T15:22:57+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Mandatory Afterglow",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Lager - IPL (India Pale Lager)"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-09-30T14:23:12+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Muuumbai",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Lager - IPL (India Pale Lager)"
+  },
   {
     "venue": "schnitt-brewing-company",
     "time": "2025-09-29T20:09:37+00:00",
@@ -19129,15 +19354,6 @@ const BEER_DATA = [
     "beer_type": "Stout - White / Golden"
   },
   {
-    "venue": "lauter",
-    "time": "2025-08-21T16:00:28+00:00",
-    "serving": "draft",
-    "rating": 3.5,
-    "beer_name": "KRUSHED IT",
-    "brewery": "Oak & Ash",
-    "beer_type": "IPA - New England / Hazy"
-  },
-  {
     "venue": "b7-beer-house",
     "time": "2025-08-21T16:00:28+00:00",
     "serving": "can",
@@ -19145,6 +19361,15 @@ const BEER_DATA = [
     "beer_name": "Naughty & Nice - White Chocolate & Raspberry",
     "brewery": "Vocation Brewery",
     "beer_type": "Stout - White / Golden"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-21T16:00:28+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "KRUSHED IT",
+    "brewery": "Oak & Ash",
+    "beer_type": "IPA - New England / Hazy"
   },
   {
     "venue": "b7-beer-house",
@@ -26376,8 +26601,8 @@ const BEER_DATA = [
   {
     "venue": "lauter",
     "time": "2025-08-05T18:49:38+00:00",
-    "serving": "Unknown",
-    "rating": 4.5,
+    "serving": "can",
+    "rating": 4.0,
     "beer_name": "Whakahoa",
     "brewery": "Factory Brewing",
     "beer_type": "IPA - Triple New England / Hazy"
@@ -26385,8 +26610,8 @@ const BEER_DATA = [
   {
     "venue": "lauter",
     "time": "2025-08-05T18:49:38+00:00",
-    "serving": "can",
-    "rating": 4.0,
+    "serving": "Unknown",
+    "rating": 4.5,
     "beer_name": "Whakahoa",
     "brewery": "Factory Brewing",
     "beer_type": "IPA - Triple New England / Hazy"
@@ -33450,20 +33675,20 @@ const BEER_DATA = [
   {
     "venue": "lauter",
     "time": "2025-07-26T15:22:08+00:00",
-    "serving": "Unknown",
-    "rating": 4.0,
-    "beer_name": "Pijże",
-    "brewery": "Nepo Brewing",
-    "beer_type": "Pale Ale - New England / Hazy"
-  },
-  {
-    "venue": "lauter",
-    "time": "2025-07-26T15:22:08+00:00",
     "serving": "can",
     "rating": 4.2,
     "beer_name": "Smoothie Bowl: Pistachio Fluff",
     "brewery": "Nepo Brewing",
     "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-07-26T15:22:08+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Pijże",
+    "brewery": "Nepo Brewing",
+    "beer_type": "Pale Ale - New England / Hazy"
   },
   {
     "venue": "lauter",
