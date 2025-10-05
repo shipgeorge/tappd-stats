@@ -1,4 +1,35 @@
 venue,user,time,serving,data_rating,beer_name,brewery,beer_type
+lauter,גל סילברמן,"Sun, 05 Oct 2025 02:30:41 +0000",can,4.3,ШТРУДЕЛЬ ЦИТРУС,КУЛИNAR,Sour - Smoothie / Pastry
+ursa,ran_1985,"Sat, 04 Oct 2025 19:57:54 +0000",,4.0,Day Maker,Thornbridge Brewery,IPA - Session
+lauter,Elad Schitrit,"Sat, 04 Oct 2025 19:44:51 +0000",bottle,4.25,In Plenty Almond Coffee Imperial Stout,Omnipollo,Stout - Imperial / Double Pastry
+beerbazaar-brewery,Oren Sela,"Sat, 04 Oct 2025 19:03:14 +0000",draft,3.75,Ziggy (זיגי),BeerBazaar / Mivshelet Ha’Aretz,IPA - New England / Hazy
+lauter,oriel38,"Sat, 04 Oct 2025 18:55:51 +0000",draft,3.5,Fata Morgana Pale Ale,Negev Brewery (נגב),Pale Ale - Other
+lauter,Adam Berelowitz,"Sat, 04 Oct 2025 18:37:09 +0000",draft,3.2,Accept All Cookies,Schnitt Brewing Company﻿,Pale Ale - Other
+lauter,Adam Berelowitz,"Sat, 04 Oct 2025 18:36:44 +0000",draft,3.8,Mandatory Afterglow,Schnitt Brewing Company﻿,Lager - IPL (India Pale Lager)
+lauter,Elad Schitrit,"Sat, 04 Oct 2025 18:19:05 +0000",can,3.5,God’s Raspberry Ice Cream Sour,Omnipollo,Sour - Fruited
+schnitt-brewing-company,Nhenn,"Sat, 04 Oct 2025 18:05:30 +0000",draft,4.75,Ronen The Ugly Beer (הבירה המכוערת),Srigim (שריגים),IPA - American
+lauter,Or Cohen,"Sat, 04 Oct 2025 17:28:53 +0000",can,3.5,שנה טובה כפרה,Herzl (הרצל),IPA - Other
+lauter,uri822,"Sat, 04 Oct 2025 17:25:36 +0000",can,4.0,Dogs Allowed,WarPigs Brewpub,IPA - Imperial / Double New England / Hazy
+lauter,Tal,"Sat, 04 Oct 2025 16:49:42 +0000",bottle,3.75,Hitachino Nest Red Rice Ale,Kiuchi Brewery,Specialty Grain
+lauter,uri822,"Sat, 04 Oct 2025 16:24:21 +0000",draft,4.0,Hazy Queen,HORIZONT Brewing,IPA - New England / Hazy
+lauter,uri822,"Sat, 04 Oct 2025 16:20:44 +0000",draft,3.25,Anything Gose: Mango,Schnitt Brewing Company﻿,Sour - Fruited Gose
+lauter,David Siegel,"Sat, 04 Oct 2025 16:10:11 +0000",bottle,4.0,Kasteel Tropical,Kasteel Brouwerij Vanhonsebrouck,Fruit Beer
+lauter,Idan Glassman,"Sat, 04 Oct 2025 14:49:51 +0000",draft,4.5,Anything Gose: Mango,Schnitt Brewing Company﻿,Sour - Fruited Gose
+lauter,Yotam Bar-natan,"Sat, 04 Oct 2025 14:31:00 +0000",can,3.8,Charlotte,Nepo Brewing,Fruit Beer
+lauter,Anton B,"Sat, 04 Oct 2025 14:22:07 +0000",,,Paleraiser,Schnitt Brewing Company﻿,Pale Ale - American
+lauter,Shakuf,"Sat, 04 Oct 2025 13:56:35 +0000",draft,3.75,Mandatory Afterglow,Schnitt Brewing Company﻿,Lager - IPL (India Pale Lager)
+lauter,Shakuf,"Sat, 04 Oct 2025 13:52:16 +0000",draft,4.5,קץ הדעת,נעמה סורקין,Cider - Dry
+schnitt-brewing-company,Yotam Bar-natan,"Sat, 04 Oct 2025 13:47:38 +0000",,3.9,Mandatory Afterglow,Schnitt Brewing Company﻿,Lager - IPL (India Pale Lager)
+schnitt-brewing-company,Yotam Bar-natan,"Sat, 04 Oct 2025 13:47:25 +0000",draft,3.8,Salt N' Peppa,Schnitt Brewing Company﻿,Lager - Other
+lauter,Avi Levy,"Sat, 04 Oct 2025 13:43:59 +0000",draft,3.5,Mandatory Afterglow,Schnitt Brewing Company﻿,Lager - IPL (India Pale Lager)
+lauter,Avi Levy,"Sat, 04 Oct 2025 13:42:35 +0000",draft,3.5,קץ הדעת,נעמה סורקין,Cider - Dry
+schnitt-brewing-company,Yotam Bar-natan,"Sat, 04 Oct 2025 13:36:53 +0000",draft,3.3,Twist & Stout,Schnitt Brewing Company﻿,Stout - Irish Dry
+schnitt-brewing-company,Yotam Bar-natan,"Sat, 04 Oct 2025 13:36:02 +0000",draft,4.0,Paleraiser,Schnitt Brewing Company﻿,Pale Ale - American
+lauter,גל סילברמן,"Sat, 04 Oct 2025 10:51:28 +0000",,3.0,Paleraiser,Schnitt Brewing Company﻿,Pale Ale - American
+lauter,גל סילברמן,"Sat, 04 Oct 2025 10:46:21 +0000",,4.0,Fata Morgana Pale Ale,Negev Brewery (נגב),Pale Ale - Other
+lauter,Nadav Cohen,"Sat, 04 Oct 2025 09:49:33 +0000",,4.0,Hazy Queen,HORIZONT Brewing,IPA - New England / Hazy
+schnitt-brewing-company,Adi Levi,"Sat, 04 Oct 2025 08:32:54 +0000",,3.75,I(tai)PA,Schnitt Brewing Company﻿,IPA - Other
+schnitt-brewing-company,Adi Levi,"Sat, 04 Oct 2025 08:31:19 +0000",,3.75,Sessionista,Schnitt Brewing Company﻿,IPA - New England / Hazy
 schnitt-brewing-company,Alma,"Fri, 03 Oct 2025 19:53:39 +0000",can,4.0,Passion Flick,HORIZONT Brewing,Pale Ale - Milkshake
 lauter,Jonathan Gonen,"Fri, 03 Oct 2025 19:13:26 +0000",bottle,3.0,Berchtesgadener Eisbock,Hofbrauhaus Berchtesgaden,Bock - Eisbock
 lauter,Gal Sokol,"Fri, 03 Oct 2025 19:07:47 +0000",draft,4.0,קץ הדעת,נעמה סורקין,Cider - Dry
@@ -3800,8 +3831,8 @@ lauter,Shmupi Koto,"Sat, 26 Jul 2025 15:40:24 +0000",can,3.7,Smoothie Bowl - Pea
 lauter,David Siegel,"Sat, 26 Jul 2025 15:38:40 +0000",,4.25,Smoothie Bowl - Peachy Dragon,Nepo Brewing,Sour - Smoothie / Pastry
 lauter,Adam Berelowitz,"Sat, 26 Jul 2025 15:35:23 +0000",can,4.3,Smoothie Bowl - Peachy Dragon,Nepo Brewing,Sour - Smoothie / Pastry
 schnitt-brewing-company,Omri Gill,"Sat, 26 Jul 2025 15:33:39 +0000",draft,3.75,Mexico City Twist,Schnitt Brewing Company﻿,Lager - Mexican
-lauter,Adam Berelowitz,"Sat, 26 Jul 2025 15:22:08 +0000",can,4.2,Smoothie Bowl: Pistachio Fluff,Nepo Brewing,Sour - Smoothie / Pastry
 lauter,David Siegel,"Sat, 26 Jul 2025 15:22:08 +0000",,4.0,Pijże,Nepo Brewing,Pale Ale - New England / Hazy
+lauter,Adam Berelowitz,"Sat, 26 Jul 2025 15:22:08 +0000",can,4.2,Smoothie Bowl: Pistachio Fluff,Nepo Brewing,Sour - Smoothie / Pastry
 lauter,Adam Berelowitz,"Sat, 26 Jul 2025 15:21:39 +0000",can,4.3,Pijże,Nepo Brewing,Pale Ale - New England / Hazy
 lauter,David Siegel,"Sat, 26 Jul 2025 15:20:22 +0000",,4.25,Smoothie Bowl: Pistachio Fluff,Nepo Brewing,Sour - Smoothie / Pastry
 lauter,Anton B,"Sat, 26 Jul 2025 15:17:20 +0000",can,,Windy Hill,Mikkeller,IPA - New England / Hazy
