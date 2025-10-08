@@ -1,4 +1,8 @@
 venue,user,time,serving,data_rating,beer_name,brewery,beer_type
+schnitt-brewing-company,Sagi Tsaeiri,"Tue, 07 Oct 2025 20:24:50 +0000",draft,4.0,Sessionista,Schnitt Brewing Company﻿,IPA - New England / Hazy
+beerline,Philip Greenberg,"Tue, 07 Oct 2025 15:34:00 +0000",,4.5,Delirium Red,Delirium - Huyghe Brewery,Fruit Beer
+schnitt-brewing-company,Noy Marina,"Tue, 07 Oct 2025 15:15:05 +0000",draft,4.0,Sessionista,Schnitt Brewing Company﻿,IPA - New England / Hazy
+schnitt-brewing-company,Andrey Granovsky,"Tue, 07 Oct 2025 12:03:46 +0000",draft,3.75,Lazy N'Hazy,Schnitt Brewing Company﻿,IPA - New England / Hazy
 lauter,Max N,"Mon, 06 Oct 2025 18:58:19 +0000",draft,3.3,Summer Vibes,Oak & Ash,Sour - Smoothie / Pastry
 lauter,Josh Kraer,"Mon, 06 Oct 2025 18:37:54 +0000",draft,3.5,Sweet Dreams,Oak & Ash,Sour - Fruited
 lauter,Josh Kraer,"Mon, 06 Oct 2025 18:32:45 +0000",draft,4.0,קץ הדעת,נעמה סורקין,Cider - Dry
@@ -1119,8 +1123,8 @@ lauter,YanivMeir1503,"Fri, 12 Sep 2025 10:38:04 +0000",draft,,Delirium Black Bar
 lauter,David Siegel,"Fri, 12 Sep 2025 10:37:22 +0000",draft,4.0,Ciderman Apple,Volfas Engelman,Cider - Traditional / Apfelwein
 lauter,Yuval Erets Kdosha,"Fri, 12 Sep 2025 10:34:34 +0000",draft,5.0,Black Currant x Cherry x Blueberry x Coconut x Almond Smoothie Sour Ale,Ārpus Brewing Co.,Sour - Smoothie / Pastry
 lauter,Yuval Erets Kdosha,"Fri, 12 Sep 2025 10:34:15 +0000",draft,4.0,Eclipse,Schmulz,Mead - Braggot
-lauter,ParkerAsaf,"Fri, 12 Sep 2025 10:33:29 +0000",draft,4.0,Birthday Popsicle קרטיב יום הולדת,Schnitt Brewing Company﻿,IPA - New England / Hazy
 lauter,Yuval Erets Kdosha,"Fri, 12 Sep 2025 10:33:29 +0000",draft,4.0,Birthday Popsicle קרטיב יום הולדת,Schnitt Brewing Company﻿,IPA - New England / Hazy
+lauter,ParkerAsaf,"Fri, 12 Sep 2025 10:33:29 +0000",draft,4.0,Birthday Popsicle קרטיב יום הולדת,Schnitt Brewing Company﻿,IPA - New England / Hazy
 lauter,Yana O,"Fri, 12 Sep 2025 10:33:25 +0000",draft,4.4,Black Currant x Cherry x Blueberry x Coconut x Almond Smoothie Sour Ale,Ārpus Brewing Co.,Sour - Smoothie / Pastry
 lauter,Yuval Erets Kdosha,"Fri, 12 Sep 2025 10:33:07 +0000",draft,4.5,Anything Gose: Mango,Schnitt Brewing Company﻿,Sour - Fruited Gose
 lauter,dafi20,"Fri, 12 Sep 2025 10:29:45 +0000",draft,4.25,Sweet Dreams,Oak & Ash,Sour - Fruited
@@ -1745,8 +1749,8 @@ lauter,Adam Berelowitz,"Mon, 01 Sep 2025 17:50:20 +0000",can,4.0,Confuzzled '202
 lauter,Oren Sleepwalker,"Mon, 01 Sep 2025 17:46:17 +0000",,,Hops Don’t Lie,Thurø Bryghus,IPA - New England / Hazy
 lauter,Mikhail Stolov,"Mon, 01 Sep 2025 17:45:42 +0000",bottle,2.5,Hops Don’t Lie,Thurø Bryghus,IPA - New England / Hazy
 lauter,Yosef Dahan,"Mon, 01 Sep 2025 17:45:00 +0000",bottle,3.5,Hops Don’t Lie,Thurø Bryghus,IPA - New England / Hazy
-lauter,Adam Berelowitz,"Mon, 01 Sep 2025 17:44:35 +0000",bottle,4.0,Hops Don’t Lie,Thurø Bryghus,IPA - New England / Hazy
 lauter,Yaron Sh,"Mon, 01 Sep 2025 17:44:35 +0000",,4.0,Hops Don’t Lie,Thurø Bryghus,IPA - New England / Hazy
+lauter,Adam Berelowitz,"Mon, 01 Sep 2025 17:44:35 +0000",bottle,4.0,Hops Don’t Lie,Thurø Bryghus,IPA - New England / Hazy
 lauter,Kobi,"Mon, 01 Sep 2025 17:44:03 +0000",,4.0,Hops Don’t Lie,Thurø Bryghus,IPA - New England / Hazy
 lauter,Yaron Sh,"Mon, 01 Sep 2025 17:42:20 +0000",,4.5,Super Trigo,Bierwerk Züri,IPA - White / Wheat
 lauter,Oren Sleepwalker,"Mon, 01 Sep 2025 17:40:34 +0000",,,Super Trigo,Bierwerk Züri,IPA - White / Wheat

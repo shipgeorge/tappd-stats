@@ -1,8 +1,44 @@
 // 🍺 BEER STATS DATA - Generated automatically
-// Last updated: 2025-10-07 06:37:30
-// Total records: 6093
+// Last updated: 2025-10-08 06:38:07
+// Total records: 6097
 
 const BEER_DATA = [
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-10-07T20:24:50+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Sessionista",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "beerline",
+    "time": "2025-10-07T15:34:00+00:00",
+    "serving": "Unknown",
+    "rating": 4.5,
+    "beer_name": "Delirium Red",
+    "brewery": "Delirium - Huyghe Brewery",
+    "beer_type": "Fruit Beer"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-10-07T15:15:05+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Sessionista",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-10-07T12:03:46+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Lazy N'Hazy",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
   {
     "venue": "lauter",
     "time": "2025-10-06T18:58:19+00:00",
@@ -15720,7 +15756,7 @@ const BEER_DATA = [
   {
     "venue": "lauter",
     "time": "2025-09-01T17:44:35+00:00",
-    "serving": "bottle",
+    "serving": "Unknown",
     "rating": 4.0,
     "beer_name": "Hops Don’t Lie",
     "brewery": "Thurø Bryghus",
@@ -15729,7 +15765,7 @@ const BEER_DATA = [
   {
     "venue": "lauter",
     "time": "2025-09-01T17:44:35+00:00",
-    "serving": "Unknown",
+    "serving": "bottle",
     "rating": 4.0,
     "beer_name": "Hops Don’t Lie",
     "brewery": "Thurø Bryghus",
