@@ -1,4 +1,95 @@
 venue,user,time,serving,data_rating,beer_name,brewery,beer_type
+lauter,Eden Dupont,"Sat, 11 Oct 2025 05:41:52 +0000",draft,5.0,Black Currant x Cherry x Blueberry x Coconut x Almond Smoothie Sour Ale,Ārpus Brewing Co.,Sour - Smoothie / Pastry
+lauter,Eden Dupont,"Sat, 11 Oct 2025 05:41:28 +0000",draft,3.7,Mandatory Afterglow,Schnitt Brewing Company﻿,Lager - IPL (India Pale Lager)
+lauter,Eden Dupont,"Sat, 11 Oct 2025 05:39:25 +0000",,4.0,Dragon Fruit X Pear X Banana X Pineapple X Lemon Smoothie Sour Ale,Ārpus Brewing Co.,Sour - Smoothie / Pastry
+porter-and-sons,Omri Gill,"Sat, 11 Oct 2025 00:11:14 +0000",draft,4.0,הפילס שבחדר the Pils In the Room,Schnitt Brewing Company﻿,Pilsner - German
+schnitt-brewing-company,Omri Gill,"Sat, 11 Oct 2025 00:10:48 +0000",draft,3.75,6 To 66,Schnitt Brewing Company﻿,Pale Ale - American
+porter-and-sons,Omri Gill,"Sat, 11 Oct 2025 00:10:24 +0000",draft,3.75,Lazy Bee Hibiscus And Raspberries,Schnitt Brewing Company﻿,Mead - Session / Short
+porter-and-sons,Omri Gill,"Sat, 11 Oct 2025 00:10:00 +0000",bottle,3.25,Apple / Pomme,Brouwerij Lindemans,Lambic - Fruit
+lauter,גל סילברמן,"Fri, 10 Oct 2025 22:59:05 +0000",bottle,4.0,Imperial Stout (Smoky Edition),OG Brewstillery,"Homebrew, Stout - Imperial / Double"
+lauter,גל סילברמן,"Fri, 10 Oct 2025 22:40:48 +0000",bottle,3.8,Bock,Alexander (אלכסנדר),Bock - Single / Traditional
+lauter,Liad Shaked,"Fri, 10 Oct 2025 19:04:54 +0000",draft,3.7,Suktoberfest (סוכטוברפסט),Schnitt Brewing Company﻿,Festbier
+lauter,גל סילברמן,"Fri, 10 Oct 2025 18:35:22 +0000",can,3.8,Hazy Harvest,Haksna Brewery,Pale Ale - New England / Hazy
+lauter,גל סילברמן,"Fri, 10 Oct 2025 18:22:48 +0000",can,3.6,Grapefruit Lollihop,Sibeeria Brewery,IPA - Fruited
+lauter,גל סילברמן,"Fri, 10 Oct 2025 18:19:26 +0000",bottle,4.5,Mirabelle (2023),Boerenerf,Lambic - Fruit
+lauter,גל סילברמן,"Fri, 10 Oct 2025 18:08:01 +0000",can,3.8,Oasis of Passion,Haksna Brewery,Sour - Fruited
+lauter,גל סילברמן,"Fri, 10 Oct 2025 18:07:18 +0000",can,3.7,Lost,BrewDog,Pilsner - Other
+lauter,גל סילברמן,"Fri, 10 Oct 2025 18:05:59 +0000",draft,3.5,אוקטוברפסט 2025,Srigim (שריגים),Festbier
+lauter,גל סילברמן,"Fri, 10 Oct 2025 18:05:24 +0000",draft,1.0,Benediktiner Weissbier,Benediktiner Weissbräu,Wheat Beer - Hefeweizen
+lauter,גל סילברמן,"Fri, 10 Oct 2025 18:04:48 +0000",draft,3.7,Suktoberfest (סוכטוברפסט),Schnitt Brewing Company﻿,Festbier
+lauter,Jonathan Gonen,"Fri, 10 Oct 2025 17:46:26 +0000",can,4.5,Oasis of Passion,Haksna Brewery,Sour - Fruited
+berlin-florentin,Desenterina,"Fri, 10 Oct 2025 17:17:45 +0000",can,3.5,Charlotte,Nepo Brewing,Fruit Beer
+schnitt-brewing-company,einavushlan,"Fri, 10 Oct 2025 16:54:40 +0000",draft,4.0,I(tai)PA,Schnitt Brewing Company﻿,IPA - Other
+beerline,Philip Greenberg,"Fri, 10 Oct 2025 16:32:42 +0000",,4.5,Pleroma Karpologi Pineapple Peach Marshmallow Créme Brulée Sour,Omnipollo,Sour - Smoothie / Pastry
+lauter,Vasa,"Fri, 10 Oct 2025 16:31:13 +0000",,2.0,Summer Vibes,Oak & Ash,Sour - Smoothie / Pastry
+schnitt-brewing-company,dafi20,"Fri, 10 Oct 2025 16:27:05 +0000",draft,4.25,Lazy N'Hazy,Schnitt Brewing Company﻿,IPA - New England / Hazy
+schnitt-brewing-company,Gabi David,"Fri, 10 Oct 2025 16:23:39 +0000",,3.75,"Same Schnitt, Different Hop: Amarillo",Schnitt Brewing Company﻿,Pale Ale - Other
+lauter,Yanai Ben- Alon,"Fri, 10 Oct 2025 16:19:48 +0000",can,4.25,Lost,BrewDog,Pilsner - Other
+schnitt-brewing-company,Oren Ben-Haim,"Fri, 10 Oct 2025 16:18:01 +0000",bottle,4.0,Mirabelle (2023),Boerenerf,Lambic - Fruit
+lauter,Ido Meir,"Fri, 10 Oct 2025 16:11:28 +0000",can,4.0,Hopzz_ Incline,PINTA,IPA - New England / Hazy
+lauter,Ido Meir,"Fri, 10 Oct 2025 16:10:13 +0000",bottle,4.5,Mirabelle (2023),Boerenerf,Lambic - Fruit
+lauter,Ido Meir,"Fri, 10 Oct 2025 16:07:49 +0000",bottle,,Aecht Schlenkerla A La Grodziskie,"Schlenkerla (""Heller-Bräu"" Trum)",Grodziskie / Grätzer
+lauter,Ido Meir,"Fri, 10 Oct 2025 16:06:55 +0000",bottle,4.0,Aecht Schlenkerla Weichsel – Rotbier,"Schlenkerla (""Heller-Bräu"" Trum)",Rauchbier
+schnitt-brewing-company,Oren Ben-Haim,"Fri, 10 Oct 2025 16:04:36 +0000",bottle,4.0,Aecht Schlenkerla Weichsel – Rotbier,"Schlenkerla (""Heller-Bräu"" Trum)",Rauchbier
+schnitt-brewing-company,Oren Ben-Haim,"Fri, 10 Oct 2025 16:02:38 +0000",bottle,4.5,Aecht Schlenkerla Eiche – Doppelbock,"Schlenkerla (""Heller-Bräu"" Trum)",Rauchbier
+lauter,Nir Langer,"Fri, 10 Oct 2025 16:00:42 +0000",bottle,4.25,Aecht Schlenkerla Eiche – Doppelbock,"Schlenkerla (""Heller-Bräu"" Trum)",Rauchbier
+lauter,Ido Meir,"Fri, 10 Oct 2025 15:59:13 +0000",draft,3.75,אוקטוברפסט 2025,Srigim (שריגים),Festbier
+lauter,Itay shalom Kaplan,"Fri, 10 Oct 2025 15:55:01 +0000",draft,3.75,Hazy Queen,HORIZONT Brewing,IPA - New England / Hazy
+schnitt-brewing-company,Ido Meir,"Fri, 10 Oct 2025 15:52:49 +0000",draft,4.0,Lazy N'Hazy,Schnitt Brewing Company﻿,IPA - New England / Hazy
+schnitt-brewing-company,Nir Keidar,"Fri, 10 Oct 2025 15:48:33 +0000",,4.0,Lazy N'Hazy,Schnitt Brewing Company﻿,IPA - New England / Hazy
+lauter,Ido Meir,"Fri, 10 Oct 2025 15:37:44 +0000",bottle,4.0,Aecht Schlenkerla Eiche – Doppelbock,"Schlenkerla (""Heller-Bräu"" Trum)",Rauchbier
+schnitt-brewing-company,Itay shalom Kaplan,"Fri, 10 Oct 2025 15:34:29 +0000",draft,3.25,I(tai)PA,Schnitt Brewing Company﻿,IPA - Other
+lauter,dafi20,"Fri, 10 Oct 2025 15:28:32 +0000",,3.75,Suktoberfest (סוכטוברפסט),Schnitt Brewing Company﻿,Festbier
+lauter,dafi20,"Fri, 10 Oct 2025 15:25:35 +0000",draft,4.0,Hazy Queen,HORIZONT Brewing,IPA - New England / Hazy
+lauter,levlev444,"Fri, 10 Oct 2025 15:23:01 +0000",draft,3.25,Spaten München / Münchner Hell / Premium Lager,Spaten-Franziskaner-Löwenbräu-Gruppe,Lager - Helles
+lauter,Guy Elkayam,"Fri, 10 Oct 2025 15:15:22 +0000",can,4.0,Hopzz_ Incline,PINTA,IPA - New England / Hazy
+schnitt-brewing-company,Oren Ben-Haim,"Fri, 10 Oct 2025 15:13:28 +0000",draft,4.0,Porter&Sons: Marshmallow,Schnitt Brewing Company﻿,Porter - Other
+lauter,Vasa,"Fri, 10 Oct 2025 15:02:25 +0000",draft,3.0,Spaten München / Münchner Hell / Premium Lager,Spaten-Franziskaner-Löwenbräu-Gruppe,Lager - Helles
+beerline,Slava Gladchenko,"Fri, 10 Oct 2025 14:58:57 +0000",draft,5.0,La Trappe Quadrupel,Bierbrouwerij De Koningshoeven,Belgian Quadrupel
+beerline,Slava Gladchenko,"Fri, 10 Oct 2025 14:56:50 +0000",draft,3.25,Jaipur,Thornbridge Brewery,IPA - American
+beerline,Slava Gladchenko,"Fri, 10 Oct 2025 14:55:50 +0000",draft,3.5,Lidski bread kvass (Квас Лидский Хлебный),Lidskae Piva (Лідскае Піва),Kvass
+schnitt-brewing-company,Gabi David,"Fri, 10 Oct 2025 14:51:14 +0000",draft,4.0,Lazy N'Hazy,Schnitt Brewing Company﻿,IPA - New England / Hazy
+schnitt-brewing-company,Gabi David,"Fri, 10 Oct 2025 14:50:02 +0000",,3.5,Alt Neuland,Schnitt Brewing Company﻿,Altbier - Traditional
+schnitt-brewing-company,Gabi David,"Fri, 10 Oct 2025 14:48:47 +0000",,3.75,Mandatory Afterglow,Schnitt Brewing Company﻿,Lager - IPL (India Pale Lager)
+beerline,Arman Tadevosyan,"Fri, 10 Oct 2025 14:31:04 +0000",draft,4.5,Lidski bread kvass (Квас Лидский Хлебный),Lidskae Piva (Лідскае Піва),Kvass
+lauter,Dr Solo,"Fri, 10 Oct 2025 14:25:52 +0000",draft,3.8,Spaten Oktoberfestbier,Spaten-Franziskaner-Löwenbräu-Gruppe,Festbier
+lauter,Ido Meir,"Fri, 10 Oct 2025 14:19:21 +0000",bottle,4.0,Bjorn's Beer,Attali's Family Brewery,IPA - American
+lauter,Adam Berelowitz,"Fri, 10 Oct 2025 14:15:57 +0000",bottle,3.8,Bjorn's Beer,Attali's Family Brewery,IPA - American
+schnitt-brewing-company,Guy Elkayam,"Fri, 10 Oct 2025 14:14:24 +0000",draft,3.5,Suktoberfest (סוכטוברפסט),Schnitt Brewing Company﻿,Festbier
+lauter,Sean Berger,"Fri, 10 Oct 2025 14:13:05 +0000",bottle,3.25,Pizza Earth Theory,Schmulz,Historical Beer - Lichtenhainer
+lauter,levlev444,"Fri, 10 Oct 2025 14:03:59 +0000",draft,3.5,NEIPA,Volfas Engelman,IPA - New England / Hazy
+schnitt-brewing-company,moria koren,"Fri, 10 Oct 2025 13:57:58 +0000",draft,3.75,Twist & Stout,Schnitt Brewing Company﻿,Stout - Irish Dry
+lauter,Yanai Ben- Alon,"Fri, 10 Oct 2025 13:55:27 +0000",bottle,4.5,Pizza Earth Theory,Schmulz,Historical Beer - Lichtenhainer
+lauter,levlev444,"Fri, 10 Oct 2025 13:53:30 +0000",draft,1.5,אוקטוברפסט 2025,Srigim (שריגים),Festbier
+lauter,levlev444,"Fri, 10 Oct 2025 13:47:42 +0000",draft,3.5,Benediktiner Weissbier,Benediktiner Weissbräu,Wheat Beer - Hefeweizen
+lauter,Yanai Ben- Alon,"Fri, 10 Oct 2025 13:46:25 +0000",can,2.75,BIA,ULTIMA,Stout - Imperial / Double
+lauter,Adam Berelowitz,"Fri, 10 Oct 2025 13:44:58 +0000",can,4.0,BIA,ULTIMA,Stout - Imperial / Double
+lauter,levlev444,"Fri, 10 Oct 2025 13:43:19 +0000",draft,3.5,Fata Morgana Pale Ale,Negev Brewery (נגב),Pale Ale - Other
+lauter,Adam Berelowitz,"Fri, 10 Oct 2025 13:36:18 +0000",can,4.3,Cake Cartel,BrewDog,Stout - Pastry
+schnitt-brewing-company,Yanai Ben- Alon,"Fri, 10 Oct 2025 13:35:42 +0000",can,4.5,Cake Cartel,BrewDog,Stout - Pastry
+lauter,Adam Berelowitz,"Fri, 10 Oct 2025 13:27:55 +0000",bottle,4.2,Goldstar (גולדסטאר) Limited - Black Roast,Tempo Beer Industries Ltd (טמפו),Schwarzbier
+schnitt-brewing-company,Yanai Ben- Alon,"Fri, 10 Oct 2025 13:27:24 +0000",bottle,4.25,Goldstar (גולדסטאר) Limited - Black Roast,Tempo Beer Industries Ltd (טמפו),Schwarzbier
+lauter,Taïr Avni,"Fri, 10 Oct 2025 13:21:52 +0000",draft,2.25,אוקטוברפסט 2025,Srigim (שריגים),Festbier
+lauter,Vasa,"Fri, 10 Oct 2025 13:10:24 +0000",draft,4.0,Suktoberfest (סוכטוברפסט),Schnitt Brewing Company﻿,Festbier
+lauter,Nir Langer,"Fri, 10 Oct 2025 12:57:18 +0000",,,אוקטוברפסט 2025,Srigim (שריגים),Festbier
+lauter,einavushlan,"Fri, 10 Oct 2025 12:40:02 +0000",draft,3.25,NEIPA,Volfas Engelman,IPA - New England / Hazy
+b7-beer-house,Yotam Bar-natan,"Fri, 10 Oct 2025 12:24:43 +0000",draft,4.2,Strawberry Sundae,Vault City Brewing,Sour - Fruited
+lauter,Taïr Avni,"Fri, 10 Oct 2025 12:19:46 +0000",draft,3.5,Spaten Oktoberfest Ur-Märzen / Winter (2025),Spaten-Franziskaner-Löwenbräu-Gruppe,Märzen
+b7-beer-house,Oren Hazan,"Fri, 10 Oct 2025 12:16:51 +0000",draft,3.75,Fest Lager,Alexander (אלכסנדר),Festbier
+b7-beer-house,Oren Hazan,"Fri, 10 Oct 2025 12:16:09 +0000",draft,4.0,שלושה צעדים קדימה,New Pioneer Brewing Co - חלוץ חדש,Lager - IPL (India Pale Lager)
+lauter,einavushlan,"Fri, 10 Oct 2025 12:13:37 +0000",draft,3.5,Spaten Oktoberfestbier,Spaten-Franziskaner-Löwenbräu-Gruppe,Festbier
+lauter,einavushlan,"Fri, 10 Oct 2025 11:54:23 +0000",draft,3.75,Suktoberfest (סוכטוברפסט),Schnitt Brewing Company﻿,Festbier
+lauter,Taïr Avni,"Fri, 10 Oct 2025 11:37:40 +0000",draft,3.5,Suktoberfest (סוכטוברפסט),Schnitt Brewing Company﻿,Festbier
+b7-beer-house,Robert Giterman,"Fri, 10 Oct 2025 11:17:17 +0000",can,4.5,MC²,Equilibrium Brewery,IPA - Imperial / Double New England / Hazy
+lauter,YanivMeir1503,"Fri, 10 Oct 2025 10:54:32 +0000",draft,,Hazy Queen,HORIZONT Brewing,IPA - New England / Hazy
+schnitt-brewing-company,Juda Kaslassy,"Fri, 10 Oct 2025 10:37:24 +0000",draft,4.0,OrangeDana,Schnitt Brewing Company﻿,IPA - New England / Hazy
+lauter,YanivMeir1503,"Fri, 10 Oct 2025 10:31:05 +0000",draft,,Summer Vibes,Oak & Ash,Sour - Smoothie / Pastry
+schnitt-brewing-company,Alex Fux,"Fri, 10 Oct 2025 10:07:45 +0000",draft,,"Shut Up And Drink Me! (שת""פ)",Schnitt Brewing Company﻿,Historical Beer - Lichtenhainer
+b7-beer-house,Dima Shleifman,"Fri, 10 Oct 2025 10:07:28 +0000",draft,5.0,חוצה ישראל,New Pioneer Brewing Co - חלוץ חדש,Wheat Beer - Other
+schnitt-brewing-company,YanivMeir1503,"Fri, 10 Oct 2025 10:06:25 +0000",draft,,Suktoberfest (סוכטוברפסט),Schnitt Brewing Company﻿,Festbier
+schnitt-brewing-company,Alex Fux,"Fri, 10 Oct 2025 09:48:35 +0000",draft,4.0,Muuumbai,Schnitt Brewing Company﻿,Lager - IPL (India Pale Lager)
+b7-beer-house,Dima Shleifman,"Fri, 10 Oct 2025 09:44:44 +0000",draft,5.0,שלושה צעדים קדימה,New Pioneer Brewing Co - חלוץ חדש,Lager - IPL (India Pale Lager)
+schnitt-brewing-company,Alex Fux,"Fri, 10 Oct 2025 09:19:50 +0000",draft,4.0,Paleraiser,Schnitt Brewing Company﻿,Pale Ale - American
 b7-beer-house,Gilad Neeman,"Fri, 10 Oct 2025 05:12:18 +0000",draft,4.75,שלושה צעדים קדימה,New Pioneer Brewing Co - חלוץ חדש,Lager - IPL (India Pale Lager)
 schnitt-brewing-company,Eylon Hadar,"Thu, 09 Oct 2025 20:38:38 +0000",draft,4.0,Paleraiser,Schnitt Brewing Company﻿,Pale Ale - American
 schnitt-brewing-company,Eylon Hadar,"Thu, 09 Oct 2025 20:20:04 +0000",draft,3.5,IN THE  SMALL,Schnitt Brewing Company﻿,Table Beer
@@ -4178,8 +4269,8 @@ lauter,Sivan Nagola,"Fri, 25 Jul 2025 18:16:52 +0000",draft,4.5,Rosé De Gambrin
 lauter,Shmupi Koto,"Fri, 25 Jul 2025 18:16:45 +0000",draft,4.6,Sang Bleu 2024 - Draft Version,Brasserie Cantillon,Lambic - Fruit
 lauter,Yahly Guttman,"Fri, 25 Jul 2025 18:16:17 +0000",,5.0,Fou' Foune 2023 - Draft Version,Brasserie Cantillon,Lambic - Fruit
 lauter,Sivan Nagola,"Fri, 25 Jul 2025 18:15:54 +0000",draft,4.0,Kriek 2025 - Draft Version,Brasserie Cantillon,Lambic - Kriek
-lauter,Sivan Nagola,"Fri, 25 Jul 2025 18:15:23 +0000",draft,4.0,Cuvée Saint-Gilloise 2023 - Draft Version,Brasserie Cantillon,Lambic - Traditional
 lauter,Eli Smikin,"Fri, 25 Jul 2025 18:15:23 +0000",draft,4.8,Fou' Foune 2023 - Draft Version,Brasserie Cantillon,Lambic - Fruit
+lauter,Sivan Nagola,"Fri, 25 Jul 2025 18:15:23 +0000",draft,4.0,Cuvée Saint-Gilloise 2023 - Draft Version,Brasserie Cantillon,Lambic - Traditional
 lauter,Sivan Nagola,"Fri, 25 Jul 2025 18:14:47 +0000",draft,4.75,Gueuze 2024 - Draft Version,Brasserie Cantillon,Lambic - Gueuze
 lauter,Sivan Nagola,"Fri, 25 Jul 2025 18:14:07 +0000",draft,4.0,Grand Cru Bruocsella - Draft Version (2021-2022),Brasserie Cantillon,Lambic - Traditional
 lauter,Itai Snai,"Fri, 25 Jul 2025 18:10:14 +0000",,4.5,Fou' Foune 2023 - Draft Version,Brasserie Cantillon,Lambic - Fruit
