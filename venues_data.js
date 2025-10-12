@@ -1,8 +1,692 @@
 // 🍺 BEER STATS DATA - Generated automatically
-// Last updated: 2025-10-11 06:34:23
-// Total records: 6367
+// Last updated: 2025-10-12 06:34:28
+// Total records: 6443
 
 const BEER_DATA = [
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-10-11T20:06:00+00:00",
+    "serving": "Unknown",
+    "rating": 2.75,
+    "beer_name": "Porter&Sons: Marshmallow",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Porter - Other"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-10-11T19:55:54+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Deep Crust",
+    "brewery": "Omnipollo",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-10-11T19:55:23+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Deep Crust",
+    "brewery": "Omnipollo",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-10-11T19:44:48+00:00",
+    "serving": "can",
+    "rating": 4.5,
+    "beer_name": "Out of Order: Not For Kids",
+    "brewery": "RaR Brewing",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-10-11T19:44:44+00:00",
+    "serving": "draft",
+    "rating": 3.25,
+    "beer_name": "Same Schnitt, Different Hop: Amarillo",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pale Ale - Other"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-10-11T19:43:20+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Out of Order: Not For Kids",
+    "brewery": "RaR Brewing",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-11T19:42:17+00:00",
+    "serving": "draft",
+    "rating": 3.0,
+    "beer_name": "Budweiser Budvar B:DARK / Czechvar B:DARK",
+    "brewery": "Budějovický Budvar",
+    "beer_type": "Lager - Tmavé (Czech Dark)"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-11T19:41:17+00:00",
+    "serving": "can",
+    "rating": 3.0,
+    "beer_name": "Dead Guy Ale",
+    "brewery": "Rogue Ales",
+    "beer_type": "Bock - Hell / Maibock / Lentebock"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-10-11T19:32:57+00:00",
+    "serving": "can",
+    "rating": 4.2,
+    "beer_name": "TIC TAC TOE Dragonfruit & Raspberry",
+    "brewery": "ODU Brewery",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-10-11T19:31:48+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "TIC TAC TOE Dragonfruit & Raspberry",
+    "brewery": "ODU Brewery",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-10-11T19:24:26+00:00",
+    "serving": "Unknown",
+    "rating": 3.0,
+    "beer_name": "Lazy N'Hazy",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-10-11T19:21:54+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Hydra | Hostility",
+    "brewery": "Mortalis Brewing Company",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-10-11T19:21:22+00:00",
+    "serving": "can",
+    "rating": 5.0,
+    "beer_name": "Hydra | Hostility",
+    "brewery": "Mortalis Brewing Company",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-10-11T19:10:25+00:00",
+    "serving": "can",
+    "rating": 4.2,
+    "beer_name": "Unknown Pie Effects",
+    "brewery": "Ability Brewing Project",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-10-11T19:09:36+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "Unknown Pie Effects",
+    "brewery": "Ability Brewing Project",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-11T19:04:18+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Selfish Games - One Night In Dubai",
+    "brewery": "HORIZONT Brewing",
+    "beer_type": "Stout - Imperial / Double"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-10-11T19:02:47+00:00",
+    "serving": "can",
+    "rating": 5.0,
+    "beer_name": "Out of Order: Tap, Tap, Taparoo",
+    "brewery": "RaR Brewing",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-10-11T19:02:38+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Out of Order: Tap, Tap, Taparoo",
+    "brewery": "RaR Brewing",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-10-11T19:00:32+00:00",
+    "serving": "can",
+    "rating": 4.7,
+    "beer_name": "SLUSHY XL: OOOMGS",
+    "brewery": "450 North Brewing Company",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-11T18:59:48+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Selfish Games - One Night In Dubai",
+    "brewery": "HORIZONT Brewing",
+    "beer_type": "Stout - Imperial / Double"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-11T18:59:20+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "Selfish Games - One Night In Dubai",
+    "brewery": "HORIZONT Brewing",
+    "beer_type": "Stout - Imperial / Double"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-10-11T18:58:43+00:00",
+    "serving": "can",
+    "rating": 4.5,
+    "beer_name": "SLUSHY XL: OOOMGS",
+    "brewery": "450 North Brewing Company",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-10-11T18:55:06+00:00",
+    "serving": "can",
+    "rating": 3.9,
+    "beer_name": "Chinuri",
+    "brewery": "Megobrebi Brewery",
+    "beer_type": "Grape Ale - Other"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-10-11T18:53:17+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Chinuri",
+    "brewery": "Megobrebi Brewery",
+    "beer_type": "Grape Ale - Other"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-10-11T18:47:00+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Tsitsmati",
+    "brewery": "Megobrebi Brewery",
+    "beer_type": "Mead - Melomel"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-10-11T18:46:04+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Tsitsmati",
+    "brewery": "Megobrebi Brewery",
+    "beer_type": "Mead - Melomel"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-10-11T18:43:04+00:00",
+    "serving": "can",
+    "rating": 3.7,
+    "beer_name": "Congratulations, You Played Yourself",
+    "brewery": "Sureshot Brewing",
+    "beer_type": "IPA - Imperial / Double"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-10-11T18:42:29+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Congratulations, You Played Yourself",
+    "brewery": "Sureshot Brewing",
+    "beer_type": "IPA - Imperial / Double"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-10-11T18:35:45+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Slang Du Jour - Lemon Meringue Pie",
+    "brewery": "Drekker Brewing Company",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-10-11T18:34:44+00:00",
+    "serving": "can",
+    "rating": 4.3,
+    "beer_name": "Slang Du Jour - Lemon Meringue Pie",
+    "brewery": "Drekker Brewing Company",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-10-11T18:32:26+00:00",
+    "serving": "can",
+    "rating": 4.5,
+    "beer_name": "MIMI",
+    "brewery": "Red Button Brewery",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-10-11T18:31:26+00:00",
+    "serving": "can",
+    "rating": 4.6,
+    "beer_name": "MIMI",
+    "brewery": "Red Button Brewery",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-10-11T18:24:32+00:00",
+    "serving": "draft",
+    "rating": 4.2,
+    "beer_name": "Strawberry Sundae",
+    "brewery": "Vault City Brewing",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-11T18:12:57+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Summer Vibes",
+    "brewery": "Oak & Ash",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-11T18:09:10+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Summer Vibes",
+    "brewery": "Oak & Ash",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "beerline",
+    "time": "2025-10-11T17:50:34+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Pleroma Karpologi Pineapple Peach Marshmallow Créme Brulée Sour",
+    "brewery": "Omnipollo",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "beerline",
+    "time": "2025-10-11T17:47:10+00:00",
+    "serving": "draft",
+    "rating": 4.5,
+    "beer_name": "Black Currant x Cherry x Blueberry x Coconut x Almond Smoothie Sour Ale",
+    "brewery": "Ārpus Brewing Co.",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-10-11T17:44:52+00:00",
+    "serving": "Unknown",
+    "rating": 3.0,
+    "beer_name": "Twist & Stout",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Stout - Irish Dry"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-10-11T17:41:48+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "Lazy N'Hazy",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-10-11T17:39:35+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "Wit Win (situation)",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Wheat Beer - Witbier / Blanche"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-10-11T17:36:48+00:00",
+    "serving": "Unknown",
+    "rating": 3.0,
+    "beer_name": "Paleraiser",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pale Ale - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-11T17:09:25+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Suktoberfest (סוכטוברפסט)",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Festbier"
+  },
+  {
+    "venue": "beerline",
+    "time": "2025-10-11T16:42:03+00:00",
+    "serving": "Unknown",
+    "rating": 5.0,
+    "beer_name": "Black Currant x Cherry x Blueberry x Coconut x Almond Smoothie Sour Ale",
+    "brewery": "Ārpus Brewing Co.",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "beerline",
+    "time": "2025-10-11T16:35:37+00:00",
+    "serving": "bottle",
+    "rating": 5.0,
+    "beer_name": "Black Currant x Cherry x Blueberry x Coconut x Almond Smoothie Sour Ale",
+    "brewery": "Ārpus Brewing Co.",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "beerline",
+    "time": "2025-10-11T16:30:43+00:00",
+    "serving": "draft",
+    "rating": 5.0,
+    "beer_name": "Black Currant x Cherry x Blueberry x Coconut x Almond Smoothie Sour Ale",
+    "brewery": "Ārpus Brewing Co.",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-11T15:20:46+00:00",
+    "serving": "draft",
+    "rating": 1.5,
+    "beer_name": "Summer Vibes",
+    "brewery": "Oak & Ash",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-11T14:38:05+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Mandatory Afterglow",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Lager - IPL (India Pale Lager)"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-11T14:35:50+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "In the Little",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - Session"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-10-11T14:17:09+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "Lazy N'Hazy",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-11T13:58:50+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "אוקטוברפסט 2025",
+    "brewery": "Srigim (שריגים)",
+    "beer_type": "Festbier"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-10-11T13:54:20+00:00",
+    "serving": "Unknown",
+    "rating": 3.7,
+    "beer_name": "Anything Gose: Mango",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Sour - Fruited Gose"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-11T13:47:37+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "קץ הדעת",
+    "brewery": "נעמה סורקין",
+    "beer_type": "Cider - Dry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-11T13:31:45+00:00",
+    "serving": "can",
+    "rating": 4.2,
+    "beer_name": "This Murder Takes Two",
+    "brewery": "Metalhead",
+    "beer_type": "Stout - Imperial / Double"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-10-11T13:16:20+00:00",
+    "serving": "draft",
+    "rating": null,
+    "beer_name": "Fata Morgana Pale Ale",
+    "brewery": "Negev Brewery (נגב)",
+    "beer_type": "Pale Ale - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-11T13:06:24+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Summer Vibes",
+    "brewery": "Oak & Ash",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-11T12:54:41+00:00",
+    "serving": "bottle",
+    "rating": 3.25,
+    "beer_name": "אוקטוברפסט 2025",
+    "brewery": "Srigim (שריגים)",
+    "beer_type": "Festbier"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-11T12:43:18+00:00",
+    "serving": "Unknown",
+    "rating": 3.9,
+    "beer_name": "Hazy Queen",
+    "brewery": "HORIZONT Brewing",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-11T12:29:46+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "This Murder Takes Two",
+    "brewery": "Metalhead",
+    "beer_type": "Stout - Imperial / Double"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-10-11T12:29:01+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Lazy N'Hazy",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-11T12:23:35+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "6 To 66",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pale Ale - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-11T12:15:53+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Porter&Sons: Marshmallow",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Porter - Other"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-10-11T12:15:20+00:00",
+    "serving": "draft",
+    "rating": 3.7,
+    "beer_name": "Twist & Stout",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Stout - Irish Dry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-11T12:14:31+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Mandatory Afterglow",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Lager - IPL (India Pale Lager)"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-10-11T11:37:25+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Muuumbai",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Lager - IPL (India Pale Lager)"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-10-11T11:35:07+00:00",
+    "serving": "draft",
+    "rating": 3.7,
+    "beer_name": "Suktoberfest (סוכטוברפסט)",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Festbier"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-10-11T11:33:42+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Lazy N'Hazy",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-10-11T11:33:14+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Mandatory Afterglow",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Lager - IPL (India Pale Lager)"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-10-11T11:32:33+00:00",
+    "serving": "draft",
+    "rating": 3.8,
+    "beer_name": "Lazy N'Hazy",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-10-11T11:29:25+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Alt Neuland",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Altbier - Traditional"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-11T11:17:47+00:00",
+    "serving": "draft",
+    "rating": 3.25,
+    "beer_name": "Spaten München / Münchner Hell / Premium Lager",
+    "brewery": "Spaten-Franziskaner-Löwenbräu-Gruppe",
+    "beer_type": "Lager - Helles"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-11T10:39:14+00:00",
+    "serving": "draft",
+    "rating": 3.6,
+    "beer_name": "אוקטוברפסט 2025",
+    "brewery": "Srigim (שריגים)",
+    "beer_type": "Festbier"
+  },
+  {
+    "venue": "porter-and-sons",
+    "time": "2025-10-11T10:28:07+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "In the Little",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - Session"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-10-11T10:12:16+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Suktoberfest (סוכטוברפסט)",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Festbier"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-10-11T10:08:50+00:00",
+    "serving": "draft",
+    "rating": 3.25,
+    "beer_name": "Suktoberfest (סוכטוברפסט)",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Festbier"
+  },
+  {
+    "venue": "porter-and-sons",
+    "time": "2025-10-11T09:55:32+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "What Was Was",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-11T09:32:21+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "אוקטוברפסט 2025",
+    "brewery": "Srigim (שריגים)",
+    "beer_type": "Festbier"
+  },
   {
     "venue": "lauter",
     "time": "2025-10-11T05:41:52+00:00",
@@ -23127,20 +23811,20 @@ const BEER_DATA = [
   {
     "venue": "b7-beer-house",
     "time": "2025-08-21T15:59:11+00:00",
-    "serving": "Unknown",
-    "rating": 4.0,
-    "beer_name": "Naughty & Nice - White Chocolate & Raspberry",
-    "brewery": "Vocation Brewery",
-    "beer_type": "Stout - White / Golden"
-  },
-  {
-    "venue": "b7-beer-house",
-    "time": "2025-08-21T15:59:11+00:00",
     "serving": "can",
     "rating": 3.8,
     "beer_name": "Peach Rings",
     "brewery": "Vault City Brewing",
     "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-21T15:59:11+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Naughty & Nice - White Chocolate & Raspberry",
+    "brewery": "Vocation Brewery",
+    "beer_type": "Stout - White / Golden"
   },
   {
     "venue": "b7-beer-house",
