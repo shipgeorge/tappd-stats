@@ -1,4 +1,26 @@
 venue,user,time,serving,data_rating,beer_name,brewery,beer_type
+lauter,Tomer Klin Oron,"Mon, 13 Oct 2025 22:05:35 +0000",bottle,5.0,Helles Schlenkerla Lagerbier,"Schlenkerla (""Heller-Bräu"" Trum)",Lager - Helles
+lauter,Tomer Klin Oron,"Mon, 13 Oct 2025 22:04:17 +0000",bottle,4.5,Aecht Schlenkerla Eiche – Doppelbock,"Schlenkerla (""Heller-Bräu"" Trum)",Rauchbier
+porter-and-sons,Shmupi Koto,"Mon, 13 Oct 2025 20:52:19 +0000",draft,4.7,Quetsche Tilquin – Draft Version,Gueuzerie Tilquin,Lambic - Fruit
+lauter,גל סילברמן,"Mon, 13 Oct 2025 20:43:29 +0000",bottle,5.0,Aecht Schlenkerla Eiche – Doppelbock,"Schlenkerla (""Heller-Bräu"" Trum)",Rauchbier
+lauter,גל סילברמן,"Mon, 13 Oct 2025 20:41:59 +0000",can,3.7,Bison,Thornbridge Brewery,IPA - American
+lauter,Shmupi Koto,"Mon, 13 Oct 2025 19:54:23 +0000",bottle,4.0,Jaipur,Thornbridge Brewery,IPA - American
+porter-and-sons,Omri Gill,"Mon, 13 Oct 2025 18:36:55 +0000",draft,4.0,Tucher Pils,Tucher Bräu,Pilsner - German
+schnitt-brewing-company,Omri Gill,"Mon, 13 Oct 2025 17:50:58 +0000",draft,4.25,עכשיו מעונן,Schnitt Brewing Company﻿,IPA - New England / Hazy
+schnitt-brewing-company,Omri Gill,"Mon, 13 Oct 2025 17:13:12 +0000",draft,3.75,Suktoberfest (סוכטוברפסט),Schnitt Brewing Company﻿,Festbier
+beerline,Alon Orlov,"Mon, 13 Oct 2025 16:08:20 +0000",draft,5.0,Edelweiss Snowfresh / Wheat Beer,Brau Union Österreich,Wheat Beer - Hefeweizen
+beerline,Alon Orlov,"Mon, 13 Oct 2025 15:26:18 +0000",draft,3.5,Black Currant x Cherry x Blueberry x Coconut x Almond Smoothie Sour Ale,Ārpus Brewing Co.,Sour - Smoothie / Pastry
+beerline,Alon Orlov,"Mon, 13 Oct 2025 15:24:37 +0000",draft,4.0,Edelweiss Snowfresh / Wheat Beer,Brau Union Österreich,Wheat Beer - Hefeweizen
+lauter,Yaniv Alal,"Mon, 13 Oct 2025 14:17:58 +0000",draft,3.5,Summer Vibes,Oak & Ash,Sour - Smoothie / Pastry
+lauter,Yaniv Alal,"Mon, 13 Oct 2025 14:00:47 +0000",draft,3.25,אוקטוברפסט 2025,Srigim (שריגים),Festbier
+b7-beer-house,Orsade256,"Mon, 13 Oct 2025 13:01:50 +0000",bottle,3.75,Bzart Druivenlambiek Millésime 2023,Oud Beersel,Lambic - Fruit
+b7-beer-house,Orsade256,"Mon, 13 Oct 2025 13:00:31 +0000",draft,4.0,שלושה צעדים קדימה,New Pioneer Brewing Co - חלוץ חדש,Lager - IPL (India Pale Lager)
+b7-beer-house,Yotam Bar-natan,"Mon, 13 Oct 2025 10:52:17 +0000",bottle,4.4,Oude Kriek (Vieille) (2021),Oud Beersel,Lambic - Kriek
+b7-beer-house,Yotam Bar-natan,"Mon, 13 Oct 2025 10:00:51 +0000",bottle,4.4,Bzart Druivenlambiek Millésime 2023,Oud Beersel,Lambic - Fruit
+b7-beer-house,Yotam Bar-natan,"Mon, 13 Oct 2025 09:57:13 +0000",draft,4.2,Strawberry Sundae,Vault City Brewing,Sour - Fruited
+schnitt-brewing-company,Assaf Levanon,"Mon, 13 Oct 2025 09:17:54 +0000",,,Anything Gose: Mango,Schnitt Brewing Company﻿,Sour - Fruited Gose
+schnitt-brewing-company,Assaf Levanon,"Mon, 13 Oct 2025 09:17:24 +0000",,,Twist & Stout,Schnitt Brewing Company﻿,Stout - Irish Dry
+schnitt-brewing-company,Assaf Levanon,"Mon, 13 Oct 2025 09:16:58 +0000",draft,,Lazy N'Hazy,Schnitt Brewing Company﻿,IPA - New England / Hazy
 schnitt-brewing-company,Bar Gamliel,"Sun, 12 Oct 2025 21:13:24 +0000",draft,3.75,Triple Hope,Schnitt Brewing Company﻿,IPA - New England / Hazy
 schnitt-brewing-company,Bar Gamliel,"Sun, 12 Oct 2025 21:08:52 +0000",draft,3.5,In the Little,Schnitt Brewing Company﻿,IPA - Session
 schnitt-brewing-company,Bar Gamliel,"Sun, 12 Oct 2025 21:07:27 +0000",draft,3.75,Twist & Stout,Schnitt Brewing Company﻿,Stout - Irish Dry
@@ -2706,8 +2728,8 @@ b7-beer-house,גל סילברמן,"Thu, 21 Aug 2025 16:00:18 +0000",can,3.8,Naug
 b7-beer-house,Guy Azene,"Thu, 21 Aug 2025 16:00:01 +0000",can,3.8,Naughty & Nice - White Chocolate & Raspberry,Vocation Brewery,Stout - White / Golden
 b7-beer-house,Liad Shaked,"Thu, 21 Aug 2025 15:59:41 +0000",can,3.9,Naughty & Nice - White Chocolate & Raspberry,Vocation Brewery,Stout - White / Golden
 b7-beer-house,Yotam Bar-natan,"Thu, 21 Aug 2025 15:59:21 +0000",can,4.3,Birthday Cake,Vocation Brewery,Stout - Milk / Sweet
-b7-beer-house,Eli Smikin,"Thu, 21 Aug 2025 15:59:11 +0000",can,3.8,Peach Rings,Vault City Brewing,Sour - Fruited
 b7-beer-house,Elior Mizrahi,"Thu, 21 Aug 2025 15:59:11 +0000",,4.0,Naughty & Nice - White Chocolate & Raspberry,Vocation Brewery,Stout - White / Golden
+b7-beer-house,Eli Smikin,"Thu, 21 Aug 2025 15:59:11 +0000",can,3.8,Peach Rings,Vault City Brewing,Sour - Fruited
 b7-beer-house,Yotam Bar-natan,"Thu, 21 Aug 2025 15:58:45 +0000",can,3.8,Naughty & Nice - White Chocolate & Raspberry,Vocation Brewery,Stout - White / Golden
 b7-beer-house,Tom Lahav,"Thu, 21 Aug 2025 15:58:44 +0000",can,3.25,Naughty & Nice - White Chocolate & Raspberry,Vocation Brewery,Stout - White / Golden
 b7-beer-house,Yotam Bar-natan,"Thu, 21 Aug 2025 15:58:21 +0000",can,3.7,Incognito,Vocation Brewery,IPA - Imperial / Double
@@ -3472,8 +3494,8 @@ lauter,Yaron Sh,"Tue, 05 Aug 2025 19:29:11 +0000",,4.0,SLUSHY XL: Haha!,450 Nort
 lauter,Kobi,"Tue, 05 Aug 2025 19:29:05 +0000",,4.3,Hydralisk,Spanish Marie Brewery,Sour - Smoothie / Pastry
 lauter,Yosef Dahan,"Tue, 05 Aug 2025 19:28:30 +0000",can,3.75,SLUSHY XL: Haha!,450 North Brewing Company,Sour - Smoothie / Pastry
 lauter,Shaul A,"Tue, 05 Aug 2025 19:26:45 +0000",,4.25,SLUSHY XL: Haha!,450 North Brewing Company,Sour - Smoothie / Pastry
-lauter,Mikhail Stolov,"Tue, 05 Aug 2025 19:24:07 +0000",can,4.5,SLUSHY XL: Haha!,450 North Brewing Company,Sour - Smoothie / Pastry
 lauter,Oren Sleepwalker,"Tue, 05 Aug 2025 19:24:07 +0000",,,SLUSHY XL: Haha!,450 North Brewing Company,Sour - Smoothie / Pastry
+lauter,Mikhail Stolov,"Tue, 05 Aug 2025 19:24:07 +0000",can,4.5,SLUSHY XL: Haha!,450 North Brewing Company,Sour - Smoothie / Pastry
 lauter,Kobi,"Tue, 05 Aug 2025 19:21:59 +0000",,4.3,SLUSHY XL: Haha!,450 North Brewing Company,Sour - Smoothie / Pastry
 lauter,Shaul A,"Tue, 05 Aug 2025 19:16:22 +0000",,4.25,Monstrous Oils,Cellarmaker Brewing Company,IPA - Quadruple
 lauter,Yaron Sh,"Tue, 05 Aug 2025 19:15:56 +0000",,4.25,Monstrous Oils,Cellarmaker Brewing Company,IPA - Quadruple
@@ -3505,8 +3527,8 @@ lauter,Mikhail Stolov,"Tue, 05 Aug 2025 18:52:25 +0000",,3.25,OUOUOU,4BREWERS,So
 lauter,Oren Sleepwalker,"Tue, 05 Aug 2025 18:50:13 +0000",,,Whakahoa,Factory Brewing,IPA - Triple New England / Hazy
 schnitt-brewing-company,Arkady Gerasimuk,"Tue, 05 Aug 2025 18:49:49 +0000",draft,3.5,Twist & Stout,Schnitt Brewing Company﻿,Stout - Irish Dry
 schnitt-brewing-company,Yaniv Gorodetsky,"Tue, 05 Aug 2025 18:49:42 +0000",draft,3.0,Twist & Stout,Schnitt Brewing Company﻿,Stout - Irish Dry
-lauter,Yaron Sh,"Tue, 05 Aug 2025 18:49:38 +0000",,4.5,Whakahoa,Factory Brewing,IPA - Triple New England / Hazy
 lauter,Yosef Dahan,"Tue, 05 Aug 2025 18:49:38 +0000",can,4.0,Whakahoa,Factory Brewing,IPA - Triple New England / Hazy
+lauter,Yaron Sh,"Tue, 05 Aug 2025 18:49:38 +0000",,4.5,Whakahoa,Factory Brewing,IPA - Triple New England / Hazy
 lauter,Yaniv Alal,"Tue, 05 Aug 2025 18:49:26 +0000",draft,4.25,Whakahoa,Factory Brewing,IPA - Triple New England / Hazy
 lauter,Shaul A,"Tue, 05 Aug 2025 18:49:14 +0000",,4.5,Whakahoa,Factory Brewing,IPA - Triple New England / Hazy
 lauter,Yaron Sh,"Tue, 05 Aug 2025 18:48:30 +0000",,4.0,Magical Path,Shred Beer Company,IPA - New England / Hazy
@@ -6407,8 +6429,8 @@ ursa,Dan G,"Mon, 05 Jun 2023 17:37:24 +0000",can,3.75,Trickster,Siren Craft Brew
 ursa,Jacob Collier,"Mon, 05 Jun 2023 15:40:20 +0000",draft,3.75,Hard Apple Cider - Dry (סיידר תפוחים אלכוהולי יבש),Hamatsesa (המתססה),Cider - Dry
 ursa,Omri Wolf,"Sat, 03 Jun 2023 19:40:48 +0000",can,4.5,Crescendo,Siren Craft Brew,Stout - Imperial / Double
 ursa,Omri Wolf,"Sat, 03 Jun 2023 19:26:34 +0000",draft,3.75,Soundwave IPA,Siren Craft Brew,IPA - American
-ursa,Ofir Israeli,"Sat, 03 Jun 2023 18:56:41 +0000",,3.5,Hard Apple Cider - Dry (סיידר תפוחים אלכוהולי יבש),Hamatsesa (המתססה),Cider - Dry
 ursa,Omri Wolf,"Sat, 03 Jun 2023 18:56:41 +0000",,3.5,Hard Apple Cider - Dry (סיידר תפוחים אלכוהולי יבש),Hamatsesa (המתססה),Cider - Dry
+ursa,Ofir Israeli,"Sat, 03 Jun 2023 18:56:41 +0000",,3.5,Hard Apple Cider - Dry (סיידר תפוחים אלכוהולי יבש),Hamatsesa (המתססה),Cider - Dry
 ursa,Nir Langer,"Fri, 02 Jun 2023 21:30:00 +0000",can,3.5,Passion Flick,HORIZONT Brewing,Pale Ale - Milkshake
 ursa,Alex Tsvetkov,"Wed, 31 May 2023 19:27:31 +0000",,4.25,Crescendo,Siren Craft Brew,Stout - Imperial / Double
 ursa,Alex Tsvetkov,"Wed, 31 May 2023 19:07:06 +0000",,3.5,Trickster,Siren Craft Brew,IPA - English
