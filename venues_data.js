@@ -1,8 +1,260 @@
 // 🍺 BEER STATS DATA - Generated automatically
-// Last updated: 2025-10-19 06:36:21
-// Total records: 6647
+// Last updated: 2025-10-20 06:39:23
+// Total records: 6675
 
 const BEER_DATA = [
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-10-19T19:48:53+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Golden Goose Eggs",
+    "brewery": "Vault City Brewing",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-19T19:40:35+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Shut Up And Drink Me! (שת\"פ)",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Historical Beer - Lichtenhainer"
+  },
+  {
+    "venue": "porter-and-sons",
+    "time": "2025-10-19T19:33:53+00:00",
+    "serving": "draft",
+    "rating": 4.7,
+    "beer_name": "Quetsche Tilquin – Draft Version",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-19T19:32:51+00:00",
+    "serving": "bottle",
+    "rating": 4.0,
+    "beer_name": "Aecht Schlenkerla Rauchbier – Märzen",
+    "brewery": "Schlenkerla (\"Heller-Bräu\" Trum)",
+    "beer_type": "Rauchbier"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-19T19:27:16+00:00",
+    "serving": "bottle",
+    "rating": 4.0,
+    "beer_name": "Bjorn's Beer",
+    "brewery": "Attali's Family Brewery",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-19T19:17:21+00:00",
+    "serving": "bottle",
+    "rating": 3.25,
+    "beer_name": "Bjorn's Beer",
+    "brewery": "Attali's Family Brewery",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-10-19T19:17:21+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "Plum Waffle",
+    "brewery": "Duncan's Brewing",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-19T18:51:53+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Shut Up And Drink Me! (שת\"פ)",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Historical Beer - Lichtenhainer"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-10-19T18:34:54+00:00",
+    "serving": "can",
+    "rating": 4.5,
+    "beer_name": "Jetphilia",
+    "brewery": "Totopia Brewery",
+    "beer_type": "Stout - Imperial / Double"
+  },
+  {
+    "venue": "beerline",
+    "time": "2025-10-19T18:23:28+00:00",
+    "serving": "Unknown",
+    "rating": 3.0,
+    "beer_name": "Benediktiner Weissbier",
+    "brewery": "Benediktiner Weissbräu",
+    "beer_type": "Wheat Beer - Hefeweizen"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-10-19T18:14:38+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "IN THE  SMALL",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Table Beer"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-10-19T17:49:20+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "OrangeDana",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-10-19T17:47:07+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "Bianca Expedition Blueberry Blackberry Kiwi Lassi Gose",
+    "brewery": "Omnipollo",
+    "beer_type": "Sour - Fruited Gose"
+  },
+  {
+    "venue": "porter-and-sons",
+    "time": "2025-10-19T17:23:59+00:00",
+    "serving": "bottle",
+    "rating": 4.5,
+    "beer_name": "Gueuze 100% Lambic Bio (2024)",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": "Lambic - Gueuze"
+  },
+  {
+    "venue": "porter-and-sons",
+    "time": "2025-10-19T17:20:43+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Budweiser Budvar B:DARK / Czechvar B:DARK",
+    "brewery": "Budějovický Budvar",
+    "beer_type": "Lager - Tmavé (Czech Dark)"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-10-19T17:15:53+00:00",
+    "serving": "draft",
+    "rating": 3.0,
+    "beer_name": "Twist & Stout",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Stout - Irish Dry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-19T17:06:08+00:00",
+    "serving": "can",
+    "rating": 2.7,
+    "beer_name": "Stiegl Radler Raspberry Himbeere",
+    "brewery": "Stieglbrauerei zu Salzburg",
+    "beer_type": "Shandy / Radler"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-19T17:04:24+00:00",
+    "serving": "can",
+    "rating": 3.2,
+    "beer_name": "Stiegl Radler Raspberry Himbeere",
+    "brewery": "Stieglbrauerei zu Salzburg",
+    "beer_type": "Shandy / Radler"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-10-19T16:53:49+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Muuumbai",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Lager - IPL (India Pale Lager)"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-10-19T14:55:15+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Weissman",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Wheat Beer - Hefeweizen"
+  },
+  {
+    "venue": "beerline",
+    "time": "2025-10-19T14:15:51+00:00",
+    "serving": "draft",
+    "rating": 2.75,
+    "beer_name": "Pleroma Karpologi Pineapple Peach Marshmallow Créme Brulée Sour",
+    "brewery": "Omnipollo",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-10-19T14:03:12+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Chucky",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pale Ale - American"
+  },
+  {
+    "venue": "beerline",
+    "time": "2025-10-19T13:55:54+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Fruitheart Smoothie Sour Ale",
+    "brewery": "Ārpus Brewing Co.",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-10-19T13:01:47+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "IN THE  SMALL",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Table Beer"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-10-19T12:54:45+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "Same Schnitt, Different Hop: Amarillo",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pale Ale - Other"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-10-19T12:01:26+00:00",
+    "serving": "Unknown",
+    "rating": 3.25,
+    "beer_name": "Mandatory Afterglow",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Lager - IPL (India Pale Lager)"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-10-19T11:51:09+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "Lazy N'Hazy",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-10-19T11:40:57+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "Paleraiser",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pale Ale - American"
+  },
   {
     "venue": "schnitt-brewing-company",
     "time": "2025-10-19T04:24:42+00:00",
@@ -39912,20 +40164,20 @@ const BEER_DATA = [
   {
     "venue": "lauter",
     "time": "2025-07-26T15:22:08+00:00",
-    "serving": "Unknown",
-    "rating": 4.0,
-    "beer_name": "Pijże",
-    "brewery": "Nepo Brewing",
-    "beer_type": "Pale Ale - New England / Hazy"
-  },
-  {
-    "venue": "lauter",
-    "time": "2025-07-26T15:22:08+00:00",
     "serving": "can",
     "rating": 4.2,
     "beer_name": "Smoothie Bowl: Pistachio Fluff",
     "brewery": "Nepo Brewing",
     "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-07-26T15:22:08+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Pijże",
+    "brewery": "Nepo Brewing",
+    "beer_type": "Pale Ale - New England / Hazy"
   },
   {
     "venue": "lauter",
