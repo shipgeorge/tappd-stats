@@ -1,4 +1,22 @@
 venue,user,time,serving,data_rating,beer_name,brewery,beer_type
+schnitt-brewing-company,Itay shalom Kaplan,"Wed, 22 Oct 2025 21:20:16 +0000",draft,3.5,Chucky,Schnitt Brewing Company﻿,Pale Ale - American
+schnitt-brewing-company,Rom Tagar,"Wed, 22 Oct 2025 19:43:23 +0000",draft,4.5,עכשיו מעונן,Schnitt Brewing Company﻿,IPA - New England / Hazy
+schnitt-brewing-company,Itay shalom Kaplan,"Wed, 22 Oct 2025 19:41:24 +0000",draft,3.25,Sim Sima,Schnitt Brewing Company﻿,IPA - Imperial / Double
+schnitt-brewing-company,S C,"Wed, 22 Oct 2025 18:29:46 +0000",draft,3.5,Fruity Mish Mash,Schnitt Brewing Company﻿,IPA - New England / Hazy
+schnitt-brewing-company,S C,"Wed, 22 Oct 2025 18:27:00 +0000",draft,4.0,עכשיו מעונן,Schnitt Brewing Company﻿,IPA - New England / Hazy
+b7-beer-house,Yotam Bar-natan,"Wed, 22 Oct 2025 18:15:43 +0000",draft,4.2,תוצרת הארץ,New Pioneer Brewing Co - חלוץ חדש,Pale Ale - American
+schnitt-brewing-company,Andrey Granovsky,"Wed, 22 Oct 2025 17:57:25 +0000",draft,3.75,Sim Sima,Schnitt Brewing Company﻿,IPA - Imperial / Double
+beerz,Eylon,"Wed, 22 Oct 2025 17:30:37 +0000",draft,3.75,Hobgoblin IPA,Marston's Brewery,IPA - English
+lauter,Shon Kupstaitis,"Wed, 22 Oct 2025 16:50:02 +0000",draft,3.75,Bjorn's Beer,Attali's Family Brewery,IPA - American
+lauter,Shon Kupstaitis,"Wed, 22 Oct 2025 16:48:16 +0000",draft,3.5,Malabiscus sour,Schnitt Brewing Company﻿,Sour - Other
+lauter,Jonathan Gonen,"Wed, 22 Oct 2025 16:42:09 +0000",bottle,5.0,Cotta 21,Mastri Birrai Umbri,Blonde / Golden Ale - Other
+lauter,Roman Lipkin,"Wed, 22 Oct 2025 16:40:10 +0000",bottle,4.5,Cotta 21,Mastri Birrai Umbri,Blonde / Golden Ale - Other
+lauter,Jonathan Gonen,"Wed, 22 Oct 2025 16:25:52 +0000",bottle,2.0,IPA - ricetta 13,Birrificio Antoniano,IPA - American
+lauter,Roman Lipkin,"Wed, 22 Oct 2025 16:25:44 +0000",bottle,3.75,IPA - ricetta 13,Birrificio Antoniano,IPA - American
+lauter,Jonathan Gonen,"Wed, 22 Oct 2025 16:11:22 +0000",bottle,3.25,Ma.Ma 60,Birra Flea,Pale Ale - Other
+lauter,Jonathan Gonen,"Wed, 22 Oct 2025 16:04:48 +0000",bottle,3.5,La Tarsina! Bionda,Birra Flea,Gluten-Free
+b7-beer-house,Yotam Bar-natan,"Wed, 22 Oct 2025 15:35:25 +0000",bottle,3.1,Carrefour Sensation Roja,LA SAGRA,Red Ale - Other
+lauter,Roman Lipkin,"Wed, 22 Oct 2025 15:21:55 +0000",bottle,4.0,Spaten Oktoberfestbier (2025),Spaten-Franziskaner-Löwenbräu-Gruppe,Festbier
 lauter,גל סילברמן,"Wed, 22 Oct 2025 05:01:50 +0000",draft,3.5,Benediktiner Hell,Benediktiner Weissbräu,Lager - Helles
 lauter,dafi20,"Tue, 21 Oct 2025 19:42:54 +0000",can,4.5,Lemon X Coconut X Pineapple X Cherry Smoothie Sour Ale,Ārpus Brewing Co.,Sour - Smoothie / Pastry
 schnitt-brewing-company,alonkr,"Tue, 21 Oct 2025 19:30:24 +0000",draft,4.25,Buster's Cranberry Lemonade,Oak & Ash,Malt Liquor
@@ -45,8 +63,8 @@ lauter,Omer Shahar,"Sun, 19 Oct 2025 19:40:35 +0000",draft,3.5,"Shut Up And Drin
 porter-and-sons,Shmupi Koto,"Sun, 19 Oct 2025 19:33:53 +0000",draft,4.7,Quetsche Tilquin – Draft Version,Gueuzerie Tilquin,Lambic - Fruit
 lauter,Shmupi Koto,"Sun, 19 Oct 2025 19:32:51 +0000",bottle,4.0,Aecht Schlenkerla Rauchbier – Märzen,"Schlenkerla (""Heller-Bräu"" Trum)",Rauchbier
 lauter,Tal,"Sun, 19 Oct 2025 19:27:16 +0000",bottle,4.0,Bjorn's Beer,Attali's Family Brewery,IPA - American
-schnitt-brewing-company,May Cohen,"Sun, 19 Oct 2025 19:17:21 +0000",can,4.25,Plum Waffle,Duncan's Brewing,Sour - Smoothie / Pastry
 lauter,adi_zadik_2741,"Sun, 19 Oct 2025 19:17:21 +0000",bottle,3.25,Bjorn's Beer,Attali's Family Brewery,IPA - American
+schnitt-brewing-company,May Cohen,"Sun, 19 Oct 2025 19:17:21 +0000",can,4.25,Plum Waffle,Duncan's Brewing,Sour - Smoothie / Pastry
 lauter,Tal,"Sun, 19 Oct 2025 18:51:53 +0000",draft,3.75,"Shut Up And Drink Me! (שת""פ)",Schnitt Brewing Company﻿,Historical Beer - Lichtenhainer
 schnitt-brewing-company,May Cohen,"Sun, 19 Oct 2025 18:34:54 +0000",can,4.5,Jetphilia,Totopia Brewery,Stout - Imperial / Double
 beerline,Slava Gladchenko,"Sun, 19 Oct 2025 18:23:28 +0000",,3.0,Benediktiner Weissbier,Benediktiner Weissbräu,Wheat Beer - Hefeweizen
@@ -2368,8 +2386,8 @@ lauter,Adam Berelowitz,"Mon, 01 Sep 2025 17:50:20 +0000",can,4.0,Confuzzled '202
 lauter,Oren Sleepwalker,"Mon, 01 Sep 2025 17:46:17 +0000",,,Hops Don’t Lie,Thurø Bryghus,IPA - New England / Hazy
 lauter,Mikhail Stolov,"Mon, 01 Sep 2025 17:45:42 +0000",bottle,2.5,Hops Don’t Lie,Thurø Bryghus,IPA - New England / Hazy
 lauter,Yosef Dahan,"Mon, 01 Sep 2025 17:45:00 +0000",bottle,3.5,Hops Don’t Lie,Thurø Bryghus,IPA - New England / Hazy
-lauter,Adam Berelowitz,"Mon, 01 Sep 2025 17:44:35 +0000",bottle,4.0,Hops Don’t Lie,Thurø Bryghus,IPA - New England / Hazy
 lauter,Yaron Sh,"Mon, 01 Sep 2025 17:44:35 +0000",,4.0,Hops Don’t Lie,Thurø Bryghus,IPA - New England / Hazy
+lauter,Adam Berelowitz,"Mon, 01 Sep 2025 17:44:35 +0000",bottle,4.0,Hops Don’t Lie,Thurø Bryghus,IPA - New England / Hazy
 lauter,Kobi,"Mon, 01 Sep 2025 17:44:03 +0000",,4.0,Hops Don’t Lie,Thurø Bryghus,IPA - New England / Hazy
 lauter,Yaron Sh,"Mon, 01 Sep 2025 17:42:20 +0000",,4.5,Super Trigo,Bierwerk Züri,IPA - White / Wheat
 lauter,Oren Sleepwalker,"Mon, 01 Sep 2025 17:40:34 +0000",,,Super Trigo,Bierwerk Züri,IPA - White / Wheat
@@ -2911,8 +2929,8 @@ b7-beer-house,Liad Shaked,"Thu, 21 Aug 2025 16:02:21 +0000",can,4.3,Salted Caram
 b7-beer-house,Ido Cohen,"Thu, 21 Aug 2025 16:02:06 +0000",can,3.9,Birthday Cake,Vocation Brewery,Stout - Milk / Sweet
 b7-beer-house,Eran Keller,"Thu, 21 Aug 2025 16:01:24 +0000",can,3.75,Naughty & Nice - White Chocolate & Raspberry,Vocation Brewery,Stout - White / Golden
 b7-beer-house,Ido Cohen,"Thu, 21 Aug 2025 16:00:48 +0000",can,3.7,Naughty & Nice - White Chocolate & Raspberry,Vocation Brewery,Stout - White / Golden
-lauter,Danny Ganelin,"Thu, 21 Aug 2025 16:00:28 +0000",draft,3.5,KRUSHED IT,Oak & Ash,IPA - New England / Hazy
 b7-beer-house,sourlips69,"Thu, 21 Aug 2025 16:00:28 +0000",can,5.0,Naughty & Nice - White Chocolate & Raspberry,Vocation Brewery,Stout - White / Golden
+lauter,Danny Ganelin,"Thu, 21 Aug 2025 16:00:28 +0000",draft,3.5,KRUSHED IT,Oak & Ash,IPA - New England / Hazy
 b7-beer-house,גל סילברמן,"Thu, 21 Aug 2025 16:00:18 +0000",can,3.8,Naughty & Nice - White Chocolate & Raspberry,Vocation Brewery,Stout - White / Golden
 b7-beer-house,Guy Azene,"Thu, 21 Aug 2025 16:00:01 +0000",can,3.8,Naughty & Nice - White Chocolate & Raspberry,Vocation Brewery,Stout - White / Golden
 b7-beer-house,Liad Shaked,"Thu, 21 Aug 2025 15:59:41 +0000",can,3.9,Naughty & Nice - White Chocolate & Raspberry,Vocation Brewery,Stout - White / Golden
@@ -4618,8 +4636,8 @@ lauter,Sivan Nagola,"Fri, 25 Jul 2025 18:16:52 +0000",draft,4.5,Rosé De Gambrin
 lauter,Shmupi Koto,"Fri, 25 Jul 2025 18:16:45 +0000",draft,4.6,Sang Bleu 2024 - Draft Version,Brasserie Cantillon,Lambic - Fruit
 lauter,Yahly Guttman,"Fri, 25 Jul 2025 18:16:17 +0000",,5.0,Fou' Foune 2023 - Draft Version,Brasserie Cantillon,Lambic - Fruit
 lauter,Sivan Nagola,"Fri, 25 Jul 2025 18:15:54 +0000",draft,4.0,Kriek 2025 - Draft Version,Brasserie Cantillon,Lambic - Kriek
-lauter,Sivan Nagola,"Fri, 25 Jul 2025 18:15:23 +0000",draft,4.0,Cuvée Saint-Gilloise 2023 - Draft Version,Brasserie Cantillon,Lambic - Traditional
 lauter,Eli Smikin,"Fri, 25 Jul 2025 18:15:23 +0000",draft,4.8,Fou' Foune 2023 - Draft Version,Brasserie Cantillon,Lambic - Fruit
+lauter,Sivan Nagola,"Fri, 25 Jul 2025 18:15:23 +0000",draft,4.0,Cuvée Saint-Gilloise 2023 - Draft Version,Brasserie Cantillon,Lambic - Traditional
 lauter,Sivan Nagola,"Fri, 25 Jul 2025 18:14:47 +0000",draft,4.75,Gueuze 2024 - Draft Version,Brasserie Cantillon,Lambic - Gueuze
 lauter,Sivan Nagola,"Fri, 25 Jul 2025 18:14:07 +0000",draft,4.0,Grand Cru Bruocsella - Draft Version (2021-2022),Brasserie Cantillon,Lambic - Traditional
 lauter,Itai Snai,"Fri, 25 Jul 2025 18:10:14 +0000",,4.5,Fou' Foune 2023 - Draft Version,Brasserie Cantillon,Lambic - Fruit
@@ -6379,8 +6397,8 @@ berlin-florentin,Yaron Sh,"Mon, 22 Jan 2024 18:49:44 +0000",can,4.0,"¡Buena Par
 berlin-florentin,Shmupi Koto,"Mon, 22 Jan 2024 18:49:41 +0000",can,3.8,"¡Buena Para El Papa! ¿Si, No?",Brewski,Stout - Imperial / Double Pastry
 berlin-florentin,Shmupi Koto,"Mon, 22 Jan 2024 18:49:04 +0000",can,4.0,200 Units,Brewski,Barleywine - English
 berlin-florentin,Tom Oppenheim,"Mon, 22 Jan 2024 18:48:49 +0000",can,3.5,"¡Buena Para El Papa! ¿Si, No?",Brewski,Stout - Imperial / Double Pastry
-berlin-florentin,Yaron Sh,"Mon, 22 Jan 2024 18:42:20 +0000",,,200 Units,Brewski,Barleywine - English
 berlin-florentin,ori shuster,"Mon, 22 Jan 2024 18:42:20 +0000",can,4.0,200 Units,Brewski,Barleywine - English
+berlin-florentin,Yaron Sh,"Mon, 22 Jan 2024 18:42:20 +0000",,,200 Units,Brewski,Barleywine - English
 berlin-florentin,Yaron Sh,"Mon, 22 Jan 2024 18:41:52 +0000",,,Strawberry Pie,Brewski,Sour - Smoothie / Pastry
 berlin-florentin,Itai Snai,"Mon, 22 Jan 2024 18:40:50 +0000",,3.5,200 Units,Brewski,Barleywine - English
 berlin-florentin,Mikhail Stolov,"Mon, 22 Jan 2024 18:38:56 +0000",,3.75,200 Units,Brewski,Barleywine - English
@@ -6618,8 +6636,8 @@ ursa,Dan G,"Mon, 05 Jun 2023 17:37:24 +0000",can,3.75,Trickster,Siren Craft Brew
 ursa,Jacob Collier,"Mon, 05 Jun 2023 15:40:20 +0000",draft,3.75,Hard Apple Cider - Dry (סיידר תפוחים אלכוהולי יבש),Hamatsesa (המתססה),Cider - Dry
 ursa,Omri Wolf,"Sat, 03 Jun 2023 19:40:48 +0000",can,4.5,Crescendo,Siren Craft Brew,Stout - Imperial / Double
 ursa,Omri Wolf,"Sat, 03 Jun 2023 19:26:34 +0000",draft,3.75,Soundwave IPA,Siren Craft Brew,IPA - American
-ursa,Ofir Israeli,"Sat, 03 Jun 2023 18:56:41 +0000",,3.5,Hard Apple Cider - Dry (סיידר תפוחים אלכוהולי יבש),Hamatsesa (המתססה),Cider - Dry
 ursa,Omri Wolf,"Sat, 03 Jun 2023 18:56:41 +0000",,3.5,Hard Apple Cider - Dry (סיידר תפוחים אלכוהולי יבש),Hamatsesa (המתססה),Cider - Dry
+ursa,Ofir Israeli,"Sat, 03 Jun 2023 18:56:41 +0000",,3.5,Hard Apple Cider - Dry (סיידר תפוחים אלכוהולי יבש),Hamatsesa (המתססה),Cider - Dry
 ursa,Nir Langer,"Fri, 02 Jun 2023 21:30:00 +0000",can,3.5,Passion Flick,HORIZONT Brewing,Pale Ale - Milkshake
 ursa,Alex Tsvetkov,"Wed, 31 May 2023 19:27:31 +0000",,4.25,Crescendo,Siren Craft Brew,Stout - Imperial / Double
 ursa,Alex Tsvetkov,"Wed, 31 May 2023 19:07:06 +0000",,3.5,Trickster,Siren Craft Brew,IPA - English

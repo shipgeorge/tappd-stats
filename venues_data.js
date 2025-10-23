@@ -1,8 +1,170 @@
 // 🍺 BEER STATS DATA - Generated automatically
-// Last updated: 2025-10-22 06:39:40
-// Total records: 6716
+// Last updated: 2025-10-23 06:38:35
+// Total records: 6734
 
 const BEER_DATA = [
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-10-22T21:20:16+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Chucky",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pale Ale - American"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-10-22T19:43:23+00:00",
+    "serving": "draft",
+    "rating": 4.5,
+    "beer_name": "עכשיו מעונן",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-10-22T19:41:24+00:00",
+    "serving": "draft",
+    "rating": 3.25,
+    "beer_name": "Sim Sima",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - Imperial / Double"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-10-22T18:29:46+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Fruity Mish Mash",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-10-22T18:27:00+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "עכשיו מעונן",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-10-22T18:15:43+00:00",
+    "serving": "draft",
+    "rating": 4.2,
+    "beer_name": "תוצרת הארץ",
+    "brewery": "New Pioneer Brewing Co - חלוץ חדש",
+    "beer_type": "Pale Ale - American"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-10-22T17:57:25+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Sim Sima",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - Imperial / Double"
+  },
+  {
+    "venue": "beerz",
+    "time": "2025-10-22T17:30:37+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Hobgoblin IPA",
+    "brewery": "Marston's Brewery",
+    "beer_type": "IPA - English"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-22T16:50:02+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Bjorn's Beer",
+    "brewery": "Attali's Family Brewery",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-22T16:48:16+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Malabiscus sour",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Sour - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-22T16:42:09+00:00",
+    "serving": "bottle",
+    "rating": 5.0,
+    "beer_name": "Cotta 21",
+    "brewery": "Mastri Birrai Umbri",
+    "beer_type": "Blonde / Golden Ale - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-22T16:40:10+00:00",
+    "serving": "bottle",
+    "rating": 4.5,
+    "beer_name": "Cotta 21",
+    "brewery": "Mastri Birrai Umbri",
+    "beer_type": "Blonde / Golden Ale - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-22T16:25:52+00:00",
+    "serving": "bottle",
+    "rating": 2.0,
+    "beer_name": "IPA - ricetta 13",
+    "brewery": "Birrificio Antoniano",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-22T16:25:44+00:00",
+    "serving": "bottle",
+    "rating": 3.75,
+    "beer_name": "IPA - ricetta 13",
+    "brewery": "Birrificio Antoniano",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-22T16:11:22+00:00",
+    "serving": "bottle",
+    "rating": 3.25,
+    "beer_name": "Ma.Ma 60",
+    "brewery": "Birra Flea",
+    "beer_type": "Pale Ale - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-22T16:04:48+00:00",
+    "serving": "bottle",
+    "rating": 3.5,
+    "beer_name": "La Tarsina! Bionda",
+    "brewery": "Birra Flea",
+    "beer_type": "Gluten-Free"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-10-22T15:35:25+00:00",
+    "serving": "bottle",
+    "rating": 3.1,
+    "beer_name": "Carrefour Sensation Roja",
+    "brewery": "LA SAGRA",
+    "beer_type": "Red Ale - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-22T15:21:55+00:00",
+    "serving": "bottle",
+    "rating": 4.0,
+    "beer_name": "Spaten Oktoberfestbier (2025)",
+    "brewery": "Spaten-Franziskaner-Löwenbräu-Gruppe",
+    "beer_type": "Festbier"
+  },
   {
     "venue": "lauter",
     "time": "2025-10-22T05:01:50+00:00",
@@ -418,15 +580,6 @@ const BEER_DATA = [
     "beer_type": "IPA - American"
   },
   {
-    "venue": "schnitt-brewing-company",
-    "time": "2025-10-19T19:17:21+00:00",
-    "serving": "can",
-    "rating": 4.25,
-    "beer_name": "Plum Waffle",
-    "brewery": "Duncan's Brewing",
-    "beer_type": "Sour - Smoothie / Pastry"
-  },
-  {
     "venue": "lauter",
     "time": "2025-10-19T19:17:21+00:00",
     "serving": "bottle",
@@ -434,6 +587,15 @@ const BEER_DATA = [
     "beer_name": "Bjorn's Beer",
     "brewery": "Attali's Family Brewery",
     "beer_type": "IPA - American"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-10-19T19:17:21+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "Plum Waffle",
+    "brewery": "Duncan's Brewing",
+    "beer_type": "Sour - Smoothie / Pastry"
   },
   {
     "venue": "lauter",
@@ -21327,7 +21489,7 @@ const BEER_DATA = [
   {
     "venue": "lauter",
     "time": "2025-09-01T17:44:35+00:00",
-    "serving": "bottle",
+    "serving": "Unknown",
     "rating": 4.0,
     "beer_name": "Hops Don’t Lie",
     "brewery": "Thurø Bryghus",
@@ -21336,7 +21498,7 @@ const BEER_DATA = [
   {
     "venue": "lauter",
     "time": "2025-09-01T17:44:35+00:00",
-    "serving": "Unknown",
+    "serving": "bottle",
     "rating": 4.0,
     "beer_name": "Hops Don’t Lie",
     "brewery": "Thurø Bryghus",
@@ -26212,15 +26374,6 @@ const BEER_DATA = [
     "beer_type": "Stout - White / Golden"
   },
   {
-    "venue": "lauter",
-    "time": "2025-08-21T16:00:28+00:00",
-    "serving": "draft",
-    "rating": 3.5,
-    "beer_name": "KRUSHED IT",
-    "brewery": "Oak & Ash",
-    "beer_type": "IPA - New England / Hazy"
-  },
-  {
     "venue": "b7-beer-house",
     "time": "2025-08-21T16:00:28+00:00",
     "serving": "can",
@@ -26228,6 +26381,15 @@ const BEER_DATA = [
     "beer_name": "Naughty & Nice - White Chocolate & Raspberry",
     "brewery": "Vocation Brewery",
     "beer_type": "Stout - White / Golden"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-21T16:00:28+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "KRUSHED IT",
+    "brewery": "Oak & Ash",
+    "beer_type": "IPA - New England / Hazy"
   },
   {
     "venue": "b7-beer-house",
@@ -41578,19 +41740,19 @@ const BEER_DATA = [
     "venue": "lauter",
     "time": "2025-07-25T18:15:23+00:00",
     "serving": "draft",
-    "rating": 4.0,
-    "beer_name": "Cuvée Saint-Gilloise 2023 - Draft Version",
+    "rating": 4.8,
+    "beer_name": "Fou' Foune 2023 - Draft Version",
     "brewery": "Brasserie Cantillon",
-    "beer_type": "Lambic - Traditional"
+    "beer_type": "Lambic - Fruit"
   },
   {
     "venue": "lauter",
     "time": "2025-07-25T18:15:23+00:00",
     "serving": "draft",
-    "rating": 4.8,
-    "beer_name": "Fou' Foune 2023 - Draft Version",
+    "rating": 4.0,
+    "beer_name": "Cuvée Saint-Gilloise 2023 - Draft Version",
     "brewery": "Brasserie Cantillon",
-    "beer_type": "Lambic - Fruit"
+    "beer_type": "Lambic - Traditional"
   },
   {
     "venue": "lauter",
@@ -57426,8 +57588,8 @@ const BEER_DATA = [
   {
     "venue": "berlin-florentin",
     "time": "2024-01-22T18:42:20+00:00",
-    "serving": "Unknown",
-    "rating": null,
+    "serving": "can",
+    "rating": 4.0,
     "beer_name": "200 Units",
     "brewery": "Brewski",
     "beer_type": "Barleywine - English"
@@ -57435,8 +57597,8 @@ const BEER_DATA = [
   {
     "venue": "berlin-florentin",
     "time": "2024-01-22T18:42:20+00:00",
-    "serving": "can",
-    "rating": 4.0,
+    "serving": "Unknown",
+    "rating": null,
     "beer_name": "200 Units",
     "brewery": "Brewski",
     "beer_type": "Barleywine - English"
