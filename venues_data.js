@@ -1,8 +1,1214 @@
 // 🍺 BEER STATS DATA - Generated automatically
-// Last updated: 2025-10-23 06:38:35
-// Total records: 6734
+// Last updated: 2025-10-24 06:38:03
+// Total records: 6868
 
 const BEER_DATA = [
+  {
+    "venue": "lauter",
+    "time": "2025-10-23T23:00:00+00:00",
+    "serving": "bottle",
+    "rating": 4.1,
+    "beer_name": "Aecht Schlenkerla Eiche – Doppelbock",
+    "brewery": "Schlenkerla (\"Heller-Bräu\" Trum)",
+    "beer_type": "Rauchbier"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-23T21:26:05+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "Kardemumma",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pale Ale - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-23T20:53:55+00:00",
+    "serving": "can",
+    "rating": 5.0,
+    "beer_name": "Bear Beer Xtra Strong",
+    "brewery": "Harboes Bryggeri",
+    "beer_type": "Malt Liquor"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-10-23T20:48:59+00:00",
+    "serving": "draft",
+    "rating": 3.25,
+    "beer_name": "Kardemumma",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pale Ale - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-23T20:46:03+00:00",
+    "serving": "can",
+    "rating": 1.5,
+    "beer_name": "Bjørne Bryg Luxusøl / Bear Beer Strong Lager 7.7%",
+    "brewery": "Harboes Bryggeri",
+    "beer_type": "Lager - Strong"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-23T20:45:54+00:00",
+    "serving": "can",
+    "rating": 2.75,
+    "beer_name": "Bjørne Bryg Luxusøl / Bear Beer Strong Lager 7.7%",
+    "brewery": "Harboes Bryggeri",
+    "beer_type": "Lager - Strong"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-10-23T20:33:04+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Kardemumma",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pale Ale - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-23T20:26:05+00:00",
+    "serving": "draft",
+    "rating": 4.5,
+    "beer_name": "Abricot Tilquin - Draft Version",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-23T20:25:52+00:00",
+    "serving": "draft",
+    "rating": 4.5,
+    "beer_name": "Abricot Tilquin - Draft Version",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-10-23T20:17:04+00:00",
+    "serving": "can",
+    "rating": 3.25,
+    "beer_name": "Ronin",
+    "brewery": "Culture Craft - Craft project",
+    "beer_type": "IPA - Imperial / Double"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-10-23T20:12:40+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "NORMVOLLENDET | parallel ego series 4/5",
+    "brewery": "ATELIER VRAI",
+    "beer_type": "IPA - Imperial / Double New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-10-23T20:07:21+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Celestial",
+    "brewery": "Stamm Brewing",
+    "beer_type": "Stout - Imperial / Double"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-10-23T19:55:22+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Yummy Mango w/ Apricot",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-10-23T19:54:52+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "Yummy Mango w/ Apricot",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-10-23T19:52:19+00:00",
+    "serving": "can",
+    "rating": 4.5,
+    "beer_name": "Yummy Mango w/ Apricot",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-10-23T19:52:18+00:00",
+    "serving": "can",
+    "rating": 4.1,
+    "beer_name": "Yummy Mango w/ Apricot",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-10-23T19:51:52+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Ambedo",
+    "brewery": "Ability Brewing Project",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-10-23T19:51:51+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "Celestial",
+    "brewery": "Stamm Brewing",
+    "beer_type": "Stout - Imperial / Double"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-10-23T19:50:01+00:00",
+    "serving": "can",
+    "rating": 3.9,
+    "beer_name": "Celestial",
+    "brewery": "Stamm Brewing",
+    "beer_type": "Stout - Imperial / Double"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-10-23T19:49:54+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Kardemumma",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pale Ale - Other"
+  },
+  {
+    "venue": "ursa",
+    "time": "2025-10-23T19:49:30+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Guinness Draught",
+    "brewery": "Guinness",
+    "beer_type": "Stout - Irish Dry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-10-23T19:45:46+00:00",
+    "serving": "can",
+    "rating": 4.5,
+    "beer_name": "Celestial",
+    "brewery": "Stamm Brewing",
+    "beer_type": "Stout - Imperial / Double"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-10-23T19:43:35+00:00",
+    "serving": "Unknown",
+    "rating": 4.25,
+    "beer_name": "Ambedo",
+    "brewery": "Ability Brewing Project",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-10-23T19:42:37+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Tipsy Toucan",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-10-23T19:39:03+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "Ambedo",
+    "brewery": "Ability Brewing Project",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-10-23T19:38:50+00:00",
+    "serving": "can",
+    "rating": 4.4,
+    "beer_name": "Ambedo",
+    "brewery": "Ability Brewing Project",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-23T19:33:44+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Abricot Tilquin - Draft Version",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-10-23T19:33:37+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Naked Lollipop \"Sherbet\"",
+    "brewery": "Froth Brewing Co.",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-10-23T19:32:46+00:00",
+    "serving": "can",
+    "rating": 4.5,
+    "beer_name": "Screwball",
+    "brewery": "Vault City Brewing",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-10-23T19:31:54+00:00",
+    "serving": "can",
+    "rating": 5.0,
+    "beer_name": "Screwball",
+    "brewery": "Vault City Brewing",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-10-23T19:28:21+00:00",
+    "serving": "can",
+    "rating": 4.1,
+    "beer_name": "Naked Lollipop With Rainbow Sherbet, Raspberry, Lime, Orange And Fruit Flavor",
+    "brewery": "Froth Brewing Co.",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-10-23T19:26:42+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "Naked Lollipop With Rainbow Sherbet, Raspberry, Lime, Orange And Fruit Flavor",
+    "brewery": "Froth Brewing Co.",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-10-23T19:26:35+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Naked Lollipop With Rainbow Sherbet, Raspberry, Lime, Orange And Fruit Flavor",
+    "brewery": "Froth Brewing Co.",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-23T19:20:51+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Same Schnitt, Different Hop: Amarillo",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pale Ale - Other"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-10-23T19:17:43+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Ronin",
+    "brewery": "Culture Craft - Craft project",
+    "beer_type": "IPA - Imperial / Double"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-23T19:17:16+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "Double Kiss of Cherry",
+    "brewery": "Docker Brewery",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-10-23T19:17:08+00:00",
+    "serving": "can",
+    "rating": 3.4,
+    "beer_name": "Ronin",
+    "brewery": "Culture Craft - Craft project",
+    "beer_type": "IPA - Imperial / Double"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-10-23T19:16:09+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Ronin",
+    "brewery": "Culture Craft - Craft project",
+    "beer_type": "IPA - Imperial / Double"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-10-23T19:13:31+00:00",
+    "serving": "can",
+    "rating": 3.25,
+    "beer_name": "NEIPA Citra X Amarillo",
+    "brewery": "La Superbe",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-23T19:13:23+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Floor 35",
+    "brewery": "Los Forajidos Brewing Co.",
+    "beer_type": "IPA - Imperial / Double New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-10-23T19:12:25+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "NEIPA Citra X Amarillo",
+    "brewery": "La Superbe",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-10-23T19:09:47+00:00",
+    "serving": "can",
+    "rating": 3.8,
+    "beer_name": "NORMVOLLENDET | parallel ego series 4/5",
+    "brewery": "ATELIER VRAI",
+    "beer_type": "IPA - Imperial / Double New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-10-23T19:09:03+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "NORMVOLLENDET | parallel ego series 4/5",
+    "brewery": "ATELIER VRAI",
+    "beer_type": "IPA - Imperial / Double New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-10-23T19:05:58+00:00",
+    "serving": "can",
+    "rating": 3.8,
+    "beer_name": "NEIPA Citra X Amarillo",
+    "brewery": "La Superbe",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-10-23T19:05:23+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "NEIPA Citra X Amarillo",
+    "brewery": "La Superbe",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-10-23T19:00:22+00:00",
+    "serving": "can",
+    "rating": 3.9,
+    "beer_name": "IPA",
+    "brewery": "Masthead Brewing Company",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-10-23T18:59:13+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Hazy Ale",
+    "brewery": "Black Hog Brewing Co.",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-10-23T18:58:45+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "IPA",
+    "brewery": "Masthead Brewing Company",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "beerz",
+    "time": "2025-10-23T18:58:07+00:00",
+    "serving": "can",
+    "rating": 4.2,
+    "beer_name": "Beyond Void",
+    "brewery": "Pühaste Brewery",
+    "beer_type": "Porter - Imperial / Double"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-10-23T18:56:31+00:00",
+    "serving": "can",
+    "rating": 3.3,
+    "beer_name": "Hazy Ale",
+    "brewery": "Black Hog Brewing Co.",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-10-23T18:55:26+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Saratoga Squeeze",
+    "brewery": "Artisanal Brew Works",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-10-23T18:55:25+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Hazy Ale",
+    "brewery": "Black Hog Brewing Co.",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-23T18:52:00+00:00",
+    "serving": "bottle",
+    "rating": 4.0,
+    "beer_name": "5PM Saint",
+    "brewery": "OverWorks",
+    "beer_type": "Brett Beer"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-10-23T18:50:03+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Saratoga Squeeze",
+    "brewery": "Artisanal Brew Works",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-10-23T18:48:17+00:00",
+    "serving": "can",
+    "rating": 4.1,
+    "beer_name": "Saratoga Squeeze",
+    "brewery": "Artisanal Brew Works",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-10-23T18:47:21+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Saratoga Squeeze",
+    "brewery": "Artisanal Brew Works",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-10-23T18:44:40+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "Motueka Sunrise",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-10-23T18:44:07+00:00",
+    "serving": "can",
+    "rating": 3.9,
+    "beer_name": "Motueka Sunrise",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-10-23T18:43:08+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Motueka Sunrise",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-23T18:41:18+00:00",
+    "serving": "Unknown",
+    "rating": 4.75,
+    "beer_name": "Abricot Tilquin - Draft Version",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "beerz",
+    "time": "2025-10-23T18:40:47+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Hobgoblin IPA",
+    "brewery": "Marston's Brewery",
+    "beer_type": "IPA - English"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-23T18:40:32+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Floris Cactus",
+    "brewery": "Delirium - Huyghe Brewery",
+    "beer_type": "Wheat Beer - Fruited"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-10-23T18:25:56+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Everyday Life",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": "Pilsner - Czech / Bohemian"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-10-23T18:24:42+00:00",
+    "serving": "can",
+    "rating": 3.9,
+    "beer_name": "Everyday Life",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": "Pilsner - Czech / Bohemian"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-23T18:18:30+00:00",
+    "serving": "draft",
+    "rating": null,
+    "beer_name": "Abricot Tilquin - Draft Version",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-10-23T18:15:40+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Tipsy Toucan",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "beerz",
+    "time": "2025-10-23T18:08:25+00:00",
+    "serving": "can",
+    "rating": 3.9,
+    "beer_name": "HAZEBOYS NEIPA Nectaron + Citra + Phantasm",
+    "brewery": "NOZIB Special Brews",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-10-23T18:08:09+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Fruity Mish Mash",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-10-23T18:07:34+00:00",
+    "serving": "can",
+    "rating": 3.8,
+    "beer_name": "Tipsy Toucan",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-23T17:50:34+00:00",
+    "serving": "draft",
+    "rating": 4.5,
+    "beer_name": "Abricot Tilquin - Draft Version",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-23T17:48:20+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Rush Sour",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - Sour"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-23T17:41:15+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "Abricot Tilquin - Draft Version",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-23T17:36:57+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Benediktiner Hell",
+    "brewery": "Benediktiner Weissbräu",
+    "beer_type": "Lager - Helles"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-10-23T17:36:32+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Cashmero קשמירו",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-10-23T17:36:09+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Rush Sour",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - Sour"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-10-23T17:35:43+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "About To Stout",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Stout - Oatmeal"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-10-23T17:35:25+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Kardemumma",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pale Ale - Other"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-10-23T17:35:09+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Fruity Mish Mash",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-23T17:33:49+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Rush Sour",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - Sour"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-23T17:33:17+00:00",
+    "serving": "can",
+    "rating": 3.1,
+    "beer_name": "Kottbusser Class 2015",
+    "brewery": "Docker Brewery",
+    "beer_type": "Historical Beer - Kottbusser"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-23T17:32:14+00:00",
+    "serving": "draft",
+    "rating": 4.2,
+    "beer_name": "Abricot Tilquin - Draft Version",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-23T17:26:34+00:00",
+    "serving": "can",
+    "rating": 3.8,
+    "beer_name": "FEAT. Cztery Ściany: Gose Together",
+    "brewery": "Funky Fluid",
+    "beer_type": "Sour - Fruited Gose"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-23T17:25:23+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Demihydra | Blueberry Tangerine Mango",
+    "brewery": "Mortalis Brewing Company",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-23T17:23:56+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Shut Up And Drink Me! (שת\"פ)",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Historical Beer - Lichtenhainer"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-23T17:20:50+00:00",
+    "serving": "draft",
+    "rating": 4.5,
+    "beer_name": "Bjorn's Beer",
+    "brewery": "Attali's Family Brewery",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-23T17:15:55+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Benediktiner Hell",
+    "brewery": "Benediktiner Weissbräu",
+    "beer_type": "Lager - Helles"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-23T17:09:49+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Abricot Tilquin - Draft Version",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-23T17:06:46+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Floor 35",
+    "brewery": "Los Forajidos Brewing Co.",
+    "beer_type": "IPA - Imperial / Double New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-23T17:06:36+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Sediments of Memory (Fresh Hop 2025)",
+    "brewery": "Fort George Brewery",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-23T17:05:48+00:00",
+    "serving": "can",
+    "rating": 4.5,
+    "beer_name": "Sediments of Memory (Fresh Hop 2025)",
+    "brewery": "Fort George Brewery",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-23T17:02:25+00:00",
+    "serving": "Unknown",
+    "rating": 4.5,
+    "beer_name": "Hydra | Kiwi + Strawberry + Banana",
+    "brewery": "Mortalis Brewing Company",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-23T17:01:48+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "Abricot Tilquin - Draft Version",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-23T17:00:59+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Anything Gose: Mango",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Sour - Fruited Gose"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-23T17:00:23+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Benediktiner Hell",
+    "brewery": "Benediktiner Weissbräu",
+    "beer_type": "Lager - Helles"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-23T17:00:21+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Floris Cactus",
+    "brewery": "Delirium - Huyghe Brewery",
+    "beer_type": "Wheat Beer - Fruited"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-10-23T16:59:24+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Fruity Mish Mash",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-10-23T16:58:29+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "עכשיו מעונן",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-23T16:51:24+00:00",
+    "serving": "can",
+    "rating": 4.2,
+    "beer_name": "Hydra | Kiwi + Strawberry + Banana",
+    "brewery": "Mortalis Brewing Company",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-23T16:48:46+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Floor 35",
+    "brewery": "Los Forajidos Brewing Co.",
+    "beer_type": "IPA - Imperial / Double New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-23T16:48:20+00:00",
+    "serving": "can",
+    "rating": 3.9,
+    "beer_name": "Floor 35",
+    "brewery": "Los Forajidos Brewing Co.",
+    "beer_type": "IPA - Imperial / Double New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-23T16:44:24+00:00",
+    "serving": "can",
+    "rating": 4.75,
+    "beer_name": "Demihydra | Blueberry Tangerine Mango",
+    "brewery": "Mortalis Brewing Company",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-23T16:43:34+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "Abricot Tilquin - Draft Version",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-23T16:42:17+00:00",
+    "serving": "can",
+    "rating": 3.8,
+    "beer_name": "Demihydra | Blueberry Tangerine Mango",
+    "brewery": "Mortalis Brewing Company",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-23T16:38:42+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "FEAT. Cztery Ściany: Gose Together",
+    "brewery": "Funky Fluid",
+    "beer_type": "Sour - Fruited Gose"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-23T16:37:32+00:00",
+    "serving": "can",
+    "rating": 4.2,
+    "beer_name": "FEAT. Cztery Ściany: Gose Together",
+    "brewery": "Funky Fluid",
+    "beer_type": "Sour - Fruited Gose"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-23T16:36:38+00:00",
+    "serving": "can",
+    "rating": 3.7,
+    "beer_name": "Double Kiss of Cherry",
+    "brewery": "Docker Brewery",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-23T16:35:48+00:00",
+    "serving": "Unknown",
+    "rating": 4.75,
+    "beer_name": "Wonders - Banana, Mango & Coconut Milk",
+    "brewery": "Magic Road",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-23T16:34:33+00:00",
+    "serving": "Unknown",
+    "rating": 4.75,
+    "beer_name": "Post-Modern Times - Hawaiian Juice",
+    "brewery": "Cervejaria Escafandrista",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-23T16:33:52+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Kottbusser Class 2015",
+    "brewery": "Docker Brewery",
+    "beer_type": "Historical Beer - Kottbusser"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-23T16:32:34+00:00",
+    "serving": "can",
+    "rating": 4.2,
+    "beer_name": "Wonders - Banana, Mango & Coconut Milk",
+    "brewery": "Magic Road",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-23T16:32:16+00:00",
+    "serving": "can",
+    "rating": null,
+    "beer_name": "Double Kiss of Cherry",
+    "brewery": "Docker Brewery",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-23T16:30:58+00:00",
+    "serving": "draft",
+    "rating": 4.5,
+    "beer_name": "Abricot Tilquin - Draft Version",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-23T16:28:20+00:00",
+    "serving": "can",
+    "rating": 4.6,
+    "beer_name": "Wonders - Banana, Mango & Coconut Milk",
+    "brewery": "Magic Road",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-23T16:23:45+00:00",
+    "serving": "can",
+    "rating": 3.9,
+    "beer_name": "Post-Modern Times - Hawaiian Juice",
+    "brewery": "Cervejaria Escafandrista",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-23T16:18:31+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Abricot Tilquin - Draft Version",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-23T16:17:04+00:00",
+    "serving": "can",
+    "rating": 3.6,
+    "beer_name": "Double Kiss of Cherry",
+    "brewery": "Docker Brewery",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-23T16:09:45+00:00",
+    "serving": "draft",
+    "rating": 3.4,
+    "beer_name": "Same Schnitt, Different Hop: Amarillo",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pale Ale - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-23T16:08:31+00:00",
+    "serving": "draft",
+    "rating": 3.4,
+    "beer_name": "Tea Party: Green Tea And Jasmine",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pale Ale - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-23T16:07:29+00:00",
+    "serving": "can",
+    "rating": 3.6,
+    "beer_name": "Kottbusser Class 2015",
+    "brewery": "Docker Brewery",
+    "beer_type": "Historical Beer - Kottbusser"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-23T16:00:37+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "Porter&Sons: Marshmallow",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Porter - Other"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-10-23T15:57:34+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Sim Sima",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - Imperial / Double"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-23T15:53:10+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Anything Gose: Mango",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Sour - Fruited Gose"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-23T15:52:22+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "Bjorn's Beer",
+    "brewery": "Attali's Family Brewery",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-23T15:44:27+00:00",
+    "serving": "Unknown",
+    "rating": 2.8,
+    "beer_name": "Floris Cactus",
+    "brewery": "Delirium - Huyghe Brewery",
+    "beer_type": "Wheat Beer - Fruited"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-23T15:24:37+00:00",
+    "serving": "can",
+    "rating": 4.5,
+    "beer_name": "Lemon X Coconut X Pineapple X Cherry Smoothie Sour Ale",
+    "brewery": "Ārpus Brewing Co.",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-23T15:19:23+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Fruity Mish Mash",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-23T15:06:10+00:00",
+    "serving": "draft",
+    "rating": 3.1,
+    "beer_name": "About To Stout",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Stout - Oatmeal"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-23T14:59:56+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Sim Sima",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - Imperial / Double"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-10-23T14:24:15+00:00",
+    "serving": "Unknown",
+    "rating": 3.6,
+    "beer_name": "Sim Sima",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - Imperial / Double"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-10-23T14:23:15+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "About To Stout",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Stout - Oatmeal"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-10-23T14:22:10+00:00",
+    "serving": "Unknown",
+    "rating": 3.4,
+    "beer_name": "Fruity Mish Mash",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-10-23T14:20:17+00:00",
+    "serving": "Unknown",
+    "rating": 3.6,
+    "beer_name": "Rush Sour",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - Sour"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-10-23T14:12:14+00:00",
+    "serving": "Unknown",
+    "rating": 3.6,
+    "beer_name": "Kardemumma",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pale Ale - Other"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-10-23T13:29:59+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "OrangeDana",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
   {
     "venue": "schnitt-brewing-company",
     "time": "2025-10-22T21:20:16+00:00",
@@ -21489,7 +22695,7 @@ const BEER_DATA = [
   {
     "venue": "lauter",
     "time": "2025-09-01T17:44:35+00:00",
-    "serving": "Unknown",
+    "serving": "bottle",
     "rating": 4.0,
     "beer_name": "Hops Don’t Lie",
     "brewery": "Thurø Bryghus",
@@ -21498,7 +22704,7 @@ const BEER_DATA = [
   {
     "venue": "lauter",
     "time": "2025-09-01T17:44:35+00:00",
-    "serving": "bottle",
+    "serving": "Unknown",
     "rating": 4.0,
     "beer_name": "Hops Don’t Lie",
     "brewery": "Thurø Bryghus",
@@ -33324,8 +34530,8 @@ const BEER_DATA = [
   {
     "venue": "lauter",
     "time": "2025-08-05T19:24:07+00:00",
-    "serving": "can",
-    "rating": 4.5,
+    "serving": "Unknown",
+    "rating": null,
     "beer_name": "SLUSHY XL: Haha!",
     "brewery": "450 North Brewing Company",
     "beer_type": "Sour - Smoothie / Pastry"
@@ -33333,8 +34539,8 @@ const BEER_DATA = [
   {
     "venue": "lauter",
     "time": "2025-08-05T19:24:07+00:00",
-    "serving": "Unknown",
-    "rating": null,
+    "serving": "can",
+    "rating": 4.5,
     "beer_name": "SLUSHY XL: Haha!",
     "brewery": "450 North Brewing Company",
     "beer_type": "Sour - Smoothie / Pastry"

@@ -1,4 +1,138 @@
 venue,user,time,serving,data_rating,beer_name,brewery,beer_type
+lauter,Eli Smikin,"Thu, 23 Oct 2025 23:00:00 +0000",bottle,4.1,Aecht Schlenkerla Eiche – Doppelbock,"Schlenkerla (""Heller-Bräu"" Trum)",Rauchbier
+lauter,Ido Meir,"Thu, 23 Oct 2025 21:26:05 +0000",can,4.25,Kardemumma,Schnitt Brewing Company﻿,Pale Ale - Other
+lauter,Ido Meir,"Thu, 23 Oct 2025 20:53:55 +0000",can,5.0,Bear Beer Xtra Strong,Harboes Bryggeri,Malt Liquor
+schnitt-brewing-company,Omri Gill,"Thu, 23 Oct 2025 20:48:59 +0000",draft,3.25,Kardemumma,Schnitt Brewing Company﻿,Pale Ale - Other
+lauter,Elad Schitrit,"Thu, 23 Oct 2025 20:46:03 +0000",can,1.5,Bjørne Bryg Luxusøl / Bear Beer Strong Lager 7.7%,Harboes Bryggeri,Lager - Strong
+lauter,Ido Meir,"Thu, 23 Oct 2025 20:45:54 +0000",can,2.75,Bjørne Bryg Luxusøl / Bear Beer Strong Lager 7.7%,Harboes Bryggeri,Lager - Strong
+schnitt-brewing-company,Elad Schitrit,"Thu, 23 Oct 2025 20:33:04 +0000",draft,3.75,Kardemumma,Schnitt Brewing Company﻿,Pale Ale - Other
+lauter,Ido Meir,"Thu, 23 Oct 2025 20:26:05 +0000",draft,4.5,Abricot Tilquin - Draft Version,Gueuzerie Tilquin,Lambic - Fruit
+lauter,Ido Meir,"Thu, 23 Oct 2025 20:25:52 +0000",draft,4.5,Abricot Tilquin - Draft Version,Gueuzerie Tilquin,Lambic - Fruit
+b7-beer-house,Dima Shleifman,"Thu, 23 Oct 2025 20:17:04 +0000",can,3.25,Ronin,Culture Craft - Craft project,IPA - Imperial / Double
+b7-beer-house,Dima Shleifman,"Thu, 23 Oct 2025 20:12:40 +0000",can,3.5,NORMVOLLENDET | parallel ego series 4/5,ATELIER VRAI,IPA - Imperial / Double New England / Hazy
+b7-beer-house,Dima Shleifman,"Thu, 23 Oct 2025 20:07:21 +0000",can,4.0,Celestial,Stamm Brewing,Stout - Imperial / Double
+b7-beer-house,Dima Shleifman,"Thu, 23 Oct 2025 19:55:22 +0000",can,3.5,Yummy Mango w/ Apricot,Sibeeria Brewery,Sour - Smoothie / Pastry
+b7-beer-house,Israel Shenkman,"Thu, 23 Oct 2025 19:54:52 +0000",can,4.25,Yummy Mango w/ Apricot,Sibeeria Brewery,Sour - Smoothie / Pastry
+b7-beer-house,Alex Fux,"Thu, 23 Oct 2025 19:52:19 +0000",can,4.5,Yummy Mango w/ Apricot,Sibeeria Brewery,Sour - Smoothie / Pastry
+b7-beer-house,Yotam Bar-natan,"Thu, 23 Oct 2025 19:52:18 +0000",can,4.1,Yummy Mango w/ Apricot,Sibeeria Brewery,Sour - Smoothie / Pastry
+b7-beer-house,Dima Shleifman,"Thu, 23 Oct 2025 19:51:52 +0000",can,3.75,Ambedo,Ability Brewing Project,Sour - Smoothie / Pastry
+b7-beer-house,Israel Shenkman,"Thu, 23 Oct 2025 19:51:51 +0000",can,4.25,Celestial,Stamm Brewing,Stout - Imperial / Double
+b7-beer-house,Yotam Bar-natan,"Thu, 23 Oct 2025 19:50:01 +0000",can,3.9,Celestial,Stamm Brewing,Stout - Imperial / Double
+schnitt-brewing-company,Itay shalom Kaplan,"Thu, 23 Oct 2025 19:49:54 +0000",draft,3.5,Kardemumma,Schnitt Brewing Company﻿,Pale Ale - Other
+ursa,UV R,"Thu, 23 Oct 2025 19:49:30 +0000",draft,3.5,Guinness Draught,Guinness,Stout - Irish Dry
+b7-beer-house,Alex Fux,"Thu, 23 Oct 2025 19:45:46 +0000",can,4.5,Celestial,Stamm Brewing,Stout - Imperial / Double
+b7-beer-house,Israel Shenkman,"Thu, 23 Oct 2025 19:43:35 +0000",,4.25,Ambedo,Ability Brewing Project,Sour - Smoothie / Pastry
+b7-beer-house,Dima Shleifman,"Thu, 23 Oct 2025 19:42:37 +0000",can,3.75,Tipsy Toucan,Sibeeria Brewery,IPA - New England / Hazy
+b7-beer-house,Alex Fux,"Thu, 23 Oct 2025 19:39:03 +0000",can,4.25,Ambedo,Ability Brewing Project,Sour - Smoothie / Pastry
+b7-beer-house,Yotam Bar-natan,"Thu, 23 Oct 2025 19:38:50 +0000",can,4.4,Ambedo,Ability Brewing Project,Sour - Smoothie / Pastry
+lauter,Elad Schitrit,"Thu, 23 Oct 2025 19:33:44 +0000",draft,4.0,Abricot Tilquin - Draft Version,Gueuzerie Tilquin,Lambic - Fruit
+b7-beer-house,Dima Shleifman,"Thu, 23 Oct 2025 19:33:37 +0000",can,3.5,"Naked Lollipop ""Sherbet""",Froth Brewing Co.,Sour - Fruited
+b7-beer-house,Yotam Bar-natan,"Thu, 23 Oct 2025 19:32:46 +0000",can,4.5,Screwball,Vault City Brewing,Sour - Fruited
+b7-beer-house,Alex Fux,"Thu, 23 Oct 2025 19:31:54 +0000",can,5.0,Screwball,Vault City Brewing,Sour - Fruited
+b7-beer-house,Yotam Bar-natan,"Thu, 23 Oct 2025 19:28:21 +0000",can,4.1,"Naked Lollipop With Rainbow Sherbet, Raspberry, Lime, Orange And Fruit Flavor",Froth Brewing Co.,Sour - Fruited
+b7-beer-house,Alex Fux,"Thu, 23 Oct 2025 19:26:42 +0000",can,4.25,"Naked Lollipop With Rainbow Sherbet, Raspberry, Lime, Orange And Fruit Flavor",Froth Brewing Co.,Sour - Fruited
+b7-beer-house,Israel Shenkman,"Thu, 23 Oct 2025 19:26:35 +0000",can,4.0,"Naked Lollipop With Rainbow Sherbet, Raspberry, Lime, Orange And Fruit Flavor",Froth Brewing Co.,Sour - Fruited
+lauter,Ido Meir,"Thu, 23 Oct 2025 19:20:51 +0000",draft,4.0,"Same Schnitt, Different Hop: Amarillo",Schnitt Brewing Company﻿,Pale Ale - Other
+b7-beer-house,Israel Shenkman,"Thu, 23 Oct 2025 19:17:43 +0000",can,3.75,Ronin,Culture Craft - Craft project,IPA - Imperial / Double
+lauter,Ido Meir,"Thu, 23 Oct 2025 19:17:16 +0000",can,4.25,Double Kiss of Cherry,Docker Brewery,Sour - Fruited
+b7-beer-house,Yotam Bar-natan,"Thu, 23 Oct 2025 19:17:08 +0000",can,3.4,Ronin,Culture Craft - Craft project,IPA - Imperial / Double
+b7-beer-house,Alex Fux,"Thu, 23 Oct 2025 19:16:09 +0000",can,3.75,Ronin,Culture Craft - Craft project,IPA - Imperial / Double
+b7-beer-house,Dima Shleifman,"Thu, 23 Oct 2025 19:13:31 +0000",can,3.25,NEIPA Citra X Amarillo,La Superbe,IPA - New England / Hazy
+lauter,Ido Meir,"Thu, 23 Oct 2025 19:13:23 +0000",can,3.5,Floor 35,Los Forajidos Brewing Co.,IPA - Imperial / Double New England / Hazy
+b7-beer-house,Israel Shenkman,"Thu, 23 Oct 2025 19:12:25 +0000",can,4.0,NEIPA Citra X Amarillo,La Superbe,IPA - New England / Hazy
+b7-beer-house,Yotam Bar-natan,"Thu, 23 Oct 2025 19:09:47 +0000",can,3.8,NORMVOLLENDET | parallel ego series 4/5,ATELIER VRAI,IPA - Imperial / Double New England / Hazy
+b7-beer-house,Alex Fux,"Thu, 23 Oct 2025 19:09:03 +0000",can,4.0,NORMVOLLENDET | parallel ego series 4/5,ATELIER VRAI,IPA - Imperial / Double New England / Hazy
+b7-beer-house,Yotam Bar-natan,"Thu, 23 Oct 2025 19:05:58 +0000",can,3.8,NEIPA Citra X Amarillo,La Superbe,IPA - New England / Hazy
+b7-beer-house,Alex Fux,"Thu, 23 Oct 2025 19:05:23 +0000",can,3.75,NEIPA Citra X Amarillo,La Superbe,IPA - New England / Hazy
+b7-beer-house,Yotam Bar-natan,"Thu, 23 Oct 2025 19:00:22 +0000",can,3.9,IPA,Masthead Brewing Company,IPA - American
+b7-beer-house,Dima Shleifman,"Thu, 23 Oct 2025 18:59:13 +0000",can,3.75,Hazy Ale,Black Hog Brewing Co.,IPA - New England / Hazy
+b7-beer-house,Alex Fux,"Thu, 23 Oct 2025 18:58:45 +0000",can,4.0,IPA,Masthead Brewing Company,IPA - American
+beerz,Ilya Markovsky,"Thu, 23 Oct 2025 18:58:07 +0000",can,4.2,Beyond Void,Pühaste Brewery,Porter - Imperial / Double
+b7-beer-house,Yotam Bar-natan,"Thu, 23 Oct 2025 18:56:31 +0000",can,3.3,Hazy Ale,Black Hog Brewing Co.,IPA - New England / Hazy
+b7-beer-house,Dima Shleifman,"Thu, 23 Oct 2025 18:55:26 +0000",can,3.5,Saratoga Squeeze,Artisanal Brew Works,IPA - New England / Hazy
+b7-beer-house,Alex Fux,"Thu, 23 Oct 2025 18:55:25 +0000",can,3.75,Hazy Ale,Black Hog Brewing Co.,IPA - New England / Hazy
+lauter,Kfeer Blau,"Thu, 23 Oct 2025 18:52:00 +0000",bottle,4.0,5PM Saint,OverWorks,Brett Beer
+b7-beer-house,Israel Shenkman,"Thu, 23 Oct 2025 18:50:03 +0000",can,4.0,Saratoga Squeeze,Artisanal Brew Works,IPA - New England / Hazy
+b7-beer-house,Yotam Bar-natan,"Thu, 23 Oct 2025 18:48:17 +0000",can,4.1,Saratoga Squeeze,Artisanal Brew Works,IPA - New England / Hazy
+b7-beer-house,Alex Fux,"Thu, 23 Oct 2025 18:47:21 +0000",can,3.5,Saratoga Squeeze,Artisanal Brew Works,IPA - New England / Hazy
+b7-beer-house,Alex Fux,"Thu, 23 Oct 2025 18:44:40 +0000",can,4.25,Motueka Sunrise,Sibeeria Brewery,IPA - New England / Hazy
+b7-beer-house,Yotam Bar-natan,"Thu, 23 Oct 2025 18:44:07 +0000",can,3.9,Motueka Sunrise,Sibeeria Brewery,IPA - New England / Hazy
+b7-beer-house,Israel Shenkman,"Thu, 23 Oct 2025 18:43:08 +0000",can,4.0,Motueka Sunrise,Sibeeria Brewery,IPA - New England / Hazy
+lauter,Yuval Erets Kdosha,"Thu, 23 Oct 2025 18:41:18 +0000",,4.75,Abricot Tilquin - Draft Version,Gueuzerie Tilquin,Lambic - Fruit
+beerz,NightFish,"Thu, 23 Oct 2025 18:40:47 +0000",draft,3.75,Hobgoblin IPA,Marston's Brewery,IPA - English
+lauter,Yuval Erets Kdosha,"Thu, 23 Oct 2025 18:40:32 +0000",draft,4.0,Floris Cactus,Delirium - Huyghe Brewery,Wheat Beer - Fruited
+b7-beer-house,Israel Shenkman,"Thu, 23 Oct 2025 18:25:56 +0000",can,4.0,Everyday Life,Sibeeria Brewery,Pilsner - Czech / Bohemian
+b7-beer-house,Yotam Bar-natan,"Thu, 23 Oct 2025 18:24:42 +0000",can,3.9,Everyday Life,Sibeeria Brewery,Pilsner - Czech / Bohemian
+lauter,David Siegel,"Thu, 23 Oct 2025 18:18:30 +0000",draft,,Abricot Tilquin - Draft Version,Gueuzerie Tilquin,Lambic - Fruit
+b7-beer-house,Israel Shenkman,"Thu, 23 Oct 2025 18:15:40 +0000",can,4.0,Tipsy Toucan,Sibeeria Brewery,IPA - New England / Hazy
+beerz,Ilya Markovsky,"Thu, 23 Oct 2025 18:08:25 +0000",can,3.9,HAZEBOYS NEIPA Nectaron + Citra + Phantasm,NOZIB Special Brews,IPA - New England / Hazy
+schnitt-brewing-company,David Siegel,"Thu, 23 Oct 2025 18:08:09 +0000",draft,3.75,Fruity Mish Mash,Schnitt Brewing Company﻿,IPA - New England / Hazy
+b7-beer-house,Yotam Bar-natan,"Thu, 23 Oct 2025 18:07:34 +0000",can,3.8,Tipsy Toucan,Sibeeria Brewery,IPA - New England / Hazy
+lauter,Shmupi Koto,"Thu, 23 Oct 2025 17:50:34 +0000",draft,4.5,Abricot Tilquin - Draft Version,Gueuzerie Tilquin,Lambic - Fruit
+lauter,Shmupi Koto,"Thu, 23 Oct 2025 17:48:20 +0000",draft,3.5,Rush Sour,Schnitt Brewing Company﻿,IPA - Sour
+lauter,Omri Gill,"Thu, 23 Oct 2025 17:41:15 +0000",draft,4.25,Abricot Tilquin - Draft Version,Gueuzerie Tilquin,Lambic - Fruit
+lauter,David Siegel,"Thu, 23 Oct 2025 17:36:57 +0000",draft,3.5,Benediktiner Hell,Benediktiner Weissbräu,Lager - Helles
+schnitt-brewing-company,Nir Langer,"Thu, 23 Oct 2025 17:36:32 +0000",,,Cashmero קשמירו,Schnitt Brewing Company﻿,IPA - American
+schnitt-brewing-company,Nir Langer,"Thu, 23 Oct 2025 17:36:09 +0000",,,Rush Sour,Schnitt Brewing Company﻿,IPA - Sour
+schnitt-brewing-company,Nir Langer,"Thu, 23 Oct 2025 17:35:43 +0000",,,About To Stout,Schnitt Brewing Company﻿,Stout - Oatmeal
+schnitt-brewing-company,Nir Langer,"Thu, 23 Oct 2025 17:35:25 +0000",,,Kardemumma,Schnitt Brewing Company﻿,Pale Ale - Other
+schnitt-brewing-company,Nir Langer,"Thu, 23 Oct 2025 17:35:09 +0000",,,Fruity Mish Mash,Schnitt Brewing Company﻿,IPA - New England / Hazy
+lauter,Eli Smikin,"Thu, 23 Oct 2025 17:33:49 +0000",draft,3.5,Rush Sour,Schnitt Brewing Company﻿,IPA - Sour
+lauter,Eli Smikin,"Thu, 23 Oct 2025 17:33:17 +0000",can,3.1,Kottbusser Class 2015,Docker Brewery,Historical Beer - Kottbusser
+lauter,Eli Smikin,"Thu, 23 Oct 2025 17:32:14 +0000",draft,4.2,Abricot Tilquin - Draft Version,Gueuzerie Tilquin,Lambic - Fruit
+lauter,Eli Smikin,"Thu, 23 Oct 2025 17:26:34 +0000",can,3.8,FEAT. Cztery Ściany: Gose Together,Funky Fluid,Sour - Fruited Gose
+lauter,Eli Smikin,"Thu, 23 Oct 2025 17:25:23 +0000",can,3.5,Demihydra | Blueberry Tangerine Mango,Mortalis Brewing Company,Sour - Fruited
+lauter,Ori Missistrano,"Thu, 23 Oct 2025 17:23:56 +0000",draft,3.75,"Shut Up And Drink Me! (שת""פ)",Schnitt Brewing Company﻿,Historical Beer - Lichtenhainer
+lauter,Yaron Sh,"Thu, 23 Oct 2025 17:20:50 +0000",draft,4.5,Bjorn's Beer,Attali's Family Brewery,IPA - American
+lauter,Vladimir Kanevsky,"Thu, 23 Oct 2025 17:15:55 +0000",draft,3.75,Benediktiner Hell,Benediktiner Weissbräu,Lager - Helles
+lauter,Yaron Sh,"Thu, 23 Oct 2025 17:09:49 +0000",draft,4.0,Abricot Tilquin - Draft Version,Gueuzerie Tilquin,Lambic - Fruit
+lauter,Eli Smikin,"Thu, 23 Oct 2025 17:06:46 +0000",can,3.5,Floor 35,Los Forajidos Brewing Co.,IPA - Imperial / Double New England / Hazy
+lauter,Ori Missistrano,"Thu, 23 Oct 2025 17:06:36 +0000",can,4.0,Sediments of Memory (Fresh Hop 2025),Fort George Brewery,IPA - New England / Hazy
+lauter,Eli Smikin,"Thu, 23 Oct 2025 17:05:48 +0000",can,4.5,Sediments of Memory (Fresh Hop 2025),Fort George Brewery,IPA - New England / Hazy
+lauter,Eli Smikin,"Thu, 23 Oct 2025 17:02:25 +0000",,4.5,Hydra | Kiwi + Strawberry + Banana,Mortalis Brewing Company,Sour - Smoothie / Pastry
+lauter,Miki Zaidel,"Thu, 23 Oct 2025 17:01:48 +0000",draft,4.25,Abricot Tilquin - Draft Version,Gueuzerie Tilquin,Lambic - Fruit
+lauter,Miki Zaidel,"Thu, 23 Oct 2025 17:00:59 +0000",draft,4.0,Anything Gose: Mango,Schnitt Brewing Company﻿,Sour - Fruited Gose
+lauter,Omri Gill,"Thu, 23 Oct 2025 17:00:23 +0000",draft,3.75,Benediktiner Hell,Benediktiner Weissbräu,Lager - Helles
+lauter,Miki Zaidel,"Thu, 23 Oct 2025 17:00:21 +0000",draft,4.0,Floris Cactus,Delirium - Huyghe Brewery,Wheat Beer - Fruited
+schnitt-brewing-company,Miki Zaidel,"Thu, 23 Oct 2025 16:59:24 +0000",draft,4.0,Fruity Mish Mash,Schnitt Brewing Company﻿,IPA - New England / Hazy
+schnitt-brewing-company,Miki Zaidel,"Thu, 23 Oct 2025 16:58:29 +0000",draft,4.25,עכשיו מעונן,Schnitt Brewing Company﻿,IPA - New England / Hazy
+lauter,Ido Cohen,"Thu, 23 Oct 2025 16:51:24 +0000",can,4.2,Hydra | Kiwi + Strawberry + Banana,Mortalis Brewing Company,Sour - Smoothie / Pastry
+lauter,Ori Missistrano,"Thu, 23 Oct 2025 16:48:46 +0000",can,4.0,Floor 35,Los Forajidos Brewing Co.,IPA - Imperial / Double New England / Hazy
+lauter,Ido Cohen,"Thu, 23 Oct 2025 16:48:20 +0000",can,3.9,Floor 35,Los Forajidos Brewing Co.,IPA - Imperial / Double New England / Hazy
+lauter,Ori Missistrano,"Thu, 23 Oct 2025 16:44:24 +0000",can,4.75,Demihydra | Blueberry Tangerine Mango,Mortalis Brewing Company,Sour - Fruited
+lauter,Omri Wolf,"Thu, 23 Oct 2025 16:43:34 +0000",draft,4.25,Abricot Tilquin - Draft Version,Gueuzerie Tilquin,Lambic - Fruit
+lauter,Ido Cohen,"Thu, 23 Oct 2025 16:42:17 +0000",can,3.8,Demihydra | Blueberry Tangerine Mango,Mortalis Brewing Company,Sour - Fruited
+lauter,Ori Missistrano,"Thu, 23 Oct 2025 16:38:42 +0000",can,4.0,FEAT. Cztery Ściany: Gose Together,Funky Fluid,Sour - Fruited Gose
+lauter,Ido Cohen,"Thu, 23 Oct 2025 16:37:32 +0000",can,4.2,FEAT. Cztery Ściany: Gose Together,Funky Fluid,Sour - Fruited Gose
+lauter,Eli Smikin,"Thu, 23 Oct 2025 16:36:38 +0000",can,3.7,Double Kiss of Cherry,Docker Brewery,Sour - Fruited
+lauter,Ori Missistrano,"Thu, 23 Oct 2025 16:35:48 +0000",,4.75,"Wonders - Banana, Mango & Coconut Milk",Magic Road,Sour - Smoothie / Pastry
+lauter,Ori Missistrano,"Thu, 23 Oct 2025 16:34:33 +0000",,4.75,Post-Modern Times - Hawaiian Juice,Cervejaria Escafandrista,Sour - Smoothie / Pastry
+lauter,Ori Missistrano,"Thu, 23 Oct 2025 16:33:52 +0000",can,3.75,Kottbusser Class 2015,Docker Brewery,Historical Beer - Kottbusser
+lauter,Eli Smikin,"Thu, 23 Oct 2025 16:32:34 +0000",can,4.2,"Wonders - Banana, Mango & Coconut Milk",Magic Road,Sour - Smoothie / Pastry
+lauter,Ori Missistrano,"Thu, 23 Oct 2025 16:32:16 +0000",can,,Double Kiss of Cherry,Docker Brewery,Sour - Fruited
+lauter,Ori Missistrano,"Thu, 23 Oct 2025 16:30:58 +0000",draft,4.5,Abricot Tilquin - Draft Version,Gueuzerie Tilquin,Lambic - Fruit
+lauter,Ido Cohen,"Thu, 23 Oct 2025 16:28:20 +0000",can,4.6,"Wonders - Banana, Mango & Coconut Milk",Magic Road,Sour - Smoothie / Pastry
+lauter,Ido Cohen,"Thu, 23 Oct 2025 16:23:45 +0000",can,3.9,Post-Modern Times - Hawaiian Juice,Cervejaria Escafandrista,Sour - Smoothie / Pastry
+lauter,Ido Cohen,"Thu, 23 Oct 2025 16:18:31 +0000",draft,4.0,Abricot Tilquin - Draft Version,Gueuzerie Tilquin,Lambic - Fruit
+lauter,Ido Cohen,"Thu, 23 Oct 2025 16:17:04 +0000",can,3.6,Double Kiss of Cherry,Docker Brewery,Sour - Fruited
+lauter,Eli Smikin,"Thu, 23 Oct 2025 16:09:45 +0000",draft,3.4,"Same Schnitt, Different Hop: Amarillo",Schnitt Brewing Company﻿,Pale Ale - Other
+lauter,Eli Smikin,"Thu, 23 Oct 2025 16:08:31 +0000",draft,3.4,Tea Party: Green Tea And Jasmine,Schnitt Brewing Company﻿,Pale Ale - Other
+lauter,Ido Cohen,"Thu, 23 Oct 2025 16:07:29 +0000",can,3.6,Kottbusser Class 2015,Docker Brewery,Historical Beer - Kottbusser
+lauter,Eli Smikin,"Thu, 23 Oct 2025 16:00:37 +0000",,3.5,Porter&Sons: Marshmallow,Schnitt Brewing Company﻿,Porter - Other
+schnitt-brewing-company,Alex Shtouff,"Thu, 23 Oct 2025 15:57:34 +0000",draft,3.75,Sim Sima,Schnitt Brewing Company﻿,IPA - Imperial / Double
+lauter,David Rademakers,"Thu, 23 Oct 2025 15:53:10 +0000",draft,3.75,Anything Gose: Mango,Schnitt Brewing Company﻿,Sour - Fruited Gose
+lauter,Eli Smikin,"Thu, 23 Oct 2025 15:52:22 +0000",,3.5,Bjorn's Beer,Attali's Family Brewery,IPA - American
+lauter,Eli Smikin,"Thu, 23 Oct 2025 15:44:27 +0000",,2.8,Floris Cactus,Delirium - Huyghe Brewery,Wheat Beer - Fruited
+lauter,Ido Meir,"Thu, 23 Oct 2025 15:24:37 +0000",can,4.5,Lemon X Coconut X Pineapple X Cherry Smoothie Sour Ale,Ārpus Brewing Co.,Sour - Smoothie / Pastry
+lauter,Eli Smikin,"Thu, 23 Oct 2025 15:19:23 +0000",draft,3.5,Fruity Mish Mash,Schnitt Brewing Company﻿,IPA - New England / Hazy
+lauter,Eli Smikin,"Thu, 23 Oct 2025 15:06:10 +0000",draft,3.1,About To Stout,Schnitt Brewing Company﻿,Stout - Oatmeal
+lauter,Eli Smikin,"Thu, 23 Oct 2025 14:59:56 +0000",draft,3.5,Sim Sima,Schnitt Brewing Company﻿,IPA - Imperial / Double
+schnitt-brewing-company,Ido Cohen,"Thu, 23 Oct 2025 14:24:15 +0000",,3.6,Sim Sima,Schnitt Brewing Company﻿,IPA - Imperial / Double
+schnitt-brewing-company,Ido Cohen,"Thu, 23 Oct 2025 14:23:15 +0000",,,About To Stout,Schnitt Brewing Company﻿,Stout - Oatmeal
+schnitt-brewing-company,Ido Cohen,"Thu, 23 Oct 2025 14:22:10 +0000",,3.4,Fruity Mish Mash,Schnitt Brewing Company﻿,IPA - New England / Hazy
+schnitt-brewing-company,Ido Cohen,"Thu, 23 Oct 2025 14:20:17 +0000",,3.6,Rush Sour,Schnitt Brewing Company﻿,IPA - Sour
+schnitt-brewing-company,Ido Cohen,"Thu, 23 Oct 2025 14:12:14 +0000",,3.6,Kardemumma,Schnitt Brewing Company﻿,Pale Ale - Other
+schnitt-brewing-company,Tomer Talmy,"Thu, 23 Oct 2025 13:29:59 +0000",draft,4.25,OrangeDana,Schnitt Brewing Company﻿,IPA - New England / Hazy
 schnitt-brewing-company,Itay shalom Kaplan,"Wed, 22 Oct 2025 21:20:16 +0000",draft,3.5,Chucky,Schnitt Brewing Company﻿,Pale Ale - American
 schnitt-brewing-company,Rom Tagar,"Wed, 22 Oct 2025 19:43:23 +0000",draft,4.5,עכשיו מעונן,Schnitt Brewing Company﻿,IPA - New England / Hazy
 schnitt-brewing-company,Itay shalom Kaplan,"Wed, 22 Oct 2025 19:41:24 +0000",draft,3.25,Sim Sima,Schnitt Brewing Company﻿,IPA - Imperial / Double
@@ -2386,8 +2520,8 @@ lauter,Adam Berelowitz,"Mon, 01 Sep 2025 17:50:20 +0000",can,4.0,Confuzzled '202
 lauter,Oren Sleepwalker,"Mon, 01 Sep 2025 17:46:17 +0000",,,Hops Don’t Lie,Thurø Bryghus,IPA - New England / Hazy
 lauter,Mikhail Stolov,"Mon, 01 Sep 2025 17:45:42 +0000",bottle,2.5,Hops Don’t Lie,Thurø Bryghus,IPA - New England / Hazy
 lauter,Yosef Dahan,"Mon, 01 Sep 2025 17:45:00 +0000",bottle,3.5,Hops Don’t Lie,Thurø Bryghus,IPA - New England / Hazy
-lauter,Yaron Sh,"Mon, 01 Sep 2025 17:44:35 +0000",,4.0,Hops Don’t Lie,Thurø Bryghus,IPA - New England / Hazy
 lauter,Adam Berelowitz,"Mon, 01 Sep 2025 17:44:35 +0000",bottle,4.0,Hops Don’t Lie,Thurø Bryghus,IPA - New England / Hazy
+lauter,Yaron Sh,"Mon, 01 Sep 2025 17:44:35 +0000",,4.0,Hops Don’t Lie,Thurø Bryghus,IPA - New England / Hazy
 lauter,Kobi,"Mon, 01 Sep 2025 17:44:03 +0000",,4.0,Hops Don’t Lie,Thurø Bryghus,IPA - New England / Hazy
 lauter,Yaron Sh,"Mon, 01 Sep 2025 17:42:20 +0000",,4.5,Super Trigo,Bierwerk Züri,IPA - White / Wheat
 lauter,Oren Sleepwalker,"Mon, 01 Sep 2025 17:40:34 +0000",,,Super Trigo,Bierwerk Züri,IPA - White / Wheat
@@ -3701,8 +3835,8 @@ lauter,Yaron Sh,"Tue, 05 Aug 2025 19:29:11 +0000",,4.0,SLUSHY XL: Haha!,450 Nort
 lauter,Kobi,"Tue, 05 Aug 2025 19:29:05 +0000",,4.3,Hydralisk,Spanish Marie Brewery,Sour - Smoothie / Pastry
 lauter,Yosef Dahan,"Tue, 05 Aug 2025 19:28:30 +0000",can,3.75,SLUSHY XL: Haha!,450 North Brewing Company,Sour - Smoothie / Pastry
 lauter,Shaul A,"Tue, 05 Aug 2025 19:26:45 +0000",,4.25,SLUSHY XL: Haha!,450 North Brewing Company,Sour - Smoothie / Pastry
-lauter,Mikhail Stolov,"Tue, 05 Aug 2025 19:24:07 +0000",can,4.5,SLUSHY XL: Haha!,450 North Brewing Company,Sour - Smoothie / Pastry
 lauter,Oren Sleepwalker,"Tue, 05 Aug 2025 19:24:07 +0000",,,SLUSHY XL: Haha!,450 North Brewing Company,Sour - Smoothie / Pastry
+lauter,Mikhail Stolov,"Tue, 05 Aug 2025 19:24:07 +0000",can,4.5,SLUSHY XL: Haha!,450 North Brewing Company,Sour - Smoothie / Pastry
 lauter,Kobi,"Tue, 05 Aug 2025 19:21:59 +0000",,4.3,SLUSHY XL: Haha!,450 North Brewing Company,Sour - Smoothie / Pastry
 lauter,Shaul A,"Tue, 05 Aug 2025 19:16:22 +0000",,4.25,Monstrous Oils,Cellarmaker Brewing Company,IPA - Quadruple
 lauter,Yaron Sh,"Tue, 05 Aug 2025 19:15:56 +0000",,4.25,Monstrous Oils,Cellarmaker Brewing Company,IPA - Quadruple
