@@ -1,8 +1,638 @@
 // 🍺 BEER STATS DATA - Generated automatically
-// Last updated: 2025-10-24 06:38:03
-// Total records: 6868
+// Last updated: 2025-10-25 06:34:57
+// Total records: 6938
 
 const BEER_DATA = [
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-10-25T05:57:17+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Cashmero קשמירו",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-10-25T05:54:00+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Sim Sima",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - Imperial / Double"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-24T20:27:39+00:00",
+    "serving": "draft",
+    "rating": 3.8,
+    "beer_name": "Stiegl-Radler Grapefruit",
+    "brewery": "Stieglbrauerei zu Salzburg",
+    "beer_type": "Shandy / Radler"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-24T20:15:25+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Porter&Sons: Marshmallow",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Porter - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-24T19:56:41+00:00",
+    "serving": "draft",
+    "rating": 3.6,
+    "beer_name": "Malabiscus sour",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Sour - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-24T19:52:42+00:00",
+    "serving": "draft",
+    "rating": 3.8,
+    "beer_name": "Bjorn's Beer",
+    "brewery": "Attali's Family Brewery",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-24T19:44:11+00:00",
+    "serving": "draft",
+    "rating": 3.7,
+    "beer_name": "הייזי שמייזי",
+    "brewery": "Herzl (הרצל)",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-24T19:30:49+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Tea Party: Green Tea And Jasmine",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pale Ale - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-24T19:24:42+00:00",
+    "serving": "draft",
+    "rating": 3.3,
+    "beer_name": "Fruity Mish Mash",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-24T19:23:09+00:00",
+    "serving": "can",
+    "rating": 3.0,
+    "beer_name": "About To Stout",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Stout - Oatmeal"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-24T19:06:29+00:00",
+    "serving": "draft",
+    "rating": 4.2,
+    "beer_name": "Abricot Tilquin - Draft Version",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-10-24T18:46:18+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Rush Sour",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - Sour"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-24T18:43:39+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Bjorn's Beer",
+    "brewery": "Attali's Family Brewery",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-24T18:41:37+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Fruity Mish Mash",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-10-24T18:38:17+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "עכשיו מעונן",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-24T18:22:58+00:00",
+    "serving": "draft",
+    "rating": 4.2,
+    "beer_name": "Abricot Tilquin - Draft Version",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-10-24T16:33:48+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Sim Sima",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - Imperial / Double"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-10-24T16:17:20+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Anything Gose",
+    "brewery": "Mohawk Brewing Company",
+    "beer_type": "Sour - Traditional Gose"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-24T15:53:49+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Rush Sour",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - Sour"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-24T15:16:01+00:00",
+    "serving": "draft",
+    "rating": 3.3,
+    "beer_name": "Tea Party: Green Tea And Jasmine",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pale Ale - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-24T15:10:30+00:00",
+    "serving": "draft",
+    "rating": 4.2,
+    "beer_name": "Shut Up And Drink Me! (שת\"פ)",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Historical Beer - Lichtenhainer"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-24T15:08:37+00:00",
+    "serving": "Unknown",
+    "rating": 5.0,
+    "beer_name": "Bjorn's Beer",
+    "brewery": "Attali's Family Brewery",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-24T14:53:10+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Whatever Floats Your Boat",
+    "brewery": "Amundsen Brewery",
+    "beer_type": "Stout - Imperial / Double Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-24T14:51:44+00:00",
+    "serving": "can",
+    "rating": 3.8,
+    "beer_name": "Letters With A Pen",
+    "brewery": "Rivington Brewing Co",
+    "beer_type": "Stout - Imperial / Double Pastry"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-10-24T14:50:14+00:00",
+    "serving": "draft",
+    "rating": 4.2,
+    "beer_name": "Rush Sour",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - Sour"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-24T14:48:09+00:00",
+    "serving": "can",
+    "rating": 4.8,
+    "beer_name": "Persistence Is Utile #VII",
+    "brewery": "Cloudwater Brew Co.",
+    "beer_type": "Stout - Imperial / Double Coffee"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-24T14:37:03+00:00",
+    "serving": "draft",
+    "rating": 4.5,
+    "beer_name": "Abricot Tilquin - Draft Version",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-24T14:34:47+00:00",
+    "serving": "draft",
+    "rating": 2.0,
+    "beer_name": "Floris Cactus",
+    "brewery": "Delirium - Huyghe Brewery",
+    "beer_type": "Wheat Beer - Fruited"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-10-24T14:33:08+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Cashmero קשמירו",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-10-24T14:31:24+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Fruity Mish Mash",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-24T14:30:21+00:00",
+    "serving": "can",
+    "rating": 4.75,
+    "beer_name": "Persistence Is Utile #VII",
+    "brewery": "Cloudwater Brew Co.",
+    "beer_type": "Stout - Imperial / Double Coffee"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-24T14:27:35+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "Abricot Tilquin - Draft Version",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-10-24T14:21:24+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Cashmero קשמירו",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-10-24T14:20:35+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "OrangeDana",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-24T14:20:12+00:00",
+    "serving": "bottle",
+    "rating": 4.3,
+    "beer_name": "Hardscale",
+    "brewery": "Páihálâš Brewery",
+    "beer_type": "Wild Ale - Other"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-10-24T14:19:03+00:00",
+    "serving": "draft",
+    "rating": 4.5,
+    "beer_name": "Kardemumma",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pale Ale - Other"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-10-24T14:17:49+00:00",
+    "serving": "draft",
+    "rating": 3.0,
+    "beer_name": "Rush Sour",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - Sour"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-24T14:16:33+00:00",
+    "serving": "Unknown",
+    "rating": 4.5,
+    "beer_name": "Abricot Tilquin - Draft Version",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-10-24T14:13:09+00:00",
+    "serving": "draft",
+    "rating": 3.25,
+    "beer_name": "Cashmero קשמירו",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-10-24T14:00:21+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "תוצרת הארץ",
+    "brewery": "New Pioneer Brewing Co - חלוץ חדש",
+    "beer_type": "Pale Ale - American"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-10-24T13:59:42+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "מייד אין יזרעאל 2025",
+    "brewery": "New Pioneer Brewing Co - חלוץ חדש",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-10-24T13:58:30+00:00",
+    "serving": "draft",
+    "rating": 3.0,
+    "beer_name": "אוקטוברפסט 2025",
+    "brewery": "Srigim (שריגים)",
+    "beer_type": "Festbier"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-24T13:56:21+00:00",
+    "serving": "draft",
+    "rating": 5.0,
+    "beer_name": "Abricot Tilquin - Draft Version",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-10-24T13:55:47+00:00",
+    "serving": "Unknown",
+    "rating": 4.25,
+    "beer_name": "Abricot Tilquin - Draft Version",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-24T13:54:30+00:00",
+    "serving": "draft",
+    "rating": 4.3,
+    "beer_name": "Abricot Tilquin - Draft Version",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-24T13:52:40+00:00",
+    "serving": "draft",
+    "rating": 4.5,
+    "beer_name": "Abricot Tilquin - Draft Version",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-10-24T13:52:28+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Sim Sima",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - Imperial / Double"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-10-24T13:46:18+00:00",
+    "serving": "draft",
+    "rating": 3.25,
+    "beer_name": "Kardemumma",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pale Ale - Other"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-10-24T13:44:28+00:00",
+    "serving": "draft",
+    "rating": 3.25,
+    "beer_name": "Fruity Mish Mash",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-24T13:43:20+00:00",
+    "serving": "draft",
+    "rating": null,
+    "beer_name": "Floris Cactus",
+    "brewery": "Delirium - Huyghe Brewery",
+    "beer_type": "Wheat Beer - Fruited"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-24T13:38:29+00:00",
+    "serving": "draft",
+    "rating": 4.5,
+    "beer_name": "Abricot Tilquin - Draft Version",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-10-24T13:27:54+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "About To Stout",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Stout - Oatmeal"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-10-24T13:26:28+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Cashmero קשמירו",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-24T13:25:29+00:00",
+    "serving": "bottle",
+    "rating": 4.0,
+    "beer_name": "Floris Cactus",
+    "brewery": "Delirium - Huyghe Brewery",
+    "beer_type": "Wheat Beer - Fruited"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-10-24T13:20:51+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "Rush Sour",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - Sour"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-10-24T13:13:05+00:00",
+    "serving": "draft",
+    "rating": 4.5,
+    "beer_name": "Cashmero קשמירו",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-24T13:10:11+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "Abricot Tilquin - Draft Version",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-24T13:09:20+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "IN THE  SMALL",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Table Beer"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-24T12:36:30+00:00",
+    "serving": "draft",
+    "rating": 4.5,
+    "beer_name": "Abricot Tilquin - Draft Version",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-24T12:33:02+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "IN THE  SMALL",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Table Beer"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-24T11:21:35+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Floris Cactus",
+    "brewery": "Delirium - Huyghe Brewery",
+    "beer_type": "Wheat Beer - Fruited"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-24T11:13:29+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "Abricot Tilquin - Draft Version",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-10-24T10:24:40+00:00",
+    "serving": "draft",
+    "rating": 3.25,
+    "beer_name": "Paleraiser",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pale Ale - American"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-10-24T10:23:26+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Suktoberfest (סוכטוברפסט)",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Festbier"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-10-24T10:21:16+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "About To Stout",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Stout - Oatmeal"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-10-24T10:19:36+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Rush Sour",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - Sour"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-10-24T09:52:07+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Fruity Mish Mash",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-10-24T09:50:49+00:00",
+    "serving": "Unknown",
+    "rating": 3.25,
+    "beer_name": "Kardemumma",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pale Ale - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-24T09:40:46+00:00",
+    "serving": "draft",
+    "rating": 2.25,
+    "beer_name": "Bitburger 0,0% alkoholfreies Pils",
+    "brewery": "Bitburger Brauerei",
+    "beer_type": "Non-Alcoholic - Lager"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-24T09:37:56+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Abricot Tilquin - Draft Version",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": "Lambic - Fruit"
+  },
   {
     "venue": "lauter",
     "time": "2025-10-23T23:00:00+00:00",
@@ -52360,8 +52990,8 @@ const BEER_DATA = [
     "venue": "berlin-florentin",
     "time": "2024-12-23T18:37:49+00:00",
     "serving": "bottle",
-    "rating": 3.0,
-    "beer_name": "Christmas Ale",
+    "rating": 4.1,
+    "beer_name": "Christmas Ale (2023)",
     "brewery": "Brouwerij St.Bernardus",
     "beer_type": "Winter Ale"
   },
@@ -52369,8 +52999,8 @@ const BEER_DATA = [
     "venue": "berlin-florentin",
     "time": "2024-12-23T18:37:49+00:00",
     "serving": "bottle",
-    "rating": 4.1,
-    "beer_name": "Christmas Ale (2023)",
+    "rating": 3.0,
+    "beer_name": "Christmas Ale",
     "brewery": "Brouwerij St.Bernardus",
     "beer_type": "Winter Ale"
   },
