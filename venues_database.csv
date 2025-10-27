@@ -1,4 +1,230 @@
 venue,user,time,serving,data_rating,beer_name,brewery,beer_type
+lauter,Vladimir Kanevsky,"Sun, 26 Oct 2025 20:50:50 +0000",draft,4.0,Abricot Tilquin - Draft Version,Gueuzerie Tilquin,Lambic - Fruit
+lauter,Tal,"Sun, 26 Oct 2025 20:20:53 +0000",can,3.75,Barrel Aged Project: Ice Imperial Stout Rum BA - Banana Split,Maryensztadt,Freeze-Distilled Beer
+lauter,Shaul A,"Sun, 26 Oct 2025 20:18:02 +0000",can,4.5,Barrel Aged Project: Ice Imperial Stout Rum BA - Banana Split,Maryensztadt,Freeze-Distilled Beer
+lauter,adi_zadik_2741,"Sun, 26 Oct 2025 20:17:30 +0000",can,3.25,Barrel Aged Project: Ice Imperial Stout Rum BA - Banana Split,Maryensztadt,Freeze-Distilled Beer
+lauter,Lee Ker,"Sun, 26 Oct 2025 20:17:21 +0000",can,,Barrel Aged Project: Ice Imperial Stout Rum BA - Banana Split,Maryensztadt,Freeze-Distilled Beer
+lauter,roey_lerman_9282,"Sun, 26 Oct 2025 20:16:44 +0000",can,3.5,Barrel Aged Project: Ice Imperial Stout Rum BA - Banana Split,Maryensztadt,Freeze-Distilled Beer
+lauter,Shmupi Koto,"Sun, 26 Oct 2025 20:12:41 +0000",can,3.9,Aged & Blend: Barley Wine + Imperial Stout + Dry Fruits,Maryensztadt,Strong Ale - Other
+lauter,Shaul A,"Sun, 26 Oct 2025 20:12:02 +0000",can,3.5,Wild & Funky Everyday - Ice Distilled Brett Ale White Wine BA,Maryensztadt,Freeze-Distilled Beer
+lauter,Nirit Agiv,"Sun, 26 Oct 2025 20:11:09 +0000",can,4.0,Project Barrel Aged Coconut ICE RIS Rum Barrel Aged,Maryensztadt,Freeze-Distilled Beer
+lauter,Yana O,"Sun, 26 Oct 2025 20:10:57 +0000",can,4.2,Gwiazda Północy,Maryensztadt,Porter - Smoked
+lauter,Yana O,"Sun, 26 Oct 2025 20:04:50 +0000",can,4.1,Darkness My Friends Imperial Baltic Porter Coffee & Date Syrup,Maryensztadt,Porter - Baltic
+lauter,Nativ Kapach,"Sun, 26 Oct 2025 20:03:00 +0000",,3.5,Spontaan Gaard - Kersen 2024,Lubrow Brett & Barrel,Lambic - Kriek
+lauter,Shaul A,"Sun, 26 Oct 2025 20:00:09 +0000",bottle,3.5,Spontaan Gaard - Kersen 2024,Lubrow Brett & Barrel,Lambic - Kriek
+lauter,Shayduk,"Sun, 26 Oct 2025 19:59:20 +0000",bottle,3.0,Spontaan Gaard - Kersen 2024,Lubrow Brett & Barrel,Lambic - Kriek
+lauter,ori_e,"Sun, 26 Oct 2025 19:59:15 +0000",bottle,,Spontaan Gaard - Kersen 2024,Lubrow Brett & Barrel,Lambic - Kriek
+lauter,Lee Ker,"Sun, 26 Oct 2025 19:57:15 +0000",,,Spontaan Gaard - Kersen 2024,Lubrow Brett & Barrel,Lambic - Kriek
+lauter,Yaron Sh,"Sun, 26 Oct 2025 19:57:05 +0000",bottle,4.5,Spontaan Gaard - Kersen,Lubrow Brett & Barrel,Lambic - Fruit
+lauter,Shayduk,"Sun, 26 Oct 2025 19:56:59 +0000",can,3.25,Wild & Funky Everyday - Brett American Farmhouse Rioja Barrel Aged,Maryensztadt,Wild Ale - American
+lauter,adi_zadik_2741,"Sun, 26 Oct 2025 19:56:46 +0000",bottle,4.25,Spontaan Gaard - Kersen 2024,Lubrow Brett & Barrel,Lambic - Kriek
+lauter,Nativ Kapach,"Sun, 26 Oct 2025 19:56:19 +0000",can,5.0,Wild & Funky Orange Brett Ale Rioja Barrel Aged,Maryensztadt,Brett Beer
+lauter,Tal,"Sun, 26 Oct 2025 19:55:40 +0000",bottle,4.5,Spontaan Gaard - Kersen 2024,Lubrow Brett & Barrel,Lambic - Kriek
+lauter,roey_lerman_9282,"Sun, 26 Oct 2025 19:54:57 +0000",bottle,4.0,Spontaan Gaard - Kersen 2024,Lubrow Brett & Barrel,Lambic - Kriek
+lauter,Shaul A,"Sun, 26 Oct 2025 19:52:43 +0000",can,3.75,Wild & Funky Orange Brett Ale Rioja Barrel Aged,Maryensztadt,Brett Beer
+lauter,Lee Ker,"Sun, 26 Oct 2025 19:51:32 +0000",can,,Wild & Funky Orange Brett Ale Rioja Barrel Aged,Maryensztadt,Brett Beer
+lauter,adi_zadik_2741,"Sun, 26 Oct 2025 19:51:16 +0000",can,3.5,Wild & Funky Orange Brett Ale Rioja Barrel Aged,Maryensztadt,Brett Beer
+lauter,Tal,"Sun, 26 Oct 2025 19:50:18 +0000",can,3.5,Wild & Funky Orange Brett Ale Rioja Barrel Aged,Maryensztadt,Brett Beer
+lauter,roey_lerman_9282,"Sun, 26 Oct 2025 19:49:21 +0000",can,3.75,Wild & Funky Orange Brett Ale Rioja Barrel Aged,Maryensztadt,Brett Beer
+lauter,Yaron Sh,"Sun, 26 Oct 2025 19:49:12 +0000",,4.25,Wild & Funky Orange Brett Ale Rioja Barrel Aged,Maryensztadt,Brett Beer
+lauter,ori_e,"Sun, 26 Oct 2025 19:48:34 +0000",can,4.0,Wild & Funky Orange Brett Ale Rioja Barrel Aged,Maryensztadt,Brett Beer
+lauter,Yaron Sh,"Sun, 26 Oct 2025 19:47:42 +0000",,4.0,Aged & Blend - Ice Brett Ale + Ice Brett Baltic Porter,Maryensztadt,Freeze-Distilled Beer
+lauter,Yaron Sh,"Sun, 26 Oct 2025 19:46:56 +0000",,4.0,AGED & BLEND - FRUIT WILD ALE,Maryensztadt,Wild Ale - Other
+lauter,Yaron Sh,"Sun, 26 Oct 2025 19:46:23 +0000",can,4.0,"Barrel Aged Project: Ice Coffee & Coconut RIS Bourbon BA Pistachio, Marzipan & Vanilla",Maryensztadt,Freeze-Distilled Beer
+lauter,Shaul A,"Sun, 26 Oct 2025 19:44:56 +0000",can,3.5,Aged & Blend: Barley Wine + Imperial Stout + Dry Fruits,Maryensztadt,Strong Ale - Other
+lauter,Nativ Kapach,"Sun, 26 Oct 2025 19:44:52 +0000",can,4.75,Aged & Blend: Barley Wine + Imperial Stout + Dry Fruits,Maryensztadt,Strong Ale - Other
+lauter,Yaron Sh,"Sun, 26 Oct 2025 19:43:34 +0000",,4.25,Barrel Aged Project - Coffee & Coconut ICE RIS Bourbon BA - Dates & Milk Chocolate - Stan Umysłu,Maryensztadt,Freeze-Distilled Beer
+lauter,roey_lerman_9282,"Sun, 26 Oct 2025 19:43:32 +0000",can,4.75,Aged & Blend: Barley Wine + Imperial Stout + Dry Fruits,Maryensztadt,Strong Ale - Other
+lauter,adi_zadik_2741,"Sun, 26 Oct 2025 19:43:25 +0000",can,4.25,Aged & Blend: Barley Wine + Imperial Stout + Dry Fruits,Maryensztadt,Strong Ale - Other
+lauter,Yaron Sh,"Sun, 26 Oct 2025 19:42:57 +0000",,3.75,JOYRIDE Aronia Sour Ale Rioja Barrel Aged,Maryensztadt,Sour - Fruited
+beerz,דניאל אור,"Sun, 26 Oct 2025 19:42:52 +0000",draft,2.0,Hobgoblin Legendary Ruby Beer,Marston's Brewery,Brown Ale - English
+lauter,Yaron Sh,"Sun, 26 Oct 2025 19:42:28 +0000",,3.75,Aged & Blend: Barley Wine + Imperial Stout + Dry Fruits,Maryensztadt,Strong Ale - Other
+lauter,Lee Ker,"Sun, 26 Oct 2025 19:41:50 +0000",can,,Aged & Blend: Barley Wine + Imperial Stout + Dry Fruits,Maryensztadt,Strong Ale - Other
+beerz,Tamir Mitnitski,"Sun, 26 Oct 2025 19:41:44 +0000",draft,3.0,Budweiser,Anheuser-Busch,Lager - American
+beerz,דניאל אור,"Sun, 26 Oct 2025 19:41:22 +0000",draft,2.75,Budweiser Budvar / Czechvar Original,Budějovický Budvar,Pilsner - Czech / Bohemian
+lauter,Shayduk,"Sun, 26 Oct 2025 19:41:13 +0000",can,2.5,JOYRIDE Aronia Sour Ale Rioja Barrel Aged,Maryensztadt,Sour - Fruited
+beerz,Tamir Mitnitski,"Sun, 26 Oct 2025 19:40:49 +0000",bottle,3.25,Hobgoblin Legendary Ruby (2025),Marston's Brewery,Red Ale - Other
+lauter,Shaul A,"Sun, 26 Oct 2025 19:40:48 +0000",can,3.75,Barrel Aged Project - Coffee & Coconut ICE RIS Bourbon BA - Dates & Milk Chocolate - Stan Umysłu,Maryensztadt,Freeze-Distilled Beer
+beerz,דניאל אור,"Sun, 26 Oct 2025 19:39:37 +0000",bottle,4.0,3 Fonteinen Oude Kriek (season 21|22) Blend No. 29,Brouwerij 3 Fonteinen,Lambic - Kriek
+lauter,ori_e,"Sun, 26 Oct 2025 19:39:32 +0000",can,,Aged & Blend: Barley Wine + Imperial Stout + Dry Fruits,Maryensztadt,Strong Ale - Other
+lauter,Nativ Kapach,"Sun, 26 Oct 2025 19:39:27 +0000",can,4.5,Barrel Aged Project - Coffee & Coconut ICE RIS Bourbon BA - Dates & Milk Chocolate - Stan Umysłu,Maryensztadt,Freeze-Distilled Beer
+lauter,adi_zadik_2741,"Sun, 26 Oct 2025 19:38:25 +0000",can,3.25,Barrel Aged Project - Coffee & Coconut ICE RIS Bourbon BA - Dates & Milk Chocolate - Stan Umysłu,Maryensztadt,Freeze-Distilled Beer
+lauter,Tal,"Sun, 26 Oct 2025 19:38:10 +0000",can,4.0,Barrel Aged Project - Coffee & Coconut ICE RIS Bourbon BA - Dates & Milk Chocolate - Stan Umysłu,Maryensztadt,Freeze-Distilled Beer
+lauter,Nativ Kapach,"Sun, 26 Oct 2025 19:37:43 +0000",can,3.25,"Barrel Aged Project: Ice Coffee & Coconut RIS Bourbon BA Pistachio, Marzipan & Vanilla",Maryensztadt,Freeze-Distilled Beer
+lauter,roey_lerman_9282,"Sun, 26 Oct 2025 19:37:07 +0000",can,2.75,Barrel Aged Project - Coffee & Coconut ICE RIS Bourbon BA - Dates & Milk Chocolate - Stan Umysłu,Maryensztadt,Freeze-Distilled Beer
+lauter,Shmupi Koto,"Sun, 26 Oct 2025 19:36:14 +0000",can,4.0,Project Barrel Aged Coconut ICE RIS Rum Barrel Aged,Maryensztadt,Freeze-Distilled Beer
+lauter,ori_e,"Sun, 26 Oct 2025 19:35:50 +0000",can,,Barrel Aged Project - Coffee & Coconut ICE RIS Bourbon BA - Dates & Milk Chocolate - Stan Umysłu,Maryensztadt,Freeze-Distilled Beer
+lauter,Lee Ker,"Sun, 26 Oct 2025 19:35:33 +0000",can,,Barrel Aged Project - Coffee & Coconut ICE RIS Bourbon BA - Dates & Milk Chocolate - Stan Umysłu,Maryensztadt,Freeze-Distilled Beer
+lauter,Yana O,"Sun, 26 Oct 2025 19:34:13 +0000",draft,,Abricot Tilquin - Draft Version,Gueuzerie Tilquin,Lambic - Fruit
+lauter,Shaul A,"Sun, 26 Oct 2025 19:29:56 +0000",can,4.0,"Barrel Aged Project: Ice Coffee & Coconut RIS Bourbon BA Pistachio, Marzipan & Vanilla",Maryensztadt,Freeze-Distilled Beer
+lauter,Yana O,"Sun, 26 Oct 2025 19:29:04 +0000",draft,3.8,Sim Sima,Schnitt Brewing Company﻿,IPA - Imperial / Double
+lauter,Shayduk,"Sun, 26 Oct 2025 19:28:54 +0000",can,0.5,Wunderbar 13,Maryensztadt,Pilsner - German
+lauter,roey_lerman_9282,"Sun, 26 Oct 2025 19:27:51 +0000",can,1.0,"Barrel Aged Project: Ice Coffee & Coconut RIS Bourbon BA Pistachio, Marzipan & Vanilla",Maryensztadt,Freeze-Distilled Beer
+lauter,adi_zadik_2741,"Sun, 26 Oct 2025 19:27:17 +0000",can,3.0,"Barrel Aged Project: Ice Coffee & Coconut RIS Bourbon BA Pistachio, Marzipan & Vanilla",Maryensztadt,Freeze-Distilled Beer
+lauter,Shayduk,"Sun, 26 Oct 2025 19:27:08 +0000",can,1.5,AGED & BLEND - FRUIT WILD ALE,Maryensztadt,Wild Ale - Other
+lauter,Lee Ker,"Sun, 26 Oct 2025 19:26:36 +0000",can,,"Barrel Aged Project: Ice Coffee & Coconut RIS Bourbon BA Pistachio, Marzipan & Vanilla",Maryensztadt,Freeze-Distilled Beer
+lauter,Tal,"Sun, 26 Oct 2025 19:25:59 +0000",can,3.25,"Barrel Aged Project: Ice Coffee & Coconut RIS Bourbon BA Pistachio, Marzipan & Vanilla",Maryensztadt,Freeze-Distilled Beer
+lauter,ori_e,"Sun, 26 Oct 2025 19:25:32 +0000",,,"Barrel Aged Project: Ice Coffee & Coconut RIS Bourbon BA Pistachio, Marzipan & Vanilla",Maryensztadt,Freeze-Distilled Beer
+lauter,Shaul A,"Sun, 26 Oct 2025 19:24:36 +0000",can,3.25,Aged & Blend - Ice Brett Ale + Ice Brett Baltic Porter,Maryensztadt,Freeze-Distilled Beer
+lauter,Yaron Sh,"Sun, 26 Oct 2025 19:22:28 +0000",,4.5,Projekt 30 #1,Maryensztadt,Porter - Imperial / Double Baltic
+lauter,adi_zadik_2741,"Sun, 26 Oct 2025 19:20:58 +0000",can,3.75,Aged & Blend - Ice Brett Ale + Ice Brett Baltic Porter,Maryensztadt,Freeze-Distilled Beer
+lauter,Tal,"Sun, 26 Oct 2025 19:20:57 +0000",draft,4.25,Aged & Blend - Ice Brett Ale + Ice Brett Baltic Porter,Maryensztadt,Freeze-Distilled Beer
+lauter,Nativ Kapach,"Sun, 26 Oct 2025 19:20:28 +0000",can,3.5,Aged & Blend - Ice Brett Ale + Ice Brett Baltic Porter,Maryensztadt,Freeze-Distilled Beer
+lauter,roey_lerman_9282,"Sun, 26 Oct 2025 19:20:23 +0000",can,4.0,Aged & Blend - Ice Brett Ale + Ice Brett Baltic Porter,Maryensztadt,Freeze-Distilled Beer
+lauter,Lee Ker,"Sun, 26 Oct 2025 19:19:19 +0000",,,Aged & Blend - Ice Brett Ale + Ice Brett Baltic Porter,Maryensztadt,Freeze-Distilled Beer
+lauter,ori_e,"Sun, 26 Oct 2025 19:18:37 +0000",can,,Aged & Blend - Ice Brett Ale + Ice Brett Baltic Porter,Maryensztadt,Freeze-Distilled Beer
+lauter,Nativ Kapach,"Sun, 26 Oct 2025 19:15:13 +0000",can,3.25,Wild & Funky Brett Ale Riesling Grape Pomace & Holy Basil  Rioja BA,Maryensztadt,Brett Beer
+lauter,Tal,"Sun, 26 Oct 2025 19:14:53 +0000",can,4.5,Wild & Funky Brett Ale Riesling Grape Pomace & Holy Basil  Rioja BA,Maryensztadt,Brett Beer
+lauter,Shaul A,"Sun, 26 Oct 2025 19:14:41 +0000",can,2.75,Wild & Funky Brett Ale Riesling Grape Pomace & Holy Basil  Rioja BA,Maryensztadt,Brett Beer
+lauter,roey_lerman_9282,"Sun, 26 Oct 2025 19:13:19 +0000",can,4.0,Wild & Funky Brett Ale Riesling Grape Pomace & Holy Basil  Rioja BA,Maryensztadt,Brett Beer
+lauter,adi_zadik_2741,"Sun, 26 Oct 2025 19:13:11 +0000",can,4.25,Wild & Funky Brett Ale Riesling Grape Pomace & Holy Basil  Rioja BA,Maryensztadt,Brett Beer
+lauter,ori_e,"Sun, 26 Oct 2025 19:12:42 +0000",can,4.0,Wild & Funky Brett Ale Riesling Grape Pomace & Holy Basil  Rioja BA,Maryensztadt,Brett Beer
+lauter,Lee Ker,"Sun, 26 Oct 2025 19:11:36 +0000",can,,Wild & Funky Brett Ale Riesling Grape Pomace & Holy Basil  Rioja BA,Maryensztadt,Brett Beer
+lauter,Shaul A,"Sun, 26 Oct 2025 19:11:26 +0000",can,4.0,Wild & Funky Everyday - Wild Ale Riesling Grape Pomace Rioja BA,Maryensztadt,Wild Ale - Other
+lauter,Nativ Kapach,"Sun, 26 Oct 2025 19:08:08 +0000",can,5.0,Wild & Funky Everyday - Wild Ale Riesling Grape Pomace Rioja BA,Maryensztadt,Wild Ale - Other
+lauter,Yaron Sh,"Sun, 26 Oct 2025 19:08:03 +0000",,4.25,Wild & Funky Everyday - Wild Ale Riesling Grape Pomace Rioja BA,Maryensztadt,Wild Ale - Other
+lauter,Shayduk,"Sun, 26 Oct 2025 19:07:42 +0000",can,3.5,Wild & Funky Everyday - Wild Ale Riesling Grape Pomace Rioja BA,Maryensztadt,Wild Ale - Other
+lauter,Lee Ker,"Sun, 26 Oct 2025 19:07:34 +0000",can,,Wild & Funky Everyday - Wild Ale Riesling Grape Pomace Rioja BA,Maryensztadt,Wild Ale - Other
+lauter,adi_zadik_2741,"Sun, 26 Oct 2025 19:06:49 +0000",can,4.25,Wild & Funky Everyday - Wild Ale Riesling Grape Pomace Rioja BA,Maryensztadt,Wild Ale - Other
+lauter,Tal,"Sun, 26 Oct 2025 19:06:44 +0000",can,4.5,Wild & Funky Everyday - Wild Ale Riesling Grape Pomace Rioja BA,Maryensztadt,Wild Ale - Other
+lauter,roey_lerman_9282,"Sun, 26 Oct 2025 19:06:14 +0000",can,4.5,Wild & Funky Everyday - Wild Ale Riesling Grape Pomace Rioja BA,Maryensztadt,Wild Ale - Other
+lauter,ori_e,"Sun, 26 Oct 2025 19:04:48 +0000",can,4.0,Wild & Funky Everyday - Wild Ale Riesling Grape Pomace Rioja BA,Maryensztadt,Wild Ale - Other
+lauter,Nirit Agiv,"Sun, 26 Oct 2025 19:03:53 +0000",can,3.8,Barrel Aged Project: Brownie RIS Heaven Hill Bourbon BA,Maryensztadt,Stout - Russian Imperial
+lauter,Nirit Agiv,"Sun, 26 Oct 2025 19:03:15 +0000",bottle,4.3,3 Fonteinen Oude Geuze Cuvée Armand & Gaston (season 22|23) Blend No. 6,Brouwerij 3 Fonteinen,Lambic - Gueuze
+lauter,Tal,"Sun, 26 Oct 2025 19:02:35 +0000",can,4.25,Project Barrel Aged Coconut ICE RIS Rum Barrel Aged,Maryensztadt,Freeze-Distilled Beer
+lauter,adi_zadik_2741,"Sun, 26 Oct 2025 19:01:46 +0000",can,3.5,Project Barrel Aged Coconut ICE RIS Rum Barrel Aged,Maryensztadt,Freeze-Distilled Beer
+lauter,Shmupi Koto,"Sun, 26 Oct 2025 19:01:18 +0000",bottle,4.4,3 Fonteinen Oude Geuze Cuvée Armand & Gaston (season 22|23) Blend No. 6,Brouwerij 3 Fonteinen,Lambic - Gueuze
+lauter,Shaul A,"Sun, 26 Oct 2025 19:00:03 +0000",can,3.75,Project Barrel Aged Coconut ICE RIS Rum Barrel Aged,Maryensztadt,Freeze-Distilled Beer
+lauter,Shayduk,"Sun, 26 Oct 2025 18:59:49 +0000",can,2.0,Project Barrel Aged Coconut ICE RIS Rum Barrel Aged,Maryensztadt,Freeze-Distilled Beer
+lauter,Nativ Kapach,"Sun, 26 Oct 2025 18:59:21 +0000",can,4.0,Project Barrel Aged Coconut ICE RIS Rum Barrel Aged,Maryensztadt,Freeze-Distilled Beer
+lauter,roey_lerman_9282,"Sun, 26 Oct 2025 18:57:11 +0000",can,4.25,Project Barrel Aged Coconut ICE RIS Rum Barrel Aged,Maryensztadt,Freeze-Distilled Beer
+lauter,Lee Ker,"Sun, 26 Oct 2025 18:57:05 +0000",bottle,,Project Barrel Aged Coconut ICE RIS Rum Barrel Aged,Maryensztadt,Freeze-Distilled Beer
+lauter,ori_e,"Sun, 26 Oct 2025 18:56:10 +0000",can,,Project Barrel Aged Coconut ICE RIS Rum Barrel Aged,Maryensztadt,Freeze-Distilled Beer
+lauter,Yaron Sh,"Sun, 26 Oct 2025 18:55:56 +0000",,4.25,Project Barrel Aged Coconut ICE RIS Rum Barrel Aged,Maryensztadt,Freeze-Distilled Beer
+lauter,Nativ Kapach,"Sun, 26 Oct 2025 18:55:13 +0000",can,3.75,Barrel Aged Project: Ice Imperial Stout Rum BA,Maryensztadt,Freeze-Distilled Beer
+lauter,Shaul A,"Sun, 26 Oct 2025 18:55:05 +0000",can,3.75,Barrel Aged Project: Ice Imperial Stout Rum BA,Maryensztadt,Freeze-Distilled Beer
+lauter,adi_zadik_2741,"Sun, 26 Oct 2025 18:54:29 +0000",can,4.0,Barrel Aged Project: Ice Imperial Stout Rum BA,Maryensztadt,Freeze-Distilled Beer
+lauter,Nativ Kapach,"Sun, 26 Oct 2025 18:53:41 +0000",can,2.0,Darkness My Friend - Imperial Baltic Porter Chilli & Pepper,Maryensztadt,Porter - Imperial / Double Baltic
+lauter,Yaron Sh,"Sun, 26 Oct 2025 18:52:34 +0000",,4.0,Barrel Aged Project: Ice Imperial Stout Rum BA,Maryensztadt,Freeze-Distilled Beer
+lauter,roey_lerman_9282,"Sun, 26 Oct 2025 18:52:15 +0000",can,4.5,Barrel Aged Project: Ice Imperial Stout Rum BA,Maryensztadt,Freeze-Distilled Beer
+lauter,Lee Ker,"Sun, 26 Oct 2025 18:52:03 +0000",bottle,,Barrel Aged Project: Ice Imperial Stout Rum BA,Maryensztadt,Freeze-Distilled Beer
+lauter,Shayduk,"Sun, 26 Oct 2025 18:51:32 +0000",can,2.0,Barrel Aged Project: Ice Imperial Stout Rum BA,Maryensztadt,Freeze-Distilled Beer
+lauter,ori_e,"Sun, 26 Oct 2025 18:49:32 +0000",,,Barrel Aged Project: Ice Imperial Stout Rum BA,Maryensztadt,Freeze-Distilled Beer
+lauter,Shayduk,"Sun, 26 Oct 2025 18:46:55 +0000",can,2.25,Barrel Aged Projekt: RIS Bowmore Whisky BA,Maryensztadt,Stout - Russian Imperial
+lauter,Tal,"Sun, 26 Oct 2025 18:45:22 +0000",can,4.25,Darkness My Friend - Imperial Baltic Porter Chilli & Pepper,Maryensztadt,Porter - Imperial / Double Baltic
+lauter,Shaul A,"Sun, 26 Oct 2025 18:44:50 +0000",can,3.75,Darkness My Friend - Imperial Baltic Porter Chilli & Pepper,Maryensztadt,Porter - Imperial / Double Baltic
+lauter,adi_zadik_2741,"Sun, 26 Oct 2025 18:44:04 +0000",can,3.5,Darkness My Friend - Imperial Baltic Porter Chilli & Pepper,Maryensztadt,Porter - Imperial / Double Baltic
+lauter,roey_lerman_9282,"Sun, 26 Oct 2025 18:41:16 +0000",can,4.0,Darkness My Friend - Imperial Baltic Porter Chilli & Pepper,Maryensztadt,Porter - Imperial / Double Baltic
+lauter,ori_e,"Sun, 26 Oct 2025 18:41:02 +0000",can,3.75,Darkness My Friend - Imperial Baltic Porter Chilli & Pepper,Maryensztadt,Porter - Imperial / Double Baltic
+lauter,Lee Ker,"Sun, 26 Oct 2025 18:41:01 +0000",,,Darkness My Friend - Imperial Baltic Porter Chilli & Pepper,Maryensztadt,Porter - Imperial / Double Baltic
+lauter,Shaul A,"Sun, 26 Oct 2025 18:37:28 +0000",can,3.75,Darkness My Friends Imperial Baltic Porter Coffee & Date Syrup,Maryensztadt,Porter - Baltic
+lauter,Tal,"Sun, 26 Oct 2025 18:37:13 +0000",can,4.25,Darkness My Friends Imperial Baltic Porter Coffee & Date Syrup,Maryensztadt,Porter - Baltic
+lauter,roey_lerman_9282,"Sun, 26 Oct 2025 18:36:50 +0000",can,3.5,Darkness My Friends Imperial Baltic Porter Coffee & Date Syrup,Maryensztadt,Porter - Baltic
+lauter,adi_zadik_2741,"Sun, 26 Oct 2025 18:36:28 +0000",can,3.25,Darkness My Friends Imperial Baltic Porter Coffee & Date Syrup,Maryensztadt,Porter - Baltic
+lauter,Nativ Kapach,"Sun, 26 Oct 2025 18:36:28 +0000",can,3.75,Darkness My Friends Imperial Baltic Porter Coffee & Date Syrup,Maryensztadt,Porter - Baltic
+lauter,Yaron Sh,"Sun, 26 Oct 2025 18:34:37 +0000",,4.0,Darkness My Friends Imperial Baltic Porter Coffee & Date Syrup,Maryensztadt,Porter - Baltic
+lauter,Yaron Sh,"Sun, 26 Oct 2025 18:33:45 +0000",,4.5,Barrel Aged Projekt: Chocolate Rye RIS Jack Daniels Whiskey BA,Maryensztadt,Stout - Russian Imperial
+lauter,Lee Ker,"Sun, 26 Oct 2025 18:32:27 +0000",can,,Darkness My Friends Imperial Baltic Porter Coffee & Date Syrup,Maryensztadt,Porter - Baltic
+lauter,Tal,"Sun, 26 Oct 2025 18:30:42 +0000",bottle,3.75,Barrel Aged Projekt: Chocolate Rye RIS Jack Daniels Whiskey BA,Maryensztadt,Stout - Russian Imperial
+lauter,roey_lerman_9282,"Sun, 26 Oct 2025 18:28:57 +0000",bottle,3.0,Barrel Aged Projekt: Chocolate Rye RIS Jack Daniels Whiskey BA,Maryensztadt,Stout - Russian Imperial
+lauter,Shaul A,"Sun, 26 Oct 2025 18:28:22 +0000",bottle,4.0,Barrel Aged Projekt: Chocolate Rye RIS Jack Daniels Whiskey BA,Maryensztadt,Stout - Russian Imperial
+lauter,Nativ Kapach,"Sun, 26 Oct 2025 18:28:21 +0000",bottle,3.75,Barrel Aged Projekt: Chocolate Rye RIS Jack Daniels Whiskey BA,Maryensztadt,Stout - Russian Imperial
+lauter,adi_zadik_2741,"Sun, 26 Oct 2025 18:27:46 +0000",bottle,3.75,Barrel Aged Projekt: Chocolate Rye RIS Jack Daniels Whiskey BA,Maryensztadt,Stout - Russian Imperial
+lauter,Shayduk,"Sun, 26 Oct 2025 18:27:41 +0000",bottle,2.0,Barrel Aged Projekt: Chocolate Rye RIS Jack Daniels Whiskey BA,Maryensztadt,Stout - Russian Imperial
+lauter,Lee Ker,"Sun, 26 Oct 2025 18:27:02 +0000",,,Barrel Aged Projekt: Chocolate Rye RIS Jack Daniels Whiskey BA,Maryensztadt,Stout - Russian Imperial
+lauter,ori_e,"Sun, 26 Oct 2025 18:25:20 +0000",bottle,,Barrel Aged Projekt: Chocolate Rye RIS Jack Daniels Whiskey BA,Maryensztadt,Stout - Russian Imperial
+lauter,Shayduk,"Sun, 26 Oct 2025 18:25:08 +0000",can,1.0,Blend No.4,Lubrow Brett & Barrel,Strong Ale - Other
+lauter,Tal,"Sun, 26 Oct 2025 18:25:04 +0000",,4.25,Blend No.4,Lubrow Brett & Barrel,Strong Ale - Other
+lauter,Yaron Sh,"Sun, 26 Oct 2025 18:24:41 +0000",can,4.0,Blend No.4,Lubrow Brett & Barrel,Strong Ale - Other
+lauter,adi_zadik_2741,"Sun, 26 Oct 2025 18:23:56 +0000",can,3.75,Blend No.4,Lubrow Brett & Barrel,Strong Ale - Other
+lauter,Shmupi Koto,"Sun, 26 Oct 2025 18:23:27 +0000",can,3.8,Barrel Aged Project: Brownie RIS Heaven Hill Bourbon BA,Maryensztadt,Stout - Russian Imperial
+lauter,Tal,"Sun, 26 Oct 2025 18:23:11 +0000",can,3.75,Barrel Aged Project: Brownie RIS Heaven Hill Bourbon BA,Maryensztadt,Stout - Russian Imperial
+lauter,Nativ Kapach,"Sun, 26 Oct 2025 18:22:59 +0000",can,5.0,Blend No.4,Lubrow Brett & Barrel,Strong Ale - Other
+lauter,Shaul A,"Sun, 26 Oct 2025 18:21:13 +0000",can,4.0,Blend No.4,Lubrow Brett & Barrel,Strong Ale - Other
+lauter,Shayduk,"Sun, 26 Oct 2025 18:19:29 +0000",can,2.5,Barrel Aged Project: Brownie RIS Heaven Hill Bourbon BA,Maryensztadt,Stout - Russian Imperial
+lauter,Lee Ker,"Sun, 26 Oct 2025 18:19:11 +0000",can,,Blend No.4,Lubrow Brett & Barrel,Strong Ale - Other
+lauter,ori_e,"Sun, 26 Oct 2025 18:18:58 +0000",can,,Blend No.4,Lubrow Brett & Barrel,Strong Ale - Other
+lauter,Yaron Sh,"Sun, 26 Oct 2025 18:18:23 +0000",can,4.0,Barrel Aged Project: Brownie RIS Heaven Hill Bourbon BA,Maryensztadt,Stout - Russian Imperial
+lauter,roey_lerman_9282,"Sun, 26 Oct 2025 18:17:01 +0000",can,3.25,Barrel Aged Project: Brownie RIS Heaven Hill Bourbon BA,Maryensztadt,Stout - Russian Imperial
+lauter,adi_zadik_2741,"Sun, 26 Oct 2025 18:16:15 +0000",can,3.25,Barrel Aged Project: Brownie RIS Heaven Hill Bourbon BA,Maryensztadt,Stout - Russian Imperial
+lauter,Shaul A,"Sun, 26 Oct 2025 18:15:04 +0000",can,4.0,Barrel Aged Project: Brownie RIS Heaven Hill Bourbon BA,Maryensztadt,Stout - Russian Imperial
+lauter,Nativ Kapach,"Sun, 26 Oct 2025 18:14:55 +0000",can,4.5,Barrel Aged Project: Brownie RIS Heaven Hill Bourbon BA,Maryensztadt,Stout - Russian Imperial
+lauter,ori_e,"Sun, 26 Oct 2025 18:12:56 +0000",can,3.25,Barrel Aged Project: Brownie RIS Heaven Hill Bourbon BA,Maryensztadt,Stout - Russian Imperial
+lauter,Lee Ker,"Sun, 26 Oct 2025 18:11:52 +0000",can,,Barrel Aged Project: Brownie RIS Heaven Hill Bourbon BA,Maryensztadt,Stout - Russian Imperial
+lauter,Tal,"Sun, 26 Oct 2025 18:08:53 +0000",can,4.0,Gwiazda Północy,Maryensztadt,Porter - Smoked
+lauter,adi_zadik_2741,"Sun, 26 Oct 2025 18:08:11 +0000",can,3.75,Gwiazda Północy,Maryensztadt,Porter - Smoked
+lauter,roey_lerman_9282,"Sun, 26 Oct 2025 18:08:10 +0000",can,2.75,Gwiazda Północy,Maryensztadt,Porter - Smoked
+lauter,Nativ Kapach,"Sun, 26 Oct 2025 18:07:01 +0000",can,4.25,Gwiazda Północy,Maryensztadt,Porter - Smoked
+lauter,Shayduk,"Sun, 26 Oct 2025 18:06:56 +0000",can,2.75,Gwiazda Północy,Maryensztadt,Porter - Smoked
+lauter,Shaul A,"Sun, 26 Oct 2025 18:06:43 +0000",can,3.75,Gwiazda Północy,Maryensztadt,Porter - Smoked
+lauter,Yaron Sh,"Sun, 26 Oct 2025 18:06:37 +0000",,4.25,Gwiazda Północy,Maryensztadt,Porter - Smoked
+lauter,Lee Ker,"Sun, 26 Oct 2025 18:05:28 +0000",can,,Gwiazda Północy,Maryensztadt,Porter - Smoked
+lauter,ori_e,"Sun, 26 Oct 2025 18:05:11 +0000",,,Gwiazda Północy,Maryensztadt,Porter - Smoked
+lauter,Yaron Sh,"Sun, 26 Oct 2025 18:04:21 +0000",,4.25,Barrel Aged Projekt: Barley Wine Laphroaig BA,Maryensztadt,Barleywine - English
+lauter,Shaul A,"Sun, 26 Oct 2025 18:04:12 +0000",bottle,3.25,Barrel Aged Projekt: Barley Wine Laphroaig BA,Maryensztadt,Barleywine - English
+lauter,roey_lerman_9282,"Sun, 26 Oct 2025 18:03:23 +0000",bottle,4.75,Barrel Aged Projekt: Barley Wine Laphroaig BA,Maryensztadt,Barleywine - English
+lauter,Tal,"Sun, 26 Oct 2025 18:03:05 +0000",bottle,4.0,Barrel Aged Projekt: Barley Wine Laphroaig BA,Maryensztadt,Barleywine - English
+lauter,Lee Ker,"Sun, 26 Oct 2025 18:02:41 +0000",bottle,,Barrel Aged Projekt: Barley Wine Laphroaig BA,Maryensztadt,Barleywine - English
+lauter,adi_zadik_2741,"Sun, 26 Oct 2025 18:01:58 +0000",bottle,4.5,Barrel Aged Projekt: Barley Wine Laphroaig BA,Maryensztadt,Barleywine - English
+lauter,Shayduk,"Sun, 26 Oct 2025 18:01:56 +0000",bottle,3.0,Barrel Aged Projekt: Barley Wine Laphroaig BA,Maryensztadt,Barleywine - English
+lauter,Nativ Kapach,"Sun, 26 Oct 2025 18:01:47 +0000",bottle,4.5,Barrel Aged Projekt: Barley Wine Laphroaig BA,Maryensztadt,Barleywine - English
+schnitt-brewing-company,Yaniv Alal,"Sun, 26 Oct 2025 18:01:02 +0000",draft,4.25,Fruity Mish Mash,Schnitt Brewing Company﻿,IPA - New England / Hazy
+lauter,svitou,"Sun, 26 Oct 2025 18:00:58 +0000",can,3.5,Must Kuld,Põhjala,Porter - Other
+lauter,ori_e,"Sun, 26 Oct 2025 18:00:31 +0000",bottle,3.5,Barrel Aged Projekt: Barley Wine Laphroaig BA,Maryensztadt,Barleywine - English
+lauter,Yaron Sh,"Sun, 26 Oct 2025 17:59:31 +0000",,4.0,Barrel Aged Projekt: Wheat Wine Cognac BA,Maryensztadt,Wheat Beer - Wheat Wine
+lauter,Lee Ker,"Sun, 26 Oct 2025 17:58:05 +0000",bottle,,Barrel Aged Projekt: Wheat Wine Cognac BA,Maryensztadt,Wheat Beer - Wheat Wine
+lauter,Shaul A,"Sun, 26 Oct 2025 17:57:38 +0000",bottle,3.75,Barrel Aged Projekt: Wheat Wine Cognac BA,Maryensztadt,Wheat Beer - Wheat Wine
+lauter,Tal,"Sun, 26 Oct 2025 17:57:26 +0000",bottle,4.5,Barrel Aged Projekt: Wheat Wine Cognac BA,Maryensztadt,Wheat Beer - Wheat Wine
+lauter,Shayduk,"Sun, 26 Oct 2025 17:57:22 +0000",bottle,2.75,Barrel Aged Projekt: Wheat Wine Cognac BA,Maryensztadt,Wheat Beer - Wheat Wine
+lauter,Nativ Kapach,"Sun, 26 Oct 2025 17:57:15 +0000",bottle,4.25,Barrel Aged Projekt: Wheat Wine Cognac BA,Maryensztadt,Wheat Beer - Wheat Wine
+lauter,roey_lerman_9282,"Sun, 26 Oct 2025 17:57:11 +0000",bottle,4.25,Barrel Aged Projekt: Wheat Wine Cognac BA,Maryensztadt,Wheat Beer - Wheat Wine
+schnitt-brewing-company,Miki Malamud,"Sun, 26 Oct 2025 17:56:19 +0000",bottle,4.25,Barrel Aged Projekt: Wheat Wine Cognac BA,Maryensztadt,Wheat Beer - Wheat Wine
+lauter,ori_e,"Sun, 26 Oct 2025 17:56:09 +0000",bottle,3.75,Barrel Aged Projekt: Wheat Wine Cognac BA,Maryensztadt,Wheat Beer - Wheat Wine
+lauter,adi_zadik_2741,"Sun, 26 Oct 2025 17:55:54 +0000",bottle,4.0,Barrel Aged Projekt: Wheat Wine Cognac BA,Maryensztadt,Wheat Beer - Wheat Wine
+lauter,Lee Ker,"Sun, 26 Oct 2025 17:34:04 +0000",can,,About To Stout,Schnitt Brewing Company﻿,Stout - Oatmeal
+lauter,Alisa K,"Sun, 26 Oct 2025 17:26:42 +0000",can,3.25,Must Kuld,Põhjala,Porter - Other
+lauter,svitou,"Sun, 26 Oct 2025 17:01:16 +0000",draft,4.0,Porter&Sons: Marshmallow,Schnitt Brewing Company﻿,Porter - Other
+lauter,Gabi David,"Sun, 26 Oct 2025 16:34:23 +0000",draft,4.25,Abricot Tilquin - Draft Version,Gueuzerie Tilquin,Lambic - Fruit
+lauter,Gabi David,"Sun, 26 Oct 2025 16:33:32 +0000",draft,3.75,Bjorn's Beer,Attali's Family Brewery,IPA - American
+lauter,Alisa K,"Sun, 26 Oct 2025 16:11:13 +0000",draft,3.5,Porter&Sons: Marshmallow,Schnitt Brewing Company﻿,Porter - Other
+schnitt-brewing-company,Gabi David,"Sun, 26 Oct 2025 16:10:26 +0000",draft,3.5,Kardemumma,Schnitt Brewing Company﻿,Pale Ale - Other
+schnitt-brewing-company,Gabi David,"Sun, 26 Oct 2025 16:09:27 +0000",draft,3.5,About To Stout,Schnitt Brewing Company﻿,Stout - Oatmeal
+schnitt-brewing-company,Gabi David,"Sun, 26 Oct 2025 16:08:46 +0000",draft,3.5,Cashmero קשמירו,Schnitt Brewing Company﻿,IPA - American
+schnitt-brewing-company,Gabi David,"Sun, 26 Oct 2025 16:05:24 +0000",draft,3.5,Sim Sima,Schnitt Brewing Company﻿,IPA - Imperial / Double
+schnitt-brewing-company,Tal Neumann,"Sun, 26 Oct 2025 16:03:46 +0000",draft,3.75,Kardemumma,Schnitt Brewing Company﻿,Pale Ale - Other
+schnitt-brewing-company,Gabi David,"Sun, 26 Oct 2025 16:03:39 +0000",draft,4.0,Rush Sour,Schnitt Brewing Company﻿,IPA - Sour
+schnitt-brewing-company,Gabi David,"Sun, 26 Oct 2025 16:01:29 +0000",draft,3.75,Fruity Mish Mash,Schnitt Brewing Company﻿,IPA - New England / Hazy
+schnitt-brewing-company,Yaniv Alal,"Sun, 26 Oct 2025 15:55:16 +0000",draft,3.25,Rush Sour,Schnitt Brewing Company﻿,IPA - Sour
+schnitt-brewing-company,Tal Neumann,"Sun, 26 Oct 2025 15:48:01 +0000",draft,4.0,עכשיו מעונן,Schnitt Brewing Company﻿,IPA - New England / Hazy
+schnitt-brewing-company,svitou,"Sun, 26 Oct 2025 15:46:11 +0000",draft,4.25,OrangeDana,Schnitt Brewing Company﻿,IPA - New England / Hazy
+lauter,Amit Gal-on,"Sun, 26 Oct 2025 15:36:11 +0000",draft,4.0,Olde School,Dogfish Head Craft Brewery,Barleywine - American
+lauter,Ben Prize Bar-On,"Sun, 26 Oct 2025 15:12:38 +0000",draft,3.9,Anything Gose: Mango,Schnitt Brewing Company﻿,Sour - Fruited Gose
+lauter,Ben Prize Bar-On,"Sun, 26 Oct 2025 15:07:29 +0000",draft,3.9,"Shut Up And Drink Me! (שת""פ)",Schnitt Brewing Company﻿,Historical Beer - Lichtenhainer
+lauter,Ben Prize Bar-On,"Sun, 26 Oct 2025 15:03:06 +0000",draft,3.0,Weissman,Schnitt Brewing Company﻿,Wheat Beer - Hefeweizen
+lauter,Ben Prize Bar-On,"Sun, 26 Oct 2025 14:58:15 +0000",draft,3.7,Sim Sima,Schnitt Brewing Company﻿,IPA - Imperial / Double
+lauter,Amit Gal-on,"Sun, 26 Oct 2025 14:49:42 +0000",draft,4.5,Sim Sima,Schnitt Brewing Company﻿,IPA - Imperial / Double
+lauter,Ben Prize Bar-On,"Sun, 26 Oct 2025 14:48:43 +0000",draft,3.8,"Same Schnitt, Different Hop: Amarillo",Schnitt Brewing Company﻿,Pale Ale - Other
+lauter,odi paneth,"Sun, 26 Oct 2025 14:41:50 +0000",,3.75,Bjorn's Beer,Attali's Family Brewery,IPA - American
+schnitt-brewing-company,odi paneth,"Sun, 26 Oct 2025 14:39:07 +0000",,,Twist & Stout,Schnitt Brewing Company﻿,Stout - Irish Dry
+lauter,Nadav Cohen,"Sun, 26 Oct 2025 14:38:28 +0000",,3.75,Fruity Mish Mash,Schnitt Brewing Company﻿,IPA - New England / Hazy
+schnitt-brewing-company,odi paneth,"Sun, 26 Oct 2025 14:38:17 +0000",,,"Same Schnitt, Different Hop: Amarillo",Schnitt Brewing Company﻿,Pale Ale - Other
+lauter,odi paneth,"Sun, 26 Oct 2025 14:35:41 +0000",,,Sim Sima,Schnitt Brewing Company﻿,IPA - Imperial / Double
+lauter,Ben Prize Bar-On,"Sun, 26 Oct 2025 14:18:33 +0000",,3.8,IN THE  SMALL,Schnitt Brewing Company﻿,Table Beer
+schnitt-brewing-company,svitou,"Sun, 26 Oct 2025 14:09:11 +0000",draft,3.5,Rush Sour,Schnitt Brewing Company﻿,IPA - Sour
+beer-station-beersheba-israel,Misha Akkerman,"Sun, 26 Oct 2025 13:45:29 +0000",draft,3.75,Tropical IPA,Alexander (אלכסנדר),IPA - American
+schnitt-brewing-company,Alisa K,"Sun, 26 Oct 2025 13:20:56 +0000",draft,4.0,OrangeDana,Schnitt Brewing Company﻿,IPA - New England / Hazy
+lauter,svitou,"Sun, 26 Oct 2025 13:10:17 +0000",draft,4.5,Abricot Tilquin - Draft Version,Gueuzerie Tilquin,Lambic - Fruit
+lauter,Lior Degabli,"Sun, 26 Oct 2025 11:30:57 +0000",draft,4.5,Abricot Tilquin - Draft Version,Gueuzerie Tilquin,Lambic - Fruit
+schnitt-brewing-company,Alex Shtouff,"Sun, 26 Oct 2025 11:13:45 +0000",can,3.75,"Same Schnitt, Different Hop: Simcoe",Schnitt Brewing Company﻿,Pale Ale - American
+schnitt-brewing-company,Alex Shtouff,"Sun, 26 Oct 2025 11:13:13 +0000",draft,3.75,"Same Schnitt, Different Hop: Centennial",Schnitt Brewing Company﻿,Pale Ale - Other
+schnitt-brewing-company,Nadav Kaddar,"Sun, 26 Oct 2025 11:11:34 +0000",draft,3.75,Kardemumma,Schnitt Brewing Company﻿,Pale Ale - Other
+schnitt-brewing-company,Alex Shtouff,"Sun, 26 Oct 2025 11:11:25 +0000",draft,4.0,Kardemumma,Schnitt Brewing Company﻿,Pale Ale - Other
+schnitt-brewing-company,Nadav Kaddar,"Sun, 26 Oct 2025 11:10:30 +0000",draft,4.0,Rush Sour,Schnitt Brewing Company﻿,IPA - Sour
+schnitt-brewing-company,Alex Shtouff,"Sun, 26 Oct 2025 11:10:20 +0000",draft,3.75,Cashmero קשמירו,Schnitt Brewing Company﻿,IPA - American
+schnitt-brewing-company,Lior Degabli,"Sun, 26 Oct 2025 10:46:28 +0000",,3.75,נקטרון האלים,Schnitt Brewing Company﻿,IPA - New England / Hazy
+schnitt-brewing-company,Lior Degabli,"Sun, 26 Oct 2025 10:38:40 +0000",,3.75,עכשיו מעונן,Schnitt Brewing Company﻿,IPA - New England / Hazy
+schnitt-brewing-company,Lior Degabli,"Sun, 26 Oct 2025 10:32:14 +0000",,3.5,Cashmero קשמירו,Schnitt Brewing Company﻿,IPA - American
+schnitt-brewing-company,Lior Degabli,"Sun, 26 Oct 2025 10:28:14 +0000",,3.75,Rush Sour,Schnitt Brewing Company﻿,IPA - Sour
 lauter,גל סילברמן,"Sun, 26 Oct 2025 00:00:36 +0000",draft,3.6,Sim Sima,Schnitt Brewing Company﻿,IPA - Imperial / Double
 schnitt-brewing-company,Guy Azene,"Sat, 25 Oct 2025 22:10:12 +0000",draft,4.1,עכשיו מעונן,Schnitt Brewing Company﻿,IPA - New England / Hazy
 lauter,Ben Gat Sherman,"Sat, 25 Oct 2025 22:07:42 +0000",draft,3.75,Cashmero קשמירו,Schnitt Brewing Company﻿,IPA - American
@@ -329,8 +555,8 @@ lauter,Omer Shahar,"Sun, 19 Oct 2025 19:40:35 +0000",draft,3.5,"Shut Up And Drin
 porter-and-sons,Shmupi Koto,"Sun, 19 Oct 2025 19:33:53 +0000",draft,4.7,Quetsche Tilquin – Draft Version,Gueuzerie Tilquin,Lambic - Fruit
 lauter,Shmupi Koto,"Sun, 19 Oct 2025 19:32:51 +0000",bottle,4.0,Aecht Schlenkerla Rauchbier – Märzen,"Schlenkerla (""Heller-Bräu"" Trum)",Rauchbier
 lauter,Tal,"Sun, 19 Oct 2025 19:27:16 +0000",bottle,4.0,Bjorn's Beer,Attali's Family Brewery,IPA - American
-schnitt-brewing-company,May Cohen,"Sun, 19 Oct 2025 19:17:21 +0000",can,4.25,Plum Waffle,Duncan's Brewing,Sour - Smoothie / Pastry
 lauter,adi_zadik_2741,"Sun, 19 Oct 2025 19:17:21 +0000",bottle,3.25,Bjorn's Beer,Attali's Family Brewery,IPA - American
+schnitt-brewing-company,May Cohen,"Sun, 19 Oct 2025 19:17:21 +0000",can,4.25,Plum Waffle,Duncan's Brewing,Sour - Smoothie / Pastry
 lauter,Tal,"Sun, 19 Oct 2025 18:51:53 +0000",draft,3.75,"Shut Up And Drink Me! (שת""פ)",Schnitt Brewing Company﻿,Historical Beer - Lichtenhainer
 schnitt-brewing-company,May Cohen,"Sun, 19 Oct 2025 18:34:54 +0000",can,4.5,Jetphilia,Totopia Brewery,Stout - Imperial / Double
 beerline,Slava Gladchenko,"Sun, 19 Oct 2025 18:23:28 +0000",,3.0,Benediktiner Weissbier,Benediktiner Weissbräu,Wheat Beer - Hefeweizen
@@ -2652,8 +2878,8 @@ lauter,Adam Berelowitz,"Mon, 01 Sep 2025 17:50:20 +0000",can,4.0,Confuzzled '202
 lauter,Oren Sleepwalker,"Mon, 01 Sep 2025 17:46:17 +0000",,,Hops Don’t Lie,Thurø Bryghus,IPA - New England / Hazy
 lauter,Mikhail Stolov,"Mon, 01 Sep 2025 17:45:42 +0000",bottle,2.5,Hops Don’t Lie,Thurø Bryghus,IPA - New England / Hazy
 lauter,Yosef Dahan,"Mon, 01 Sep 2025 17:45:00 +0000",bottle,3.5,Hops Don’t Lie,Thurø Bryghus,IPA - New England / Hazy
-lauter,Adam Berelowitz,"Mon, 01 Sep 2025 17:44:35 +0000",bottle,4.0,Hops Don’t Lie,Thurø Bryghus,IPA - New England / Hazy
 lauter,Yaron Sh,"Mon, 01 Sep 2025 17:44:35 +0000",,4.0,Hops Don’t Lie,Thurø Bryghus,IPA - New England / Hazy
+lauter,Adam Berelowitz,"Mon, 01 Sep 2025 17:44:35 +0000",bottle,4.0,Hops Don’t Lie,Thurø Bryghus,IPA - New England / Hazy
 lauter,Kobi,"Mon, 01 Sep 2025 17:44:03 +0000",,4.0,Hops Don’t Lie,Thurø Bryghus,IPA - New England / Hazy
 lauter,Yaron Sh,"Mon, 01 Sep 2025 17:42:20 +0000",,4.5,Super Trigo,Bierwerk Züri,IPA - White / Wheat
 lauter,Oren Sleepwalker,"Mon, 01 Sep 2025 17:40:34 +0000",,,Super Trigo,Bierwerk Züri,IPA - White / Wheat
@@ -3189,8 +3415,8 @@ b7-beer-house,Liad Shaked,"Thu, 21 Aug 2025 16:04:25 +0000",can,3.8,Nitro Mini M
 b7-beer-house,Tom Lahav,"Thu, 21 Aug 2025 16:04:24 +0000",can,3.5,Nitro Mini M*rs,Vault City Brewing,Stout - Pastry
 b7-beer-house,Raz Ko,"Thu, 21 Aug 2025 16:03:38 +0000",can,4.2,Salted Caramel Crema,Vault City Brewing,Stout - Imperial / Double Coffee
 b7-beer-house,Eran Keller,"Thu, 21 Aug 2025 16:03:08 +0000",can,4.25,Salted Caramel Crema,Vault City Brewing,Stout - Imperial / Double Coffee
-b7-beer-house,Elior Mizrahi,"Thu, 21 Aug 2025 16:02:37 +0000",,3.75,Nitro Mini M*rs,Vault City Brewing,Stout - Pastry
 b7-beer-house,Raz Ko,"Thu, 21 Aug 2025 16:02:37 +0000",can,3.5,Nitro Mini M*rs,Vault City Brewing,Stout - Pastry
+b7-beer-house,Elior Mizrahi,"Thu, 21 Aug 2025 16:02:37 +0000",,3.75,Nitro Mini M*rs,Vault City Brewing,Stout - Pastry
 b7-beer-house,Liad Shaked,"Thu, 21 Aug 2025 16:02:21 +0000",can,4.3,Salted Caramel Crema,Vault City Brewing,Stout - Imperial / Double Coffee
 b7-beer-house,Ido Cohen,"Thu, 21 Aug 2025 16:02:06 +0000",can,3.9,Birthday Cake,Vocation Brewery,Stout - Milk / Sweet
 b7-beer-house,Eran Keller,"Thu, 21 Aug 2025 16:01:24 +0000",can,3.75,Naughty & Nice - White Chocolate & Raspberry,Vocation Brewery,Stout - White / Golden
@@ -3201,8 +3427,8 @@ b7-beer-house,גל סילברמן,"Thu, 21 Aug 2025 16:00:18 +0000",can,3.8,Naug
 b7-beer-house,Guy Azene,"Thu, 21 Aug 2025 16:00:01 +0000",can,3.8,Naughty & Nice - White Chocolate & Raspberry,Vocation Brewery,Stout - White / Golden
 b7-beer-house,Liad Shaked,"Thu, 21 Aug 2025 15:59:41 +0000",can,3.9,Naughty & Nice - White Chocolate & Raspberry,Vocation Brewery,Stout - White / Golden
 b7-beer-house,Yotam Bar-natan,"Thu, 21 Aug 2025 15:59:21 +0000",can,4.3,Birthday Cake,Vocation Brewery,Stout - Milk / Sweet
-b7-beer-house,Elior Mizrahi,"Thu, 21 Aug 2025 15:59:11 +0000",,4.0,Naughty & Nice - White Chocolate & Raspberry,Vocation Brewery,Stout - White / Golden
 b7-beer-house,Eli Smikin,"Thu, 21 Aug 2025 15:59:11 +0000",can,3.8,Peach Rings,Vault City Brewing,Sour - Fruited
+b7-beer-house,Elior Mizrahi,"Thu, 21 Aug 2025 15:59:11 +0000",,4.0,Naughty & Nice - White Chocolate & Raspberry,Vocation Brewery,Stout - White / Golden
 b7-beer-house,Yotam Bar-natan,"Thu, 21 Aug 2025 15:58:45 +0000",can,3.8,Naughty & Nice - White Chocolate & Raspberry,Vocation Brewery,Stout - White / Golden
 b7-beer-house,Tom Lahav,"Thu, 21 Aug 2025 15:58:44 +0000",can,3.25,Naughty & Nice - White Chocolate & Raspberry,Vocation Brewery,Stout - White / Golden
 b7-beer-house,Yotam Bar-natan,"Thu, 21 Aug 2025 15:58:21 +0000",can,3.7,Incognito,Vocation Brewery,IPA - Imperial / Double

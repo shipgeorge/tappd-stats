@@ -1,8 +1,2042 @@
 // 🍺 BEER STATS DATA - Generated automatically
-// Last updated: 2025-10-26 06:36:19
-// Total records: 7000
+// Last updated: 2025-10-27 06:43:03
+// Total records: 7226
 
 const BEER_DATA = [
+  {
+    "venue": "lauter",
+    "time": "2025-10-26T20:50:50+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Abricot Tilquin - Draft Version",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-26T20:20:53+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Barrel Aged Project: Ice Imperial Stout Rum BA - Banana Split",
+    "brewery": "Maryensztadt",
+    "beer_type": "Freeze-Distilled Beer"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-26T20:18:02+00:00",
+    "serving": "can",
+    "rating": 4.5,
+    "beer_name": "Barrel Aged Project: Ice Imperial Stout Rum BA - Banana Split",
+    "brewery": "Maryensztadt",
+    "beer_type": "Freeze-Distilled Beer"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-26T20:17:30+00:00",
+    "serving": "can",
+    "rating": 3.25,
+    "beer_name": "Barrel Aged Project: Ice Imperial Stout Rum BA - Banana Split",
+    "brewery": "Maryensztadt",
+    "beer_type": "Freeze-Distilled Beer"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-26T20:17:21+00:00",
+    "serving": "can",
+    "rating": null,
+    "beer_name": "Barrel Aged Project: Ice Imperial Stout Rum BA - Banana Split",
+    "brewery": "Maryensztadt",
+    "beer_type": "Freeze-Distilled Beer"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-26T20:16:44+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Barrel Aged Project: Ice Imperial Stout Rum BA - Banana Split",
+    "brewery": "Maryensztadt",
+    "beer_type": "Freeze-Distilled Beer"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-26T20:12:41+00:00",
+    "serving": "can",
+    "rating": 3.9,
+    "beer_name": "Aged & Blend: Barley Wine + Imperial Stout + Dry Fruits",
+    "brewery": "Maryensztadt",
+    "beer_type": "Strong Ale - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-26T20:12:02+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Wild & Funky Everyday - Ice Distilled Brett Ale White Wine BA",
+    "brewery": "Maryensztadt",
+    "beer_type": "Freeze-Distilled Beer"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-26T20:11:09+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Project Barrel Aged Coconut ICE RIS Rum Barrel Aged",
+    "brewery": "Maryensztadt",
+    "beer_type": "Freeze-Distilled Beer"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-26T20:10:57+00:00",
+    "serving": "can",
+    "rating": 4.2,
+    "beer_name": "Gwiazda Północy",
+    "brewery": "Maryensztadt",
+    "beer_type": "Porter - Smoked"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-26T20:04:50+00:00",
+    "serving": "can",
+    "rating": 4.1,
+    "beer_name": "Darkness My Friends Imperial Baltic Porter Coffee & Date Syrup",
+    "brewery": "Maryensztadt",
+    "beer_type": "Porter - Baltic"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-26T20:03:00+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "Spontaan Gaard - Kersen 2024",
+    "brewery": "Lubrow Brett & Barrel",
+    "beer_type": "Lambic - Kriek"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-26T20:00:09+00:00",
+    "serving": "bottle",
+    "rating": 3.5,
+    "beer_name": "Spontaan Gaard - Kersen 2024",
+    "brewery": "Lubrow Brett & Barrel",
+    "beer_type": "Lambic - Kriek"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-26T19:59:20+00:00",
+    "serving": "bottle",
+    "rating": 3.0,
+    "beer_name": "Spontaan Gaard - Kersen 2024",
+    "brewery": "Lubrow Brett & Barrel",
+    "beer_type": "Lambic - Kriek"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-26T19:59:15+00:00",
+    "serving": "bottle",
+    "rating": null,
+    "beer_name": "Spontaan Gaard - Kersen 2024",
+    "brewery": "Lubrow Brett & Barrel",
+    "beer_type": "Lambic - Kriek"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-26T19:57:15+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Spontaan Gaard - Kersen 2024",
+    "brewery": "Lubrow Brett & Barrel",
+    "beer_type": "Lambic - Kriek"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-26T19:57:05+00:00",
+    "serving": "bottle",
+    "rating": 4.5,
+    "beer_name": "Spontaan Gaard - Kersen",
+    "brewery": "Lubrow Brett & Barrel",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-26T19:56:59+00:00",
+    "serving": "can",
+    "rating": 3.25,
+    "beer_name": "Wild & Funky Everyday - Brett American Farmhouse Rioja Barrel Aged",
+    "brewery": "Maryensztadt",
+    "beer_type": "Wild Ale - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-26T19:56:46+00:00",
+    "serving": "bottle",
+    "rating": 4.25,
+    "beer_name": "Spontaan Gaard - Kersen 2024",
+    "brewery": "Lubrow Brett & Barrel",
+    "beer_type": "Lambic - Kriek"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-26T19:56:19+00:00",
+    "serving": "can",
+    "rating": 5.0,
+    "beer_name": "Wild & Funky Orange Brett Ale Rioja Barrel Aged",
+    "brewery": "Maryensztadt",
+    "beer_type": "Brett Beer"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-26T19:55:40+00:00",
+    "serving": "bottle",
+    "rating": 4.5,
+    "beer_name": "Spontaan Gaard - Kersen 2024",
+    "brewery": "Lubrow Brett & Barrel",
+    "beer_type": "Lambic - Kriek"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-26T19:54:57+00:00",
+    "serving": "bottle",
+    "rating": 4.0,
+    "beer_name": "Spontaan Gaard - Kersen 2024",
+    "brewery": "Lubrow Brett & Barrel",
+    "beer_type": "Lambic - Kriek"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-26T19:52:43+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Wild & Funky Orange Brett Ale Rioja Barrel Aged",
+    "brewery": "Maryensztadt",
+    "beer_type": "Brett Beer"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-26T19:51:32+00:00",
+    "serving": "can",
+    "rating": null,
+    "beer_name": "Wild & Funky Orange Brett Ale Rioja Barrel Aged",
+    "brewery": "Maryensztadt",
+    "beer_type": "Brett Beer"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-26T19:51:16+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Wild & Funky Orange Brett Ale Rioja Barrel Aged",
+    "brewery": "Maryensztadt",
+    "beer_type": "Brett Beer"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-26T19:50:18+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Wild & Funky Orange Brett Ale Rioja Barrel Aged",
+    "brewery": "Maryensztadt",
+    "beer_type": "Brett Beer"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-26T19:49:21+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Wild & Funky Orange Brett Ale Rioja Barrel Aged",
+    "brewery": "Maryensztadt",
+    "beer_type": "Brett Beer"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-26T19:49:12+00:00",
+    "serving": "Unknown",
+    "rating": 4.25,
+    "beer_name": "Wild & Funky Orange Brett Ale Rioja Barrel Aged",
+    "brewery": "Maryensztadt",
+    "beer_type": "Brett Beer"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-26T19:48:34+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Wild & Funky Orange Brett Ale Rioja Barrel Aged",
+    "brewery": "Maryensztadt",
+    "beer_type": "Brett Beer"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-26T19:47:42+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Aged & Blend - Ice Brett Ale + Ice Brett Baltic Porter",
+    "brewery": "Maryensztadt",
+    "beer_type": "Freeze-Distilled Beer"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-26T19:46:56+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "AGED & BLEND - FRUIT WILD ALE",
+    "brewery": "Maryensztadt",
+    "beer_type": "Wild Ale - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-26T19:46:23+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Barrel Aged Project: Ice Coffee & Coconut RIS Bourbon BA Pistachio, Marzipan & Vanilla",
+    "brewery": "Maryensztadt",
+    "beer_type": "Freeze-Distilled Beer"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-26T19:44:56+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Aged & Blend: Barley Wine + Imperial Stout + Dry Fruits",
+    "brewery": "Maryensztadt",
+    "beer_type": "Strong Ale - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-26T19:44:52+00:00",
+    "serving": "can",
+    "rating": 4.75,
+    "beer_name": "Aged & Blend: Barley Wine + Imperial Stout + Dry Fruits",
+    "brewery": "Maryensztadt",
+    "beer_type": "Strong Ale - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-26T19:43:34+00:00",
+    "serving": "Unknown",
+    "rating": 4.25,
+    "beer_name": "Barrel Aged Project - Coffee & Coconut ICE RIS Bourbon BA - Dates & Milk Chocolate - Stan Umysłu",
+    "brewery": "Maryensztadt",
+    "beer_type": "Freeze-Distilled Beer"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-26T19:43:32+00:00",
+    "serving": "can",
+    "rating": 4.75,
+    "beer_name": "Aged & Blend: Barley Wine + Imperial Stout + Dry Fruits",
+    "brewery": "Maryensztadt",
+    "beer_type": "Strong Ale - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-26T19:43:25+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "Aged & Blend: Barley Wine + Imperial Stout + Dry Fruits",
+    "brewery": "Maryensztadt",
+    "beer_type": "Strong Ale - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-26T19:42:57+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "JOYRIDE Aronia Sour Ale Rioja Barrel Aged",
+    "brewery": "Maryensztadt",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "beerz",
+    "time": "2025-10-26T19:42:52+00:00",
+    "serving": "draft",
+    "rating": 2.0,
+    "beer_name": "Hobgoblin Legendary Ruby Beer",
+    "brewery": "Marston's Brewery",
+    "beer_type": "Brown Ale - English"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-26T19:42:28+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "Aged & Blend: Barley Wine + Imperial Stout + Dry Fruits",
+    "brewery": "Maryensztadt",
+    "beer_type": "Strong Ale - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-26T19:41:50+00:00",
+    "serving": "can",
+    "rating": null,
+    "beer_name": "Aged & Blend: Barley Wine + Imperial Stout + Dry Fruits",
+    "brewery": "Maryensztadt",
+    "beer_type": "Strong Ale - Other"
+  },
+  {
+    "venue": "beerz",
+    "time": "2025-10-26T19:41:44+00:00",
+    "serving": "draft",
+    "rating": 3.0,
+    "beer_name": "Budweiser",
+    "brewery": "Anheuser-Busch",
+    "beer_type": "Lager - American"
+  },
+  {
+    "venue": "beerz",
+    "time": "2025-10-26T19:41:22+00:00",
+    "serving": "draft",
+    "rating": 2.75,
+    "beer_name": "Budweiser Budvar / Czechvar Original",
+    "brewery": "Budějovický Budvar",
+    "beer_type": "Pilsner - Czech / Bohemian"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-26T19:41:13+00:00",
+    "serving": "can",
+    "rating": 2.5,
+    "beer_name": "JOYRIDE Aronia Sour Ale Rioja Barrel Aged",
+    "brewery": "Maryensztadt",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "beerz",
+    "time": "2025-10-26T19:40:49+00:00",
+    "serving": "bottle",
+    "rating": 3.25,
+    "beer_name": "Hobgoblin Legendary Ruby (2025)",
+    "brewery": "Marston's Brewery",
+    "beer_type": "Red Ale - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-26T19:40:48+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Barrel Aged Project - Coffee & Coconut ICE RIS Bourbon BA - Dates & Milk Chocolate - Stan Umysłu",
+    "brewery": "Maryensztadt",
+    "beer_type": "Freeze-Distilled Beer"
+  },
+  {
+    "venue": "beerz",
+    "time": "2025-10-26T19:39:37+00:00",
+    "serving": "bottle",
+    "rating": 4.0,
+    "beer_name": "3 Fonteinen Oude Kriek (season 21|22) Blend No. 29",
+    "brewery": "Brouwerij 3 Fonteinen",
+    "beer_type": "Lambic - Kriek"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-26T19:39:32+00:00",
+    "serving": "can",
+    "rating": null,
+    "beer_name": "Aged & Blend: Barley Wine + Imperial Stout + Dry Fruits",
+    "brewery": "Maryensztadt",
+    "beer_type": "Strong Ale - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-26T19:39:27+00:00",
+    "serving": "can",
+    "rating": 4.5,
+    "beer_name": "Barrel Aged Project - Coffee & Coconut ICE RIS Bourbon BA - Dates & Milk Chocolate - Stan Umysłu",
+    "brewery": "Maryensztadt",
+    "beer_type": "Freeze-Distilled Beer"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-26T19:38:25+00:00",
+    "serving": "can",
+    "rating": 3.25,
+    "beer_name": "Barrel Aged Project - Coffee & Coconut ICE RIS Bourbon BA - Dates & Milk Chocolate - Stan Umysłu",
+    "brewery": "Maryensztadt",
+    "beer_type": "Freeze-Distilled Beer"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-26T19:38:10+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Barrel Aged Project - Coffee & Coconut ICE RIS Bourbon BA - Dates & Milk Chocolate - Stan Umysłu",
+    "brewery": "Maryensztadt",
+    "beer_type": "Freeze-Distilled Beer"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-26T19:37:43+00:00",
+    "serving": "can",
+    "rating": 3.25,
+    "beer_name": "Barrel Aged Project: Ice Coffee & Coconut RIS Bourbon BA Pistachio, Marzipan & Vanilla",
+    "brewery": "Maryensztadt",
+    "beer_type": "Freeze-Distilled Beer"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-26T19:37:07+00:00",
+    "serving": "can",
+    "rating": 2.75,
+    "beer_name": "Barrel Aged Project - Coffee & Coconut ICE RIS Bourbon BA - Dates & Milk Chocolate - Stan Umysłu",
+    "brewery": "Maryensztadt",
+    "beer_type": "Freeze-Distilled Beer"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-26T19:36:14+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Project Barrel Aged Coconut ICE RIS Rum Barrel Aged",
+    "brewery": "Maryensztadt",
+    "beer_type": "Freeze-Distilled Beer"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-26T19:35:50+00:00",
+    "serving": "can",
+    "rating": null,
+    "beer_name": "Barrel Aged Project - Coffee & Coconut ICE RIS Bourbon BA - Dates & Milk Chocolate - Stan Umysłu",
+    "brewery": "Maryensztadt",
+    "beer_type": "Freeze-Distilled Beer"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-26T19:35:33+00:00",
+    "serving": "can",
+    "rating": null,
+    "beer_name": "Barrel Aged Project - Coffee & Coconut ICE RIS Bourbon BA - Dates & Milk Chocolate - Stan Umysłu",
+    "brewery": "Maryensztadt",
+    "beer_type": "Freeze-Distilled Beer"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-26T19:34:13+00:00",
+    "serving": "draft",
+    "rating": null,
+    "beer_name": "Abricot Tilquin - Draft Version",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-26T19:29:56+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Barrel Aged Project: Ice Coffee & Coconut RIS Bourbon BA Pistachio, Marzipan & Vanilla",
+    "brewery": "Maryensztadt",
+    "beer_type": "Freeze-Distilled Beer"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-26T19:29:04+00:00",
+    "serving": "draft",
+    "rating": 3.8,
+    "beer_name": "Sim Sima",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - Imperial / Double"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-26T19:28:54+00:00",
+    "serving": "can",
+    "rating": 0.5,
+    "beer_name": "Wunderbar 13",
+    "brewery": "Maryensztadt",
+    "beer_type": "Pilsner - German"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-26T19:27:51+00:00",
+    "serving": "can",
+    "rating": 1.0,
+    "beer_name": "Barrel Aged Project: Ice Coffee & Coconut RIS Bourbon BA Pistachio, Marzipan & Vanilla",
+    "brewery": "Maryensztadt",
+    "beer_type": "Freeze-Distilled Beer"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-26T19:27:17+00:00",
+    "serving": "can",
+    "rating": 3.0,
+    "beer_name": "Barrel Aged Project: Ice Coffee & Coconut RIS Bourbon BA Pistachio, Marzipan & Vanilla",
+    "brewery": "Maryensztadt",
+    "beer_type": "Freeze-Distilled Beer"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-26T19:27:08+00:00",
+    "serving": "can",
+    "rating": 1.5,
+    "beer_name": "AGED & BLEND - FRUIT WILD ALE",
+    "brewery": "Maryensztadt",
+    "beer_type": "Wild Ale - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-26T19:26:36+00:00",
+    "serving": "can",
+    "rating": null,
+    "beer_name": "Barrel Aged Project: Ice Coffee & Coconut RIS Bourbon BA Pistachio, Marzipan & Vanilla",
+    "brewery": "Maryensztadt",
+    "beer_type": "Freeze-Distilled Beer"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-26T19:25:59+00:00",
+    "serving": "can",
+    "rating": 3.25,
+    "beer_name": "Barrel Aged Project: Ice Coffee & Coconut RIS Bourbon BA Pistachio, Marzipan & Vanilla",
+    "brewery": "Maryensztadt",
+    "beer_type": "Freeze-Distilled Beer"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-26T19:25:32+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Barrel Aged Project: Ice Coffee & Coconut RIS Bourbon BA Pistachio, Marzipan & Vanilla",
+    "brewery": "Maryensztadt",
+    "beer_type": "Freeze-Distilled Beer"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-26T19:24:36+00:00",
+    "serving": "can",
+    "rating": 3.25,
+    "beer_name": "Aged & Blend - Ice Brett Ale + Ice Brett Baltic Porter",
+    "brewery": "Maryensztadt",
+    "beer_type": "Freeze-Distilled Beer"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-26T19:22:28+00:00",
+    "serving": "Unknown",
+    "rating": 4.5,
+    "beer_name": "Projekt 30 #1",
+    "brewery": "Maryensztadt",
+    "beer_type": "Porter - Imperial / Double Baltic"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-26T19:20:58+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Aged & Blend - Ice Brett Ale + Ice Brett Baltic Porter",
+    "brewery": "Maryensztadt",
+    "beer_type": "Freeze-Distilled Beer"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-26T19:20:57+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "Aged & Blend - Ice Brett Ale + Ice Brett Baltic Porter",
+    "brewery": "Maryensztadt",
+    "beer_type": "Freeze-Distilled Beer"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-26T19:20:28+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Aged & Blend - Ice Brett Ale + Ice Brett Baltic Porter",
+    "brewery": "Maryensztadt",
+    "beer_type": "Freeze-Distilled Beer"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-26T19:20:23+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Aged & Blend - Ice Brett Ale + Ice Brett Baltic Porter",
+    "brewery": "Maryensztadt",
+    "beer_type": "Freeze-Distilled Beer"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-26T19:19:19+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Aged & Blend - Ice Brett Ale + Ice Brett Baltic Porter",
+    "brewery": "Maryensztadt",
+    "beer_type": "Freeze-Distilled Beer"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-26T19:18:37+00:00",
+    "serving": "can",
+    "rating": null,
+    "beer_name": "Aged & Blend - Ice Brett Ale + Ice Brett Baltic Porter",
+    "brewery": "Maryensztadt",
+    "beer_type": "Freeze-Distilled Beer"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-26T19:15:13+00:00",
+    "serving": "can",
+    "rating": 3.25,
+    "beer_name": "Wild & Funky Brett Ale Riesling Grape Pomace & Holy Basil  Rioja BA",
+    "brewery": "Maryensztadt",
+    "beer_type": "Brett Beer"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-26T19:14:53+00:00",
+    "serving": "can",
+    "rating": 4.5,
+    "beer_name": "Wild & Funky Brett Ale Riesling Grape Pomace & Holy Basil  Rioja BA",
+    "brewery": "Maryensztadt",
+    "beer_type": "Brett Beer"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-26T19:14:41+00:00",
+    "serving": "can",
+    "rating": 2.75,
+    "beer_name": "Wild & Funky Brett Ale Riesling Grape Pomace & Holy Basil  Rioja BA",
+    "brewery": "Maryensztadt",
+    "beer_type": "Brett Beer"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-26T19:13:19+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Wild & Funky Brett Ale Riesling Grape Pomace & Holy Basil  Rioja BA",
+    "brewery": "Maryensztadt",
+    "beer_type": "Brett Beer"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-26T19:13:11+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "Wild & Funky Brett Ale Riesling Grape Pomace & Holy Basil  Rioja BA",
+    "brewery": "Maryensztadt",
+    "beer_type": "Brett Beer"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-26T19:12:42+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Wild & Funky Brett Ale Riesling Grape Pomace & Holy Basil  Rioja BA",
+    "brewery": "Maryensztadt",
+    "beer_type": "Brett Beer"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-26T19:11:36+00:00",
+    "serving": "can",
+    "rating": null,
+    "beer_name": "Wild & Funky Brett Ale Riesling Grape Pomace & Holy Basil  Rioja BA",
+    "brewery": "Maryensztadt",
+    "beer_type": "Brett Beer"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-26T19:11:26+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Wild & Funky Everyday - Wild Ale Riesling Grape Pomace Rioja BA",
+    "brewery": "Maryensztadt",
+    "beer_type": "Wild Ale - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-26T19:08:08+00:00",
+    "serving": "can",
+    "rating": 5.0,
+    "beer_name": "Wild & Funky Everyday - Wild Ale Riesling Grape Pomace Rioja BA",
+    "brewery": "Maryensztadt",
+    "beer_type": "Wild Ale - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-26T19:08:03+00:00",
+    "serving": "Unknown",
+    "rating": 4.25,
+    "beer_name": "Wild & Funky Everyday - Wild Ale Riesling Grape Pomace Rioja BA",
+    "brewery": "Maryensztadt",
+    "beer_type": "Wild Ale - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-26T19:07:42+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Wild & Funky Everyday - Wild Ale Riesling Grape Pomace Rioja BA",
+    "brewery": "Maryensztadt",
+    "beer_type": "Wild Ale - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-26T19:07:34+00:00",
+    "serving": "can",
+    "rating": null,
+    "beer_name": "Wild & Funky Everyday - Wild Ale Riesling Grape Pomace Rioja BA",
+    "brewery": "Maryensztadt",
+    "beer_type": "Wild Ale - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-26T19:06:49+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "Wild & Funky Everyday - Wild Ale Riesling Grape Pomace Rioja BA",
+    "brewery": "Maryensztadt",
+    "beer_type": "Wild Ale - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-26T19:06:44+00:00",
+    "serving": "can",
+    "rating": 4.5,
+    "beer_name": "Wild & Funky Everyday - Wild Ale Riesling Grape Pomace Rioja BA",
+    "brewery": "Maryensztadt",
+    "beer_type": "Wild Ale - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-26T19:06:14+00:00",
+    "serving": "can",
+    "rating": 4.5,
+    "beer_name": "Wild & Funky Everyday - Wild Ale Riesling Grape Pomace Rioja BA",
+    "brewery": "Maryensztadt",
+    "beer_type": "Wild Ale - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-26T19:04:48+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Wild & Funky Everyday - Wild Ale Riesling Grape Pomace Rioja BA",
+    "brewery": "Maryensztadt",
+    "beer_type": "Wild Ale - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-26T19:03:53+00:00",
+    "serving": "can",
+    "rating": 3.8,
+    "beer_name": "Barrel Aged Project: Brownie RIS Heaven Hill Bourbon BA",
+    "brewery": "Maryensztadt",
+    "beer_type": "Stout - Russian Imperial"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-26T19:03:15+00:00",
+    "serving": "bottle",
+    "rating": 4.3,
+    "beer_name": "3 Fonteinen Oude Geuze Cuvée Armand & Gaston (season 22|23) Blend No. 6",
+    "brewery": "Brouwerij 3 Fonteinen",
+    "beer_type": "Lambic - Gueuze"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-26T19:02:35+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "Project Barrel Aged Coconut ICE RIS Rum Barrel Aged",
+    "brewery": "Maryensztadt",
+    "beer_type": "Freeze-Distilled Beer"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-26T19:01:46+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Project Barrel Aged Coconut ICE RIS Rum Barrel Aged",
+    "brewery": "Maryensztadt",
+    "beer_type": "Freeze-Distilled Beer"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-26T19:01:18+00:00",
+    "serving": "bottle",
+    "rating": 4.4,
+    "beer_name": "3 Fonteinen Oude Geuze Cuvée Armand & Gaston (season 22|23) Blend No. 6",
+    "brewery": "Brouwerij 3 Fonteinen",
+    "beer_type": "Lambic - Gueuze"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-26T19:00:03+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Project Barrel Aged Coconut ICE RIS Rum Barrel Aged",
+    "brewery": "Maryensztadt",
+    "beer_type": "Freeze-Distilled Beer"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-26T18:59:49+00:00",
+    "serving": "can",
+    "rating": 2.0,
+    "beer_name": "Project Barrel Aged Coconut ICE RIS Rum Barrel Aged",
+    "brewery": "Maryensztadt",
+    "beer_type": "Freeze-Distilled Beer"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-26T18:59:21+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Project Barrel Aged Coconut ICE RIS Rum Barrel Aged",
+    "brewery": "Maryensztadt",
+    "beer_type": "Freeze-Distilled Beer"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-26T18:57:11+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "Project Barrel Aged Coconut ICE RIS Rum Barrel Aged",
+    "brewery": "Maryensztadt",
+    "beer_type": "Freeze-Distilled Beer"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-26T18:57:05+00:00",
+    "serving": "bottle",
+    "rating": null,
+    "beer_name": "Project Barrel Aged Coconut ICE RIS Rum Barrel Aged",
+    "brewery": "Maryensztadt",
+    "beer_type": "Freeze-Distilled Beer"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-26T18:56:10+00:00",
+    "serving": "can",
+    "rating": null,
+    "beer_name": "Project Barrel Aged Coconut ICE RIS Rum Barrel Aged",
+    "brewery": "Maryensztadt",
+    "beer_type": "Freeze-Distilled Beer"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-26T18:55:56+00:00",
+    "serving": "Unknown",
+    "rating": 4.25,
+    "beer_name": "Project Barrel Aged Coconut ICE RIS Rum Barrel Aged",
+    "brewery": "Maryensztadt",
+    "beer_type": "Freeze-Distilled Beer"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-26T18:55:13+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Barrel Aged Project: Ice Imperial Stout Rum BA",
+    "brewery": "Maryensztadt",
+    "beer_type": "Freeze-Distilled Beer"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-26T18:55:05+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Barrel Aged Project: Ice Imperial Stout Rum BA",
+    "brewery": "Maryensztadt",
+    "beer_type": "Freeze-Distilled Beer"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-26T18:54:29+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Barrel Aged Project: Ice Imperial Stout Rum BA",
+    "brewery": "Maryensztadt",
+    "beer_type": "Freeze-Distilled Beer"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-26T18:53:41+00:00",
+    "serving": "can",
+    "rating": 2.0,
+    "beer_name": "Darkness My Friend - Imperial Baltic Porter Chilli & Pepper",
+    "brewery": "Maryensztadt",
+    "beer_type": "Porter - Imperial / Double Baltic"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-26T18:52:34+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Barrel Aged Project: Ice Imperial Stout Rum BA",
+    "brewery": "Maryensztadt",
+    "beer_type": "Freeze-Distilled Beer"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-26T18:52:15+00:00",
+    "serving": "can",
+    "rating": 4.5,
+    "beer_name": "Barrel Aged Project: Ice Imperial Stout Rum BA",
+    "brewery": "Maryensztadt",
+    "beer_type": "Freeze-Distilled Beer"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-26T18:52:03+00:00",
+    "serving": "bottle",
+    "rating": null,
+    "beer_name": "Barrel Aged Project: Ice Imperial Stout Rum BA",
+    "brewery": "Maryensztadt",
+    "beer_type": "Freeze-Distilled Beer"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-26T18:51:32+00:00",
+    "serving": "can",
+    "rating": 2.0,
+    "beer_name": "Barrel Aged Project: Ice Imperial Stout Rum BA",
+    "brewery": "Maryensztadt",
+    "beer_type": "Freeze-Distilled Beer"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-26T18:49:32+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Barrel Aged Project: Ice Imperial Stout Rum BA",
+    "brewery": "Maryensztadt",
+    "beer_type": "Freeze-Distilled Beer"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-26T18:46:55+00:00",
+    "serving": "can",
+    "rating": 2.25,
+    "beer_name": "Barrel Aged Projekt: RIS Bowmore Whisky BA",
+    "brewery": "Maryensztadt",
+    "beer_type": "Stout - Russian Imperial"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-26T18:45:22+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "Darkness My Friend - Imperial Baltic Porter Chilli & Pepper",
+    "brewery": "Maryensztadt",
+    "beer_type": "Porter - Imperial / Double Baltic"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-26T18:44:50+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Darkness My Friend - Imperial Baltic Porter Chilli & Pepper",
+    "brewery": "Maryensztadt",
+    "beer_type": "Porter - Imperial / Double Baltic"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-26T18:44:04+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Darkness My Friend - Imperial Baltic Porter Chilli & Pepper",
+    "brewery": "Maryensztadt",
+    "beer_type": "Porter - Imperial / Double Baltic"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-26T18:41:16+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Darkness My Friend - Imperial Baltic Porter Chilli & Pepper",
+    "brewery": "Maryensztadt",
+    "beer_type": "Porter - Imperial / Double Baltic"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-26T18:41:02+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Darkness My Friend - Imperial Baltic Porter Chilli & Pepper",
+    "brewery": "Maryensztadt",
+    "beer_type": "Porter - Imperial / Double Baltic"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-26T18:41:01+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Darkness My Friend - Imperial Baltic Porter Chilli & Pepper",
+    "brewery": "Maryensztadt",
+    "beer_type": "Porter - Imperial / Double Baltic"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-26T18:37:28+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Darkness My Friends Imperial Baltic Porter Coffee & Date Syrup",
+    "brewery": "Maryensztadt",
+    "beer_type": "Porter - Baltic"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-26T18:37:13+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "Darkness My Friends Imperial Baltic Porter Coffee & Date Syrup",
+    "brewery": "Maryensztadt",
+    "beer_type": "Porter - Baltic"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-26T18:36:50+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Darkness My Friends Imperial Baltic Porter Coffee & Date Syrup",
+    "brewery": "Maryensztadt",
+    "beer_type": "Porter - Baltic"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-26T18:36:28+00:00",
+    "serving": "can",
+    "rating": 3.25,
+    "beer_name": "Darkness My Friends Imperial Baltic Porter Coffee & Date Syrup",
+    "brewery": "Maryensztadt",
+    "beer_type": "Porter - Baltic"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-26T18:36:28+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Darkness My Friends Imperial Baltic Porter Coffee & Date Syrup",
+    "brewery": "Maryensztadt",
+    "beer_type": "Porter - Baltic"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-26T18:34:37+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Darkness My Friends Imperial Baltic Porter Coffee & Date Syrup",
+    "brewery": "Maryensztadt",
+    "beer_type": "Porter - Baltic"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-26T18:33:45+00:00",
+    "serving": "Unknown",
+    "rating": 4.5,
+    "beer_name": "Barrel Aged Projekt: Chocolate Rye RIS Jack Daniels Whiskey BA",
+    "brewery": "Maryensztadt",
+    "beer_type": "Stout - Russian Imperial"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-26T18:32:27+00:00",
+    "serving": "can",
+    "rating": null,
+    "beer_name": "Darkness My Friends Imperial Baltic Porter Coffee & Date Syrup",
+    "brewery": "Maryensztadt",
+    "beer_type": "Porter - Baltic"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-26T18:30:42+00:00",
+    "serving": "bottle",
+    "rating": 3.75,
+    "beer_name": "Barrel Aged Projekt: Chocolate Rye RIS Jack Daniels Whiskey BA",
+    "brewery": "Maryensztadt",
+    "beer_type": "Stout - Russian Imperial"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-26T18:28:57+00:00",
+    "serving": "bottle",
+    "rating": 3.0,
+    "beer_name": "Barrel Aged Projekt: Chocolate Rye RIS Jack Daniels Whiskey BA",
+    "brewery": "Maryensztadt",
+    "beer_type": "Stout - Russian Imperial"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-26T18:28:22+00:00",
+    "serving": "bottle",
+    "rating": 4.0,
+    "beer_name": "Barrel Aged Projekt: Chocolate Rye RIS Jack Daniels Whiskey BA",
+    "brewery": "Maryensztadt",
+    "beer_type": "Stout - Russian Imperial"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-26T18:28:21+00:00",
+    "serving": "bottle",
+    "rating": 3.75,
+    "beer_name": "Barrel Aged Projekt: Chocolate Rye RIS Jack Daniels Whiskey BA",
+    "brewery": "Maryensztadt",
+    "beer_type": "Stout - Russian Imperial"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-26T18:27:46+00:00",
+    "serving": "bottle",
+    "rating": 3.75,
+    "beer_name": "Barrel Aged Projekt: Chocolate Rye RIS Jack Daniels Whiskey BA",
+    "brewery": "Maryensztadt",
+    "beer_type": "Stout - Russian Imperial"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-26T18:27:41+00:00",
+    "serving": "bottle",
+    "rating": 2.0,
+    "beer_name": "Barrel Aged Projekt: Chocolate Rye RIS Jack Daniels Whiskey BA",
+    "brewery": "Maryensztadt",
+    "beer_type": "Stout - Russian Imperial"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-26T18:27:02+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Barrel Aged Projekt: Chocolate Rye RIS Jack Daniels Whiskey BA",
+    "brewery": "Maryensztadt",
+    "beer_type": "Stout - Russian Imperial"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-26T18:25:20+00:00",
+    "serving": "bottle",
+    "rating": null,
+    "beer_name": "Barrel Aged Projekt: Chocolate Rye RIS Jack Daniels Whiskey BA",
+    "brewery": "Maryensztadt",
+    "beer_type": "Stout - Russian Imperial"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-26T18:25:08+00:00",
+    "serving": "can",
+    "rating": 1.0,
+    "beer_name": "Blend No.4",
+    "brewery": "Lubrow Brett & Barrel",
+    "beer_type": "Strong Ale - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-26T18:25:04+00:00",
+    "serving": "Unknown",
+    "rating": 4.25,
+    "beer_name": "Blend No.4",
+    "brewery": "Lubrow Brett & Barrel",
+    "beer_type": "Strong Ale - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-26T18:24:41+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Blend No.4",
+    "brewery": "Lubrow Brett & Barrel",
+    "beer_type": "Strong Ale - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-26T18:23:56+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Blend No.4",
+    "brewery": "Lubrow Brett & Barrel",
+    "beer_type": "Strong Ale - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-26T18:23:27+00:00",
+    "serving": "can",
+    "rating": 3.8,
+    "beer_name": "Barrel Aged Project: Brownie RIS Heaven Hill Bourbon BA",
+    "brewery": "Maryensztadt",
+    "beer_type": "Stout - Russian Imperial"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-26T18:23:11+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Barrel Aged Project: Brownie RIS Heaven Hill Bourbon BA",
+    "brewery": "Maryensztadt",
+    "beer_type": "Stout - Russian Imperial"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-26T18:22:59+00:00",
+    "serving": "can",
+    "rating": 5.0,
+    "beer_name": "Blend No.4",
+    "brewery": "Lubrow Brett & Barrel",
+    "beer_type": "Strong Ale - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-26T18:21:13+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Blend No.4",
+    "brewery": "Lubrow Brett & Barrel",
+    "beer_type": "Strong Ale - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-26T18:19:29+00:00",
+    "serving": "can",
+    "rating": 2.5,
+    "beer_name": "Barrel Aged Project: Brownie RIS Heaven Hill Bourbon BA",
+    "brewery": "Maryensztadt",
+    "beer_type": "Stout - Russian Imperial"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-26T18:19:11+00:00",
+    "serving": "can",
+    "rating": null,
+    "beer_name": "Blend No.4",
+    "brewery": "Lubrow Brett & Barrel",
+    "beer_type": "Strong Ale - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-26T18:18:58+00:00",
+    "serving": "can",
+    "rating": null,
+    "beer_name": "Blend No.4",
+    "brewery": "Lubrow Brett & Barrel",
+    "beer_type": "Strong Ale - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-26T18:18:23+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Barrel Aged Project: Brownie RIS Heaven Hill Bourbon BA",
+    "brewery": "Maryensztadt",
+    "beer_type": "Stout - Russian Imperial"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-26T18:17:01+00:00",
+    "serving": "can",
+    "rating": 3.25,
+    "beer_name": "Barrel Aged Project: Brownie RIS Heaven Hill Bourbon BA",
+    "brewery": "Maryensztadt",
+    "beer_type": "Stout - Russian Imperial"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-26T18:16:15+00:00",
+    "serving": "can",
+    "rating": 3.25,
+    "beer_name": "Barrel Aged Project: Brownie RIS Heaven Hill Bourbon BA",
+    "brewery": "Maryensztadt",
+    "beer_type": "Stout - Russian Imperial"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-26T18:15:04+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Barrel Aged Project: Brownie RIS Heaven Hill Bourbon BA",
+    "brewery": "Maryensztadt",
+    "beer_type": "Stout - Russian Imperial"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-26T18:14:55+00:00",
+    "serving": "can",
+    "rating": 4.5,
+    "beer_name": "Barrel Aged Project: Brownie RIS Heaven Hill Bourbon BA",
+    "brewery": "Maryensztadt",
+    "beer_type": "Stout - Russian Imperial"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-26T18:12:56+00:00",
+    "serving": "can",
+    "rating": 3.25,
+    "beer_name": "Barrel Aged Project: Brownie RIS Heaven Hill Bourbon BA",
+    "brewery": "Maryensztadt",
+    "beer_type": "Stout - Russian Imperial"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-26T18:11:52+00:00",
+    "serving": "can",
+    "rating": null,
+    "beer_name": "Barrel Aged Project: Brownie RIS Heaven Hill Bourbon BA",
+    "brewery": "Maryensztadt",
+    "beer_type": "Stout - Russian Imperial"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-26T18:08:53+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Gwiazda Północy",
+    "brewery": "Maryensztadt",
+    "beer_type": "Porter - Smoked"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-26T18:08:11+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Gwiazda Północy",
+    "brewery": "Maryensztadt",
+    "beer_type": "Porter - Smoked"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-26T18:08:10+00:00",
+    "serving": "can",
+    "rating": 2.75,
+    "beer_name": "Gwiazda Północy",
+    "brewery": "Maryensztadt",
+    "beer_type": "Porter - Smoked"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-26T18:07:01+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "Gwiazda Północy",
+    "brewery": "Maryensztadt",
+    "beer_type": "Porter - Smoked"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-26T18:06:56+00:00",
+    "serving": "can",
+    "rating": 2.75,
+    "beer_name": "Gwiazda Północy",
+    "brewery": "Maryensztadt",
+    "beer_type": "Porter - Smoked"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-26T18:06:43+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Gwiazda Północy",
+    "brewery": "Maryensztadt",
+    "beer_type": "Porter - Smoked"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-26T18:06:37+00:00",
+    "serving": "Unknown",
+    "rating": 4.25,
+    "beer_name": "Gwiazda Północy",
+    "brewery": "Maryensztadt",
+    "beer_type": "Porter - Smoked"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-26T18:05:28+00:00",
+    "serving": "can",
+    "rating": null,
+    "beer_name": "Gwiazda Północy",
+    "brewery": "Maryensztadt",
+    "beer_type": "Porter - Smoked"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-26T18:05:11+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Gwiazda Północy",
+    "brewery": "Maryensztadt",
+    "beer_type": "Porter - Smoked"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-26T18:04:21+00:00",
+    "serving": "Unknown",
+    "rating": 4.25,
+    "beer_name": "Barrel Aged Projekt: Barley Wine Laphroaig BA",
+    "brewery": "Maryensztadt",
+    "beer_type": "Barleywine - English"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-26T18:04:12+00:00",
+    "serving": "bottle",
+    "rating": 3.25,
+    "beer_name": "Barrel Aged Projekt: Barley Wine Laphroaig BA",
+    "brewery": "Maryensztadt",
+    "beer_type": "Barleywine - English"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-26T18:03:23+00:00",
+    "serving": "bottle",
+    "rating": 4.75,
+    "beer_name": "Barrel Aged Projekt: Barley Wine Laphroaig BA",
+    "brewery": "Maryensztadt",
+    "beer_type": "Barleywine - English"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-26T18:03:05+00:00",
+    "serving": "bottle",
+    "rating": 4.0,
+    "beer_name": "Barrel Aged Projekt: Barley Wine Laphroaig BA",
+    "brewery": "Maryensztadt",
+    "beer_type": "Barleywine - English"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-26T18:02:41+00:00",
+    "serving": "bottle",
+    "rating": null,
+    "beer_name": "Barrel Aged Projekt: Barley Wine Laphroaig BA",
+    "brewery": "Maryensztadt",
+    "beer_type": "Barleywine - English"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-26T18:01:58+00:00",
+    "serving": "bottle",
+    "rating": 4.5,
+    "beer_name": "Barrel Aged Projekt: Barley Wine Laphroaig BA",
+    "brewery": "Maryensztadt",
+    "beer_type": "Barleywine - English"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-26T18:01:56+00:00",
+    "serving": "bottle",
+    "rating": 3.0,
+    "beer_name": "Barrel Aged Projekt: Barley Wine Laphroaig BA",
+    "brewery": "Maryensztadt",
+    "beer_type": "Barleywine - English"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-26T18:01:47+00:00",
+    "serving": "bottle",
+    "rating": 4.5,
+    "beer_name": "Barrel Aged Projekt: Barley Wine Laphroaig BA",
+    "brewery": "Maryensztadt",
+    "beer_type": "Barleywine - English"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-10-26T18:01:02+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "Fruity Mish Mash",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-26T18:00:58+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Must Kuld",
+    "brewery": "Põhjala",
+    "beer_type": "Porter - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-26T18:00:31+00:00",
+    "serving": "bottle",
+    "rating": 3.5,
+    "beer_name": "Barrel Aged Projekt: Barley Wine Laphroaig BA",
+    "brewery": "Maryensztadt",
+    "beer_type": "Barleywine - English"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-26T17:59:31+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Barrel Aged Projekt: Wheat Wine Cognac BA",
+    "brewery": "Maryensztadt",
+    "beer_type": "Wheat Beer - Wheat Wine"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-26T17:58:05+00:00",
+    "serving": "bottle",
+    "rating": null,
+    "beer_name": "Barrel Aged Projekt: Wheat Wine Cognac BA",
+    "brewery": "Maryensztadt",
+    "beer_type": "Wheat Beer - Wheat Wine"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-26T17:57:38+00:00",
+    "serving": "bottle",
+    "rating": 3.75,
+    "beer_name": "Barrel Aged Projekt: Wheat Wine Cognac BA",
+    "brewery": "Maryensztadt",
+    "beer_type": "Wheat Beer - Wheat Wine"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-26T17:57:26+00:00",
+    "serving": "bottle",
+    "rating": 4.5,
+    "beer_name": "Barrel Aged Projekt: Wheat Wine Cognac BA",
+    "brewery": "Maryensztadt",
+    "beer_type": "Wheat Beer - Wheat Wine"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-26T17:57:22+00:00",
+    "serving": "bottle",
+    "rating": 2.75,
+    "beer_name": "Barrel Aged Projekt: Wheat Wine Cognac BA",
+    "brewery": "Maryensztadt",
+    "beer_type": "Wheat Beer - Wheat Wine"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-26T17:57:15+00:00",
+    "serving": "bottle",
+    "rating": 4.25,
+    "beer_name": "Barrel Aged Projekt: Wheat Wine Cognac BA",
+    "brewery": "Maryensztadt",
+    "beer_type": "Wheat Beer - Wheat Wine"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-26T17:57:11+00:00",
+    "serving": "bottle",
+    "rating": 4.25,
+    "beer_name": "Barrel Aged Projekt: Wheat Wine Cognac BA",
+    "brewery": "Maryensztadt",
+    "beer_type": "Wheat Beer - Wheat Wine"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-10-26T17:56:19+00:00",
+    "serving": "bottle",
+    "rating": 4.25,
+    "beer_name": "Barrel Aged Projekt: Wheat Wine Cognac BA",
+    "brewery": "Maryensztadt",
+    "beer_type": "Wheat Beer - Wheat Wine"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-26T17:56:09+00:00",
+    "serving": "bottle",
+    "rating": 3.75,
+    "beer_name": "Barrel Aged Projekt: Wheat Wine Cognac BA",
+    "brewery": "Maryensztadt",
+    "beer_type": "Wheat Beer - Wheat Wine"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-26T17:55:54+00:00",
+    "serving": "bottle",
+    "rating": 4.0,
+    "beer_name": "Barrel Aged Projekt: Wheat Wine Cognac BA",
+    "brewery": "Maryensztadt",
+    "beer_type": "Wheat Beer - Wheat Wine"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-26T17:34:04+00:00",
+    "serving": "can",
+    "rating": null,
+    "beer_name": "About To Stout",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Stout - Oatmeal"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-26T17:26:42+00:00",
+    "serving": "can",
+    "rating": 3.25,
+    "beer_name": "Must Kuld",
+    "brewery": "Põhjala",
+    "beer_type": "Porter - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-26T17:01:16+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Porter&Sons: Marshmallow",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Porter - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-26T16:34:23+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "Abricot Tilquin - Draft Version",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-26T16:33:32+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Bjorn's Beer",
+    "brewery": "Attali's Family Brewery",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-26T16:11:13+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Porter&Sons: Marshmallow",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Porter - Other"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-10-26T16:10:26+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Kardemumma",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pale Ale - Other"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-10-26T16:09:27+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "About To Stout",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Stout - Oatmeal"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-10-26T16:08:46+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Cashmero קשמירו",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-10-26T16:05:24+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Sim Sima",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - Imperial / Double"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-10-26T16:03:46+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Kardemumma",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pale Ale - Other"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-10-26T16:03:39+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Rush Sour",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - Sour"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-10-26T16:01:29+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Fruity Mish Mash",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-10-26T15:55:16+00:00",
+    "serving": "draft",
+    "rating": 3.25,
+    "beer_name": "Rush Sour",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - Sour"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-10-26T15:48:01+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "עכשיו מעונן",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-10-26T15:46:11+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "OrangeDana",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-26T15:36:11+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Olde School",
+    "brewery": "Dogfish Head Craft Brewery",
+    "beer_type": "Barleywine - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-26T15:12:38+00:00",
+    "serving": "draft",
+    "rating": 3.9,
+    "beer_name": "Anything Gose: Mango",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Sour - Fruited Gose"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-26T15:07:29+00:00",
+    "serving": "draft",
+    "rating": 3.9,
+    "beer_name": "Shut Up And Drink Me! (שת\"פ)",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Historical Beer - Lichtenhainer"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-26T15:03:06+00:00",
+    "serving": "draft",
+    "rating": 3.0,
+    "beer_name": "Weissman",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Wheat Beer - Hefeweizen"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-26T14:58:15+00:00",
+    "serving": "draft",
+    "rating": 3.7,
+    "beer_name": "Sim Sima",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - Imperial / Double"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-26T14:49:42+00:00",
+    "serving": "draft",
+    "rating": 4.5,
+    "beer_name": "Sim Sima",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - Imperial / Double"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-26T14:48:43+00:00",
+    "serving": "draft",
+    "rating": 3.8,
+    "beer_name": "Same Schnitt, Different Hop: Amarillo",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pale Ale - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-26T14:41:50+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "Bjorn's Beer",
+    "brewery": "Attali's Family Brewery",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-10-26T14:39:07+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Twist & Stout",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Stout - Irish Dry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-26T14:38:28+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "Fruity Mish Mash",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-10-26T14:38:17+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Same Schnitt, Different Hop: Amarillo",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pale Ale - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-26T14:35:41+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Sim Sima",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - Imperial / Double"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-26T14:18:33+00:00",
+    "serving": "Unknown",
+    "rating": 3.8,
+    "beer_name": "IN THE  SMALL",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Table Beer"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-10-26T14:09:11+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Rush Sour",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - Sour"
+  },
+  {
+    "venue": "beer-station-beersheba-israel",
+    "time": "2025-10-26T13:45:29+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Tropical IPA",
+    "brewery": "Alexander (אלכסנדר)",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-10-26T13:20:56+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "OrangeDana",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-26T13:10:17+00:00",
+    "serving": "draft",
+    "rating": 4.5,
+    "beer_name": "Abricot Tilquin - Draft Version",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-26T11:30:57+00:00",
+    "serving": "draft",
+    "rating": 4.5,
+    "beer_name": "Abricot Tilquin - Draft Version",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-10-26T11:13:45+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Same Schnitt, Different Hop: Simcoe",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pale Ale - American"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-10-26T11:13:13+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Same Schnitt, Different Hop: Centennial",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pale Ale - Other"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-10-26T11:11:34+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Kardemumma",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pale Ale - Other"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-10-26T11:11:25+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Kardemumma",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pale Ale - Other"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-10-26T11:10:30+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Rush Sour",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - Sour"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-10-26T11:10:20+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Cashmero קשמירו",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-10-26T10:46:28+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "נקטרון האלים",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-10-26T10:38:40+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "עכשיו מעונן",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-10-26T10:32:14+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "Cashmero קשמירו",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-10-26T10:28:14+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "Rush Sour",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - Sour"
+  },
   {
     "venue": "lauter",
     "time": "2025-10-26T00:00:36+00:00",
@@ -2974,15 +5008,6 @@ const BEER_DATA = [
     "beer_type": "IPA - American"
   },
   {
-    "venue": "schnitt-brewing-company",
-    "time": "2025-10-19T19:17:21+00:00",
-    "serving": "can",
-    "rating": 4.25,
-    "beer_name": "Plum Waffle",
-    "brewery": "Duncan's Brewing",
-    "beer_type": "Sour - Smoothie / Pastry"
-  },
-  {
     "venue": "lauter",
     "time": "2025-10-19T19:17:21+00:00",
     "serving": "bottle",
@@ -2990,6 +5015,15 @@ const BEER_DATA = [
     "beer_name": "Bjorn's Beer",
     "brewery": "Attali's Family Brewery",
     "beer_type": "IPA - American"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-10-19T19:17:21+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "Plum Waffle",
+    "brewery": "Duncan's Brewing",
+    "beer_type": "Sour - Smoothie / Pastry"
   },
   {
     "venue": "lauter",
@@ -23883,7 +25917,7 @@ const BEER_DATA = [
   {
     "venue": "lauter",
     "time": "2025-09-01T17:44:35+00:00",
-    "serving": "bottle",
+    "serving": "Unknown",
     "rating": 4.0,
     "beer_name": "Hops Don’t Lie",
     "brewery": "Thurø Bryghus",
@@ -23892,7 +25926,7 @@ const BEER_DATA = [
   {
     "venue": "lauter",
     "time": "2025-09-01T17:44:35+00:00",
-    "serving": "Unknown",
+    "serving": "bottle",
     "rating": 4.0,
     "beer_name": "Hops Don’t Lie",
     "brewery": "Thurø Bryghus",
@@ -28716,8 +30750,8 @@ const BEER_DATA = [
   {
     "venue": "b7-beer-house",
     "time": "2025-08-21T16:02:37+00:00",
-    "serving": "Unknown",
-    "rating": 3.75,
+    "serving": "can",
+    "rating": 3.5,
     "beer_name": "Nitro Mini M*rs",
     "brewery": "Vault City Brewing",
     "beer_type": "Stout - Pastry"
@@ -28725,8 +30759,8 @@ const BEER_DATA = [
   {
     "venue": "b7-beer-house",
     "time": "2025-08-21T16:02:37+00:00",
-    "serving": "can",
-    "rating": 3.5,
+    "serving": "Unknown",
+    "rating": 3.75,
     "beer_name": "Nitro Mini M*rs",
     "brewery": "Vault City Brewing",
     "beer_type": "Stout - Pastry"
@@ -28824,20 +30858,20 @@ const BEER_DATA = [
   {
     "venue": "b7-beer-house",
     "time": "2025-08-21T15:59:11+00:00",
-    "serving": "Unknown",
-    "rating": 4.0,
-    "beer_name": "Naughty & Nice - White Chocolate & Raspberry",
-    "brewery": "Vocation Brewery",
-    "beer_type": "Stout - White / Golden"
-  },
-  {
-    "venue": "b7-beer-house",
-    "time": "2025-08-21T15:59:11+00:00",
     "serving": "can",
     "rating": 3.8,
     "beer_name": "Peach Rings",
     "brewery": "Vault City Brewing",
     "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-21T15:59:11+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Naughty & Nice - White Chocolate & Raspberry",
+    "brewery": "Vocation Brewery",
+    "beer_type": "Stout - White / Golden"
   },
   {
     "venue": "b7-beer-house",
