@@ -1,8 +1,296 @@
 // 🍺 BEER STATS DATA - Generated automatically
-// Last updated: 2025-10-28 06:40:01
-// Total records: 7261
+// Last updated: 2025-10-29 06:40:43
+// Total records: 7293
 
 const BEER_DATA = [
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-10-28T22:01:25+00:00",
+    "serving": "Unknown",
+    "rating": 3.25,
+    "beer_name": "Sim Sima",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - Imperial / Double"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-28T19:55:46+00:00",
+    "serving": "Unknown",
+    "rating": 4.5,
+    "beer_name": "Abricot Tilquin - Draft Version",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "porter-and-sons",
+    "time": "2025-10-28T19:44:26+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Prior 8",
+    "brewery": "Brouwerij St.Bernardus",
+    "beer_type": "Belgian Dubbel"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-28T19:32:50+00:00",
+    "serving": "draft",
+    "rating": null,
+    "beer_name": "Fruity Mish Mash",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-28T19:16:40+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Kardemumma",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pale Ale - Other"
+  },
+  {
+    "venue": "porter-and-sons",
+    "time": "2025-10-28T18:29:35+00:00",
+    "serving": "draft",
+    "rating": 3.25,
+    "beer_name": "Emek Ha'Ela Bavarian Wheat",
+    "brewery": "Srigim (שריגים)",
+    "beer_type": "Wheat Beer - Hefeweizen"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-28T18:04:51+00:00",
+    "serving": "bottle",
+    "rating": null,
+    "beer_name": "Hitachino Nest Espresso Stout",
+    "brewery": "Kiuchi Brewery",
+    "beer_type": "Stout - Coffee"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-28T17:44:00+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Spaten München / Münchner Hell / Premium Lager",
+    "brewery": "Spaten-Franziskaner-Löwenbräu-Gruppe",
+    "beer_type": "Lager - Helles"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-28T17:19:04+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Budweiser Budvar B:DARK / Czechvar B:DARK",
+    "brewery": "Budějovický Budvar",
+    "beer_type": "Lager - Tmavé (Czech Dark)"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-28T17:18:20+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Oasis",
+    "brewery": "Negev Brewery (נגב)",
+    "beer_type": "Blonde / Golden Ale - Other"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-10-28T16:54:03+00:00",
+    "serving": "draft",
+    "rating": 3.25,
+    "beer_name": "Gentle Bastard",
+    "brewery": "HORIZONT Brewing",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-10-28T16:51:30+00:00",
+    "serving": "can",
+    "rating": 4.75,
+    "beer_name": "Yummy Mint & Mango With Apricot",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-10-28T16:15:16+00:00",
+    "serving": "draft",
+    "rating": 3.25,
+    "beer_name": "נקטרון האלים",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-10-28T16:12:56+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Same Schnitt, Different Hop: Centennial",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pale Ale - Other"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-10-28T16:09:42+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Paleraiser",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pale Ale - American"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-10-28T16:07:16+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "OrangeDana",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-10-28T15:55:44+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Sessionista",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-10-28T15:27:11+00:00",
+    "serving": "draft",
+    "rating": 3.25,
+    "beer_name": "Rush Sour",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - Sour"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-10-28T15:25:15+00:00",
+    "serving": "draft",
+    "rating": 3.25,
+    "beer_name": "Malabiscus sour",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Sour - Other"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-10-28T15:23:55+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Fruity Mish Mash",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-10-28T15:22:55+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Nightmare Fuel",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Porter - American"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-10-28T15:21:30+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Lazy Bee Hibiscus And Raspberries",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Mead - Session / Short"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-10-28T15:15:33+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Cashmero קשמירו",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-10-28T13:06:19+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Fruity Mish Mash",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-10-28T12:33:29+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "Sim Sima",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - Imperial / Double"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-10-28T12:31:12+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "Rush Sour",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - Sour"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-10-28T12:28:27+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "נקטרון האלים",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-10-28T12:25:48+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "About To Stout",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Stout - Oatmeal"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-10-28T12:24:24+00:00",
+    "serving": "Unknown",
+    "rating": 3.25,
+    "beer_name": "Cashmero קשמירו",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-10-28T12:21:53+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "Fruity Mish Mash",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-10-28T11:21:22+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "Kardemumma",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pale Ale - Other"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-10-28T11:19:18+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "Same Schnitt, Different Hop: Amarillo",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pale Ale - Other"
+  },
   {
     "venue": "lauter",
     "time": "2025-10-27T21:07:44+00:00",
@@ -38067,8 +38355,8 @@ const BEER_DATA = [
   {
     "venue": "lauter",
     "time": "2025-08-05T19:24:07+00:00",
-    "serving": "Unknown",
-    "rating": null,
+    "serving": "can",
+    "rating": 4.5,
     "beer_name": "SLUSHY XL: Haha!",
     "brewery": "450 North Brewing Company",
     "beer_type": "Sour - Smoothie / Pastry"
@@ -38076,8 +38364,8 @@ const BEER_DATA = [
   {
     "venue": "lauter",
     "time": "2025-08-05T19:24:07+00:00",
-    "serving": "can",
-    "rating": 4.5,
+    "serving": "Unknown",
+    "rating": null,
     "beer_name": "SLUSHY XL: Haha!",
     "brewery": "450 North Brewing Company",
     "beer_type": "Sour - Smoothie / Pastry"
