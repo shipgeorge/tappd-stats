@@ -1,8 +1,926 @@
 // 🍺 BEER STATS DATA - Generated automatically
-// Last updated: 2025-10-31 06:39:37
-// Total records: 7442
+// Last updated: 2025-11-01 06:35:26
+// Total records: 7544
 
 const BEER_DATA = [
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-10-31T22:17:25+00:00",
+    "serving": "Unknown",
+    "rating": 2.25,
+    "beer_name": "Kardemumma",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pale Ale - Other"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-10-31T22:09:58+00:00",
+    "serving": "Unknown",
+    "rating": 2.75,
+    "beer_name": "Cashmero קשמירו",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-10-31T22:06:01+00:00",
+    "serving": "draft",
+    "rating": 2.75,
+    "beer_name": "Nightmare Fuel",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Porter - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-31T21:36:46+00:00",
+    "serving": "draft",
+    "rating": 3.25,
+    "beer_name": "Fruity Mish Mash",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-10-31T21:34:07+00:00",
+    "serving": "draft",
+    "rating": 2.5,
+    "beer_name": "Suktoberfest (סוכטוברפסט)",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Festbier"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-31T21:15:06+00:00",
+    "serving": "draft",
+    "rating": 3.25,
+    "beer_name": "Schnitt Or Treat 2025",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pumpkin / Yam Beer"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-31T20:44:32+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Schnitt Or Treat 2025",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pumpkin / Yam Beer"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-31T20:32:41+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Magical Unicorn",
+    "brewery": "Epic Brewing Company",
+    "beer_type": "IPA - New Zealand"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-31T20:31:57+00:00",
+    "serving": "can",
+    "rating": 4.5,
+    "beer_name": "Magical Unicorn",
+    "brewery": "Epic Brewing Company",
+    "beer_type": "IPA - New Zealand"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-10-31T20:31:16+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "Magical Unicorn",
+    "brewery": "Epic Brewing Company",
+    "beer_type": "IPA - New Zealand"
+  },
+  {
+    "venue": "beerline",
+    "time": "2025-10-31T20:22:41+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "La Trappe Quadrupel",
+    "brewery": "Bierbrouwerij De Koningshoeven",
+    "beer_type": "Belgian Quadrupel"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-10-31T19:52:40+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Schnitt Or Treat 2025",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pumpkin / Yam Beer"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-31T18:59:52+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Kardemumma",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pale Ale - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-31T17:59:14+00:00",
+    "serving": "draft",
+    "rating": 4.5,
+    "beer_name": "Fruity Mish Mash",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-31T17:58:10+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Pretty Kiwi & Pistachio",
+    "brewery": "Magic Road",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-31T17:55:11+00:00",
+    "serving": "can",
+    "rating": 2.7,
+    "beer_name": "Pretty Kiwi & Pistachio",
+    "brewery": "Magic Road",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-10-31T17:42:07+00:00",
+    "serving": "draft",
+    "rating": 4.5,
+    "beer_name": "Malabiscus sour",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Sour - Other"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-10-31T17:40:09+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Orange Crush",
+    "brewery": "BrewDog",
+    "beer_type": "IPA - Fruited"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-10-31T17:36:44+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "נקטרון האלים",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-31T17:12:00+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Schnitt Or Treat 2025",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pumpkin / Yam Beer"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-31T17:02:19+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Vedett Extra Pilsner (Extra Blond)",
+    "brewery": "Duvel Moortgat",
+    "beer_type": "Pilsner - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-31T16:56:46+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "Schnitt Or Treat 2025",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pumpkin / Yam Beer"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-31T16:54:08+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Schnitt Or Treat 2025",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pumpkin / Yam Beer"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-10-31T16:45:12+00:00",
+    "serving": "draft",
+    "rating": 3.0,
+    "beer_name": "Sim Sima",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - Imperial / Double"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-10-31T16:43:44+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Schnitt Or Treat 2025",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pumpkin / Yam Beer"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-31T16:42:51+00:00",
+    "serving": "draft",
+    "rating": 3.0,
+    "beer_name": "New York Mocaccino",
+    "brewery": "Mad Scientist",
+    "beer_type": "Stout - Milk / Sweet"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-10-31T16:12:42+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Rush Sour",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - Sour"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-31T16:12:26+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Cold IPA (w/ Ella hops)",
+    "brewery": "Malka (מלכה)",
+    "beer_type": "IPA - Cold"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-31T16:07:46+00:00",
+    "serving": "draft",
+    "rating": 3.25,
+    "beer_name": "Budweiser Budvar B:DARK / Czechvar B:DARK",
+    "brewery": "Budějovický Budvar",
+    "beer_type": "Lager - Tmavé (Czech Dark)"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-31T16:00:11+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Ronen HaKeha HaMerusha'at Dark Ale (הבירה הכהה המרושעת)",
+    "brewery": "Srigim (שריגים)",
+    "beer_type": "Brown Ale - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-31T15:59:55+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Spaten Oktoberfestbier",
+    "brewery": "Spaten-Franziskaner-Löwenbräu-Gruppe",
+    "beer_type": "Festbier"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-10-31T15:48:23+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Oldschool IPA",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-31T15:29:51+00:00",
+    "serving": "draft",
+    "rating": 2.8,
+    "beer_name": "Spaten Oktoberfestbier",
+    "brewery": "Spaten-Franziskaner-Löwenbräu-Gruppe",
+    "beer_type": "Festbier"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-31T15:28:48+00:00",
+    "serving": "draft",
+    "rating": 3.9,
+    "beer_name": "Cold IPA (w/ Ella hops)",
+    "brewery": "Malka (מלכה)",
+    "beer_type": "IPA - Cold"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-31T15:27:11+00:00",
+    "serving": "draft",
+    "rating": 3.0,
+    "beer_name": "Kardemumma",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pale Ale - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-31T15:26:28+00:00",
+    "serving": "draft",
+    "rating": 1.0,
+    "beer_name": "Oasis",
+    "brewery": "Negev Brewery (נגב)",
+    "beer_type": "Blonde / Golden Ale - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-31T15:17:42+00:00",
+    "serving": "bottle",
+    "rating": 4.5,
+    "beer_name": "Reaching Skyward",
+    "brewery": "Finback Brewery",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-10-31T15:10:13+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "About To Stout",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Stout - Oatmeal"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-10-31T15:07:47+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "נקטרון האלים",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-31T15:06:58+00:00",
+    "serving": "can",
+    "rating": 3.1,
+    "beer_name": "Joyride",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": "IPA - Session"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-31T15:06:22+00:00",
+    "serving": "can",
+    "rating": 2.9,
+    "beer_name": "GUMBOOT SOUR #2 APRICOT & TANGERINE",
+    "brewery": "Pivovar Vik",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-31T15:05:28+00:00",
+    "serving": "can",
+    "rating": 3.6,
+    "beer_name": "Sour Ale – Blackcurrant, Raspberry, Blackberry, Blueberry",
+    "brewery": "Pivovar Čestmír",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-10-31T14:57:48+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Big Pim",
+    "brewery": "Omnipollo",
+    "beer_type": "Pale Ale - New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-10-31T14:57:30+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "About To Stout",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Stout - Oatmeal"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-10-31T14:55:41+00:00",
+    "serving": "can",
+    "rating": 2.0,
+    "beer_name": "Big Pim",
+    "brewery": "Omnipollo",
+    "beer_type": "Pale Ale - New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-10-31T14:51:31+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Sour ALE – Blackcurrant, Rasberry",
+    "brewery": "Pivovar Čestmír",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-10-31T14:43:49+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Sour ALE – Blackcurrant, Rasberry",
+    "brewery": "Pivovar Čestmír",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-10-31T14:40:49+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Sour ALE – Blackcurrant, Rasberry",
+    "brewery": "Pivovar Čestmír",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-10-31T14:36:15+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Joyride",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": "IPA - Session"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-10-31T14:34:42+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "GUMBOOT SOUR #2 APRICOT & TANGERINE",
+    "brewery": "Pivovar Vik",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-10-31T14:34:01+00:00",
+    "serving": "can",
+    "rating": 3.25,
+    "beer_name": "Thunderslap IPA",
+    "brewery": "Fuzzy Logic Brewing Co",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-10-31T14:31:51+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Cashmero קשמירו",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-10-31T14:30:59+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Muuumbai",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Lager - IPL (India Pale Lager)"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-10-31T14:29:30+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Rush Sour",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - Sour"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-10-31T14:28:39+00:00",
+    "serving": "draft",
+    "rating": null,
+    "beer_name": "Schnitt Or Treat 2025",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pumpkin / Yam Beer"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-10-31T14:27:22+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Thunderslap IPA",
+    "brewery": "Fuzzy Logic Brewing Co",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-10-31T14:25:26+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Thunderslap IPA",
+    "brewery": "Fuzzy Logic Brewing Co",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-10-31T14:24:10+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "GUMBOOT SOUR #2 APRICOT & TANGERINE",
+    "brewery": "Pivovar Vik",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-10-31T14:21:45+00:00",
+    "serving": "can",
+    "rating": 3.0,
+    "beer_name": "GUMBOOT SOUR #2 APRICOT & TANGERINE",
+    "brewery": "Pivovar Vik",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-10-31T14:09:51+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Sim Sima",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - Imperial / Double"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-10-31T14:09:18+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Joyride",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": "IPA - Session"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-10-31T14:08:53+00:00",
+    "serving": "can",
+    "rating": 3.0,
+    "beer_name": "Joyride",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": "IPA - Session"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-10-31T14:00:54+00:00",
+    "serving": "bottle",
+    "rating": 4.25,
+    "beer_name": "Reaching Skyward (2022)",
+    "brewery": "Finback Brewery",
+    "beer_type": "Sour - Fruited Gose"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-10-31T14:00:30+00:00",
+    "serving": "bottle",
+    "rating": 3.75,
+    "beer_name": "Reaching Skyward",
+    "brewery": "Finback Brewery",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-10-31T13:58:44+00:00",
+    "serving": "bottle",
+    "rating": 4.5,
+    "beer_name": "Reaching Skyward (2022)",
+    "brewery": "Finback Brewery",
+    "beer_type": "Sour - Fruited Gose"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-10-31T13:58:16+00:00",
+    "serving": "bottle",
+    "rating": 4.0,
+    "beer_name": "#9 In A Gourd Mood",
+    "brewery": "Spring Hill",
+    "beer_type": "Homebrew, Pumpkin / Yam Beer"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-31T13:57:46+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Spaten Oktoberfestbier",
+    "brewery": "Spaten-Franziskaner-Löwenbräu-Gruppe",
+    "beer_type": "Festbier"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-10-31T13:57:29+00:00",
+    "serving": "bottle",
+    "rating": 3.0,
+    "beer_name": "Světlý ležák 12",
+    "brewery": "Samson (Budějovický měšťanský pivovar)",
+    "beer_type": "Pilsner - Czech / Bohemian"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-31T13:56:33+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "Kardemumma",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pale Ale - Other"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-10-31T13:55:29+00:00",
+    "serving": "bottle",
+    "rating": 4.0,
+    "beer_name": "#9 In A Gourd Mood",
+    "brewery": "Spring Hill",
+    "beer_type": "Homebrew, Pumpkin / Yam Beer"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-31T13:54:47+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Oasis",
+    "brewery": "Negev Brewery (נגב)",
+    "beer_type": "Blonde / Golden Ale - Other"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-10-31T13:54:17+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "Kardemumma",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pale Ale - Other"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-10-31T13:53:42+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Tonkaffee 13",
+    "brewery": "Rodinný pivovar Zichovec",
+    "beer_type": "Lager - Dark"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-31T13:53:39+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Sim Sima",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - Imperial / Double"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-10-31T13:53:31+00:00",
+    "serving": "bottle",
+    "rating": 3.75,
+    "beer_name": "Světlý ležák 12",
+    "brewery": "Samson (Budějovický měšťanský pivovar)",
+    "beer_type": "Pilsner - Czech / Bohemian"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-10-31T13:53:23+00:00",
+    "serving": "bottle",
+    "rating": 3.75,
+    "beer_name": "Vege Ham",
+    "brewery": "Browar Monsters",
+    "beer_type": "Rauchbier"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-10-31T13:52:35+00:00",
+    "serving": "bottle",
+    "rating": 4.0,
+    "beer_name": "Tonkaffee 13",
+    "brewery": "Rodinný pivovar Zichovec",
+    "beer_type": "Lager - Dark"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-31T13:52:33+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Fruity Mish Mash",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-10-31T13:51:48+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "Vege Ham",
+    "brewery": "Browar Monsters",
+    "beer_type": "Rauchbier"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-10-31T13:44:12+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Schnitt Or Treat 2025",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pumpkin / Yam Beer"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-10-31T13:01:57+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Rush Sour",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - Sour"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-10-31T12:40:24+00:00",
+    "serving": "bottle",
+    "rating": 4.0,
+    "beer_name": "Vege Ham",
+    "brewery": "Browar Monsters",
+    "beer_type": "Rauchbier"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-10-31T12:32:28+00:00",
+    "serving": "can",
+    "rating": 4.5,
+    "beer_name": "Vege Ham",
+    "brewery": "Browar Monsters",
+    "beer_type": "Rauchbier"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-10-31T12:31:49+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Vege Ham",
+    "brewery": "Browar Monsters",
+    "beer_type": "Rauchbier"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-10-31T12:10:25+00:00",
+    "serving": "bottle",
+    "rating": 3.25,
+    "beer_name": "Bock",
+    "brewery": "Samson (Budějovický měšťanský pivovar)",
+    "beer_type": "Bock - Hell / Maibock / Lentebock"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-10-31T11:58:36+00:00",
+    "serving": "bottle",
+    "rating": 4.0,
+    "beer_name": "#9 In A Gourd Mood",
+    "brewery": "Spring Hill",
+    "beer_type": "Homebrew, Pumpkin / Yam Beer"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-10-31T11:44:59+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "נקטרון האלים",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-10-31T11:30:53+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Fruity Mish Mash",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-10-31T11:29:29+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "OrangeDana",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-10-31T11:29:14+00:00",
+    "serving": "Unknown",
+    "rating": 3.8,
+    "beer_name": "About To Stout",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Stout - Oatmeal"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-31T11:28:43+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Cashmero קשמירו",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-10-31T11:27:10+00:00",
+    "serving": "Unknown",
+    "rating": 3.8,
+    "beer_name": "Cashmero קשמירו",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-10-31T11:23:49+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Rush Sour",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - Sour"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-10-31T11:21:29+00:00",
+    "serving": "Unknown",
+    "rating": 3.7,
+    "beer_name": "Schnitt Or Treat 2025",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pumpkin / Yam Beer"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-10-31T11:19:19+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Schnitt Or Treat 2025",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pumpkin / Yam Beer"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-10-31T11:12:41+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "Motueka Sunrise",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-10-31T10:56:39+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Kardemumma",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pale Ale - Other"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-10-31T10:54:02+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Cashmero קשמירו",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-31T10:39:37+00:00",
+    "serving": "draft",
+    "rating": 3.8,
+    "beer_name": "Cold IPA (w/ Ella hops)",
+    "brewery": "Malka (מלכה)",
+    "beer_type": "IPA - Cold"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-10-31T10:32:04+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "Lollihop",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-31T10:07:49+00:00",
+    "serving": "draft",
+    "rating": 2.0,
+    "beer_name": "Bitburger 0,0% alkoholfreies Pils",
+    "brewery": "Bitburger Brauerei",
+    "beer_type": "Non-Alcoholic - Lager"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-10-31T08:40:49+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Schnitt Or Treat 2025",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pumpkin / Yam Beer"
+  },
   {
     "venue": "lauter",
     "time": "2025-10-30T22:58:39+00:00",
@@ -3040,7 +3958,7 @@ const BEER_DATA = [
     "venue": "lauter",
     "time": "2025-10-26T18:36:28+00:00",
     "serving": "can",
-    "rating": 3.25,
+    "rating": 3.75,
     "beer_name": "Darkness My Friends Imperial Baltic Porter Coffee & Date Syrup",
     "brewery": "Maryensztadt",
     "beer_type": "Porter - Baltic"
@@ -3049,7 +3967,7 @@ const BEER_DATA = [
     "venue": "lauter",
     "time": "2025-10-26T18:36:28+00:00",
     "serving": "can",
-    "rating": 3.75,
+    "rating": 3.25,
     "beer_name": "Darkness My Friends Imperial Baltic Porter Coffee & Date Syrup",
     "brewery": "Maryensztadt",
     "beer_type": "Porter - Baltic"
@@ -27861,7 +28779,7 @@ const BEER_DATA = [
   {
     "venue": "lauter",
     "time": "2025-09-01T17:44:35+00:00",
-    "serving": "bottle",
+    "serving": "Unknown",
     "rating": 4.0,
     "beer_name": "Hops Don’t Lie",
     "brewery": "Thurø Bryghus",
@@ -27870,7 +28788,7 @@ const BEER_DATA = [
   {
     "venue": "lauter",
     "time": "2025-09-01T17:44:35+00:00",
-    "serving": "Unknown",
+    "serving": "bottle",
     "rating": 4.0,
     "beer_name": "Hops Don’t Lie",
     "brewery": "Thurø Bryghus",
@@ -32694,8 +33612,8 @@ const BEER_DATA = [
   {
     "venue": "b7-beer-house",
     "time": "2025-08-21T16:02:37+00:00",
-    "serving": "Unknown",
-    "rating": 3.75,
+    "serving": "can",
+    "rating": 3.5,
     "beer_name": "Nitro Mini M*rs",
     "brewery": "Vault City Brewing",
     "beer_type": "Stout - Pastry"
@@ -32703,8 +33621,8 @@ const BEER_DATA = [
   {
     "venue": "b7-beer-house",
     "time": "2025-08-21T16:02:37+00:00",
-    "serving": "can",
-    "rating": 3.5,
+    "serving": "Unknown",
+    "rating": 3.75,
     "beer_name": "Nitro Mini M*rs",
     "brewery": "Vault City Brewing",
     "beer_type": "Stout - Pastry"
@@ -39696,8 +40614,8 @@ const BEER_DATA = [
   {
     "venue": "lauter",
     "time": "2025-08-05T19:24:07+00:00",
-    "serving": "can",
-    "rating": 4.5,
+    "serving": "Unknown",
+    "rating": null,
     "beer_name": "SLUSHY XL: Haha!",
     "brewery": "450 North Brewing Company",
     "beer_type": "Sour - Smoothie / Pastry"
@@ -39705,8 +40623,8 @@ const BEER_DATA = [
   {
     "venue": "lauter",
     "time": "2025-08-05T19:24:07+00:00",
-    "serving": "Unknown",
-    "rating": null,
+    "serving": "can",
+    "rating": 4.5,
     "beer_name": "SLUSHY XL: Haha!",
     "brewery": "450 North Brewing Company",
     "beer_type": "Sour - Smoothie / Pastry"
