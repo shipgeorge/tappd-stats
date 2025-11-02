@@ -1,8 +1,512 @@
 // 🍺 BEER STATS DATA - Generated automatically
-// Last updated: 2025-11-01 06:35:26
-// Total records: 7544
+// Last updated: 2025-11-02 06:36:57
+// Total records: 7600
 
 const BEER_DATA = [
+  {
+    "venue": "lauter",
+    "time": "2025-11-01T21:58:57+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Counter Strike",
+    "brewery": "BrewDog",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-01T21:52:10+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Counter Strike",
+    "brewery": "BrewDog",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-01T21:42:46+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Counter Strike",
+    "brewery": "BrewDog",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-01T21:40:48+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Counter Strike",
+    "brewery": "BrewDog",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-01T21:32:37+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Do Stuff Together",
+    "brewery": "Mikkeller",
+    "beer_type": "Pale Ale - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-01T21:30:16+00:00",
+    "serving": "can",
+    "rating": 3.25,
+    "beer_name": "Baby Hazy",
+    "brewery": "BrewDog",
+    "beer_type": "IPA - Session"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-01T21:29:33+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Sim Sima",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - Imperial / Double"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-01T21:03:33+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Schnitt Or Treat 2025",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pumpkin / Yam Beer"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-01T20:58:54+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Hazy Queen - Superdelic Edition",
+    "brewery": "HORIZONT Brewing",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-01T20:57:54+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Baby Hazy",
+    "brewery": "BrewDog",
+    "beer_type": "IPA - Session"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-01T20:26:44+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "Sour Series - Time For A Restart",
+    "brewery": "HORIZONT Brewing",
+    "beer_type": "Sour - Fruited Gose"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-11-01T20:17:29+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "Weissman",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Wheat Beer - Hefeweizen"
+  },
+  {
+    "venue": "porter-and-sons",
+    "time": "2025-11-01T20:16:43+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Jaipur",
+    "brewery": "Thornbridge Brewery",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "porter-and-sons",
+    "time": "2025-11-01T20:14:53+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Jaipur",
+    "brewery": "Thornbridge Brewery",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-01T20:13:19+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Cold IPA (w/ Ella hops)",
+    "brewery": "Malka (מלכה)",
+    "beer_type": "IPA - Cold"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-01T20:12:34+00:00",
+    "serving": "can",
+    "rating": 3.0,
+    "beer_name": "Anything Gose: Mango",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Sour - Fruited Gose"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-01T20:09:46+00:00",
+    "serving": "draft",
+    "rating": 2.75,
+    "beer_name": "Schnitt Or Treat 2025",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pumpkin / Yam Beer"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-01T19:59:17+00:00",
+    "serving": "Unknown",
+    "rating": 3.25,
+    "beer_name": "Schnitt Or Treat 2025",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pumpkin / Yam Beer"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-01T19:57:56+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Fruity Mish Mash",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-01T19:53:30+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Baby Hazy",
+    "brewery": "BrewDog",
+    "beer_type": "IPA - Session"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-01T19:53:20+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Fruity Mish Mash",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-01T19:49:21+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Smokey Chamomile",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pale Ale - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-01T19:26:50+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "New York Mocaccino",
+    "brewery": "Mad Scientist",
+    "beer_type": "Stout - Milk / Sweet"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-11-01T19:23:21+00:00",
+    "serving": "draft",
+    "rating": 3.0,
+    "beer_name": "OrangeDana",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-01T18:37:22+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Nightmare Fuel",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Porter - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-01T18:04:26+00:00",
+    "serving": "draft",
+    "rating": 3.25,
+    "beer_name": "Schnitt Or Treat 2025",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pumpkin / Yam Beer"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-01T17:29:24+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Bitburger 0,0% alkoholfreies Pils",
+    "brewery": "Bitburger Brauerei",
+    "beer_type": "Non-Alcoholic - Lager"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-11-01T17:10:59+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Fruity Mish Mash",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-11-01T16:29:38+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Muuumbai",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Lager - IPL (India Pale Lager)"
+  },
+  {
+    "venue": "porter-and-sons",
+    "time": "2025-11-01T16:29:18+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "עכשיו מעונן",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-01T16:23:34+00:00",
+    "serving": "Unknown",
+    "rating": 3.7,
+    "beer_name": "Fruity Mish Mash",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-01T16:03:58+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Same Schnitt, Different Hop: Amarillo",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pale Ale - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-01T16:03:28+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Shut Up And Drink Me! (שת\"פ)",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Historical Beer - Lichtenhainer"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-01T15:26:49+00:00",
+    "serving": "Unknown",
+    "rating": 3.25,
+    "beer_name": "IN THE  SMALL",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Table Beer"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-01T15:11:01+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Fruity Mish Mash",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-01T14:44:15+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Schnitt Or Treat 2025",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pumpkin / Yam Beer"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-01T14:39:37+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Shut Up And Drink Me! (שת\"פ)",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Historical Beer - Lichtenhainer"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-01T14:36:17+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Same Schnitt, Different Hop: Amarillo",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pale Ale - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-01T14:34:47+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Schnitt Or Treat 2025",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pumpkin / Yam Beer"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-01T14:20:42+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Schnitt Or Treat 2025",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pumpkin / Yam Beer"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-01T14:11:46+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Stiegl-Radler Grapefruit",
+    "brewery": "Stieglbrauerei zu Salzburg",
+    "beer_type": "Shandy / Radler"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-01T13:55:48+00:00",
+    "serving": "draft",
+    "rating": 3.25,
+    "beer_name": "Vedett Extra Pilsner (Extra Blond)",
+    "brewery": "Duvel Moortgat",
+    "beer_type": "Pilsner - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-01T13:34:17+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Schnitt Or Treat 2025",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pumpkin / Yam Beer"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-01T13:30:27+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "Schnitt Or Treat 2025",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pumpkin / Yam Beer"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-01T13:06:43+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "Fruity Mish Mash",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-01T12:59:31+00:00",
+    "serving": "draft",
+    "rating": 3.25,
+    "beer_name": "Schnitt Or Treat 2025",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pumpkin / Yam Beer"
+  },
+  {
+    "venue": "beerline",
+    "time": "2025-11-01T12:10:18+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Th. König Zwickl",
+    "brewery": "König Brauerei",
+    "beer_type": "Kellerbier / Zwickelbier"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-01T11:49:54+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "About To Stout",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Stout - Oatmeal"
+  },
+  {
+    "venue": "beerline",
+    "time": "2025-11-01T11:39:55+00:00",
+    "serving": "draft",
+    "rating": 3.25,
+    "beer_name": "Jaipur",
+    "brewery": "Thornbridge Brewery",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "beerline",
+    "time": "2025-11-01T11:37:56+00:00",
+    "serving": "draft",
+    "rating": 3.25,
+    "beer_name": "Delirium Argentum",
+    "brewery": "Delirium - Huyghe Brewery",
+    "beer_type": "IPA - Belgian"
+  },
+  {
+    "venue": "beerline",
+    "time": "2025-11-01T11:35:56+00:00",
+    "serving": "draft",
+    "rating": 3.8,
+    "beer_name": "Delirium Argentum",
+    "brewery": "Delirium - Huyghe Brewery",
+    "beer_type": "IPA - Belgian"
+  },
+  {
+    "venue": "beerline",
+    "time": "2025-11-01T11:34:38+00:00",
+    "serving": "draft",
+    "rating": 3.8,
+    "beer_name": "Jaipur",
+    "brewery": "Thornbridge Brewery",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "beerline",
+    "time": "2025-11-01T11:33:59+00:00",
+    "serving": "draft",
+    "rating": 4.1,
+    "beer_name": "Black Currant x Cherry x Blueberry x Coconut x Almond Smoothie Sour Ale",
+    "brewery": "Ārpus Brewing Co.",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-01T11:17:54+00:00",
+    "serving": "can",
+    "rating": 3.0,
+    "beer_name": "Fruit Burst",
+    "brewery": "BrewDog",
+    "beer_type": "Pale Ale - English"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-01T10:56:23+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "Shut Up And Drink Me! (שת\"פ)",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Historical Beer - Lichtenhainer"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-01T10:45:12+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "Schnitt Or Treat 2025",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pumpkin / Yam Beer"
+  },
   {
     "venue": "schnitt-brewing-company",
     "time": "2025-10-31T22:17:25+00:00",
@@ -33720,20 +34224,20 @@ const BEER_DATA = [
   {
     "venue": "b7-beer-house",
     "time": "2025-08-21T15:59:11+00:00",
-    "serving": "Unknown",
-    "rating": 4.0,
-    "beer_name": "Naughty & Nice - White Chocolate & Raspberry",
-    "brewery": "Vocation Brewery",
-    "beer_type": "Stout - White / Golden"
-  },
-  {
-    "venue": "b7-beer-house",
-    "time": "2025-08-21T15:59:11+00:00",
     "serving": "can",
     "rating": 3.8,
     "beer_name": "Peach Rings",
     "brewery": "Vault City Brewing",
     "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-21T15:59:11+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Naughty & Nice - White Chocolate & Raspberry",
+    "brewery": "Vocation Brewery",
+    "beer_type": "Stout - White / Golden"
   },
   {
     "venue": "b7-beer-house",
@@ -58444,8 +58948,8 @@ const BEER_DATA = [
     "venue": "berlin-florentin",
     "time": "2024-12-23T18:37:49+00:00",
     "serving": "bottle",
-    "rating": 4.1,
-    "beer_name": "Christmas Ale (2023)",
+    "rating": 3.0,
+    "beer_name": "Christmas Ale",
     "brewery": "Brouwerij St.Bernardus",
     "beer_type": "Winter Ale"
   },
@@ -58453,8 +58957,8 @@ const BEER_DATA = [
     "venue": "berlin-florentin",
     "time": "2024-12-23T18:37:49+00:00",
     "serving": "bottle",
-    "rating": 3.0,
-    "beer_name": "Christmas Ale",
+    "rating": 4.1,
+    "beer_name": "Christmas Ale (2023)",
     "brewery": "Brouwerij St.Bernardus",
     "beer_type": "Winter Ale"
   },

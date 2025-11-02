@@ -1,4 +1,60 @@
 venue,user,time,serving,data_rating,beer_name,brewery,beer_type
+lauter,Shmupi Koto,"Sat, 01 Nov 2025 21:58:57 +0000",can,3.5,Counter Strike,BrewDog,IPA - American
+lauter,Shmupi Koto,"Sat, 01 Nov 2025 21:52:10 +0000",can,3.5,Counter Strike,BrewDog,IPA - American
+lauter,Ben Gat Sherman,"Sat, 01 Nov 2025 21:42:46 +0000",can,3.75,Counter Strike,BrewDog,IPA - American
+lauter,Elad Schitrit,"Sat, 01 Nov 2025 21:40:48 +0000",can,3.75,Counter Strike,BrewDog,IPA - American
+lauter,Jonathan Adi,"Sat, 01 Nov 2025 21:32:37 +0000",can,3.5,Do Stuff Together,Mikkeller,Pale Ale - New England / Hazy
+lauter,Omri Gill,"Sat, 01 Nov 2025 21:30:16 +0000",can,3.25,Baby Hazy,BrewDog,IPA - Session
+lauter,Tamir Mitnitski,"Sat, 01 Nov 2025 21:29:33 +0000",draft,3.5,Sim Sima,Schnitt Brewing Company﻿,IPA - Imperial / Double
+lauter,Tamir Mitnitski,"Sat, 01 Nov 2025 21:03:33 +0000",draft,3.75,Schnitt Or Treat 2025,Schnitt Brewing Company﻿,Pumpkin / Yam Beer
+lauter,Jonathan Adi,"Sat, 01 Nov 2025 20:58:54 +0000",can,3.75,Hazy Queen - Superdelic Edition,HORIZONT Brewing,IPA - New England / Hazy
+lauter,Kfeer Blau,"Sat, 01 Nov 2025 20:57:54 +0000",can,3.75,Baby Hazy,BrewDog,IPA - Session
+lauter,Johnny,"Sat, 01 Nov 2025 20:26:44 +0000",can,4.25,Sour Series - Time For A Restart,HORIZONT Brewing,Sour - Fruited Gose
+schnitt-brewing-company,TomerOrion,"Sat, 01 Nov 2025 20:17:29 +0000",,3.75,Weissman,Schnitt Brewing Company﻿,Wheat Beer - Hefeweizen
+porter-and-sons,Shmupi Koto,"Sat, 01 Nov 2025 20:16:43 +0000",draft,4.0,Jaipur,Thornbridge Brewery,IPA - American
+porter-and-sons,Shmupi Koto,"Sat, 01 Nov 2025 20:14:53 +0000",draft,4.0,Jaipur,Thornbridge Brewery,IPA - American
+lauter,Elad Schitrit,"Sat, 01 Nov 2025 20:13:19 +0000",draft,3.75,Cold IPA (w/ Ella hops),Malka (מלכה),IPA - Cold
+lauter,Tamir Mitnitski,"Sat, 01 Nov 2025 20:12:34 +0000",can,3.0,Anything Gose: Mango,Schnitt Brewing Company﻿,Sour - Fruited Gose
+lauter,Ben Gat Sherman,"Sat, 01 Nov 2025 20:09:46 +0000",draft,2.75,Schnitt Or Treat 2025,Schnitt Brewing Company﻿,Pumpkin / Yam Beer
+lauter,Elad Schitrit,"Sat, 01 Nov 2025 19:59:17 +0000",,3.25,Schnitt Or Treat 2025,Schnitt Brewing Company﻿,Pumpkin / Yam Beer
+lauter,Elad Schitrit,"Sat, 01 Nov 2025 19:57:56 +0000",draft,3.5,Fruity Mish Mash,Schnitt Brewing Company﻿,IPA - New England / Hazy
+lauter,Elad Schitrit,"Sat, 01 Nov 2025 19:53:30 +0000",can,3.75,Baby Hazy,BrewDog,IPA - Session
+lauter,Tamir Mitnitski,"Sat, 01 Nov 2025 19:53:20 +0000",draft,3.75,Fruity Mish Mash,Schnitt Brewing Company﻿,IPA - New England / Hazy
+lauter,Tamir Mitnitski,"Sat, 01 Nov 2025 19:49:21 +0000",can,3.5,Smokey Chamomile,Schnitt Brewing Company﻿,Pale Ale - Other
+lauter,Kfeer Blau,"Sat, 01 Nov 2025 19:26:50 +0000",draft,4.0,New York Mocaccino,Mad Scientist,Stout - Milk / Sweet
+schnitt-brewing-company,TomerOrion,"Sat, 01 Nov 2025 19:23:21 +0000",draft,3.0,OrangeDana,Schnitt Brewing Company﻿,IPA - New England / Hazy
+lauter,Omri Gill,"Sat, 01 Nov 2025 18:37:22 +0000",draft,4.0,Nightmare Fuel,Schnitt Brewing Company﻿,Porter - American
+lauter,Anton Bravin,"Sat, 01 Nov 2025 18:04:26 +0000",draft,3.25,Schnitt Or Treat 2025,Schnitt Brewing Company﻿,Pumpkin / Yam Beer
+lauter,Anton Bravin,"Sat, 01 Nov 2025 17:29:24 +0000",draft,4.0,"Bitburger 0,0% alkoholfreies Pils",Bitburger Brauerei,Non-Alcoholic - Lager
+schnitt-brewing-company,Omri Gill,"Sat, 01 Nov 2025 17:10:59 +0000",draft,4.0,Fruity Mish Mash,Schnitt Brewing Company﻿,IPA - New England / Hazy
+schnitt-brewing-company,Omri Gill,"Sat, 01 Nov 2025 16:29:38 +0000",draft,3.75,Muuumbai,Schnitt Brewing Company﻿,Lager - IPL (India Pale Lager)
+porter-and-sons,Omri Gill,"Sat, 01 Nov 2025 16:29:18 +0000",draft,4.25,עכשיו מעונן,Schnitt Brewing Company﻿,IPA - New England / Hazy
+lauter,Stas Pruchansky,"Sat, 01 Nov 2025 16:23:34 +0000",,3.7,Fruity Mish Mash,Schnitt Brewing Company﻿,IPA - New England / Hazy
+lauter,Aviad Attia,"Sat, 01 Nov 2025 16:03:58 +0000",,,"Same Schnitt, Different Hop: Amarillo",Schnitt Brewing Company﻿,Pale Ale - Other
+lauter,Maximilian Müller,"Sat, 01 Nov 2025 16:03:28 +0000",draft,4.0,"Shut Up And Drink Me! (שת""פ)",Schnitt Brewing Company﻿,Historical Beer - Lichtenhainer
+lauter,Maximilian Müller,"Sat, 01 Nov 2025 15:26:49 +0000",,3.25,IN THE  SMALL,Schnitt Brewing Company﻿,Table Beer
+lauter,Maximilian Müller,"Sat, 01 Nov 2025 15:11:01 +0000",draft,4.0,Fruity Mish Mash,Schnitt Brewing Company﻿,IPA - New England / Hazy
+lauter,Shakuf,"Sat, 01 Nov 2025 14:44:15 +0000",draft,4.0,Schnitt Or Treat 2025,Schnitt Brewing Company﻿,Pumpkin / Yam Beer
+lauter,Avi Levy,"Sat, 01 Nov 2025 14:39:37 +0000",draft,3.75,"Shut Up And Drink Me! (שת""פ)",Schnitt Brewing Company﻿,Historical Beer - Lichtenhainer
+lauter,Maximilian Müller,"Sat, 01 Nov 2025 14:36:17 +0000",draft,3.75,"Same Schnitt, Different Hop: Amarillo",Schnitt Brewing Company﻿,Pale Ale - Other
+lauter,Avi Levy,"Sat, 01 Nov 2025 14:34:47 +0000",draft,4.0,Schnitt Or Treat 2025,Schnitt Brewing Company﻿,Pumpkin / Yam Beer
+lauter,Maximilian Müller,"Sat, 01 Nov 2025 14:20:42 +0000",draft,3.5,Schnitt Or Treat 2025,Schnitt Brewing Company﻿,Pumpkin / Yam Beer
+lauter,Itay shalom Kaplan,"Sat, 01 Nov 2025 14:11:46 +0000",draft,3.5,Stiegl-Radler Grapefruit,Stieglbrauerei zu Salzburg,Shandy / Radler
+lauter,Omri Levy,"Sat, 01 Nov 2025 13:55:48 +0000",draft,3.25,Vedett Extra Pilsner (Extra Blond),Duvel Moortgat,Pilsner - Other
+lauter,Chen Ozer,"Sat, 01 Nov 2025 13:34:17 +0000",draft,4.0,Schnitt Or Treat 2025,Schnitt Brewing Company﻿,Pumpkin / Yam Beer
+lauter,Tom Vardi,"Sat, 01 Nov 2025 13:30:27 +0000",,3.75,Schnitt Or Treat 2025,Schnitt Brewing Company﻿,Pumpkin / Yam Beer
+lauter,Tom Vardi,"Sat, 01 Nov 2025 13:06:43 +0000",,3.5,Fruity Mish Mash,Schnitt Brewing Company﻿,IPA - New England / Hazy
+lauter,Omri Levy,"Sat, 01 Nov 2025 12:59:31 +0000",draft,3.25,Schnitt Or Treat 2025,Schnitt Brewing Company﻿,Pumpkin / Yam Beer
+beerline,Dennis Prokopiev,"Sat, 01 Nov 2025 12:10:18 +0000",draft,3.5,Th. König Zwickl,König Brauerei,Kellerbier / Zwickelbier
+b7-beer-house,Alex Fux,"Sat, 01 Nov 2025 11:49:54 +0000",can,4.0,About To Stout,Schnitt Brewing Company﻿,Stout - Oatmeal
+beerline,alexander_rutkovsky_9590,"Sat, 01 Nov 2025 11:39:55 +0000",draft,3.25,Jaipur,Thornbridge Brewery,IPA - American
+beerline,alexander_rutkovsky_9590,"Sat, 01 Nov 2025 11:37:56 +0000",draft,3.25,Delirium Argentum,Delirium - Huyghe Brewery,IPA - Belgian
+beerline,Dennis Prokopiev,"Sat, 01 Nov 2025 11:35:56 +0000",draft,3.8,Delirium Argentum,Delirium - Huyghe Brewery,IPA - Belgian
+beerline,Dennis Prokopiev,"Sat, 01 Nov 2025 11:34:38 +0000",draft,3.8,Jaipur,Thornbridge Brewery,IPA - American
+beerline,Dennis Prokopiev,"Sat, 01 Nov 2025 11:33:59 +0000",draft,4.1,Black Currant x Cherry x Blueberry x Coconut x Almond Smoothie Sour Ale,Ārpus Brewing Co.,Sour - Smoothie / Pastry
+b7-beer-house,Alex Fux,"Sat, 01 Nov 2025 11:17:54 +0000",can,3.0,Fruit Burst,BrewDog,Pale Ale - English
+lauter,Tom Lahav,"Sat, 01 Nov 2025 10:56:23 +0000",,3.75,"Shut Up And Drink Me! (שת""פ)",Schnitt Brewing Company﻿,Historical Beer - Lichtenhainer
+lauter,Tom Lahav,"Sat, 01 Nov 2025 10:45:12 +0000",,3.5,Schnitt Or Treat 2025,Schnitt Brewing Company﻿,Pumpkin / Yam Beer
 schnitt-brewing-company,Ravit Halevi,"Fri, 31 Oct 2025 22:17:25 +0000",,2.25,Kardemumma,Schnitt Brewing Company﻿,Pale Ale - Other
 schnitt-brewing-company,Ravit Halevi,"Fri, 31 Oct 2025 22:09:58 +0000",,2.75,Cashmero קשמירו,Schnitt Brewing Company﻿,IPA - American
 schnitt-brewing-company,Ravit Halevi,"Fri, 31 Oct 2025 22:06:01 +0000",draft,2.75,Nightmare Fuel,Schnitt Brewing Company﻿,Porter - American
@@ -2570,8 +2626,8 @@ lauter,YanivMeir1503,"Fri, 12 Sep 2025 10:38:04 +0000",draft,,Delirium Black Bar
 lauter,David Siegel,"Fri, 12 Sep 2025 10:37:22 +0000",draft,4.0,Ciderman Apple,Volfas Engelman,Cider - Traditional / Apfelwein
 lauter,Yuval Erets Kdosha,"Fri, 12 Sep 2025 10:34:34 +0000",draft,5.0,Black Currant x Cherry x Blueberry x Coconut x Almond Smoothie Sour Ale,Ārpus Brewing Co.,Sour - Smoothie / Pastry
 lauter,Yuval Erets Kdosha,"Fri, 12 Sep 2025 10:34:15 +0000",draft,4.0,Eclipse,Schmulz,Mead - Braggot
-lauter,ParkerAsaf,"Fri, 12 Sep 2025 10:33:29 +0000",draft,4.0,Birthday Popsicle קרטיב יום הולדת,Schnitt Brewing Company﻿,IPA - New England / Hazy
 lauter,Yuval Erets Kdosha,"Fri, 12 Sep 2025 10:33:29 +0000",draft,4.0,Birthday Popsicle קרטיב יום הולדת,Schnitt Brewing Company﻿,IPA - New England / Hazy
+lauter,ParkerAsaf,"Fri, 12 Sep 2025 10:33:29 +0000",draft,4.0,Birthday Popsicle קרטיב יום הולדת,Schnitt Brewing Company﻿,IPA - New England / Hazy
 lauter,Yana O,"Fri, 12 Sep 2025 10:33:25 +0000",draft,4.4,Black Currant x Cherry x Blueberry x Coconut x Almond Smoothie Sour Ale,Ārpus Brewing Co.,Sour - Smoothie / Pastry
 lauter,Yuval Erets Kdosha,"Fri, 12 Sep 2025 10:33:07 +0000",draft,4.5,Anything Gose: Mango,Schnitt Brewing Company﻿,Sour - Fruited Gose
 lauter,dafi20,"Fri, 12 Sep 2025 10:29:45 +0000",draft,4.25,Sweet Dreams,Oak & Ash,Sour - Fruited
@@ -3745,8 +3801,8 @@ b7-beer-house,גל סילברמן,"Thu, 21 Aug 2025 16:00:18 +0000",can,3.8,Naug
 b7-beer-house,Guy Azene,"Thu, 21 Aug 2025 16:00:01 +0000",can,3.8,Naughty & Nice - White Chocolate & Raspberry,Vocation Brewery,Stout - White / Golden
 b7-beer-house,Liad Shaked,"Thu, 21 Aug 2025 15:59:41 +0000",can,3.9,Naughty & Nice - White Chocolate & Raspberry,Vocation Brewery,Stout - White / Golden
 b7-beer-house,Yotam Bar-natan,"Thu, 21 Aug 2025 15:59:21 +0000",can,4.3,Birthday Cake,Vocation Brewery,Stout - Milk / Sweet
-b7-beer-house,Elior Mizrahi,"Thu, 21 Aug 2025 15:59:11 +0000",,4.0,Naughty & Nice - White Chocolate & Raspberry,Vocation Brewery,Stout - White / Golden
 b7-beer-house,Eli Smikin,"Thu, 21 Aug 2025 15:59:11 +0000",can,3.8,Peach Rings,Vault City Brewing,Sour - Fruited
+b7-beer-house,Elior Mizrahi,"Thu, 21 Aug 2025 15:59:11 +0000",,4.0,Naughty & Nice - White Chocolate & Raspberry,Vocation Brewery,Stout - White / Golden
 b7-beer-house,Yotam Bar-natan,"Thu, 21 Aug 2025 15:58:45 +0000",can,3.8,Naughty & Nice - White Chocolate & Raspberry,Vocation Brewery,Stout - White / Golden
 b7-beer-house,Tom Lahav,"Thu, 21 Aug 2025 15:58:44 +0000",can,3.25,Naughty & Nice - White Chocolate & Raspberry,Vocation Brewery,Stout - White / Golden
 b7-beer-house,Yotam Bar-natan,"Thu, 21 Aug 2025 15:58:21 +0000",can,3.7,Incognito,Vocation Brewery,IPA - Imperial / Double
@@ -6492,8 +6548,8 @@ berlin-florentin,Sharon Confino,"Mon, 23 Dec 2024 18:45:24 +0000",bottle,3.75,Fr
 berlin-florentin,Yana O,"Mon, 23 Dec 2024 18:44:17 +0000",bottle,4.0,Framboise,Brouwerij Lindemans,Lambic - Framboise
 berlin-florentin,Ⓜ️axx Dee,"Mon, 23 Dec 2024 18:44:11 +0000",bottle,4.0,Framboise,Brouwerij Lindemans,Lambic - Framboise
 berlin-florentin,Ⓜ️axx Dee,"Mon, 23 Dec 2024 18:38:17 +0000",bottle,4.0,Christmas Ale (2023),Brouwerij St.Bernardus,Winter Ale
-berlin-florentin,Yana O,"Mon, 23 Dec 2024 18:37:49 +0000",bottle,4.1,Christmas Ale (2023),Brouwerij St.Bernardus,Winter Ale
 berlin-florentin,Sharon Confino,"Mon, 23 Dec 2024 18:37:49 +0000",bottle,3.0,Christmas Ale,Brouwerij St.Bernardus,Winter Ale
+berlin-florentin,Yana O,"Mon, 23 Dec 2024 18:37:49 +0000",bottle,4.1,Christmas Ale (2023),Brouwerij St.Bernardus,Winter Ale
 berlin-florentin,Sharon Confino,"Mon, 23 Dec 2024 18:32:18 +0000",bottle,4.5,Faro,Brouwerij Lindemans,Lambic - Faro
 berlin-florentin,Yana O,"Mon, 23 Dec 2024 18:30:45 +0000",bottle,4.0,Faro,Brouwerij Lindemans,Lambic - Faro
 berlin-florentin,Ⓜ️axx Dee,"Mon, 23 Dec 2024 18:30:43 +0000",bottle,4.1,Faro,Brouwerij Lindemans,Lambic - Faro
