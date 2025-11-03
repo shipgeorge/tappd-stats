@@ -1,4 +1,39 @@
 venue,user,time,serving,data_rating,beer_name,brewery,beer_type
+lauter,Adam Berelowitz,"Sun, 02 Nov 2025 20:16:05 +0000",bottle,3.5,Zoigl,Krawandorfer Heberbräu,Historical Beer - Zoigl
+lauter,Adam Berelowitz,"Sun, 02 Nov 2025 20:14:53 +0000",can,4.0,Christmas Cake - Toffee & Maple Stout,Amundsen Brewery,Stout - Pastry
+lauter,Adam Berelowitz,"Sun, 02 Nov 2025 20:01:25 +0000",can,4.2,Technology Unknown (PULP),Elmeleven,Sour - Smoothie / Pastry
+lauter,nika,"Sun, 02 Nov 2025 19:44:11 +0000",bottle,5.0,Zoigl,Krawandorfer Heberbräu,Historical Beer - Zoigl
+bartov-holon,LiorCo11,"Sun, 02 Nov 2025 19:41:28 +0000",draft,3.75,Erdinger Weißbier / Hefe-Weizen,Erdinger Weissbräu,Wheat Beer - Hefeweizen
+ursa,Ilia,"Sun, 02 Nov 2025 19:35:52 +0000",draft,3.5,Weihenstephaner Hefeweissbier Dunkel,Bayerische Staatsbrauerei Weihenstephan,Wheat Beer - Dunkelweizen
+lauter,Michael Zilberstein,"Sun, 02 Nov 2025 19:28:45 +0000",draft,3.75,Nightmare Fuel,Schnitt Brewing Company﻿,Porter - American
+ursa,Tomer Stein,"Sun, 02 Nov 2025 19:26:21 +0000",can,3.5,Must Kuld,Põhjala,Porter - Other
+lauter,Michael Zilberstein,"Sun, 02 Nov 2025 19:25:27 +0000",,3.75,Sim Sima,Schnitt Brewing Company﻿,IPA - Imperial / Double
+schnitt-brewing-company,Dan G,"Sun, 02 Nov 2025 17:27:38 +0000",,3.75,About To Stout,Schnitt Brewing Company﻿,Stout - Oatmeal
+schnitt-brewing-company,Dan G,"Sun, 02 Nov 2025 17:26:32 +0000",,3.75,Schnitt Or Treat 2025,Schnitt Brewing Company﻿,Pumpkin / Yam Beer
+schnitt-brewing-company,Dan G,"Sun, 02 Nov 2025 17:26:02 +0000",,3.5,Rush Sour,Schnitt Brewing Company﻿,IPA - Sour
+schnitt-brewing-company,Dan G,"Sun, 02 Nov 2025 17:25:21 +0000",,3.75,Cashmero קשמירו,Schnitt Brewing Company﻿,IPA - American
+lauter,Michael Zilberstein,"Sun, 02 Nov 2025 17:18:56 +0000",,3.5,IN THE  SMALL,Schnitt Brewing Company﻿,Table Beer
+lauter,Yana O,"Sun, 02 Nov 2025 16:54:40 +0000",draft,3.8,Nightmare Fuel,Schnitt Brewing Company﻿,Porter - American
+lauter,Maxx Dee,"Sun, 02 Nov 2025 16:54:26 +0000",draft,4.0,Nightmare Fuel,Schnitt Brewing Company﻿,Porter - American
+lauter,Yana O,"Sun, 02 Nov 2025 16:52:28 +0000",draft,3.5,Benediktiner Weissbier,Benediktiner Weissbräu,Wheat Beer - Hefeweizen
+lauter,Maxx Dee,"Sun, 02 Nov 2025 16:51:58 +0000",draft,3.75,Benediktiner Weissbier,Benediktiner Weissbräu,Wheat Beer - Hefeweizen
+schnitt-brewing-company,keren mk,"Sun, 02 Nov 2025 16:45:59 +0000",draft,3.0,About To Stout,Schnitt Brewing Company﻿,Stout - Oatmeal
+schnitt-brewing-company,keren mk,"Sun, 02 Nov 2025 16:42:59 +0000",draft,3.25,Fruity Mish Mash,Schnitt Brewing Company﻿,IPA - New England / Hazy
+schnitt-brewing-company,Ori Pemper,"Sun, 02 Nov 2025 16:40:09 +0000",draft,3.25,Schnitt Or Treat 2025,Schnitt Brewing Company﻿,Pumpkin / Yam Beer
+schnitt-brewing-company,keren mk,"Sun, 02 Nov 2025 16:39:46 +0000",,3.5,Cashmero קשמירו,Schnitt Brewing Company﻿,IPA - American
+lauter,Ori Pemper,"Sun, 02 Nov 2025 16:39:08 +0000",draft,4.0,Kardemumma,Schnitt Brewing Company﻿,Pale Ale - Other
+schnitt-brewing-company,keren mk,"Sun, 02 Nov 2025 16:38:09 +0000",,3.75,Rush Sour,Schnitt Brewing Company﻿,IPA - Sour
+lauter,Ori Pemper,"Sun, 02 Nov 2025 16:37:57 +0000",draft,3.75,Sim Sima,Schnitt Brewing Company﻿,IPA - Imperial / Double
+lauter,Ori Pemper,"Sun, 02 Nov 2025 16:37:32 +0000",draft,3.5,Fruity Mish Mash,Schnitt Brewing Company﻿,IPA - New England / Hazy
+schnitt-brewing-company,Maxx Dee,"Sun, 02 Nov 2025 16:02:04 +0000",,3.75,Sim Sima,Schnitt Brewing Company﻿,IPA - Imperial / Double
+lauter,NoaVelner,"Sun, 02 Nov 2025 15:55:53 +0000",draft,4.0,Fruity Mish Mash,Schnitt Brewing Company﻿,IPA - New England / Hazy
+lauter,NoaVelner,"Sun, 02 Nov 2025 15:55:20 +0000",draft,4.0,Nightmare Fuel,Schnitt Brewing Company﻿,Porter - American
+schnitt-brewing-company,Maxx Dee,"Sun, 02 Nov 2025 15:29:56 +0000",,4.25,Nightmare Fuel,Schnitt Brewing Company﻿,Porter - American
+schnitt-brewing-company,Maxx Dee,"Sun, 02 Nov 2025 15:28:36 +0000",,3.75,Cashmero קשמירו,Schnitt Brewing Company﻿,IPA - American
+schnitt-brewing-company,Maxx Dee,"Sun, 02 Nov 2025 15:26:43 +0000",,,Rush Sour,Schnitt Brewing Company﻿,IPA - Sour
+schnitt-brewing-company,Maxx Dee,"Sun, 02 Nov 2025 15:25:38 +0000",,3.75,Schnitt Or Treat 2025,Schnitt Brewing Company﻿,Pumpkin / Yam Beer
+schnitt-brewing-company,Gadi Hirsch,"Sun, 02 Nov 2025 13:43:07 +0000",draft,3.75,Rush Sour,Schnitt Brewing Company﻿,IPA - Sour
+lauter,גל סילברמן,"Sun, 02 Nov 2025 11:33:04 +0000",draft,3.7,Schnitt Or Treat 2025,Schnitt Brewing Company﻿,Pumpkin / Yam Beer
 lauter,Shmupi Koto,"Sat, 01 Nov 2025 21:58:57 +0000",can,3.5,Counter Strike,BrewDog,IPA - American
 lauter,Shmupi Koto,"Sat, 01 Nov 2025 21:52:10 +0000",can,3.5,Counter Strike,BrewDog,IPA - American
 lauter,Ben Gat Sherman,"Sat, 01 Nov 2025 21:42:46 +0000",can,3.75,Counter Strike,BrewDog,IPA - American
@@ -929,8 +964,8 @@ lauter,Omer Shahar,"Sun, 19 Oct 2025 19:40:35 +0000",draft,3.5,"Shut Up And Drin
 porter-and-sons,Shmupi Koto,"Sun, 19 Oct 2025 19:33:53 +0000",draft,4.7,Quetsche Tilquin – Draft Version,Gueuzerie Tilquin,Lambic - Fruit
 lauter,Shmupi Koto,"Sun, 19 Oct 2025 19:32:51 +0000",bottle,4.0,Aecht Schlenkerla Rauchbier – Märzen,"Schlenkerla (""Heller-Bräu"" Trum)",Rauchbier
 lauter,Tal,"Sun, 19 Oct 2025 19:27:16 +0000",bottle,4.0,Bjorn's Beer,Attali's Family Brewery,IPA - American
-schnitt-brewing-company,May Cohen,"Sun, 19 Oct 2025 19:17:21 +0000",can,4.25,Plum Waffle,Duncan's Brewing,Sour - Smoothie / Pastry
 lauter,adi_zadik_2741,"Sun, 19 Oct 2025 19:17:21 +0000",bottle,3.25,Bjorn's Beer,Attali's Family Brewery,IPA - American
+schnitt-brewing-company,May Cohen,"Sun, 19 Oct 2025 19:17:21 +0000",can,4.25,Plum Waffle,Duncan's Brewing,Sour - Smoothie / Pastry
 lauter,Tal,"Sun, 19 Oct 2025 18:51:53 +0000",draft,3.75,"Shut Up And Drink Me! (שת""פ)",Schnitt Brewing Company﻿,Historical Beer - Lichtenhainer
 schnitt-brewing-company,May Cohen,"Sun, 19 Oct 2025 18:34:54 +0000",can,4.5,Jetphilia,Totopia Brewery,Stout - Imperial / Double
 beerline,Slava Gladchenko,"Sun, 19 Oct 2025 18:23:28 +0000",,3.0,Benediktiner Weissbier,Benediktiner Weissbräu,Wheat Beer - Hefeweizen
@@ -3801,8 +3836,8 @@ b7-beer-house,גל סילברמן,"Thu, 21 Aug 2025 16:00:18 +0000",can,3.8,Naug
 b7-beer-house,Guy Azene,"Thu, 21 Aug 2025 16:00:01 +0000",can,3.8,Naughty & Nice - White Chocolate & Raspberry,Vocation Brewery,Stout - White / Golden
 b7-beer-house,Liad Shaked,"Thu, 21 Aug 2025 15:59:41 +0000",can,3.9,Naughty & Nice - White Chocolate & Raspberry,Vocation Brewery,Stout - White / Golden
 b7-beer-house,Yotam Bar-natan,"Thu, 21 Aug 2025 15:59:21 +0000",can,4.3,Birthday Cake,Vocation Brewery,Stout - Milk / Sweet
-b7-beer-house,Eli Smikin,"Thu, 21 Aug 2025 15:59:11 +0000",can,3.8,Peach Rings,Vault City Brewing,Sour - Fruited
 b7-beer-house,Elior Mizrahi,"Thu, 21 Aug 2025 15:59:11 +0000",,4.0,Naughty & Nice - White Chocolate & Raspberry,Vocation Brewery,Stout - White / Golden
+b7-beer-house,Eli Smikin,"Thu, 21 Aug 2025 15:59:11 +0000",can,3.8,Peach Rings,Vault City Brewing,Sour - Fruited
 b7-beer-house,Yotam Bar-natan,"Thu, 21 Aug 2025 15:58:45 +0000",can,3.8,Naughty & Nice - White Chocolate & Raspberry,Vocation Brewery,Stout - White / Golden
 b7-beer-house,Tom Lahav,"Thu, 21 Aug 2025 15:58:44 +0000",can,3.25,Naughty & Nice - White Chocolate & Raspberry,Vocation Brewery,Stout - White / Golden
 b7-beer-house,Yotam Bar-natan,"Thu, 21 Aug 2025 15:58:21 +0000",can,3.7,Incognito,Vocation Brewery,IPA - Imperial / Double
@@ -4567,8 +4602,8 @@ lauter,Yaron Sh,"Tue, 05 Aug 2025 19:29:11 +0000",,4.0,SLUSHY XL: Haha!,450 Nort
 lauter,Kobi,"Tue, 05 Aug 2025 19:29:05 +0000",,4.3,Hydralisk,Spanish Marie Brewery,Sour - Smoothie / Pastry
 lauter,Yosef Dahan,"Tue, 05 Aug 2025 19:28:30 +0000",can,3.75,SLUSHY XL: Haha!,450 North Brewing Company,Sour - Smoothie / Pastry
 lauter,Shaul A,"Tue, 05 Aug 2025 19:26:45 +0000",,4.25,SLUSHY XL: Haha!,450 North Brewing Company,Sour - Smoothie / Pastry
-lauter,Oren Sleepwalker,"Tue, 05 Aug 2025 19:24:07 +0000",,,SLUSHY XL: Haha!,450 North Brewing Company,Sour - Smoothie / Pastry
 lauter,Mikhail Stolov,"Tue, 05 Aug 2025 19:24:07 +0000",can,4.5,SLUSHY XL: Haha!,450 North Brewing Company,Sour - Smoothie / Pastry
+lauter,Oren Sleepwalker,"Tue, 05 Aug 2025 19:24:07 +0000",,,SLUSHY XL: Haha!,450 North Brewing Company,Sour - Smoothie / Pastry
 lauter,Kobi,"Tue, 05 Aug 2025 19:21:59 +0000",,4.3,SLUSHY XL: Haha!,450 North Brewing Company,Sour - Smoothie / Pastry
 lauter,Shaul A,"Tue, 05 Aug 2025 19:16:22 +0000",,4.25,Monstrous Oils,Cellarmaker Brewing Company,IPA - Quadruple
 lauter,Yaron Sh,"Tue, 05 Aug 2025 19:15:56 +0000",,4.25,Monstrous Oils,Cellarmaker Brewing Company,IPA - Quadruple
@@ -7263,8 +7298,8 @@ berlin-florentin,Yaron Sh,"Mon, 22 Jan 2024 18:49:44 +0000",can,4.0,"¡Buena Par
 berlin-florentin,Shmupi Koto,"Mon, 22 Jan 2024 18:49:41 +0000",can,3.8,"¡Buena Para El Papa! ¿Si, No?",Brewski,Stout - Imperial / Double Pastry
 berlin-florentin,Shmupi Koto,"Mon, 22 Jan 2024 18:49:04 +0000",can,4.0,200 Units,Brewski,Barleywine - English
 berlin-florentin,Tom Oppenheim,"Mon, 22 Jan 2024 18:48:49 +0000",can,3.5,"¡Buena Para El Papa! ¿Si, No?",Brewski,Stout - Imperial / Double Pastry
-berlin-florentin,Yaron Sh,"Mon, 22 Jan 2024 18:42:20 +0000",,,200 Units,Brewski,Barleywine - English
 berlin-florentin,ori shuster,"Mon, 22 Jan 2024 18:42:20 +0000",can,4.0,200 Units,Brewski,Barleywine - English
+berlin-florentin,Yaron Sh,"Mon, 22 Jan 2024 18:42:20 +0000",,,200 Units,Brewski,Barleywine - English
 berlin-florentin,Yaron Sh,"Mon, 22 Jan 2024 18:41:52 +0000",,,Strawberry Pie,Brewski,Sour - Smoothie / Pastry
 berlin-florentin,Itai Snai,"Mon, 22 Jan 2024 18:40:50 +0000",,3.5,200 Units,Brewski,Barleywine - English
 berlin-florentin,Mikhail Stolov,"Mon, 22 Jan 2024 18:38:56 +0000",,3.75,200 Units,Brewski,Barleywine - English
