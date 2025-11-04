@@ -1,8 +1,395 @@
 // 🍺 BEER STATS DATA - Generated automatically
-// Last updated: 2025-11-03 06:40:43
-// Total records: 7635
+// Last updated: 2025-11-04 06:39:47
+// Total records: 7678
 
 const BEER_DATA = [
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-11-03T21:21:23+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "Shut Up And Drink Me! (שת\"פ)",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Historical Beer - Lichtenhainer"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-11-03T21:19:18+00:00",
+    "serving": "draft",
+    "rating": 3.25,
+    "beer_name": "Schnitt Or Treat 2025",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pumpkin / Yam Beer"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-11-03T21:18:04+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "New York Mocaccino",
+    "brewery": "Mad Scientist",
+    "beer_type": "Stout - Milk / Sweet"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-11-03T21:00:35+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "About To Stout",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Stout - Oatmeal"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-11-03T21:00:32+00:00",
+    "serving": "draft",
+    "rating": 3.25,
+    "beer_name": "About To Stout",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Stout - Oatmeal"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-11-03T20:32:09+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Anything Gose: Mango",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Sour - Fruited Gose"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-03T20:29:49+00:00",
+    "serving": "can",
+    "rating": 3.0,
+    "beer_name": "Selfish Games Journey1000",
+    "brewery": "HORIZONT Brewing",
+    "beer_type": "Pilsner - Other"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-11-03T20:28:21+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Lazy Bee Hibiscus And Raspberries",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Mead - Session / Short"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-11-03T20:28:09+00:00",
+    "serving": "draft",
+    "rating": 3.25,
+    "beer_name": "Lazy Bee Hibiscus And Raspberries",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Mead - Session / Short"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-11-03T20:25:09+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Kardemumma",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pale Ale - Other"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-11-03T20:24:12+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Nightmare Fuel",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Porter - American"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-11-03T20:23:01+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Kardemumma",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pale Ale - Other"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-03T19:55:21+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Kardemumma",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pale Ale - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-03T19:52:31+00:00",
+    "serving": "bottle",
+    "rating": 3.75,
+    "beer_name": "Hitachino Nest Espresso Stout",
+    "brewery": "Kiuchi Brewery",
+    "beer_type": "Stout - Coffee"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-03T19:51:06+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Hitachino Nest Espresso Stout",
+    "brewery": "Kiuchi Brewery",
+    "beer_type": "Stout - Coffee"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-03T19:14:55+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Dead Guy Ale",
+    "brewery": "Rogue Ales",
+    "beer_type": "Bock - Hell / Maibock / Lentebock"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-03T19:13:46+00:00",
+    "serving": "can",
+    "rating": null,
+    "beer_name": "Dead Guy Ale",
+    "brewery": "Rogue Ales",
+    "beer_type": "Bock - Hell / Maibock / Lentebock"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-03T18:50:01+00:00",
+    "serving": "bottle",
+    "rating": 3.75,
+    "beer_name": "Hitachino Nest Red Rice Ale",
+    "brewery": "Kiuchi Brewery",
+    "beer_type": "Specialty Grain"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-03T18:48:24+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "New York Mocaccino",
+    "brewery": "Mad Scientist",
+    "beer_type": "Stout - Milk / Sweet"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-03T18:48:02+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Hitachino Nest Red Rice Ale",
+    "brewery": "Kiuchi Brewery",
+    "beer_type": "Specialty Grain"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-03T18:45:30+00:00",
+    "serving": "draft",
+    "rating": null,
+    "beer_name": "New York Mocaccino",
+    "brewery": "Mad Scientist",
+    "beer_type": "Stout - Milk / Sweet"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-03T18:25:03+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Ronen HaKeha HaMerusha'at Dark Ale (הבירה הכהה המרושעת)",
+    "brewery": "Srigim (שריגים)",
+    "beer_type": "Brown Ale - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-03T18:18:37+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Vedett Extra Pilsner (Extra Blond)",
+    "brewery": "Duvel Moortgat",
+    "beer_type": "Pilsner - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-03T18:18:31+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Kardemumma",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pale Ale - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-03T18:18:15+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Kardemumma",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pale Ale - Other"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-11-03T17:42:51+00:00",
+    "serving": "draft",
+    "rating": 3.0,
+    "beer_name": "Schnitt Or Treat 2025",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pumpkin / Yam Beer"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-11-03T17:42:04+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Schnitt Or Treat 2025",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pumpkin / Yam Beer"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-11-03T17:37:01+00:00",
+    "serving": "draft",
+    "rating": 3.25,
+    "beer_name": "Nightmare Fuel",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Porter - American"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-11-03T17:32:06+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Cashmero קשמירו",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-11-03T17:31:06+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Nightmare Fuel",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Porter - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-03T16:00:51+00:00",
+    "serving": "draft",
+    "rating": 3.25,
+    "beer_name": "הייזי שמייזי",
+    "brewery": "Herzl (הרצל)",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-11-03T15:32:18+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Kardemumma",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pale Ale - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-03T15:32:04+00:00",
+    "serving": "draft",
+    "rating": 3.25,
+    "beer_name": "Benediktiner Weissbier",
+    "brewery": "Benediktiner Weissbräu",
+    "beer_type": "Wheat Beer - Hefeweizen"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-11-03T15:22:33+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Schnitt Or Treat 2025",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pumpkin / Yam Beer"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-11-03T14:37:08+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Rush Sour",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - Sour"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-11-03T14:02:23+00:00",
+    "serving": "Unknown",
+    "rating": 3.8,
+    "beer_name": "About To Stout",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Stout - Oatmeal"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-11-03T13:01:54+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Sim Sima",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - Imperial / Double"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-11-03T12:56:34+00:00",
+    "serving": "draft",
+    "rating": 3.9,
+    "beer_name": "Nightmare Fuel",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Porter - American"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-11-03T12:36:53+00:00",
+    "serving": "draft",
+    "rating": 3.6,
+    "beer_name": "Cashmero קשמירו",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-11-03T12:31:21+00:00",
+    "serving": "Unknown",
+    "rating": 3.7,
+    "beer_name": "Kardemumma",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pale Ale - Other"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-11-03T12:28:15+00:00",
+    "serving": "draft",
+    "rating": 3.9,
+    "beer_name": "Muuumbai",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Lager - IPL (India Pale Lager)"
+  },
+  {
+    "venue": "beer-station-beersheba-israel",
+    "time": "2025-11-03T10:19:50+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Vershovice Svêtlý Ležák",
+    "brewery": "Pivovar Steiger",
+    "beer_type": "Lager - Světlé (Czech Pale)"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-03T08:25:22+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Counter Strike",
+    "brewery": "BrewDog",
+    "beer_type": "IPA - American"
+  },
   {
     "venue": "lauter",
     "time": "2025-11-02T20:16:05+00:00",
