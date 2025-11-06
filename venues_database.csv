@@ -1,4 +1,31 @@
 venue,user,time,serving,data_rating,beer_name,brewery,beer_type
+lauter,Johannes de Fine Licht,"Wed, 05 Nov 2025 21:18:05 +0000",bottle,4.25,Vendange Rouge 2021,À tue-tête,Sour - Fruited
+lauter,Johannes de Fine Licht,"Wed, 05 Nov 2025 20:13:42 +0000",can,3.5,Tipsy Toucan,Sibeeria Brewery,IPA - New England / Hazy
+lauter,Ido Meir,"Wed, 05 Nov 2025 20:10:38 +0000",draft,4.5,Cantillon Gueuze 2025 - Draft Version,Brasserie Cantillon,Lambic - Gueuze
+schnitt-brewing-company,Ido Meir,"Wed, 05 Nov 2025 20:09:25 +0000",,4.25,Rush Sour,Schnitt Brewing Company﻿,IPA - Sour
+lauter,Johannes de Fine Licht,"Wed, 05 Nov 2025 19:29:47 +0000",bottle,3.75,Abbaye de Saint Bon-Chien Grand Cru (2022) - Moustache Madeira,Brasserie des Franches-Montagnes (BFM),Sour - Other
+lauter,Johannes de Fine Licht,"Wed, 05 Nov 2025 19:10:27 +0000",can,4.25,Raspberry Beret,Hoppy People,Sour - Smoothie / Pastry
+lauter,Johannes de Fine Licht,"Wed, 05 Nov 2025 18:59:20 +0000",can,4.25,Gridfire,Gravity Well Brewing Co,IPA - Imperial / Double New England / Hazy
+porter-and-sons,Lee Ker,"Wed, 05 Nov 2025 18:39:58 +0000",,,Twist & Stout,Schnitt Brewing Company﻿,Stout - Irish Dry
+porter-and-sons,Lee Ker,"Wed, 05 Nov 2025 17:58:05 +0000",,,Tucher Pils,Tucher Bräu,Pilsner - German
+porter-and-sons,Lee Ker,"Wed, 05 Nov 2025 17:55:54 +0000",,,Budweiser Budvar B:DARK / Czechvar B:DARK,Budějovický Budvar,Lager - Tmavé (Czech Dark)
+lauter,Lee Ker,"Wed, 05 Nov 2025 17:21:20 +0000",,,Hazy Jane,BrewDog,IPA - New England / Hazy
+lauter,Lee Ker,"Wed, 05 Nov 2025 17:20:14 +0000",,,Kardemumma,Schnitt Brewing Company﻿,Pale Ale - Other
+lauter,Lee Ker,"Wed, 05 Nov 2025 17:19:43 +0000",can,,Cold Beer Peach,BrewDog,Lager - Other
+lauter,Leon,"Wed, 05 Nov 2025 15:58:49 +0000",draft,4.25,Cantillon Gueuze 2025 - Draft Version,Brasserie Cantillon,Lambic - Gueuze
+lauter,Boris,"Wed, 05 Nov 2025 15:58:26 +0000",draft,4.0,Cantillon Gueuze 2025 - Draft Version,Brasserie Cantillon,Lambic - Gueuze
+lauter,Nikolay Magola,"Wed, 05 Nov 2025 15:55:41 +0000",draft,4.5,Cantillon Gueuze 2025 - Draft Version,Brasserie Cantillon,Lambic - Gueuze
+schnitt-brewing-company,Leon,"Wed, 05 Nov 2025 15:52:11 +0000",draft,3.25,Coresh כורש,Schnitt Brewing Company﻿,Smoked Beer
+schnitt-brewing-company,Nikolay Magola,"Wed, 05 Nov 2025 15:48:10 +0000",draft,2.75,Coresh כורש,Schnitt Brewing Company﻿,Smoked Beer
+schnitt-brewing-company,Boris,"Wed, 05 Nov 2025 15:48:01 +0000",,3.0,Coresh כורש,Schnitt Brewing Company﻿,Smoked Beer
+schnitt-brewing-company,Boris,"Wed, 05 Nov 2025 15:25:48 +0000",draft,3.25,Schnitt Or Treat 2025,Schnitt Brewing Company﻿,Pumpkin / Yam Beer
+schnitt-brewing-company,Nikolay Magola,"Wed, 05 Nov 2025 14:58:24 +0000",draft,3.5,Nightmare Fuel,Schnitt Brewing Company﻿,Porter - American
+schnitt-brewing-company,Nikolay Magola,"Wed, 05 Nov 2025 14:37:29 +0000",draft,3.0,About To Stout,Schnitt Brewing Company﻿,Stout - Oatmeal
+schnitt-brewing-company,Nikolay Magola,"Wed, 05 Nov 2025 14:22:30 +0000",,3.5,Kardemumma,Schnitt Brewing Company﻿,Pale Ale - Other
+schnitt-brewing-company,Nikolay Magola,"Wed, 05 Nov 2025 14:15:59 +0000",,3.25,Cashmero קשמירו,Schnitt Brewing Company﻿,IPA - American
+schnitt-brewing-company,Nikolay Magola,"Wed, 05 Nov 2025 14:08:32 +0000",,4.0,Rush Sour,Schnitt Brewing Company﻿,IPA - Sour
+schnitt-brewing-company,Nikolay Magola,"Wed, 05 Nov 2025 14:07:15 +0000",,3.5,Schnitt Or Treat 2025,Schnitt Brewing Company﻿,Pumpkin / Yam Beer
+schnitt-brewing-company,Nikolay Magola,"Wed, 05 Nov 2025 14:06:01 +0000",,,Schnitt Or Treat 2025,Schnitt Brewing Company﻿,Pumpkin / Yam Beer
 lauter,Ido Meir,"Tue, 04 Nov 2025 22:16:15 +0000",bottle,3.5,Bastola,Birra Flea,Red Ale - Imperial / Double
 schnitt-brewing-company,Ido Meir,"Tue, 04 Nov 2025 21:54:02 +0000",,4.0,Sim Sima,Schnitt Brewing Company﻿,IPA - Imperial / Double
 schnitt-brewing-company,Ido Meir,"Tue, 04 Nov 2025 21:52:41 +0000",,3.75,Fruity Mish Mash,Schnitt Brewing Company﻿,IPA - New England / Hazy
@@ -1050,8 +1077,8 @@ lauter,Omer Shahar,"Sun, 19 Oct 2025 19:40:35 +0000",draft,3.5,"Shut Up And Drin
 porter-and-sons,Shmupi Koto,"Sun, 19 Oct 2025 19:33:53 +0000",draft,4.7,Quetsche Tilquin – Draft Version,Gueuzerie Tilquin,Lambic - Fruit
 lauter,Shmupi Koto,"Sun, 19 Oct 2025 19:32:51 +0000",bottle,4.0,Aecht Schlenkerla Rauchbier – Märzen,"Schlenkerla (""Heller-Bräu"" Trum)",Rauchbier
 lauter,Tal,"Sun, 19 Oct 2025 19:27:16 +0000",bottle,4.0,Bjorn's Beer,Attali's Family Brewery,IPA - American
-lauter,adi_zadik_2741,"Sun, 19 Oct 2025 19:17:21 +0000",bottle,3.25,Bjorn's Beer,Attali's Family Brewery,IPA - American
 schnitt-brewing-company,May Cohen,"Sun, 19 Oct 2025 19:17:21 +0000",can,4.25,Plum Waffle,Duncan's Brewing,Sour - Smoothie / Pastry
+lauter,adi_zadik_2741,"Sun, 19 Oct 2025 19:17:21 +0000",bottle,3.25,Bjorn's Beer,Attali's Family Brewery,IPA - American
 lauter,Tal,"Sun, 19 Oct 2025 18:51:53 +0000",draft,3.75,"Shut Up And Drink Me! (שת""פ)",Schnitt Brewing Company﻿,Historical Beer - Lichtenhainer
 schnitt-brewing-company,May Cohen,"Sun, 19 Oct 2025 18:34:54 +0000",can,4.5,Jetphilia,Totopia Brewery,Stout - Imperial / Double
 beerline,Slava Gladchenko,"Sun, 19 Oct 2025 18:23:28 +0000",,3.0,Benediktiner Weissbier,Benediktiner Weissbräu,Wheat Beer - Hefeweizen
@@ -6669,8 +6696,8 @@ berlin-florentin,Sharon Confino,"Mon, 23 Dec 2024 18:45:24 +0000",bottle,3.75,Fr
 berlin-florentin,Yana O,"Mon, 23 Dec 2024 18:44:17 +0000",bottle,4.0,Framboise,Brouwerij Lindemans,Lambic - Framboise
 berlin-florentin,Ⓜ️axx Dee,"Mon, 23 Dec 2024 18:44:11 +0000",bottle,4.0,Framboise,Brouwerij Lindemans,Lambic - Framboise
 berlin-florentin,Ⓜ️axx Dee,"Mon, 23 Dec 2024 18:38:17 +0000",bottle,4.0,Christmas Ale (2023),Brouwerij St.Bernardus,Winter Ale
-berlin-florentin,Yana O,"Mon, 23 Dec 2024 18:37:49 +0000",bottle,4.1,Christmas Ale (2023),Brouwerij St.Bernardus,Winter Ale
 berlin-florentin,Sharon Confino,"Mon, 23 Dec 2024 18:37:49 +0000",bottle,3.0,Christmas Ale,Brouwerij St.Bernardus,Winter Ale
+berlin-florentin,Yana O,"Mon, 23 Dec 2024 18:37:49 +0000",bottle,4.1,Christmas Ale (2023),Brouwerij St.Bernardus,Winter Ale
 berlin-florentin,Sharon Confino,"Mon, 23 Dec 2024 18:32:18 +0000",bottle,4.5,Faro,Brouwerij Lindemans,Lambic - Faro
 berlin-florentin,Yana O,"Mon, 23 Dec 2024 18:30:45 +0000",bottle,4.0,Faro,Brouwerij Lindemans,Lambic - Faro
 berlin-florentin,Ⓜ️axx Dee,"Mon, 23 Dec 2024 18:30:43 +0000",bottle,4.1,Faro,Brouwerij Lindemans,Lambic - Faro
@@ -7623,8 +7650,8 @@ ursa,Dan G,"Mon, 05 Jun 2023 17:37:24 +0000",can,3.75,Trickster,Siren Craft Brew
 ursa,Jacob Collier,"Mon, 05 Jun 2023 15:40:20 +0000",draft,3.75,Hard Apple Cider - Dry (סיידר תפוחים אלכוהולי יבש),Hamatsesa (המתססה),Cider - Dry
 ursa,Omri Wolf,"Sat, 03 Jun 2023 19:40:48 +0000",can,4.5,Crescendo,Siren Craft Brew,Stout - Imperial / Double
 ursa,Omri Wolf,"Sat, 03 Jun 2023 19:26:34 +0000",draft,3.75,Soundwave IPA,Siren Craft Brew,IPA - American
-ursa,Ofir Israeli,"Sat, 03 Jun 2023 18:56:41 +0000",,3.5,Hard Apple Cider - Dry (סיידר תפוחים אלכוהולי יבש),Hamatsesa (המתססה),Cider - Dry
 ursa,Omri Wolf,"Sat, 03 Jun 2023 18:56:41 +0000",,3.5,Hard Apple Cider - Dry (סיידר תפוחים אלכוהולי יבש),Hamatsesa (המתססה),Cider - Dry
+ursa,Ofir Israeli,"Sat, 03 Jun 2023 18:56:41 +0000",,3.5,Hard Apple Cider - Dry (סיידר תפוחים אלכוהולי יבש),Hamatsesa (המתססה),Cider - Dry
 ursa,Nir Langer,"Fri, 02 Jun 2023 21:30:00 +0000",can,3.5,Passion Flick,HORIZONT Brewing,Pale Ale - Milkshake
 ursa,Alex Tsvetkov,"Wed, 31 May 2023 19:27:31 +0000",,4.25,Crescendo,Siren Craft Brew,Stout - Imperial / Double
 ursa,Alex Tsvetkov,"Wed, 31 May 2023 19:07:06 +0000",,3.5,Trickster,Siren Craft Brew,IPA - English

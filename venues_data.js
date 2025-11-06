@@ -1,8 +1,251 @@
 // 🍺 BEER STATS DATA - Generated automatically
-// Last updated: 2025-11-05 06:39:07
-// Total records: 7721
+// Last updated: 2025-11-06 06:39:26
+// Total records: 7748
 
 const BEER_DATA = [
+  {
+    "venue": "lauter",
+    "time": "2025-11-05T21:18:05+00:00",
+    "serving": "bottle",
+    "rating": 4.25,
+    "beer_name": "Vendange Rouge 2021",
+    "brewery": "À tue-tête",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-05T20:13:42+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Tipsy Toucan",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-05T20:10:38+00:00",
+    "serving": "draft",
+    "rating": 4.5,
+    "beer_name": "Cantillon Gueuze 2025 - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": "Lambic - Gueuze"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-11-05T20:09:25+00:00",
+    "serving": "Unknown",
+    "rating": 4.25,
+    "beer_name": "Rush Sour",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - Sour"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-05T19:29:47+00:00",
+    "serving": "bottle",
+    "rating": 3.75,
+    "beer_name": "Abbaye de Saint Bon-Chien Grand Cru (2022) - Moustache Madeira",
+    "brewery": "Brasserie des Franches-Montagnes (BFM)",
+    "beer_type": "Sour - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-05T19:10:27+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "Raspberry Beret",
+    "brewery": "Hoppy People",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-05T18:59:20+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "Gridfire",
+    "brewery": "Gravity Well Brewing Co",
+    "beer_type": "IPA - Imperial / Double New England / Hazy"
+  },
+  {
+    "venue": "porter-and-sons",
+    "time": "2025-11-05T18:39:58+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Twist & Stout",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Stout - Irish Dry"
+  },
+  {
+    "venue": "porter-and-sons",
+    "time": "2025-11-05T17:58:05+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Tucher Pils",
+    "brewery": "Tucher Bräu",
+    "beer_type": "Pilsner - German"
+  },
+  {
+    "venue": "porter-and-sons",
+    "time": "2025-11-05T17:55:54+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Budweiser Budvar B:DARK / Czechvar B:DARK",
+    "brewery": "Budějovický Budvar",
+    "beer_type": "Lager - Tmavé (Czech Dark)"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-05T17:21:20+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Hazy Jane",
+    "brewery": "BrewDog",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-05T17:20:14+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Kardemumma",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pale Ale - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-05T17:19:43+00:00",
+    "serving": "can",
+    "rating": null,
+    "beer_name": "Cold Beer Peach",
+    "brewery": "BrewDog",
+    "beer_type": "Lager - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-05T15:58:49+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "Cantillon Gueuze 2025 - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": "Lambic - Gueuze"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-05T15:58:26+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Cantillon Gueuze 2025 - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": "Lambic - Gueuze"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-05T15:55:41+00:00",
+    "serving": "draft",
+    "rating": 4.5,
+    "beer_name": "Cantillon Gueuze 2025 - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": "Lambic - Gueuze"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-11-05T15:52:11+00:00",
+    "serving": "draft",
+    "rating": 3.25,
+    "beer_name": "Coresh כורש",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Smoked Beer"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-11-05T15:48:10+00:00",
+    "serving": "draft",
+    "rating": 2.75,
+    "beer_name": "Coresh כורש",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Smoked Beer"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-11-05T15:48:01+00:00",
+    "serving": "Unknown",
+    "rating": 3.0,
+    "beer_name": "Coresh כורש",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Smoked Beer"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-11-05T15:25:48+00:00",
+    "serving": "draft",
+    "rating": 3.25,
+    "beer_name": "Schnitt Or Treat 2025",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pumpkin / Yam Beer"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-11-05T14:58:24+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Nightmare Fuel",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Porter - American"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-11-05T14:37:29+00:00",
+    "serving": "draft",
+    "rating": 3.0,
+    "beer_name": "About To Stout",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Stout - Oatmeal"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-11-05T14:22:30+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "Kardemumma",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pale Ale - Other"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-11-05T14:15:59+00:00",
+    "serving": "Unknown",
+    "rating": 3.25,
+    "beer_name": "Cashmero קשמירו",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-11-05T14:08:32+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Rush Sour",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - Sour"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-11-05T14:07:15+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "Schnitt Or Treat 2025",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pumpkin / Yam Beer"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-11-05T14:06:01+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Schnitt Or Treat 2025",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pumpkin / Yam Beer"
+  },
   {
     "venue": "lauter",
     "time": "2025-11-04T22:16:15+00:00",
@@ -9463,15 +9706,6 @@ const BEER_DATA = [
     "beer_type": "IPA - American"
   },
   {
-    "venue": "lauter",
-    "time": "2025-10-19T19:17:21+00:00",
-    "serving": "bottle",
-    "rating": 3.25,
-    "beer_name": "Bjorn's Beer",
-    "brewery": "Attali's Family Brewery",
-    "beer_type": "IPA - American"
-  },
-  {
     "venue": "schnitt-brewing-company",
     "time": "2025-10-19T19:17:21+00:00",
     "serving": "can",
@@ -9479,6 +9713,15 @@ const BEER_DATA = [
     "beer_name": "Plum Waffle",
     "brewery": "Duncan's Brewing",
     "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-19T19:17:21+00:00",
+    "serving": "bottle",
+    "rating": 3.25,
+    "beer_name": "Bjorn's Beer",
+    "brewery": "Attali's Family Brewery",
+    "beer_type": "IPA - American"
   },
   {
     "venue": "lauter",
@@ -60037,8 +60280,8 @@ const BEER_DATA = [
     "venue": "berlin-florentin",
     "time": "2024-12-23T18:37:49+00:00",
     "serving": "bottle",
-    "rating": 4.1,
-    "beer_name": "Christmas Ale (2023)",
+    "rating": 3.0,
+    "beer_name": "Christmas Ale",
     "brewery": "Brouwerij St.Bernardus",
     "beer_type": "Winter Ale"
   },
@@ -60046,8 +60289,8 @@ const BEER_DATA = [
     "venue": "berlin-florentin",
     "time": "2024-12-23T18:37:49+00:00",
     "serving": "bottle",
-    "rating": 3.0,
-    "beer_name": "Christmas Ale",
+    "rating": 4.1,
+    "beer_name": "Christmas Ale (2023)",
     "brewery": "Brouwerij St.Bernardus",
     "beer_type": "Winter Ale"
   },
