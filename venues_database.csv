@@ -1,4 +1,56 @@
 venue,user,time,serving,data_rating,beer_name,brewery,beer_type
+lauter,Yanai Ben- Alon,"Fri, 07 Nov 2025 06:03:04 +0000",can,3.75,Counter Strike,BrewDog,IPA - American
+lauter,Yanai Ben- Alon,"Fri, 07 Nov 2025 06:02:11 +0000",can,3.5,Orange Crush,BrewDog,IPA - Fruited
+lauter,Yanai Ben- Alon,"Fri, 07 Nov 2025 06:01:28 +0000",,2.5,Lager,Mivshelet HaGalil (מבשלת הגליל),Lager - Helles
+lauter,Yanai Ben- Alon,"Fri, 07 Nov 2025 06:00:50 +0000",can,3.0,Christmas Cake - Toffee & Maple Stout,Amundsen Brewery,Stout - Pastry
+lauter,Yanai Ben- Alon,"Fri, 07 Nov 2025 05:59:55 +0000",bottle,3.75,Zoigl,Krawandorfer Heberbräu,Historical Beer - Zoigl
+lauter,Yanai Ben- Alon,"Fri, 07 Nov 2025 05:58:58 +0000",can,4.25,Yummy Mango with Apricot,Sibeeria Brewery,Sour - Smoothie / Pastry
+lauter,Yanai Ben- Alon,"Fri, 07 Nov 2025 05:58:25 +0000",can,2.75,"Yummy Blackcurrant, Prunes & Tonka",Sibeeria Brewery,Sour - Smoothie / Pastry
+lauter,Yanai Ben- Alon,"Fri, 07 Nov 2025 05:57:57 +0000",can,3.25,American IPA,Olvi,IPA - American
+lauter,Yanai Ben- Alon,"Fri, 07 Nov 2025 05:57:07 +0000",can,2.75,Oceanic NEIPA,Olvi,IPA - New England / Hazy
+lauter,Yanai Ben- Alon,"Fri, 07 Nov 2025 05:56:32 +0000",can,4.0,Everyday Life,Sibeeria Brewery,Pilsner - Czech / Bohemian
+lauter,Yanai Ben- Alon,"Fri, 07 Nov 2025 05:56:02 +0000",can,3.5,Motueka Sunrise,Sibeeria Brewery,IPA - New England / Hazy
+lauter,Yanai Ben- Alon,"Fri, 07 Nov 2025 05:55:16 +0000",can,3.5,Liquid Luck,Sibeeria Brewery,Pale Ale - American
+lauter,Yanai Ben- Alon,"Fri, 07 Nov 2025 05:54:35 +0000",can,3.75,Ležák Třírmutový,Sibeeria Brewery,Pilsner - Czech / Bohemian
+lauter,Elad Schitrit,"Thu, 06 Nov 2025 23:56:47 +0000",can,4.0,Ležák Třírmutový,Sibeeria Brewery,Pilsner - Czech / Bohemian
+b7-beer-house,Israel Shenkman,"Thu, 06 Nov 2025 22:57:43 +0000",,4.25,Granny's Candy Bowl,DankHouse Brewing Company,Sour - Fruited
+lauter,Elad Schitrit,"Thu, 06 Nov 2025 21:55:57 +0000",can,3.5,Liquid Luck,Sibeeria Brewery,Pale Ale - American
+porter-and-sons,Shmupi Koto,"Thu, 06 Nov 2025 21:52:01 +0000",draft,4.7,Quetsche Tilquin – Draft Version,Gueuzerie Tilquin,Lambic - Fruit
+lauter,Omri Gill,"Thu, 06 Nov 2025 21:24:17 +0000",can,3.75,Motueka Sunrise,Sibeeria Brewery,IPA - New England / Hazy
+lauter,Omri Gill,"Thu, 06 Nov 2025 21:23:50 +0000",can,4.0,Everyday Life,Sibeeria Brewery,Pilsner - Czech / Bohemian
+lauter,Ben Gat Sherman,"Thu, 06 Nov 2025 21:05:35 +0000",can,2.25,Oceanic NEIPA,Olvi,IPA - New England / Hazy
+lauter,Elad Schitrit,"Thu, 06 Nov 2025 21:02:44 +0000",can,2.75,Oceanic NEIPA,Olvi,IPA - New England / Hazy
+schnitt-brewing-company,Ben Gat Sherman,"Thu, 06 Nov 2025 20:59:18 +0000",draft,3.75,Coresh כורש,Schnitt Brewing Company﻿,Smoked Beer
+lauter,Elad Schitrit,"Thu, 06 Nov 2025 20:56:25 +0000",can,3.25,American IPA,Olvi,IPA - American
+beerz,ofek_barzilay,"Thu, 06 Nov 2025 20:54:02 +0000",,5.0,Mongozo Coconut,Mongozo,Fruit Beer
+schnitt-brewing-company,Elad Schitrit,"Thu, 06 Nov 2025 20:43:15 +0000",draft,3.5,Coresh כורש,Schnitt Brewing Company﻿,Smoked Beer
+lauter,Elad Schitrit,"Thu, 06 Nov 2025 20:36:56 +0000",can,4.0,"Yummy Blackcurrant, Prunes & Tonka",Sibeeria Brewery,Sour - Smoothie / Pastry
+lauter,Omri Gill,"Thu, 06 Nov 2025 20:35:00 +0000",can,4.0,Lollihop,Sibeeria Brewery,IPA - American
+schnitt-brewing-company,Andrey Granovsky,"Thu, 06 Nov 2025 20:34:18 +0000",draft,3.75,About To Stout,Schnitt Brewing Company﻿,Stout - Oatmeal
+schnitt-brewing-company,Andrey Granovsky,"Thu, 06 Nov 2025 20:34:00 +0000",draft,3.5,Cashmero קשמירו,Schnitt Brewing Company﻿,IPA - American
+schnitt-brewing-company,Andrey Granovsky,"Thu, 06 Nov 2025 20:33:06 +0000",draft,3.5,Coresh כורש,Schnitt Brewing Company﻿,Smoked Beer
+lauter,Omri Gill,"Thu, 06 Nov 2025 20:32:54 +0000",can,4.0,Yummy Mango with Apricot,Sibeeria Brewery,Sour - Smoothie / Pastry
+schnitt-brewing-company,Alma,"Thu, 06 Nov 2025 20:25:13 +0000",draft,4.0,Rush Sour,Schnitt Brewing Company﻿,IPA - Sour
+porter-and-sons,Shmupi Koto,"Thu, 06 Nov 2025 20:25:12 +0000",draft,4.0,Jaipur,Thornbridge Brewery,IPA - American
+schnitt-brewing-company,Omri Gill,"Thu, 06 Nov 2025 20:24:43 +0000",draft,3.75,Coresh כורש,Schnitt Brewing Company﻿,Smoked Beer
+lauter,Elad Schitrit,"Thu, 06 Nov 2025 20:23:00 +0000",can,4.0,Yummy Mango with Apricot,Sibeeria Brewery,Sour - Smoothie / Pastry
+lauter,Elad Schitrit,"Thu, 06 Nov 2025 20:15:28 +0000",,4.0,Motueka Sunrise,Sibeeria Brewery,IPA - New England / Hazy
+lauter,Omri Gill,"Thu, 06 Nov 2025 20:11:44 +0000",can,3.75,Counter Strike,BrewDog,IPA - American
+lauter,Omri Gill,"Thu, 06 Nov 2025 19:58:14 +0000",can,4.25,Tipsy Toucan,Sibeeria Brewery,IPA - New England / Hazy
+beerz,ofek_barzilay,"Thu, 06 Nov 2025 19:56:19 +0000",draft,4.5,Ruby Beer,Hobgoblin,"Homebrew, Winter Warmer"
+lauter,Elad Schitrit,"Thu, 06 Nov 2025 19:42:34 +0000",can,4.0,Tipsy Toucan,Sibeeria Brewery,IPA - New England / Hazy
+schnitt-brewing-company,Omri Gill,"Thu, 06 Nov 2025 18:58:40 +0000",draft,4.0,הפילס שבחדר the Pils In the Room,Schnitt Brewing Company﻿,Pilsner - German
+schnitt-brewing-company,Yonatan Bashi,"Thu, 06 Nov 2025 18:17:54 +0000",,,"Same Schnitt, Different Hop: Amarillo",Schnitt Brewing Company﻿,Pale Ale - Other
+lauter,Sagi Amit,"Thu, 06 Nov 2025 18:09:03 +0000",can,3.5,Fruity Mish Mash,Schnitt Brewing Company﻿,IPA - New England / Hazy
+schnitt-brewing-company,Yonatan Bashi,"Thu, 06 Nov 2025 17:49:33 +0000",,,Chucky,Schnitt Brewing Company﻿,Pale Ale - American
+schnitt-brewing-company,Yonatan Bashi,"Thu, 06 Nov 2025 17:36:18 +0000",,,Cashmero קשמירו,Schnitt Brewing Company﻿,IPA - American
+schnitt-brewing-company,Yonatan Bashi,"Thu, 06 Nov 2025 17:28:43 +0000",draft,,Kardemumma,Schnitt Brewing Company﻿,Pale Ale - Other
+schnitt-brewing-company,Yonatan Bashi,"Thu, 06 Nov 2025 17:24:22 +0000",,,Coresh כורש,Schnitt Brewing Company﻿,Smoked Beer
+schnitt-brewing-company,Yonatan Bashi,"Thu, 06 Nov 2025 17:20:59 +0000",draft,,About To Stout,Schnitt Brewing Company﻿,Stout - Oatmeal
+schnitt-brewing-company,Alex Sindalovsky,"Thu, 06 Nov 2025 16:30:45 +0000",draft,3.5,About To Stout,Schnitt Brewing Company﻿,Stout - Oatmeal
+lauter,Itay shalom Kaplan,"Thu, 06 Nov 2025 15:47:59 +0000",draft,3.5,IPA,מלכת העמק,IPA - American
+lauter,Itay shalom Kaplan,"Thu, 06 Nov 2025 15:44:37 +0000",draft,3.75,Cantillon Gueuze 2025 - Draft Version,Brasserie Cantillon,Lambic - Gueuze
+schnitt-brewing-company,Gadi Hirsch,"Thu, 06 Nov 2025 12:18:09 +0000",draft,3.5,Coresh כורש,Schnitt Brewing Company﻿,Smoked Beer
 lauter,Johannes de Fine Licht,"Wed, 05 Nov 2025 21:18:05 +0000",bottle,4.25,Vendange Rouge 2021,À tue-tête,Sour - Fruited
 lauter,Johannes de Fine Licht,"Wed, 05 Nov 2025 20:13:42 +0000",can,3.5,Tipsy Toucan,Sibeeria Brewery,IPA - New England / Hazy
 lauter,Ido Meir,"Wed, 05 Nov 2025 20:10:38 +0000",draft,4.5,Cantillon Gueuze 2025 - Draft Version,Brasserie Cantillon,Lambic - Gueuze
@@ -2774,8 +2826,8 @@ lauter,YanivMeir1503,"Fri, 12 Sep 2025 10:38:04 +0000",draft,,Delirium Black Bar
 lauter,David Siegel,"Fri, 12 Sep 2025 10:37:22 +0000",draft,4.0,Ciderman Apple,Volfas Engelman,Cider - Traditional / Apfelwein
 lauter,Yuval Erets Kdosha,"Fri, 12 Sep 2025 10:34:34 +0000",draft,5.0,Black Currant x Cherry x Blueberry x Coconut x Almond Smoothie Sour Ale,Ārpus Brewing Co.,Sour - Smoothie / Pastry
 lauter,Yuval Erets Kdosha,"Fri, 12 Sep 2025 10:34:15 +0000",draft,4.0,Eclipse,Schmulz,Mead - Braggot
-lauter,Yuval Erets Kdosha,"Fri, 12 Sep 2025 10:33:29 +0000",draft,4.0,Birthday Popsicle קרטיב יום הולדת,Schnitt Brewing Company﻿,IPA - New England / Hazy
 lauter,ParkerAsaf,"Fri, 12 Sep 2025 10:33:29 +0000",draft,4.0,Birthday Popsicle קרטיב יום הולדת,Schnitt Brewing Company﻿,IPA - New England / Hazy
+lauter,Yuval Erets Kdosha,"Fri, 12 Sep 2025 10:33:29 +0000",draft,4.0,Birthday Popsicle קרטיב יום הולדת,Schnitt Brewing Company﻿,IPA - New England / Hazy
 lauter,Yana O,"Fri, 12 Sep 2025 10:33:25 +0000",draft,4.4,Black Currant x Cherry x Blueberry x Coconut x Almond Smoothie Sour Ale,Ārpus Brewing Co.,Sour - Smoothie / Pastry
 lauter,Yuval Erets Kdosha,"Fri, 12 Sep 2025 10:33:07 +0000",draft,4.5,Anything Gose: Mango,Schnitt Brewing Company﻿,Sour - Fruited Gose
 lauter,dafi20,"Fri, 12 Sep 2025 10:29:45 +0000",draft,4.25,Sweet Dreams,Oak & Ash,Sour - Fruited
@@ -3400,8 +3452,8 @@ lauter,Adam Berelowitz,"Mon, 01 Sep 2025 17:50:20 +0000",can,4.0,Confuzzled '202
 lauter,Oren Sleepwalker,"Mon, 01 Sep 2025 17:46:17 +0000",,,Hops Don’t Lie,Thurø Bryghus,IPA - New England / Hazy
 lauter,Mikhail Stolov,"Mon, 01 Sep 2025 17:45:42 +0000",bottle,2.5,Hops Don’t Lie,Thurø Bryghus,IPA - New England / Hazy
 lauter,Yosef Dahan,"Mon, 01 Sep 2025 17:45:00 +0000",bottle,3.5,Hops Don’t Lie,Thurø Bryghus,IPA - New England / Hazy
-lauter,Yaron Sh,"Mon, 01 Sep 2025 17:44:35 +0000",,4.0,Hops Don’t Lie,Thurø Bryghus,IPA - New England / Hazy
 lauter,Adam Berelowitz,"Mon, 01 Sep 2025 17:44:35 +0000",bottle,4.0,Hops Don’t Lie,Thurø Bryghus,IPA - New England / Hazy
+lauter,Yaron Sh,"Mon, 01 Sep 2025 17:44:35 +0000",,4.0,Hops Don’t Lie,Thurø Bryghus,IPA - New England / Hazy
 lauter,Kobi,"Mon, 01 Sep 2025 17:44:03 +0000",,4.0,Hops Don’t Lie,Thurø Bryghus,IPA - New England / Hazy
 lauter,Yaron Sh,"Mon, 01 Sep 2025 17:42:20 +0000",,4.5,Super Trigo,Bierwerk Züri,IPA - White / Wheat
 lauter,Oren Sleepwalker,"Mon, 01 Sep 2025 17:40:34 +0000",,,Super Trigo,Bierwerk Züri,IPA - White / Wheat
@@ -3937,8 +3989,8 @@ b7-beer-house,Liad Shaked,"Thu, 21 Aug 2025 16:04:25 +0000",can,3.8,Nitro Mini M
 b7-beer-house,Tom Lahav,"Thu, 21 Aug 2025 16:04:24 +0000",can,3.5,Nitro Mini M*rs,Vault City Brewing,Stout - Pastry
 b7-beer-house,Raz Ko,"Thu, 21 Aug 2025 16:03:38 +0000",can,4.2,Salted Caramel Crema,Vault City Brewing,Stout - Imperial / Double Coffee
 b7-beer-house,Eran Keller,"Thu, 21 Aug 2025 16:03:08 +0000",can,4.25,Salted Caramel Crema,Vault City Brewing,Stout - Imperial / Double Coffee
-b7-beer-house,Elior Mizrahi,"Thu, 21 Aug 2025 16:02:37 +0000",,3.75,Nitro Mini M*rs,Vault City Brewing,Stout - Pastry
 b7-beer-house,Raz Ko,"Thu, 21 Aug 2025 16:02:37 +0000",can,3.5,Nitro Mini M*rs,Vault City Brewing,Stout - Pastry
+b7-beer-house,Elior Mizrahi,"Thu, 21 Aug 2025 16:02:37 +0000",,3.75,Nitro Mini M*rs,Vault City Brewing,Stout - Pastry
 b7-beer-house,Liad Shaked,"Thu, 21 Aug 2025 16:02:21 +0000",can,4.3,Salted Caramel Crema,Vault City Brewing,Stout - Imperial / Double Coffee
 b7-beer-house,Ido Cohen,"Thu, 21 Aug 2025 16:02:06 +0000",can,3.9,Birthday Cake,Vocation Brewery,Stout - Milk / Sweet
 b7-beer-house,Eran Keller,"Thu, 21 Aug 2025 16:01:24 +0000",can,3.75,Naughty & Nice - White Chocolate & Raspberry,Vocation Brewery,Stout - White / Golden
@@ -4715,8 +4767,8 @@ lauter,Yaron Sh,"Tue, 05 Aug 2025 19:29:11 +0000",,4.0,SLUSHY XL: Haha!,450 Nort
 lauter,Kobi,"Tue, 05 Aug 2025 19:29:05 +0000",,4.3,Hydralisk,Spanish Marie Brewery,Sour - Smoothie / Pastry
 lauter,Yosef Dahan,"Tue, 05 Aug 2025 19:28:30 +0000",can,3.75,SLUSHY XL: Haha!,450 North Brewing Company,Sour - Smoothie / Pastry
 lauter,Shaul A,"Tue, 05 Aug 2025 19:26:45 +0000",,4.25,SLUSHY XL: Haha!,450 North Brewing Company,Sour - Smoothie / Pastry
-lauter,Mikhail Stolov,"Tue, 05 Aug 2025 19:24:07 +0000",can,4.5,SLUSHY XL: Haha!,450 North Brewing Company,Sour - Smoothie / Pastry
 lauter,Oren Sleepwalker,"Tue, 05 Aug 2025 19:24:07 +0000",,,SLUSHY XL: Haha!,450 North Brewing Company,Sour - Smoothie / Pastry
+lauter,Mikhail Stolov,"Tue, 05 Aug 2025 19:24:07 +0000",can,4.5,SLUSHY XL: Haha!,450 North Brewing Company,Sour - Smoothie / Pastry
 lauter,Kobi,"Tue, 05 Aug 2025 19:21:59 +0000",,4.3,SLUSHY XL: Haha!,450 North Brewing Company,Sour - Smoothie / Pastry
 lauter,Shaul A,"Tue, 05 Aug 2025 19:16:22 +0000",,4.25,Monstrous Oils,Cellarmaker Brewing Company,IPA - Quadruple
 lauter,Yaron Sh,"Tue, 05 Aug 2025 19:15:56 +0000",,4.25,Monstrous Oils,Cellarmaker Brewing Company,IPA - Quadruple
@@ -5650,8 +5702,8 @@ lauter,Sivan Nagola,"Fri, 25 Jul 2025 18:16:52 +0000",draft,4.5,Rosé De Gambrin
 lauter,Shmupi Koto,"Fri, 25 Jul 2025 18:16:45 +0000",draft,4.6,Sang Bleu 2024 - Draft Version,Brasserie Cantillon,Lambic - Fruit
 lauter,Yahly Guttman,"Fri, 25 Jul 2025 18:16:17 +0000",,5.0,Fou' Foune 2023 - Draft Version,Brasserie Cantillon,Lambic - Fruit
 lauter,Sivan Nagola,"Fri, 25 Jul 2025 18:15:54 +0000",draft,4.0,Kriek 2025 - Draft Version,Brasserie Cantillon,Lambic - Kriek
-lauter,Eli Smikin,"Fri, 25 Jul 2025 18:15:23 +0000",draft,4.8,Fou' Foune 2023 - Draft Version,Brasserie Cantillon,Lambic - Fruit
 lauter,Sivan Nagola,"Fri, 25 Jul 2025 18:15:23 +0000",draft,4.0,Cuvée Saint-Gilloise 2023 - Draft Version,Brasserie Cantillon,Lambic - Traditional
+lauter,Eli Smikin,"Fri, 25 Jul 2025 18:15:23 +0000",draft,4.8,Fou' Foune 2023 - Draft Version,Brasserie Cantillon,Lambic - Fruit
 lauter,Sivan Nagola,"Fri, 25 Jul 2025 18:14:47 +0000",draft,4.75,Gueuze 2024 - Draft Version,Brasserie Cantillon,Lambic - Gueuze
 lauter,Sivan Nagola,"Fri, 25 Jul 2025 18:14:07 +0000",draft,4.0,Grand Cru Bruocsella - Draft Version (2021-2022),Brasserie Cantillon,Lambic - Traditional
 lauter,Itai Snai,"Fri, 25 Jul 2025 18:10:14 +0000",,4.5,Fou' Foune 2023 - Draft Version,Brasserie Cantillon,Lambic - Fruit
