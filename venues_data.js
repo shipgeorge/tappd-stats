@@ -1,8 +1,476 @@
 // 🍺 BEER STATS DATA - Generated automatically
-// Last updated: 2025-11-08 06:36:48
-// Total records: 7861
+// Last updated: 2025-11-09 06:36:12
+// Total records: 7913
 
 const BEER_DATA = [
+  {
+    "venue": "ursa",
+    "time": "2025-11-08T23:23:53+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "Day Maker",
+    "brewery": "Thornbridge Brewery",
+    "beer_type": "IPA - Session"
+  },
+  {
+    "venue": "ursa",
+    "time": "2025-11-08T23:06:36+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Ich Bin Raspberry",
+    "brewery": "Mikkeller",
+    "beer_type": "Sour - Fruited Berliner Weisse"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-08T21:37:27+00:00",
+    "serving": "can",
+    "rating": 3.8,
+    "beer_name": "Motueka Sunrise",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-08T21:33:27+00:00",
+    "serving": "bottle",
+    "rating": 3.6,
+    "beer_name": "3 Fonteinen Oude Kriek (season 21|22) Blend No. 29",
+    "brewery": "Brouwerij 3 Fonteinen",
+    "beer_type": "Lambic - Kriek"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-08T21:31:28+00:00",
+    "serving": "Unknown",
+    "rating": 3.1,
+    "beer_name": "Yummy Blackcurrant, Prunes & Tonka",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-08T21:30:27+00:00",
+    "serving": "Unknown",
+    "rating": 3.0,
+    "beer_name": "Waking Fantasy",
+    "brewery": "Pühaste Brewery",
+    "beer_type": "Stout - Imperial / Double"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-08T21:19:06+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "IN THE  SMALL",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Table Beer"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-08T21:04:29+00:00",
+    "serving": "can",
+    "rating": 3.7,
+    "beer_name": "Yummy Blackcurrant, Prunes & Tonka",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-08T21:01:47+00:00",
+    "serving": "can",
+    "rating": 4.2,
+    "beer_name": "Yummy Blackcurrant, Prunes & Tonka",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-08T20:42:52+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Liquid Luck",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": "Pale Ale - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-08T20:38:56+00:00",
+    "serving": "can",
+    "rating": 3.7,
+    "beer_name": "Yes We Can - Micro Hazy IPA: El Dorado, Nelson Sauvin",
+    "brewery": "Maryensztadt",
+    "beer_type": "IPA - Session"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-08T20:31:27+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Yummy Blackcurrant, Prunes & Tonka",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-08T20:30:36+00:00",
+    "serving": "bottle",
+    "rating": null,
+    "beer_name": "Rosé de Gambrinus (2024)",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": "Lambic - Framboise"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-08T20:27:59+00:00",
+    "serving": "bottle",
+    "rating": 4.5,
+    "beer_name": "Rosé de Gambrinus (2024)",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": "Lambic - Framboise"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-08T20:20:45+00:00",
+    "serving": "bottle",
+    "rating": 4.3,
+    "beer_name": "3 Fonteinen Oude Kriek (season 21|22) Blend No. 29",
+    "brewery": "Brouwerij 3 Fonteinen",
+    "beer_type": "Lambic - Kriek"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-08T20:14:38+00:00",
+    "serving": "bottle",
+    "rating": null,
+    "beer_name": "3 Fonteinen Oude Kriek (season 21|22) Blend No. 29",
+    "brewery": "Brouwerij 3 Fonteinen",
+    "beer_type": "Lambic - Kriek"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-08T20:12:58+00:00",
+    "serving": "bottle",
+    "rating": 4.25,
+    "beer_name": "Oude Geuze Vieille - Barrel Selection Oude Pijpen (2023)",
+    "brewery": "Oud Beersel",
+    "beer_type": "Lambic - Gueuze"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-08T20:12:54+00:00",
+    "serving": "bottle",
+    "rating": 4.1,
+    "beer_name": "Oude Geuze Vieille - Barrel Selection Oude Pijpen (2023)",
+    "brewery": "Oud Beersel",
+    "beer_type": "Lambic - Gueuze"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-08T20:12:46+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "3 Fonteinen Oude Kriek (season 21|22) Blend No. 29",
+    "brewery": "Brouwerij 3 Fonteinen",
+    "beer_type": "Lambic - Kriek"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-08T20:12:13+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Yummy Blackcurrant, Prunes & Tonka",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-08T20:00:49+00:00",
+    "serving": "bottle",
+    "rating": 4.3,
+    "beer_name": "Oude Geuze Vieille - Barrel Selection Oude Pijpen (2023)",
+    "brewery": "Oud Beersel",
+    "beer_type": "Lambic - Gueuze"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-08T19:56:46+00:00",
+    "serving": "draft",
+    "rating": 3.9,
+    "beer_name": "Abt 12",
+    "brewery": "Brouwerij St.Bernardus",
+    "beer_type": "Belgian Quadrupel"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-08T19:54:43+00:00",
+    "serving": "bottle",
+    "rating": null,
+    "beer_name": "Oude Geuze Vieille - Barrel Selection Oude Pijpen (2023)",
+    "brewery": "Oud Beersel",
+    "beer_type": "Lambic - Gueuze"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-08T19:51:36+00:00",
+    "serving": "draft",
+    "rating": null,
+    "beer_name": "Kardemumma",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pale Ale - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-08T19:46:42+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Tipsy Toucan",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-08T19:46:31+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Tipsy Toucan",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-08T19:39:11+00:00",
+    "serving": "Unknown",
+    "rating": 2.8,
+    "beer_name": "Budweiser Budvar / Czechvar Original",
+    "brewery": "Budějovický Budvar",
+    "beer_type": "Pilsner - Czech / Bohemian"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-08T19:37:01+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "Yes We Can - Micro Hazy IPA: El Dorado, Nelson Sauvin",
+    "brewery": "Maryensztadt",
+    "beer_type": "IPA - Session"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-08T19:34:09+00:00",
+    "serving": "draft",
+    "rating": 3.8,
+    "beer_name": "Kardemumma",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pale Ale - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-08T19:30:11+00:00",
+    "serving": "Unknown",
+    "rating": 2.0,
+    "beer_name": "Вольный Волк (Volný Vlk)",
+    "brewery": "Baltika Breweries (Балтика)",
+    "beer_type": "Lager - Světlé (Czech Pale)"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-08T19:14:12+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Yummy Blackcurrant, Prunes & Tonka",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-08T19:14:09+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "Вишневый Эль",
+    "brewery": "Wolf's Brewery (Волковская Пивоварня)",
+    "beer_type": "Fruit Beer"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-08T19:08:15+00:00",
+    "serving": "draft",
+    "rating": null,
+    "beer_name": "Cantillon Gueuze 2025 - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": "Lambic - Gueuze"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-08T18:58:36+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "2 קומפוט נעליים",
+    "brewery": "קישקשתא (Kishkashta)",
+    "beer_type": "Farmhouse Ale - Saison"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-08T18:58:16+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "2 קומפוט נעליים",
+    "brewery": "קישקשתא (Kishkashta)",
+    "beer_type": "Farmhouse Ale - Saison"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-08T18:51:53+00:00",
+    "serving": "can",
+    "rating": 3.0,
+    "beer_name": "Yummy Blackcurrant, Prunes & Tonka",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-11-08T18:46:03+00:00",
+    "serving": "Unknown",
+    "rating": 3.9,
+    "beer_name": "Coresh כורש",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Smoked Beer"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-08T18:08:14+00:00",
+    "serving": "draft",
+    "rating": 4.5,
+    "beer_name": "תוצרת הארץ",
+    "brewery": "New Pioneer Brewing Co - חלוץ חדש",
+    "beer_type": "Pale Ale - American"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-08T18:07:40+00:00",
+    "serving": "can",
+    "rating": 3.0,
+    "beer_name": "Colorado Pale Ale",
+    "brewery": "Olvi",
+    "beer_type": "Pale Ale - American"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-11-08T17:42:22+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Tipsy Toucan",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-08T16:29:36+00:00",
+    "serving": "can",
+    "rating": null,
+    "beer_name": "Motueka Sunrise",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-08T15:57:45+00:00",
+    "serving": "Unknown",
+    "rating": 4.25,
+    "beer_name": "Kardemumma",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pale Ale - Other"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-11-08T15:47:01+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Coresh כורש",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Smoked Beer"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-08T15:10:33+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "עכשיו מעונן",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-08T14:31:35+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "IPA",
+    "brewery": "מלכת העמק",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-08T14:01:56+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Pijże",
+    "brewery": "Nepo Brewing",
+    "beer_type": "Pale Ale - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-08T13:39:12+00:00",
+    "serving": "bottle",
+    "rating": 3.5,
+    "beer_name": "Vinobier",
+    "brewery": "Shapiro (שפירא)",
+    "beer_type": "Wild Ale - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-08T13:38:52+00:00",
+    "serving": "can",
+    "rating": 2.5,
+    "beer_name": "Yummy Mango with Apricot",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-08T13:08:52+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "Vinobier",
+    "brewery": "Shapiro (שפירא)",
+    "beer_type": "Wild Ale - Other"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-11-08T11:51:20+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "נקטרון האלים",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-11-08T11:39:20+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Cantillon Gueuze 2025 - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": "Lambic - Gueuze"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-11-08T11:23:15+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Coresh כורש",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Smoked Beer"
+  },
   {
     "venue": "porter-and-sons",
     "time": "2025-11-07T23:35:41+00:00",
@@ -6811,7 +7279,7 @@ const BEER_DATA = [
     "venue": "lauter",
     "time": "2025-10-26T18:36:28+00:00",
     "serving": "can",
-    "rating": 3.75,
+    "rating": 3.25,
     "beer_name": "Darkness My Friends Imperial Baltic Porter Coffee & Date Syrup",
     "brewery": "Maryensztadt",
     "beer_type": "Porter - Baltic"
@@ -6820,7 +7288,7 @@ const BEER_DATA = [
     "venue": "lauter",
     "time": "2025-10-26T18:36:28+00:00",
     "serving": "can",
-    "rating": 3.25,
+    "rating": 3.75,
     "beer_name": "Darkness My Friends Imperial Baltic Porter Coffee & Date Syrup",
     "brewery": "Maryensztadt",
     "beer_type": "Porter - Baltic"
@@ -31632,7 +32100,7 @@ const BEER_DATA = [
   {
     "venue": "lauter",
     "time": "2025-09-01T17:44:35+00:00",
-    "serving": "bottle",
+    "serving": "Unknown",
     "rating": 4.0,
     "beer_name": "Hops Don’t Lie",
     "brewery": "Thurø Bryghus",
@@ -31641,7 +32109,7 @@ const BEER_DATA = [
   {
     "venue": "lauter",
     "time": "2025-09-01T17:44:35+00:00",
-    "serving": "Unknown",
+    "serving": "bottle",
     "rating": 4.0,
     "beer_name": "Hops Don’t Lie",
     "brewery": "Thurø Bryghus",
