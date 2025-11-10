@@ -1,8 +1,341 @@
 // 🍺 BEER STATS DATA - Generated automatically
-// Last updated: 2025-11-09 06:36:12
-// Total records: 7913
+// Last updated: 2025-11-10 06:42:07
+// Total records: 7950
 
 const BEER_DATA = [
+  {
+    "venue": "lauter",
+    "time": "2025-11-09T20:39:17+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "Cantillon Gueuze 2025 - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": "Lambic - Gueuze"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-09T20:38:16+00:00",
+    "serving": "bottle",
+    "rating": 4.5,
+    "beer_name": "Vinobier",
+    "brewery": "Shapiro (שפירא)",
+    "beer_type": "Wild Ale - Other"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-11-09T20:21:33+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Schnitt Or Treat 2025",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pumpkin / Yam Beer"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-09T19:24:47+00:00",
+    "serving": "draft",
+    "rating": 4.5,
+    "beer_name": "Cantillon Gueuze 2025 - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": "Lambic - Gueuze"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-09T19:23:45+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Baltic Porter",
+    "brewery": "Volfas Engelman",
+    "beer_type": "Porter - Baltic"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-09T19:22:06+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Baltic Porter",
+    "brewery": "Volfas Engelman",
+    "beer_type": "Porter - Baltic"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-09T19:21:04+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Hazelnut Brown Ale",
+    "brewery": "Rogue Ales",
+    "beer_type": "Brown Ale - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-09T19:20:35+00:00",
+    "serving": "can",
+    "rating": 4.5,
+    "beer_name": "Tipsy Toucan",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-09T19:18:53+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Hazelnut Brown Ale",
+    "brewery": "Rogue Ales",
+    "beer_type": "Brown Ale - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-09T18:54:47+00:00",
+    "serving": "draft",
+    "rating": 4.5,
+    "beer_name": "Cantillon Gueuze 2025 - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": "Lambic - Gueuze"
+  },
+  {
+    "venue": "beerz",
+    "time": "2025-11-09T18:49:38+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Hobgoblin IPA",
+    "brewery": "Marston's Brewery",
+    "beer_type": "IPA - English"
+  },
+  {
+    "venue": "beerz",
+    "time": "2025-11-09T18:47:48+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Hazy Queen",
+    "brewery": "HORIZONT Brewing",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-09T18:45:33+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Shut Up And Drink Me! (שת\"פ)",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Historical Beer - Lichtenhainer"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-09T18:43:55+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Abt 12",
+    "brewery": "Brouwerij St.Bernardus",
+    "beer_type": "Belgian Quadrupel"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-09T18:43:46+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Schnitt Or Treat 2025",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pumpkin / Yam Beer"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-09T18:30:58+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Edelweiss Snowfresh / Wheat Beer",
+    "brewery": "Brau Union Österreich",
+    "beer_type": "Wheat Beer - Hefeweizen"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-09T18:30:37+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Ronen HaKeha HaMerusha'at Dark Ale (הבירה הכהה המרושעת)",
+    "brewery": "Srigim (שריגים)",
+    "beer_type": "Brown Ale - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-09T18:30:29+00:00",
+    "serving": "draft",
+    "rating": 3.25,
+    "beer_name": "Edelweiss Snowfresh / Wheat Beer",
+    "brewery": "Brau Union Österreich",
+    "beer_type": "Wheat Beer - Hefeweizen"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-09T18:28:43+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Benediktiner Hell",
+    "brewery": "Benediktiner Weissbräu",
+    "beer_type": "Lager - Helles"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-09T18:23:32+00:00",
+    "serving": "draft",
+    "rating": null,
+    "beer_name": "Benediktiner Hell",
+    "brewery": "Benediktiner Weissbräu",
+    "beer_type": "Lager - Helles"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-09T18:14:38+00:00",
+    "serving": "can",
+    "rating": 5.0,
+    "beer_name": "שלושה צעדים קדימה",
+    "brewery": "New Pioneer Brewing Co - חלוץ חדש",
+    "beer_type": "Lager - IPL (India Pale Lager)"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-09T17:57:13+00:00",
+    "serving": "draft",
+    "rating": 4.5,
+    "beer_name": "Cantillon Gueuze 2025 - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": "Lambic - Gueuze"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-11-09T17:47:25+00:00",
+    "serving": "draft",
+    "rating": 3.0,
+    "beer_name": "Coresh כורש",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Smoked Beer"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-11-09T17:46:21+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "About To Stout",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Stout - Oatmeal"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-11-09T17:45:04+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Coresh כורש",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Smoked Beer"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-09T17:41:20+00:00",
+    "serving": "bottle",
+    "rating": 5.0,
+    "beer_name": "Bjorn's Beer",
+    "brewery": "Attali's Family Brewery",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-09T17:15:19+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "Ronen HaKeha HaMerusha'at Dark Ale (הבירה הכהה המרושעת)",
+    "brewery": "Srigim (שריגים)",
+    "beer_type": "Brown Ale - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-09T17:07:10+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Schnitt Or Treat 2025",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pumpkin / Yam Beer"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-09T17:04:26+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Pale Ale",
+    "brewery": "מלכת העמק",
+    "beer_type": "Pale Ale - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-09T17:00:56+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "עכשיו מעונן",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-09T16:49:04+00:00",
+    "serving": "can",
+    "rating": 5.0,
+    "beer_name": "Black Heart",
+    "brewery": "BrewDog",
+    "beer_type": "Stout - Irish Dry"
+  },
+  {
+    "venue": "ursa",
+    "time": "2025-11-09T16:30:34+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Wingman Tropical Storm",
+    "brewery": "BrewDog",
+    "beer_type": "IPA - Imperial / Double"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-11-09T16:11:43+00:00",
+    "serving": "draft",
+    "rating": 3.3,
+    "beer_name": "Coresh כורש",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Smoked Beer"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-11-09T15:32:12+00:00",
+    "serving": "draft",
+    "rating": null,
+    "beer_name": "Coresh כורש",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Smoked Beer"
+  },
+  {
+    "venue": "porter-and-sons",
+    "time": "2025-11-09T14:08:37+00:00",
+    "serving": "draft",
+    "rating": 4.75,
+    "beer_name": "Aecht Schlenkerla Rauchbier – Märzen",
+    "brewery": "Schlenkerla (\"Heller-Bräu\" Trum)",
+    "beer_type": "Rauchbier"
+  },
+  {
+    "venue": "porter-and-sons",
+    "time": "2025-11-09T13:47:30+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Guinness Draught",
+    "brewery": "Guinness",
+    "beer_type": "Stout - Irish Dry"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-11-09T10:03:08+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Coresh כורש",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Smoked Beer"
+  },
   {
     "venue": "ursa",
     "time": "2025-11-08T23:23:53+00:00",
@@ -11191,15 +11524,6 @@ const BEER_DATA = [
     "beer_type": "IPA - American"
   },
   {
-    "venue": "lauter",
-    "time": "2025-10-19T19:17:21+00:00",
-    "serving": "bottle",
-    "rating": 3.25,
-    "beer_name": "Bjorn's Beer",
-    "brewery": "Attali's Family Brewery",
-    "beer_type": "IPA - American"
-  },
-  {
     "venue": "schnitt-brewing-company",
     "time": "2025-10-19T19:17:21+00:00",
     "serving": "can",
@@ -11207,6 +11531,15 @@ const BEER_DATA = [
     "beer_name": "Plum Waffle",
     "brewery": "Duncan's Brewing",
     "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-19T19:17:21+00:00",
+    "serving": "bottle",
+    "rating": 3.25,
+    "beer_name": "Bjorn's Beer",
+    "brewery": "Attali's Family Brewery",
+    "beer_type": "IPA - American"
   },
   {
     "venue": "lauter",
@@ -52351,19 +52684,19 @@ const BEER_DATA = [
     "venue": "lauter",
     "time": "2025-07-25T18:15:23+00:00",
     "serving": "draft",
-    "rating": 4.8,
-    "beer_name": "Fou' Foune 2023 - Draft Version",
+    "rating": 4.0,
+    "beer_name": "Cuvée Saint-Gilloise 2023 - Draft Version",
     "brewery": "Brasserie Cantillon",
-    "beer_type": "Lambic - Fruit"
+    "beer_type": "Lambic - Traditional"
   },
   {
     "venue": "lauter",
     "time": "2025-07-25T18:15:23+00:00",
     "serving": "draft",
-    "rating": 4.0,
-    "beer_name": "Cuvée Saint-Gilloise 2023 - Draft Version",
+    "rating": 4.8,
+    "beer_name": "Fou' Foune 2023 - Draft Version",
     "brewery": "Brasserie Cantillon",
-    "beer_type": "Lambic - Traditional"
+    "beer_type": "Lambic - Fruit"
   },
   {
     "venue": "lauter",
