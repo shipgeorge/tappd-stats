@@ -1,8 +1,638 @@
 // 🍺 BEER STATS DATA - Generated automatically
-// Last updated: 2025-11-13 06:40:19
-// Total records: 8033
+// Last updated: 2025-11-14 06:40:19
+// Total records: 8103
 
 const BEER_DATA = [
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-14T00:13:30+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Out of Order: Experimental Phase",
+    "brewery": "RaR Brewing",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-14T00:11:59+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "שלושה צעדים קדימה",
+    "brewery": "New Pioneer Brewing Co - חלוץ חדש",
+    "beer_type": "Lager - IPL (India Pale Lager)"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-14T00:11:40+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "Liquid Luck",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": "Pale Ale - American"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-14T00:11:08+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Raspberry Sorbet",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-14T00:10:50+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Zodiak",
+    "brewery": "Omnipollo",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "porter-and-sons",
+    "time": "2025-11-13T22:21:08+00:00",
+    "serving": "can",
+    "rating": 3.7,
+    "beer_name": "Yummy Mango with Apricot",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-13T22:20:19+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Everyday Life",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": "Pilsner - Czech / Bohemian"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-11-13T21:53:15+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "TIPA Mara",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - Triple"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-13T21:43:54+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Yummy Mango with Apricot",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-13T21:43:26+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "Everyday Life",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": "Pilsner - Czech / Bohemian"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-13T21:14:10+00:00",
+    "serving": "bottle",
+    "rating": 4.6,
+    "beer_name": "Oude Kriek de Schaerbeek Tilquin à l'ancienne (2023-2024)",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": "Lambic - Kriek"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-11-13T21:12:57+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "הפילס שבחדר the Pils In the Room",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pilsner - German"
+  },
+  {
+    "venue": "berlin-florentin",
+    "time": "2025-11-13T21:11:02+00:00",
+    "serving": "draft",
+    "rating": 3.25,
+    "beer_name": "Guinness Draught",
+    "brewery": "Guinness",
+    "beer_type": "Stout - Irish Dry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-13T20:55:35+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "Selfish Games - Skybreaker",
+    "brewery": "HORIZONT Brewing",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-13T20:47:26+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Bjorn's Beer",
+    "brewery": "Attali's Family Brewery",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-13T20:45:22+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "חלוץ תחת אש",
+    "brewery": "New Pioneer Brewing Co - חלוץ חדש",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-13T20:43:54+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Selfish Games - Vision In Pink",
+    "brewery": "HORIZONT Brewing",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-13T20:21:25+00:00",
+    "serving": "can",
+    "rating": 4.75,
+    "beer_name": "Out of Order: Experimental Phase",
+    "brewery": "RaR Brewing",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-11-13T20:18:52+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Cashmero קשמירו",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-13T20:17:51+00:00",
+    "serving": "can",
+    "rating": 5.0,
+    "beer_name": "Out of Order: Experimental Phase",
+    "brewery": "RaR Brewing",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-13T20:16:17+00:00",
+    "serving": "can",
+    "rating": 4.8,
+    "beer_name": "Out of Order: Experimental Phase",
+    "brewery": "RaR Brewing",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-13T20:16:07+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "Stoopid: White Chocolate Raspberry Cherry",
+    "brewery": "Vault City Brewing",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-13T20:14:22+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "Stoopid: White Chocolate Raspberry Cherry",
+    "brewery": "Vault City Brewing",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-13T20:13:27+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Selfish Games - Skybreaker",
+    "brewery": "HORIZONT Brewing",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-13T20:12:26+00:00",
+    "serving": "can",
+    "rating": 4.6,
+    "beer_name": "Stoopid: White Chocolate Raspberry Cherry",
+    "brewery": "Vault City Brewing",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-13T20:07:22+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Bistro Peach Strawberry Rhubarb Cobbler",
+    "brewery": "Energy City Brewing",
+    "beer_type": "Sour - Fruited Berliner Weisse"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-13T20:04:56+00:00",
+    "serving": "can",
+    "rating": 5.0,
+    "beer_name": "Bistro Peach Strawberry Rhubarb Cobbler",
+    "brewery": "Energy City Brewing",
+    "beer_type": "Sour - Fruited Berliner Weisse"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-13T20:03:17+00:00",
+    "serving": "can",
+    "rating": 3.8,
+    "beer_name": "Bistro Peach Strawberry Rhubarb Cobbler",
+    "brewery": "Energy City Brewing",
+    "beer_type": "Sour - Fruited Berliner Weisse"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-13T20:01:02+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "WHITE RABBITS*",
+    "brewery": "One Drop Brewing Co",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-13T20:00:39+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "שלושה צעדים קדימה",
+    "brewery": "New Pioneer Brewing Co - חלוץ חדש",
+    "beer_type": "Lager - IPL (India Pale Lager)"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-13T19:59:25+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "שלושה צעדים קדימה",
+    "brewery": "New Pioneer Brewing Co - חלוץ חדש",
+    "beer_type": "Lager - IPL (India Pale Lager)"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-13T19:58:14+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Fresh Hop Fiend",
+    "brewery": "Stoup Brewing",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-13T19:57:46+00:00",
+    "serving": "can",
+    "rating": 4.5,
+    "beer_name": "WHITE RABBITS*",
+    "brewery": "One Drop Brewing Co",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-13T19:56:14+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "WHITE RABBITS*",
+    "brewery": "One Drop Brewing Co",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-13T19:54:09+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "Fresh Hop Fiend",
+    "brewery": "Stoup Brewing",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-13T19:53:14+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Fresh Hop Lateral A",
+    "brewery": "Single Hill Brewing",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-13T19:52:50+00:00",
+    "serving": "can",
+    "rating": 4.1,
+    "beer_name": "Fresh Hop Fiend",
+    "brewery": "Stoup Brewing",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-13T19:51:58+00:00",
+    "serving": "can",
+    "rating": 3.8,
+    "beer_name": "Fresh Hop Lateral A",
+    "brewery": "Single Hill Brewing",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-13T19:51:35+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Fresh Hop Lateral A",
+    "brewery": "Single Hill Brewing",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-13T19:51:28+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "Yummy Blackcurrant, Prunes & Tonka",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-13T19:49:25+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Dance Commander",
+    "brewery": "DD4D Brewing",
+    "beer_type": "IPA - Triple New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-13T19:49:21+00:00",
+    "serving": "draft",
+    "rating": 4.5,
+    "beer_name": "חלוץ תחת אש",
+    "brewery": "New Pioneer Brewing Co - חלוץ חדש",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-13T19:48:06+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Dance Commander",
+    "brewery": "DD4D Brewing",
+    "beer_type": "IPA - Triple New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-13T19:46:27+00:00",
+    "serving": "can",
+    "rating": 3.8,
+    "beer_name": "Dance Commander",
+    "brewery": "DD4D Brewing",
+    "beer_type": "IPA - Triple New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-13T19:44:35+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Raspberry Sorbet",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "berlin-florentin",
+    "time": "2025-11-13T18:52:21+00:00",
+    "serving": "can",
+    "rating": null,
+    "beer_name": "Hazy Jane Guava",
+    "brewery": "BrewDog",
+    "beer_type": "IPA - Milkshake"
+  },
+  {
+    "venue": "beerline",
+    "time": "2025-11-13T18:45:14+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Floris Cactus",
+    "brewery": "Delirium - Huyghe Brewery",
+    "beer_type": "Wheat Beer - Fruited"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-11-13T18:32:22+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "Coresh כורש",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Smoked Beer"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-11-13T18:30:45+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "New School",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - Other"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-11-13T18:11:41+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Cashmero קשמירו",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-11-13T18:10:17+00:00",
+    "serving": "draft",
+    "rating": 3.25,
+    "beer_name": "Cashmero קשמירו",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-11-13T17:35:57+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "About To Stout",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Stout - Oatmeal"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-11-13T17:31:05+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Cashmero קשמירו",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-11-13T17:30:46+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Rush Sour",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - Sour"
+  },
+  {
+    "venue": "beerline",
+    "time": "2025-11-13T17:28:34+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Hobgoblin IPA",
+    "brewery": "Marston's Brewery",
+    "beer_type": "IPA - English"
+  },
+  {
+    "venue": "ursa",
+    "time": "2025-11-13T17:16:32+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Cherry Chouffe",
+    "brewery": "Brasserie d'Achouffe",
+    "beer_type": "Fruit Beer"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-13T16:57:15+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "ער.ה? 2025",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Stout - White / Golden"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-13T16:53:47+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Bjorn's Beer",
+    "brewery": "Attali's Family Brewery",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-13T16:34:27+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Bjorn's Beer",
+    "brewery": "Attali's Family Brewery",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-13T16:06:30+00:00",
+    "serving": "draft",
+    "rating": 3.25,
+    "beer_name": "סיידר תפוחים אלכוהולי חצי יבש",
+    "brewery": "Hamatsesa (המתססה)",
+    "beer_type": "Cider - Traditional / Apfelwein"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-13T15:59:19+00:00",
+    "serving": "draft",
+    "rating": 4.6,
+    "beer_name": "חלוץ תחת אש",
+    "brewery": "New Pioneer Brewing Co - חלוץ חדש",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-11-13T15:52:26+00:00",
+    "serving": "draft",
+    "rating": null,
+    "beer_name": "Muuumbai",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Lager - IPL (India Pale Lager)"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-13T15:26:58+00:00",
+    "serving": "can",
+    "rating": 2.5,
+    "beer_name": "Sour Series - Papa Prosciutto & Funghi",
+    "brewery": "HORIZONT Brewing",
+    "beer_type": "Sour - Tomato / Vegetable Gose"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-13T15:23:43+00:00",
+    "serving": "Unknown",
+    "rating": 3.0,
+    "beer_name": "Coresh כורש",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Smoked Beer"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-13T15:07:38+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "NEIPA",
+    "brewery": "Volfas Engelman",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-13T14:35:18+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Bjorn's Beer",
+    "brewery": "Attali's Family Brewery",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-13T14:21:49+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "2 קומפוט נעליים",
+    "brewery": "קישקשתא (Kishkashta)",
+    "beer_type": "Farmhouse Ale - Saison"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-13T14:20:42+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "2 קומפוט נעליים",
+    "brewery": "קישקשתא (Kishkashta)",
+    "beer_type": "Farmhouse Ale - Saison"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-13T14:15:07+00:00",
+    "serving": "Unknown",
+    "rating": 4.5,
+    "beer_name": "Tipsy Toucan",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-11-13T10:40:29+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "About To Stout",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Stout - Oatmeal"
+  },
   {
     "venue": "b7-beer-house",
     "time": "2025-11-12T19:45:19+00:00",
@@ -12271,15 +12901,6 @@ const BEER_DATA = [
     "beer_type": "IPA - American"
   },
   {
-    "venue": "lauter",
-    "time": "2025-10-19T19:17:21+00:00",
-    "serving": "bottle",
-    "rating": 3.25,
-    "beer_name": "Bjorn's Beer",
-    "brewery": "Attali's Family Brewery",
-    "beer_type": "IPA - American"
-  },
-  {
     "venue": "schnitt-brewing-company",
     "time": "2025-10-19T19:17:21+00:00",
     "serving": "can",
@@ -12287,6 +12908,15 @@ const BEER_DATA = [
     "beer_name": "Plum Waffle",
     "brewery": "Duncan's Brewing",
     "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-19T19:17:21+00:00",
+    "serving": "bottle",
+    "rating": 3.25,
+    "beer_name": "Bjorn's Beer",
+    "brewery": "Attali's Family Brewery",
+    "beer_type": "IPA - American"
   },
   {
     "venue": "lauter",
@@ -38065,15 +38695,6 @@ const BEER_DATA = [
     "beer_type": "Stout - White / Golden"
   },
   {
-    "venue": "b7-beer-house",
-    "time": "2025-08-21T16:00:28+00:00",
-    "serving": "can",
-    "rating": 5.0,
-    "beer_name": "Naughty & Nice - White Chocolate & Raspberry",
-    "brewery": "Vocation Brewery",
-    "beer_type": "Stout - White / Golden"
-  },
-  {
     "venue": "lauter",
     "time": "2025-08-21T16:00:28+00:00",
     "serving": "draft",
@@ -38081,6 +38702,15 @@ const BEER_DATA = [
     "beer_name": "KRUSHED IT",
     "brewery": "Oak & Ash",
     "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-21T16:00:28+00:00",
+    "serving": "can",
+    "rating": 5.0,
+    "beer_name": "Naughty & Nice - White Chocolate & Raspberry",
+    "brewery": "Vocation Brewery",
+    "beer_type": "Stout - White / Golden"
   },
   {
     "venue": "b7-beer-house",
