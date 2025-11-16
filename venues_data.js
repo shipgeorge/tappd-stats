@@ -1,8 +1,503 @@
 // 🍺 BEER STATS DATA - Generated automatically
-// Last updated: 2025-11-15 06:36:53
-// Total records: 8141
+// Last updated: 2025-11-16 06:37:14
+// Total records: 8196
 
 const BEER_DATA = [
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-11-15T21:32:35+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Rush Sour",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - Sour"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-15T21:10:26+00:00",
+    "serving": "bottle",
+    "rating": 4.75,
+    "beer_name": "Bourbon Barrel Aged - Imperial Coffee Stout",
+    "brewery": "Vocation Brewery",
+    "beer_type": "Stout - Imperial / Double Coffee"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-15T20:37:32+00:00",
+    "serving": "can",
+    "rating": 1.25,
+    "beer_name": "TIPA Mara (2025)",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - Triple"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-11-15T20:05:10+00:00",
+    "serving": "draft",
+    "rating": 2.25,
+    "beer_name": "Lazy Bee Hibiscus And Raspberries",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Mead - Session / Short"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-15T20:04:56+00:00",
+    "serving": "can",
+    "rating": 3.25,
+    "beer_name": "Endless Marathon",
+    "brewery": "HORIZONT Brewing",
+    "beer_type": "Farmhouse Ale - Saison"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-15T19:52:30+00:00",
+    "serving": "Unknown",
+    "rating": 4.25,
+    "beer_name": "Medussa",
+    "brewery": "Caleya",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-15T19:44:03+00:00",
+    "serving": "can",
+    "rating": 1.75,
+    "beer_name": "Nightmare Fuel",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Porter - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-15T19:42:13+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "New York Mocaccino",
+    "brewery": "Mad Scientist",
+    "beer_type": "Stout - Milk / Sweet"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-15T19:18:08+00:00",
+    "serving": "can",
+    "rating": 3.25,
+    "beer_name": "Liquid Cocaine",
+    "brewery": "Mad Scientist",
+    "beer_type": "IPA - Imperial / Double"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-15T19:07:25+00:00",
+    "serving": "can",
+    "rating": 3.0,
+    "beer_name": "Liquid Cocaine",
+    "brewery": "Mad Scientist",
+    "beer_type": "IPA - Imperial / Double"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-15T18:55:43+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "First Love 첫사랑",
+    "brewery": "Amazing Brewing Company",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-15T18:45:06+00:00",
+    "serving": "bottle",
+    "rating": 3.25,
+    "beer_name": "Val-Dieu Brune",
+    "brewery": "Brasserie de l'Abbaye du Val-Dieu",
+    "beer_type": "Belgian Dubbel"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-15T18:02:42+00:00",
+    "serving": "can",
+    "rating": null,
+    "beer_name": "Endless Marathon",
+    "brewery": "HORIZONT Brewing",
+    "beer_type": "Farmhouse Ale - Saison"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-15T17:57:38+00:00",
+    "serving": "Unknown",
+    "rating": 3.25,
+    "beer_name": "הפילס שבחדר the Pils In the Room",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pilsner - German"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-15T17:56:24+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "New York Mocaccino",
+    "brewery": "Mad Scientist",
+    "beer_type": "Stout - Milk / Sweet"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-15T17:56:02+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "New York Mocaccino",
+    "brewery": "Mad Scientist",
+    "beer_type": "Stout - Milk / Sweet"
+  },
+  {
+    "venue": "ursa",
+    "time": "2025-11-15T17:55:45+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Selfish Games - Hops of the Damned",
+    "brewery": "HORIZONT Brewing",
+    "beer_type": "IPA - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-15T17:50:39+00:00",
+    "serving": "draft",
+    "rating": 3.25,
+    "beer_name": "Bjorn's Beer",
+    "brewery": "Attali's Family Brewery",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-15T17:50:18+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "Bjorn's Beer",
+    "brewery": "Attali's Family Brewery",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-15T17:49:20+00:00",
+    "serving": "Unknown",
+    "rating": 3.0,
+    "beer_name": "Shut Up And Drink Me! (שת\"פ)",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Historical Beer - Lichtenhainer"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-15T17:46:43+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "2 קומפוט נעליים",
+    "brewery": "קישקשתא (Kishkashta)",
+    "beer_type": "Farmhouse Ale - Saison"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-15T17:46:28+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "2 קומפוט נעליים",
+    "brewery": "קישקשתא (Kishkashta)",
+    "beer_type": "Farmhouse Ale - Saison"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-15T17:46:07+00:00",
+    "serving": "bottle",
+    "rating": 4.0,
+    "beer_name": "Pale Ale",
+    "brewery": "מלכת העמק",
+    "beer_type": "Pale Ale - Other"
+  },
+  {
+    "venue": "ursa",
+    "time": "2025-11-15T17:32:19+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "Selfish Games - One Night In Dubai",
+    "brewery": "HORIZONT Brewing",
+    "beer_type": "Stout - Imperial / Double"
+  },
+  {
+    "venue": "ursa",
+    "time": "2025-11-15T17:24:44+00:00",
+    "serving": "can",
+    "rating": 4.5,
+    "beer_name": "Counter Strike",
+    "brewery": "BrewDog",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "ursa",
+    "time": "2025-11-15T17:21:57+00:00",
+    "serving": "draft",
+    "rating": 5.0,
+    "beer_name": "Punk IPA",
+    "brewery": "BrewDog",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-15T17:07:33+00:00",
+    "serving": "can",
+    "rating": 3.0,
+    "beer_name": "Sour Series - Papa Prosciutto & Funghi",
+    "brewery": "HORIZONT Brewing",
+    "beer_type": "Sour - Tomato / Vegetable Gose"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-15T15:54:48+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "2 קומפוט נעליים",
+    "brewery": "קישקשתא (Kishkashta)",
+    "beer_type": "Farmhouse Ale - Saison"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-15T15:33:31+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "New York Mocaccino",
+    "brewery": "Mad Scientist",
+    "beer_type": "Stout - Milk / Sweet"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-15T15:32:01+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Coresh כורש",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Smoked Beer"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-15T15:30:55+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Bjorn's Beer",
+    "brewery": "Attali's Family Brewery",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-15T15:22:32+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Bjorn's Beer",
+    "brewery": "Attali's Family Brewery",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-15T15:21:08+00:00",
+    "serving": "bottle",
+    "rating": 5.0,
+    "beer_name": "La Patchakunda",
+    "brewery": "Holier Brewing",
+    "beer_type": "Homebrew, Spirit - Whiskey - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-15T15:14:51+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Bjorn's Beer",
+    "brewery": "Attali's Family Brewery",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-11-15T15:14:26+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "New School",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - Other"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-11-15T15:06:25+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Cashmero קשמירו",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-11-15T14:59:18+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "נקטרון האלים",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-11-15T14:57:07+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Rush Sour",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - Sour"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-11-15T14:54:47+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "About To Stout",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Stout - Oatmeal"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-11-15T14:53:05+00:00",
+    "serving": "Unknown",
+    "rating": 3.25,
+    "beer_name": "What the Helles?!",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Lager - Helles"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-15T14:50:32+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "הפילס שבחדר the Pils In the Room",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pilsner - German"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-15T14:14:21+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "New York Mocaccino",
+    "brewery": "Mad Scientist",
+    "beer_type": "Stout - Milk / Sweet"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-15T14:12:36+00:00",
+    "serving": "bottle",
+    "rating": 5.0,
+    "beer_name": "La Patchakunda",
+    "brewery": "Holier Brewing",
+    "beer_type": "Homebrew, Spirit - Whiskey - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-15T14:02:10+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "2 קומפוט נעליים",
+    "brewery": "קישקשתא (Kishkashta)",
+    "beer_type": "Farmhouse Ale - Saison"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-15T13:58:48+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "2 קומפוט נעליים",
+    "brewery": "קישקשתא (Kishkashta)",
+    "beer_type": "Farmhouse Ale - Saison"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-15T13:54:03+00:00",
+    "serving": "draft",
+    "rating": 3.25,
+    "beer_name": "Kardemumma",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pale Ale - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-15T13:45:37+00:00",
+    "serving": "draft",
+    "rating": 3.25,
+    "beer_name": "Coresh כורש",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Smoked Beer"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-15T13:45:06+00:00",
+    "serving": "draft",
+    "rating": 3.25,
+    "beer_name": "Coresh כורש",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Smoked Beer"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-15T13:38:50+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Pale Ale",
+    "brewery": "מלכת העמק",
+    "beer_type": "Pale Ale - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-15T13:37:55+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Pale Ale",
+    "brewery": "מלכת העמק",
+    "beer_type": "Pale Ale - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-15T13:10:39+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "2 קומפוט נעליים",
+    "brewery": "קישקשתא (Kishkashta)",
+    "beer_type": "Farmhouse Ale - Saison"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-11-15T12:30:54+00:00",
+    "serving": "draft",
+    "rating": 3.8,
+    "beer_name": "Cashmero קשמירו",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-11-15T11:48:06+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "TIPA Mara (2025)",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - Triple"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-11-15T11:42:16+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Coresh כורש",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Smoked Beer"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-11-15T11:31:32+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Coresh כורש",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Smoked Beer"
+  },
   {
     "venue": "lauter",
     "time": "2025-11-14T22:04:29+00:00",
@@ -13243,15 +13738,6 @@ const BEER_DATA = [
     "beer_type": "IPA - American"
   },
   {
-    "venue": "schnitt-brewing-company",
-    "time": "2025-10-19T19:17:21+00:00",
-    "serving": "can",
-    "rating": 4.25,
-    "beer_name": "Plum Waffle",
-    "brewery": "Duncan's Brewing",
-    "beer_type": "Sour - Smoothie / Pastry"
-  },
-  {
     "venue": "lauter",
     "time": "2025-10-19T19:17:21+00:00",
     "serving": "bottle",
@@ -13259,6 +13745,15 @@ const BEER_DATA = [
     "beer_name": "Bjorn's Beer",
     "brewery": "Attali's Family Brewery",
     "beer_type": "IPA - American"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-10-19T19:17:21+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "Plum Waffle",
+    "brewery": "Duncan's Brewing",
+    "beer_type": "Sour - Smoothie / Pastry"
   },
   {
     "venue": "lauter",
@@ -34152,7 +34647,7 @@ const BEER_DATA = [
   {
     "venue": "lauter",
     "time": "2025-09-01T17:44:35+00:00",
-    "serving": "bottle",
+    "serving": "Unknown",
     "rating": 4.0,
     "beer_name": "Hops Don’t Lie",
     "brewery": "Thurø Bryghus",
@@ -34161,7 +34656,7 @@ const BEER_DATA = [
   {
     "venue": "lauter",
     "time": "2025-09-01T17:44:35+00:00",
-    "serving": "Unknown",
+    "serving": "bottle",
     "rating": 4.0,
     "beer_name": "Hops Don’t Lie",
     "brewery": "Thurø Bryghus",
@@ -39037,15 +39532,6 @@ const BEER_DATA = [
     "beer_type": "Stout - White / Golden"
   },
   {
-    "venue": "lauter",
-    "time": "2025-08-21T16:00:28+00:00",
-    "serving": "draft",
-    "rating": 3.5,
-    "beer_name": "KRUSHED IT",
-    "brewery": "Oak & Ash",
-    "beer_type": "IPA - New England / Hazy"
-  },
-  {
     "venue": "b7-beer-house",
     "time": "2025-08-21T16:00:28+00:00",
     "serving": "can",
@@ -39053,6 +39539,15 @@ const BEER_DATA = [
     "beer_name": "Naughty & Nice - White Chocolate & Raspberry",
     "brewery": "Vocation Brewery",
     "beer_type": "Stout - White / Golden"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-21T16:00:28+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "KRUSHED IT",
+    "brewery": "Oak & Ash",
+    "beer_type": "IPA - New England / Hazy"
   },
   {
     "venue": "b7-beer-house",
@@ -53358,20 +53853,20 @@ const BEER_DATA = [
   {
     "venue": "lauter",
     "time": "2025-07-26T15:22:08+00:00",
-    "serving": "Unknown",
-    "rating": 4.0,
-    "beer_name": "Pijże",
-    "brewery": "Nepo Brewing",
-    "beer_type": "Pale Ale - New England / Hazy"
-  },
-  {
-    "venue": "lauter",
-    "time": "2025-07-26T15:22:08+00:00",
     "serving": "can",
     "rating": 4.2,
     "beer_name": "Smoothie Bowl: Pistachio Fluff",
     "brewery": "Nepo Brewing",
     "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-07-26T15:22:08+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Pijże",
+    "brewery": "Nepo Brewing",
+    "beer_type": "Pale Ale - New England / Hazy"
   },
   {
     "venue": "lauter",
@@ -54403,19 +54898,19 @@ const BEER_DATA = [
     "venue": "lauter",
     "time": "2025-07-25T18:15:23+00:00",
     "serving": "draft",
-    "rating": 4.0,
-    "beer_name": "Cuvée Saint-Gilloise 2023 - Draft Version",
+    "rating": 4.8,
+    "beer_name": "Fou' Foune 2023 - Draft Version",
     "brewery": "Brasserie Cantillon",
-    "beer_type": "Lambic - Traditional"
+    "beer_type": "Lambic - Fruit"
   },
   {
     "venue": "lauter",
     "time": "2025-07-25T18:15:23+00:00",
     "serving": "draft",
-    "rating": 4.8,
-    "beer_name": "Fou' Foune 2023 - Draft Version",
+    "rating": 4.0,
+    "beer_name": "Cuvée Saint-Gilloise 2023 - Draft Version",
     "brewery": "Brasserie Cantillon",
-    "beer_type": "Lambic - Fruit"
+    "beer_type": "Lambic - Traditional"
   },
   {
     "venue": "lauter",
@@ -63817,8 +64312,8 @@ const BEER_DATA = [
     "venue": "berlin-florentin",
     "time": "2024-12-23T18:37:49+00:00",
     "serving": "bottle",
-    "rating": 4.1,
-    "beer_name": "Christmas Ale (2023)",
+    "rating": 3.0,
+    "beer_name": "Christmas Ale",
     "brewery": "Brouwerij St.Bernardus",
     "beer_type": "Winter Ale"
   },
@@ -63826,8 +64321,8 @@ const BEER_DATA = [
     "venue": "berlin-florentin",
     "time": "2024-12-23T18:37:49+00:00",
     "serving": "bottle",
-    "rating": 3.0,
-    "beer_name": "Christmas Ale",
+    "rating": 4.1,
+    "beer_name": "Christmas Ale (2023)",
     "brewery": "Brouwerij St.Bernardus",
     "beer_type": "Winter Ale"
   },
