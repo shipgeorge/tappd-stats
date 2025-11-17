@@ -1,4 +1,26 @@
 venue,user,time,serving,data_rating,beer_name,brewery,beer_type
+schnitt-brewing-company,Lee Ker,"Sun, 16 Nov 2025 22:37:37 +0000",,,About To Stout,Schnitt Brewing Company﻿,Stout - Oatmeal
+schnitt-brewing-company,Lee Ker,"Sun, 16 Nov 2025 22:36:51 +0000",,,What the Helles?!,Schnitt Brewing Company﻿,Lager - Helles
+schnitt-brewing-company,drinking_park,"Sun, 16 Nov 2025 22:36:28 +0000",draft,3.5,What the Helles?!,Schnitt Brewing Company﻿,Lager - Helles
+lauter,drinking_park,"Sun, 16 Nov 2025 21:37:34 +0000",bottle,3.0,A Red & White Christmas,Mikkeller,Winter Ale
+lauter,drinking_park,"Sun, 16 Nov 2025 21:32:46 +0000",bottle,4.0,Barbãr Bok,Brasserie Lefebvre,Bock - Single / Traditional
+schnitt-brewing-company,Lee Ker,"Sun, 16 Nov 2025 21:30:58 +0000",bottle,,Barbãr Bok,Brasserie Lefebvre,Bock - Single / Traditional
+lauter,drinking_park,"Sun, 16 Nov 2025 21:30:32 +0000",can,3.75,ער.ה? 2025,Schnitt Brewing Company﻿,Stout - White / Golden
+schnitt-brewing-company,Lee Ker,"Sun, 16 Nov 2025 21:30:00 +0000",can,,ER.A! (!ער.ה),Schnitt Brewing Company﻿,Stout - Coffee
+schnitt-brewing-company,Lee Ker,"Sun, 16 Nov 2025 21:28:49 +0000",,,A Red & White Christmas,Mikkeller,Winter Ale
+lauter,oriel38,"Sun, 16 Nov 2025 20:39:38 +0000",draft,3.5,Ronen The Ugly Beer (הבירה המכוערת),Srigim (שריגים),IPA - American
+lauter,Shmupi Koto,"Sun, 16 Nov 2025 20:38:36 +0000",bottle,4.6,Oude Abricot Tilquin à l'Ancienne (2023-2024),Gueuzerie Tilquin,Lambic - Fruit
+lauter,oriel38,"Sun, 16 Nov 2025 20:38:31 +0000",draft,3.25,Vedett Extra Pilsner,Duvel Moortgat,Pilsner - Other
+lauter,גל סילברמן,"Sun, 16 Nov 2025 19:11:13 +0000",draft,3.8,Beerjolais (בִּירְז'וֹלֶה),White Rabbit (IL),Pale Ale - Other
+b7-beer-house,Gal Faintoch,"Sun, 16 Nov 2025 18:27:11 +0000",draft,4.75,חלוץ תחת אש,New Pioneer Brewing Co - חלוץ חדש,Sour - Fruited
+b7-beer-house,Gal Faintoch,"Sun, 16 Nov 2025 18:26:33 +0000",draft,4.5,שלושה צעדים קדימה,New Pioneer Brewing Co - חלוץ חדש,Lager - IPL (India Pale Lager)
+schnitt-brewing-company,notadog274,"Sun, 16 Nov 2025 17:37:08 +0000",draft,5.0,Lazy Bee Hibiscus And Raspberries,Schnitt Brewing Company﻿,Mead - Session / Short
+lauter,SIVBILOVE,"Sun, 16 Nov 2025 17:25:13 +0000",draft,3.5,Beerjolais (בִּירְז'וֹלֶה),White Rabbit (IL),Pale Ale - Other
+schnitt-brewing-company,SIVBILOVE,"Sun, 16 Nov 2025 17:23:04 +0000",,4.25,Coresh כורש,Schnitt Brewing Company﻿,Smoked Beer
+lauter,David Siegel,"Sun, 16 Nov 2025 16:22:51 +0000",,3.5,Beerjolais (בִּירְז'וֹלֶה),White Rabbit (IL),Pale Ale - Other
+b7-beer-house,Yotam Bar-natan,"Sun, 16 Nov 2025 13:59:23 +0000",draft,4.6,חלוץ תחת אש,New Pioneer Brewing Co - חלוץ חדש,Sour - Fruited
+schnitt-brewing-company,Avi Shalom,"Sun, 16 Nov 2025 11:31:12 +0000",draft,3.75,"Same Schnitt, Different Hop: Amarillo",Schnitt Brewing Company﻿,Pale Ale - Other
+schnitt-brewing-company,Avi Shalom,"Sun, 16 Nov 2025 11:29:34 +0000",draft,3.75,Kardemumma,Schnitt Brewing Company﻿,Pale Ale - Other
 schnitt-brewing-company,Itay shalom Kaplan,"Sat, 15 Nov 2025 21:32:35 +0000",draft,3.5,Rush Sour,Schnitt Brewing Company﻿,IPA - Sour
 lauter,Nir Levy,"Sat, 15 Nov 2025 21:10:26 +0000",bottle,4.75,Bourbon Barrel Aged - Imperial Coffee Stout,Vocation Brewery,Stout - Imperial / Double Coffee
 lauter,Nir Levy,"Sat, 15 Nov 2025 20:37:32 +0000",can,1.25,TIPA Mara (2025),Schnitt Brewing Company﻿,IPA - Triple
@@ -1525,8 +1547,8 @@ lauter,Omer Shahar,"Sun, 19 Oct 2025 19:40:35 +0000",draft,3.5,"Shut Up And Drin
 porter-and-sons,Shmupi Koto,"Sun, 19 Oct 2025 19:33:53 +0000",draft,4.7,Quetsche Tilquin – Draft Version,Gueuzerie Tilquin,Lambic - Fruit
 lauter,Shmupi Koto,"Sun, 19 Oct 2025 19:32:51 +0000",bottle,4.0,Aecht Schlenkerla Rauchbier – Märzen,"Schlenkerla (""Heller-Bräu"" Trum)",Rauchbier
 lauter,Tal,"Sun, 19 Oct 2025 19:27:16 +0000",bottle,4.0,Bjorn's Beer,Attali's Family Brewery,IPA - American
-lauter,adi_zadik_2741,"Sun, 19 Oct 2025 19:17:21 +0000",bottle,3.25,Bjorn's Beer,Attali's Family Brewery,IPA - American
 schnitt-brewing-company,May Cohen,"Sun, 19 Oct 2025 19:17:21 +0000",can,4.25,Plum Waffle,Duncan's Brewing,Sour - Smoothie / Pastry
+lauter,adi_zadik_2741,"Sun, 19 Oct 2025 19:17:21 +0000",bottle,3.25,Bjorn's Beer,Attali's Family Brewery,IPA - American
 lauter,Tal,"Sun, 19 Oct 2025 18:51:53 +0000",draft,3.75,"Shut Up And Drink Me! (שת""פ)",Schnitt Brewing Company﻿,Historical Beer - Lichtenhainer
 schnitt-brewing-company,May Cohen,"Sun, 19 Oct 2025 18:34:54 +0000",can,4.5,Jetphilia,Totopia Brewery,Stout - Imperial / Double
 beerline,Slava Gladchenko,"Sun, 19 Oct 2025 18:23:28 +0000",,3.0,Benediktiner Weissbier,Benediktiner Weissbräu,Wheat Beer - Hefeweizen
@@ -3222,8 +3244,8 @@ lauter,YanivMeir1503,"Fri, 12 Sep 2025 10:38:04 +0000",draft,,Delirium Black Bar
 lauter,David Siegel,"Fri, 12 Sep 2025 10:37:22 +0000",draft,4.0,Ciderman Apple,Volfas Engelman,Cider - Traditional / Apfelwein
 lauter,Yuval Erets Kdosha,"Fri, 12 Sep 2025 10:34:34 +0000",draft,5.0,Black Currant x Cherry x Blueberry x Coconut x Almond Smoothie Sour Ale,Ārpus Brewing Co.,Sour - Smoothie / Pastry
 lauter,Yuval Erets Kdosha,"Fri, 12 Sep 2025 10:34:15 +0000",draft,4.0,Eclipse,Schmulz,Mead - Braggot
-lauter,ParkerAsaf,"Fri, 12 Sep 2025 10:33:29 +0000",draft,4.0,Birthday Popsicle קרטיב יום הולדת,Schnitt Brewing Company﻿,IPA - New England / Hazy
 lauter,Yuval Erets Kdosha,"Fri, 12 Sep 2025 10:33:29 +0000",draft,4.0,Birthday Popsicle קרטיב יום הולדת,Schnitt Brewing Company﻿,IPA - New England / Hazy
+lauter,ParkerAsaf,"Fri, 12 Sep 2025 10:33:29 +0000",draft,4.0,Birthday Popsicle קרטיב יום הולדת,Schnitt Brewing Company﻿,IPA - New England / Hazy
 lauter,Yana O,"Fri, 12 Sep 2025 10:33:25 +0000",draft,4.4,Black Currant x Cherry x Blueberry x Coconut x Almond Smoothie Sour Ale,Ārpus Brewing Co.,Sour - Smoothie / Pastry
 lauter,Yuval Erets Kdosha,"Fri, 12 Sep 2025 10:33:07 +0000",draft,4.5,Anything Gose: Mango,Schnitt Brewing Company﻿,Sour - Fruited Gose
 lauter,dafi20,"Fri, 12 Sep 2025 10:29:45 +0000",draft,4.25,Sweet Dreams,Oak & Ash,Sour - Fruited
@@ -5196,8 +5218,8 @@ lauter,Mikhail Stolov,"Tue, 05 Aug 2025 18:52:25 +0000",,3.25,OUOUOU,4BREWERS,So
 lauter,Oren Sleepwalker,"Tue, 05 Aug 2025 18:50:13 +0000",,,Whakahoa,Factory Brewing,IPA - Triple New England / Hazy
 schnitt-brewing-company,Arkady Gerasimuk,"Tue, 05 Aug 2025 18:49:49 +0000",draft,3.5,Twist & Stout,Schnitt Brewing Company﻿,Stout - Irish Dry
 schnitt-brewing-company,Yaniv Gorodetsky,"Tue, 05 Aug 2025 18:49:42 +0000",draft,3.0,Twist & Stout,Schnitt Brewing Company﻿,Stout - Irish Dry
-lauter,Yaron Sh,"Tue, 05 Aug 2025 18:49:38 +0000",,4.5,Whakahoa,Factory Brewing,IPA - Triple New England / Hazy
 lauter,Yosef Dahan,"Tue, 05 Aug 2025 18:49:38 +0000",can,4.0,Whakahoa,Factory Brewing,IPA - Triple New England / Hazy
+lauter,Yaron Sh,"Tue, 05 Aug 2025 18:49:38 +0000",,4.5,Whakahoa,Factory Brewing,IPA - Triple New England / Hazy
 lauter,Yaniv Alal,"Tue, 05 Aug 2025 18:49:26 +0000",draft,4.25,Whakahoa,Factory Brewing,IPA - Triple New England / Hazy
 lauter,Shaul A,"Tue, 05 Aug 2025 18:49:14 +0000",,4.5,Whakahoa,Factory Brewing,IPA - Triple New England / Hazy
 lauter,Yaron Sh,"Tue, 05 Aug 2025 18:48:30 +0000",,4.0,Magical Path,Shred Beer Company,IPA - New England / Hazy
@@ -7144,8 +7166,8 @@ berlin-florentin,Sharon Confino,"Mon, 23 Dec 2024 18:45:24 +0000",bottle,3.75,Fr
 berlin-florentin,Yana O,"Mon, 23 Dec 2024 18:44:17 +0000",bottle,4.0,Framboise,Brouwerij Lindemans,Lambic - Framboise
 berlin-florentin,Ⓜ️axx Dee,"Mon, 23 Dec 2024 18:44:11 +0000",bottle,4.0,Framboise,Brouwerij Lindemans,Lambic - Framboise
 berlin-florentin,Ⓜ️axx Dee,"Mon, 23 Dec 2024 18:38:17 +0000",bottle,4.0,Christmas Ale (2023),Brouwerij St.Bernardus,Winter Ale
-berlin-florentin,Sharon Confino,"Mon, 23 Dec 2024 18:37:49 +0000",bottle,3.0,Christmas Ale,Brouwerij St.Bernardus,Winter Ale
 berlin-florentin,Yana O,"Mon, 23 Dec 2024 18:37:49 +0000",bottle,4.1,Christmas Ale (2023),Brouwerij St.Bernardus,Winter Ale
+berlin-florentin,Sharon Confino,"Mon, 23 Dec 2024 18:37:49 +0000",bottle,3.0,Christmas Ale,Brouwerij St.Bernardus,Winter Ale
 berlin-florentin,Sharon Confino,"Mon, 23 Dec 2024 18:32:18 +0000",bottle,4.5,Faro,Brouwerij Lindemans,Lambic - Faro
 berlin-florentin,Yana O,"Mon, 23 Dec 2024 18:30:45 +0000",bottle,4.0,Faro,Brouwerij Lindemans,Lambic - Faro
 berlin-florentin,Ⓜ️axx Dee,"Mon, 23 Dec 2024 18:30:43 +0000",bottle,4.1,Faro,Brouwerij Lindemans,Lambic - Faro
