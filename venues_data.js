@@ -1,8 +1,422 @@
 // 🍺 BEER STATS DATA - Generated automatically
-// Last updated: 2025-11-18 06:39:08
-// Total records: 8243
+// Last updated: 2025-11-19 06:39:36
+// Total records: 8289
 
 const BEER_DATA = [
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-11-18T21:54:34+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "ער.ה? 2025",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Stout - White / Golden"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-18T20:46:46+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "Rush Sour",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - Sour"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-18T20:44:20+00:00",
+    "serving": "Unknown",
+    "rating": 4.25,
+    "beer_name": "Abt 12",
+    "brewery": "Brouwerij St.Bernardus",
+    "beer_type": "Belgian Quadrupel"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-18T20:34:34+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "2 קומפוט נעליים",
+    "brewery": "קישקשתא (Kishkashta)",
+    "beer_type": "Farmhouse Ale - Saison"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-18T20:34:00+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Sour Series - Papa Prosciutto & Funghi",
+    "brewery": "HORIZONT Brewing",
+    "beer_type": "Sour - Tomato / Vegetable Gose"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-18T20:29:56+00:00",
+    "serving": "can",
+    "rating": 3.7,
+    "beer_name": "Sour Series - Papa Prosciutto & Funghi",
+    "brewery": "HORIZONT Brewing",
+    "beer_type": "Sour - Tomato / Vegetable Gose"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-18T20:29:39+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Beerjolais (בִּירְז'וֹלֶה)",
+    "brewery": "White Rabbit (IL)",
+    "beer_type": "Pale Ale - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-18T20:22:18+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "New York Mocaccino",
+    "brewery": "Mad Scientist",
+    "beer_type": "Stout - Milk / Sweet"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-18T19:54:26+00:00",
+    "serving": "can",
+    "rating": 3.6,
+    "beer_name": "ער.ה? 2025",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Stout - White / Golden"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-11-18T19:47:28+00:00",
+    "serving": "can",
+    "rating": 3.7,
+    "beer_name": "ער.ה? 2025",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Stout - White / Golden"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-18T19:40:32+00:00",
+    "serving": "draft",
+    "rating": 3.7,
+    "beer_name": "Same Schnitt, Different Hop: Amarillo",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pale Ale - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-18T18:33:51+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "Beerjolais (בִּירְז'וֹלֶה)",
+    "brewery": "White Rabbit (IL)",
+    "beer_type": "Pale Ale - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-18T18:33:17+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Beerjolais (בִּירְז'וֹלֶה)",
+    "brewery": "White Rabbit (IL)",
+    "beer_type": "Pale Ale - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-18T18:17:32+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Rush Sour",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - Sour"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-18T18:16:52+00:00",
+    "serving": "Unknown",
+    "rating": 3.6,
+    "beer_name": "Coresh כורש",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Smoked Beer"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-18T18:15:19+00:00",
+    "serving": "Unknown",
+    "rating": 3.7,
+    "beer_name": "2 קומפוט נעליים",
+    "brewery": "קישקשתא (Kishkashta)",
+    "beer_type": "Farmhouse Ale - Saison"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-18T18:14:32+00:00",
+    "serving": "Unknown",
+    "rating": 3.6,
+    "beer_name": "TIPA Mara (2025)",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - Triple"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-18T18:13:22+00:00",
+    "serving": "Unknown",
+    "rating": 3.8,
+    "beer_name": "Rush Sour",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - Sour"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-18T18:10:43+00:00",
+    "serving": "Unknown",
+    "rating": 3.6,
+    "beer_name": "Coresh כורש",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Smoked Beer"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-18T18:07:44+00:00",
+    "serving": "Unknown",
+    "rating": 3.8,
+    "beer_name": "2 קומפוט נעליים",
+    "brewery": "קישקשתא (Kishkashta)",
+    "beer_type": "Farmhouse Ale - Saison"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-11-18T17:45:31+00:00",
+    "serving": "draft",
+    "rating": 3.7,
+    "beer_name": "TIPA Mara (2025)",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - Triple"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-18T17:19:11+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Motueka Sunrise",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-18T17:15:59+00:00",
+    "serving": "Unknown",
+    "rating": 3.8,
+    "beer_name": "TIPA Mara (2025)",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - Triple"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-18T17:08:41+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Beerjolais (בִּירְז'וֹלֶה)",
+    "brewery": "White Rabbit (IL)",
+    "beer_type": "Pale Ale - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-18T16:42:04+00:00",
+    "serving": "draft",
+    "rating": 4.1,
+    "beer_name": "Beerjolais (בִּירְז'וֹלֶה)",
+    "brewery": "White Rabbit (IL)",
+    "beer_type": "Pale Ale - Other"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-18T16:24:54+00:00",
+    "serving": "Unknown",
+    "rating": 4.6,
+    "beer_name": "חלוץ תחת אש",
+    "brewery": "New Pioneer Brewing Co - חלוץ חדש",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-18T16:05:16+00:00",
+    "serving": "draft",
+    "rating": 3.25,
+    "beer_name": "Ronen The Ugly Beer (הבירה המכוערת)",
+    "brewery": "Srigim (שריגים)",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-18T15:35:11+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Beerjolais (בִּירְז'וֹלֶה)",
+    "brewery": "White Rabbit (IL)",
+    "beer_type": "Pale Ale - Other"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-11-18T15:07:08+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "OrangeDana",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-11-18T15:06:29+00:00",
+    "serving": "draft",
+    "rating": 3.25,
+    "beer_name": "נקטרון האלים",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-11-18T15:05:11+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Rush Sour",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - Sour"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-11-18T15:04:21+00:00",
+    "serving": "draft",
+    "rating": 3.25,
+    "beer_name": "Coresh כורש",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Smoked Beer"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-11-18T15:03:00+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Nightmare Fuel",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Porter - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-18T14:51:38+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Rush Sour",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - Sour"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-18T14:50:59+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Kardemumma",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pale Ale - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-18T14:47:58+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "2 קומפוט נעליים",
+    "brewery": "קישקשתא (Kishkashta)",
+    "beer_type": "Farmhouse Ale - Saison"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-18T14:46:36+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Beerjolais (בִּירְז'וֹלֶה)",
+    "brewery": "White Rabbit (IL)",
+    "beer_type": "Pale Ale - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-18T14:45:30+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Same Schnitt, Different Hop: Amarillo",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pale Ale - Other"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-11-18T14:09:02+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "Coresh כורש",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Smoked Beer"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-11-18T14:08:35+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "About To Stout",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Stout - Oatmeal"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-11-18T14:03:59+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "TIPA Mara (2025)",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - Triple"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-11-18T14:02:43+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Cashmero קשמירו",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-18T13:35:02+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "2 קומפוט נעליים",
+    "brewery": "קישקשתא (Kishkashta)",
+    "beer_type": "Farmhouse Ale - Saison"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-18T13:22:21+00:00",
+    "serving": "bottle",
+    "rating": 4.3,
+    "beer_name": "Oude Abricot Tilquin à l'Ancienne (2023-2024)",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-18T12:57:31+00:00",
+    "serving": "bottle",
+    "rating": 3.7,
+    "beer_name": "Barrel Aged Double Bock",
+    "brewery": "Shevet (שבט)",
+    "beer_type": "Bock - Doppelbock"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-11-18T12:34:14+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "TIPA Mara (2025)",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - Triple"
+  },
   {
     "venue": "schnitt-brewing-company",
     "time": "2025-11-17T19:13:01+00:00",
@@ -40011,20 +40425,20 @@ const BEER_DATA = [
   {
     "venue": "b7-beer-house",
     "time": "2025-08-21T15:59:11+00:00",
-    "serving": "can",
-    "rating": 3.8,
-    "beer_name": "Peach Rings",
-    "brewery": "Vault City Brewing",
-    "beer_type": "Sour - Fruited"
-  },
-  {
-    "venue": "b7-beer-house",
-    "time": "2025-08-21T15:59:11+00:00",
     "serving": "Unknown",
     "rating": 4.0,
     "beer_name": "Naughty & Nice - White Chocolate & Raspberry",
     "brewery": "Vocation Brewery",
     "beer_type": "Stout - White / Golden"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-21T15:59:11+00:00",
+    "serving": "can",
+    "rating": 3.8,
+    "beer_name": "Peach Rings",
+    "brewery": "Vault City Brewing",
+    "beer_type": "Sour - Fruited"
   },
   {
     "venue": "b7-beer-house",
@@ -55321,19 +55735,19 @@ const BEER_DATA = [
     "venue": "lauter",
     "time": "2025-07-25T18:15:23+00:00",
     "serving": "draft",
-    "rating": 4.8,
-    "beer_name": "Fou' Foune 2023 - Draft Version",
+    "rating": 4.0,
+    "beer_name": "Cuvée Saint-Gilloise 2023 - Draft Version",
     "brewery": "Brasserie Cantillon",
-    "beer_type": "Lambic - Fruit"
+    "beer_type": "Lambic - Traditional"
   },
   {
     "venue": "lauter",
     "time": "2025-07-25T18:15:23+00:00",
     "serving": "draft",
-    "rating": 4.0,
-    "beer_name": "Cuvée Saint-Gilloise 2023 - Draft Version",
+    "rating": 4.8,
+    "beer_name": "Fou' Foune 2023 - Draft Version",
     "brewery": "Brasserie Cantillon",
-    "beer_type": "Lambic - Traditional"
+    "beer_type": "Lambic - Fruit"
   },
   {
     "venue": "lauter",
