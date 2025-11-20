@@ -1,4 +1,32 @@
 venue,user,time,serving,data_rating,beer_name,brewery,beer_type
+lauter,TheOnlyMagicalNoob,"Wed, 19 Nov 2025 20:46:33 +0000",can,3.5,ער.ה? 2025,Schnitt Brewing Company﻿,Stout - White / Golden
+b7-beer-house,Joseph,"Wed, 19 Nov 2025 20:32:29 +0000",draft,3.25,Everyday Life,Sibeeria Brewery,Pilsner - Czech / Bohemian
+schnitt-brewing-company,Vladimir Kanevsky,"Wed, 19 Nov 2025 20:31:19 +0000",draft,4.0,Nightmare Fuel,Schnitt Brewing Company﻿,Porter - American
+lauter,TheOnlyMagicalNoob,"Wed, 19 Nov 2025 20:27:30 +0000",draft,3.25,Beerjolais (בִּירְז'וֹלֶה),White Rabbit (IL),Pale Ale - Other
+lauter,Tal,"Wed, 19 Nov 2025 19:56:51 +0000",draft,3.75,Kardemumma,Schnitt Brewing Company﻿,Pale Ale - Other
+lauter,Tal,"Wed, 19 Nov 2025 19:56:16 +0000",draft,3.75,Nightmare Fuel,Schnitt Brewing Company﻿,Porter - American
+b7-beer-house,Dima Shleifman,"Wed, 19 Nov 2025 19:14:17 +0000",can,3.5,Coresh כורש,Schnitt Brewing Company﻿,Smoked Beer
+lauter,Tal,"Wed, 19 Nov 2025 18:40:38 +0000",draft,3.75,2 קומפוט נעליים,קישקשתא (Kishkashta),Farmhouse Ale - Saison
+lauter,Tal,"Wed, 19 Nov 2025 18:34:51 +0000",draft,4.0,Rush Sour,Schnitt Brewing Company﻿,IPA - Sour
+beerbazaar-brewery,Oren Sela,"Wed, 19 Nov 2025 18:23:15 +0000",draft,3.5,עשן הזמן,BeerBazaar / Mivshelet Ha’Aretz,Lager - Smoked
+lauter,Danny Ganelin,"Wed, 19 Nov 2025 18:06:12 +0000",can,3.5,Sour Series - Time For A Restart,HORIZONT Brewing,Sour - Fruited Gose
+lauter,Tal,"Wed, 19 Nov 2025 17:58:36 +0000",draft,3.5,Beerjolais (בִּירְז'וֹלֶה),White Rabbit (IL),Pale Ale - Other
+porter-and-sons,Yana O,"Wed, 19 Nov 2025 17:55:49 +0000",draft,4.1,Prior 8,Brouwerij St.Bernardus,Belgian Dubbel
+porter-and-sons,Maxx Dee,"Wed, 19 Nov 2025 17:50:19 +0000",draft,4.0,Prior 8,Brouwerij St.Bernardus,Belgian Dubbel
+porter-and-sons,Stas Pruchansky,"Wed, 19 Nov 2025 17:49:50 +0000",draft,4.0,Guinness Draught,Guinness,Stout - Irish Dry
+porter-and-sons,Itsik Marco,"Wed, 19 Nov 2025 17:28:51 +0000",draft,4.0,In the Little,Schnitt Brewing Company﻿,IPA - Session
+lauter,galgutm,"Wed, 19 Nov 2025 17:05:00 +0000",draft,3.75,New York Mocaccino,Mad Scientist,Stout - Milk / Sweet
+lauter,Yana O,"Wed, 19 Nov 2025 16:55:55 +0000",draft,4.1,Abt 12,Brouwerij St.Bernardus,Belgian Quadrupel
+lauter,Danny Ganelin,"Wed, 19 Nov 2025 16:37:59 +0000",draft,3.75,2 קומפוט נעליים,קישקשתא (Kishkashta),Farmhouse Ale - Saison
+lauter,Maxx Dee,"Wed, 19 Nov 2025 16:34:44 +0000",draft,4.0,Beerjolais (בִּירְז'וֹלֶה),White Rabbit (IL),Pale Ale - Other
+schnitt-brewing-company,Danny Ganelin,"Wed, 19 Nov 2025 16:20:13 +0000",draft,3.5,ער.ה? 2025,Schnitt Brewing Company﻿,Stout - White / Golden
+lauter,Maxx Dee,"Wed, 19 Nov 2025 16:19:52 +0000",draft,4.0,Ronen The Ugly Beer (הבירה המכוערת),Srigim (שריגים),IPA - American
+lauter,Yana O,"Wed, 19 Nov 2025 16:19:28 +0000",draft,3.8,Ronen The Ugly Beer (הבירה המכוערת),Srigim (שריגים),IPA - American
+lauter,Maxx Dee,"Wed, 19 Nov 2025 16:17:40 +0000",draft,4.25,2 קומפוט נעליים,קישקשתא (Kishkashta),Farmhouse Ale - Saison
+lauter,Yana O,"Wed, 19 Nov 2025 16:16:52 +0000",draft,3.7,2 קומפוט נעליים,קישקשתא (Kishkashta),Farmhouse Ale - Saison
+schnitt-brewing-company,Maxx Dee,"Wed, 19 Nov 2025 15:49:57 +0000",,4.0,TIPA Mara (2025),Schnitt Brewing Company﻿,IPA - Triple
+porter-and-sons,Ido Sela,"Wed, 19 Nov 2025 15:30:03 +0000",,5.0,La Patchakunda,Holier Brewing,"Homebrew, Spirit - Whiskey - Other"
+schnitt-brewing-company,Yaniv Alal,"Wed, 19 Nov 2025 14:32:33 +0000",draft,3.75,"Same Schnitt, Different Hop: Amarillo",Schnitt Brewing Company﻿,Pale Ale - Other
 schnitt-brewing-company,Nir Langer,"Tue, 18 Nov 2025 21:54:34 +0000",,,ער.ה? 2025,Schnitt Brewing Company﻿,Stout - White / Golden
 lauter,dafi20,"Tue, 18 Nov 2025 20:46:46 +0000",,3.75,Rush Sour,Schnitt Brewing Company﻿,IPA - Sour
 lauter,dafi20,"Tue, 18 Nov 2025 20:44:20 +0000",,4.25,Abt 12,Brouwerij St.Bernardus,Belgian Quadrupel
@@ -3941,8 +3969,8 @@ lauter,Adam Berelowitz,"Mon, 01 Sep 2025 17:50:20 +0000",can,4.0,Confuzzled '202
 lauter,Oren Sleepwalker,"Mon, 01 Sep 2025 17:46:17 +0000",,,Hops Don’t Lie,Thurø Bryghus,IPA - New England / Hazy
 lauter,Mikhail Stolov,"Mon, 01 Sep 2025 17:45:42 +0000",bottle,2.5,Hops Don’t Lie,Thurø Bryghus,IPA - New England / Hazy
 lauter,Yosef Dahan,"Mon, 01 Sep 2025 17:45:00 +0000",bottle,3.5,Hops Don’t Lie,Thurø Bryghus,IPA - New England / Hazy
-lauter,Yaron Sh,"Mon, 01 Sep 2025 17:44:35 +0000",,4.0,Hops Don’t Lie,Thurø Bryghus,IPA - New England / Hazy
 lauter,Adam Berelowitz,"Mon, 01 Sep 2025 17:44:35 +0000",bottle,4.0,Hops Don’t Lie,Thurø Bryghus,IPA - New England / Hazy
+lauter,Yaron Sh,"Mon, 01 Sep 2025 17:44:35 +0000",,4.0,Hops Don’t Lie,Thurø Bryghus,IPA - New England / Hazy
 lauter,Kobi,"Mon, 01 Sep 2025 17:44:03 +0000",,4.0,Hops Don’t Lie,Thurø Bryghus,IPA - New England / Hazy
 lauter,Yaron Sh,"Mon, 01 Sep 2025 17:42:20 +0000",,4.5,Super Trigo,Bierwerk Züri,IPA - White / Wheat
 lauter,Oren Sleepwalker,"Mon, 01 Sep 2025 17:40:34 +0000",,,Super Trigo,Bierwerk Züri,IPA - White / Wheat
@@ -4490,8 +4518,8 @@ b7-beer-house,גל סילברמן,"Thu, 21 Aug 2025 16:00:18 +0000",can,3.8,Naug
 b7-beer-house,Guy Azene,"Thu, 21 Aug 2025 16:00:01 +0000",can,3.8,Naughty & Nice - White Chocolate & Raspberry,Vocation Brewery,Stout - White / Golden
 b7-beer-house,Liad Shaked,"Thu, 21 Aug 2025 15:59:41 +0000",can,3.9,Naughty & Nice - White Chocolate & Raspberry,Vocation Brewery,Stout - White / Golden
 b7-beer-house,Yotam Bar-natan,"Thu, 21 Aug 2025 15:59:21 +0000",can,4.3,Birthday Cake,Vocation Brewery,Stout - Milk / Sweet
-b7-beer-house,Elior Mizrahi,"Thu, 21 Aug 2025 15:59:11 +0000",,4.0,Naughty & Nice - White Chocolate & Raspberry,Vocation Brewery,Stout - White / Golden
 b7-beer-house,Eli Smikin,"Thu, 21 Aug 2025 15:59:11 +0000",can,3.8,Peach Rings,Vault City Brewing,Sour - Fruited
+b7-beer-house,Elior Mizrahi,"Thu, 21 Aug 2025 15:59:11 +0000",,4.0,Naughty & Nice - White Chocolate & Raspberry,Vocation Brewery,Stout - White / Golden
 b7-beer-house,Yotam Bar-natan,"Thu, 21 Aug 2025 15:58:45 +0000",can,3.8,Naughty & Nice - White Chocolate & Raspberry,Vocation Brewery,Stout - White / Golden
 b7-beer-house,Tom Lahav,"Thu, 21 Aug 2025 15:58:44 +0000",can,3.25,Naughty & Nice - White Chocolate & Raspberry,Vocation Brewery,Stout - White / Golden
 b7-beer-house,Yotam Bar-natan,"Thu, 21 Aug 2025 15:58:21 +0000",can,3.7,Incognito,Vocation Brewery,IPA - Imperial / Double

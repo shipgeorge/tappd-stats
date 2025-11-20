@@ -1,8 +1,260 @@
 // 🍺 BEER STATS DATA - Generated automatically
-// Last updated: 2025-11-19 06:39:36
-// Total records: 8289
+// Last updated: 2025-11-20 06:39:08
+// Total records: 8317
 
 const BEER_DATA = [
+  {
+    "venue": "lauter",
+    "time": "2025-11-19T20:46:33+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "ער.ה? 2025",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Stout - White / Golden"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-19T20:32:29+00:00",
+    "serving": "draft",
+    "rating": 3.25,
+    "beer_name": "Everyday Life",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": "Pilsner - Czech / Bohemian"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-11-19T20:31:19+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Nightmare Fuel",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Porter - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-19T20:27:30+00:00",
+    "serving": "draft",
+    "rating": 3.25,
+    "beer_name": "Beerjolais (בִּירְז'וֹלֶה)",
+    "brewery": "White Rabbit (IL)",
+    "beer_type": "Pale Ale - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-19T19:56:51+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Kardemumma",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pale Ale - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-19T19:56:16+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Nightmare Fuel",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Porter - American"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-19T19:14:17+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Coresh כורש",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Smoked Beer"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-19T18:40:38+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "2 קומפוט נעליים",
+    "brewery": "קישקשתא (Kishkashta)",
+    "beer_type": "Farmhouse Ale - Saison"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-19T18:34:51+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Rush Sour",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - Sour"
+  },
+  {
+    "venue": "beerbazaar-brewery",
+    "time": "2025-11-19T18:23:15+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "עשן הזמן",
+    "brewery": "BeerBazaar / Mivshelet Ha’Aretz",
+    "beer_type": "Lager - Smoked"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-19T18:06:12+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Sour Series - Time For A Restart",
+    "brewery": "HORIZONT Brewing",
+    "beer_type": "Sour - Fruited Gose"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-19T17:58:36+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Beerjolais (בִּירְז'וֹלֶה)",
+    "brewery": "White Rabbit (IL)",
+    "beer_type": "Pale Ale - Other"
+  },
+  {
+    "venue": "porter-and-sons",
+    "time": "2025-11-19T17:55:49+00:00",
+    "serving": "draft",
+    "rating": 4.1,
+    "beer_name": "Prior 8",
+    "brewery": "Brouwerij St.Bernardus",
+    "beer_type": "Belgian Dubbel"
+  },
+  {
+    "venue": "porter-and-sons",
+    "time": "2025-11-19T17:50:19+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Prior 8",
+    "brewery": "Brouwerij St.Bernardus",
+    "beer_type": "Belgian Dubbel"
+  },
+  {
+    "venue": "porter-and-sons",
+    "time": "2025-11-19T17:49:50+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Guinness Draught",
+    "brewery": "Guinness",
+    "beer_type": "Stout - Irish Dry"
+  },
+  {
+    "venue": "porter-and-sons",
+    "time": "2025-11-19T17:28:51+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "In the Little",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - Session"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-19T17:05:00+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "New York Mocaccino",
+    "brewery": "Mad Scientist",
+    "beer_type": "Stout - Milk / Sweet"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-19T16:55:55+00:00",
+    "serving": "draft",
+    "rating": 4.1,
+    "beer_name": "Abt 12",
+    "brewery": "Brouwerij St.Bernardus",
+    "beer_type": "Belgian Quadrupel"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-19T16:37:59+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "2 קומפוט נעליים",
+    "brewery": "קישקשתא (Kishkashta)",
+    "beer_type": "Farmhouse Ale - Saison"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-19T16:34:44+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Beerjolais (בִּירְז'וֹלֶה)",
+    "brewery": "White Rabbit (IL)",
+    "beer_type": "Pale Ale - Other"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-11-19T16:20:13+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "ער.ה? 2025",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Stout - White / Golden"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-19T16:19:52+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Ronen The Ugly Beer (הבירה המכוערת)",
+    "brewery": "Srigim (שריגים)",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-19T16:19:28+00:00",
+    "serving": "draft",
+    "rating": 3.8,
+    "beer_name": "Ronen The Ugly Beer (הבירה המכוערת)",
+    "brewery": "Srigim (שריגים)",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-19T16:17:40+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "2 קומפוט נעליים",
+    "brewery": "קישקשתא (Kishkashta)",
+    "beer_type": "Farmhouse Ale - Saison"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-19T16:16:52+00:00",
+    "serving": "draft",
+    "rating": 3.7,
+    "beer_name": "2 קומפוט נעליים",
+    "brewery": "קישקשתא (Kishkashta)",
+    "beer_type": "Farmhouse Ale - Saison"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-11-19T15:49:57+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "TIPA Mara (2025)",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - Triple"
+  },
+  {
+    "venue": "porter-and-sons",
+    "time": "2025-11-19T15:30:03+00:00",
+    "serving": "Unknown",
+    "rating": 5.0,
+    "beer_name": "La Patchakunda",
+    "brewery": "Holier Brewing",
+    "beer_type": "Homebrew, Spirit - Whiskey - Other"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-11-19T14:32:33+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Same Schnitt, Different Hop: Amarillo",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pale Ale - Other"
+  },
   {
     "venue": "schnitt-brewing-company",
     "time": "2025-11-18T21:54:34+00:00",
@@ -35484,7 +35736,7 @@ const BEER_DATA = [
   {
     "venue": "lauter",
     "time": "2025-09-01T17:44:35+00:00",
-    "serving": "Unknown",
+    "serving": "bottle",
     "rating": 4.0,
     "beer_name": "Hops Don’t Lie",
     "brewery": "Thurø Bryghus",
@@ -35493,7 +35745,7 @@ const BEER_DATA = [
   {
     "venue": "lauter",
     "time": "2025-09-01T17:44:35+00:00",
-    "serving": "bottle",
+    "serving": "Unknown",
     "rating": 4.0,
     "beer_name": "Hops Don’t Lie",
     "brewery": "Thurø Bryghus",
@@ -40425,20 +40677,20 @@ const BEER_DATA = [
   {
     "venue": "b7-beer-house",
     "time": "2025-08-21T15:59:11+00:00",
-    "serving": "Unknown",
-    "rating": 4.0,
-    "beer_name": "Naughty & Nice - White Chocolate & Raspberry",
-    "brewery": "Vocation Brewery",
-    "beer_type": "Stout - White / Golden"
-  },
-  {
-    "venue": "b7-beer-house",
-    "time": "2025-08-21T15:59:11+00:00",
     "serving": "can",
     "rating": 3.8,
     "beer_name": "Peach Rings",
     "brewery": "Vault City Brewing",
     "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-21T15:59:11+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Naughty & Nice - White Chocolate & Raspberry",
+    "brewery": "Vocation Brewery",
+    "beer_type": "Stout - White / Golden"
   },
   {
     "venue": "b7-beer-house",
