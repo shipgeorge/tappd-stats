@@ -1,8 +1,2627 @@
 // 🍺 BEER STATS DATA - Generated automatically
-// Last updated: 2025-11-21 06:40:54
-// Total records: 8371
+// Last updated: 2025-11-22 06:37:07
+// Total records: 8662
 
 const BEER_DATA = [
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-22T06:35:28+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Lõunatomat",
+    "brewery": "Tuletorn Brewing",
+    "beer_type": "Sour - Tomato / Vegetable Gose"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-21T19:59:25+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "2 קומפוט נעליים",
+    "brewery": "קישקשתא (Kishkashta)",
+    "beer_type": "Farmhouse Ale - Saison"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-21T19:52:30+00:00",
+    "serving": "can",
+    "rating": 3.0,
+    "beer_name": "ער.ה? 2025",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Stout - White / Golden"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-21T19:48:17+00:00",
+    "serving": "draft",
+    "rating": 2.25,
+    "beer_name": "קץ הדעת",
+    "brewery": "נעמה סורקין",
+    "beer_type": "Cider - Dry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-21T19:46:47+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Abt 12",
+    "brewery": "Brouwerij St.Bernardus",
+    "beer_type": "Belgian Quadrupel"
+  },
+  {
+    "venue": "porter-and-sons",
+    "time": "2025-11-21T19:38:28+00:00",
+    "serving": "draft",
+    "rating": 4.6,
+    "beer_name": "Kriek 2025 - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": "Lambic - Kriek"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T18:25:55+00:00",
+    "serving": "bottle",
+    "rating": 4.1,
+    "beer_name": "Roasted Oolong Tea Lambiek - Sparkling Infused",
+    "brewery": "Oud Beersel",
+    "beer_type": "Lambic - Traditional"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T18:25:25+00:00",
+    "serving": "bottle",
+    "rating": 3.6,
+    "beer_name": "Meerjungfrau",
+    "brewery": "Rügener Insel-Brauerei",
+    "beer_type": "Sour - Other"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T18:25:03+00:00",
+    "serving": "can",
+    "rating": 3.8,
+    "beer_name": "Pretty - Orange, Calamansi, Mango & Vanilla",
+    "brewery": "Magic Road",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T18:24:33+00:00",
+    "serving": "bottle",
+    "rating": 3.9,
+    "beer_name": "Sahour",
+    "brewery": "Beerbalach",
+    "beer_type": "Homebrew, Lambic - Gueuze"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T18:24:09+00:00",
+    "serving": "can",
+    "rating": 4.6,
+    "beer_name": "TADAAAA*",
+    "brewery": "One Drop Brewing Co",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T18:23:39+00:00",
+    "serving": "can",
+    "rating": 3.8,
+    "beer_name": "Lõunatomat",
+    "brewery": "Tuletorn Brewing",
+    "beer_type": "Sour - Tomato / Vegetable Gose"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T18:23:12+00:00",
+    "serving": "can",
+    "rating": 3.3,
+    "beer_name": "Dekada Witbier z Calamansi",
+    "brewery": "Maryensztadt",
+    "beer_type": "Wheat Beer - Fruited"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T18:22:53+00:00",
+    "serving": "can",
+    "rating": 3.8,
+    "beer_name": "FIZY",
+    "brewery": "Fundamental Brewing Co.",
+    "beer_type": "Sour - Fruited Berliner Weisse"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T18:22:22+00:00",
+    "serving": "Unknown",
+    "rating": 3.9,
+    "beer_name": "Mebel",
+    "brewery": "Ziemia Obiecana",
+    "beer_type": "IPA - Session"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T18:21:56+00:00",
+    "serving": "bottle",
+    "rating": 4.0,
+    "beer_name": "Six Seven",
+    "brewery": "Beerbalach",
+    "beer_type": "Homebrew, Lambic - Gueuze"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T18:21:22+00:00",
+    "serving": "can",
+    "rating": 3.0,
+    "beer_name": "Wannabe",
+    "brewery": "Hophead Brewing",
+    "beer_type": "Pilsner - Czech / Bohemian"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T18:20:36+00:00",
+    "serving": "can",
+    "rating": 3.6,
+    "beer_name": "Honey I'm Drunk",
+    "brewery": "Ravangrad",
+    "beer_type": "IPA - Imperial / Double"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T18:20:07+00:00",
+    "serving": "can",
+    "rating": 4.2,
+    "beer_name": "Everything Everywhere All Peacharine 17",
+    "brewery": "Rodinný pivovar Zichovec",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T18:19:38+00:00",
+    "serving": "can",
+    "rating": 3.7,
+    "beer_name": "Show Your Independence",
+    "brewery": "Dogma Brewery",
+    "beer_type": "IPA - Session"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T18:19:01+00:00",
+    "serving": "can",
+    "rating": 3.4,
+    "beer_name": "Siesta",
+    "brewery": "Hophead Brewing",
+    "beer_type": "Porter - Other"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T18:18:20+00:00",
+    "serving": "can",
+    "rating": 3.7,
+    "beer_name": "API YZAH",
+    "brewery": "Stigbergets Bryggeri",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T18:17:18+00:00",
+    "serving": "bottle",
+    "rating": 4.1,
+    "beer_name": "Oude Gueuze Tilquin à l'ancienne - Lambics Vieillis en Fûts de Whisky Tourbé",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": "Lambic - Gueuze"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T18:16:52+00:00",
+    "serving": "Unknown",
+    "rating": 3.9,
+    "beer_name": "Rabarberlambiek",
+    "brewery": "Oud Beersel",
+    "beer_type": "Lambic - Other"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T18:16:32+00:00",
+    "serving": "bottle",
+    "rating": 4.0,
+    "beer_name": "Rullquin (2019-2020)",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": "Sour - Other"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T18:16:10+00:00",
+    "serving": "bottle",
+    "rating": 3.9,
+    "beer_name": "Grapefruit Peel Lambiek - Sparkling Infused",
+    "brewery": "Oud Beersel",
+    "beer_type": "Lambic - Other"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T18:15:40+00:00",
+    "serving": "bottle",
+    "rating": 4.3,
+    "beer_name": "Wild Dry Cider - Barbera Grapes",
+    "brewery": "Oud Beersel",
+    "beer_type": "Cider - Other Fruit"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T18:15:21+00:00",
+    "serving": "bottle",
+    "rating": 4.4,
+    "beer_name": "Gueuze Tilquin 40-60",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": "Lambic - Gueuze"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T18:14:40+00:00",
+    "serving": "bottle",
+    "rating": 4.5,
+    "beer_name": "Wild Dry Cider - Rhubarb",
+    "brewery": "Oud Beersel",
+    "beer_type": "Cider - Dry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T18:14:15+00:00",
+    "serving": "bottle",
+    "rating": 4.1,
+    "beer_name": "Oude Gueuze Tilquin à l'Ancienne - Cuvée Renée (2023-2024)",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": "Lambic - Gueuze"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T18:13:49+00:00",
+    "serving": "bottle",
+    "rating": 4.0,
+    "beer_name": "Rullquin au café du Rwanda",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": "Sour - Other"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T18:13:15+00:00",
+    "serving": "bottle",
+    "rating": 4.3,
+    "beer_name": "Rullquin au café d'Éthiopie",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": "Sour - Other"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T18:12:27+00:00",
+    "serving": "bottle",
+    "rating": 4.4,
+    "beer_name": "Oude Gueuze Tilquin à l'ancienne - Lambics Vieillis en Fûts de Whisky",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": "Lambic - Gueuze"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T18:11:59+00:00",
+    "serving": "bottle",
+    "rating": 3.8,
+    "beer_name": "Oolong Roasted Tea Lambic Infused",
+    "brewery": "Oud Beersel",
+    "beer_type": "Lambic - Traditional"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T18:11:30+00:00",
+    "serving": "bottle",
+    "rating": 4.7,
+    "beer_name": "Sweet Osmanthus Infused Lambic",
+    "brewery": "Oud Beersel",
+    "beer_type": "Lambic - Other"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T18:10:04+00:00",
+    "serving": "bottle",
+    "rating": 4.0,
+    "beer_name": "Pipes and Barrels",
+    "brewery": "Oud Beersel",
+    "beer_type": "Sour - Other"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T18:09:14+00:00",
+    "serving": "bottle",
+    "rating": 4.2,
+    "beer_name": "Biet (2023 - Bottle)",
+    "brewery": "Boerenerf",
+    "beer_type": "Lambic - Other"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T18:08:46+00:00",
+    "serving": "Unknown",
+    "rating": 3.9,
+    "beer_name": "Bzart Ciderlambiek Millésime 2023",
+    "brewery": "Oud Beersel",
+    "beer_type": "Lambic - Other"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T18:08:12+00:00",
+    "serving": "bottle",
+    "rating": 4.0,
+    "beer_name": "Gueuze Tilquin 60-40",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": "Lambic - Gueuze"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T18:07:19+00:00",
+    "serving": "Unknown",
+    "rating": 4.2,
+    "beer_name": "Pink Pepper Infused Lambic",
+    "brewery": "Oud Beersel",
+    "beer_type": "Lambic - Other"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T18:06:05+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Bee Pollen Infused Lambic",
+    "brewery": "Oud Beersel",
+    "beer_type": "Lambic - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-21T17:59:00+00:00",
+    "serving": "draft",
+    "rating": 2.75,
+    "beer_name": "Coresh כורש",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Smoked Beer"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-21T17:24:07+00:00",
+    "serving": "bottle",
+    "rating": 3.75,
+    "beer_name": "Night Shift Vintage 2024 - Triticale Wine Aged In Gemenc Whiskey & Tennessee Whiskey Barrels",
+    "brewery": "HORIZONT Brewing",
+    "beer_type": "Specialty Grain"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-21T17:21:00+00:00",
+    "serving": "draft",
+    "rating": 3.25,
+    "beer_name": "Same Schnitt, Different Hop: Amarillo",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pale Ale - Other"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-11-21T17:00:39+00:00",
+    "serving": "Unknown",
+    "rating": 3.0,
+    "beer_name": "Coresh כורש",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Smoked Beer"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-21T16:56:07+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Beerjolais (בִּירְז'וֹלֶה)",
+    "brewery": "White Rabbit (IL)",
+    "beer_type": "Pale Ale - Other"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-11-21T16:43:09+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Nightmare Fuel",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Porter - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-21T16:28:23+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "2 קומפוט נעליים",
+    "brewery": "קישקשתא (Kishkashta)",
+    "beer_type": "Farmhouse Ale - Saison"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-11-21T15:55:05+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "האימפריה מכה שניט",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-11-21T15:54:10+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Kardemumma",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pale Ale - Other"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-11-21T15:49:57+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "New School",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - Other"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-11-21T15:49:29+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Kelly's Green Pony",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-21T15:42:19+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "New York Mocaccino",
+    "brewery": "Mad Scientist",
+    "beer_type": "Stout - Milk / Sweet"
+  },
+  {
+    "venue": "beerline",
+    "time": "2025-11-21T15:40:10+00:00",
+    "serving": "draft",
+    "rating": 4.5,
+    "beer_name": "Delirium Red",
+    "brewery": "Delirium - Huyghe Brewery",
+    "beer_type": "Fruit Beer"
+  },
+  {
+    "venue": "beerline",
+    "time": "2025-11-21T15:39:18+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Dragon Fruit X Pear X Banana X Pineapple X Lemon Smoothie Sour Ale",
+    "brewery": "Ārpus Brewing Co.",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "beerline",
+    "time": "2025-11-21T15:38:33+00:00",
+    "serving": "draft",
+    "rating": 4.5,
+    "beer_name": "Delirium Red",
+    "brewery": "Delirium - Huyghe Brewery",
+    "beer_type": "Fruit Beer"
+  },
+  {
+    "venue": "beerline",
+    "time": "2025-11-21T15:38:19+00:00",
+    "serving": "draft",
+    "rating": 5.0,
+    "beer_name": "Pleroma Karpologi Pineapple Peach Marshmallow Créme Brulée Sour",
+    "brewery": "Omnipollo",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-21T15:34:52+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Vinobier",
+    "brewery": "Shapiro (שפירא)",
+    "beer_type": "Wild Ale - Other"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-11-21T15:10:03+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "ער.ה? 2025",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Stout - White / Golden"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-11-21T15:08:42+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "ער.ה? 2025",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Stout - White / Golden"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-11-21T14:28:16+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "TIPA Mara (2025)",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - Triple"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-11-21T13:49:41+00:00",
+    "serving": "draft",
+    "rating": 2.0,
+    "beer_name": "New School",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - Other"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T13:41:09+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Orange Crush",
+    "brewery": "BrewDog",
+    "beer_type": "IPA - Fruited"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-11-21T13:33:45+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "What the Helles?!",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Lager - Helles"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-11-21T13:33:12+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Coresh כורש",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Smoked Beer"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T13:28:32+00:00",
+    "serving": "Unknown",
+    "rating": 3.0,
+    "beer_name": "Orange Crush",
+    "brewery": "BrewDog",
+    "beer_type": "IPA - Fruited"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T13:28:07+00:00",
+    "serving": "can",
+    "rating": 3.3,
+    "beer_name": "Orange Crush",
+    "brewery": "BrewDog",
+    "beer_type": "IPA - Fruited"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T13:27:41+00:00",
+    "serving": "Unknown",
+    "rating": 3.3,
+    "beer_name": "Fruit Burst",
+    "brewery": "BrewDog",
+    "beer_type": "Pale Ale - English"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T13:25:59+00:00",
+    "serving": "can",
+    "rating": 3.1,
+    "beer_name": "Fruit Burst",
+    "brewery": "BrewDog",
+    "beer_type": "Pale Ale - English"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-11-21T13:24:07+00:00",
+    "serving": "draft",
+    "rating": 4.5,
+    "beer_name": "Kelly's Green Pony",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T13:21:53+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Siesta",
+    "brewery": "Hophead Brewing",
+    "beer_type": "Porter - Other"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-11-21T13:17:35+00:00",
+    "serving": "draft",
+    "rating": 4.5,
+    "beer_name": "ער.ה? 2025",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Stout - White / Golden"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T13:16:50+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "API YZAH",
+    "brewery": "Stigbergets Bryggeri",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T13:15:25+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "API YZAH",
+    "brewery": "Stigbergets Bryggeri",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T13:14:10+00:00",
+    "serving": "Unknown",
+    "rating": 4.5,
+    "beer_name": "Peach Baladi",
+    "brewery": "Galileo Brewery",
+    "beer_type": "Homebrew, Sour - Fruited"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T13:11:35+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "API YZAH",
+    "brewery": "Stigbergets Bryggeri",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T13:11:33+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Peach Baladi",
+    "brewery": "Galileo Brewery",
+    "beer_type": "Homebrew, Sour - Fruited"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T13:11:28+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "API YZAH",
+    "brewery": "Stigbergets Bryggeri",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T13:11:26+00:00",
+    "serving": "can",
+    "rating": 3.6,
+    "beer_name": "API YZAH",
+    "brewery": "Stigbergets Bryggeri",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T13:11:04+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "API YZAH",
+    "brewery": "Stigbergets Bryggeri",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T13:10:58+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Rabarberlambiek",
+    "brewery": "Oud Beersel",
+    "beer_type": "Lambic - Other"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T13:10:10+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "Peach Baladi",
+    "brewery": "Galileo Brewery",
+    "beer_type": "Homebrew, Sour - Fruited"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-11-21T13:09:53+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "TIPA Mara (2025)",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - Triple"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T13:09:11+00:00",
+    "serving": "bottle",
+    "rating": 4.25,
+    "beer_name": "Peach Baladi",
+    "brewery": "Galileo Brewery",
+    "beer_type": "Homebrew, Sour - Fruited"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T13:04:26+00:00",
+    "serving": "Unknown",
+    "rating": 4.25,
+    "beer_name": "Kriekenlambiek",
+    "brewery": "Oud Beersel",
+    "beer_type": "Lambic - Kriek"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T13:02:31+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "Siesta",
+    "brewery": "Hophead Brewing",
+    "beer_type": "Porter - Other"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T13:00:25+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "Siesta",
+    "brewery": "Hophead Brewing",
+    "beer_type": "Porter - Other"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-11-21T12:59:46+00:00",
+    "serving": "Unknown",
+    "rating": 4.25,
+    "beer_name": "Kelly's Green Pony",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T12:58:12+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Siesta",
+    "brewery": "Hophead Brewing",
+    "beer_type": "Porter - Other"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T12:58:05+00:00",
+    "serving": "bottle",
+    "rating": 3.75,
+    "beer_name": "חלוץ תחת אש",
+    "brewery": "New Pioneer Brewing Co - חלוץ חדש",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T12:57:51+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Siesta",
+    "brewery": "Hophead Brewing",
+    "beer_type": "Porter - Other"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T12:57:34+00:00",
+    "serving": "can",
+    "rating": 3.7,
+    "beer_name": "Siesta",
+    "brewery": "Hophead Brewing",
+    "beer_type": "Porter - Other"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T12:56:41+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "Siesta",
+    "brewery": "Hophead Brewing",
+    "beer_type": "Porter - Other"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T12:55:26+00:00",
+    "serving": "bottle",
+    "rating": 4.5,
+    "beer_name": "Perzik",
+    "brewery": "Brouwerij 3 Fonteinen",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T12:54:13+00:00",
+    "serving": "can",
+    "rating": 4.1,
+    "beer_name": "Yummy Blackcurrant, Prunes & Tonka",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T12:53:52+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Show Your Independence",
+    "brewery": "Dogma Brewery",
+    "beer_type": "IPA - Session"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T12:47:42+00:00",
+    "serving": "bottle",
+    "rating": 4.5,
+    "beer_name": "Oude Gueuze Tilquin à l'Ancienne (2020-2021)",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": "Lambic - Gueuze"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T12:47:14+00:00",
+    "serving": "bottle",
+    "rating": 4.0,
+    "beer_name": "חלוץ תחת אש",
+    "brewery": "New Pioneer Brewing Co - חלוץ חדש",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T12:47:01+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "חלוץ תחת אש",
+    "brewery": "New Pioneer Brewing Co - חלוץ חדש",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T12:46:45+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Show Your Independence",
+    "brewery": "Dogma Brewery",
+    "beer_type": "IPA - Session"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T12:46:33+00:00",
+    "serving": "bottle",
+    "rating": 3.6,
+    "beer_name": "חלוץ תחת אש",
+    "brewery": "New Pioneer Brewing Co - חלוץ חדש",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T12:44:21+00:00",
+    "serving": "can",
+    "rating": 3.4,
+    "beer_name": "Show Your Independence",
+    "brewery": "Dogma Brewery",
+    "beer_type": "IPA - Session"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T12:43:47+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Show Your Independence",
+    "brewery": "Dogma Brewery",
+    "beer_type": "IPA - Session"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T12:42:42+00:00",
+    "serving": "can",
+    "rating": 4.5,
+    "beer_name": "Everything Everywhere All Peacharine 17",
+    "brewery": "Rodinný pivovar Zichovec",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T12:40:29+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Honey I'm Drunk",
+    "brewery": "Ravangrad",
+    "beer_type": "IPA - Imperial / Double"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T12:37:37+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Wannabe",
+    "brewery": "Hophead Brewing",
+    "beer_type": "Pilsner - Czech / Bohemian"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T12:36:57+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Everything Everywhere All Peacharine 17",
+    "brewery": "Rodinný pivovar Zichovec",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T12:35:22+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "Everything Everywhere All Peacharine 17",
+    "brewery": "Rodinný pivovar Zichovec",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T12:34:38+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Everything Everywhere All Peacharine 17",
+    "brewery": "Rodinný pivovar Zichovec",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T12:34:29+00:00",
+    "serving": "can",
+    "rating": 4.2,
+    "beer_name": "Everything Everywhere All Peacharine 17",
+    "brewery": "Rodinný pivovar Zichovec",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T12:34:03+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "Everything Everywhere All Peacharine 17",
+    "brewery": "Rodinný pivovar Zichovec",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T12:33:59+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "Everything Everywhere All Peacharine 17",
+    "brewery": "Rodinný pivovar Zichovec",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T12:33:34+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "TL;DR",
+    "brewery": "Oak & Ash",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T12:31:05+00:00",
+    "serving": "bottle",
+    "rating": 4.25,
+    "beer_name": "Rabarberlambiek",
+    "brewery": "Oud Beersel",
+    "beer_type": "Lambic - Other"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T12:29:12+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Honey I'm Drunk",
+    "brewery": "Ravangrad",
+    "beer_type": "IPA - Imperial / Double"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T12:29:05+00:00",
+    "serving": "Unknown",
+    "rating": 4.5,
+    "beer_name": "Oude Gueuze Tilquin à l'Ancienne (2020-2021)",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": "Lambic - Gueuze"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T12:28:50+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Pink Pepper Infused Lambic",
+    "brewery": "Oud Beersel",
+    "beer_type": "Lambic - Other"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T12:28:46+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Honey I'm Drunk",
+    "brewery": "Ravangrad",
+    "beer_type": "IPA - Imperial / Double"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T12:27:53+00:00",
+    "serving": "Unknown",
+    "rating": 4.4,
+    "beer_name": "Oude Gueuze Tilquin à l'Ancienne (2020-2021)",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": "Lambic - Gueuze"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T12:27:52+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Mebel",
+    "brewery": "Ziemia Obiecana",
+    "beer_type": "IPA - Session"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T12:26:18+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Dekada Witbier z Calamansi",
+    "brewery": "Maryensztadt",
+    "beer_type": "Wheat Beer - Fruited"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T12:25:07+00:00",
+    "serving": "bottle",
+    "rating": 4.0,
+    "beer_name": "Oude Gueuze Tilquin à l'Ancienne (2020-2021)",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": "Lambic - Gueuze"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T12:24:25+00:00",
+    "serving": "bottle",
+    "rating": 3.4,
+    "beer_name": "Honey I'm Drunk",
+    "brewery": "Ravangrad",
+    "beer_type": "IPA - Imperial / Double"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T12:24:15+00:00",
+    "serving": "Unknown",
+    "rating": 3.3,
+    "beer_name": "Honey I'm Drunk",
+    "brewery": "Ravangrad",
+    "beer_type": "IPA - Imperial / Double"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-21T12:24:14+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Budweiser Budvar B:DARK / Czechvar B:DARK",
+    "brewery": "Budějovický Budvar",
+    "beer_type": "Lager - Tmavé (Czech Dark)"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T12:23:45+00:00",
+    "serving": "Unknown",
+    "rating": 4.3,
+    "beer_name": "Oude Gueuze Tilquin à l'Ancienne (2020-2021)",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": "Lambic - Gueuze"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T12:23:12+00:00",
+    "serving": "can",
+    "rating": 3.25,
+    "beer_name": "Honey I'm Drunk",
+    "brewery": "Ravangrad",
+    "beer_type": "IPA - Imperial / Double"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-21T12:21:47+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Farm Mama",
+    "brewery": "Shevet (שבט)",
+    "beer_type": "Wheat Beer - Witbier / Blanche"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T12:20:59+00:00",
+    "serving": "can",
+    "rating": 3.25,
+    "beer_name": "Honey I'm Drunk",
+    "brewery": "Ravangrad",
+    "beer_type": "IPA - Imperial / Double"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-21T12:20:35+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Duvel",
+    "brewery": "Duvel Moortgat",
+    "beer_type": "Belgian Strong Golden Ale"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T12:20:31+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "Honey I'm Drunk",
+    "brewery": "Ravangrad",
+    "beer_type": "IPA - Imperial / Double"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-21T12:20:02+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Ronen HaKeha HaMerusha'at Dark Ale (הבירה הכהה המרושעת)",
+    "brewery": "Srigim (שריגים)",
+    "beer_type": "Brown Ale - American"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T12:19:36+00:00",
+    "serving": "bottle",
+    "rating": 4.0,
+    "beer_name": "Wild Dry Cider - Blended With Lambic",
+    "brewery": "Oud Beersel",
+    "beer_type": "Cider - Dry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T12:18:14+00:00",
+    "serving": "can",
+    "rating": 3.25,
+    "beer_name": "Wannabe",
+    "brewery": "Hophead Brewing",
+    "beer_type": "Pilsner - Czech / Bohemian"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T12:17:38+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Wannabe",
+    "brewery": "Hophead Brewing",
+    "beer_type": "Pilsner - Czech / Bohemian"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T12:16:41+00:00",
+    "serving": "can",
+    "rating": 3.0,
+    "beer_name": "Wannabe",
+    "brewery": "Hophead Brewing",
+    "beer_type": "Pilsner - Czech / Bohemian"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T12:16:17+00:00",
+    "serving": "can",
+    "rating": 3.4,
+    "beer_name": "Wannabe",
+    "brewery": "Hophead Brewing",
+    "beer_type": "Pilsner - Czech / Bohemian"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T12:15:47+00:00",
+    "serving": "can",
+    "rating": 3.25,
+    "beer_name": "Wannabe",
+    "brewery": "Hophead Brewing",
+    "beer_type": "Pilsner - Czech / Bohemian"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T12:15:09+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Six Seven",
+    "brewery": "Beerbalach",
+    "beer_type": "Homebrew, Lambic - Gueuze"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T12:12:45+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Bzart Lambiek Millésime 2018",
+    "brewery": "Oud Beersel",
+    "beer_type": "Lambic - Traditional"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T12:09:40+00:00",
+    "serving": "bottle",
+    "rating": 4.25,
+    "beer_name": "Six Seven",
+    "brewery": "Beerbalach",
+    "beer_type": "Homebrew, Lambic - Gueuze"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T12:09:01+00:00",
+    "serving": "bottle",
+    "rating": 3.5,
+    "beer_name": "Six Seven",
+    "brewery": "Beerbalach",
+    "beer_type": "Homebrew, Lambic - Gueuze"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T12:08:45+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "FIZY",
+    "brewery": "Fundamental Brewing Co.",
+    "beer_type": "Sour - Fruited Berliner Weisse"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T12:08:02+00:00",
+    "serving": "bottle",
+    "rating": 4.0,
+    "beer_name": "Wild Dry Cider - Blended With Lambic",
+    "brewery": "Oud Beersel",
+    "beer_type": "Cider - Dry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T12:08:02+00:00",
+    "serving": "bottle",
+    "rating": 4.25,
+    "beer_name": "Bzart Lambiek Millésime 2018",
+    "brewery": "Oud Beersel",
+    "beer_type": "Lambic - Traditional"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T12:07:23+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "Bzart Lambiek Millésime 2018",
+    "brewery": "Oud Beersel",
+    "beer_type": "Lambic - Traditional"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T12:06:42+00:00",
+    "serving": "bottle",
+    "rating": 4.1,
+    "beer_name": "Bzart Lambiek Millésime 2018",
+    "brewery": "Oud Beersel",
+    "beer_type": "Lambic - Traditional"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T12:05:29+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Mebel",
+    "brewery": "Ziemia Obiecana",
+    "beer_type": "IPA - Session"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T12:04:32+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Rabarberlambiek",
+    "brewery": "Oud Beersel",
+    "beer_type": "Lambic - Other"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T12:04:20+00:00",
+    "serving": "can",
+    "rating": 3.9,
+    "beer_name": "Six Seven",
+    "brewery": "Beerbalach",
+    "beer_type": "Homebrew, Lambic - Gueuze"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T12:03:45+00:00",
+    "serving": "bottle",
+    "rating": 4.4,
+    "beer_name": "Rullquin au café d'Éthiopie",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": "Sour - Other"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T12:01:59+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Mebel",
+    "brewery": "Ziemia Obiecana",
+    "beer_type": "IPA - Session"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T12:01:17+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "TL;DR",
+    "brewery": "Oak & Ash",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T12:00:53+00:00",
+    "serving": "bottle",
+    "rating": 4.25,
+    "beer_name": "Pink Pepper Infused Lambic",
+    "brewery": "Oud Beersel",
+    "beer_type": "Lambic - Other"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T11:58:29+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Mebel",
+    "brewery": "Ziemia Obiecana",
+    "beer_type": "IPA - Session"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T11:58:18+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "FIZY",
+    "brewery": "Fundamental Brewing Co.",
+    "beer_type": "Sour - Fruited Berliner Weisse"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T11:58:12+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Rabarberlambiek",
+    "brewery": "Oud Beersel",
+    "beer_type": "Lambic - Other"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T11:57:28+00:00",
+    "serving": "Unknown",
+    "rating": 3.9,
+    "beer_name": "Mebel",
+    "brewery": "Ziemia Obiecana",
+    "beer_type": "IPA - Session"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T11:57:20+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "Mebel",
+    "brewery": "Ziemia Obiecana",
+    "beer_type": "IPA - Session"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T11:53:46+00:00",
+    "serving": "Unknown",
+    "rating": 3.8,
+    "beer_name": "Rabarberlambiek",
+    "brewery": "Oud Beersel",
+    "beer_type": "Lambic - Other"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T11:53:45+00:00",
+    "serving": "Unknown",
+    "rating": 4.1,
+    "beer_name": "FIZY",
+    "brewery": "Fundamental Brewing Co.",
+    "beer_type": "Sour - Fruited Berliner Weisse"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T11:53:28+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "Rabarberlambiek",
+    "brewery": "Oud Beersel",
+    "beer_type": "Lambic - Other"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T11:53:27+00:00",
+    "serving": "Unknown",
+    "rating": 4.1,
+    "beer_name": "Mebel",
+    "brewery": "Ziemia Obiecana",
+    "beer_type": "IPA - Session"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T11:52:22+00:00",
+    "serving": "can",
+    "rating": 3.0,
+    "beer_name": "Dekada Witbier z Calamansi",
+    "brewery": "Maryensztadt",
+    "beer_type": "Wheat Beer - Fruited"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T11:51:59+00:00",
+    "serving": "can",
+    "rating": 3.6,
+    "beer_name": "FIZY",
+    "brewery": "Fundamental Brewing Co.",
+    "beer_type": "Sour - Fruited Berliner Weisse"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T11:51:29+00:00",
+    "serving": "can",
+    "rating": 4.5,
+    "beer_name": "TADAAAA*",
+    "brewery": "One Drop Brewing Co",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T11:51:19+00:00",
+    "serving": "Unknown",
+    "rating": 4.5,
+    "beer_name": "Perzik",
+    "brewery": "Brouwerij 3 Fonteinen",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T11:51:15+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "FIZY",
+    "brewery": "Fundamental Brewing Co.",
+    "beer_type": "Sour - Fruited Berliner Weisse"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T11:51:04+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "3 Fonteinen Perzik Geel (season 21|22) Blend No. 14",
+    "brewery": "Brouwerij 3 Fonteinen",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T11:50:23+00:00",
+    "serving": "bottle",
+    "rating": 3.8,
+    "beer_name": "Wild Dry Cider - Blended With Lambic",
+    "brewery": "Oud Beersel",
+    "beer_type": "Cider - Dry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T11:50:07+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "FIZY",
+    "brewery": "Fundamental Brewing Co.",
+    "beer_type": "Sour - Fruited Berliner Weisse"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T11:49:46+00:00",
+    "serving": "can",
+    "rating": 4.1,
+    "beer_name": "Lõunatomat",
+    "brewery": "Tuletorn Brewing",
+    "beer_type": "Sour - Tomato / Vegetable Gose"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T11:48:08+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Dekada Witbier z Calamansi",
+    "brewery": "Maryensztadt",
+    "beer_type": "Wheat Beer - Fruited"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T11:47:48+00:00",
+    "serving": "can",
+    "rating": 4.2,
+    "beer_name": "Wild Dry Cider - Blended With Lambic",
+    "brewery": "Oud Beersel",
+    "beer_type": "Cider - Dry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T11:47:43+00:00",
+    "serving": "can",
+    "rating": 3.25,
+    "beer_name": "Dekada Witbier z Calamansi",
+    "brewery": "Maryensztadt",
+    "beer_type": "Wheat Beer - Fruited"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T11:47:17+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Everyday Life",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": "Pilsner - Czech / Bohemian"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T11:47:12+00:00",
+    "serving": "Unknown",
+    "rating": 3.6,
+    "beer_name": "Dekada Witbier z Calamansi",
+    "brewery": "Maryensztadt",
+    "beer_type": "Wheat Beer - Fruited"
+  },
+  {
+    "venue": "porter-and-sons",
+    "time": "2025-11-21T11:46:45+00:00",
+    "serving": "draft",
+    "rating": 4.3,
+    "beer_name": "Quetsche Tilquin – Draft Version",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T11:46:34+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "Lõunatomat",
+    "brewery": "Tuletorn Brewing",
+    "beer_type": "Sour - Tomato / Vegetable Gose"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T11:46:32+00:00",
+    "serving": "bottle",
+    "rating": null,
+    "beer_name": "3 Fonteinen Perzik Geel (season 21|22) Blend No. 14",
+    "brewery": "Brouwerij 3 Fonteinen",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T11:46:24+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Cherry Wood Infused Lambic",
+    "brewery": "Oud Beersel",
+    "beer_type": "Lambic - Other"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T11:45:19+00:00",
+    "serving": "Unknown",
+    "rating": 4.5,
+    "beer_name": "Lõunatomat",
+    "brewery": "Tuletorn Brewing",
+    "beer_type": "Sour - Tomato / Vegetable Gose"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T11:45:08+00:00",
+    "serving": "bottle",
+    "rating": 4.25,
+    "beer_name": "Wild Dry Cider - Barbera Grapes",
+    "brewery": "Oud Beersel",
+    "beer_type": "Cider - Other Fruit"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T11:45:00+00:00",
+    "serving": "Unknown",
+    "rating": 4.2,
+    "beer_name": "Roasted Oolong Tea Lambiek - Sparkling Infused",
+    "brewery": "Oud Beersel",
+    "beer_type": "Lambic - Traditional"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T11:44:25+00:00",
+    "serving": "can",
+    "rating": 4.5,
+    "beer_name": "Lõunatomat",
+    "brewery": "Tuletorn Brewing",
+    "beer_type": "Sour - Tomato / Vegetable Gose"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T11:43:45+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Lõunatomat",
+    "brewery": "Tuletorn Brewing",
+    "beer_type": "Sour - Tomato / Vegetable Gose"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T11:42:30+00:00",
+    "serving": "can",
+    "rating": null,
+    "beer_name": "Lõunatomat",
+    "brewery": "Tuletorn Brewing",
+    "beer_type": "Sour - Tomato / Vegetable Gose"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T11:42:05+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "Lõunatomat",
+    "brewery": "Tuletorn Brewing",
+    "beer_type": "Sour - Tomato / Vegetable Gose"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T11:41:07+00:00",
+    "serving": "bottle",
+    "rating": 3.75,
+    "beer_name": "Wild Dry Cider - Blended With Lambic",
+    "brewery": "Oud Beersel",
+    "beer_type": "Cider - Dry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T11:41:03+00:00",
+    "serving": "bottle",
+    "rating": 4.25,
+    "beer_name": "3 Fonteinen Perzik Geel (season 21|22) Blend No. 14",
+    "brewery": "Brouwerij 3 Fonteinen",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T11:40:34+00:00",
+    "serving": "bottle",
+    "rating": 4.25,
+    "beer_name": "Cherry Wood Infused Lambic",
+    "brewery": "Oud Beersel",
+    "beer_type": "Lambic - Other"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T11:39:02+00:00",
+    "serving": "Unknown",
+    "rating": 4.3,
+    "beer_name": "TADAAAA*",
+    "brewery": "One Drop Brewing Co",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T11:37:53+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "Cherry Wood Infused Lambic",
+    "brewery": "Oud Beersel",
+    "beer_type": "Lambic - Other"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T11:37:49+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Cherry Wood Infused Lambic",
+    "brewery": "Oud Beersel",
+    "beer_type": "Lambic - Other"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T11:36:56+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Cherry Wood Infused Lambic",
+    "brewery": "Oud Beersel",
+    "beer_type": "Lambic - Other"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T11:35:28+00:00",
+    "serving": "Unknown",
+    "rating": 4.4,
+    "beer_name": "Rullquin au café d'Éthiopie",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": "Sour - Other"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T11:34:12+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "TADAAAA*",
+    "brewery": "One Drop Brewing Co",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T11:33:50+00:00",
+    "serving": "can",
+    "rating": 4.5,
+    "beer_name": "TADAAAA*",
+    "brewery": "One Drop Brewing Co",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T11:33:25+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "TADAAAA*",
+    "brewery": "One Drop Brewing Co",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T11:29:52+00:00",
+    "serving": "Unknown",
+    "rating": 4.1,
+    "beer_name": "Rullquin au café d'Éthiopie",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": "Sour - Other"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T11:27:34+00:00",
+    "serving": "Unknown",
+    "rating": 4.25,
+    "beer_name": "Sahour",
+    "brewery": "Beerbalach",
+    "beer_type": "Homebrew, Lambic - Gueuze"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T11:27:31+00:00",
+    "serving": "bottle",
+    "rating": 3.7,
+    "beer_name": "Sahour",
+    "brewery": "Beerbalach",
+    "beer_type": "Homebrew, Lambic - Gueuze"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T11:27:24+00:00",
+    "serving": "bottle",
+    "rating": 4.25,
+    "beer_name": "Roasted Oolong Tea Lambiek - Sparkling Infused",
+    "brewery": "Oud Beersel",
+    "beer_type": "Lambic - Traditional"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T11:27:08+00:00",
+    "serving": "bottle",
+    "rating": 3.5,
+    "beer_name": "Sahour",
+    "brewery": "Beerbalach",
+    "beer_type": "Homebrew, Lambic - Gueuze"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T11:27:01+00:00",
+    "serving": "Unknown",
+    "rating": 4.2,
+    "beer_name": "Grapefruit Peel Lambiek - Sparkling Infused",
+    "brewery": "Oud Beersel",
+    "beer_type": "Lambic - Other"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T11:26:52+00:00",
+    "serving": "bottle",
+    "rating": 4.5,
+    "beer_name": "Sahour",
+    "brewery": "Beerbalach",
+    "beer_type": "Homebrew, Lambic - Gueuze"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T11:25:18+00:00",
+    "serving": "bottle",
+    "rating": 3.9,
+    "beer_name": "Wild Dry Cider - Barbera Grapes",
+    "brewery": "Oud Beersel",
+    "beer_type": "Cider - Other Fruit"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T11:25:13+00:00",
+    "serving": "bottle",
+    "rating": 3.75,
+    "beer_name": "Wild Dry Cider - Barbera Grapes",
+    "brewery": "Oud Beersel",
+    "beer_type": "Cider - Other Fruit"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T11:25:01+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Wild Dry Cider - Barbera Grapes",
+    "brewery": "Oud Beersel",
+    "beer_type": "Cider - Other Fruit"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T11:24:13+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "Wild Dry Cider - Barbera Grapes",
+    "brewery": "Oud Beersel",
+    "beer_type": "Cider - Other Fruit"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T11:23:21+00:00",
+    "serving": "bottle",
+    "rating": 4.5,
+    "beer_name": "Oude Gueuze Tilquin à l'Ancienne - Cuvée Renée (2023-2024)",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": "Lambic - Gueuze"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T11:22:59+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Oude Gueuze Tilquin à l'Ancienne - Cuvée Renée (2023-2024)",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": "Lambic - Gueuze"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T11:22:49+00:00",
+    "serving": "bottle",
+    "rating": null,
+    "beer_name": "Wild Dry Cider - Barbera Grapes",
+    "brewery": "Oud Beersel",
+    "beer_type": "Cider - Other Fruit"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T11:22:41+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "Wild Dry Cider - Barbera Grapes",
+    "brewery": "Oud Beersel",
+    "beer_type": "Cider - Other Fruit"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T11:22:39+00:00",
+    "serving": "bottle",
+    "rating": 3.7,
+    "beer_name": "Wild Dry Cider - Barbera Grapes",
+    "brewery": "Oud Beersel",
+    "beer_type": "Cider - Other Fruit"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T11:21:42+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Oude Gueuze Tilquin à l'Ancienne - Cuvée Marguerite (2023-2024)",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": "Lambic - Gueuze"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T11:21:33+00:00",
+    "serving": "bottle",
+    "rating": 4.5,
+    "beer_name": "Oude Gueuze Tilquin à l'Ancienne - Cuvée Renée (2023-2024)",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": "Lambic - Gueuze"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T11:21:08+00:00",
+    "serving": "Unknown",
+    "rating": 4.4,
+    "beer_name": "Oude Gueuze Tilquin à l'Ancienne - Cuvée Renée (2023-2024)",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": "Lambic - Gueuze"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T11:20:53+00:00",
+    "serving": "bottle",
+    "rating": null,
+    "beer_name": "Oude Gueuze Tilquin à l'ancienne - Lambics Vieillis en Fûts de Whisky Tourbé",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": "Lambic - Gueuze"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T11:20:21+00:00",
+    "serving": "bottle",
+    "rating": 3.75,
+    "beer_name": "Peach Baladi",
+    "brewery": "Galileo Brewery",
+    "beer_type": "Homebrew, Sour - Fruited"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T11:20:02+00:00",
+    "serving": "bottle",
+    "rating": null,
+    "beer_name": "Oude Gueuze Tilquin à l'Ancienne - Cuvée Marguerite (2023-2024)",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": "Lambic - Gueuze"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T11:18:44+00:00",
+    "serving": "bottle",
+    "rating": 4.5,
+    "beer_name": "Oude Gueuze Tilquin à l'Ancienne - Cuvée Renée (2023-2024)",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": "Lambic - Gueuze"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T11:17:46+00:00",
+    "serving": "bottle",
+    "rating": 4.0,
+    "beer_name": "Oude Gueuze Tilquin à l'Ancienne - Cuvée Renée (2023-2024)",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": "Lambic - Gueuze"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T11:17:46+00:00",
+    "serving": "bottle",
+    "rating": 4.25,
+    "beer_name": "Oude Gueuze Tilquin à l'Ancienne - Cuvée Renée (2023-2024)",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": "Lambic - Gueuze"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T11:15:44+00:00",
+    "serving": "Unknown",
+    "rating": 4.2,
+    "beer_name": "Oude Gueuze Tilquin à l'Ancienne - Cuvée Marguerite (2023-2024)",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": "Lambic - Gueuze"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T11:15:19+00:00",
+    "serving": "bottle",
+    "rating": 4.25,
+    "beer_name": "Oude Gueuze Tilquin à l'Ancienne - Cuvée Marguerite (2023-2024)",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": "Lambic - Gueuze"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T11:15:15+00:00",
+    "serving": "bottle",
+    "rating": 4.25,
+    "beer_name": "Oude Gueuze Tilquin à l'Ancienne - Cuvée Marguerite (2023-2024)",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": "Lambic - Gueuze"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T11:15:12+00:00",
+    "serving": "bottle",
+    "rating": 4.75,
+    "beer_name": "Peach Baladi",
+    "brewery": "Galileo Brewery",
+    "beer_type": "Homebrew, Sour - Fruited"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T11:14:32+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "TL;DR",
+    "brewery": "Oak & Ash",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T11:12:59+00:00",
+    "serving": "Unknown",
+    "rating": 4.2,
+    "beer_name": "Gueuze Tilquin 40-60",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": "Lambic - Gueuze"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T11:12:37+00:00",
+    "serving": "can",
+    "rating": 4.1,
+    "beer_name": "Oude Gueuze Tilquin à l'Ancienne - Cuvée Marguerite (2023-2024)",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": "Lambic - Gueuze"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T11:11:57+00:00",
+    "serving": "bottle",
+    "rating": 3.75,
+    "beer_name": "Wild Dry Cider - Rhubarb",
+    "brewery": "Oud Beersel",
+    "beer_type": "Cider - Dry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T11:09:58+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Meerjungfrau",
+    "brewery": "Rügener Insel-Brauerei",
+    "beer_type": "Sour - Other"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T11:08:47+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Gueuze Tilquin 40-60",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": "Lambic - Gueuze"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T11:08:45+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Meerjungfrau",
+    "brewery": "Rügener Insel-Brauerei",
+    "beer_type": "Sour - Other"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T11:08:18+00:00",
+    "serving": "can",
+    "rating": 4.2,
+    "beer_name": "Pretty - Orange, Calamansi, Mango & Vanilla",
+    "brewery": "Magic Road",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T11:07:45+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Grapefruit Peel Lambiek - Sparkling Infused",
+    "brewery": "Oud Beersel",
+    "beer_type": "Lambic - Other"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T11:07:21+00:00",
+    "serving": "can",
+    "rating": 3.7,
+    "beer_name": "Pretty - Orange, Calamansi, Mango & Vanilla",
+    "brewery": "Magic Road",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T11:07:06+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Roasted Oolong Tea Lambiek - Sparkling Infused",
+    "brewery": "Oud Beersel",
+    "beer_type": "Lambic - Traditional"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T11:06:34+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Pretty - Orange, Calamansi, Mango & Vanilla",
+    "brewery": "Magic Road",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T11:06:07+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Rullquin au café d'Éthiopie",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": "Sour - Other"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T11:04:32+00:00",
+    "serving": "Unknown",
+    "rating": 4.25,
+    "beer_name": "Sureau Rullquin (2021-2022)",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": "Wild Ale - Other"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T11:03:25+00:00",
+    "serving": "bottle",
+    "rating": 4.25,
+    "beer_name": "Wild Dry Cider - Rhubarb",
+    "brewery": "Oud Beersel",
+    "beer_type": "Cider - Dry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T11:03:15+00:00",
+    "serving": "bottle",
+    "rating": 4.0,
+    "beer_name": "Wild Dry Cider - Rhubarb",
+    "brewery": "Oud Beersel",
+    "beer_type": "Cider - Dry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T11:03:04+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "Wild Dry Cider - Rhubarb",
+    "brewery": "Oud Beersel",
+    "beer_type": "Cider - Dry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T11:02:26+00:00",
+    "serving": "bottle",
+    "rating": 4.0,
+    "beer_name": "Wild Dry Cider - Rhubarb",
+    "brewery": "Oud Beersel",
+    "beer_type": "Cider - Dry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T11:02:17+00:00",
+    "serving": "bottle",
+    "rating": 4.0,
+    "beer_name": "Wild Dry Cider - Rhubarb",
+    "brewery": "Oud Beersel",
+    "beer_type": "Cider - Dry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T10:59:56+00:00",
+    "serving": "Unknown",
+    "rating": 4.2,
+    "beer_name": "Roasted Oolong Tea Lambiek - Sparkling Infused",
+    "brewery": "Oud Beersel",
+    "beer_type": "Lambic - Traditional"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T10:59:32+00:00",
+    "serving": "bottle",
+    "rating": 4.25,
+    "beer_name": "Rullquin au café d'Éthiopie",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": "Sour - Other"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T10:59:07+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Rullquin (2019-2020)",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": "Sour - Other"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T10:58:49+00:00",
+    "serving": "bottle",
+    "rating": 4.25,
+    "beer_name": "Rullquin",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": "Sour - Other"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T10:57:48+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Abricot Tilquin - Draft Version",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T10:57:27+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Meerts Tilquin à la Kriek de Schaerbeek",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T10:54:03+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "חלוץ תחת אש",
+    "brewery": "New Pioneer Brewing Co - חלוץ חדש",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T10:51:18+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Grapefruit Peel Lambiek - Sparkling Infused",
+    "brewery": "Oud Beersel",
+    "beer_type": "Lambic - Other"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T10:51:10+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Pink Pepper Infused Lambic",
+    "brewery": "Oud Beersel",
+    "beer_type": "Lambic - Other"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T10:50:58+00:00",
+    "serving": "bottle",
+    "rating": 4.3,
+    "beer_name": "Gueuze Tilquin 40-60",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": "Lambic - Gueuze"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T10:50:49+00:00",
+    "serving": "bottle",
+    "rating": 4.5,
+    "beer_name": "Pink Pepper Infused Lambic",
+    "brewery": "Oud Beersel",
+    "beer_type": "Lambic - Other"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T10:50:07+00:00",
+    "serving": "bottle",
+    "rating": 3.9,
+    "beer_name": "Rullquin au café du Rwanda",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": "Sour - Other"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T10:49:26+00:00",
+    "serving": "bottle",
+    "rating": 3.9,
+    "beer_name": "Grapefruit Peel Lambiek - Sparkling Infused",
+    "brewery": "Oud Beersel",
+    "beer_type": "Lambic - Other"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T10:49:06+00:00",
+    "serving": "bottle",
+    "rating": 3.9,
+    "beer_name": "Rullquin au café d'Éthiopie",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": "Sour - Other"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T10:48:32+00:00",
+    "serving": "bottle",
+    "rating": 4.75,
+    "beer_name": "Rullquin au café d'Éthiopie",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": "Sour - Other"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T10:47:33+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Everyday Life",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": "Pilsner - Czech / Bohemian"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T10:46:23+00:00",
+    "serving": "bottle",
+    "rating": 4.5,
+    "beer_name": "Gueuze Tilquin 40-60",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": "Lambic - Gueuze"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T10:46:11+00:00",
+    "serving": "bottle",
+    "rating": 4.0,
+    "beer_name": "Rullquin (2019-2020)",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": "Sour - Other"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T10:45:01+00:00",
+    "serving": "bottle",
+    "rating": 4.5,
+    "beer_name": "Grapefruit Peel Lambiek - Sparkling Infused",
+    "brewery": "Oud Beersel",
+    "beer_type": "Lambic - Other"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T10:43:36+00:00",
+    "serving": "bottle",
+    "rating": 4.25,
+    "beer_name": "Gueuze Tilquin 40-60",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": "Lambic - Gueuze"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T10:43:27+00:00",
+    "serving": "bottle",
+    "rating": 3.6,
+    "beer_name": "Meerjungfrau",
+    "brewery": "Rügener Insel-Brauerei",
+    "beer_type": "Sour - Other"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T10:43:18+00:00",
+    "serving": "bottle",
+    "rating": 4.75,
+    "beer_name": "Gueuze Tilquin 40-60",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": "Lambic - Gueuze"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T10:42:58+00:00",
+    "serving": "bottle",
+    "rating": 4.25,
+    "beer_name": "Rullquin (2019-2020)",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": "Sour - Other"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T10:41:39+00:00",
+    "serving": "bottle",
+    "rating": 4.5,
+    "beer_name": "Gueuze Tilquin 40-60",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": "Lambic - Gueuze"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T10:41:18+00:00",
+    "serving": "bottle",
+    "rating": 4.0,
+    "beer_name": "Rullquin (2019-2020)",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": "Sour - Other"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T10:41:00+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Grapefruit Peel Lambiek - Sparkling Infused",
+    "brewery": "Oud Beersel",
+    "beer_type": "Lambic - Other"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T10:40:33+00:00",
+    "serving": "bottle",
+    "rating": 3.9,
+    "beer_name": "Grapefruit Peel Lambiek - Sparkling Infused",
+    "brewery": "Oud Beersel",
+    "beer_type": "Lambic - Other"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T10:40:20+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Raspberry Sorbet",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T10:39:10+00:00",
+    "serving": "Unknown",
+    "rating": 4.4,
+    "beer_name": "Grapefruit Peel Lambiek - Sparkling Infused",
+    "brewery": "Oud Beersel",
+    "beer_type": "Lambic - Other"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T10:39:09+00:00",
+    "serving": "bottle",
+    "rating": 4.75,
+    "beer_name": "Rullquin au café du Rwanda",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": "Sour - Other"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T10:36:47+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Grapefruit Peel Lambiek - Sparkling Infused",
+    "brewery": "Oud Beersel",
+    "beer_type": "Lambic - Other"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T10:36:46+00:00",
+    "serving": "bottle",
+    "rating": 4.0,
+    "beer_name": "Grapefruit Peel Lambiek - Sparkling Infused",
+    "brewery": "Oud Beersel",
+    "beer_type": "Lambic - Other"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T10:36:42+00:00",
+    "serving": "bottle",
+    "rating": 4.25,
+    "beer_name": "Grapefruit Peel Lambiek - Sparkling Infused",
+    "brewery": "Oud Beersel",
+    "beer_type": "Lambic - Other"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T10:36:33+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "Oude Gueuze Tilquin à l'ancienne - Lambics Vieillis en Fûts de Whisky",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": "Lambic - Gueuze"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T10:36:26+00:00",
+    "serving": "Unknown",
+    "rating": 4.25,
+    "beer_name": "Pink Pepper Infused Lambic",
+    "brewery": "Oud Beersel",
+    "beer_type": "Lambic - Other"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T10:35:21+00:00",
+    "serving": "bottle",
+    "rating": 4.25,
+    "beer_name": "Grapefruit Peel Lambiek - Sparkling Infused",
+    "brewery": "Oud Beersel",
+    "beer_type": "Lambic - Other"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T10:35:21+00:00",
+    "serving": "bottle",
+    "rating": 4.25,
+    "beer_name": "Rullquin au café du Rwanda",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": "Sour - Other"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T10:34:09+00:00",
+    "serving": "bottle",
+    "rating": 4.5,
+    "beer_name": "Rullquin au café d'Éthiopie",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": "Sour - Other"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T10:33:43+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Rullquin au café du Rwanda",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": "Sour - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-21T10:33:20+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Budweiser Budvar / Czechvar Original",
+    "brewery": "Budějovický Budvar",
+    "beer_type": "Pilsner - Czech / Bohemian"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-21T10:32:46+00:00",
+    "serving": "bottle",
+    "rating": 4.75,
+    "beer_name": "Gueuze Tilquin 60-40",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": "Lambic - Gueuze"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-21T10:31:34+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Vedett Extra Pilsner",
+    "brewery": "Duvel Moortgat",
+    "beer_type": "Pilsner - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-21T10:30:35+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Coresh כורש",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Smoked Beer"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-21T09:44:55+00:00",
+    "serving": "bottle",
+    "rating": 3.5,
+    "beer_name": "חוצה ישראל",
+    "brewery": "New Pioneer Brewing Co - חלוץ חדש",
+    "beer_type": "Wheat Beer - Other"
+  },
   {
     "venue": "lauter",
     "time": "2025-11-20T21:40:43+00:00",
@@ -11401,7 +14020,7 @@ const BEER_DATA = [
     "venue": "lauter",
     "time": "2025-10-26T18:36:28+00:00",
     "serving": "can",
-    "rating": 3.75,
+    "rating": 3.25,
     "beer_name": "Darkness My Friends Imperial Baltic Porter Coffee & Date Syrup",
     "brewery": "Maryensztadt",
     "beer_type": "Porter - Baltic"
@@ -11410,7 +14029,7 @@ const BEER_DATA = [
     "venue": "lauter",
     "time": "2025-10-26T18:36:28+00:00",
     "serving": "can",
-    "rating": 3.25,
+    "rating": 3.75,
     "beer_name": "Darkness My Friends Imperial Baltic Porter Coffee & Date Syrup",
     "brewery": "Maryensztadt",
     "beer_type": "Porter - Baltic"
@@ -55428,20 +58047,20 @@ const BEER_DATA = [
   {
     "venue": "lauter",
     "time": "2025-07-26T15:22:08+00:00",
-    "serving": "can",
-    "rating": 4.2,
-    "beer_name": "Smoothie Bowl: Pistachio Fluff",
-    "brewery": "Nepo Brewing",
-    "beer_type": "Sour - Smoothie / Pastry"
-  },
-  {
-    "venue": "lauter",
-    "time": "2025-07-26T15:22:08+00:00",
     "serving": "Unknown",
     "rating": 4.0,
     "beer_name": "Pijże",
     "brewery": "Nepo Brewing",
     "beer_type": "Pale Ale - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-07-26T15:22:08+00:00",
+    "serving": "can",
+    "rating": 4.2,
+    "beer_name": "Smoothie Bowl: Pistachio Fluff",
+    "brewery": "Nepo Brewing",
+    "beer_type": "Sour - Smoothie / Pastry"
   },
   {
     "venue": "lauter",

@@ -1,4 +1,295 @@
 venue,user,time,serving,data_rating,beer_name,brewery,beer_type
+b7-beer-house,Yaniv Alal,"Sat, 22 Nov 2025 06:35:28 +0000",can,4.0,Lõunatomat,Tuletorn Brewing,Sour - Tomato / Vegetable Gose
+lauter,Omri Gill,"Fri, 21 Nov 2025 19:59:25 +0000",draft,4.0,2 קומפוט נעליים,קישקשתא (Kishkashta),Farmhouse Ale - Saison
+lauter,amit_zohar,"Fri, 21 Nov 2025 19:52:30 +0000",can,3.0,ער.ה? 2025,Schnitt Brewing Company﻿,Stout - White / Golden
+lauter,amit_zohar,"Fri, 21 Nov 2025 19:48:17 +0000",draft,2.25,קץ הדעת,נעמה סורקין,Cider - Dry
+lauter,amit_zohar,"Fri, 21 Nov 2025 19:46:47 +0000",draft,3.75,Abt 12,Brouwerij St.Bernardus,Belgian Quadrupel
+porter-and-sons,Shmupi Koto,"Fri, 21 Nov 2025 19:38:28 +0000",draft,4.6,Kriek 2025 - Draft Version,Brasserie Cantillon,Lambic - Kriek
+b7-beer-house,Yotam Bar-natan,"Fri, 21 Nov 2025 18:25:55 +0000",bottle,4.1,Roasted Oolong Tea Lambiek - Sparkling Infused,Oud Beersel,Lambic - Traditional
+b7-beer-house,Yotam Bar-natan,"Fri, 21 Nov 2025 18:25:25 +0000",bottle,3.6,Meerjungfrau,Rügener Insel-Brauerei,Sour - Other
+b7-beer-house,Yotam Bar-natan,"Fri, 21 Nov 2025 18:25:03 +0000",can,3.8,"Pretty - Orange, Calamansi, Mango & Vanilla",Magic Road,Sour - Smoothie / Pastry
+b7-beer-house,Yotam Bar-natan,"Fri, 21 Nov 2025 18:24:33 +0000",bottle,3.9,Sahour,Beerbalach,"Homebrew, Lambic - Gueuze"
+b7-beer-house,Yotam Bar-natan,"Fri, 21 Nov 2025 18:24:09 +0000",can,4.6,TADAAAA*,One Drop Brewing Co,Sour - Smoothie / Pastry
+b7-beer-house,Yotam Bar-natan,"Fri, 21 Nov 2025 18:23:39 +0000",can,3.8,Lõunatomat,Tuletorn Brewing,Sour - Tomato / Vegetable Gose
+b7-beer-house,Yotam Bar-natan,"Fri, 21 Nov 2025 18:23:12 +0000",can,3.3,Dekada Witbier z Calamansi,Maryensztadt,Wheat Beer - Fruited
+b7-beer-house,Yotam Bar-natan,"Fri, 21 Nov 2025 18:22:53 +0000",can,3.8,FIZY,Fundamental Brewing Co.,Sour - Fruited Berliner Weisse
+b7-beer-house,Yotam Bar-natan,"Fri, 21 Nov 2025 18:22:22 +0000",,3.9,Mebel,Ziemia Obiecana,IPA - Session
+b7-beer-house,Yotam Bar-natan,"Fri, 21 Nov 2025 18:21:56 +0000",bottle,4.0,Six Seven,Beerbalach,"Homebrew, Lambic - Gueuze"
+b7-beer-house,Yotam Bar-natan,"Fri, 21 Nov 2025 18:21:22 +0000",can,3.0,Wannabe,Hophead Brewing,Pilsner - Czech / Bohemian
+b7-beer-house,Yotam Bar-natan,"Fri, 21 Nov 2025 18:20:36 +0000",can,3.6,Honey I'm Drunk,Ravangrad,IPA - Imperial / Double
+b7-beer-house,Yotam Bar-natan,"Fri, 21 Nov 2025 18:20:07 +0000",can,4.2,Everything Everywhere All Peacharine 17,Rodinný pivovar Zichovec,IPA - New England / Hazy
+b7-beer-house,Yotam Bar-natan,"Fri, 21 Nov 2025 18:19:38 +0000",can,3.7,Show Your Independence,Dogma Brewery,IPA - Session
+b7-beer-house,Yotam Bar-natan,"Fri, 21 Nov 2025 18:19:01 +0000",can,3.4,Siesta,Hophead Brewing,Porter - Other
+b7-beer-house,Yotam Bar-natan,"Fri, 21 Nov 2025 18:18:20 +0000",can,3.7,API YZAH,Stigbergets Bryggeri,IPA - New England / Hazy
+b7-beer-house,Yotam Bar-natan,"Fri, 21 Nov 2025 18:17:18 +0000",bottle,4.1,Oude Gueuze Tilquin à l'ancienne - Lambics Vieillis en Fûts de Whisky Tourbé,Gueuzerie Tilquin,Lambic - Gueuze
+b7-beer-house,Yotam Bar-natan,"Fri, 21 Nov 2025 18:16:52 +0000",,3.9,Rabarberlambiek,Oud Beersel,Lambic - Other
+b7-beer-house,Yotam Bar-natan,"Fri, 21 Nov 2025 18:16:32 +0000",bottle,4.0,Rullquin (2019-2020),Gueuzerie Tilquin,Sour - Other
+b7-beer-house,Yotam Bar-natan,"Fri, 21 Nov 2025 18:16:10 +0000",bottle,3.9,Grapefruit Peel Lambiek - Sparkling Infused,Oud Beersel,Lambic - Other
+b7-beer-house,Yotam Bar-natan,"Fri, 21 Nov 2025 18:15:40 +0000",bottle,4.3,Wild Dry Cider - Barbera Grapes,Oud Beersel,Cider - Other Fruit
+b7-beer-house,Yotam Bar-natan,"Fri, 21 Nov 2025 18:15:21 +0000",bottle,4.4,Gueuze Tilquin 40-60,Gueuzerie Tilquin,Lambic - Gueuze
+b7-beer-house,Yotam Bar-natan,"Fri, 21 Nov 2025 18:14:40 +0000",bottle,4.5,Wild Dry Cider - Rhubarb,Oud Beersel,Cider - Dry
+b7-beer-house,Yotam Bar-natan,"Fri, 21 Nov 2025 18:14:15 +0000",bottle,4.1,Oude Gueuze Tilquin à l'Ancienne - Cuvée Renée (2023-2024),Gueuzerie Tilquin,Lambic - Gueuze
+b7-beer-house,Yotam Bar-natan,"Fri, 21 Nov 2025 18:13:49 +0000",bottle,4.0,Rullquin au café du Rwanda,Gueuzerie Tilquin,Sour - Other
+b7-beer-house,Yotam Bar-natan,"Fri, 21 Nov 2025 18:13:15 +0000",bottle,4.3,Rullquin au café d'Éthiopie,Gueuzerie Tilquin,Sour - Other
+b7-beer-house,Yotam Bar-natan,"Fri, 21 Nov 2025 18:12:27 +0000",bottle,4.4,Oude Gueuze Tilquin à l'ancienne - Lambics Vieillis en Fûts de Whisky,Gueuzerie Tilquin,Lambic - Gueuze
+b7-beer-house,Yotam Bar-natan,"Fri, 21 Nov 2025 18:11:59 +0000",bottle,3.8,Oolong Roasted Tea Lambic Infused,Oud Beersel,Lambic - Traditional
+b7-beer-house,Yotam Bar-natan,"Fri, 21 Nov 2025 18:11:30 +0000",bottle,4.7,Sweet Osmanthus Infused Lambic,Oud Beersel,Lambic - Other
+b7-beer-house,Yotam Bar-natan,"Fri, 21 Nov 2025 18:10:04 +0000",bottle,4.0,Pipes and Barrels,Oud Beersel,Sour - Other
+b7-beer-house,Yotam Bar-natan,"Fri, 21 Nov 2025 18:09:14 +0000",bottle,4.2,Biet (2023 - Bottle),Boerenerf,Lambic - Other
+b7-beer-house,Yotam Bar-natan,"Fri, 21 Nov 2025 18:08:46 +0000",,3.9,Bzart Ciderlambiek Millésime 2023,Oud Beersel,Lambic - Other
+b7-beer-house,Yotam Bar-natan,"Fri, 21 Nov 2025 18:08:12 +0000",bottle,4.0,Gueuze Tilquin 60-40,Gueuzerie Tilquin,Lambic - Gueuze
+b7-beer-house,Yotam Bar-natan,"Fri, 21 Nov 2025 18:07:19 +0000",,4.2,Pink Pepper Infused Lambic,Oud Beersel,Lambic - Other
+b7-beer-house,Yotam Bar-natan,"Fri, 21 Nov 2025 18:06:05 +0000",,4.0,Bee Pollen Infused Lambic,Oud Beersel,Lambic - Other
+lauter,Vasa,"Fri, 21 Nov 2025 17:59:00 +0000",draft,2.75,Coresh כורש,Schnitt Brewing Company﻿,Smoked Beer
+lauter,Danny Ganelin,"Fri, 21 Nov 2025 17:24:07 +0000",bottle,3.75,Night Shift Vintage 2024 - Triticale Wine Aged In Gemenc Whiskey & Tennessee Whiskey Barrels,HORIZONT Brewing,Specialty Grain
+lauter,Vasa,"Fri, 21 Nov 2025 17:21:00 +0000",draft,3.25,"Same Schnitt, Different Hop: Amarillo",Schnitt Brewing Company﻿,Pale Ale - Other
+schnitt-brewing-company,levlev444,"Fri, 21 Nov 2025 17:00:39 +0000",,3.0,Coresh כורש,Schnitt Brewing Company﻿,Smoked Beer
+lauter,Aviad Attia,"Fri, 21 Nov 2025 16:56:07 +0000",,,Beerjolais (בִּירְז'וֹלֶה),White Rabbit (IL),Pale Ale - Other
+schnitt-brewing-company,levlev444,"Fri, 21 Nov 2025 16:43:09 +0000",draft,3.75,Nightmare Fuel,Schnitt Brewing Company﻿,Porter - American
+lauter,levlev444,"Fri, 21 Nov 2025 16:28:23 +0000",draft,4.0,2 קומפוט נעליים,קישקשתא (Kishkashta),Farmhouse Ale - Saison
+schnitt-brewing-company,Itay shalom Kaplan,"Fri, 21 Nov 2025 15:55:05 +0000",draft,3.5,האימפריה מכה שניט,Schnitt Brewing Company﻿,IPA - American
+schnitt-brewing-company,Aviad Attia,"Fri, 21 Nov 2025 15:54:10 +0000",,,Kardemumma,Schnitt Brewing Company﻿,Pale Ale - Other
+schnitt-brewing-company,Omri Levy,"Fri, 21 Nov 2025 15:49:57 +0000",draft,3.5,New School,Schnitt Brewing Company﻿,IPA - Other
+schnitt-brewing-company,Danny Ganelin,"Fri, 21 Nov 2025 15:49:29 +0000",draft,3.75,Kelly's Green Pony,Schnitt Brewing Company﻿,IPA - New England / Hazy
+lauter,levlev444,"Fri, 21 Nov 2025 15:42:19 +0000",draft,3.5,New York Mocaccino,Mad Scientist,Stout - Milk / Sweet
+beerline,Philip Greenberg,"Fri, 21 Nov 2025 15:40:10 +0000",draft,4.5,Delirium Red,Delirium - Huyghe Brewery,Fruit Beer
+beerline,Olga Aladort,"Fri, 21 Nov 2025 15:39:18 +0000",,,Dragon Fruit X Pear X Banana X Pineapple X Lemon Smoothie Sour Ale,Ārpus Brewing Co.,Sour - Smoothie / Pastry
+beerline,Philip Greenberg,"Fri, 21 Nov 2025 15:38:33 +0000",draft,4.5,Delirium Red,Delirium - Huyghe Brewery,Fruit Beer
+beerline,Olga Aladort,"Fri, 21 Nov 2025 15:38:19 +0000",draft,5.0,Pleroma Karpologi Pineapple Peach Marshmallow Créme Brulée Sour,Omnipollo,Sour - Smoothie / Pastry
+lauter,Nir Langer,"Fri, 21 Nov 2025 15:34:52 +0000",,,Vinobier,Shapiro (שפירא),Wild Ale - Other
+schnitt-brewing-company,Itay shalom Kaplan,"Fri, 21 Nov 2025 15:10:03 +0000",draft,3.5,ער.ה? 2025,Schnitt Brewing Company﻿,Stout - White / Golden
+schnitt-brewing-company,Omri Levy,"Fri, 21 Nov 2025 15:08:42 +0000",draft,3.5,ער.ה? 2025,Schnitt Brewing Company﻿,Stout - White / Golden
+schnitt-brewing-company,levlev444,"Fri, 21 Nov 2025 14:28:16 +0000",draft,3.75,TIPA Mara (2025),Schnitt Brewing Company﻿,IPA - Triple
+schnitt-brewing-company,Sahar Baruch,"Fri, 21 Nov 2025 13:49:41 +0000",draft,2.0,New School,Schnitt Brewing Company﻿,IPA - Other
+b7-beer-house,Ido Meir,"Fri, 21 Nov 2025 13:41:09 +0000",can,4.0,Orange Crush,BrewDog,IPA - Fruited
+schnitt-brewing-company,Noy Marina,"Fri, 21 Nov 2025 13:33:45 +0000",draft,3.5,What the Helles?!,Schnitt Brewing Company﻿,Lager - Helles
+schnitt-brewing-company,Noy Marina,"Fri, 21 Nov 2025 13:33:12 +0000",draft,3.75,Coresh כורש,Schnitt Brewing Company﻿,Smoked Beer
+b7-beer-house,Kobi,"Fri, 21 Nov 2025 13:28:32 +0000",,3.0,Orange Crush,BrewDog,IPA - Fruited
+b7-beer-house,Ido Cohen,"Fri, 21 Nov 2025 13:28:07 +0000",can,3.3,Orange Crush,BrewDog,IPA - Fruited
+b7-beer-house,Kobi,"Fri, 21 Nov 2025 13:27:41 +0000",,3.3,Fruit Burst,BrewDog,Pale Ale - English
+b7-beer-house,Ido Cohen,"Fri, 21 Nov 2025 13:25:59 +0000",can,3.1,Fruit Burst,BrewDog,Pale Ale - English
+schnitt-brewing-company,Sahar Baruch,"Fri, 21 Nov 2025 13:24:07 +0000",draft,4.5,Kelly's Green Pony,Schnitt Brewing Company﻿,IPA - New England / Hazy
+b7-beer-house,Yaniv Alal,"Fri, 21 Nov 2025 13:21:53 +0000",can,4.0,Siesta,Hophead Brewing,Porter - Other
+schnitt-brewing-company,Noy Marina,"Fri, 21 Nov 2025 13:17:35 +0000",draft,4.5,ער.ה? 2025,Schnitt Brewing Company﻿,Stout - White / Golden
+b7-beer-house,barak luzon,"Fri, 21 Nov 2025 13:16:50 +0000",can,3.75,API YZAH,Stigbergets Bryggeri,IPA - New England / Hazy
+b7-beer-house,Ido Meir,"Fri, 21 Nov 2025 13:15:25 +0000",can,4.0,API YZAH,Stigbergets Bryggeri,IPA - New England / Hazy
+b7-beer-house,Ido Meir,"Fri, 21 Nov 2025 13:14:10 +0000",,4.5,Peach Baladi,Galileo Brewery,"Homebrew, Sour - Fruited"
+b7-beer-house,Danny Ganelin,"Fri, 21 Nov 2025 13:11:35 +0000",,3.75,API YZAH,Stigbergets Bryggeri,IPA - New England / Hazy
+b7-beer-house,Kobi,"Fri, 21 Nov 2025 13:11:33 +0000",,,Peach Baladi,Galileo Brewery,"Homebrew, Sour - Fruited"
+b7-beer-house,Tom Lahav,"Fri, 21 Nov 2025 13:11:28 +0000",can,3.5,API YZAH,Stigbergets Bryggeri,IPA - New England / Hazy
+b7-beer-house,Ido Cohen,"Fri, 21 Nov 2025 13:11:26 +0000",can,3.6,API YZAH,Stigbergets Bryggeri,IPA - New England / Hazy
+b7-beer-house,Kobi,"Fri, 21 Nov 2025 13:11:04 +0000",,3.5,API YZAH,Stigbergets Bryggeri,IPA - New England / Hazy
+b7-beer-house,Ido Meir,"Fri, 21 Nov 2025 13:10:58 +0000",,4.0,Rabarberlambiek,Oud Beersel,Lambic - Other
+b7-beer-house,Danny Ganelin,"Fri, 21 Nov 2025 13:10:10 +0000",,3.75,Peach Baladi,Galileo Brewery,"Homebrew, Sour - Fruited"
+schnitt-brewing-company,Noy Marina,"Fri, 21 Nov 2025 13:09:53 +0000",draft,4.0,TIPA Mara (2025),Schnitt Brewing Company﻿,IPA - Triple
+b7-beer-house,barak luzon,"Fri, 21 Nov 2025 13:09:11 +0000",bottle,4.25,Peach Baladi,Galileo Brewery,"Homebrew, Sour - Fruited"
+b7-beer-house,barak luzon,"Fri, 21 Nov 2025 13:04:26 +0000",,4.25,Kriekenlambiek,Oud Beersel,Lambic - Kriek
+b7-beer-house,Ido Meir,"Fri, 21 Nov 2025 13:02:31 +0000",can,4.25,Siesta,Hophead Brewing,Porter - Other
+b7-beer-house,Danny Ganelin,"Fri, 21 Nov 2025 13:00:25 +0000",,3.75,Siesta,Hophead Brewing,Porter - Other
+schnitt-brewing-company,Noy Marina,"Fri, 21 Nov 2025 12:59:46 +0000",,4.25,Kelly's Green Pony,Schnitt Brewing Company﻿,IPA - New England / Hazy
+b7-beer-house,Tom Lahav,"Fri, 21 Nov 2025 12:58:12 +0000",can,3.5,Siesta,Hophead Brewing,Porter - Other
+b7-beer-house,barak luzon,"Fri, 21 Nov 2025 12:58:05 +0000",bottle,3.75,חלוץ תחת אש,New Pioneer Brewing Co - חלוץ חדש,Sour - Fruited
+b7-beer-house,barak luzon,"Fri, 21 Nov 2025 12:57:51 +0000",can,3.5,Siesta,Hophead Brewing,Porter - Other
+b7-beer-house,Ido Cohen,"Fri, 21 Nov 2025 12:57:34 +0000",can,3.7,Siesta,Hophead Brewing,Porter - Other
+b7-beer-house,Kobi,"Fri, 21 Nov 2025 12:56:41 +0000",,3.5,Siesta,Hophead Brewing,Porter - Other
+b7-beer-house,Ido Meir,"Fri, 21 Nov 2025 12:55:26 +0000",bottle,4.5,Perzik,Brouwerij 3 Fonteinen,Lambic - Fruit
+b7-beer-house,Ido Cohen,"Fri, 21 Nov 2025 12:54:13 +0000",can,4.1,"Yummy Blackcurrant, Prunes & Tonka",Sibeeria Brewery,Sour - Smoothie / Pastry
+b7-beer-house,Ido Meir,"Fri, 21 Nov 2025 12:53:52 +0000",can,4.0,Show Your Independence,Dogma Brewery,IPA - Session
+b7-beer-house,Yaniv Alal,"Fri, 21 Nov 2025 12:47:42 +0000",bottle,4.5,Oude Gueuze Tilquin à l'Ancienne (2020-2021),Gueuzerie Tilquin,Lambic - Gueuze
+b7-beer-house,Tom Lahav,"Fri, 21 Nov 2025 12:47:14 +0000",bottle,4.0,חלוץ תחת אש,New Pioneer Brewing Co - חלוץ חדש,Sour - Fruited
+b7-beer-house,Kobi,"Fri, 21 Nov 2025 12:47:01 +0000",,,חלוץ תחת אש,New Pioneer Brewing Co - חלוץ חדש,Sour - Fruited
+b7-beer-house,barak luzon,"Fri, 21 Nov 2025 12:46:45 +0000",can,3.5,Show Your Independence,Dogma Brewery,IPA - Session
+b7-beer-house,Ido Cohen,"Fri, 21 Nov 2025 12:46:33 +0000",bottle,3.6,חלוץ תחת אש,New Pioneer Brewing Co - חלוץ חדש,Sour - Fruited
+b7-beer-house,Ido Cohen,"Fri, 21 Nov 2025 12:44:21 +0000",can,3.4,Show Your Independence,Dogma Brewery,IPA - Session
+b7-beer-house,Tom Lahav,"Fri, 21 Nov 2025 12:43:47 +0000",can,3.5,Show Your Independence,Dogma Brewery,IPA - Session
+b7-beer-house,barak luzon,"Fri, 21 Nov 2025 12:42:42 +0000",can,4.5,Everything Everywhere All Peacharine 17,Rodinný pivovar Zichovec,IPA - New England / Hazy
+b7-beer-house,Ido Meir,"Fri, 21 Nov 2025 12:40:29 +0000",can,4.0,Honey I'm Drunk,Ravangrad,IPA - Imperial / Double
+b7-beer-house,Ido Meir,"Fri, 21 Nov 2025 12:37:37 +0000",can,3.75,Wannabe,Hophead Brewing,Pilsner - Czech / Bohemian
+b7-beer-house,Kobi,"Fri, 21 Nov 2025 12:36:57 +0000",,4.0,Everything Everywhere All Peacharine 17,Rodinný pivovar Zichovec,IPA - New England / Hazy
+b7-beer-house,Eylon,"Fri, 21 Nov 2025 12:35:22 +0000",can,4.25,Everything Everywhere All Peacharine 17,Rodinný pivovar Zichovec,IPA - New England / Hazy
+b7-beer-house,Danny Ganelin,"Fri, 21 Nov 2025 12:34:38 +0000",can,4.0,Everything Everywhere All Peacharine 17,Rodinný pivovar Zichovec,IPA - New England / Hazy
+b7-beer-house,Ido Cohen,"Fri, 21 Nov 2025 12:34:29 +0000",can,4.2,Everything Everywhere All Peacharine 17,Rodinný pivovar Zichovec,IPA - New England / Hazy
+b7-beer-house,Ido Meir,"Fri, 21 Nov 2025 12:34:03 +0000",can,4.25,Everything Everywhere All Peacharine 17,Rodinný pivovar Zichovec,IPA - New England / Hazy
+b7-beer-house,Tom Lahav,"Fri, 21 Nov 2025 12:33:59 +0000",can,4.25,Everything Everywhere All Peacharine 17,Rodinný pivovar Zichovec,IPA - New England / Hazy
+b7-beer-house,Ido Cohen,"Fri, 21 Nov 2025 12:33:34 +0000",draft,3.5,TL;DR,Oak & Ash,IPA - New England / Hazy
+b7-beer-house,Yaniv Alal,"Fri, 21 Nov 2025 12:31:05 +0000",bottle,4.25,Rabarberlambiek,Oud Beersel,Lambic - Other
+b7-beer-house,Yaniv Alal,"Fri, 21 Nov 2025 12:29:12 +0000",can,3.75,Honey I'm Drunk,Ravangrad,IPA - Imperial / Double
+b7-beer-house,אהרן פרנס,"Fri, 21 Nov 2025 12:29:05 +0000",,4.5,Oude Gueuze Tilquin à l'Ancienne (2020-2021),Gueuzerie Tilquin,Lambic - Gueuze
+b7-beer-house,Israel Shenkman,"Fri, 21 Nov 2025 12:28:50 +0000",,4.0,Pink Pepper Infused Lambic,Oud Beersel,Lambic - Other
+b7-beer-house,barak luzon,"Fri, 21 Nov 2025 12:28:46 +0000",can,3.5,Honey I'm Drunk,Ravangrad,IPA - Imperial / Double
+b7-beer-house,Kobi,"Fri, 21 Nov 2025 12:27:53 +0000",,4.4,Oude Gueuze Tilquin à l'Ancienne (2020-2021),Gueuzerie Tilquin,Lambic - Gueuze
+b7-beer-house,Israel Shenkman,"Fri, 21 Nov 2025 12:27:52 +0000",can,4.0,Mebel,Ziemia Obiecana,IPA - Session
+b7-beer-house,Ido Meir,"Fri, 21 Nov 2025 12:26:18 +0000",can,4.0,Dekada Witbier z Calamansi,Maryensztadt,Wheat Beer - Fruited
+b7-beer-house,Eylon,"Fri, 21 Nov 2025 12:25:07 +0000",bottle,4.0,Oude Gueuze Tilquin à l'Ancienne (2020-2021),Gueuzerie Tilquin,Lambic - Gueuze
+b7-beer-house,Ido Cohen,"Fri, 21 Nov 2025 12:24:25 +0000",bottle,3.4,Honey I'm Drunk,Ravangrad,IPA - Imperial / Double
+b7-beer-house,Kobi,"Fri, 21 Nov 2025 12:24:15 +0000",,3.3,Honey I'm Drunk,Ravangrad,IPA - Imperial / Double
+lauter,Lee Ker,"Fri, 21 Nov 2025 12:24:14 +0000",,,Budweiser Budvar B:DARK / Czechvar B:DARK,Budějovický Budvar,Lager - Tmavé (Czech Dark)
+b7-beer-house,Ido Cohen,"Fri, 21 Nov 2025 12:23:45 +0000",,4.3,Oude Gueuze Tilquin à l'Ancienne (2020-2021),Gueuzerie Tilquin,Lambic - Gueuze
+b7-beer-house,Eylon,"Fri, 21 Nov 2025 12:23:12 +0000",can,3.25,Honey I'm Drunk,Ravangrad,IPA - Imperial / Double
+lauter,Lee Ker,"Fri, 21 Nov 2025 12:21:47 +0000",,,Farm Mama,Shevet (שבט),Wheat Beer - Witbier / Blanche
+b7-beer-house,Tom Lahav,"Fri, 21 Nov 2025 12:20:59 +0000",can,3.25,Honey I'm Drunk,Ravangrad,IPA - Imperial / Double
+lauter,Lee Ker,"Fri, 21 Nov 2025 12:20:35 +0000",,,Duvel,Duvel Moortgat,Belgian Strong Golden Ale
+b7-beer-house,Danny Ganelin,"Fri, 21 Nov 2025 12:20:31 +0000",,3.5,Honey I'm Drunk,Ravangrad,IPA - Imperial / Double
+lauter,Lee Ker,"Fri, 21 Nov 2025 12:20:02 +0000",,,Ronen HaKeha HaMerusha'at Dark Ale (הבירה הכהה המרושעת),Srigim (שריגים),Brown Ale - American
+b7-beer-house,Eylon,"Fri, 21 Nov 2025 12:19:36 +0000",bottle,4.0,Wild Dry Cider - Blended With Lambic,Oud Beersel,Cider - Dry
+b7-beer-house,Danny Ganelin,"Fri, 21 Nov 2025 12:18:14 +0000",can,3.25,Wannabe,Hophead Brewing,Pilsner - Czech / Bohemian
+b7-beer-house,Kobi,"Fri, 21 Nov 2025 12:17:38 +0000",,,Wannabe,Hophead Brewing,Pilsner - Czech / Bohemian
+b7-beer-house,Eylon,"Fri, 21 Nov 2025 12:16:41 +0000",can,3.0,Wannabe,Hophead Brewing,Pilsner - Czech / Bohemian
+b7-beer-house,Ido Cohen,"Fri, 21 Nov 2025 12:16:17 +0000",can,3.4,Wannabe,Hophead Brewing,Pilsner - Czech / Bohemian
+b7-beer-house,Tom Lahav,"Fri, 21 Nov 2025 12:15:47 +0000",can,3.25,Wannabe,Hophead Brewing,Pilsner - Czech / Bohemian
+b7-beer-house,Shmupi Koto,"Fri, 21 Nov 2025 12:15:09 +0000",,,Six Seven,Beerbalach,"Homebrew, Lambic - Gueuze"
+b7-beer-house,Kobi,"Fri, 21 Nov 2025 12:12:45 +0000",,4.0,Bzart Lambiek Millésime 2018,Oud Beersel,Lambic - Traditional
+b7-beer-house,Yaniv Alal,"Fri, 21 Nov 2025 12:09:40 +0000",bottle,4.25,Six Seven,Beerbalach,"Homebrew, Lambic - Gueuze"
+b7-beer-house,Tom Lahav,"Fri, 21 Nov 2025 12:09:01 +0000",bottle,3.5,Six Seven,Beerbalach,"Homebrew, Lambic - Gueuze"
+b7-beer-house,barak luzon,"Fri, 21 Nov 2025 12:08:45 +0000",,4.0,FIZY,Fundamental Brewing Co.,Sour - Fruited Berliner Weisse
+b7-beer-house,Yaniv Alal,"Fri, 21 Nov 2025 12:08:02 +0000",bottle,4.0,Wild Dry Cider - Blended With Lambic,Oud Beersel,Cider - Dry
+b7-beer-house,barak luzon,"Fri, 21 Nov 2025 12:08:02 +0000",bottle,4.25,Bzart Lambiek Millésime 2018,Oud Beersel,Lambic - Traditional
+b7-beer-house,Tom Lahav,"Fri, 21 Nov 2025 12:07:23 +0000",,3.75,Bzart Lambiek Millésime 2018,Oud Beersel,Lambic - Traditional
+b7-beer-house,Ido Cohen,"Fri, 21 Nov 2025 12:06:42 +0000",bottle,4.1,Bzart Lambiek Millésime 2018,Oud Beersel,Lambic - Traditional
+b7-beer-house,Eylon,"Fri, 21 Nov 2025 12:05:29 +0000",can,3.75,Mebel,Ziemia Obiecana,IPA - Session
+b7-beer-house,Shmupi Koto,"Fri, 21 Nov 2025 12:04:32 +0000",,4.0,Rabarberlambiek,Oud Beersel,Lambic - Other
+b7-beer-house,Ido Cohen,"Fri, 21 Nov 2025 12:04:20 +0000",can,3.9,Six Seven,Beerbalach,"Homebrew, Lambic - Gueuze"
+b7-beer-house,Shmupi Koto,"Fri, 21 Nov 2025 12:03:45 +0000",bottle,4.4,Rullquin au café d'Éthiopie,Gueuzerie Tilquin,Sour - Other
+b7-beer-house,Yaniv Alal,"Fri, 21 Nov 2025 12:01:59 +0000",can,4.0,Mebel,Ziemia Obiecana,IPA - Session
+b7-beer-house,Danny Ganelin,"Fri, 21 Nov 2025 12:01:17 +0000",draft,3.5,TL;DR,Oak & Ash,IPA - New England / Hazy
+b7-beer-house,Eylon,"Fri, 21 Nov 2025 12:00:53 +0000",bottle,4.25,Pink Pepper Infused Lambic,Oud Beersel,Lambic - Other
+b7-beer-house,Tom Lahav,"Fri, 21 Nov 2025 11:58:29 +0000",can,3.75,Mebel,Ziemia Obiecana,IPA - Session
+b7-beer-house,Ido Meir,"Fri, 21 Nov 2025 11:58:18 +0000",can,4.25,FIZY,Fundamental Brewing Co.,Sour - Fruited Berliner Weisse
+b7-beer-house,barak luzon,"Fri, 21 Nov 2025 11:58:12 +0000",,4.0,Rabarberlambiek,Oud Beersel,Lambic - Other
+b7-beer-house,Ido Cohen,"Fri, 21 Nov 2025 11:57:28 +0000",,3.9,Mebel,Ziemia Obiecana,IPA - Session
+b7-beer-house,barak luzon,"Fri, 21 Nov 2025 11:57:20 +0000",can,4.25,Mebel,Ziemia Obiecana,IPA - Session
+b7-beer-house,Ido Cohen,"Fri, 21 Nov 2025 11:53:46 +0000",,3.8,Rabarberlambiek,Oud Beersel,Lambic - Other
+b7-beer-house,Stas Pruchansky,"Fri, 21 Nov 2025 11:53:45 +0000",,4.1,FIZY,Fundamental Brewing Co.,Sour - Fruited Berliner Weisse
+b7-beer-house,Tom Lahav,"Fri, 21 Nov 2025 11:53:28 +0000",,3.75,Rabarberlambiek,Oud Beersel,Lambic - Other
+b7-beer-house,Kobi,"Fri, 21 Nov 2025 11:53:27 +0000",,4.1,Mebel,Ziemia Obiecana,IPA - Session
+b7-beer-house,Eylon,"Fri, 21 Nov 2025 11:52:22 +0000",can,3.0,Dekada Witbier z Calamansi,Maryensztadt,Wheat Beer - Fruited
+b7-beer-house,Ido Cohen,"Fri, 21 Nov 2025 11:51:59 +0000",can,3.6,FIZY,Fundamental Brewing Co.,Sour - Fruited Berliner Weisse
+b7-beer-house,Israel Shenkman,"Fri, 21 Nov 2025 11:51:29 +0000",can,4.5,TADAAAA*,One Drop Brewing Co,Sour - Smoothie / Pastry
+b7-beer-house,Yaniv Alal,"Fri, 21 Nov 2025 11:51:19 +0000",,4.5,Perzik,Brouwerij 3 Fonteinen,Lambic - Fruit
+b7-beer-house,Eylon,"Fri, 21 Nov 2025 11:51:15 +0000",,4.0,FIZY,Fundamental Brewing Co.,Sour - Fruited Berliner Weisse
+b7-beer-house,אהרן פרנס,"Fri, 21 Nov 2025 11:51:04 +0000",,4.0,3 Fonteinen Perzik Geel (season 21|22) Blend No. 14,Brouwerij 3 Fonteinen,Lambic - Fruit
+b7-beer-house,Shmupi Koto,"Fri, 21 Nov 2025 11:50:23 +0000",bottle,3.8,Wild Dry Cider - Blended With Lambic,Oud Beersel,Cider - Dry
+b7-beer-house,Tom Lahav,"Fri, 21 Nov 2025 11:50:07 +0000",can,3.75,FIZY,Fundamental Brewing Co.,Sour - Fruited Berliner Weisse
+b7-beer-house,Shmupi Koto,"Fri, 21 Nov 2025 11:49:46 +0000",can,4.1,Lõunatomat,Tuletorn Brewing,Sour - Tomato / Vegetable Gose
+b7-beer-house,Israel Shenkman,"Fri, 21 Nov 2025 11:48:08 +0000",can,3.5,Dekada Witbier z Calamansi,Maryensztadt,Wheat Beer - Fruited
+b7-beer-house,Stas Pruchansky,"Fri, 21 Nov 2025 11:47:48 +0000",can,4.2,Wild Dry Cider - Blended With Lambic,Oud Beersel,Cider - Dry
+b7-beer-house,Tom Lahav,"Fri, 21 Nov 2025 11:47:43 +0000",can,3.25,Dekada Witbier z Calamansi,Maryensztadt,Wheat Beer - Fruited
+b7-beer-house,barak luzon,"Fri, 21 Nov 2025 11:47:17 +0000",draft,3.75,Everyday Life,Sibeeria Brewery,Pilsner - Czech / Bohemian
+b7-beer-house,Ido Cohen,"Fri, 21 Nov 2025 11:47:12 +0000",,3.6,Dekada Witbier z Calamansi,Maryensztadt,Wheat Beer - Fruited
+porter-and-sons,Sagi Amit,"Fri, 21 Nov 2025 11:46:45 +0000",draft,4.3,Quetsche Tilquin – Draft Version,Gueuzerie Tilquin,Lambic - Fruit
+b7-beer-house,Danny Ganelin,"Fri, 21 Nov 2025 11:46:34 +0000",,3.75,Lõunatomat,Tuletorn Brewing,Sour - Tomato / Vegetable Gose
+b7-beer-house,Amit Ran,"Fri, 21 Nov 2025 11:46:32 +0000",bottle,,3 Fonteinen Perzik Geel (season 21|22) Blend No. 14,Brouwerij 3 Fonteinen,Lambic - Fruit
+b7-beer-house,barak luzon,"Fri, 21 Nov 2025 11:46:24 +0000",,4.0,Cherry Wood Infused Lambic,Oud Beersel,Lambic - Other
+b7-beer-house,Kobi,"Fri, 21 Nov 2025 11:45:19 +0000",,4.5,Lõunatomat,Tuletorn Brewing,Sour - Tomato / Vegetable Gose
+b7-beer-house,Yaniv Alal,"Fri, 21 Nov 2025 11:45:08 +0000",bottle,4.25,Wild Dry Cider - Barbera Grapes,Oud Beersel,Cider - Other Fruit
+b7-beer-house,Kobi,"Fri, 21 Nov 2025 11:45:00 +0000",,4.2,Roasted Oolong Tea Lambiek - Sparkling Infused,Oud Beersel,Lambic - Traditional
+b7-beer-house,Israel Shenkman,"Fri, 21 Nov 2025 11:44:25 +0000",can,4.5,Lõunatomat,Tuletorn Brewing,Sour - Tomato / Vegetable Gose
+b7-beer-house,Eylon,"Fri, 21 Nov 2025 11:43:45 +0000",can,4.0,Lõunatomat,Tuletorn Brewing,Sour - Tomato / Vegetable Gose
+b7-beer-house,Ido Cohen,"Fri, 21 Nov 2025 11:42:30 +0000",can,,Lõunatomat,Tuletorn Brewing,Sour - Tomato / Vegetable Gose
+b7-beer-house,Tom Lahav,"Fri, 21 Nov 2025 11:42:05 +0000",can,4.25,Lõunatomat,Tuletorn Brewing,Sour - Tomato / Vegetable Gose
+b7-beer-house,barak luzon,"Fri, 21 Nov 2025 11:41:07 +0000",bottle,3.75,Wild Dry Cider - Blended With Lambic,Oud Beersel,Cider - Dry
+b7-beer-house,Eylon,"Fri, 21 Nov 2025 11:41:03 +0000",bottle,4.25,3 Fonteinen Perzik Geel (season 21|22) Blend No. 14,Brouwerij 3 Fonteinen,Lambic - Fruit
+b7-beer-house,Ido Meir,"Fri, 21 Nov 2025 11:40:34 +0000",bottle,4.25,Cherry Wood Infused Lambic,Oud Beersel,Lambic - Other
+b7-beer-house,Kobi,"Fri, 21 Nov 2025 11:39:02 +0000",,4.3,TADAAAA*,One Drop Brewing Co,Sour - Smoothie / Pastry
+b7-beer-house,אהרן פרנס,"Fri, 21 Nov 2025 11:37:53 +0000",,3.5,Cherry Wood Infused Lambic,Oud Beersel,Lambic - Other
+b7-beer-house,Kobi,"Fri, 21 Nov 2025 11:37:49 +0000",,4.0,Cherry Wood Infused Lambic,Oud Beersel,Lambic - Other
+b7-beer-house,Ido Cohen,"Fri, 21 Nov 2025 11:36:56 +0000",,4.0,Cherry Wood Infused Lambic,Oud Beersel,Lambic - Other
+b7-beer-house,Stas Pruchansky,"Fri, 21 Nov 2025 11:35:28 +0000",,4.4,Rullquin au café d'Éthiopie,Gueuzerie Tilquin,Sour - Other
+b7-beer-house,Tom Lahav,"Fri, 21 Nov 2025 11:34:12 +0000",can,4.25,TADAAAA*,One Drop Brewing Co,Sour - Smoothie / Pastry
+b7-beer-house,barak luzon,"Fri, 21 Nov 2025 11:33:50 +0000",can,4.5,TADAAAA*,One Drop Brewing Co,Sour - Smoothie / Pastry
+b7-beer-house,Ido Cohen,"Fri, 21 Nov 2025 11:33:25 +0000",can,4.0,TADAAAA*,One Drop Brewing Co,Sour - Smoothie / Pastry
+b7-beer-house,Kobi,"Fri, 21 Nov 2025 11:29:52 +0000",,4.1,Rullquin au café d'Éthiopie,Gueuzerie Tilquin,Sour - Other
+b7-beer-house,Assaf Haimmi,"Fri, 21 Nov 2025 11:27:34 +0000",,4.25,Sahour,Beerbalach,"Homebrew, Lambic - Gueuze"
+b7-beer-house,Ido Cohen,"Fri, 21 Nov 2025 11:27:31 +0000",bottle,3.7,Sahour,Beerbalach,"Homebrew, Lambic - Gueuze"
+b7-beer-house,Ido Meir,"Fri, 21 Nov 2025 11:27:24 +0000",bottle,4.25,Roasted Oolong Tea Lambiek - Sparkling Infused,Oud Beersel,Lambic - Traditional
+b7-beer-house,Tom Lahav,"Fri, 21 Nov 2025 11:27:08 +0000",bottle,3.5,Sahour,Beerbalach,"Homebrew, Lambic - Gueuze"
+b7-beer-house,Kobi,"Fri, 21 Nov 2025 11:27:01 +0000",,4.2,Grapefruit Peel Lambiek - Sparkling Infused,Oud Beersel,Lambic - Other
+b7-beer-house,Yaniv Alal,"Fri, 21 Nov 2025 11:26:52 +0000",bottle,4.5,Sahour,Beerbalach,"Homebrew, Lambic - Gueuze"
+b7-beer-house,Shmupi Koto,"Fri, 21 Nov 2025 11:25:18 +0000",bottle,3.9,Wild Dry Cider - Barbera Grapes,Oud Beersel,Cider - Other Fruit
+b7-beer-house,barak luzon,"Fri, 21 Nov 2025 11:25:13 +0000",bottle,3.75,Wild Dry Cider - Barbera Grapes,Oud Beersel,Cider - Other Fruit
+b7-beer-house,Kobi,"Fri, 21 Nov 2025 11:25:01 +0000",,4.0,Wild Dry Cider - Barbera Grapes,Oud Beersel,Cider - Other Fruit
+b7-beer-house,Eylon,"Fri, 21 Nov 2025 11:24:13 +0000",,3.75,Wild Dry Cider - Barbera Grapes,Oud Beersel,Cider - Other Fruit
+b7-beer-house,barak luzon,"Fri, 21 Nov 2025 11:23:21 +0000",bottle,4.5,Oude Gueuze Tilquin à l'Ancienne - Cuvée Renée (2023-2024),Gueuzerie Tilquin,Lambic - Gueuze
+b7-beer-house,Assaf Haimmi,"Fri, 21 Nov 2025 11:22:59 +0000",draft,4.0,Oude Gueuze Tilquin à l'Ancienne - Cuvée Renée (2023-2024),Gueuzerie Tilquin,Lambic - Gueuze
+b7-beer-house,Amit Ran,"Fri, 21 Nov 2025 11:22:49 +0000",bottle,,Wild Dry Cider - Barbera Grapes,Oud Beersel,Cider - Other Fruit
+b7-beer-house,Tom Lahav,"Fri, 21 Nov 2025 11:22:41 +0000",,3.5,Wild Dry Cider - Barbera Grapes,Oud Beersel,Cider - Other Fruit
+b7-beer-house,Ido Cohen,"Fri, 21 Nov 2025 11:22:39 +0000",bottle,3.7,Wild Dry Cider - Barbera Grapes,Oud Beersel,Cider - Other Fruit
+b7-beer-house,אהרן פרנס,"Fri, 21 Nov 2025 11:21:42 +0000",,4.0,Oude Gueuze Tilquin à l'Ancienne - Cuvée Marguerite (2023-2024),Gueuzerie Tilquin,Lambic - Gueuze
+b7-beer-house,Yaniv Alal,"Fri, 21 Nov 2025 11:21:33 +0000",bottle,4.5,Oude Gueuze Tilquin à l'Ancienne - Cuvée Renée (2023-2024),Gueuzerie Tilquin,Lambic - Gueuze
+b7-beer-house,Stas Pruchansky,"Fri, 21 Nov 2025 11:21:08 +0000",,4.4,Oude Gueuze Tilquin à l'Ancienne - Cuvée Renée (2023-2024),Gueuzerie Tilquin,Lambic - Gueuze
+b7-beer-house,Amit Ran,"Fri, 21 Nov 2025 11:20:53 +0000",bottle,,Oude Gueuze Tilquin à l'ancienne - Lambics Vieillis en Fûts de Whisky Tourbé,Gueuzerie Tilquin,Lambic - Gueuze
+b7-beer-house,Tom Lahav,"Fri, 21 Nov 2025 11:20:21 +0000",bottle,3.75,Peach Baladi,Galileo Brewery,"Homebrew, Sour - Fruited"
+b7-beer-house,Amit Ran,"Fri, 21 Nov 2025 11:20:02 +0000",bottle,,Oude Gueuze Tilquin à l'Ancienne - Cuvée Marguerite (2023-2024),Gueuzerie Tilquin,Lambic - Gueuze
+b7-beer-house,Ido Meir,"Fri, 21 Nov 2025 11:18:44 +0000",bottle,4.5,Oude Gueuze Tilquin à l'Ancienne - Cuvée Renée (2023-2024),Gueuzerie Tilquin,Lambic - Gueuze
+b7-beer-house,Tom Lahav,"Fri, 21 Nov 2025 11:17:46 +0000",bottle,4.0,Oude Gueuze Tilquin à l'Ancienne - Cuvée Renée (2023-2024),Gueuzerie Tilquin,Lambic - Gueuze
+b7-beer-house,Eylon,"Fri, 21 Nov 2025 11:17:46 +0000",bottle,4.25,Oude Gueuze Tilquin à l'Ancienne - Cuvée Renée (2023-2024),Gueuzerie Tilquin,Lambic - Gueuze
+b7-beer-house,Stas Pruchansky,"Fri, 21 Nov 2025 11:15:44 +0000",,4.2,Oude Gueuze Tilquin à l'Ancienne - Cuvée Marguerite (2023-2024),Gueuzerie Tilquin,Lambic - Gueuze
+b7-beer-house,Eylon,"Fri, 21 Nov 2025 11:15:19 +0000",bottle,4.25,Oude Gueuze Tilquin à l'Ancienne - Cuvée Marguerite (2023-2024),Gueuzerie Tilquin,Lambic - Gueuze
+b7-beer-house,barak luzon,"Fri, 21 Nov 2025 11:15:15 +0000",bottle,4.25,Oude Gueuze Tilquin à l'Ancienne - Cuvée Marguerite (2023-2024),Gueuzerie Tilquin,Lambic - Gueuze
+b7-beer-house,Yaniv Alal,"Fri, 21 Nov 2025 11:15:12 +0000",bottle,4.75,Peach Baladi,Galileo Brewery,"Homebrew, Sour - Fruited"
+b7-beer-house,Tal Neumann,"Fri, 21 Nov 2025 11:14:32 +0000",draft,4.0,TL;DR,Oak & Ash,IPA - New England / Hazy
+b7-beer-house,Stas Pruchansky,"Fri, 21 Nov 2025 11:12:59 +0000",,4.2,Gueuze Tilquin 40-60,Gueuzerie Tilquin,Lambic - Gueuze
+b7-beer-house,Ido Cohen,"Fri, 21 Nov 2025 11:12:37 +0000",can,4.1,Oude Gueuze Tilquin à l'Ancienne - Cuvée Marguerite (2023-2024),Gueuzerie Tilquin,Lambic - Gueuze
+b7-beer-house,barak luzon,"Fri, 21 Nov 2025 11:11:57 +0000",bottle,3.75,Wild Dry Cider - Rhubarb,Oud Beersel,Cider - Dry
+b7-beer-house,Amit Arnon,"Fri, 21 Nov 2025 11:09:58 +0000",,,Meerjungfrau,Rügener Insel-Brauerei,Sour - Other
+b7-beer-house,Itai Snai,"Fri, 21 Nov 2025 11:08:47 +0000",,4.0,Gueuze Tilquin 40-60,Gueuzerie Tilquin,Lambic - Gueuze
+b7-beer-house,Israel Shenkman,"Fri, 21 Nov 2025 11:08:45 +0000",,4.0,Meerjungfrau,Rügener Insel-Brauerei,Sour - Other
+b7-beer-house,Stas Pruchansky,"Fri, 21 Nov 2025 11:08:18 +0000",can,4.2,"Pretty - Orange, Calamansi, Mango & Vanilla",Magic Road,Sour - Smoothie / Pastry
+b7-beer-house,Itai Snai,"Fri, 21 Nov 2025 11:07:45 +0000",,4.0,Grapefruit Peel Lambiek - Sparkling Infused,Oud Beersel,Lambic - Other
+b7-beer-house,Ido Cohen,"Fri, 21 Nov 2025 11:07:21 +0000",can,3.7,"Pretty - Orange, Calamansi, Mango & Vanilla",Magic Road,Sour - Smoothie / Pastry
+b7-beer-house,Itai Snai,"Fri, 21 Nov 2025 11:07:06 +0000",,4.0,Roasted Oolong Tea Lambiek - Sparkling Infused,Oud Beersel,Lambic - Traditional
+b7-beer-house,Tom Lahav,"Fri, 21 Nov 2025 11:06:34 +0000",can,3.75,"Pretty - Orange, Calamansi, Mango & Vanilla",Magic Road,Sour - Smoothie / Pastry
+b7-beer-house,Itai Snai,"Fri, 21 Nov 2025 11:06:07 +0000",,4.0,Rullquin au café d'Éthiopie,Gueuzerie Tilquin,Sour - Other
+b7-beer-house,Ido Meir,"Fri, 21 Nov 2025 11:04:32 +0000",,4.25,Sureau Rullquin (2021-2022),Gueuzerie Tilquin,Wild Ale - Other
+b7-beer-house,Yaniv Alal,"Fri, 21 Nov 2025 11:03:25 +0000",bottle,4.25,Wild Dry Cider - Rhubarb,Oud Beersel,Cider - Dry
+b7-beer-house,Ido Cohen,"Fri, 21 Nov 2025 11:03:15 +0000",bottle,4.0,Wild Dry Cider - Rhubarb,Oud Beersel,Cider - Dry
+b7-beer-house,אהרן פרנס,"Fri, 21 Nov 2025 11:03:04 +0000",,3.75,Wild Dry Cider - Rhubarb,Oud Beersel,Cider - Dry
+b7-beer-house,Ido Meir,"Fri, 21 Nov 2025 11:02:26 +0000",bottle,4.0,Wild Dry Cider - Rhubarb,Oud Beersel,Cider - Dry
+b7-beer-house,Tom Lahav,"Fri, 21 Nov 2025 11:02:17 +0000",bottle,4.0,Wild Dry Cider - Rhubarb,Oud Beersel,Cider - Dry
+b7-beer-house,Shmupi Koto,"Fri, 21 Nov 2025 10:59:56 +0000",,4.2,Roasted Oolong Tea Lambiek - Sparkling Infused,Oud Beersel,Lambic - Traditional
+b7-beer-house,Yaniv Alal,"Fri, 21 Nov 2025 10:59:32 +0000",bottle,4.25,Rullquin au café d'Éthiopie,Gueuzerie Tilquin,Sour - Other
+b7-beer-house,אהרן פרנס,"Fri, 21 Nov 2025 10:59:07 +0000",,4.0,Rullquin (2019-2020),Gueuzerie Tilquin,Sour - Other
+b7-beer-house,Ido Meir,"Fri, 21 Nov 2025 10:58:49 +0000",bottle,4.25,Rullquin,Gueuzerie Tilquin,Sour - Other
+b7-beer-house,Ofer Neumann,"Fri, 21 Nov 2025 10:57:48 +0000",draft,3.75,Abricot Tilquin - Draft Version,Gueuzerie Tilquin,Lambic - Fruit
+b7-beer-house,Ofer Neumann,"Fri, 21 Nov 2025 10:57:27 +0000",draft,4.0,Meerts Tilquin à la Kriek de Schaerbeek,Gueuzerie Tilquin,Lambic - Fruit
+b7-beer-house,Ofer Neumann,"Fri, 21 Nov 2025 10:54:03 +0000",,3.5,חלוץ תחת אש,New Pioneer Brewing Co - חלוץ חדש,Sour - Fruited
+b7-beer-house,Tom Lahav,"Fri, 21 Nov 2025 10:51:18 +0000",,4.0,Grapefruit Peel Lambiek - Sparkling Infused,Oud Beersel,Lambic - Other
+b7-beer-house,Amit Arnon,"Fri, 21 Nov 2025 10:51:10 +0000",,4.0,Pink Pepper Infused Lambic,Oud Beersel,Lambic - Other
+b7-beer-house,Ido Cohen,"Fri, 21 Nov 2025 10:50:58 +0000",bottle,4.3,Gueuze Tilquin 40-60,Gueuzerie Tilquin,Lambic - Gueuze
+b7-beer-house,Ido Meir,"Fri, 21 Nov 2025 10:50:49 +0000",bottle,4.5,Pink Pepper Infused Lambic,Oud Beersel,Lambic - Other
+b7-beer-house,Amit Arnon,"Fri, 21 Nov 2025 10:50:07 +0000",bottle,3.9,Rullquin au café du Rwanda,Gueuzerie Tilquin,Sour - Other
+b7-beer-house,Amit Arnon,"Fri, 21 Nov 2025 10:49:26 +0000",bottle,3.9,Grapefruit Peel Lambiek - Sparkling Infused,Oud Beersel,Lambic - Other
+b7-beer-house,Amit Arnon,"Fri, 21 Nov 2025 10:49:06 +0000",bottle,3.9,Rullquin au café d'Éthiopie,Gueuzerie Tilquin,Sour - Other
+b7-beer-house,Ido Meir,"Fri, 21 Nov 2025 10:48:32 +0000",bottle,4.75,Rullquin au café d'Éthiopie,Gueuzerie Tilquin,Sour - Other
+b7-beer-house,Tom Lahav,"Fri, 21 Nov 2025 10:47:33 +0000",draft,3.75,Everyday Life,Sibeeria Brewery,Pilsner - Czech / Bohemian
+b7-beer-house,Yaniv Alal,"Fri, 21 Nov 2025 10:46:23 +0000",bottle,4.5,Gueuze Tilquin 40-60,Gueuzerie Tilquin,Lambic - Gueuze
+b7-beer-house,Ido Cohen,"Fri, 21 Nov 2025 10:46:11 +0000",bottle,4.0,Rullquin (2019-2020),Gueuzerie Tilquin,Sour - Other
+b7-beer-house,Yaniv Alal,"Fri, 21 Nov 2025 10:45:01 +0000",bottle,4.5,Grapefruit Peel Lambiek - Sparkling Infused,Oud Beersel,Lambic - Other
+b7-beer-house,barak luzon,"Fri, 21 Nov 2025 10:43:36 +0000",bottle,4.25,Gueuze Tilquin 40-60,Gueuzerie Tilquin,Lambic - Gueuze
+b7-beer-house,Ido Cohen,"Fri, 21 Nov 2025 10:43:27 +0000",bottle,3.6,Meerjungfrau,Rügener Insel-Brauerei,Sour - Other
+b7-beer-house,Ido Meir,"Fri, 21 Nov 2025 10:43:18 +0000",bottle,4.75,Gueuze Tilquin 40-60,Gueuzerie Tilquin,Lambic - Gueuze
+b7-beer-house,Eylon,"Fri, 21 Nov 2025 10:42:58 +0000",bottle,4.25,Rullquin (2019-2020),Gueuzerie Tilquin,Sour - Other
+b7-beer-house,Eylon,"Fri, 21 Nov 2025 10:41:39 +0000",bottle,4.5,Gueuze Tilquin 40-60,Gueuzerie Tilquin,Lambic - Gueuze
+b7-beer-house,barak luzon,"Fri, 21 Nov 2025 10:41:18 +0000",bottle,4.0,Rullquin (2019-2020),Gueuzerie Tilquin,Sour - Other
+b7-beer-house,Tom Lahav,"Fri, 21 Nov 2025 10:41:00 +0000",,4.0,Grapefruit Peel Lambiek - Sparkling Infused,Oud Beersel,Lambic - Other
+b7-beer-house,Ido Cohen,"Fri, 21 Nov 2025 10:40:33 +0000",bottle,3.9,Grapefruit Peel Lambiek - Sparkling Infused,Oud Beersel,Lambic - Other
+b7-beer-house,Danny Ganelin,"Fri, 21 Nov 2025 10:40:20 +0000",draft,3.75,Raspberry Sorbet,Sibeeria Brewery,Sour - Fruited
+b7-beer-house,Stas Pruchansky,"Fri, 21 Nov 2025 10:39:10 +0000",,4.4,Grapefruit Peel Lambiek - Sparkling Infused,Oud Beersel,Lambic - Other
+b7-beer-house,Ido Meir,"Fri, 21 Nov 2025 10:39:09 +0000",bottle,4.75,Rullquin au café du Rwanda,Gueuzerie Tilquin,Sour - Other
+b7-beer-house,אהרן פרנס,"Fri, 21 Nov 2025 10:36:47 +0000",,4.0,Grapefruit Peel Lambiek - Sparkling Infused,Oud Beersel,Lambic - Other
+b7-beer-house,Eylon,"Fri, 21 Nov 2025 10:36:46 +0000",bottle,4.0,Grapefruit Peel Lambiek - Sparkling Infused,Oud Beersel,Lambic - Other
+b7-beer-house,barak luzon,"Fri, 21 Nov 2025 10:36:42 +0000",bottle,4.25,Grapefruit Peel Lambiek - Sparkling Infused,Oud Beersel,Lambic - Other
+b7-beer-house,Ido Meir,"Fri, 21 Nov 2025 10:36:33 +0000",draft,4.25,Oude Gueuze Tilquin à l'ancienne - Lambics Vieillis en Fûts de Whisky,Gueuzerie Tilquin,Lambic - Gueuze
+b7-beer-house,Yaniv Alal,"Fri, 21 Nov 2025 10:36:26 +0000",,4.25,Pink Pepper Infused Lambic,Oud Beersel,Lambic - Other
+b7-beer-house,Ido Meir,"Fri, 21 Nov 2025 10:35:21 +0000",bottle,4.25,Grapefruit Peel Lambiek - Sparkling Infused,Oud Beersel,Lambic - Other
+b7-beer-house,Israel Shenkman,"Fri, 21 Nov 2025 10:35:21 +0000",bottle,4.25,Rullquin au café du Rwanda,Gueuzerie Tilquin,Sour - Other
+b7-beer-house,Israel Shenkman,"Fri, 21 Nov 2025 10:34:09 +0000",bottle,4.5,Rullquin au café d'Éthiopie,Gueuzerie Tilquin,Sour - Other
+b7-beer-house,Ido Cohen,"Fri, 21 Nov 2025 10:33:43 +0000",can,4.0,Rullquin au café du Rwanda,Gueuzerie Tilquin,Sour - Other
+lauter,Lee Ker,"Fri, 21 Nov 2025 10:33:20 +0000",,,Budweiser Budvar / Czechvar Original,Budějovický Budvar,Pilsner - Czech / Bohemian
+b7-beer-house,Ido Meir,"Fri, 21 Nov 2025 10:32:46 +0000",bottle,4.75,Gueuze Tilquin 60-40,Gueuzerie Tilquin,Lambic - Gueuze
+lauter,Lee Ker,"Fri, 21 Nov 2025 10:31:34 +0000",,,Vedett Extra Pilsner,Duvel Moortgat,Pilsner - Other
+lauter,Lee Ker,"Fri, 21 Nov 2025 10:30:35 +0000",,,Coresh כורש,Schnitt Brewing Company﻿,Smoked Beer
+lauter,Mel Vaserman,"Fri, 21 Nov 2025 09:44:55 +0000",bottle,3.5,חוצה ישראל,New Pioneer Brewing Co - חלוץ חדש,Wheat Beer - Other
 lauter,Omri Gill,"Thu, 20 Nov 2025 21:40:43 +0000",draft,3.5,Beerjolais (בִּירְז'וֹלֶה),White Rabbit (IL),Pale Ale - Other
 lauter,yotamgo_222,"Thu, 20 Nov 2025 20:17:29 +0000",,4.75,Edelweiss Snowfresh / Wheat Beer,Brau Union Österreich,Wheat Beer - Hefeweizen
 lauter,Omri Gill,"Thu, 20 Nov 2025 20:13:40 +0000",draft,3.5,קץ הדעת,נעמה סורקין,Cider - Dry
@@ -1265,8 +1556,8 @@ lauter,Lee Ker,"Sun, 26 Oct 2025 18:41:01 +0000",,,Darkness My Friend - Imperial
 lauter,Shaul A,"Sun, 26 Oct 2025 18:37:28 +0000",can,3.75,Darkness My Friends Imperial Baltic Porter Coffee & Date Syrup,Maryensztadt,Porter - Baltic
 lauter,Tal,"Sun, 26 Oct 2025 18:37:13 +0000",can,4.25,Darkness My Friends Imperial Baltic Porter Coffee & Date Syrup,Maryensztadt,Porter - Baltic
 lauter,roey_lerman_9282,"Sun, 26 Oct 2025 18:36:50 +0000",can,3.5,Darkness My Friends Imperial Baltic Porter Coffee & Date Syrup,Maryensztadt,Porter - Baltic
-lauter,Nativ Kapach,"Sun, 26 Oct 2025 18:36:28 +0000",can,3.75,Darkness My Friends Imperial Baltic Porter Coffee & Date Syrup,Maryensztadt,Porter - Baltic
 lauter,adi_zadik_2741,"Sun, 26 Oct 2025 18:36:28 +0000",can,3.25,Darkness My Friends Imperial Baltic Porter Coffee & Date Syrup,Maryensztadt,Porter - Baltic
+lauter,Nativ Kapach,"Sun, 26 Oct 2025 18:36:28 +0000",can,3.75,Darkness My Friends Imperial Baltic Porter Coffee & Date Syrup,Maryensztadt,Porter - Baltic
 lauter,Yaron Sh,"Sun, 26 Oct 2025 18:34:37 +0000",,4.0,Darkness My Friends Imperial Baltic Porter Coffee & Date Syrup,Maryensztadt,Porter - Baltic
 lauter,Yaron Sh,"Sun, 26 Oct 2025 18:33:45 +0000",,4.5,Barrel Aged Projekt: Chocolate Rye RIS Jack Daniels Whiskey BA,Maryensztadt,Stout - Russian Imperial
 lauter,Lee Ker,"Sun, 26 Oct 2025 18:32:27 +0000",can,,Darkness My Friends Imperial Baltic Porter Coffee & Date Syrup,Maryensztadt,Porter - Baltic
@@ -6157,8 +6448,8 @@ lauter,Shmupi Koto,"Sat, 26 Jul 2025 15:40:24 +0000",can,3.7,Smoothie Bowl - Pea
 lauter,David Siegel,"Sat, 26 Jul 2025 15:38:40 +0000",,4.25,Smoothie Bowl - Peachy Dragon,Nepo Brewing,Sour - Smoothie / Pastry
 lauter,Adam Berelowitz,"Sat, 26 Jul 2025 15:35:23 +0000",can,4.3,Smoothie Bowl - Peachy Dragon,Nepo Brewing,Sour - Smoothie / Pastry
 schnitt-brewing-company,Omri Gill,"Sat, 26 Jul 2025 15:33:39 +0000",draft,3.75,Mexico City Twist,Schnitt Brewing Company﻿,Lager - Mexican
-lauter,Adam Berelowitz,"Sat, 26 Jul 2025 15:22:08 +0000",can,4.2,Smoothie Bowl: Pistachio Fluff,Nepo Brewing,Sour - Smoothie / Pastry
 lauter,David Siegel,"Sat, 26 Jul 2025 15:22:08 +0000",,4.0,Pijże,Nepo Brewing,Pale Ale - New England / Hazy
+lauter,Adam Berelowitz,"Sat, 26 Jul 2025 15:22:08 +0000",can,4.2,Smoothie Bowl: Pistachio Fluff,Nepo Brewing,Sour - Smoothie / Pastry
 lauter,Adam Berelowitz,"Sat, 26 Jul 2025 15:21:39 +0000",can,4.3,Pijże,Nepo Brewing,Pale Ale - New England / Hazy
 lauter,David Siegel,"Sat, 26 Jul 2025 15:20:22 +0000",,4.25,Smoothie Bowl: Pistachio Fluff,Nepo Brewing,Sour - Smoothie / Pastry
 lauter,Anton B,"Sat, 26 Jul 2025 15:17:20 +0000",can,,Windy Hill,Mikkeller,IPA - New England / Hazy
