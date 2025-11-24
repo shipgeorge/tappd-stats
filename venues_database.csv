@@ -1,4 +1,79 @@
 venue,user,time,serving,data_rating,beer_name,brewery,beer_type
+lauter,Nadav Kaddar,"Sun, 23 Nov 2025 21:59:29 +0000",can,,ער.ה? 2025,Schnitt Brewing Company﻿,Stout - White / Golden
+lauter,drinking_park,"Sun, 23 Nov 2025 20:57:12 +0000",can,3.25,Maltings Irish Ale,Sullivan's Brewing Company,Red Ale - Irish
+lauter,drinking_park,"Sun, 23 Nov 2025 20:56:04 +0000",can,3.75,Cocoa Wonderland,Thornbridge Brewery,Porter - Other
+lauter,Lee Ker,"Sun, 23 Nov 2025 20:55:41 +0000",can,,Cocoa Wonderland,Thornbridge Brewery,Porter - Other
+lauter,Lee Ker,"Sun, 23 Nov 2025 20:53:39 +0000",can,,Maltings Irish Ale,Sullivan's Brewing Company,Red Ale - Irish
+lauter,drinking_park,"Sun, 23 Nov 2025 20:40:41 +0000",bottle,3.0,Rullquin au café d'Éthiopie,Gueuzerie Tilquin,Sour - Other
+lauter,Lee Ker,"Sun, 23 Nov 2025 20:40:18 +0000",bottle,,Rullquin au café d'Éthiopie,Gueuzerie Tilquin,Sour - Other
+lauter,Nadav Kaddar,"Sun, 23 Nov 2025 20:00:13 +0000",bottle,4.25,Rullquin au café d'Éthiopie,Gueuzerie Tilquin,Sour - Other
+lauter,drinking_park,"Sun, 23 Nov 2025 19:45:50 +0000",can,3.75,Cēsu Premium Bohemian,Cēsu Alus,Lager - Tmavé (Czech Dark)
+lauter,Lee Ker,"Sun, 23 Nov 2025 19:45:37 +0000",,,Cēsu Premium Bohemian,Cēsu Alus,Lager - Tmavé (Czech Dark)
+lauter,Shmupi Koto,"Sun, 23 Nov 2025 19:41:56 +0000",bottle,4.4,Rullquin au café d'Éthiopie,Gueuzerie Tilquin,Sour - Other
+lauter,Lee Ker,"Sun, 23 Nov 2025 19:41:50 +0000",can,,Black Heart,BrewDog,Stout - Irish Dry
+lauter,drinking_park,"Sun, 23 Nov 2025 19:37:53 +0000",can,3.75,Black Heart,BrewDog,Stout - Irish Dry
+lauter,drinking_park,"Sun, 23 Nov 2025 19:34:48 +0000",draft,0.5,2 קומפוט נעליים,קישקשתא (Kishkashta),Farmhouse Ale - Saison
+lauter,Lee Ker,"Sun, 23 Nov 2025 19:34:35 +0000",,,2 קומפוט נעליים,קישקשתא (Kishkashta),Farmhouse Ale - Saison
+lauter,moria koren,"Sun, 23 Nov 2025 19:27:15 +0000",draft,3.5,Coresh כורש,Schnitt Brewing Company﻿,Smoked Beer
+beerz,Yonatan Bashi,"Sun, 23 Nov 2025 19:05:29 +0000",,,Hazy Queen - Peacherine Edition,HORIZONT Brewing,IPA - New England / Hazy
+beerz,Yonatan Bashi,"Sun, 23 Nov 2025 19:03:47 +0000",,,Pleroma Karpologi Pineapple Peach Marshmallow Créme Brulée Sour,Omnipollo,Sour - Smoothie / Pastry
+beerz,Yonatan Bashi,"Sun, 23 Nov 2025 18:59:48 +0000",,,Selfish Games - Skybreaker,HORIZONT Brewing,IPA - New England / Hazy
+lauter,drinking_park,"Sun, 23 Nov 2025 18:52:57 +0000",draft,4.0,Abt 12,Brouwerij St.Bernardus,Belgian Quadrupel
+lauter,drinking_park,"Sun, 23 Nov 2025 18:38:24 +0000",draft,4.0,Barbãr,Brasserie Lefebvre,Honey Beer
+schnitt-brewing-company,moria koren,"Sun, 23 Nov 2025 18:33:46 +0000",,,It Is What It Is,Schnitt Brewing Company﻿,Blonde / Golden Ale - Other
+lauter,Nadav Kaddar,"Sun, 23 Nov 2025 18:26:24 +0000",,,It Is What It Is,Schnitt Brewing Company﻿,Blonde / Golden Ale - Other
+lauter,Lee Ker,"Sun, 23 Nov 2025 18:24:27 +0000",,,Barbãr,Brasserie Lefebvre,Honey Beer
+lauter,drinking_park,"Sun, 23 Nov 2025 18:23:12 +0000",draft,3.5,Kardemumma,Schnitt Brewing Company﻿,Pale Ale - Other
+lauter,Lee Ker,"Sun, 23 Nov 2025 18:23:08 +0000",,,Kardemumma,Schnitt Brewing Company﻿,Pale Ale - Other
+lauter,Lee Ker,"Sun, 23 Nov 2025 18:21:39 +0000",,,Abt 12,Brouwerij St.Bernardus,Belgian Quadrupel
+beerz,Yonatan Bashi,"Sun, 23 Nov 2025 18:21:23 +0000",,,Selfish Games - Vision In Pink,HORIZONT Brewing,IPA - American
+lauter,Lee Ker,"Sun, 23 Nov 2025 18:20:29 +0000",,,Budweiser Budvar B:DARK / Czechvar B:DARK,Budějovický Budvar,Lager - Tmavé (Czech Dark)
+schnitt-brewing-company,Lee Ker,"Sun, 23 Nov 2025 17:49:23 +0000",,,ער.ה? 2025,Schnitt Brewing Company﻿,Stout - White / Golden
+lauter,Nadav Kaddar,"Sun, 23 Nov 2025 17:44:11 +0000",,,Benediktiner Hell,Benediktiner Weissbräu,Lager - Helles
+lauter,Nadav Kaddar,"Sun, 23 Nov 2025 17:43:43 +0000",,3.75,Coresh כורש,Schnitt Brewing Company﻿,Smoked Beer
+lauter,Nadav Kaddar,"Sun, 23 Nov 2025 17:43:02 +0000",,,2 קומפוט נעליים,קישקשתא (Kishkashta),Farmhouse Ale - Saison
+lauter,Nadav Kaddar,"Sun, 23 Nov 2025 17:42:20 +0000",,3.75,Beerjolais (בִּירְז'וֹלֶה),White Rabbit (IL),Pale Ale - Other
+lauter,Shmupi Koto,"Sun, 23 Nov 2025 17:36:44 +0000",draft,3.7,"Same Schnitt, Different Hop: Amarillo",Schnitt Brewing Company﻿,Pale Ale - Other
+lauter,Shmupi Koto,"Sun, 23 Nov 2025 17:36:16 +0000",draft,2.0,Benediktiner Hell,Benediktiner Weissbräu,Lager - Helles
+schnitt-brewing-company,drinking_park,"Sun, 23 Nov 2025 17:35:33 +0000",draft,3.5,What the Helles?!,Schnitt Brewing Company﻿,Lager - Helles
+lauter,Shmupi Koto,"Sun, 23 Nov 2025 17:13:42 +0000",draft,3.2,Coresh כורש,Schnitt Brewing Company﻿,Smoked Beer
+lauter,Danny Ganelin,"Sun, 23 Nov 2025 16:56:01 +0000",draft,3.5,Coresh כורש,Schnitt Brewing Company﻿,Smoked Beer
+lauter,Leon,"Sun, 23 Nov 2025 16:38:50 +0000",draft,3.75,2 קומפוט נעליים,קישקשתא (Kishkashta),Farmhouse Ale - Saison
+b7-beer-house,Eli Smikin,"Sun, 23 Nov 2025 16:31:16 +0000",can,3.4,API YZAH,Stigbergets Bryggeri,IPA - New England / Hazy
+b7-beer-house,Eli Smikin,"Sun, 23 Nov 2025 16:28:52 +0000",bottle,4.5,3 Fonteinen Perzik Geel (season 21|22) Blend No. 14,Brouwerij 3 Fonteinen,Lambic - Fruit
+lauter,Leon,"Sun, 23 Nov 2025 16:11:53 +0000",draft,3.25,Beerjolais (בִּירְז'וֹלֶה),White Rabbit (IL),Pale Ale - Other
+schnitt-brewing-company,Danny Ganelin,"Sun, 23 Nov 2025 15:58:35 +0000",draft,3.75,האימפריה מכה שניט,Schnitt Brewing Company﻿,IPA - American
+b7-beer-house,Eli Smikin,"Sun, 23 Nov 2025 15:56:27 +0000",,4.5,Gueuze Tilquin 40-60,Gueuzerie Tilquin,Lambic - Gueuze
+b7-beer-house,Eli Smikin,"Sun, 23 Nov 2025 15:53:18 +0000",can,3.4,Orange Crush,BrewDog,IPA - Fruited
+b7-beer-house,Eli Smikin,"Sun, 23 Nov 2025 15:51:26 +0000",can,3.4,Fruit Burst,BrewDog,Pale Ale - English
+b7-beer-house,Eli Smikin,"Sun, 23 Nov 2025 15:47:21 +0000",bottle,4.0,Wild Dry Cider - Rhubarb,Oud Beersel,Cider - Dry
+b7-beer-house,Eli Smikin,"Sun, 23 Nov 2025 15:44:19 +0000",bottle,3.5,Sahour,Beerbalach,"Homebrew, Lambic - Gueuze"
+b7-beer-house,Eli Smikin,"Sun, 23 Nov 2025 15:42:40 +0000",,3.8,Rabarberlambiek,Oud Beersel,Lambic - Other
+b7-beer-house,Eli Smikin,"Sun, 23 Nov 2025 15:40:28 +0000",can,3.5,Mebel,Ziemia Obiecana,IPA - Session
+b7-beer-house,Eli Smikin,"Sun, 23 Nov 2025 15:38:20 +0000",can,3.4,Honey I'm Drunk,Ravangrad,IPA - Imperial / Double
+b7-beer-house,Eli Smikin,"Sun, 23 Nov 2025 15:36:26 +0000",can,4.4,Everything Everywhere All Peacharine 17,Rodinný pivovar Zichovec,IPA - New England / Hazy
+b7-beer-house,Eli Smikin,"Sun, 23 Nov 2025 15:33:06 +0000",can,3.7,Show Your Independence,Dogma Brewery,IPA - Session
+b7-beer-house,Eli Smikin,"Sun, 23 Nov 2025 15:31:11 +0000",can,3.4,Siesta,Hophead Brewing,Porter - Other
+b7-beer-house,Eli Smikin,"Sun, 23 Nov 2025 15:27:28 +0000",bottle,4.5,Peach Baladi,Galileo Brewery,"Homebrew, Sour - Fruited"
+b7-beer-house,Eli Smikin,"Sun, 23 Nov 2025 15:17:21 +0000",can,3.6,Wannabe,Hophead Brewing,Pilsner - Czech / Bohemian
+schnitt-brewing-company,TheBeerJew,"Sun, 23 Nov 2025 14:50:28 +0000",draft,3.75,TIPA Mara (2025),Schnitt Brewing Company﻿,IPA - Triple
+schnitt-brewing-company,TheBeerJew,"Sun, 23 Nov 2025 14:37:35 +0000",draft,3.5,Coresh כורש,Schnitt Brewing Company﻿,Smoked Beer
+schnitt-brewing-company,TheBeerJew,"Sun, 23 Nov 2025 14:18:04 +0000",draft,3.5,ער.ה? 2025,Schnitt Brewing Company﻿,Stout - White / Golden
+schnitt-brewing-company,Liad Shaked,"Sun, 23 Nov 2025 12:29:42 +0000",draft,3.6,TIPA Mara (2025),Schnitt Brewing Company﻿,IPA - Triple
+schnitt-brewing-company,Liad Shaked,"Sun, 23 Nov 2025 12:18:22 +0000",draft,3.9,Coresh כורש,Schnitt Brewing Company﻿,Smoked Beer
+schnitt-brewing-company,Liad Shaked,"Sun, 23 Nov 2025 12:03:10 +0000",draft,4.0,Kelly's Green Pony,Schnitt Brewing Company﻿,IPA - New England / Hazy
+lauter,גל סילברמן,"Sun, 23 Nov 2025 11:36:41 +0000",can,2.0,Selfish Games - Vision In Pink,HORIZONT Brewing,IPA - American
+schnitt-brewing-company,Nir Langer,"Sun, 23 Nov 2025 11:20:14 +0000",bottle,3.5,Arthemisia,Birrificio San Quirico,IPA - White / Wheat
+schnitt-brewing-company,Sahar Baruch,"Sun, 23 Nov 2025 11:18:19 +0000",draft,4.0,Weissman,Schnitt Brewing Company﻿,Wheat Beer - Hefeweizen
+schnitt-brewing-company,Yana O,"Sun, 23 Nov 2025 10:53:27 +0000",,4.0,Kelly's Green Pony,Schnitt Brewing Company﻿,IPA - New England / Hazy
+b7-beer-house,Eli Smikin,"Sun, 23 Nov 2025 07:16:19 +0000",can,3.5,FIZY,Fundamental Brewing Co.,Sour - Fruited Berliner Weisse
+b7-beer-house,Eli Smikin,"Sun, 23 Nov 2025 07:07:30 +0000",,4.0,Cherry Wood Infused Lambic,Oud Beersel,Lambic - Other
+b7-beer-house,Eli Smikin,"Sun, 23 Nov 2025 07:05:01 +0000",can,3.5,"Pretty - Orange, Calamansi, Mango & Vanilla",Magic Road,Sour - Smoothie / Pastry
+b7-beer-house,Eli Smikin,"Sun, 23 Nov 2025 07:01:30 +0000",bottle,4.5,Wild Dry Cider - Barbera Grapes,Oud Beersel,Cider - Other Fruit
+b7-beer-house,Eli Smikin,"Sun, 23 Nov 2025 06:49:52 +0000",bottle,3.4,Meerjungfrau,Rügener Insel-Brauerei,Sour - Other
+b7-beer-house,Eli Smikin,"Sun, 23 Nov 2025 06:44:13 +0000",bottle,4.4,Rullquin au café d'Éthiopie,Gueuzerie Tilquin,Sour - Other
+b7-beer-house,Eli Smikin,"Sun, 23 Nov 2025 06:41:30 +0000",bottle,4.0,Rullquin au café du Rwanda,Gueuzerie Tilquin,Sour - Other
+b7-beer-house,Eli Smikin,"Sun, 23 Nov 2025 06:37:12 +0000",,4.5,Pink Pepper Infused Lambic,Oud Beersel,Lambic - Other
 b7-beer-house,Eli Smikin,"Sun, 23 Nov 2025 06:34:08 +0000",,3.8,Bee Pollen Infused Lambic,Oud Beersel,Lambic - Other
 b7-beer-house,Eli Smikin,"Sun, 23 Nov 2025 06:31:17 +0000",bottle,4.2,Grapefruit Peel Lambiek - Sparkling Infused,Oud Beersel,Lambic - Other
 b7-beer-house,Eli Smikin,"Sun, 23 Nov 2025 04:14:26 +0000",,4.4,Oude Gueuze Tilquin à l'ancienne - Lambics Vieillis en Fûts de Whisky Tourbé,Gueuzerie Tilquin,Lambic - Gueuze
@@ -4896,8 +4971,8 @@ b7-beer-house,גל סילברמן,"Thu, 21 Aug 2025 16:00:18 +0000",can,3.8,Naug
 b7-beer-house,Guy Azene,"Thu, 21 Aug 2025 16:00:01 +0000",can,3.8,Naughty & Nice - White Chocolate & Raspberry,Vocation Brewery,Stout - White / Golden
 b7-beer-house,Liad Shaked,"Thu, 21 Aug 2025 15:59:41 +0000",can,3.9,Naughty & Nice - White Chocolate & Raspberry,Vocation Brewery,Stout - White / Golden
 b7-beer-house,Yotam Bar-natan,"Thu, 21 Aug 2025 15:59:21 +0000",can,4.3,Birthday Cake,Vocation Brewery,Stout - Milk / Sweet
-b7-beer-house,Eli Smikin,"Thu, 21 Aug 2025 15:59:11 +0000",can,3.8,Peach Rings,Vault City Brewing,Sour - Fruited
 b7-beer-house,Elior Mizrahi,"Thu, 21 Aug 2025 15:59:11 +0000",,4.0,Naughty & Nice - White Chocolate & Raspberry,Vocation Brewery,Stout - White / Golden
+b7-beer-house,Eli Smikin,"Thu, 21 Aug 2025 15:59:11 +0000",can,3.8,Peach Rings,Vault City Brewing,Sour - Fruited
 b7-beer-house,Yotam Bar-natan,"Thu, 21 Aug 2025 15:58:45 +0000",can,3.8,Naughty & Nice - White Chocolate & Raspberry,Vocation Brewery,Stout - White / Golden
 b7-beer-house,Tom Lahav,"Thu, 21 Aug 2025 15:58:44 +0000",can,3.25,Naughty & Nice - White Chocolate & Raspberry,Vocation Brewery,Stout - White / Golden
 b7-beer-house,Yotam Bar-natan,"Thu, 21 Aug 2025 15:58:21 +0000",can,3.7,Incognito,Vocation Brewery,IPA - Imperial / Double
@@ -6597,8 +6672,8 @@ lauter,Sivan Nagola,"Fri, 25 Jul 2025 18:16:52 +0000",draft,4.5,Rosé De Gambrin
 lauter,Shmupi Koto,"Fri, 25 Jul 2025 18:16:45 +0000",draft,4.6,Sang Bleu 2024 - Draft Version,Brasserie Cantillon,Lambic - Fruit
 lauter,Yahly Guttman,"Fri, 25 Jul 2025 18:16:17 +0000",,5.0,Fou' Foune 2023 - Draft Version,Brasserie Cantillon,Lambic - Fruit
 lauter,Sivan Nagola,"Fri, 25 Jul 2025 18:15:54 +0000",draft,4.0,Kriek 2025 - Draft Version,Brasserie Cantillon,Lambic - Kriek
-lauter,Sivan Nagola,"Fri, 25 Jul 2025 18:15:23 +0000",draft,4.0,Cuvée Saint-Gilloise 2023 - Draft Version,Brasserie Cantillon,Lambic - Traditional
 lauter,Eli Smikin,"Fri, 25 Jul 2025 18:15:23 +0000",draft,4.8,Fou' Foune 2023 - Draft Version,Brasserie Cantillon,Lambic - Fruit
+lauter,Sivan Nagola,"Fri, 25 Jul 2025 18:15:23 +0000",draft,4.0,Cuvée Saint-Gilloise 2023 - Draft Version,Brasserie Cantillon,Lambic - Traditional
 lauter,Sivan Nagola,"Fri, 25 Jul 2025 18:14:47 +0000",draft,4.75,Gueuze 2024 - Draft Version,Brasserie Cantillon,Lambic - Gueuze
 lauter,Sivan Nagola,"Fri, 25 Jul 2025 18:14:07 +0000",draft,4.0,Grand Cru Bruocsella - Draft Version (2021-2022),Brasserie Cantillon,Lambic - Traditional
 lauter,Itai Snai,"Fri, 25 Jul 2025 18:10:14 +0000",,4.5,Fou' Foune 2023 - Draft Version,Brasserie Cantillon,Lambic - Fruit
