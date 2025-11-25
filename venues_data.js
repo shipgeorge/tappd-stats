@@ -1,8 +1,251 @@
 // 🍺 BEER STATS DATA - Generated automatically
-// Last updated: 2025-11-24 06:40:55
-// Total records: 8770
+// Last updated: 2025-11-25 06:41:51
+// Total records: 8797
 
 const BEER_DATA = [
+  {
+    "venue": "lauter",
+    "time": "2025-11-24T22:44:12+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "BBA Back Already?",
+    "brewery": "Stigbergets Bryggeri",
+    "beer_type": "Stout - Imperial / Double Milk"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-24T21:29:43+00:00",
+    "serving": "can",
+    "rating": 4.3,
+    "beer_name": "Back Already?",
+    "brewery": "Stigbergets Bryggeri",
+    "beer_type": "Stout - Imperial / Double Milk"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-24T21:15:53+00:00",
+    "serving": "bottle",
+    "rating": 4.1,
+    "beer_name": "Session IPA (2025)",
+    "brewery": "Shapiro (שפירא)",
+    "beer_type": "IPA - Session"
+  },
+  {
+    "venue": "porter-and-sons",
+    "time": "2025-11-24T21:12:34+00:00",
+    "serving": "bottle",
+    "rating": 3.9,
+    "beer_name": "Raspberry Party",
+    "brewery": "Samorai Brewery",
+    "beer_type": "Homebrew, Wild Ale - Other"
+  },
+  {
+    "venue": "porter-and-sons",
+    "time": "2025-11-24T21:10:19+00:00",
+    "serving": "bottle",
+    "rating": 3.7,
+    "beer_name": "Lambishniak",
+    "brewery": "Samorai Brewery",
+    "beer_type": "Homebrew, Wild Ale - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-24T20:57:51+00:00",
+    "serving": "bottle",
+    "rating": 3.9,
+    "beer_name": "Session IPA",
+    "brewery": "Srigim (שריגים)",
+    "beer_type": "IPA - Session"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-24T20:52:35+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Selfish Games - Vision In Pink",
+    "brewery": "HORIZONT Brewing",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-24T20:49:12+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "TIPA Mara (2025)",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - Triple"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-24T20:48:48+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "שלושה צעדים קדימה",
+    "brewery": "New Pioneer Brewing Co - חלוץ חדש",
+    "beer_type": "Lager - IPL (India Pale Lager)"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-24T20:46:46+00:00",
+    "serving": "bottle",
+    "rating": 4.75,
+    "beer_name": "Fou' Foune (2024)",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-24T20:46:04+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Yes We Can - Micro Hazy IPA: El Dorado, Nelson Sauvin",
+    "brewery": "Maryensztadt",
+    "beer_type": "IPA - Session"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-24T20:07:43+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Cold IPA (w/ Ella hops)",
+    "brewery": "Malka (מלכה)",
+    "beer_type": "IPA - Cold"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-24T19:59:40+00:00",
+    "serving": "draft",
+    "rating": 3.25,
+    "beer_name": "TIPA Mara (2025)",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - Triple"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-24T19:55:21+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "Windy Hill",
+    "brewery": "Mikkeller",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-24T19:32:11+00:00",
+    "serving": "bottle",
+    "rating": 3.75,
+    "beer_name": "American IPA",
+    "brewery": "Olvi",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-24T19:28:51+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Baby Hazy",
+    "brewery": "BrewDog",
+    "beer_type": "IPA - Session"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-11-24T18:41:14+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "האימפריה מכה שניט",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "beerline",
+    "time": "2025-11-24T18:21:41+00:00",
+    "serving": "Unknown",
+    "rating": 4.75,
+    "beer_name": "Dragon Fruit X Pear X Banana X Pineapple X Lemon Smoothie Sour Ale",
+    "brewery": "Ārpus Brewing Co.",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-11-24T18:02:11+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Kelly's Green Pony",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-11-24T17:41:02+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "TIPA Mara",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - Triple"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-24T17:13:59+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "קץ הדעת",
+    "brewery": "נעמה סורקין",
+    "beer_type": "Cider - Dry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-24T16:50:22+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Kardemumma",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pale Ale - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-24T16:32:41+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "2 קומפוט נעליים",
+    "brewery": "קישקשתא (Kishkashta)",
+    "beer_type": "Farmhouse Ale - Saison"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-24T16:19:56+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Edelweiss Snowfresh / Wheat Beer",
+    "brewery": "Brau Union Österreich",
+    "beer_type": "Wheat Beer - Hefeweizen"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-11-24T13:10:25+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Kardemumma",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pale Ale - Other"
+  },
+  {
+    "venue": "berlin-florentin",
+    "time": "2025-11-24T13:09:49+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Spaten Oktoberfestbier",
+    "brewery": "Spaten-Franziskaner-Löwenbräu-Gruppe",
+    "beer_type": "Festbier"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-11-24T11:36:05+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Kelly's Green Pony",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
   {
     "venue": "lauter",
     "time": "2025-11-23T21:59:29+00:00",
@@ -2977,7 +3220,7 @@ const BEER_DATA = [
     "venue": "b7-beer-house",
     "time": "2025-11-21T11:17:46+00:00",
     "serving": "bottle",
-    "rating": 4.0,
+    "rating": 4.25,
     "beer_name": "Oude Gueuze Tilquin à l'Ancienne - Cuvée Renée (2023-2024)",
     "brewery": "Gueuzerie Tilquin",
     "beer_type": "Lambic - Gueuze"
@@ -2986,7 +3229,7 @@ const BEER_DATA = [
     "venue": "b7-beer-house",
     "time": "2025-11-21T11:17:46+00:00",
     "serving": "bottle",
-    "rating": 4.25,
+    "rating": 4.0,
     "beer_name": "Oude Gueuze Tilquin à l'Ancienne - Cuvée Renée (2023-2024)",
     "brewery": "Gueuzerie Tilquin",
     "beer_type": "Lambic - Gueuze"
@@ -14992,7 +15235,7 @@ const BEER_DATA = [
     "venue": "lauter",
     "time": "2025-10-26T18:36:28+00:00",
     "serving": "can",
-    "rating": 3.25,
+    "rating": 3.75,
     "beer_name": "Darkness My Friends Imperial Baltic Porter Coffee & Date Syrup",
     "brewery": "Maryensztadt",
     "beer_type": "Porter - Baltic"
@@ -15001,7 +15244,7 @@ const BEER_DATA = [
     "venue": "lauter",
     "time": "2025-10-26T18:36:28+00:00",
     "serving": "can",
-    "rating": 3.75,
+    "rating": 3.25,
     "beer_name": "Darkness My Friends Imperial Baltic Porter Coffee & Date Syrup",
     "brewery": "Maryensztadt",
     "beer_type": "Porter - Baltic"
@@ -44646,8 +44889,8 @@ const BEER_DATA = [
   {
     "venue": "b7-beer-house",
     "time": "2025-08-21T16:02:37+00:00",
-    "serving": "Unknown",
-    "rating": 3.75,
+    "serving": "can",
+    "rating": 3.5,
     "beer_name": "Nitro Mini M*rs",
     "brewery": "Vault City Brewing",
     "beer_type": "Stout - Pastry"
@@ -44655,8 +44898,8 @@ const BEER_DATA = [
   {
     "venue": "b7-beer-house",
     "time": "2025-08-21T16:02:37+00:00",
-    "serving": "can",
-    "rating": 3.5,
+    "serving": "Unknown",
+    "rating": 3.75,
     "beer_name": "Nitro Mini M*rs",
     "brewery": "Vault City Brewing",
     "beer_type": "Stout - Pastry"
@@ -44698,15 +44941,6 @@ const BEER_DATA = [
     "beer_type": "Stout - White / Golden"
   },
   {
-    "venue": "b7-beer-house",
-    "time": "2025-08-21T16:00:28+00:00",
-    "serving": "can",
-    "rating": 5.0,
-    "beer_name": "Naughty & Nice - White Chocolate & Raspberry",
-    "brewery": "Vocation Brewery",
-    "beer_type": "Stout - White / Golden"
-  },
-  {
     "venue": "lauter",
     "time": "2025-08-21T16:00:28+00:00",
     "serving": "draft",
@@ -44714,6 +44948,15 @@ const BEER_DATA = [
     "beer_name": "KRUSHED IT",
     "brewery": "Oak & Ash",
     "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-21T16:00:28+00:00",
+    "serving": "can",
+    "rating": 5.0,
+    "beer_name": "Naughty & Nice - White Chocolate & Raspberry",
+    "brewery": "Vocation Brewery",
+    "beer_type": "Stout - White / Golden"
   },
   {
     "venue": "b7-beer-house",
@@ -44754,20 +44997,20 @@ const BEER_DATA = [
   {
     "venue": "b7-beer-house",
     "time": "2025-08-21T15:59:11+00:00",
-    "serving": "Unknown",
-    "rating": 4.0,
-    "beer_name": "Naughty & Nice - White Chocolate & Raspberry",
-    "brewery": "Vocation Brewery",
-    "beer_type": "Stout - White / Golden"
-  },
-  {
-    "venue": "b7-beer-house",
-    "time": "2025-08-21T15:59:11+00:00",
     "serving": "can",
     "rating": 3.8,
     "beer_name": "Peach Rings",
     "brewery": "Vault City Brewing",
     "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-21T15:59:11+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Naughty & Nice - White Chocolate & Raspberry",
+    "brewery": "Vocation Brewery",
+    "beer_type": "Stout - White / Golden"
   },
   {
     "venue": "b7-beer-house",
@@ -59019,20 +59262,20 @@ const BEER_DATA = [
   {
     "venue": "lauter",
     "time": "2025-07-26T15:22:08+00:00",
-    "serving": "can",
-    "rating": 4.2,
-    "beer_name": "Smoothie Bowl: Pistachio Fluff",
-    "brewery": "Nepo Brewing",
-    "beer_type": "Sour - Smoothie / Pastry"
-  },
-  {
-    "venue": "lauter",
-    "time": "2025-07-26T15:22:08+00:00",
     "serving": "Unknown",
     "rating": 4.0,
     "beer_name": "Pijże",
     "brewery": "Nepo Brewing",
     "beer_type": "Pale Ale - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-07-26T15:22:08+00:00",
+    "serving": "can",
+    "rating": 4.2,
+    "beer_name": "Smoothie Bowl: Pistachio Fluff",
+    "brewery": "Nepo Brewing",
+    "beer_type": "Sour - Smoothie / Pastry"
   },
   {
     "venue": "lauter",
@@ -75912,8 +76155,8 @@ const BEER_DATA = [
   {
     "venue": "berlin-florentin",
     "time": "2024-01-22T18:42:20+00:00",
-    "serving": "can",
-    "rating": 4.0,
+    "serving": "Unknown",
+    "rating": null,
     "beer_name": "200 Units",
     "brewery": "Brewski",
     "beer_type": "Barleywine - English"
@@ -75921,8 +76164,8 @@ const BEER_DATA = [
   {
     "venue": "berlin-florentin",
     "time": "2024-01-22T18:42:20+00:00",
-    "serving": "Unknown",
-    "rating": null,
+    "serving": "can",
+    "rating": 4.0,
     "beer_name": "200 Units",
     "brewery": "Brewski",
     "beer_type": "Barleywine - English"
