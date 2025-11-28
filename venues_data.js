@@ -1,8 +1,251 @@
 // 🍺 BEER STATS DATA - Generated automatically
-// Last updated: 2025-11-27 06:41:58
-// Total records: 8808
+// Last updated: 2025-11-28 06:41:11
+// Total records: 8835
 
 const BEER_DATA = [
+  {
+    "venue": "lauter",
+    "time": "2025-11-27T22:04:17+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "OrangeDana",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-27T21:53:52+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Red & Black Currant Berliner Weisse",
+    "brewery": "Ārpus Brewing Co.",
+    "beer_type": "Sour - Fruited Berliner Weisse"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-27T21:38:04+00:00",
+    "serving": "can",
+    "rating": 4.5,
+    "beer_name": "Guava X Strawberry X Peach X Orange X Vanilla Smoothie Sour Ale",
+    "brewery": "Ārpus Brewing Co.",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-27T21:17:28+00:00",
+    "serving": "draft",
+    "rating": 4.2,
+    "beer_name": "OrangeDana",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-27T21:16:36+00:00",
+    "serving": "can",
+    "rating": 4.75,
+    "beer_name": "Guava X Strawberry X Peach X Orange X Vanilla Smoothie Sour Ale",
+    "brewery": "Ārpus Brewing Co.",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-27T21:09:38+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Guava X Strawberry X Peach X Orange X Vanilla Smoothie Sour Ale",
+    "brewery": "Ārpus Brewing Co.",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-27T21:06:15+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "DDH Riwaka X Nectaron X Superdelic Pale Ale",
+    "brewery": "Ārpus Brewing Co.",
+    "beer_type": "Pale Ale - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-27T20:44:43+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Red & Black Currant Berliner Weisse",
+    "brewery": "Ārpus Brewing Co.",
+    "beer_type": "Sour - Fruited Berliner Weisse"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-27T20:40:27+00:00",
+    "serving": "Unknown",
+    "rating": 3.0,
+    "beer_name": "Vedett Extra Pilsner",
+    "brewery": "Duvel Moortgat",
+    "beer_type": "Pilsner - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-27T20:35:41+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Fruity Mish Mash",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-27T20:34:28+00:00",
+    "serving": "can",
+    "rating": 5.0,
+    "beer_name": "ער.ה? 2025",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Stout - White / Golden"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-27T20:25:05+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "DDH Riwaka X Nectaron X Superdelic Pale Ale",
+    "brewery": "Ārpus Brewing Co.",
+    "beer_type": "Pale Ale - New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-11-27T20:17:00+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "ער.ה? 2025",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Stout - White / Golden"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-27T20:05:05+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Passionfruit X Lemon X Blueberry X Mango X Coconut Smoothie Sour Ale",
+    "brewery": "Ārpus Brewing Co.",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-11-27T19:55:26+00:00",
+    "serving": "draft",
+    "rating": 5.0,
+    "beer_name": "Nightmare Fuel",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Porter - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-27T19:48:17+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Coresh כורש",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Smoked Beer"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-11-27T18:42:56+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "ער.ה? 2025",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Stout - White / Golden"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-27T17:52:50+00:00",
+    "serving": "bottle",
+    "rating": 3.8,
+    "beer_name": "La Part Des Hommes #30 - Noyau dur",
+    "brewery": "Brasserie Elixkir",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-27T17:44:34+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "DDH Riwaka X Nectaron X Superdelic Pale Ale",
+    "brewery": "Ārpus Brewing Co.",
+    "beer_type": "Pale Ale - New England / Hazy"
+  },
+  {
+    "venue": "beerz",
+    "time": "2025-11-27T17:30:59+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Blanche de Bruxelles",
+    "brewery": "Brasserie Lefebvre",
+    "beer_type": "Wheat Beer - Witbier / Blanche"
+  },
+  {
+    "venue": "beerz",
+    "time": "2025-11-27T17:07:21+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "Gentle Bastard",
+    "brewery": "HORIZONT Brewing",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-27T15:35:09+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Kasteel Tropical",
+    "brewery": "Kasteel Brouwerij Vanhonsebrouck",
+    "beer_type": "Fruit Beer"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-27T15:32:26+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Gentle Bastard",
+    "brewery": "HORIZONT Brewing",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-11-27T13:41:41+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "האימפריה מכה שניט",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-11-27T13:39:36+00:00",
+    "serving": "draft",
+    "rating": 3.25,
+    "beer_name": "ער.ה? 2025",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Stout - White / Golden"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-27T13:26:52+00:00",
+    "serving": "draft",
+    "rating": 4.3,
+    "beer_name": "Lemon X Coconut X Pineapple X Cherry Smoothie Sour Ale",
+    "brewery": "Ārpus Brewing Co.",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-11-27T11:18:02+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Paleraiser",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pale Ale - American"
+  },
   {
     "venue": "lauter",
     "time": "2025-11-26T20:30:10+00:00",
@@ -45096,20 +45339,20 @@ const BEER_DATA = [
   {
     "venue": "b7-beer-house",
     "time": "2025-08-21T15:59:11+00:00",
-    "serving": "Unknown",
-    "rating": 4.0,
-    "beer_name": "Naughty & Nice - White Chocolate & Raspberry",
-    "brewery": "Vocation Brewery",
-    "beer_type": "Stout - White / Golden"
-  },
-  {
-    "venue": "b7-beer-house",
-    "time": "2025-08-21T15:59:11+00:00",
     "serving": "can",
     "rating": 3.8,
     "beer_name": "Peach Rings",
     "brewery": "Vault City Brewing",
     "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-21T15:59:11+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Naughty & Nice - White Chocolate & Raspberry",
+    "brewery": "Vocation Brewery",
+    "beer_type": "Stout - White / Golden"
   },
   {
     "venue": "b7-beer-house",
@@ -51990,8 +52233,8 @@ const BEER_DATA = [
   {
     "venue": "lauter",
     "time": "2025-08-05T19:24:07+00:00",
-    "serving": "Unknown",
-    "rating": null,
+    "serving": "can",
+    "rating": 4.5,
     "beer_name": "SLUSHY XL: Haha!",
     "brewery": "450 North Brewing Company",
     "beer_type": "Sour - Smoothie / Pastry"
@@ -51999,8 +52242,8 @@ const BEER_DATA = [
   {
     "venue": "lauter",
     "time": "2025-08-05T19:24:07+00:00",
-    "serving": "can",
-    "rating": 4.5,
+    "serving": "Unknown",
+    "rating": null,
     "beer_name": "SLUSHY XL: Haha!",
     "brewery": "450 North Brewing Company",
     "beer_type": "Sour - Smoothie / Pastry"
@@ -59361,20 +59604,20 @@ const BEER_DATA = [
   {
     "venue": "lauter",
     "time": "2025-07-26T15:22:08+00:00",
-    "serving": "Unknown",
-    "rating": 4.0,
-    "beer_name": "Pijże",
-    "brewery": "Nepo Brewing",
-    "beer_type": "Pale Ale - New England / Hazy"
-  },
-  {
-    "venue": "lauter",
-    "time": "2025-07-26T15:22:08+00:00",
     "serving": "can",
     "rating": 4.2,
     "beer_name": "Smoothie Bowl: Pistachio Fluff",
     "brewery": "Nepo Brewing",
     "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-07-26T15:22:08+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Pijże",
+    "brewery": "Nepo Brewing",
+    "beer_type": "Pale Ale - New England / Hazy"
   },
   {
     "venue": "lauter",
