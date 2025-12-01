@@ -1,8 +1,377 @@
 // 🍺 BEER STATS DATA - Generated automatically
-// Last updated: 2025-11-30 06:39:58
-// Total records: 8922
+// Last updated: 2025-12-01 06:44:44
+// Total records: 8963
 
 const BEER_DATA = [
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-11-30T21:34:31+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "ער.ה? 2025",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Stout - White / Golden"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-11-30T21:34:03+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "ער.ה? 2025",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Stout - White / Golden"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-30T20:51:51+00:00",
+    "serving": "bottle",
+    "rating": 4.25,
+    "beer_name": "Backwoods Bastard (2025)",
+    "brewery": "Founders Brewing Co.",
+    "beer_type": "Scotch Ale / Wee Heavy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-30T20:51:18+00:00",
+    "serving": "bottle",
+    "rating": 4.0,
+    "beer_name": "Backwoods Bastard (2025)",
+    "brewery": "Founders Brewing Co.",
+    "beer_type": "Scotch Ale / Wee Heavy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-30T20:41:35+00:00",
+    "serving": "can",
+    "rating": 4.2,
+    "beer_name": "Schmoojee Banana Split Sundae",
+    "brewery": "Imprint Beer Co.",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-30T20:41:29+00:00",
+    "serving": "can",
+    "rating": 5.0,
+    "beer_name": "Schmoojee Banana Split Sundae",
+    "brewery": "Imprint Beer Co.",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-30T20:36:40+00:00",
+    "serving": "can",
+    "rating": 3.6,
+    "beer_name": "Natural Sugar",
+    "brewery": "West Coast Brewing",
+    "beer_type": "IPA - Sour"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-30T20:36:05+00:00",
+    "serving": "can",
+    "rating": 3.0,
+    "beer_name": "Natural Sugar",
+    "brewery": "West Coast Brewing",
+    "beer_type": "IPA - Sour"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-30T20:33:11+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Hazelnut Brown Ale",
+    "brewery": "Rogue Ales",
+    "beer_type": "Brown Ale - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-30T20:31:38+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Hazelnut Brown Ale",
+    "brewery": "Rogue Ales",
+    "beer_type": "Brown Ale - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-30T20:31:23+00:00",
+    "serving": "bottle",
+    "rating": 4.0,
+    "beer_name": "Night Shift Vintage 2024 - Russian Imperial Stout Aged In Pedro Ximénez Sherry & Rum Barrels W. Orange & Chocolate",
+    "brewery": "HORIZONT Brewing",
+    "beer_type": "Stout - Russian Imperial"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-11-30T20:30:32+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Alt Neuland",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Altbier - Traditional"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-11-30T20:29:45+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Alt Neuland",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Altbier - Traditional"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-30T20:29:40+00:00",
+    "serving": "bottle",
+    "rating": null,
+    "beer_name": "Night Shift Vintage 2024 - Russian Imperial Stout Aged In Pedro Ximénez Sherry & Rum Barrels W. Orange & Chocolate",
+    "brewery": "HORIZONT Brewing",
+    "beer_type": "Stout - Russian Imperial"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-30T20:24:57+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Metropolis",
+    "brewery": "Verdant Brewing Co",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-11-30T20:24:04+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "Metropolis",
+    "brewery": "Verdant Brewing Co",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-11-30T20:22:59+00:00",
+    "serving": "Unknown",
+    "rating": 4.25,
+    "beer_name": "ער.ה? 2025",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Stout - White / Golden"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-11-30T20:22:17+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "ער.ה? 2025",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Stout - White / Golden"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-30T20:21:56+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "TIPA Mara (2025)",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - Triple"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-11-30T20:21:16+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "TIPA Mara (2025)",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - Triple"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-11-30T20:10:54+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "Citra Achra סיטרה אחרא",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - Other"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-11-30T20:09:25+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Kelly's Green Pony",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-11-30T19:38:33+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "New School",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - Other"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-11-30T19:06:08+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "New School",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-30T18:48:52+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Hoppy Lager",
+    "brewery": "Isis Desert Brewery (מבשלת הנגב המערבי)",
+    "beer_type": "Lager - IPL (India Pale Lager)"
+  },
+  {
+    "venue": "porter-and-sons",
+    "time": "2025-11-30T18:34:58+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Barbãr",
+    "brewery": "Brasserie Lefebvre",
+    "beer_type": "Honey Beer"
+  },
+  {
+    "venue": "porter-and-sons",
+    "time": "2025-11-30T18:32:32+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Abt 12",
+    "brewery": "Brouwerij St.Bernardus",
+    "beer_type": "Belgian Quadrupel"
+  },
+  {
+    "venue": "porter-and-sons",
+    "time": "2025-11-30T18:31:59+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Abt 12",
+    "brewery": "Brouwerij St.Bernardus",
+    "beer_type": "Belgian Quadrupel"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-30T18:08:21+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Colorado Pale Ale",
+    "brewery": "Olvi",
+    "beer_type": "Pale Ale - American"
+  },
+  {
+    "venue": "porter-and-sons",
+    "time": "2025-11-30T17:56:41+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Guinness Draught",
+    "brewery": "Guinness",
+    "beer_type": "Stout - Irish Dry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-30T17:43:17+00:00",
+    "serving": "bottle",
+    "rating": 3.5,
+    "beer_name": "Farm To Bottle Pear Ale",
+    "brewery": "Shapiro (שפירא)",
+    "beer_type": "Pale Ale - Fruited"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-30T17:10:04+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Hazy Queen",
+    "brewery": "HORIZONT Brewing",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-30T16:33:04+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Pale Ale (פייל אייל)",
+    "brewery": "Shapiro (שפירא)",
+    "beer_type": "Pale Ale - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-30T16:05:22+00:00",
+    "serving": "draft",
+    "rating": 2.5,
+    "beer_name": "Hoppy Lager",
+    "brewery": "Isis Desert Brewery (מבשלת הנגב המערבי)",
+    "beer_type": "Lager - IPL (India Pale Lager)"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-11-30T16:02:35+00:00",
+    "serving": "draft",
+    "rating": 4.5,
+    "beer_name": "Nightmare Fuel",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Porter - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-30T15:59:37+00:00",
+    "serving": "draft",
+    "rating": 3.25,
+    "beer_name": "Everyday Life",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": "Pilsner - Czech / Bohemian"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-11-30T15:36:52+00:00",
+    "serving": "Unknown",
+    "rating": 4.5,
+    "beer_name": "TIPA Mara (2025)",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - Triple"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-11-30T12:14:44+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Kardemumma",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pale Ale - Other"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-11-30T11:25:00+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "ער.ה? 2025",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Stout - White / Golden"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-11-30T11:03:38+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Kelly's Green Pony",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-11-30T09:11:15+00:00",
+    "serving": "draft",
+    "rating": 5.0,
+    "beer_name": "Everyday Life",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": "Pilsner - Czech / Bohemian"
+  },
   {
     "venue": "lauter",
     "time": "2025-11-29T21:20:09+00:00",
@@ -53016,8 +53385,8 @@ const BEER_DATA = [
   {
     "venue": "lauter",
     "time": "2025-08-05T19:24:07+00:00",
-    "serving": "can",
-    "rating": 4.5,
+    "serving": "Unknown",
+    "rating": null,
     "beer_name": "SLUSHY XL: Haha!",
     "brewery": "450 North Brewing Company",
     "beer_type": "Sour - Smoothie / Pastry"
@@ -53025,8 +53394,8 @@ const BEER_DATA = [
   {
     "venue": "lauter",
     "time": "2025-08-05T19:24:07+00:00",
-    "serving": "Unknown",
-    "rating": null,
+    "serving": "can",
+    "rating": 4.5,
     "beer_name": "SLUSHY XL: Haha!",
     "brewery": "450 North Brewing Company",
     "beer_type": "Sour - Smoothie / Pastry"
@@ -61432,19 +61801,19 @@ const BEER_DATA = [
     "venue": "lauter",
     "time": "2025-07-25T18:15:23+00:00",
     "serving": "draft",
-    "rating": 4.8,
-    "beer_name": "Fou' Foune 2023 - Draft Version",
+    "rating": 4.0,
+    "beer_name": "Cuvée Saint-Gilloise 2023 - Draft Version",
     "brewery": "Brasserie Cantillon",
-    "beer_type": "Lambic - Fruit"
+    "beer_type": "Lambic - Traditional"
   },
   {
     "venue": "lauter",
     "time": "2025-07-25T18:15:23+00:00",
     "serving": "draft",
-    "rating": 4.0,
-    "beer_name": "Cuvée Saint-Gilloise 2023 - Draft Version",
+    "rating": 4.8,
+    "beer_name": "Fou' Foune 2023 - Draft Version",
     "brewery": "Brasserie Cantillon",
-    "beer_type": "Lambic - Traditional"
+    "beer_type": "Lambic - Fruit"
   },
   {
     "venue": "lauter",
