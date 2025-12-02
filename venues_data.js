@@ -1,8 +1,476 @@
 // 🍺 BEER STATS DATA - Generated automatically
-// Last updated: 2025-12-01 06:44:44
-// Total records: 8963
+// Last updated: 2025-12-02 06:42:55
+// Total records: 9015
 
 const BEER_DATA = [
+  {
+    "venue": "lauter",
+    "time": "2025-12-01T20:50:11+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Wild Ale W Cherries(Kriek)",
+    "brewery": "Heisenberg",
+    "beer_type": "Homebrew, Lambic - Kriek"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-01T20:47:08+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Forgotten Fates",
+    "brewery": "KCBC - Kings County Brewers Collective",
+    "beer_type": "Stout - Imperial / Double Milk"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-01T20:38:35+00:00",
+    "serving": "Unknown",
+    "rating": 4.5,
+    "beer_name": "Coconut Vanilla Chocolate Cake Imperial Stout",
+    "brewery": "Brewski",
+    "beer_type": "Stout - Imperial / Double Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-01T20:35:11+00:00",
+    "serving": "Unknown",
+    "rating": 3.8,
+    "beer_name": "Globba",
+    "brewery": "VERTERE",
+    "beer_type": "Stout - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-01T20:31:46+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Yuzu Pernicious Weed",
+    "brewery": "Garage Project",
+    "beer_type": "IPA - Imperial / Double"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-01T20:31:13+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Space Solitude",
+    "brewery": "UCHU BREWING",
+    "beer_type": "IPA - Imperial / Double New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-01T20:30:31+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Chopdank 2025",
+    "brewery": "RaR Brewing",
+    "beer_type": "IPA - Imperial / Double"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-01T20:30:30+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Liquid Luck",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": "Pale Ale - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-01T20:29:10+00:00",
+    "serving": "draft",
+    "rating": 4.5,
+    "beer_name": "Kriek 2025 - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": "Lambic - Kriek"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-01T20:23:17+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Out of Order: Poolside Loungin'",
+    "brewery": "RaR Brewing",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-01T20:21:01+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Galaxy Dry Hop Pseudo Sue",
+    "brewery": "Toppling Goliath Brewing Co.",
+    "beer_type": "Pale Ale - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-01T20:18:50+00:00",
+    "serving": "Unknown",
+    "rating": 4.3,
+    "beer_name": "Out of Order: No Horse Play",
+    "brewery": "RaR Brewing",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-01T20:18:06+00:00",
+    "serving": "Unknown",
+    "rating": 3.8,
+    "beer_name": "Lollyphobia",
+    "brewery": "Totopia Brewery",
+    "beer_type": "IPA - Sour"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-01T20:06:37+00:00",
+    "serving": "Unknown",
+    "rating": 4.2,
+    "beer_name": "Braaaaaaaains - Peach Pomegranate",
+    "brewery": "Drekker Brewing Company",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-01T20:05:14+00:00",
+    "serving": "Unknown",
+    "rating": 4.2,
+    "beer_name": "ATOM PASSIONFRUIT",
+    "brewery": "UCHU BREWING",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-01T19:58:05+00:00",
+    "serving": "Unknown",
+    "rating": 3.8,
+    "beer_name": "Out of Order: Forgot Sunscreen",
+    "brewery": "RaR Brewing",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-01T19:53:32+00:00",
+    "serving": "Unknown",
+    "rating": 4.1,
+    "beer_name": "ATOM RASPBERRY",
+    "brewery": "UCHU BREWING",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-01T19:50:56+00:00",
+    "serving": "Unknown",
+    "rating": 4.1,
+    "beer_name": "PhalaRasa (パララサ)",
+    "brewery": "B.M.B Brewery",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-01T19:45:24+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "Karuizawa Kogen Seasonal 2025: Saison",
+    "brewery": "Yo-Ho Brewing Company",
+    "beer_type": "Farmhouse Ale - Saison"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-01T19:44:47+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "Kawauso Enya (カワウソエンヤー)",
+    "brewery": "Himitsu Beer",
+    "beer_type": "Farmhouse Ale - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-01T19:44:19+00:00",
+    "serving": "Unknown",
+    "rating": 3.4,
+    "beer_name": "Yabusame Ale (流鏑馬エール)",
+    "brewery": "Il St Bibitone",
+    "beer_type": "Spiced / Herbed Beer"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-01T19:36:26+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "Fujisan Craft (富士山クラフト)",
+    "brewery": "Far Yeast Brewing Company",
+    "beer_type": "Farmhouse Ale - Saison"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-01T19:36:00+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "Fujizakura Heights Rauch",
+    "brewery": "Fujizakura Height Beer(富士桜高原麦酒)",
+    "beer_type": "Rauchbier"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-01T19:35:06+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "Chessie's Oktoberfest",
+    "brewery": "RaR Brewing",
+    "beer_type": "Märzen"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-01T19:34:16+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "Ogna Oktoberfest",
+    "brewery": "Minamishinshu Beer Co.",
+    "beer_type": "Märzen"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-01T19:33:21+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Moonage Daydream",
+    "brewery": "Cellarmaker Brewing Company",
+    "beer_type": "Pale Ale - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-01T19:24:09+00:00",
+    "serving": "draft",
+    "rating": 4.6,
+    "beer_name": "Kriek 2025 - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": "Lambic - Kriek"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-01T19:21:42+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "Session IPA",
+    "brewery": "Matsumoto Brewery",
+    "beer_type": "IPA - Session"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-12-01T19:18:48+00:00",
+    "serving": "Unknown",
+    "rating": 4.25,
+    "beer_name": "Kelly's Green Pony",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-01T19:16:03+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Kelly's Green Pony",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-12-01T19:15:15+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Kelly's Green Pony",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-01T19:14:52+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "Selfish Games - Skybreaker",
+    "brewery": "HORIZONT Brewing",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-01T19:14:11+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "Kelly's Green Pony",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-12-01T19:13:12+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Kelly's Green Pony",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-01T19:10:21+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "Kriek 2025 - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": "Lambic - Kriek"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-01T19:07:42+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Selfish Games - Skybreaker",
+    "brewery": "HORIZONT Brewing",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-01T19:05:42+00:00",
+    "serving": "draft",
+    "rating": 3.6,
+    "beer_name": "Everyday Life",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": "Pilsner - Czech / Bohemian"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-01T18:58:32+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Everyday Life",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": "Pilsner - Czech / Bohemian"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-01T18:54:21+00:00",
+    "serving": "draft",
+    "rating": 3.25,
+    "beer_name": "Ronen HaKeha HaMerusha'at Dark Ale (הבירה הכהה המרושעת)",
+    "brewery": "Srigim (שריגים)",
+    "beer_type": "Brown Ale - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-01T18:28:33+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "Kriek 2025 - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": "Lambic - Kriek"
+  },
+  {
+    "venue": "porter-and-sons",
+    "time": "2025-12-01T18:19:32+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Tucher Pils",
+    "brewery": "Tucher Bräu",
+    "beer_type": "Pilsner - German"
+  },
+  {
+    "venue": "porter-and-sons",
+    "time": "2025-12-01T18:14:54+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Budweiser Budvar B:DARK / Czechvar B:DARK",
+    "brewery": "Budějovický Budvar",
+    "beer_type": "Lager - Tmavé (Czech Dark)"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-12-01T17:59:03+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "מיץ ענבים",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-01T17:55:10+00:00",
+    "serving": "draft",
+    "rating": 3.8,
+    "beer_name": "Kasteel Tropical",
+    "brewery": "Kasteel Brouwerij Vanhonsebrouck",
+    "beer_type": "Fruit Beer"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-01T17:27:27+00:00",
+    "serving": "can",
+    "rating": 4.75,
+    "beer_name": "NeIPAzza",
+    "brewery": "Wolf's Brewery (Волковская Пивоварня)",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-01T17:24:20+00:00",
+    "serving": "draft",
+    "rating": 3.0,
+    "beer_name": "Hoppy Lager",
+    "brewery": "Isis Desert Brewery (מבשלת הנגב המערבי)",
+    "beer_type": "Lager - IPL (India Pale Lager)"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-01T17:20:01+00:00",
+    "serving": "draft",
+    "rating": 4.75,
+    "beer_name": "Kriek 2025 - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": "Lambic - Kriek"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-12-01T13:39:42+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "ער.ה? 2025",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Stout - White / Golden"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-12-01T13:31:16+00:00",
+    "serving": "draft",
+    "rating": 3.25,
+    "beer_name": "Alt Neuland",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Altbier - Traditional"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-12-01T13:30:21+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Kardemumma",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pale Ale - Other"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-12-01T13:24:13+00:00",
+    "serving": "draft",
+    "rating": 3.0,
+    "beer_name": "Kardemumma",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pale Ale - Other"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-12-01T13:20:38+00:00",
+    "serving": "draft",
+    "rating": 3.25,
+    "beer_name": "Alt Neuland",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Altbier - Traditional"
+  },
   {
     "venue": "schnitt-brewing-company",
     "time": "2025-11-30T21:34:31+00:00",
@@ -5255,18 +5723,18 @@ const BEER_DATA = [
     "time": "2025-11-21T10:35:21+00:00",
     "serving": "bottle",
     "rating": 4.25,
-    "beer_name": "Rullquin au café du Rwanda",
-    "brewery": "Gueuzerie Tilquin",
-    "beer_type": "Sour - Other"
+    "beer_name": "Grapefruit Peel Lambiek - Sparkling Infused",
+    "brewery": "Oud Beersel",
+    "beer_type": "Lambic - Other"
   },
   {
     "venue": "b7-beer-house",
     "time": "2025-11-21T10:35:21+00:00",
     "serving": "bottle",
     "rating": 4.25,
-    "beer_name": "Grapefruit Peel Lambiek - Sparkling Infused",
-    "brewery": "Oud Beersel",
-    "beer_type": "Lambic - Other"
+    "beer_name": "Rullquin au café du Rwanda",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": "Sour - Other"
   },
   {
     "venue": "b7-beer-house",
@@ -16729,7 +17197,7 @@ const BEER_DATA = [
     "venue": "lauter",
     "time": "2025-10-26T18:36:28+00:00",
     "serving": "can",
-    "rating": 3.75,
+    "rating": 3.25,
     "beer_name": "Darkness My Friends Imperial Baltic Porter Coffee & Date Syrup",
     "brewery": "Maryensztadt",
     "beer_type": "Porter - Baltic"
@@ -16738,7 +17206,7 @@ const BEER_DATA = [
     "venue": "lauter",
     "time": "2025-10-26T18:36:28+00:00",
     "serving": "can",
-    "rating": 3.25,
+    "rating": 3.75,
     "beer_name": "Darkness My Friends Imperial Baltic Porter Coffee & Date Syrup",
     "brewery": "Maryensztadt",
     "beer_type": "Porter - Baltic"
@@ -46435,15 +46903,6 @@ const BEER_DATA = [
     "beer_type": "Stout - White / Golden"
   },
   {
-    "venue": "b7-beer-house",
-    "time": "2025-08-21T16:00:28+00:00",
-    "serving": "can",
-    "rating": 5.0,
-    "beer_name": "Naughty & Nice - White Chocolate & Raspberry",
-    "brewery": "Vocation Brewery",
-    "beer_type": "Stout - White / Golden"
-  },
-  {
     "venue": "lauter",
     "time": "2025-08-21T16:00:28+00:00",
     "serving": "draft",
@@ -46451,6 +46910,15 @@ const BEER_DATA = [
     "beer_name": "KRUSHED IT",
     "brewery": "Oak & Ash",
     "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-21T16:00:28+00:00",
+    "serving": "can",
+    "rating": 5.0,
+    "beer_name": "Naughty & Nice - White Chocolate & Raspberry",
+    "brewery": "Vocation Brewery",
+    "beer_type": "Stout - White / Golden"
   },
   {
     "venue": "b7-beer-house",
@@ -53682,8 +54150,8 @@ const BEER_DATA = [
   {
     "venue": "lauter",
     "time": "2025-08-05T18:49:38+00:00",
-    "serving": "can",
-    "rating": 4.0,
+    "serving": "Unknown",
+    "rating": 4.5,
     "beer_name": "Whakahoa",
     "brewery": "Factory Brewing",
     "beer_type": "IPA - Triple New England / Hazy"
@@ -53691,8 +54159,8 @@ const BEER_DATA = [
   {
     "venue": "lauter",
     "time": "2025-08-05T18:49:38+00:00",
-    "serving": "Unknown",
-    "rating": 4.5,
+    "serving": "can",
+    "rating": 4.0,
     "beer_name": "Whakahoa",
     "brewery": "Factory Brewing",
     "beer_type": "IPA - Triple New England / Hazy"
