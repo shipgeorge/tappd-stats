@@ -1,8 +1,359 @@
 // 🍺 BEER STATS DATA - Generated automatically
-// Last updated: 2025-12-02 06:42:55
-// Total records: 9015
+// Last updated: 2025-12-03 06:42:11
+// Total records: 9054
 
 const BEER_DATA = [
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-12-02T21:43:57+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "מיץ עננים",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-12-02T20:48:52+00:00",
+    "serving": "Unknown",
+    "rating": 4.25,
+    "beer_name": "Buster's Cranberry Lemonade",
+    "brewery": "Oak & Ash",
+    "beer_type": "Malt Liquor"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-02T20:35:49+00:00",
+    "serving": "can",
+    "rating": 4.2,
+    "beer_name": "Red & Black Currant Berliner Weisse",
+    "brewery": "Ārpus Brewing Co.",
+    "beer_type": "Sour - Fruited Berliner Weisse"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-12-02T20:35:09+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "מיץ עננים",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-02T20:34:06+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Red & Black Currant Berliner Weisse",
+    "brewery": "Ārpus Brewing Co.",
+    "beer_type": "Sour - Fruited Berliner Weisse"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-12-02T20:32:25+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "Kelly's Green Pony",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-02T19:51:52+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Fruit Burst",
+    "brewery": "BrewDog",
+    "beer_type": "Pale Ale - English"
+  },
+  {
+    "venue": "ursa",
+    "time": "2025-12-02T19:40:58+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Selfish Games - One Night In Dubai",
+    "brewery": "HORIZONT Brewing",
+    "beer_type": "Stout - Imperial / Double"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-12-02T19:27:25+00:00",
+    "serving": "draft",
+    "rating": 3.7,
+    "beer_name": "מיץ עננים",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-12-02T19:18:55+00:00",
+    "serving": "draft",
+    "rating": 3.25,
+    "beer_name": "Kardemumma",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pale Ale - Other"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-12-02T19:18:52+00:00",
+    "serving": "draft",
+    "rating": 3.8,
+    "beer_name": "מיץ עננים",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-12-02T19:11:20+00:00",
+    "serving": "draft",
+    "rating": null,
+    "beer_name": "Lollihop",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "berlin-florentin",
+    "time": "2025-12-02T18:38:25+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Selfish Games Journey1000",
+    "brewery": "HORIZONT Brewing",
+    "beer_type": "Pilsner - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-02T18:36:24+00:00",
+    "serving": "draft",
+    "rating": 3.7,
+    "beer_name": "Hoppy Lager",
+    "brewery": "Isis Desert Brewery (מבשלת הנגב המערבי)",
+    "beer_type": "Lager - IPL (India Pale Lager)"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-02T18:35:10+00:00",
+    "serving": "draft",
+    "rating": 3.3,
+    "beer_name": "Hoppy Lager",
+    "brewery": "Isis Desert Brewery (מבשלת הנגב המערבי)",
+    "beer_type": "Lager - IPL (India Pale Lager)"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-02T18:10:28+00:00",
+    "serving": "can",
+    "rating": null,
+    "beer_name": "Hefe Weissbier",
+    "brewery": "Volfas Engelman",
+    "beer_type": "Wheat Beer - Hefeweizen"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-02T17:44:38+00:00",
+    "serving": "bottle",
+    "rating": null,
+    "beer_name": "Chimay Grande Réserve (Blue) (2024)",
+    "brewery": "Bières de Chimay",
+    "beer_type": "Belgian Strong Dark Ale"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-02T17:43:13+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Baize",
+    "brewery": "Thornbridge Brewery",
+    "beer_type": "Stout - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-02T17:42:50+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "ער.ה? 2025",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Stout - White / Golden"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-02T17:41:27+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Coresh כורש",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Smoked Beer"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-02T17:18:06+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Kasteel Tropical",
+    "brewery": "Kasteel Brouwerij Vanhonsebrouck",
+    "beer_type": "Fruit Beer"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-02T17:16:23+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Gentle Bastard",
+    "brewery": "HORIZONT Brewing",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-02T17:07:28+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Budweiser Budvar B:DARK / Czechvar B:DARK",
+    "brewery": "Budějovický Budvar",
+    "beer_type": "Lager - Tmavé (Czech Dark)"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-02T17:06:57+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Ronen HaKeha HaMerusha'at Dark Ale (הבירה הכהה המרושעת)",
+    "brewery": "Srigim (שריגים)",
+    "beer_type": "Brown Ale - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-02T17:06:25+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Hazy Queen",
+    "brewery": "HORIZONT Brewing",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-02T16:29:02+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "ער.ה? 2025",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Stout - White / Golden"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-02T16:00:43+00:00",
+    "serving": "draft",
+    "rating": 3.25,
+    "beer_name": "Tucher Pils",
+    "brewery": "Tucher Bräu",
+    "beer_type": "Pilsner - German"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-12-02T15:51:33+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "חוצה ישראל",
+    "brewery": "New Pioneer Brewing Co - חלוץ חדש",
+    "beer_type": "Wheat Beer - Other"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-12-02T15:45:02+00:00",
+    "serving": "Unknown",
+    "rating": 4.5,
+    "beer_name": "שלושה צעדים קדימה",
+    "brewery": "New Pioneer Brewing Co - חלוץ חדש",
+    "beer_type": "Lager - IPL (India Pale Lager)"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-02T15:38:14+00:00",
+    "serving": "draft",
+    "rating": 3.0,
+    "beer_name": "Kriek 2025 - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": "Lambic - Kriek"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-12-02T15:31:07+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Fruity Mish Mash",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-12-02T15:22:30+00:00",
+    "serving": "draft",
+    "rating": 4.2,
+    "beer_name": "Lemon X Coconut X Pineapple X Cherry Smoothie Sour Ale",
+    "brewery": "Ārpus Brewing Co.",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-12-02T14:10:53+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "מיץ עננים",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-12-02T14:08:39+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "מיץ עננים",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-12-02T14:07:47+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "מיץ עננים",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-12-02T12:30:36+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Pink Pepper Infused Lambic",
+    "brewery": "Oud Beersel",
+    "beer_type": "Lambic - Other"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-12-02T11:57:44+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "מיץ עננים",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-12-02T11:29:04+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Alt Neuland",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Altbier - Traditional"
+  },
+  {
+    "venue": "beerline",
+    "time": "2025-12-02T11:06:43+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "Delirium Nocturnum",
+    "brewery": "Delirium - Huyghe Brewery",
+    "beer_type": "Belgian Strong Dark Ale"
+  },
   {
     "venue": "lauter",
     "time": "2025-12-01T20:50:11+00:00",
@@ -42018,7 +42369,7 @@ const BEER_DATA = [
   {
     "venue": "lauter",
     "time": "2025-09-01T17:44:35+00:00",
-    "serving": "Unknown",
+    "serving": "bottle",
     "rating": 4.0,
     "beer_name": "Hops Don’t Lie",
     "brewery": "Thurø Bryghus",
@@ -42027,7 +42378,7 @@ const BEER_DATA = [
   {
     "venue": "lauter",
     "time": "2025-09-01T17:44:35+00:00",
-    "serving": "bottle",
+    "serving": "Unknown",
     "rating": 4.0,
     "beer_name": "Hops Don’t Lie",
     "brewery": "Thurø Bryghus",
