@@ -1,4 +1,25 @@
 venue,user,time,serving,data_rating,beer_name,brewery,beer_type
+lauter,Gal Sokol,"Sun, 07 Dec 2025 23:37:32 +0000",can,3.75,Smoothie Bowl - Soft & Fruity,Nepo Brewing,Sour - Smoothie / Pastry
+lauter,Yanai Ben- Alon,"Sun, 07 Dec 2025 21:55:42 +0000",can,3.0,Guava X Strawberry X Peach X Orange X Vanilla Smoothie Sour Ale,Ārpus Brewing Co.,Sour - Smoothie / Pastry
+schnitt-brewing-company,Yanai Ben- Alon,"Sun, 07 Dec 2025 21:55:14 +0000",draft,4.25,ער.ה? 2025,Schnitt Brewing Company﻿,Stout - White / Golden
+lauter,Yanai Ben- Alon,"Sun, 07 Dec 2025 21:54:19 +0000",can,4.25,ער.ה? 2025,Schnitt Brewing Company﻿,Stout - White / Golden
+schnitt-brewing-company,Adi Levi,"Sun, 07 Dec 2025 21:43:32 +0000",,3.75,Coresh כורש,Schnitt Brewing Company﻿,Smoked Beer
+lauter,עידן חן,"Sun, 07 Dec 2025 21:17:54 +0000",can,3.5,Smoothie Bowl - Soft & Fruity,Nepo Brewing,Sour - Smoothie / Pastry
+lauter,tmrlvi,"Sun, 07 Dec 2025 20:49:09 +0000",can,5.0,DDH Riwaka X Nectaron X Superdelic Pale Ale,Ārpus Brewing Co.,Pale Ale - New England / Hazy
+schnitt-brewing-company,UV R,"Sun, 07 Dec 2025 20:09:05 +0000",draft,4.5,מיץ עננים,Schnitt Brewing Company﻿,IPA - New England / Hazy
+lauter,Shmupi Koto,"Sun, 07 Dec 2025 19:29:34 +0000",,4.6,Kriek 2025 - Draft Version,Brasserie Cantillon,Lambic - Kriek
+schnitt-brewing-company,Avi Shalom,"Sun, 07 Dec 2025 18:25:21 +0000",draft,3.75,Global Chillin',Schnitt Brewing Company﻿,IPA - Cold
+lauter,Yaniv Alal,"Sun, 07 Dec 2025 18:24:49 +0000",draft,3.75,TIPA Mara (2025),Schnitt Brewing Company﻿,IPA - Triple
+lauter,Yaniv Alal,"Sun, 07 Dec 2025 18:23:56 +0000",draft,4.75,Kriek 2025 - Draft Version,Brasserie Cantillon,Lambic - Kriek
+schnitt-brewing-company,Avi Shalom,"Sun, 07 Dec 2025 18:23:34 +0000",draft,3.5,מיץ עננים,Schnitt Brewing Company﻿,IPA - New England / Hazy
+lauter,Shmupi Koto,"Sun, 07 Dec 2025 18:05:01 +0000",draft,4.6,Kriek 2025 - Draft Version,Brasserie Cantillon,Lambic - Kriek
+lauter,Leon,"Sun, 07 Dec 2025 14:25:36 +0000",draft,2.25,Rinktinis,Volfas Engelman,Lager - Pale
+schnitt-brewing-company,Lior Degabli,"Sun, 07 Dec 2025 12:05:55 +0000",draft,3.75,מיץ עננים,Schnitt Brewing Company﻿,IPA - New England / Hazy
+schnitt-brewing-company,Lior Degabli,"Sun, 07 Dec 2025 12:02:31 +0000",draft,3.75,Global Chillin',Schnitt Brewing Company﻿,IPA - Cold
+schnitt-brewing-company,Leon,"Sun, 07 Dec 2025 11:39:47 +0000",draft,3.5,Global Chillin',Schnitt Brewing Company﻿,IPA - Cold
+lauter,גל סילברמן,"Sun, 07 Dec 2025 10:16:45 +0000",bottle,4.1,Alsacien (2023 - Bottle),Boerenerf,Lambic - Fruit
+schnitt-brewing-company,Roy Falach,"Sun, 07 Dec 2025 09:30:33 +0000",draft,3.25,It Is What It Is,Schnitt Brewing Company﻿,Blonde / Golden Ale - Other
+schnitt-brewing-company,Roy Falach,"Sun, 07 Dec 2025 09:28:56 +0000",draft,3.75,Fruity Mish Mash,Schnitt Brewing Company﻿,IPA - New England / Hazy
 lauter,Elad Schitrit,"Sat, 06 Dec 2025 19:46:32 +0000",can,3.25,Selfish Games - Hops of the Damned,HORIZONT Brewing,IPA - Other
 lauter,David Siegel,"Sat, 06 Dec 2025 19:38:28 +0000",can,4.0,Liquid Luck,Sibeeria Brewery,Pale Ale - American
 lauter,Chinese Uncle,"Sat, 06 Dec 2025 19:36:26 +0000",bottle,3.0,Admiral Nelson,קישקשתא (Kishkashta),IPA - American
@@ -2129,8 +2150,8 @@ lauter,Lee Ker,"Sun, 26 Oct 2025 18:41:01 +0000",,,Darkness My Friend - Imperial
 lauter,Shaul A,"Sun, 26 Oct 2025 18:37:28 +0000",can,3.75,Darkness My Friends Imperial Baltic Porter Coffee & Date Syrup,Maryensztadt,Porter - Baltic
 lauter,Tal,"Sun, 26 Oct 2025 18:37:13 +0000",can,4.25,Darkness My Friends Imperial Baltic Porter Coffee & Date Syrup,Maryensztadt,Porter - Baltic
 lauter,roey_lerman_9282,"Sun, 26 Oct 2025 18:36:50 +0000",can,3.5,Darkness My Friends Imperial Baltic Porter Coffee & Date Syrup,Maryensztadt,Porter - Baltic
-lauter,adi_zadik_2741,"Sun, 26 Oct 2025 18:36:28 +0000",can,3.25,Darkness My Friends Imperial Baltic Porter Coffee & Date Syrup,Maryensztadt,Porter - Baltic
 lauter,Nativ Kapach,"Sun, 26 Oct 2025 18:36:28 +0000",can,3.75,Darkness My Friends Imperial Baltic Porter Coffee & Date Syrup,Maryensztadt,Porter - Baltic
+lauter,adi_zadik_2741,"Sun, 26 Oct 2025 18:36:28 +0000",can,3.25,Darkness My Friends Imperial Baltic Porter Coffee & Date Syrup,Maryensztadt,Porter - Baltic
 lauter,Yaron Sh,"Sun, 26 Oct 2025 18:34:37 +0000",,4.0,Darkness My Friends Imperial Baltic Porter Coffee & Date Syrup,Maryensztadt,Porter - Baltic
 lauter,Yaron Sh,"Sun, 26 Oct 2025 18:33:45 +0000",,4.5,Barrel Aged Projekt: Chocolate Rye RIS Jack Daniels Whiskey BA,Maryensztadt,Stout - Russian Imperial
 lauter,Lee Ker,"Sun, 26 Oct 2025 18:32:27 +0000",can,,Darkness My Friends Imperial Baltic Porter Coffee & Date Syrup,Maryensztadt,Porter - Baltic
@@ -5424,8 +5445,8 @@ b7-beer-house,Liad Shaked,"Thu, 21 Aug 2025 16:04:25 +0000",can,3.8,Nitro Mini M
 b7-beer-house,Tom Lahav,"Thu, 21 Aug 2025 16:04:24 +0000",can,3.5,Nitro Mini M*rs,Vault City Brewing,Stout - Pastry
 b7-beer-house,Raz Ko,"Thu, 21 Aug 2025 16:03:38 +0000",can,4.2,Salted Caramel Crema,Vault City Brewing,Stout - Imperial / Double Coffee
 b7-beer-house,Eran Keller,"Thu, 21 Aug 2025 16:03:08 +0000",can,4.25,Salted Caramel Crema,Vault City Brewing,Stout - Imperial / Double Coffee
-b7-beer-house,Elior Mizrahi,"Thu, 21 Aug 2025 16:02:37 +0000",,3.75,Nitro Mini M*rs,Vault City Brewing,Stout - Pastry
 b7-beer-house,Raz Ko,"Thu, 21 Aug 2025 16:02:37 +0000",can,3.5,Nitro Mini M*rs,Vault City Brewing,Stout - Pastry
+b7-beer-house,Elior Mizrahi,"Thu, 21 Aug 2025 16:02:37 +0000",,3.75,Nitro Mini M*rs,Vault City Brewing,Stout - Pastry
 b7-beer-house,Liad Shaked,"Thu, 21 Aug 2025 16:02:21 +0000",can,4.3,Salted Caramel Crema,Vault City Brewing,Stout - Imperial / Double Coffee
 b7-beer-house,Ido Cohen,"Thu, 21 Aug 2025 16:02:06 +0000",can,3.9,Birthday Cake,Vocation Brewery,Stout - Milk / Sweet
 b7-beer-house,Eran Keller,"Thu, 21 Aug 2025 16:01:24 +0000",can,3.75,Naughty & Nice - White Chocolate & Raspberry,Vocation Brewery,Stout - White / Golden
@@ -6202,8 +6223,8 @@ lauter,Yaron Sh,"Tue, 05 Aug 2025 19:29:11 +0000",,4.0,SLUSHY XL: Haha!,450 Nort
 lauter,Kobi,"Tue, 05 Aug 2025 19:29:05 +0000",,4.3,Hydralisk,Spanish Marie Brewery,Sour - Smoothie / Pastry
 lauter,Yosef Dahan,"Tue, 05 Aug 2025 19:28:30 +0000",can,3.75,SLUSHY XL: Haha!,450 North Brewing Company,Sour - Smoothie / Pastry
 lauter,Shaul A,"Tue, 05 Aug 2025 19:26:45 +0000",,4.25,SLUSHY XL: Haha!,450 North Brewing Company,Sour - Smoothie / Pastry
-lauter,Mikhail Stolov,"Tue, 05 Aug 2025 19:24:07 +0000",can,4.5,SLUSHY XL: Haha!,450 North Brewing Company,Sour - Smoothie / Pastry
 lauter,Oren Sleepwalker,"Tue, 05 Aug 2025 19:24:07 +0000",,,SLUSHY XL: Haha!,450 North Brewing Company,Sour - Smoothie / Pastry
+lauter,Mikhail Stolov,"Tue, 05 Aug 2025 19:24:07 +0000",can,4.5,SLUSHY XL: Haha!,450 North Brewing Company,Sour - Smoothie / Pastry
 lauter,Kobi,"Tue, 05 Aug 2025 19:21:59 +0000",,4.3,SLUSHY XL: Haha!,450 North Brewing Company,Sour - Smoothie / Pastry
 lauter,Shaul A,"Tue, 05 Aug 2025 19:16:22 +0000",,4.25,Monstrous Oils,Cellarmaker Brewing Company,IPA - Quadruple
 lauter,Yaron Sh,"Tue, 05 Aug 2025 19:15:56 +0000",,4.25,Monstrous Oils,Cellarmaker Brewing Company,IPA - Quadruple
@@ -7021,8 +7042,8 @@ lauter,Shmupi Koto,"Sat, 26 Jul 2025 15:40:24 +0000",can,3.7,Smoothie Bowl - Pea
 lauter,David Siegel,"Sat, 26 Jul 2025 15:38:40 +0000",,4.25,Smoothie Bowl - Peachy Dragon,Nepo Brewing,Sour - Smoothie / Pastry
 lauter,Adam Berelowitz,"Sat, 26 Jul 2025 15:35:23 +0000",can,4.3,Smoothie Bowl - Peachy Dragon,Nepo Brewing,Sour - Smoothie / Pastry
 schnitt-brewing-company,Omri Gill,"Sat, 26 Jul 2025 15:33:39 +0000",draft,3.75,Mexico City Twist,Schnitt Brewing Company﻿,Lager - Mexican
-lauter,David Siegel,"Sat, 26 Jul 2025 15:22:08 +0000",,4.0,Pijże,Nepo Brewing,Pale Ale - New England / Hazy
 lauter,Adam Berelowitz,"Sat, 26 Jul 2025 15:22:08 +0000",can,4.2,Smoothie Bowl: Pistachio Fluff,Nepo Brewing,Sour - Smoothie / Pastry
+lauter,David Siegel,"Sat, 26 Jul 2025 15:22:08 +0000",,4.0,Pijże,Nepo Brewing,Pale Ale - New England / Hazy
 lauter,Adam Berelowitz,"Sat, 26 Jul 2025 15:21:39 +0000",can,4.3,Pijże,Nepo Brewing,Pale Ale - New England / Hazy
 lauter,David Siegel,"Sat, 26 Jul 2025 15:20:22 +0000",,4.25,Smoothie Bowl: Pistachio Fluff,Nepo Brewing,Sour - Smoothie / Pastry
 lauter,Anton B,"Sat, 26 Jul 2025 15:17:20 +0000",can,,Windy Hill,Mikkeller,IPA - New England / Hazy
@@ -8183,8 +8204,8 @@ berlin-florentin,Sharon Confino,"Mon, 23 Dec 2024 18:45:24 +0000",bottle,3.75,Fr
 berlin-florentin,Yana O,"Mon, 23 Dec 2024 18:44:17 +0000",bottle,4.0,Framboise,Brouwerij Lindemans,Lambic - Framboise
 berlin-florentin,Ⓜ️axx Dee,"Mon, 23 Dec 2024 18:44:11 +0000",bottle,4.0,Framboise,Brouwerij Lindemans,Lambic - Framboise
 berlin-florentin,Ⓜ️axx Dee,"Mon, 23 Dec 2024 18:38:17 +0000",bottle,4.0,Christmas Ale (2023),Brouwerij St.Bernardus,Winter Ale
-berlin-florentin,Yana O,"Mon, 23 Dec 2024 18:37:49 +0000",bottle,4.1,Christmas Ale (2023),Brouwerij St.Bernardus,Winter Ale
 berlin-florentin,Sharon Confino,"Mon, 23 Dec 2024 18:37:49 +0000",bottle,3.0,Christmas Ale,Brouwerij St.Bernardus,Winter Ale
+berlin-florentin,Yana O,"Mon, 23 Dec 2024 18:37:49 +0000",bottle,4.1,Christmas Ale (2023),Brouwerij St.Bernardus,Winter Ale
 berlin-florentin,Sharon Confino,"Mon, 23 Dec 2024 18:32:18 +0000",bottle,4.5,Faro,Brouwerij Lindemans,Lambic - Faro
 berlin-florentin,Yana O,"Mon, 23 Dec 2024 18:30:45 +0000",bottle,4.0,Faro,Brouwerij Lindemans,Lambic - Faro
 berlin-florentin,Ⓜ️axx Dee,"Mon, 23 Dec 2024 18:30:43 +0000",bottle,4.1,Faro,Brouwerij Lindemans,Lambic - Faro
