@@ -1,8 +1,269 @@
 // 🍺 BEER STATS DATA - Generated automatically
-// Last updated: 2025-12-08 06:46:33
-// Total records: 9256
+// Last updated: 2025-12-09 06:43:16
+// Total records: 9285
 
 const BEER_DATA = [
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-12-08T20:48:26+00:00",
+    "serving": "draft",
+    "rating": 1.0,
+    "beer_name": "ער.ה? 2025",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Stout - White / Golden"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-12-08T20:46:25+00:00",
+    "serving": "draft",
+    "rating": 3.25,
+    "beer_name": "TIPA Mara (2025)",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - Triple"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-12-08T20:44:56+00:00",
+    "serving": "draft",
+    "rating": 2.25,
+    "beer_name": "האימפריה מכה שניט",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-12-08T20:42:57+00:00",
+    "serving": "draft",
+    "rating": 1.75,
+    "beer_name": "מיץ עננים",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-12-08T20:34:11+00:00",
+    "serving": "draft",
+    "rating": 3.25,
+    "beer_name": "Nightmare Fuel",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Porter - American"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-12-08T20:33:12+00:00",
+    "serving": "draft",
+    "rating": 2.0,
+    "beer_name": "It Is What It Is",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Blonde / Golden Ale - Other"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-12-08T20:32:20+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Four Hopsmen",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - Imperial / Double New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-12-08T20:31:01+00:00",
+    "serving": "draft",
+    "rating": 3.0,
+    "beer_name": "Citra Achra סיטרה אחרא",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - Other"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-12-08T19:40:21+00:00",
+    "serving": "draft",
+    "rating": 3.0,
+    "beer_name": "Global Chillin'",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - Cold"
+  },
+  {
+    "venue": "porter-and-sons",
+    "time": "2025-12-08T19:21:31+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Aecht Schlenkerla Rauchbier – Märzen",
+    "brewery": "Schlenkerla (\"Heller-Bräu\" Trum)",
+    "beer_type": "Rauchbier"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-08T19:21:06+00:00",
+    "serving": "draft",
+    "rating": 4.6,
+    "beer_name": "Kriek 2025 - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": "Lambic - Kriek"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-12-08T18:57:27+00:00",
+    "serving": "draft",
+    "rating": 3.0,
+    "beer_name": "Global Chillin'",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - Cold"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-12-08T18:49:58+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "מיץ עננים",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-08T18:28:46+00:00",
+    "serving": "draft",
+    "rating": 3.7,
+    "beer_name": "ער.ה? 2025",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Stout - White / Golden"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-08T18:27:50+00:00",
+    "serving": "Unknown",
+    "rating": 3.4,
+    "beer_name": "TIPA Mara (2025)",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - Triple"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-08T18:27:10+00:00",
+    "serving": "Unknown",
+    "rating": 1.5,
+    "beer_name": "Bitburger 0,0% alkoholfreies Pils",
+    "brewery": "Bitburger Brauerei",
+    "beer_type": "Non-Alcoholic - Lager"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-12-08T18:08:25+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Alt Neuland",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Altbier - Traditional"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-12-08T17:45:12+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Coresh כורש",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Smoked Beer"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-08T17:27:26+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Rinktinis",
+    "brewery": "Volfas Engelman",
+    "beer_type": "Lager - Pale"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-08T17:27:09+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "TIPA Mara (2025)",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - Triple"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-08T16:53:53+00:00",
+    "serving": "draft",
+    "rating": 3.8,
+    "beer_name": "Motueka Sunrise",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-08T16:50:16+00:00",
+    "serving": "draft",
+    "rating": 3.1,
+    "beer_name": "Rinktinis",
+    "brewery": "Volfas Engelman",
+    "beer_type": "Lager - Pale"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-12-08T15:46:40+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Global Chillin'",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - Cold"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-12-08T15:46:37+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "Global Chillin'",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - Cold"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-12-08T14:33:55+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Nightmare Fuel",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Porter - American"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-12-08T14:29:48+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Global Chillin'",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - Cold"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-12-08T14:27:32+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "ער.ה? 2025",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Stout - White / Golden"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-12-08T09:06:09+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "מיץ עננים",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-12-08T07:40:50+00:00",
+    "serving": "draft",
+    "rating": null,
+    "beer_name": "TIPA Mara (2025)",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - Triple"
+  },
   {
     "venue": "lauter",
     "time": "2025-12-07T23:37:32+00:00",
@@ -56022,8 +56283,8 @@ const BEER_DATA = [
   {
     "venue": "lauter",
     "time": "2025-08-05T19:24:07+00:00",
-    "serving": "Unknown",
-    "rating": null,
+    "serving": "can",
+    "rating": 4.5,
     "beer_name": "SLUSHY XL: Haha!",
     "brewery": "450 North Brewing Company",
     "beer_type": "Sour - Smoothie / Pastry"
@@ -56031,8 +56292,8 @@ const BEER_DATA = [
   {
     "venue": "lauter",
     "time": "2025-08-05T19:24:07+00:00",
-    "serving": "can",
-    "rating": 4.5,
+    "serving": "Unknown",
+    "rating": null,
     "beer_name": "SLUSHY XL: Haha!",
     "brewery": "450 North Brewing Company",
     "beer_type": "Sour - Smoothie / Pastry"
@@ -56319,8 +56580,8 @@ const BEER_DATA = [
   {
     "venue": "lauter",
     "time": "2025-08-05T18:49:38+00:00",
-    "serving": "can",
-    "rating": 4.0,
+    "serving": "Unknown",
+    "rating": 4.5,
     "beer_name": "Whakahoa",
     "brewery": "Factory Brewing",
     "beer_type": "IPA - Triple New England / Hazy"
@@ -56328,8 +56589,8 @@ const BEER_DATA = [
   {
     "venue": "lauter",
     "time": "2025-08-05T18:49:38+00:00",
-    "serving": "Unknown",
-    "rating": 4.5,
+    "serving": "can",
+    "rating": 4.0,
     "beer_name": "Whakahoa",
     "brewery": "Factory Brewing",
     "beer_type": "IPA - Triple New England / Hazy"
