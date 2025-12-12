@@ -1,8 +1,539 @@
 // 🍺 BEER STATS DATA - Generated automatically
-// Last updated: 2025-12-11 06:45:09
-// Total records: 9335
+// Last updated: 2025-12-12 06:44:16
+// Total records: 9394
 
 const BEER_DATA = [
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-12-11T22:47:43+00:00",
+    "serving": "draft",
+    "rating": 3.8,
+    "beer_name": "Porter&Sons: Amarena Cherry",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Porter - American"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-12-11T22:38:23+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "Global Chillin'",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - Cold"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-12-11T22:34:04+00:00",
+    "serving": "draft",
+    "rating": 3.6,
+    "beer_name": "Global Chillin'",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - Cold"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-11T22:09:16+00:00",
+    "serving": "draft",
+    "rating": 3.7,
+    "beer_name": "Motueka Sunrise",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-11T22:02:02+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "Octopus Wants To Fight (New England)",
+    "brewery": "Great Lakes Brewery",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "beerz",
+    "time": "2025-12-11T21:16:18+00:00",
+    "serving": "can",
+    "rating": 3.7,
+    "beer_name": "Selfish Games - Vision In Pink",
+    "brewery": "HORIZONT Brewing",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-11T21:16:17+00:00",
+    "serving": "bottle",
+    "rating": 3.0,
+    "beer_name": "באה מאהבה",
+    "brewery": "New Pioneer Brewing Co - חלוץ חדש",
+    "beer_type": "Red Ale - American Amber / Red"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-11T21:11:05+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "Monogamy (Nectaron)",
+    "brewery": "Bellwoods Brewery",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-11T21:07:56+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Motueka Sunrise",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-11T21:07:50+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Morning Joe",
+    "brewery": "HORIZONT Brewing",
+    "beer_type": "Stout - Coffee"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-11T21:04:22+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Morning Joe",
+    "brewery": "HORIZONT Brewing",
+    "beer_type": "Stout - Coffee"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-11T21:03:56+00:00",
+    "serving": "bottle",
+    "rating": null,
+    "beer_name": "באה מאהבה",
+    "brewery": "New Pioneer Brewing Co - חלוץ חדש",
+    "beer_type": "Red Ale - American Amber / Red"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-11T21:02:55+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Ducks",
+    "brewery": "Burdock Brewery",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-11T20:46:20+00:00",
+    "serving": "draft",
+    "rating": 3.0,
+    "beer_name": "Rinktinis",
+    "brewery": "Volfas Engelman",
+    "beer_type": "Lager - Pale"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-12-11T20:39:02+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Porter&Sons: Amarena Cherry",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Porter - American"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-12-11T20:36:13+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "ער.ה? 2025",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Stout - White / Golden"
+  },
+  {
+    "venue": "beerz",
+    "time": "2025-12-11T20:26:05+00:00",
+    "serving": "can",
+    "rating": 3.3,
+    "beer_name": "Gimme My Ice Tea!",
+    "brewery": "HORIZONT Brewing",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-12-11T20:05:08+00:00",
+    "serving": "draft",
+    "rating": 3.25,
+    "beer_name": "Global Chillin'",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - Cold"
+  },
+  {
+    "venue": "beerz",
+    "time": "2025-12-11T20:04:41+00:00",
+    "serving": "can",
+    "rating": 3.7,
+    "beer_name": "Sour Series - Papa Prosciutto & Funghi",
+    "brewery": "HORIZONT Brewing",
+    "beer_type": "Sour - Tomato / Vegetable Gose"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-12-11T20:03:35+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "מיץ עננים",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-11T19:56:02+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Barbãr Bok",
+    "brewery": "Brasserie Lefebvre",
+    "beer_type": "Bock - Single / Traditional"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-11T19:55:50+00:00",
+    "serving": "bottle",
+    "rating": 4.0,
+    "beer_name": "Barbãr Bok",
+    "brewery": "Brasserie Lefebvre",
+    "beer_type": "Bock - Single / Traditional"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-12-11T19:31:20+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Spaten Oktoberfest Ur-Märzen / Winter",
+    "brewery": "Spaten-Franziskaner-Löwenbräu-Gruppe",
+    "beer_type": "Märzen"
+  },
+  {
+    "venue": "beerz",
+    "time": "2025-12-11T19:26:42+00:00",
+    "serving": "can",
+    "rating": 4.2,
+    "beer_name": "Red & Black Currant Berliner Weisse",
+    "brewery": "Ārpus Brewing Co.",
+    "beer_type": "Sour - Fruited Berliner Weisse"
+  },
+  {
+    "venue": "beerz",
+    "time": "2025-12-11T19:25:05+00:00",
+    "serving": "can",
+    "rating": 3.8,
+    "beer_name": "Endless Marathon",
+    "brewery": "HORIZONT Brewing",
+    "beer_type": "Farmhouse Ale - Saison"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-11T19:12:53+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "La Chouffe Blonde",
+    "brewery": "Brasserie d'Achouffe",
+    "beer_type": "Belgian Strong Golden Ale"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-11T19:05:38+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Edelweiss Snowfresh / Wheat Beer",
+    "brewery": "Brau Union Österreich",
+    "beer_type": "Wheat Beer - Hefeweizen"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-11T18:57:59+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "ער.ה? 2025",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Stout - White / Golden"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-11T18:30:12+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "I Love You...",
+    "brewery": "Thornbridge Brewery",
+    "beer_type": "Fruit Beer"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-12-11T18:29:57+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Raspberry Sorbet",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-12-11T18:29:04+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "חלוץ תחת אש",
+    "brewery": "New Pioneer Brewing Co - חלוץ חדש",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-11T18:28:31+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Budweiser Budvar / Czechvar Original",
+    "brewery": "Budějovický Budvar",
+    "beer_type": "Pilsner - Czech / Bohemian"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-11T18:26:39+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "TIPA Mara",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - Triple"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-11T18:26:11+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "TIPA Mara (2025)",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - Triple"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-11T18:25:50+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Motueka Sunrise",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-11T18:23:45+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "I Love You...",
+    "brewery": "Thornbridge Brewery",
+    "beer_type": "Fruit Beer"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-11T18:19:56+00:00",
+    "serving": "draft",
+    "rating": null,
+    "beer_name": "Rinktinis",
+    "brewery": "Volfas Engelman",
+    "beer_type": "Lager - Pale"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-11T18:18:20+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Baize",
+    "brewery": "Thornbridge Brewery",
+    "beer_type": "Stout - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-11T18:17:32+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Rinktinis",
+    "brewery": "Volfas Engelman",
+    "beer_type": "Lager - Pale"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-12-11T17:57:15+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Can't Catch Me",
+    "brewery": "Vocation Brewery",
+    "beer_type": "Stout - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-11T17:55:20+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Baize",
+    "brewery": "Thornbridge Brewery",
+    "beer_type": "Stout - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-11T17:54:23+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Baize",
+    "brewery": "Thornbridge Brewery",
+    "beer_type": "Stout - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-11T17:43:23+00:00",
+    "serving": "draft",
+    "rating": 4.5,
+    "beer_name": "Motueka Sunrise",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-12-11T17:39:04+00:00",
+    "serving": "draft",
+    "rating": null,
+    "beer_name": "Alt Neuland",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Altbier - Traditional"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-12-11T17:35:34+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "Beta Czech (בטא צ'כי)",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pilsner - Czech / Bohemian"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-11T17:33:45+00:00",
+    "serving": "Unknown",
+    "rating": 3.0,
+    "beer_name": "Citra Achra סיטרה אחרא",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-11T17:22:25+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Hoppy Lager",
+    "brewery": "Isis Desert Brewery (מבשלת הנגב המערבי)",
+    "beer_type": "Lager - IPL (India Pale Lager)"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-11T17:22:05+00:00",
+    "serving": "draft",
+    "rating": 3.25,
+    "beer_name": "Rinktinis",
+    "brewery": "Volfas Engelman",
+    "beer_type": "Lager - Pale"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-11T17:08:30+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "Kriek 2025 - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": "Lambic - Kriek"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-11T17:07:56+00:00",
+    "serving": "draft",
+    "rating": 4.5,
+    "beer_name": "Kriek 2025 - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": "Lambic - Kriek"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-12-11T16:10:19+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Four Hopsmen",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - Imperial / Double New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-12-11T13:23:59+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Porter&Sons: Amarena Cherry",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Porter - American"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-12-11T12:05:31+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "ער.ה? 2025",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Stout - White / Golden"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-12-11T11:35:13+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "מיץ עננים",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-12-11T11:06:01+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "TIPA Mara (2025)",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - Triple"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-12-11T10:34:44+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Porter&Sons: Amarena Cherry",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Porter - American"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-12-11T10:07:46+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Global Chillin'",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - Cold"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-12-11T08:15:27+00:00",
+    "serving": "bottle",
+    "rating": 3.5,
+    "beer_name": "Giulitta",
+    "brewery": "Birrificio San Quirico",
+    "beer_type": "Pale Ale - English"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-12-11T08:09:53+00:00",
+    "serving": "bottle",
+    "rating": 3.75,
+    "beer_name": "Essentials 1",
+    "brewery": "Birrificio San Quirico",
+    "beer_type": "Blonde / Golden Ale - Other"
+  },
   {
     "venue": "berlin-florentin",
     "time": "2025-12-10T20:52:32+00:00",
@@ -20077,7 +20608,7 @@ const BEER_DATA = [
     "venue": "lauter",
     "time": "2025-10-26T18:36:28+00:00",
     "serving": "can",
-    "rating": 3.25,
+    "rating": 3.75,
     "beer_name": "Darkness My Friends Imperial Baltic Porter Coffee & Date Syrup",
     "brewery": "Maryensztadt",
     "beer_type": "Porter - Baltic"
@@ -20086,7 +20617,7 @@ const BEER_DATA = [
     "venue": "lauter",
     "time": "2025-10-26T18:36:28+00:00",
     "serving": "can",
-    "rating": 3.75,
+    "rating": 3.25,
     "beer_name": "Darkness My Friends Imperial Baltic Porter Coffee & Date Syrup",
     "brewery": "Maryensztadt",
     "beer_type": "Porter - Baltic"
@@ -65149,19 +65680,19 @@ const BEER_DATA = [
     "venue": "lauter",
     "time": "2025-07-25T18:15:23+00:00",
     "serving": "draft",
-    "rating": 4.0,
-    "beer_name": "Cuvée Saint-Gilloise 2023 - Draft Version",
+    "rating": 4.8,
+    "beer_name": "Fou' Foune 2023 - Draft Version",
     "brewery": "Brasserie Cantillon",
-    "beer_type": "Lambic - Traditional"
+    "beer_type": "Lambic - Fruit"
   },
   {
     "venue": "lauter",
     "time": "2025-07-25T18:15:23+00:00",
     "serving": "draft",
-    "rating": 4.8,
-    "beer_name": "Fou' Foune 2023 - Draft Version",
+    "rating": 4.0,
+    "beer_name": "Cuvée Saint-Gilloise 2023 - Draft Version",
     "brewery": "Brasserie Cantillon",
-    "beer_type": "Lambic - Fruit"
+    "beer_type": "Lambic - Traditional"
   },
   {
     "venue": "lauter",
