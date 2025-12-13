@@ -1,8 +1,1187 @@
 // 🍺 BEER STATS DATA - Generated automatically
-// Last updated: 2025-12-12 06:44:16
-// Total records: 9394
+// Last updated: 2025-12-13 06:40:07
+// Total records: 9525
 
 const BEER_DATA = [
+  {
+    "venue": "lauter",
+    "time": "2025-12-12T21:40:22+00:00",
+    "serving": "can",
+    "rating": 3.0,
+    "beer_name": "Open Craft 2025: Banana, Kiwi, Mango, Lime x Pineapple",
+    "brewery": "Nepo Brewing",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-12T21:30:58+00:00",
+    "serving": "bottle",
+    "rating": 4.5,
+    "beer_name": "Rosé",
+    "brewery": "Galipette Cidre",
+    "beer_type": "Cider - Rosé"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-12T21:08:44+00:00",
+    "serving": "draft",
+    "rating": 3.25,
+    "beer_name": "מיץ עננים",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-12T20:42:03+00:00",
+    "serving": "bottle",
+    "rating": 3.75,
+    "beer_name": "Hitachino Nest Espresso Stout",
+    "brewery": "Kiuchi Brewery",
+    "beer_type": "Stout - Coffee"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-12T20:29:33+00:00",
+    "serving": "bottle",
+    "rating": 4.0,
+    "beer_name": "Bourbon Barrel Aged - Imperial Coffee Stout",
+    "brewery": "Vocation Brewery",
+    "beer_type": "Stout - Imperial / Double Coffee"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-12T20:26:18+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Passionfruit X Lemon X Blueberry X Mango X Coconut Smoothie Sour Ale",
+    "brewery": "Ārpus Brewing Co.",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-12T20:18:17+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "New York Mocaccino",
+    "brewery": "Mad Scientist",
+    "beer_type": "Stout - Milk / Sweet"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-12T20:15:28+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Selfish Games - Señor Lager",
+    "brewery": "HORIZONT Brewing",
+    "beer_type": "Lager - Mexican"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-12T20:15:03+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "Guava X Strawberry X Peach X Orange X Vanilla Smoothie Sour Ale",
+    "brewery": "Ārpus Brewing Co.",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-12T20:13:44+00:00",
+    "serving": "bottle",
+    "rating": 4.0,
+    "beer_name": "Bourbon Barrel Aged - Imperial Coffee Stout",
+    "brewery": "Vocation Brewery",
+    "beer_type": "Stout - Imperial / Double Coffee"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-12T20:03:06+00:00",
+    "serving": "can",
+    "rating": 5.0,
+    "beer_name": "Guava X Strawberry X Peach X Orange X Vanilla Smoothie Sour Ale",
+    "brewery": "Ārpus Brewing Co.",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "beerbazaar-brewery",
+    "time": "2025-12-12T20:02:56+00:00",
+    "serving": "bottle",
+    "rating": 4.0,
+    "beer_name": "Duvel Barrel Aged - Batch 10 Mexican Barrel Ediciòn",
+    "brewery": "Duvel Moortgat",
+    "beer_type": "Belgian Strong Golden Ale"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-12T19:53:35+00:00",
+    "serving": "draft",
+    "rating": 3.25,
+    "beer_name": "TIPA Mara (2025)",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - Triple"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-12T19:46:43+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "ער.ה? 2025",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Stout - White / Golden"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-12T19:44:46+00:00",
+    "serving": "draft",
+    "rating": 4.6,
+    "beer_name": "Kriek 2025 - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": "Lambic - Kriek"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-12T19:06:35+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "DDH Riwaka X Nectaron X Superdelic Pale Ale",
+    "brewery": "Ārpus Brewing Co.",
+    "beer_type": "Pale Ale - New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-12-12T18:54:02+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "TIPA Mara (2025)",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - Triple"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-12T18:52:02+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Citra & Simcoe Hoppy Grodziskie",
+    "brewery": "Nepo Brewing",
+    "beer_type": "Grodziskie / Grätzer"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-12T18:27:40+00:00",
+    "serving": "can",
+    "rating": 3.25,
+    "beer_name": "Everyday Life",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": "Pilsner - Czech / Bohemian"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-12T18:26:27+00:00",
+    "serving": "can",
+    "rating": 3.25,
+    "beer_name": "Everyday Life",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": "Pilsner - Czech / Bohemian"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-12T18:14:03+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Yummy Mango with Apricot",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-12T18:02:01+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "מיץ עננים",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-12T17:53:01+00:00",
+    "serving": "can",
+    "rating": 0.25,
+    "beer_name": "Sour Series - Papa Prosciutto & Funghi",
+    "brewery": "HORIZONT Brewing",
+    "beer_type": "Sour - Tomato / Vegetable Gose"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-12T17:52:57+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Sour Series - Papa Prosciutto & Funghi",
+    "brewery": "HORIZONT Brewing",
+    "beer_type": "Sour - Tomato / Vegetable Gose"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-12-12T17:48:05+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Global Chillin'",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - Cold"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-12-12T17:46:28+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Global Chillin'",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - Cold"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-12T17:45:16+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "הפילס שבחדר the Pils In the Room",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pilsner - German"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-12T17:44:03+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Guava X Strawberry X Peach X Orange X Vanilla Smoothie Sour Ale",
+    "brewery": "Ārpus Brewing Co.",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-12T17:43:34+00:00",
+    "serving": "can",
+    "rating": 3.0,
+    "beer_name": "Porter&Sons: Marshmallow",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Porter - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-12T17:42:49+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Smoothie Bowl - Green Morning",
+    "brewery": "Nepo Brewing",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-12T17:36:19+00:00",
+    "serving": "Unknown",
+    "rating": 3.25,
+    "beer_name": "Citra Achra סיטרה אחרא",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - Other"
+  },
+  {
+    "venue": "porter-and-sons",
+    "time": "2025-12-12T16:58:38+00:00",
+    "serving": "draft",
+    "rating": 4.5,
+    "beer_name": "Nightmare Fuel",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Porter - American"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-12-12T16:56:12+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Four Hopsmen",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - Imperial / Double New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-12-12T16:55:14+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "TIPA Mara",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - Triple"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-12T16:53:07+00:00",
+    "serving": "Unknown",
+    "rating": 4.25,
+    "beer_name": "Open Craft 2025: Banana, Kiwi, Mango, Lime x Pineapple",
+    "brewery": "Nepo Brewing",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-12T16:52:28+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Citra & Simcoe Hoppy Grodziskie",
+    "brewery": "Nepo Brewing",
+    "beer_type": "Grodziskie / Grätzer"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-12-12T16:41:02+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "Global Chillin'",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - Cold"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-12-12T16:39:27+00:00",
+    "serving": "can",
+    "rating": 3.4,
+    "beer_name": "Sochna Vishna/ Сочна Вишня",
+    "brewery": "Beer Bastards Brewing",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-12-12T16:35:02+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Open Craft 2025: Banana, Kiwi, Mango, Lime x Pineapple",
+    "brewery": "Nepo Brewing",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-12T16:34:18+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "Open Craft 2025: Banana, Kiwi, Mango, Lime x Pineapple",
+    "brewery": "Nepo Brewing",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-12T16:34:04+00:00",
+    "serving": "Unknown",
+    "rating": 3.0,
+    "beer_name": "הייזי שמייזי",
+    "brewery": "Herzl (הרצל)",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-12-12T16:33:08+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "Kardemumma",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pale Ale - Other"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-12-12T16:32:40+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "Fruity Mish Mash",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-12-12T16:31:40+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "ער.ה? 2025",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Stout - White / Golden"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-12-12T16:30:51+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "מיץ עננים",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-12-12T16:29:53+00:00",
+    "serving": "can",
+    "rating": 4.1,
+    "beer_name": "8 Year Anniversary TDH Hand-Selected Superdelic X Nectaron DIPA",
+    "brewery": "Ārpus Brewing Co.",
+    "beer_type": "IPA - Imperial / Double New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-12-12T16:25:33+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "BLASTA",
+    "brewery": "Tuletorn Brewing",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-12T16:20:21+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "Citra & Simcoe Hoppy Grodziskie",
+    "brewery": "Nepo Brewing",
+    "beer_type": "Grodziskie / Grätzer"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-12-12T16:20:17+00:00",
+    "serving": "can",
+    "rating": null,
+    "beer_name": "Citra & Simcoe Hoppy Grodziskie",
+    "brewery": "Nepo Brewing",
+    "beer_type": "Grodziskie / Grätzer"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-12-12T16:17:48+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Abaddon",
+    "brewery": "Tartarus Beers",
+    "beer_type": "Stout - Russian Imperial"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-12-12T16:14:17+00:00",
+    "serving": "can",
+    "rating": 3.8,
+    "beer_name": "BLASTA",
+    "brewery": "Tuletorn Brewing",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-12T16:06:09+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "Baize",
+    "brewery": "Thornbridge Brewery",
+    "beer_type": "Stout - Other"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-12-12T15:53:07+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "Abaddon",
+    "brewery": "Tartarus Beers",
+    "beer_type": "Stout - Russian Imperial"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-12-12T15:51:02+00:00",
+    "serving": "can",
+    "rating": 4.2,
+    "beer_name": "Abaddon",
+    "brewery": "Tartarus Beers",
+    "beer_type": "Stout - Russian Imperial"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-12-12T15:42:58+00:00",
+    "serving": "can",
+    "rating": 3.6,
+    "beer_name": "8 Year Anniversary TDH Hand-Selected Superdelic X Nectaron DIPA",
+    "brewery": "Ārpus Brewing Co.",
+    "beer_type": "IPA - Imperial / Double New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-12-12T15:42:19+00:00",
+    "serving": "can",
+    "rating": 3.7,
+    "beer_name": "Sochna Vishna/ Сочна Вишня",
+    "brewery": "Beer Bastards Brewing",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-12-12T15:40:06+00:00",
+    "serving": "draft",
+    "rating": 3.25,
+    "beer_name": "Porter&Sons: Amarena Cherry",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Porter - American"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-12-12T15:39:59+00:00",
+    "serving": "can",
+    "rating": 3.6,
+    "beer_name": "BLASTA",
+    "brewery": "Tuletorn Brewing",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-12-12T15:39:50+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "8 Year Anniversary TDH Hand-Selected Superdelic X Nectaron DIPA",
+    "brewery": "Ārpus Brewing Co.",
+    "beer_type": "IPA - Imperial / Double New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-12-12T15:32:10+00:00",
+    "serving": "draft",
+    "rating": null,
+    "beer_name": "Global Chillin'",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - Cold"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-12-12T15:29:34+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Sochna Vishna/ Сочна Вишня",
+    "brewery": "Beer Bastards Brewing",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-12T15:28:56+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "מיץ עננים",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-12-12T15:23:19+00:00",
+    "serving": "bottle",
+    "rating": 3.0,
+    "beer_name": "Ipče",
+    "brewery": "Kabinet Brewery",
+    "beer_type": "IPA - Session"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-12-12T15:21:51+00:00",
+    "serving": "bottle",
+    "rating": 3.7,
+    "beer_name": "Karega - Farmhouse Ale",
+    "brewery": "22brewing",
+    "beer_type": "Farmhouse Ale - Other"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-12-12T15:20:21+00:00",
+    "serving": "bottle",
+    "rating": 4.0,
+    "beer_name": "Samichlaus Barrique Limited Edition (Dalton Winery Barrels)",
+    "brewery": "Schloss Eggenberg",
+    "beer_type": "Bock - Doppelbock"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-12-12T15:19:30+00:00",
+    "serving": "can",
+    "rating": 3.7,
+    "beer_name": "Hopsperiment #23 - Nectaron & Dolcita NEPA",
+    "brewery": "Пивоварна Мелтум (Meltum Brewery)",
+    "beer_type": "Pale Ale - New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-12-12T15:18:17+00:00",
+    "serving": "can",
+    "rating": 3.8,
+    "beer_name": "Where Are My Goggles?",
+    "brewery": "Maltgarden",
+    "beer_type": "Stout - Imperial / Double Pastry"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-12-12T15:15:23+00:00",
+    "serving": "Unknown",
+    "rating": 3.7,
+    "beer_name": "Sąsiedzkie",
+    "brewery": "Nepo Brewing",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-12T15:14:03+00:00",
+    "serving": "Unknown",
+    "rating": 3.8,
+    "beer_name": "Motueka Sunrise",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-12-12T15:13:40+00:00",
+    "serving": "can",
+    "rating": 3.7,
+    "beer_name": "King Church",
+    "brewery": "Omnipollo",
+    "beer_type": "IPA - Imperial / Double New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-12-12T15:12:45+00:00",
+    "serving": "can",
+    "rating": 3.8,
+    "beer_name": "Gelato: Raspberry Strawberry Popsicle",
+    "brewery": "Funky Fluid",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-12-12T15:10:59+00:00",
+    "serving": "can",
+    "rating": 3.9,
+    "beer_name": "Błazen",
+    "brewery": "Ziemia Obiecana",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-12-12T15:09:47+00:00",
+    "serving": "can",
+    "rating": 3.6,
+    "beer_name": "Bullet for my Valentine",
+    "brewery": "Ziemia Obiecana",
+    "beer_type": "IPA - Imperial / Double New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-12-12T15:07:52+00:00",
+    "serving": "bottle",
+    "rating": 3.8,
+    "beer_name": "Lindley Park",
+    "brewery": "Olde Hickory Brewery",
+    "beer_type": "Stout - Imperial / Double"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-12-12T15:06:25+00:00",
+    "serving": "bottle",
+    "rating": 4.0,
+    "beer_name": "Lindley Park",
+    "brewery": "Olde Hickory Brewery",
+    "beer_type": "Stout - Imperial / Double"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-12T15:03:46+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Motueka Sunrise",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-12T15:03:44+00:00",
+    "serving": "bottle",
+    "rating": 3.9,
+    "beer_name": "Glühkriek (2023)",
+    "brewery": "Brouwerij Liefmans",
+    "beer_type": "Fruit Beer"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-12T15:02:22+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Motueka Sunrise",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-12-12T15:01:45+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "מיץ עננים",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-12-12T14:58:09+00:00",
+    "serving": "draft",
+    "rating": 3.25,
+    "beer_name": "Global Chillin'",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - Cold"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-12-12T14:57:11+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "Four Hopsmen",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - Imperial / Double New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-12-12T14:56:23+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "Where Are My Goggles?",
+    "brewery": "Maltgarden",
+    "beer_type": "Stout - Imperial / Double Pastry"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-12-12T14:54:15+00:00",
+    "serving": "bottle",
+    "rating": 4.2,
+    "beer_name": "Lindley Park (2017)",
+    "brewery": "Olde Hickory Brewery",
+    "beer_type": "Stout - Imperial / Double"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-12-12T14:51:19+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Global Chillin'",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - Cold"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-12-12T14:51:16+00:00",
+    "serving": "bottle",
+    "rating": 3.75,
+    "beer_name": "Lindley Park (2017)",
+    "brewery": "Olde Hickory Brewery",
+    "beer_type": "Stout - Imperial / Double"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-12-12T14:48:40+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "TIPA Mara (2025)",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - Triple"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-12T14:48:38+00:00",
+    "serving": "can",
+    "rating": 3.7,
+    "beer_name": "Colorado Pale Ale",
+    "brewery": "Olvi",
+    "beer_type": "Pale Ale - American"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-12-12T14:46:09+00:00",
+    "serving": "bottle",
+    "rating": 3.75,
+    "beer_name": "Karega-Farmhouse Ale 2022",
+    "brewery": "22brewing",
+    "beer_type": "Farmhouse Ale - Other"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-12-12T14:43:02+00:00",
+    "serving": "can",
+    "rating": 3.4,
+    "beer_name": "Sąsiedzkie Pils",
+    "brewery": "Nepo Brewing",
+    "beer_type": "Pilsner - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-12T14:42:05+00:00",
+    "serving": "can",
+    "rating": 3.3,
+    "beer_name": "Colorado Pale Ale",
+    "brewery": "Olvi",
+    "beer_type": "Pale Ale - American"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-12-12T14:34:40+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Gelato: Raspberry Strawberry Popsicle",
+    "brewery": "Funky Fluid",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-12-12T14:32:51+00:00",
+    "serving": "can",
+    "rating": 4.5,
+    "beer_name": "Gelato: Bianco",
+    "brewery": "Funky Fluid",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-12-12T14:31:11+00:00",
+    "serving": "can",
+    "rating": 3.25,
+    "beer_name": "Gelato: Raspberry Strawberry Popsicle",
+    "brewery": "Funky Fluid",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-12-12T14:30:38+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Gelato: Bianco",
+    "brewery": "Funky Fluid",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-12-12T14:26:39+00:00",
+    "serving": "can",
+    "rating": 4.5,
+    "beer_name": "King Church",
+    "brewery": "Omnipollo",
+    "beer_type": "IPA - Imperial / Double New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-12-12T14:24:34+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "King Church",
+    "brewery": "Omnipollo",
+    "beer_type": "IPA - Imperial / Double New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-12-12T14:18:53+00:00",
+    "serving": "can",
+    "rating": 3.25,
+    "beer_name": "Sąsiedzkie",
+    "brewery": "Nepo Brewing",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-12-12T14:15:39+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Hopsperiment #23 - Nectaron & Dolcita NEPA",
+    "brewery": "Пивоварна Мелтум (Meltum Brewery)",
+    "beer_type": "Pale Ale - New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-12-12T14:13:14+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Bullet for my Valentine",
+    "brewery": "Ziemia Obiecana",
+    "beer_type": "IPA - Imperial / Double New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-12-12T14:11:35+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Bullet for my Valentine",
+    "brewery": "Ziemia Obiecana",
+    "beer_type": "IPA - Imperial / Double New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-12-12T14:09:57+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Hopsperiment #23 - Nectaron & Dolcita NEPA",
+    "brewery": "Пивоварна Мелтум (Meltum Brewery)",
+    "beer_type": "Pale Ale - New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-12-12T14:08:08+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Błazen",
+    "brewery": "Ziemia Obiecana",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-12-12T14:02:44+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Porter&Sons: Amarena Cherry",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Porter - American"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-12-12T14:00:53+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Błazen",
+    "brewery": "Ziemia Obiecana",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-12-12T13:52:45+00:00",
+    "serving": "draft",
+    "rating": 3.6,
+    "beer_name": "Global Chillin'",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - Cold"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-12-12T13:49:21+00:00",
+    "serving": "bottle",
+    "rating": 3.0,
+    "beer_name": "Ipče",
+    "brewery": "Kabinet Brewery",
+    "beer_type": "IPA - Session"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-12-12T13:46:24+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Smoothie Bowl - Peachy Dragon",
+    "brewery": "Nepo Brewing",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-12-12T13:45:57+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "Can't Catch Me",
+    "brewery": "Vocation Brewery",
+    "beer_type": "Stout - Other"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-12-12T13:45:23+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "חוצה ישראל",
+    "brewery": "New Pioneer Brewing Co - חלוץ חדש",
+    "beer_type": "Wheat Beer - Other"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-12-12T13:42:59+00:00",
+    "serving": "draft",
+    "rating": 3.9,
+    "beer_name": "מיץ עננים",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-12-12T13:38:08+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "Global Chillin'",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - Cold"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-12-12T13:37:02+00:00",
+    "serving": "Unknown",
+    "rating": 3.6,
+    "beer_name": "Porter&Sons: Amarena Cherry",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Porter - American"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-12-12T13:12:11+00:00",
+    "serving": "draft",
+    "rating": 3.7,
+    "beer_name": "מיץ עננים",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-12-12T12:34:54+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Porter&Sons: Amarena Cherry",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Porter - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-12T12:26:39+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Motueka Sunrise",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-12T12:22:07+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Motueka Sunrise",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-12-12T12:18:19+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Coresh כורש",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Smoked Beer"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-12-12T12:18:04+00:00",
+    "serving": "draft",
+    "rating": null,
+    "beer_name": "ער.ה? 2025",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Stout - White / Golden"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-12-12T12:17:35+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Porter&Sons: Amarena Cherry",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Porter - American"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-12-12T12:17:10+00:00",
+    "serving": "draft",
+    "rating": null,
+    "beer_name": "מיץ עננים",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-12-12T12:10:11+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "ער.ה? 2025",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Stout - White / Golden"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-12-12T12:06:45+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Porter&Sons: Amarena Cherry",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Porter - American"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-12-12T12:02:55+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "מיץ עננים",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-12-12T11:59:02+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Global Chillin'",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - Cold"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-12-12T11:50:54+00:00",
+    "serving": "draft",
+    "rating": 3.25,
+    "beer_name": "מיץ עננים",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-12T10:59:36+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "מיץ עננים",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-12-12T10:49:44+00:00",
+    "serving": "draft",
+    "rating": null,
+    "beer_name": "Raspberry Sorbet",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-12T10:37:36+00:00",
+    "serving": "bottle",
+    "rating": 3.5,
+    "beer_name": "Unfiltered Lager",
+    "brewery": "Isis Desert Brewery (מבשלת הנגב המערבי)",
+    "beer_type": "Lager - Other"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-12-12T08:22:07+00:00",
+    "serving": "can",
+    "rating": 4.5,
+    "beer_name": "Open Craft 2025: Banana, Kiwi, Mango, Lime x Pineapple",
+    "brewery": "Nepo Brewing",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-12-12T08:21:44+00:00",
+    "serving": "can",
+    "rating": 4.5,
+    "beer_name": "Smoothie Bowl - Green Morning",
+    "brewery": "Nepo Brewing",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-12-12T08:21:13+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Smoothie Bowl: Coconut Bomb",
+    "brewery": "Nepo Brewing",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
   {
     "venue": "schnitt-brewing-company",
     "time": "2025-12-11T22:47:43+00:00",
@@ -7882,19 +9061,19 @@ const BEER_DATA = [
     "venue": "b7-beer-house",
     "time": "2025-11-21T12:08:02+00:00",
     "serving": "bottle",
-    "rating": 4.0,
-    "beer_name": "Wild Dry Cider - Blended With Lambic",
+    "rating": 4.25,
+    "beer_name": "Bzart Lambiek Millésime 2018",
     "brewery": "Oud Beersel",
-    "beer_type": "Cider - Dry"
+    "beer_type": "Lambic - Traditional"
   },
   {
     "venue": "b7-beer-house",
     "time": "2025-11-21T12:08:02+00:00",
     "serving": "bottle",
-    "rating": 4.25,
-    "beer_name": "Bzart Lambiek Millésime 2018",
+    "rating": 4.0,
+    "beer_name": "Wild Dry Cider - Blended With Lambic",
     "brewery": "Oud Beersel",
-    "beer_type": "Lambic - Traditional"
+    "beer_type": "Cider - Dry"
   },
   {
     "venue": "b7-beer-house",
@@ -8593,7 +9772,7 @@ const BEER_DATA = [
     "venue": "b7-beer-house",
     "time": "2025-11-21T11:17:46+00:00",
     "serving": "bottle",
-    "rating": 4.0,
+    "rating": 4.25,
     "beer_name": "Oude Gueuze Tilquin à l'Ancienne - Cuvée Renée (2023-2024)",
     "brewery": "Gueuzerie Tilquin",
     "beer_type": "Lambic - Gueuze"
@@ -8602,7 +9781,7 @@ const BEER_DATA = [
     "venue": "b7-beer-house",
     "time": "2025-11-21T11:17:46+00:00",
     "serving": "bottle",
-    "rating": 4.25,
+    "rating": 4.0,
     "beer_name": "Oude Gueuze Tilquin à l'Ancienne - Cuvée Renée (2023-2024)",
     "brewery": "Gueuzerie Tilquin",
     "beer_type": "Lambic - Gueuze"
@@ -24520,15 +25699,6 @@ const BEER_DATA = [
     "beer_type": "IPA - American"
   },
   {
-    "venue": "lauter",
-    "time": "2025-10-19T19:17:21+00:00",
-    "serving": "bottle",
-    "rating": 3.25,
-    "beer_name": "Bjorn's Beer",
-    "brewery": "Attali's Family Brewery",
-    "beer_type": "IPA - American"
-  },
-  {
     "venue": "schnitt-brewing-company",
     "time": "2025-10-19T19:17:21+00:00",
     "serving": "can",
@@ -24536,6 +25706,15 @@ const BEER_DATA = [
     "beer_name": "Plum Waffle",
     "brewery": "Duncan's Brewing",
     "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-19T19:17:21+00:00",
+    "serving": "bottle",
+    "rating": 3.25,
+    "beer_name": "Bjorn's Beer",
+    "brewery": "Attali's Family Brewery",
+    "beer_type": "IPA - American"
   },
   {
     "venue": "lauter",
@@ -45429,7 +46608,7 @@ const BEER_DATA = [
   {
     "venue": "lauter",
     "time": "2025-09-01T17:44:35+00:00",
-    "serving": "bottle",
+    "serving": "Unknown",
     "rating": 4.0,
     "beer_name": "Hops Don’t Lie",
     "brewery": "Thurø Bryghus",
@@ -45438,7 +46617,7 @@ const BEER_DATA = [
   {
     "venue": "lauter",
     "time": "2025-09-01T17:44:35+00:00",
-    "serving": "Unknown",
+    "serving": "bottle",
     "rating": 4.0,
     "beer_name": "Hops Don’t Lie",
     "brewery": "Thurø Bryghus",
@@ -57264,8 +58443,8 @@ const BEER_DATA = [
   {
     "venue": "lauter",
     "time": "2025-08-05T19:24:07+00:00",
-    "serving": "can",
-    "rating": 4.5,
+    "serving": "Unknown",
+    "rating": null,
     "beer_name": "SLUSHY XL: Haha!",
     "brewery": "450 North Brewing Company",
     "beer_type": "Sour - Smoothie / Pastry"
@@ -57273,8 +58452,8 @@ const BEER_DATA = [
   {
     "venue": "lauter",
     "time": "2025-08-05T19:24:07+00:00",
-    "serving": "Unknown",
-    "rating": null,
+    "serving": "can",
+    "rating": 4.5,
     "beer_name": "SLUSHY XL: Haha!",
     "brewery": "450 North Brewing Company",
     "beer_type": "Sour - Smoothie / Pastry"
@@ -57561,8 +58740,8 @@ const BEER_DATA = [
   {
     "venue": "lauter",
     "time": "2025-08-05T18:49:38+00:00",
-    "serving": "can",
-    "rating": 4.0,
+    "serving": "Unknown",
+    "rating": 4.5,
     "beer_name": "Whakahoa",
     "brewery": "Factory Brewing",
     "beer_type": "IPA - Triple New England / Hazy"
@@ -57570,8 +58749,8 @@ const BEER_DATA = [
   {
     "venue": "lauter",
     "time": "2025-08-05T18:49:38+00:00",
-    "serving": "Unknown",
-    "rating": 4.5,
+    "serving": "can",
+    "rating": 4.0,
     "beer_name": "Whakahoa",
     "brewery": "Factory Brewing",
     "beer_type": "IPA - Triple New England / Hazy"
