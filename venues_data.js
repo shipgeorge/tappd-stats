@@ -1,8 +1,359 @@
 // 🍺 BEER STATS DATA - Generated automatically
-// Last updated: 2025-12-16 06:44:45
-// Total records: 9631
+// Last updated: 2025-12-17 06:43:54
+// Total records: 9670
 
 const BEER_DATA = [
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-12-17T05:15:38+00:00",
+    "serving": "draft",
+    "rating": 4.5,
+    "beer_name": "Four Hopsmen",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - Imperial / Double New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-12-16T21:19:36+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "מיץ עננים",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-12-16T21:12:50+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Pint It Black",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Schwarzbier"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-16T20:50:16+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "Selfish Games - One Night In Dubai",
+    "brewery": "HORIZONT Brewing",
+    "beer_type": "Stout - Imperial / Double"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-16T20:28:32+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Red & Black Currant Berliner Weisse",
+    "brewery": "Ārpus Brewing Co.",
+    "beer_type": "Sour - Fruited Berliner Weisse"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-16T20:18:30+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Rinktinis",
+    "brewery": "Volfas Engelman",
+    "beer_type": "Lager - Pale"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-16T20:17:57+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "TIPA Mara (2025)",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - Triple"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-16T19:05:32+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Porter&Sons: Amarena Cherry",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Porter - American"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-12-16T18:56:33+00:00",
+    "serving": "draft",
+    "rating": 3.8,
+    "beer_name": "Porter&Sons: Amarena Cherry",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Porter - American"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-12-16T18:56:02+00:00",
+    "serving": "draft",
+    "rating": 3.6,
+    "beer_name": "Global Chillin'",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - Cold"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-12-16T18:55:37+00:00",
+    "serving": "Unknown",
+    "rating": 3.7,
+    "beer_name": "Pint It Black",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Schwarzbier"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-12-16T18:55:09+00:00",
+    "serving": "draft",
+    "rating": 3.8,
+    "beer_name": "מיץ עננים",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-16T18:21:53+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Duvel 6,66%",
+    "brewery": "Duvel Moortgat",
+    "beer_type": "Belgian Blonde"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-12-16T18:02:58+00:00",
+    "serving": "draft",
+    "rating": 3.0,
+    "beer_name": "Porter&Sons: Amarena Cherry",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Porter - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-16T17:49:15+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Fruity Mish Mash",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-12-16T17:48:59+00:00",
+    "serving": "draft",
+    "rating": null,
+    "beer_name": "Kardemumma",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pale Ale - Other"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-12-16T17:46:10+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Kardemumma",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pale Ale - Other"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-12-16T17:45:05+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Porter&Sons: Amarena Cherry",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Porter - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-16T17:12:43+00:00",
+    "serving": "draft",
+    "rating": 4.5,
+    "beer_name": "Gueuze Tilquin – Draft Version",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": "Lambic - Gueuze"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-12-16T17:10:44+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Global Chillin'",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - Cold"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-12-16T17:07:51+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Global Chillin'",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - Cold"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-16T17:06:21+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "הפילס שבחדר the Pils In the Room",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pilsner - German"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-12-16T16:57:17+00:00",
+    "serving": "draft",
+    "rating": 3.25,
+    "beer_name": "Beta Czech (בטא צ'כי)",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pilsner - Czech / Bohemian"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-16T16:38:41+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Anything Gose: Orange And Sage",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Sour - Fruited Gose"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-16T16:15:22+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Porter&Sons: Amarena Cherry",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Porter - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-16T16:14:39+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Anything Gose: Orange And Sage",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Sour - Fruited Gose"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-12-16T15:32:40+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Pint It Black",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Schwarzbier"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-12-16T15:05:54+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "Can't Catch Me",
+    "brewery": "Vocation Brewery",
+    "beer_type": "Stout - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-16T14:58:33+00:00",
+    "serving": "bottle",
+    "rating": 3.4,
+    "beer_name": "חלוץ תחת אש",
+    "brewery": "New Pioneer Brewing Co - חלוץ חדש",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-12-16T14:12:34+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "מיץ עננים",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-16T13:47:31+00:00",
+    "serving": "bottle",
+    "rating": 3.7,
+    "beer_name": "Glühkriek",
+    "brewery": "Brouwerij Liefmans",
+    "beer_type": "Fruit Beer"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-12-16T13:06:55+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Porter&Sons: Amarena Cherry",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Porter - American"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-12-16T13:06:20+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Global Chillin'",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - Cold"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-12-16T12:57:45+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "Four Hopsmen",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - Imperial / Double New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-12-16T12:47:03+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Four Hopsmen",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - Imperial / Double New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-12-16T12:45:48+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Pint It Black",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Schwarzbier"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-12-16T12:27:25+00:00",
+    "serving": "draft",
+    "rating": 3.4,
+    "beer_name": "Raspberry Sorbet",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-12-16T12:21:07+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "מיץ עננים",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-12-16T12:13:30+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Pint It Black",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Schwarzbier"
+  },
   {
     "venue": "lauter",
     "time": "2025-12-15T20:42:02+00:00",
@@ -10015,19 +10366,19 @@ const BEER_DATA = [
     "venue": "b7-beer-house",
     "time": "2025-11-21T12:08:02+00:00",
     "serving": "bottle",
-    "rating": 4.25,
-    "beer_name": "Bzart Lambiek Millésime 2018",
+    "rating": 4.0,
+    "beer_name": "Wild Dry Cider - Blended With Lambic",
     "brewery": "Oud Beersel",
-    "beer_type": "Lambic - Traditional"
+    "beer_type": "Cider - Dry"
   },
   {
     "venue": "b7-beer-house",
     "time": "2025-11-21T12:08:02+00:00",
     "serving": "bottle",
-    "rating": 4.0,
-    "beer_name": "Wild Dry Cider - Blended With Lambic",
+    "rating": 4.25,
+    "beer_name": "Bzart Lambiek Millésime 2018",
     "brewery": "Oud Beersel",
-    "beer_type": "Cider - Dry"
+    "beer_type": "Lambic - Traditional"
   },
   {
     "venue": "b7-beer-house",
@@ -22741,7 +23092,7 @@ const BEER_DATA = [
     "venue": "lauter",
     "time": "2025-10-26T18:36:28+00:00",
     "serving": "can",
-    "rating": 3.75,
+    "rating": 3.25,
     "beer_name": "Darkness My Friends Imperial Baltic Porter Coffee & Date Syrup",
     "brewery": "Maryensztadt",
     "beer_type": "Porter - Baltic"
@@ -22750,7 +23101,7 @@ const BEER_DATA = [
     "venue": "lauter",
     "time": "2025-10-26T18:36:28+00:00",
     "serving": "can",
-    "rating": 3.25,
+    "rating": 3.75,
     "beer_name": "Darkness My Friends Imperial Baltic Porter Coffee & Date Syrup",
     "brewery": "Maryensztadt",
     "beer_type": "Porter - Baltic"
@@ -52395,8 +52746,8 @@ const BEER_DATA = [
   {
     "venue": "b7-beer-house",
     "time": "2025-08-21T16:02:37+00:00",
-    "serving": "Unknown",
-    "rating": 3.75,
+    "serving": "can",
+    "rating": 3.5,
     "beer_name": "Nitro Mini M*rs",
     "brewery": "Vault City Brewing",
     "beer_type": "Stout - Pastry"
@@ -52404,8 +52755,8 @@ const BEER_DATA = [
   {
     "venue": "b7-beer-house",
     "time": "2025-08-21T16:02:37+00:00",
-    "serving": "can",
-    "rating": 3.5,
+    "serving": "Unknown",
+    "rating": 3.75,
     "beer_name": "Nitro Mini M*rs",
     "brewery": "Vault City Brewing",
     "beer_type": "Stout - Pastry"
@@ -52447,15 +52798,6 @@ const BEER_DATA = [
     "beer_type": "Stout - White / Golden"
   },
   {
-    "venue": "lauter",
-    "time": "2025-08-21T16:00:28+00:00",
-    "serving": "draft",
-    "rating": 3.5,
-    "beer_name": "KRUSHED IT",
-    "brewery": "Oak & Ash",
-    "beer_type": "IPA - New England / Hazy"
-  },
-  {
     "venue": "b7-beer-house",
     "time": "2025-08-21T16:00:28+00:00",
     "serving": "can",
@@ -52463,6 +52805,15 @@ const BEER_DATA = [
     "beer_name": "Naughty & Nice - White Chocolate & Raspberry",
     "brewery": "Vocation Brewery",
     "beer_type": "Stout - White / Golden"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-21T16:00:28+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "KRUSHED IT",
+    "brewery": "Oak & Ash",
+    "beer_type": "IPA - New England / Hazy"
   },
   {
     "venue": "b7-beer-house",
@@ -52503,20 +52854,20 @@ const BEER_DATA = [
   {
     "venue": "b7-beer-house",
     "time": "2025-08-21T15:59:11+00:00",
-    "serving": "Unknown",
-    "rating": 4.0,
-    "beer_name": "Naughty & Nice - White Chocolate & Raspberry",
-    "brewery": "Vocation Brewery",
-    "beer_type": "Stout - White / Golden"
-  },
-  {
-    "venue": "b7-beer-house",
-    "time": "2025-08-21T15:59:11+00:00",
     "serving": "can",
     "rating": 3.8,
     "beer_name": "Peach Rings",
     "brewery": "Vault City Brewing",
     "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-21T15:59:11+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Naughty & Nice - White Chocolate & Raspberry",
+    "brewery": "Vocation Brewery",
+    "beer_type": "Stout - White / Golden"
   },
   {
     "venue": "b7-beer-house",
@@ -59397,8 +59748,8 @@ const BEER_DATA = [
   {
     "venue": "lauter",
     "time": "2025-08-05T19:24:07+00:00",
-    "serving": "Unknown",
-    "rating": null,
+    "serving": "can",
+    "rating": 4.5,
     "beer_name": "SLUSHY XL: Haha!",
     "brewery": "450 North Brewing Company",
     "beer_type": "Sour - Smoothie / Pastry"
@@ -59406,8 +59757,8 @@ const BEER_DATA = [
   {
     "venue": "lauter",
     "time": "2025-08-05T19:24:07+00:00",
-    "serving": "can",
-    "rating": 4.5,
+    "serving": "Unknown",
+    "rating": null,
     "beer_name": "SLUSHY XL: Haha!",
     "brewery": "450 North Brewing Company",
     "beer_type": "Sour - Smoothie / Pastry"
