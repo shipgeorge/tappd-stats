@@ -1,8 +1,845 @@
 // 🍺 BEER STATS DATA - Generated automatically
-// Last updated: 2025-12-19 06:42:10
-// Total records: 9729
+// Last updated: 2025-12-20 06:40:40
+// Total records: 9822
 
 const BEER_DATA = [
+  {
+    "venue": "porter-and-sons",
+    "time": "2025-12-19T23:09:38+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Porter&Sons: Amarena Cherry",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Porter - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-19T22:00:58+00:00",
+    "serving": "draft",
+    "rating": 3.8,
+    "beer_name": "Fruity Mish Mash",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-19T21:23:00+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Jaffa Sunrise",
+    "brewery": "Herzl (הרצל)",
+    "beer_type": "IPA - Fruited"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-19T21:17:46+00:00",
+    "serving": "Unknown",
+    "rating": 2.6,
+    "beer_name": "Anything Gose: Orange And Sage",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Sour - Fruited Gose"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-19T20:53:37+00:00",
+    "serving": "draft",
+    "rating": 3.2,
+    "beer_name": "צ׳ארלי המלך 2.0",
+    "brewery": "קישקשתא (Kishkashta)",
+    "beer_type": "Bitter - Extra Special / Strong (ESB)"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-19T20:43:36+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "הפילס שבחדר the Pils In the Room",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pilsner - German"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-12-19T20:33:15+00:00",
+    "serving": "draft",
+    "rating": 3.25,
+    "beer_name": "Pint It Black",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Schwarzbier"
+  },
+  {
+    "venue": "beerz",
+    "time": "2025-12-19T20:28:22+00:00",
+    "serving": "can",
+    "rating": 4.5,
+    "beer_name": "Red & Black Currant Berliner Weisse",
+    "brewery": "Ārpus Brewing Co.",
+    "beer_type": "Sour - Fruited Berliner Weisse"
+  },
+  {
+    "venue": "porter-and-sons",
+    "time": "2025-12-19T20:10:22+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Christmas Ale (2025)",
+    "brewery": "Brouwerij St.Bernardus",
+    "beer_type": "Winter Ale"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-12-19T19:54:00+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "José",
+    "brewery": "Nepo Brewing",
+    "beer_type": "Sour - Fruited Gose"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-19T19:40:53+00:00",
+    "serving": "bottle",
+    "rating": 4.75,
+    "beer_name": "Tiramisu Bänger",
+    "brewery": "Põhjala",
+    "beer_type": "Stout - Imperial / Double Coffee"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-19T19:05:39+00:00",
+    "serving": "bottle",
+    "rating": 4.0,
+    "beer_name": "Tiramisu Bänger",
+    "brewery": "Põhjala",
+    "beer_type": "Stout - Imperial / Double Coffee"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-19T19:05:07+00:00",
+    "serving": "bottle",
+    "rating": 4.75,
+    "beer_name": "Tiramisu Bänger",
+    "brewery": "Põhjala",
+    "beer_type": "Stout - Imperial / Double Coffee"
+  },
+  {
+    "venue": "ursa",
+    "time": "2025-12-19T18:51:28+00:00",
+    "serving": "draft",
+    "rating": 3.4,
+    "beer_name": "Hobgoblin Legendary Ruby (2025)",
+    "brewery": "Marston's Brewery",
+    "beer_type": "Red Ale - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-19T18:28:33+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "Game Over: Umbrella",
+    "brewery": "Funky Fluid",
+    "beer_type": "IPA - Triple New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-19T17:36:46+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Duvel 6,66%",
+    "brewery": "Duvel Moortgat",
+    "beer_type": "Belgian Blonde"
+  },
+  {
+    "venue": "porter-and-sons",
+    "time": "2025-12-19T17:33:08+00:00",
+    "serving": "draft",
+    "rating": 4.6,
+    "beer_name": "Kriek 2025 - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": "Lambic - Kriek"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-19T17:14:53+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Rinktinis",
+    "brewery": "Volfas Engelman",
+    "beer_type": "Lager - Pale"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-19T17:02:49+00:00",
+    "serving": "draft",
+    "rating": 3.0,
+    "beer_name": "Anything Gose: Orange And Sage",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Sour - Fruited Gose"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-19T16:59:05+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Anything Gose: Orange And Sage",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Sour - Fruited Gose"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-19T16:55:01+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Pale Ale",
+    "brewery": "מלכת העמק",
+    "beer_type": "Pale Ale - Other"
+  },
+  {
+    "venue": "porter-and-sons",
+    "time": "2025-12-19T16:50:53+00:00",
+    "serving": "bottle",
+    "rating": 5.0,
+    "beer_name": "Campari",
+    "brewery": "Campari Group",
+    "beer_type": "Spirit - Campari"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-19T16:43:04+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "Flu Fighters",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pale Ale - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-19T16:39:00+00:00",
+    "serving": "draft",
+    "rating": 2.9,
+    "beer_name": "Rinktinis",
+    "brewery": "Volfas Engelman",
+    "beer_type": "Lager - Pale"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-19T16:38:11+00:00",
+    "serving": "draft",
+    "rating": 3.6,
+    "beer_name": "Anything Gose: Orange And Sage",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Sour - Fruited Gose"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-19T16:35:04+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Fruity Mish Mash",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-19T16:34:18+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "צ׳ארלי המלך 2.0",
+    "brewery": "קישקשתא (Kishkashta)",
+    "beer_type": "Bitter - Extra Special / Strong (ESB)"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-19T16:34:12+00:00",
+    "serving": "draft",
+    "rating": 3.6,
+    "beer_name": "צ׳ארלי המלך 2.0",
+    "brewery": "קישקשתא (Kishkashta)",
+    "beer_type": "Bitter - Extra Special / Strong (ESB)"
+  },
+  {
+    "venue": "beerline",
+    "time": "2025-12-19T16:00:03+00:00",
+    "serving": "draft",
+    "rating": 4.75,
+    "beer_name": "Delirium Red",
+    "brewery": "Delirium - Huyghe Brewery",
+    "beer_type": "Fruit Beer"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-19T15:56:15+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "TIPA Mara (2025)",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - Triple"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-12-19T15:50:50+00:00",
+    "serving": "bottle",
+    "rating": 3.5,
+    "beer_name": "Kochav HaTzafon 2025 כוכב הצפון",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Winter Ale"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-12-19T15:49:53+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Kochav HaTzafon 2025 כוכב הצפון",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Winter Ale"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-19T15:40:12+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Darkness (2024)",
+    "brewery": "Surly Brewing Company",
+    "beer_type": "Stout - Russian Imperial"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-19T15:39:40+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "ער.ה? 2025",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Stout - White / Golden"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-19T15:37:46+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Porter&Sons: Amarena Cherry",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Porter - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-19T15:35:53+00:00",
+    "serving": "bottle",
+    "rating": 4.6,
+    "beer_name": "Oude Gueuze Tilquin à L'ancienne (2022-2023)",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": "Lambic - Gueuze"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-19T15:32:16+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "צ׳ארלי המלך 2.0",
+    "brewery": "קישקשתא (Kishkashta)",
+    "beer_type": "Bitter - Extra Special / Strong (ESB)"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-19T15:27:30+00:00",
+    "serving": "Unknown",
+    "rating": 4.25,
+    "beer_name": "Darkness",
+    "brewery": "Surly Brewing Company",
+    "beer_type": "Stout - Russian Imperial"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-19T15:15:42+00:00",
+    "serving": "can",
+    "rating": 4.1,
+    "beer_name": "Darkness",
+    "brewery": "Surly Brewing Company",
+    "beer_type": "Stout - Russian Imperial"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-12-19T15:00:30+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Global Chillin'",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - Cold"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-19T14:52:28+00:00",
+    "serving": "bottle",
+    "rating": 4.75,
+    "beer_name": "Oude Gueuze Tilquin à l'ancienne - Cuvée Jean-François 1759 (2021-2022)",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": "Lambic - Gueuze"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-19T14:51:46+00:00",
+    "serving": "bottle",
+    "rating": 4.5,
+    "beer_name": "Oude Mourvèdre Tilquin à l'Ancienne (2022-2023)",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-19T14:51:04+00:00",
+    "serving": "can",
+    "rating": 3.0,
+    "beer_name": "Jaffa Sunrise",
+    "brewery": "Herzl (הרצל)",
+    "beer_type": "IPA - Fruited"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-19T14:47:54+00:00",
+    "serving": "bottle",
+    "rating": 4.5,
+    "beer_name": "Oude Roussanne Tilquin à l'Ancienne (2021-2022)",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-19T14:40:51+00:00",
+    "serving": "bottle",
+    "rating": 4.8,
+    "beer_name": "Oude Roussanne Tilquin à l'Ancienne (2021-2022)",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-19T14:38:08+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "צ׳ארלי המלך 2.0",
+    "brewery": "קישקשתא (Kishkashta)",
+    "beer_type": "Bitter - Extra Special / Strong (ESB)"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-12-19T14:32:46+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Kochav HaTzafon 2025 כוכב הצפון",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Winter Ale"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-19T14:27:33+00:00",
+    "serving": "Unknown",
+    "rating": 4.4,
+    "beer_name": "Vigneronne (2023)",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-19T14:26:17+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Porter&Sons: Amarena Cherry",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Porter - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-19T14:25:45+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Anything Gose: Orange And Sage",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Sour - Fruited Gose"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-19T14:25:06+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "צ׳ארלי המלך 2.0",
+    "brewery": "קישקשתא (Kishkashta)",
+    "beer_type": "Bitter - Extra Special / Strong (ESB)"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-19T14:24:12+00:00",
+    "serving": "bottle",
+    "rating": 4.2,
+    "beer_name": "Rabarber (2023)",
+    "brewery": "Boerenerf",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-19T14:22:05+00:00",
+    "serving": "bottle",
+    "rating": 5.0,
+    "beer_name": "Oude Mourvèdre Tilquin à l'Ancienne (2022-2023)",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-19T14:17:42+00:00",
+    "serving": "bottle",
+    "rating": 4.7,
+    "beer_name": "Oude Roussanne Tilquin à l'Ancienne (2021-2022)",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-19T14:16:21+00:00",
+    "serving": "bottle",
+    "rating": 4.75,
+    "beer_name": "Vigneronne (2023)",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-19T14:15:37+00:00",
+    "serving": "bottle",
+    "rating": 4.5,
+    "beer_name": "Rabarber (2022)",
+    "brewery": "Boerenerf",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-19T14:15:09+00:00",
+    "serving": "bottle",
+    "rating": 5.0,
+    "beer_name": "Oude Gueuze Tilquin à l'ancienne - Cuvée Arthur (2022-2023)",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": "Lambic - Gueuze"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-19T14:12:21+00:00",
+    "serving": "bottle",
+    "rating": 5.0,
+    "beer_name": "Oude Roussanne Tilquin à l'Ancienne (2021-2022)",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-12-19T14:07:27+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "Beta Czech (בטא צ'כי)",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pilsner - Czech / Bohemian"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-19T14:04:29+00:00",
+    "serving": "bottle",
+    "rating": 4.7,
+    "beer_name": "Oude Gueuze Tilquin à l'ancienne - Cuvée Jean-François 1759 (2021-2022)",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": "Lambic - Gueuze"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-19T13:53:48+00:00",
+    "serving": "bottle",
+    "rating": 4.5,
+    "beer_name": "Oude Mourvèdre Tilquin à l'Ancienne (2022-2023)",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-19T13:51:33+00:00",
+    "serving": "bottle",
+    "rating": 4.25,
+    "beer_name": "Vigneronne (2023)",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-19T13:34:48+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "Oude Gueuze Tilquin à l'ancienne - Cuvée Jean-François 1759 (2021-2022)",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": "Lambic - Gueuze"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-19T13:23:07+00:00",
+    "serving": "bottle",
+    "rating": 4.25,
+    "beer_name": "Fou' Foune (2024)",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-19T13:14:08+00:00",
+    "serving": "bottle",
+    "rating": null,
+    "beer_name": "Oude Gueuze Tilquin à l'ancienne - Cuvée Jean-François 1759 (2021-2022)",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": "Lambic - Gueuze"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-19T13:11:34+00:00",
+    "serving": "bottle",
+    "rating": 4.7,
+    "beer_name": "Oude Gueuze Tilquin à l'ancienne - Cuvée Jean-François 1759 (2021-2022)",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": "Lambic - Gueuze"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-19T13:11:34+00:00",
+    "serving": "bottle",
+    "rating": 4.25,
+    "beer_name": "Oude Gueuze Tilquin à l'ancienne - Cuvée Arthur (2022-2023)",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": "Lambic - Gueuze"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-19T13:09:36+00:00",
+    "serving": "bottle",
+    "rating": 4.0,
+    "beer_name": "Rabarber (2023)",
+    "brewery": "Boerenerf",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-19T13:05:57+00:00",
+    "serving": "bottle",
+    "rating": 4.4,
+    "beer_name": "Rabarber (2023)",
+    "brewery": "Boerenerf",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-19T13:04:39+00:00",
+    "serving": "bottle",
+    "rating": 4.5,
+    "beer_name": "Pescharina (Oogst 2023)",
+    "brewery": "Boerenerf",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-12-19T12:59:19+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Global Chillin'",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - Cold"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-19T12:57:29+00:00",
+    "serving": "bottle",
+    "rating": 4.5,
+    "beer_name": "Oude Gueuze Tilquin à l'ancienne - Cuvée Arthur (2022-2023)",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": "Lambic - Gueuze"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-19T12:53:58+00:00",
+    "serving": "bottle",
+    "rating": null,
+    "beer_name": "Pescharina (Oogst 2023)",
+    "brewery": "Boerenerf",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-19T12:41:51+00:00",
+    "serving": "bottle",
+    "rating": 4.4,
+    "beer_name": "Rabarber (2023)",
+    "brewery": "Boerenerf",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-19T12:40:46+00:00",
+    "serving": "bottle",
+    "rating": null,
+    "beer_name": "Rabarber (2022)",
+    "brewery": "Boerenerf",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-19T12:34:28+00:00",
+    "serving": "bottle",
+    "rating": 4.4,
+    "beer_name": "Vigneronne (2023)",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-19T12:34:22+00:00",
+    "serving": "bottle",
+    "rating": 4.5,
+    "beer_name": "Vigneronne (2023)",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-19T12:33:12+00:00",
+    "serving": "bottle",
+    "rating": 4.3,
+    "beer_name": "Vigneronne (2023)",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-12-19T12:26:34+00:00",
+    "serving": "draft",
+    "rating": 3.9,
+    "beer_name": "Motueka Sunrise",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-19T12:21:15+00:00",
+    "serving": "bottle",
+    "rating": null,
+    "beer_name": "Oude Mourvèdre Tilquin à l'Ancienne (2022-2023)",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-19T12:12:12+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "צ׳ארלי המלך 2.0",
+    "brewery": "קישקשתא (Kishkashta)",
+    "beer_type": "Bitter - Extra Special / Strong (ESB)"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-19T12:09:42+00:00",
+    "serving": "bottle",
+    "rating": 4.3,
+    "beer_name": "Oude Mourvèdre Tilquin à l'Ancienne (2022-2023)",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "berlin-florentin",
+    "time": "2025-12-19T12:08:28+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Guinness Draught",
+    "brewery": "Guinness",
+    "beer_type": "Stout - Irish Dry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-19T12:07:43+00:00",
+    "serving": "bottle",
+    "rating": null,
+    "beer_name": "Fou' Foune (2024)",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-19T12:01:00+00:00",
+    "serving": "bottle",
+    "rating": 4.7,
+    "beer_name": "Fou' Foune (2024)",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-19T12:00:07+00:00",
+    "serving": "bottle",
+    "rating": 4.7,
+    "beer_name": "Fou' Foune (2024)",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-19T11:59:04+00:00",
+    "serving": "can",
+    "rating": 3.25,
+    "beer_name": "Jaffa Sunrise",
+    "brewery": "Herzl (הרצל)",
+    "beer_type": "IPA - Fruited"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-19T11:53:21+00:00",
+    "serving": "draft",
+    "rating": 3.7,
+    "beer_name": "Anything Gose: Orange And Sage",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Sour - Fruited Gose"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-19T11:52:40+00:00",
+    "serving": "bottle",
+    "rating": 4.7,
+    "beer_name": "Pescharina (Oogst 2023)",
+    "brewery": "Boerenerf",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-12-19T11:34:04+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Four Hopsmen",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - Imperial / Double New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-19T11:15:29+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Citra & Simcoe Hoppy Grodziskie",
+    "brewery": "Nepo Brewing",
+    "beer_type": "Grodziskie / Grätzer"
+  },
+  {
+    "venue": "berlin-florentin",
+    "time": "2025-12-19T11:03:21+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Guinness Draught",
+    "brewery": "Guinness",
+    "beer_type": "Stout - Irish Dry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-19T10:36:05+00:00",
+    "serving": "bottle",
+    "rating": 4.0,
+    "beer_name": "Baltic Porter Day 2025",
+    "brewery": "Põhjala",
+    "beer_type": "Porter - Imperial / Double Baltic"
+  },
   {
     "venue": "schnitt-brewing-company",
     "time": "2025-12-18T21:57:49+00:00",
@@ -1021,7 +1858,7 @@ const BEER_DATA = [
     "beer_type": "IPA - Belgian"
   },
   {
-    "venue": "lauter",
+    "venue": "schnitt-brewing-company",
     "time": "2025-12-14T20:46:46+00:00",
     "serving": "draft",
     "rating": 3.7,
@@ -1030,7 +1867,7 @@ const BEER_DATA = [
     "beer_type": "Porter - American"
   },
   {
-    "venue": "schnitt-brewing-company",
+    "venue": "lauter",
     "time": "2025-12-14T20:46:46+00:00",
     "serving": "draft",
     "rating": 3.7,
@@ -1195,19 +2032,19 @@ const BEER_DATA = [
     "venue": "b7-beer-house",
     "time": "2025-12-14T19:05:15+00:00",
     "serving": "can",
-    "rating": 3.6,
-    "beer_name": "Качок-Кабачок",
-    "brewery": "4BREWERS",
-    "beer_type": "Sour - Tomato / Vegetable Gose"
+    "rating": 3.75,
+    "beer_name": "Toasted Marshmallow Hazy IPA",
+    "brewery": "Urbanaut Brewing",
+    "beer_type": "IPA - New England / Hazy"
   },
   {
     "venue": "b7-beer-house",
     "time": "2025-12-14T19:05:15+00:00",
     "serving": "can",
-    "rating": 3.75,
-    "beer_name": "Toasted Marshmallow Hazy IPA",
-    "brewery": "Urbanaut Brewing",
-    "beer_type": "IPA - New England / Hazy"
+    "rating": 3.6,
+    "beer_name": "Качок-Кабачок",
+    "brewery": "4BREWERS",
+    "beer_type": "Sour - Tomato / Vegetable Gose"
   },
   {
     "venue": "lauter",
@@ -10897,19 +11734,19 @@ const BEER_DATA = [
     "venue": "b7-beer-house",
     "time": "2025-11-21T12:08:02+00:00",
     "serving": "bottle",
-    "rating": 4.25,
-    "beer_name": "Bzart Lambiek Millésime 2018",
+    "rating": 4.0,
+    "beer_name": "Wild Dry Cider - Blended With Lambic",
     "brewery": "Oud Beersel",
-    "beer_type": "Lambic - Traditional"
+    "beer_type": "Cider - Dry"
   },
   {
     "venue": "b7-beer-house",
     "time": "2025-11-21T12:08:02+00:00",
     "serving": "bottle",
-    "rating": 4.0,
-    "beer_name": "Wild Dry Cider - Blended With Lambic",
+    "rating": 4.25,
+    "beer_name": "Bzart Lambiek Millésime 2018",
     "brewery": "Oud Beersel",
-    "beer_type": "Cider - Dry"
+    "beer_type": "Lambic - Traditional"
   },
   {
     "venue": "b7-beer-house",
@@ -53385,20 +54222,20 @@ const BEER_DATA = [
   {
     "venue": "b7-beer-house",
     "time": "2025-08-21T15:59:11+00:00",
-    "serving": "Unknown",
-    "rating": 4.0,
-    "beer_name": "Naughty & Nice - White Chocolate & Raspberry",
-    "brewery": "Vocation Brewery",
-    "beer_type": "Stout - White / Golden"
-  },
-  {
-    "venue": "b7-beer-house",
-    "time": "2025-08-21T15:59:11+00:00",
     "serving": "can",
     "rating": 3.8,
     "beer_name": "Peach Rings",
     "brewery": "Vault City Brewing",
     "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-21T15:59:11+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Naughty & Nice - White Chocolate & Raspberry",
+    "brewery": "Vocation Brewery",
+    "beer_type": "Stout - White / Golden"
   },
   {
     "venue": "b7-beer-house",
@@ -60279,8 +61116,8 @@ const BEER_DATA = [
   {
     "venue": "lauter",
     "time": "2025-08-05T19:24:07+00:00",
-    "serving": "can",
-    "rating": 4.5,
+    "serving": "Unknown",
+    "rating": null,
     "beer_name": "SLUSHY XL: Haha!",
     "brewery": "450 North Brewing Company",
     "beer_type": "Sour - Smoothie / Pastry"
@@ -60288,8 +61125,8 @@ const BEER_DATA = [
   {
     "venue": "lauter",
     "time": "2025-08-05T19:24:07+00:00",
-    "serving": "Unknown",
-    "rating": null,
+    "serving": "can",
+    "rating": 4.5,
     "beer_name": "SLUSHY XL: Haha!",
     "brewery": "450 North Brewing Company",
     "beer_type": "Sour - Smoothie / Pastry"
@@ -67650,20 +68487,20 @@ const BEER_DATA = [
   {
     "venue": "lauter",
     "time": "2025-07-26T15:22:08+00:00",
-    "serving": "Unknown",
-    "rating": 4.0,
-    "beer_name": "Pijże",
-    "brewery": "Nepo Brewing",
-    "beer_type": "Pale Ale - New England / Hazy"
-  },
-  {
-    "venue": "lauter",
-    "time": "2025-07-26T15:22:08+00:00",
     "serving": "can",
     "rating": 4.2,
     "beer_name": "Smoothie Bowl: Pistachio Fluff",
     "brewery": "Nepo Brewing",
     "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-07-26T15:22:08+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Pijże",
+    "brewery": "Nepo Brewing",
+    "beer_type": "Pale Ale - New England / Hazy"
   },
   {
     "venue": "lauter",
@@ -84543,8 +85380,8 @@ const BEER_DATA = [
   {
     "venue": "berlin-florentin",
     "time": "2024-01-22T18:42:20+00:00",
-    "serving": "can",
-    "rating": 4.0,
+    "serving": "Unknown",
+    "rating": null,
     "beer_name": "200 Units",
     "brewery": "Brewski",
     "beer_type": "Barleywine - English"
@@ -84552,8 +85389,8 @@ const BEER_DATA = [
   {
     "venue": "berlin-florentin",
     "time": "2024-01-22T18:42:20+00:00",
-    "serving": "Unknown",
-    "rating": null,
+    "serving": "can",
+    "rating": 4.0,
     "beer_name": "200 Units",
     "brewery": "Brewski",
     "beer_type": "Barleywine - English"
