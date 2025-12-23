@@ -1,8 +1,188 @@
 // 🍺 BEER STATS DATA - Generated automatically
-// Last updated: 2025-12-22 06:46:44
-// Total records: 9886
+// Last updated: 2025-12-23 06:45:54
+// Total records: 9906
 
 const BEER_DATA = [
+  {
+    "venue": "lauter",
+    "time": "2025-12-22T20:59:03+00:00",
+    "serving": "draft",
+    "rating": 3.25,
+    "beer_name": "Rinktinis",
+    "brewery": "Volfas Engelman",
+    "beer_type": "Lager - Pale"
+  },
+  {
+    "venue": "porter-and-sons",
+    "time": "2025-12-22T19:36:53+00:00",
+    "serving": "draft",
+    "rating": null,
+    "beer_name": "Sim Sima",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - Imperial / Double"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-22T17:59:13+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "צ׳ארלי המלך 2.0",
+    "brewery": "קישקשתא (Kishkashta)",
+    "beer_type": "Bitter - Extra Special / Strong (ESB)"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-12-22T17:34:22+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Coresh כורש",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Smoked Beer"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-22T17:05:56+00:00",
+    "serving": "draft",
+    "rating": 3.0,
+    "beer_name": "צ׳ארלי המלך 2.0",
+    "brewery": "קישקשתא (Kishkashta)",
+    "beer_type": "Bitter - Extra Special / Strong (ESB)"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-12-22T16:48:38+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Coresh כורש",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Smoked Beer"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-12-22T15:48:14+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Kochav HaTzafon 2025 כוכב הצפון",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Winter Ale"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-12-22T15:22:02+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Coresh כורש",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Smoked Beer"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-12-22T15:11:20+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Global Chillin'",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - Cold"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-12-22T14:47:38+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "TIPA Mara (2025)",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - Triple"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-22T14:35:15+00:00",
+    "serving": "draft",
+    "rating": 3.6,
+    "beer_name": "צ׳ארלי המלך 2.0",
+    "brewery": "קישקשתא (Kishkashta)",
+    "beer_type": "Bitter - Extra Special / Strong (ESB)"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-12-22T14:34:21+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Four Hopsmen",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - Imperial / Double New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-12-22T14:32:26+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Anything Gose: Orange And Sage",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Sour - Fruited Gose"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-12-22T14:28:10+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Global Chillin'",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - Cold"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-12-22T14:25:40+00:00",
+    "serving": "draft",
+    "rating": 3.9,
+    "beer_name": "Porter&Sons: Amarena Cherry",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Porter - American"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-12-22T14:20:06+00:00",
+    "serving": "draft",
+    "rating": 3.8,
+    "beer_name": "Kochav HaTzafon 2025 כוכב הצפון",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Winter Ale"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-12-22T14:19:58+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Porter&Sons: Amarena Cherry",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Porter - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-22T14:18:18+00:00",
+    "serving": "draft",
+    "rating": 4.1,
+    "beer_name": "Abt 12",
+    "brewery": "Brouwerij St.Bernardus",
+    "beer_type": "Belgian Quadrupel"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-12-22T14:18:07+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Kochav HaTzafon 2025 כוכב הצפון",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Winter Ale"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-12-22T10:43:23+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "Anything Gose: Orange And Sage",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Sour - Fruited Gose"
+  },
   {
     "venue": "lauter",
     "time": "2025-12-21T20:18:24+00:00",
@@ -1168,8 +1348,8 @@ const BEER_DATA = [
     "venue": "lauter",
     "time": "2025-12-19T13:11:34+00:00",
     "serving": "bottle",
-    "rating": 4.7,
-    "beer_name": "Oude Gueuze Tilquin à l'ancienne - Cuvée Jean-François 1759 (2021-2022)",
+    "rating": 4.25,
+    "beer_name": "Oude Gueuze Tilquin à l'ancienne - Cuvée Arthur (2022-2023)",
     "brewery": "Gueuzerie Tilquin",
     "beer_type": "Lambic - Gueuze"
   },
@@ -1177,8 +1357,8 @@ const BEER_DATA = [
     "venue": "lauter",
     "time": "2025-12-19T13:11:34+00:00",
     "serving": "bottle",
-    "rating": 4.25,
-    "beer_name": "Oude Gueuze Tilquin à l'ancienne - Cuvée Arthur (2022-2023)",
+    "rating": 4.7,
+    "beer_name": "Oude Gueuze Tilquin à l'ancienne - Cuvée Jean-François 1759 (2021-2022)",
     "brewery": "Gueuzerie Tilquin",
     "beer_type": "Lambic - Gueuze"
   },
@@ -12310,19 +12490,19 @@ const BEER_DATA = [
     "venue": "b7-beer-house",
     "time": "2025-11-21T12:08:02+00:00",
     "serving": "bottle",
-    "rating": 4.25,
-    "beer_name": "Bzart Lambiek Millésime 2018",
+    "rating": 4.0,
+    "beer_name": "Wild Dry Cider - Blended With Lambic",
     "brewery": "Oud Beersel",
-    "beer_type": "Lambic - Traditional"
+    "beer_type": "Cider - Dry"
   },
   {
     "venue": "b7-beer-house",
     "time": "2025-11-21T12:08:02+00:00",
     "serving": "bottle",
-    "rating": 4.0,
-    "beer_name": "Wild Dry Cider - Blended With Lambic",
+    "rating": 4.25,
+    "beer_name": "Bzart Lambiek Millésime 2018",
     "brewery": "Oud Beersel",
-    "beer_type": "Cider - Dry"
+    "beer_type": "Lambic - Traditional"
   },
   {
     "venue": "b7-beer-house",
@@ -13021,7 +13201,7 @@ const BEER_DATA = [
     "venue": "b7-beer-house",
     "time": "2025-11-21T11:17:46+00:00",
     "serving": "bottle",
-    "rating": 4.0,
+    "rating": 4.25,
     "beer_name": "Oude Gueuze Tilquin à l'Ancienne - Cuvée Renée (2023-2024)",
     "brewery": "Gueuzerie Tilquin",
     "beer_type": "Lambic - Gueuze"
@@ -13030,7 +13210,7 @@ const BEER_DATA = [
     "venue": "b7-beer-house",
     "time": "2025-11-21T11:17:46+00:00",
     "serving": "bottle",
-    "rating": 4.25,
+    "rating": 4.0,
     "beer_name": "Oude Gueuze Tilquin à l'Ancienne - Cuvée Renée (2023-2024)",
     "brewery": "Gueuzerie Tilquin",
     "beer_type": "Lambic - Gueuze"
@@ -25036,7 +25216,7 @@ const BEER_DATA = [
     "venue": "lauter",
     "time": "2025-10-26T18:36:28+00:00",
     "serving": "can",
-    "rating": 3.25,
+    "rating": 3.75,
     "beer_name": "Darkness My Friends Imperial Baltic Porter Coffee & Date Syrup",
     "brewery": "Maryensztadt",
     "beer_type": "Porter - Baltic"
@@ -25045,7 +25225,7 @@ const BEER_DATA = [
     "venue": "lauter",
     "time": "2025-10-26T18:36:28+00:00",
     "serving": "can",
-    "rating": 3.75,
+    "rating": 3.25,
     "beer_name": "Darkness My Friends Imperial Baltic Porter Coffee & Date Syrup",
     "brewery": "Maryensztadt",
     "beer_type": "Porter - Baltic"
@@ -69063,20 +69243,20 @@ const BEER_DATA = [
   {
     "venue": "lauter",
     "time": "2025-07-26T15:22:08+00:00",
-    "serving": "can",
-    "rating": 4.2,
-    "beer_name": "Smoothie Bowl: Pistachio Fluff",
-    "brewery": "Nepo Brewing",
-    "beer_type": "Sour - Smoothie / Pastry"
-  },
-  {
-    "venue": "lauter",
-    "time": "2025-07-26T15:22:08+00:00",
     "serving": "Unknown",
     "rating": 4.0,
     "beer_name": "Pijże",
     "brewery": "Nepo Brewing",
     "beer_type": "Pale Ale - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-07-26T15:22:08+00:00",
+    "serving": "can",
+    "rating": 4.2,
+    "beer_name": "Smoothie Bowl: Pistachio Fluff",
+    "brewery": "Nepo Brewing",
+    "beer_type": "Sour - Smoothie / Pastry"
   },
   {
     "venue": "lauter",
@@ -79522,8 +79702,8 @@ const BEER_DATA = [
     "venue": "berlin-florentin",
     "time": "2024-12-23T18:37:49+00:00",
     "serving": "bottle",
-    "rating": 4.1,
-    "beer_name": "Christmas Ale (2023)",
+    "rating": 3.0,
+    "beer_name": "Christmas Ale",
     "brewery": "Brouwerij St.Bernardus",
     "beer_type": "Winter Ale"
   },
@@ -79531,8 +79711,8 @@ const BEER_DATA = [
     "venue": "berlin-florentin",
     "time": "2024-12-23T18:37:49+00:00",
     "serving": "bottle",
-    "rating": 3.0,
-    "beer_name": "Christmas Ale",
+    "rating": 4.1,
+    "beer_name": "Christmas Ale (2023)",
     "brewery": "Brouwerij St.Bernardus",
     "beer_type": "Winter Ale"
   },
