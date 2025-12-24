@@ -1,8 +1,449 @@
 // 🍺 BEER STATS DATA - Generated automatically
-// Last updated: 2025-12-23 06:45:54
-// Total records: 9906
+// Last updated: 2025-12-24 06:45:44
+// Total records: 9955
 
 const BEER_DATA = [
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-12-23T21:07:26+00:00",
+    "serving": "draft",
+    "rating": 2.5,
+    "beer_name": "הפילס שבחדר the Pils In the Room",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pilsner - German"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-12-23T21:07:04+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Lazy Bee Hibiscus And Raspberries",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Mead - Session / Short"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-23T19:57:50+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Tiramisu Bänger",
+    "brewery": "Põhjala",
+    "beer_type": "Stout - Imperial / Double Coffee"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-23T19:41:48+00:00",
+    "serving": "can",
+    "rating": 4.5,
+    "beer_name": "Open Craft 2025: Banana, Kiwi, Mango, Lime x Pineapple",
+    "brewery": "Nepo Brewing",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-12-23T19:34:03+00:00",
+    "serving": "draft",
+    "rating": 3.0,
+    "beer_name": "Global Chillin'",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - Cold"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-23T19:28:29+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Rukkirääk 2025",
+    "brewery": "Põhjala",
+    "beer_type": "Rye Beer"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-12-23T19:17:48+00:00",
+    "serving": "draft",
+    "rating": 3.25,
+    "beer_name": "Kochav HaTzafon 2025 כוכב הצפון",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Winter Ale"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-12-23T19:07:19+00:00",
+    "serving": "draft",
+    "rating": 3.0,
+    "beer_name": "Pint It Black",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Schwarzbier"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-12-23T18:59:50+00:00",
+    "serving": "draft",
+    "rating": 2.75,
+    "beer_name": "ער.ה? 2025",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Stout - White / Golden"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-12-23T18:54:21+00:00",
+    "serving": "draft",
+    "rating": 2.5,
+    "beer_name": "Porter&Sons: Amarena Cherry",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Porter - American"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-12-23T18:52:21+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Anything Gose: Orange And Sage",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Sour - Fruited Gose"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-23T18:49:35+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "הייזי שמייזי",
+    "brewery": "Herzl (הרצל)",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-23T18:48:37+00:00",
+    "serving": "can",
+    "rating": 4.7,
+    "beer_name": "Red & Black Currant Berliner Weisse",
+    "brewery": "Ārpus Brewing Co.",
+    "beer_type": "Sour - Fruited Berliner Weisse"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-23T18:46:19+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "Another Night In Hell",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": "Stout - Imperial / Double"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-23T18:42:34+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "Another Night In Hell",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": "Stout - Imperial / Double"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-23T18:37:55+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Another Night In Hell",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": "Stout - Imperial / Double"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-12-23T18:36:37+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "ער.ה? 2025",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Stout - White / Golden"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-23T18:31:44+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "Like A Gazpacho 12",
+    "brewery": "Rodinný pivovar Zichovec",
+    "beer_type": "Sour - Tomato / Vegetable Gose"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-23T18:31:21+00:00",
+    "serving": "can",
+    "rating": 3.25,
+    "beer_name": "Like A Gazpacho 12",
+    "brewery": "Rodinný pivovar Zichovec",
+    "beer_type": "Sour - Tomato / Vegetable Gose"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-23T18:30:08+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Like A Gazpacho 12",
+    "brewery": "Rodinný pivovar Zichovec",
+    "beer_type": "Sour - Tomato / Vegetable Gose"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-23T18:24:56+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Pumpkin Time 13",
+    "brewery": "Rodinný pivovar Zichovec",
+    "beer_type": "Pumpkin / Yam Beer"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-23T18:23:51+00:00",
+    "serving": "draft",
+    "rating": 4.1,
+    "beer_name": "Abt 12",
+    "brewery": "Brouwerij St.Bernardus",
+    "beer_type": "Belgian Quadrupel"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-23T18:23:06+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Surf City",
+    "brewery": "Põhjala",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-23T18:22:09+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "Pumpkin Time 13",
+    "brewery": "Rodinný pivovar Zichovec",
+    "beer_type": "Pumpkin / Yam Beer"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-23T18:21:31+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "Pumpkin Time 13",
+    "brewery": "Rodinný pivovar Zichovec",
+    "beer_type": "Pumpkin / Yam Beer"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-23T18:13:48+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Age of Cryo Pop",
+    "brewery": "Chroust",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-23T18:12:18+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Age of Cryo Pop",
+    "brewery": "Chroust",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-23T18:10:18+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Age of Cryo Pop",
+    "brewery": "Chroust",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-23T18:08:43+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "Dolcita Birra",
+    "brewery": "Chroust",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-23T18:04:53+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Bloody Hell No Alcohol",
+    "brewery": "Chroust",
+    "beer_type": "Non-Alcoholic - IPA"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-23T17:59:20+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Dolcita Birra",
+    "brewery": "Chroust",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-23T17:59:04+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Dolcita Birra",
+    "brewery": "Chroust",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-23T17:52:54+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Milkshake IPA Citra",
+    "brewery": "Chroust",
+    "beer_type": "IPA - Milkshake"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-23T17:51:31+00:00",
+    "serving": "can",
+    "rating": 3.0,
+    "beer_name": "Milkshake IPA Citra",
+    "brewery": "Chroust",
+    "beer_type": "IPA - Milkshake"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-23T17:51:14+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "Milkshake IPA Citra",
+    "brewery": "Chroust",
+    "beer_type": "IPA - Milkshake"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-23T17:47:58+00:00",
+    "serving": "Unknown",
+    "rating": 3.9,
+    "beer_name": "Kochav HaTzafon 2025 כוכב הצפון",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Winter Ale"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-23T17:45:47+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "Fresh Saaz Special 12 2025",
+    "brewery": "Rodinný pivovar Zichovec",
+    "beer_type": "Pilsner - Czech / Bohemian"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-23T17:45:23+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Fresh Saaz Special 12 2025",
+    "brewery": "Rodinný pivovar Zichovec",
+    "beer_type": "Pilsner - Czech / Bohemian"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-23T17:44:49+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Fresh Saaz Special 12 2025",
+    "brewery": "Rodinný pivovar Zichovec",
+    "beer_type": "Pilsner - Czech / Bohemian"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-23T17:41:08+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "Bloody Hell No Alcohol",
+    "brewery": "Chroust",
+    "beer_type": "Non-Alcoholic - IPA"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-23T17:38:13+00:00",
+    "serving": "can",
+    "rating": 2.0,
+    "beer_name": "Bloody Hell No Alcohol",
+    "brewery": "Chroust",
+    "beer_type": "Non-Alcoholic - IPA"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-23T17:22:34+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Porter&Sons: Amarena Cherry",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Porter - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-23T17:18:21+00:00",
+    "serving": "bottle",
+    "rating": 4.0,
+    "beer_name": "Oude Gueuze Tilquin à l'Ancienne",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": "Lambic - Gueuze"
+  },
+  {
+    "venue": "beerline",
+    "time": "2025-12-23T16:38:48+00:00",
+    "serving": "draft",
+    "rating": 5.0,
+    "beer_name": "La Trappe Quadrupel",
+    "brewery": "Bierbrouwerij De Koningshoeven",
+    "beer_type": "Belgian Quadrupel"
+  },
+  {
+    "venue": "beerline",
+    "time": "2025-12-23T16:33:37+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Benediktiner Weissbier",
+    "brewery": "Benediktiner Weissbräu",
+    "beer_type": "Wheat Beer - Hefeweizen"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-12-23T15:32:01+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Anything Gose: Orange And Sage",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Sour - Fruited Gose"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-23T15:31:36+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "Anything Gose: Orange And Sage",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Sour - Fruited Gose"
+  },
+  {
+    "venue": "berlin-florentin",
+    "time": "2025-12-23T14:24:16+00:00",
+    "serving": "can",
+    "rating": 3.9,
+    "beer_name": "הרמוניה",
+    "brewery": "BeerBazaar / Mivshelet Ha’Aretz",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "berlin-florentin",
+    "time": "2025-12-23T13:37:23+00:00",
+    "serving": "can",
+    "rating": 3.9,
+    "beer_name": "הרמוניה",
+    "brewery": "BeerBazaar / Mivshelet Ha’Aretz",
+    "beer_type": "IPA - American"
+  },
   {
     "venue": "lauter",
     "time": "2025-12-22T20:59:03+00:00",
@@ -25216,7 +25657,7 @@ const BEER_DATA = [
     "venue": "lauter",
     "time": "2025-10-26T18:36:28+00:00",
     "serving": "can",
-    "rating": 3.75,
+    "rating": 3.25,
     "beer_name": "Darkness My Friends Imperial Baltic Porter Coffee & Date Syrup",
     "brewery": "Maryensztadt",
     "beer_type": "Porter - Baltic"
@@ -25225,7 +25666,7 @@ const BEER_DATA = [
     "venue": "lauter",
     "time": "2025-10-26T18:36:28+00:00",
     "serving": "can",
-    "rating": 3.25,
+    "rating": 3.75,
     "beer_name": "Darkness My Friends Imperial Baltic Porter Coffee & Date Syrup",
     "brewery": "Maryensztadt",
     "beer_type": "Porter - Baltic"
@@ -54870,8 +55311,8 @@ const BEER_DATA = [
   {
     "venue": "b7-beer-house",
     "time": "2025-08-21T16:02:37+00:00",
-    "serving": "Unknown",
-    "rating": 3.75,
+    "serving": "can",
+    "rating": 3.5,
     "beer_name": "Nitro Mini M*rs",
     "brewery": "Vault City Brewing",
     "beer_type": "Stout - Pastry"
@@ -54879,8 +55320,8 @@ const BEER_DATA = [
   {
     "venue": "b7-beer-house",
     "time": "2025-08-21T16:02:37+00:00",
-    "serving": "can",
-    "rating": 3.5,
+    "serving": "Unknown",
+    "rating": 3.75,
     "beer_name": "Nitro Mini M*rs",
     "brewery": "Vault City Brewing",
     "beer_type": "Stout - Pastry"
@@ -61872,8 +62313,8 @@ const BEER_DATA = [
   {
     "venue": "lauter",
     "time": "2025-08-05T19:24:07+00:00",
-    "serving": "Unknown",
-    "rating": null,
+    "serving": "can",
+    "rating": 4.5,
     "beer_name": "SLUSHY XL: Haha!",
     "brewery": "450 North Brewing Company",
     "beer_type": "Sour - Smoothie / Pastry"
@@ -61881,8 +62322,8 @@ const BEER_DATA = [
   {
     "venue": "lauter",
     "time": "2025-08-05T19:24:07+00:00",
-    "serving": "can",
-    "rating": 4.5,
+    "serving": "Unknown",
+    "rating": null,
     "beer_name": "SLUSHY XL: Haha!",
     "brewery": "450 North Brewing Company",
     "beer_type": "Sour - Smoothie / Pastry"
@@ -86136,8 +86577,8 @@ const BEER_DATA = [
   {
     "venue": "berlin-florentin",
     "time": "2024-01-22T18:42:20+00:00",
-    "serving": "can",
-    "rating": 4.0,
+    "serving": "Unknown",
+    "rating": null,
     "beer_name": "200 Units",
     "brewery": "Brewski",
     "beer_type": "Barleywine - English"
@@ -86145,8 +86586,8 @@ const BEER_DATA = [
   {
     "venue": "berlin-florentin",
     "time": "2024-01-22T18:42:20+00:00",
-    "serving": "Unknown",
-    "rating": null,
+    "serving": "can",
+    "rating": 4.0,
     "beer_name": "200 Units",
     "brewery": "Brewski",
     "beer_type": "Barleywine - English"
