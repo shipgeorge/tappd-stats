@@ -1,8 +1,593 @@
 // 🍺 BEER STATS DATA - Generated automatically
-// Last updated: 2025-12-24 06:45:44
-// Total records: 9955
+// Last updated: 2025-12-25 06:43:54
+// Total records: 10020
 
 const BEER_DATA = [
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-12-24T21:09:21+00:00",
+    "serving": "bottle",
+    "rating": 4.25,
+    "beer_name": "Baltic Porter Day 2025",
+    "brewery": "Põhjala",
+    "beer_type": "Porter - Imperial / Double Baltic"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-12-24T21:08:44+00:00",
+    "serving": "Unknown",
+    "rating": 4.25,
+    "beer_name": "Buster's Cranberry Lemonade",
+    "brewery": "Oak & Ash",
+    "beer_type": "Malt Liquor"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-24T20:58:24+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Saturnus",
+    "brewery": "Põhjala",
+    "beer_type": "Pale Ale - New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-12-24T20:57:49+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Rukkirääk 2025",
+    "brewery": "Põhjala",
+    "beer_type": "Rye Beer"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-24T20:31:45+00:00",
+    "serving": "draft",
+    "rating": 3.25,
+    "beer_name": "Fruity Mish Mash",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-12-24T20:26:40+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Two Scoops (Mackies Collab)",
+    "brewery": "BrewDog",
+    "beer_type": "Stout - Pastry"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-12-24T20:06:48+00:00",
+    "serving": "draft",
+    "rating": 3.0,
+    "beer_name": "Porter&Sons: Amarena Cherry",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Porter - American"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-12-24T19:46:33+00:00",
+    "serving": "can",
+    "rating": 3.7,
+    "beer_name": "Two Scoops (Mackies Collab)",
+    "brewery": "BrewDog",
+    "beer_type": "Stout - Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-24T19:43:00+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Edelweiss Snowfresh / Wheat Beer",
+    "brewery": "Brau Union Österreich",
+    "beer_type": "Wheat Beer - Hefeweizen"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-24T19:38:40+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "ער.ה? 2025",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Stout - White / Golden"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-24T19:33:19+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Christmas Ale",
+    "brewery": "Brouwerij St.Bernardus",
+    "beer_type": "Winter Ale"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-24T19:32:16+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Glühkriek (2024)",
+    "brewery": "Brouwerij Liefmans",
+    "beer_type": "Fruit Beer"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-12-24T19:28:20+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Saturnus",
+    "brewery": "Põhjala",
+    "beer_type": "Pale Ale - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-24T19:27:22+00:00",
+    "serving": "bottle",
+    "rating": 4.5,
+    "beer_name": "Glühkriek",
+    "brewery": "Brouwerij Liefmans",
+    "beer_type": "Fruit Beer"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-12-24T19:26:14+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "TIPA Mara (2025)",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - Triple"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-24T19:25:08+00:00",
+    "serving": "bottle",
+    "rating": 4.25,
+    "beer_name": "Chimay Grande Réserve Chene Française,  Chene American, Rum 2025",
+    "brewery": "Bières de Chimay",
+    "beer_type": "Belgian Strong Dark Ale"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-24T19:24:18+00:00",
+    "serving": "bottle",
+    "rating": 4.0,
+    "beer_name": "Chimay Grande Réserve Fermentée En Barriques - Chêne Français, Chêne Américain, Calvados (05/2023)",
+    "brewery": "Bières de Chimay",
+    "beer_type": "Belgian Strong Dark Ale"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-24T19:23:54+00:00",
+    "serving": "bottle",
+    "rating": 4.25,
+    "beer_name": "Chimay Grande Réserve Fermentée En Barriques - Chêne Français, Chêne Américain, Brandy (02/2024)",
+    "brewery": "Bières de Chimay",
+    "beer_type": "Belgian Strong Dark Ale"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-24T19:23:46+00:00",
+    "serving": "bottle",
+    "rating": 4.5,
+    "beer_name": "Chimay Grande Réserve Fermentée En Barriques - Chêne Français, Chêne Américain, Calvados (05/2023)",
+    "brewery": "Bières de Chimay",
+    "beer_type": "Belgian Strong Dark Ale"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-24T19:23:30+00:00",
+    "serving": "bottle",
+    "rating": 3.75,
+    "beer_name": "Chimay Grande Réserve Fermentée En Barriques - Chêne Français, Chêne Américain, Calvados (05/2023)",
+    "brewery": "Bières de Chimay",
+    "beer_type": "Belgian Strong Dark Ale"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-24T19:22:26+00:00",
+    "serving": "bottle",
+    "rating": 4.0,
+    "beer_name": "Chimay Grande Réserve Fermentée En Barriques - Chêne Français, Chêne Américain, Brandy (02/2024)",
+    "brewery": "Bières de Chimay",
+    "beer_type": "Belgian Strong Dark Ale"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-24T19:20:43+00:00",
+    "serving": "bottle",
+    "rating": 3.25,
+    "beer_name": "Chimay Grande Réserve Fermentée En Barriques - Chêne Français, Chêne Américain, Brandy (02/2024)",
+    "brewery": "Bières de Chimay",
+    "beer_type": "Belgian Strong Dark Ale"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-12-24T19:17:32+00:00",
+    "serving": "draft",
+    "rating": 4.1,
+    "beer_name": "OrangeDana",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-24T19:16:45+00:00",
+    "serving": "draft",
+    "rating": 3.7,
+    "beer_name": "צ׳ארלי המלך 2.0",
+    "brewery": "קישקשתא (Kishkashta)",
+    "beer_type": "Bitter - Extra Special / Strong (ESB)"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-24T19:06:37+00:00",
+    "serving": "bottle",
+    "rating": 4.0,
+    "beer_name": "Abt 12 (2024)",
+    "brewery": "Brouwerij St.Bernardus",
+    "beer_type": "Belgian Quadrupel"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-24T19:06:06+00:00",
+    "serving": "bottle",
+    "rating": 4.0,
+    "beer_name": "Abt 12 (2024)",
+    "brewery": "Brouwerij St.Bernardus",
+    "beer_type": "Belgian Quadrupel"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-24T19:04:48+00:00",
+    "serving": "bottle",
+    "rating": 3.5,
+    "beer_name": "Abt 12 (2024)",
+    "brewery": "Brouwerij St.Bernardus",
+    "beer_type": "Belgian Quadrupel"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-24T19:04:28+00:00",
+    "serving": "bottle",
+    "rating": 4.0,
+    "beer_name": "Abt 12",
+    "brewery": "Brouwerij St.Bernardus",
+    "beer_type": "Belgian Quadrupel"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-24T19:00:36+00:00",
+    "serving": "can",
+    "rating": 4.5,
+    "beer_name": "Smoothie Bowl - Green Morning",
+    "brewery": "Nepo Brewing",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-24T18:59:11+00:00",
+    "serving": "bottle",
+    "rating": 3.75,
+    "beer_name": "Chouffe IPA",
+    "brewery": "Brasserie d'Achouffe",
+    "beer_type": "IPA - Belgian"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-24T18:57:03+00:00",
+    "serving": "bottle",
+    "rating": 3.75,
+    "beer_name": "Chouffe IPA",
+    "brewery": "Brasserie d'Achouffe",
+    "beer_type": "IPA - Belgian"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-12-24T18:55:59+00:00",
+    "serving": "Unknown",
+    "rating": 4.2,
+    "beer_name": "Abricot Tilquin - Draft Version",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-24T18:55:21+00:00",
+    "serving": "bottle",
+    "rating": 3.75,
+    "beer_name": "Chouffe IPA",
+    "brewery": "Brasserie d'Achouffe",
+    "beer_type": "IPA - Belgian"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-24T18:54:07+00:00",
+    "serving": "draft",
+    "rating": 3.25,
+    "beer_name": "צ׳ארלי המלך 2.0",
+    "brewery": "קישקשתא (Kishkashta)",
+    "beer_type": "Bitter - Extra Special / Strong (ESB)"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-24T18:46:40+00:00",
+    "serving": "bottle",
+    "rating": 3.75,
+    "beer_name": "Kriek",
+    "brewery": "Brouwerij Lindemans",
+    "beer_type": "Lambic - Kriek"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-24T18:46:12+00:00",
+    "serving": "bottle",
+    "rating": 4.0,
+    "beer_name": "Kriek",
+    "brewery": "Brouwerij Lindemans",
+    "beer_type": "Lambic - Kriek"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-24T18:46:01+00:00",
+    "serving": "bottle",
+    "rating": 4.5,
+    "beer_name": "Kriek",
+    "brewery": "Brouwerij Lindemans",
+    "beer_type": "Lambic - Kriek"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-24T18:38:25+00:00",
+    "serving": "bottle",
+    "rating": 4.0,
+    "beer_name": "N'Ice Chouffe",
+    "brewery": "Brasserie d'Achouffe",
+    "beer_type": "Winter Ale"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-24T18:32:21+00:00",
+    "serving": "bottle",
+    "rating": 3.75,
+    "beer_name": "Duvel",
+    "brewery": "Duvel Moortgat",
+    "beer_type": "Belgian Strong Golden Ale"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-24T18:27:59+00:00",
+    "serving": "bottle",
+    "rating": 3.75,
+    "beer_name": "Duvel",
+    "brewery": "Duvel Moortgat",
+    "beer_type": "Belgian Strong Golden Ale"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-12-24T18:25:43+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "Pint It Black",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Schwarzbier"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-24T18:19:31+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Tokyo",
+    "brewery": "Brouwerij St.Bernardus",
+    "beer_type": "Wheat Beer - Witbier / Blanche"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-24T18:18:58+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "Tokyo",
+    "brewery": "Brouwerij St.Bernardus",
+    "beer_type": "Wheat Beer - Witbier / Blanche"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-24T18:17:58+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Tokyo",
+    "brewery": "Brouwerij St.Bernardus",
+    "beer_type": "Wheat Beer - Witbier / Blanche"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-12-24T18:13:49+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "Four Hopsmen",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - Imperial / Double New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-12-24T18:13:37+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Four Hopsmen",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - Imperial / Double New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-12-24T18:11:54+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Pint It Black",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Schwarzbier"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-24T18:10:29+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "Vedett Extra Pilsner",
+    "brewery": "Duvel Moortgat",
+    "beer_type": "Pilsner - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-24T18:09:17+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "Vedett Extra Pilsner",
+    "brewery": "Duvel Moortgat",
+    "beer_type": "Pilsner - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-24T18:09:03+00:00",
+    "serving": "bottle",
+    "rating": 3.75,
+    "beer_name": "Vedett Extra Pilsner",
+    "brewery": "Duvel Moortgat",
+    "beer_type": "Pilsner - Other"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-12-24T17:34:57+00:00",
+    "serving": "can",
+    "rating": 3.8,
+    "beer_name": "Chin Music",
+    "brewery": "Basqueland Brewing",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-12-24T16:29:44+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "Four Hopsmen",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - Imperial / Double New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-12-24T16:19:29+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "Kochav HaTzafon 2025 כוכב הצפון",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Winter Ale"
+  },
+  {
+    "venue": "berlin-florentin",
+    "time": "2025-12-24T16:18:14+00:00",
+    "serving": "can",
+    "rating": 3.2,
+    "beer_name": "Tauras Gira Nefiltruota",
+    "brewery": "Kalnapilis Brewery",
+    "beer_type": "Kvass"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-12-24T16:12:39+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "Kochav HaTzafon 2025 כוכב הצפון",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Winter Ale"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-12-24T15:42:12+00:00",
+    "serving": "Unknown",
+    "rating": 4.75,
+    "beer_name": "Four Hopsmen",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - Imperial / Double New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-12-24T14:58:42+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "Pint It Black",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Schwarzbier"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-12-24T14:56:29+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "Global Chillin'",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - Cold"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-12-24T14:55:36+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "Kochav HaTzafon 2025 כוכב הצפון",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Winter Ale"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-12-24T14:54:30+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Four Hopsmen",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - Imperial / Double New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-24T14:47:34+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Rinktinis",
+    "brewery": "Volfas Engelman",
+    "beer_type": "Lager - Pale"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-24T14:47:01+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "צ׳ארלי המלך 2.0",
+    "brewery": "קישקשתא (Kishkashta)",
+    "beer_type": "Bitter - Extra Special / Strong (ESB)"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-12-24T12:59:49+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Pint It Black",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Schwarzbier"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-12-24T12:28:36+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Alt Neuland",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Altbier - Traditional"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-12-24T10:06:36+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Anything Gose: Orange And Sage",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Sour - Fruited Gose"
+  },
   {
     "venue": "schnitt-brewing-company",
     "time": "2025-12-23T21:07:26+00:00",
@@ -1789,8 +2374,8 @@ const BEER_DATA = [
     "venue": "lauter",
     "time": "2025-12-19T13:11:34+00:00",
     "serving": "bottle",
-    "rating": 4.25,
-    "beer_name": "Oude Gueuze Tilquin à l'ancienne - Cuvée Arthur (2022-2023)",
+    "rating": 4.7,
+    "beer_name": "Oude Gueuze Tilquin à l'ancienne - Cuvée Jean-François 1759 (2021-2022)",
     "brewery": "Gueuzerie Tilquin",
     "beer_type": "Lambic - Gueuze"
   },
@@ -1798,8 +2383,8 @@ const BEER_DATA = [
     "venue": "lauter",
     "time": "2025-12-19T13:11:34+00:00",
     "serving": "bottle",
-    "rating": 4.7,
-    "beer_name": "Oude Gueuze Tilquin à l'ancienne - Cuvée Jean-François 1759 (2021-2022)",
+    "rating": 4.25,
+    "beer_name": "Oude Gueuze Tilquin à l'ancienne - Cuvée Arthur (2022-2023)",
     "brewery": "Gueuzerie Tilquin",
     "beer_type": "Lambic - Gueuze"
   },
@@ -13642,7 +14227,7 @@ const BEER_DATA = [
     "venue": "b7-beer-house",
     "time": "2025-11-21T11:17:46+00:00",
     "serving": "bottle",
-    "rating": 4.25,
+    "rating": 4.0,
     "beer_name": "Oude Gueuze Tilquin à l'Ancienne - Cuvée Renée (2023-2024)",
     "brewery": "Gueuzerie Tilquin",
     "beer_type": "Lambic - Gueuze"
@@ -13651,7 +14236,7 @@ const BEER_DATA = [
     "venue": "b7-beer-house",
     "time": "2025-11-21T11:17:46+00:00",
     "serving": "bottle",
-    "rating": 4.0,
+    "rating": 4.25,
     "beer_name": "Oude Gueuze Tilquin à l'Ancienne - Cuvée Renée (2023-2024)",
     "brewery": "Gueuzerie Tilquin",
     "beer_type": "Lambic - Gueuze"
@@ -29569,15 +30154,6 @@ const BEER_DATA = [
     "beer_type": "IPA - American"
   },
   {
-    "venue": "schnitt-brewing-company",
-    "time": "2025-10-19T19:17:21+00:00",
-    "serving": "can",
-    "rating": 4.25,
-    "beer_name": "Plum Waffle",
-    "brewery": "Duncan's Brewing",
-    "beer_type": "Sour - Smoothie / Pastry"
-  },
-  {
     "venue": "lauter",
     "time": "2025-10-19T19:17:21+00:00",
     "serving": "bottle",
@@ -29585,6 +30161,15 @@ const BEER_DATA = [
     "beer_name": "Bjorn's Beer",
     "brewery": "Attali's Family Brewery",
     "beer_type": "IPA - American"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-10-19T19:17:21+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "Plum Waffle",
+    "brewery": "Duncan's Brewing",
+    "beer_type": "Sour - Smoothie / Pastry"
   },
   {
     "venue": "lauter",
@@ -55311,8 +55896,8 @@ const BEER_DATA = [
   {
     "venue": "b7-beer-house",
     "time": "2025-08-21T16:02:37+00:00",
-    "serving": "can",
-    "rating": 3.5,
+    "serving": "Unknown",
+    "rating": 3.75,
     "beer_name": "Nitro Mini M*rs",
     "brewery": "Vault City Brewing",
     "beer_type": "Stout - Pastry"
@@ -55320,8 +55905,8 @@ const BEER_DATA = [
   {
     "venue": "b7-beer-house",
     "time": "2025-08-21T16:02:37+00:00",
-    "serving": "Unknown",
-    "rating": 3.75,
+    "serving": "can",
+    "rating": 3.5,
     "beer_name": "Nitro Mini M*rs",
     "brewery": "Vault City Brewing",
     "beer_type": "Stout - Pastry"
@@ -62610,8 +63195,8 @@ const BEER_DATA = [
   {
     "venue": "lauter",
     "time": "2025-08-05T18:49:38+00:00",
-    "serving": "can",
-    "rating": 4.0,
+    "serving": "Unknown",
+    "rating": 4.5,
     "beer_name": "Whakahoa",
     "brewery": "Factory Brewing",
     "beer_type": "IPA - Triple New England / Hazy"
@@ -62619,8 +63204,8 @@ const BEER_DATA = [
   {
     "venue": "lauter",
     "time": "2025-08-05T18:49:38+00:00",
-    "serving": "Unknown",
-    "rating": 4.5,
+    "serving": "can",
+    "rating": 4.0,
     "beer_name": "Whakahoa",
     "brewery": "Factory Brewing",
     "beer_type": "IPA - Triple New England / Hazy"
@@ -69684,20 +70269,20 @@ const BEER_DATA = [
   {
     "venue": "lauter",
     "time": "2025-07-26T15:22:08+00:00",
-    "serving": "Unknown",
-    "rating": 4.0,
-    "beer_name": "Pijże",
-    "brewery": "Nepo Brewing",
-    "beer_type": "Pale Ale - New England / Hazy"
-  },
-  {
-    "venue": "lauter",
-    "time": "2025-07-26T15:22:08+00:00",
     "serving": "can",
     "rating": 4.2,
     "beer_name": "Smoothie Bowl: Pistachio Fluff",
     "brewery": "Nepo Brewing",
     "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-07-26T15:22:08+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Pijże",
+    "brewery": "Nepo Brewing",
+    "beer_type": "Pale Ale - New England / Hazy"
   },
   {
     "venue": "lauter",
