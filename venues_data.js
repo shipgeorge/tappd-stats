@@ -1,8 +1,1061 @@
 // 🍺 BEER STATS DATA - Generated automatically
-// Last updated: 2025-12-30 06:44:28
-// Total records: 10249
+// Last updated: 2025-12-31 06:45:13
+// Total records: 10366
 
 const BEER_DATA = [
+  {
+    "venue": "berlin-florentin",
+    "time": "2025-12-30T22:39:18+00:00",
+    "serving": "draft",
+    "rating": 4.5,
+    "beer_name": "Punk IPA",
+    "brewery": "BrewDog",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-30T20:53:02+00:00",
+    "serving": "can",
+    "rating": null,
+    "beer_name": "Umbra",
+    "brewery": "Ophiussa",
+    "beer_type": "Stout - Imperial / Double Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-30T20:52:40+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "Eureka",
+    "brewery": "Ophiussa",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-30T20:52:21+00:00",
+    "serving": "can",
+    "rating": 4.75,
+    "beer_name": "Umbra",
+    "brewery": "Ophiussa",
+    "beer_type": "Stout - Imperial / Double Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-30T20:49:20+00:00",
+    "serving": "Unknown",
+    "rating": 5.0,
+    "beer_name": "Pecado",
+    "brewery": "Ophiussa",
+    "beer_type": "Stout - Imperial / Double Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-30T20:45:01+00:00",
+    "serving": "Unknown",
+    "rating": 5.0,
+    "beer_name": "Eureka",
+    "brewery": "Ophiussa",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-30T20:42:17+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Eureka",
+    "brewery": "Ophiussa",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-30T20:41:48+00:00",
+    "serving": "Unknown",
+    "rating": 4.5,
+    "beer_name": "Eureka",
+    "brewery": "Ophiussa",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-30T20:38:23+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "8 Year Anniversary Barrel Aged Imperial Stout X Barleywine Blend",
+    "brewery": "Ārpus Brewing Co.",
+    "beer_type": "Stout - Imperial / Double"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-30T20:37:55+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "8 Year Anniversary Barrel Aged Imperial Stout X Barleywine Blend",
+    "brewery": "Ārpus Brewing Co.",
+    "beer_type": "Stout - Imperial / Double"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-30T20:35:36+00:00",
+    "serving": "Unknown",
+    "rating": 4.5,
+    "beer_name": "8 Year Anniversary Barrel Aged Imperial Stout X Barleywine Blend",
+    "brewery": "Ārpus Brewing Co.",
+    "beer_type": "Stout - Imperial / Double"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-30T20:31:17+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Seven Minute Siesta",
+    "brewery": "Basqueland Brewing",
+    "beer_type": "Stout - Imperial / Double Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-30T20:30:41+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Seven Minute Siesta",
+    "brewery": "Basqueland Brewing",
+    "beer_type": "Stout - Imperial / Double Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-30T20:30:38+00:00",
+    "serving": "Unknown",
+    "rating": 4.25,
+    "beer_name": "Seven Minute Siesta",
+    "brewery": "Basqueland Brewing",
+    "beer_type": "Stout - Imperial / Double Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-30T20:26:23+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Dry Hopped Saison (Packaged July 2024)",
+    "brewery": "Cellador Ales",
+    "beer_type": "Farmhouse Ale - Saison"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-30T20:25:31+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "Dry Hopped Saison (Packaged July 2024)",
+    "brewery": "Cellador Ales",
+    "beer_type": "Farmhouse Ale - Saison"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-30T20:24:13+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Reindeer Fuel 2023",
+    "brewery": "Amager Bryghus",
+    "beer_type": "Barleywine - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-30T20:23:33+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Dry Hopped Saison (Packaged July 2024)",
+    "brewery": "Cellador Ales",
+    "beer_type": "Farmhouse Ale - Saison"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-30T20:22:21+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Dry Hopped Saison (Packaged July 2024)",
+    "brewery": "Cellador Ales",
+    "beer_type": "Farmhouse Ale - Saison"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-30T20:22:16+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Reindeer Fuel 2023",
+    "brewery": "Amager Bryghus",
+    "beer_type": "Barleywine - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-30T20:18:15+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Fat Rat - Marshmallow, Chocolate + Hazelnut Stout",
+    "brewery": "Ossett Brewery",
+    "beer_type": "Stout - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-30T20:17:37+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "Reindeer Fuel 2023",
+    "brewery": "Amager Bryghus",
+    "beer_type": "Barleywine - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-30T20:17:20+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Fat Rat - Marshmallow, Chocolate + Hazelnut Stout",
+    "brewery": "Ossett Brewery",
+    "beer_type": "Stout - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-30T20:15:10+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Fat Rat - Marshmallow, Chocolate + Hazelnut Stout",
+    "brewery": "Ossett Brewery",
+    "beer_type": "Stout - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-30T20:11:10+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Fat Rat - Marshmallow, Chocolate + Hazelnut Stout",
+    "brewery": "Ossett Brewery",
+    "beer_type": "Stout - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-30T20:09:17+00:00",
+    "serving": "can",
+    "rating": 5.0,
+    "beer_name": "Strawberry Double Take",
+    "brewery": "One Drop Brewing Co",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-30T20:08:18+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "Strawberry Double Take",
+    "brewery": "One Drop Brewing Co",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-30T20:07:48+00:00",
+    "serving": "can",
+    "rating": 4.75,
+    "beer_name": "Strawberry Double Take",
+    "brewery": "One Drop Brewing Co",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-30T20:05:52+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "Strawberry Double Take",
+    "brewery": "One Drop Brewing Co",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-30T20:05:13+00:00",
+    "serving": "Unknown",
+    "rating": 4.25,
+    "beer_name": "Strawberry Double Take",
+    "brewery": "One Drop Brewing Co",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-30T20:02:50+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Peated Rye Strong Ale",
+    "brewery": "Pravda Brewery",
+    "beer_type": "Strong Ale - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-30T20:01:46+00:00",
+    "serving": "bottle",
+    "rating": 3.5,
+    "beer_name": "Fallen Leaves",
+    "brewery": "Oxbow Brewing Company",
+    "beer_type": "Farmhouse Ale - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-30T19:58:27+00:00",
+    "serving": "can",
+    "rating": 2.75,
+    "beer_name": "Peated Rye Strong Ale",
+    "brewery": "Pravda Brewery",
+    "beer_type": "Strong Ale - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-30T19:56:13+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "Peated Rye Strong Ale",
+    "brewery": "Pravda Brewery",
+    "beer_type": "Strong Ale - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-30T19:55:04+00:00",
+    "serving": "Unknown",
+    "rating": 3.0,
+    "beer_name": "Аддикция",
+    "brewery": "4BREWERS",
+    "beer_type": "Sour - Tomato / Vegetable Gose"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-30T19:55:01+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Аддикция",
+    "brewery": "4BREWERS",
+    "beer_type": "Sour - Tomato / Vegetable Gose"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-30T19:54:08+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Аддикция",
+    "brewery": "4BREWERS",
+    "beer_type": "Sour - Tomato / Vegetable Gose"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-30T19:51:55+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Аддикция",
+    "brewery": "4BREWERS",
+    "beer_type": "Sour - Tomato / Vegetable Gose"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-12-30T19:51:05+00:00",
+    "serving": "can",
+    "rating": 4.5,
+    "beer_name": "Mystic Haze",
+    "brewery": "La Grúa",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-30T19:48:46+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Art Pop Oat Cream IPA",
+    "brewery": "Polyrhythm Brewing",
+    "beer_type": "IPA - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-30T19:46:26+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "Art Pop Oat Cream IPA",
+    "brewery": "Polyrhythm Brewing",
+    "beer_type": "IPA - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-30T19:44:55+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "Art Pop Oat Cream IPA",
+    "brewery": "Polyrhythm Brewing",
+    "beer_type": "IPA - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-30T19:42:28+00:00",
+    "serving": "Unknown",
+    "rating": 4.25,
+    "beer_name": "Art Pop Oat Cream IPA",
+    "brewery": "Polyrhythm Brewing",
+    "beer_type": "IPA - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-30T19:41:21+00:00",
+    "serving": "Unknown",
+    "rating": 3.8,
+    "beer_name": "Kuts (Balsamic Batch)",
+    "brewery": "Red Button Brewery",
+    "beer_type": "Sour - Other Gose"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-30T19:39:23+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Kuts (Balsamic Batch)",
+    "brewery": "Red Button Brewery",
+    "beer_type": "Sour - Other Gose"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-30T19:38:34+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Kuts (Balsamic Batch)",
+    "brewery": "Red Button Brewery",
+    "beer_type": "Sour - Other Gose"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-30T19:35:27+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Kuts (Balsamic Batch)",
+    "brewery": "Red Button Brewery",
+    "beer_type": "Sour - Other Gose"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-30T19:35:21+00:00",
+    "serving": "can",
+    "rating": 3.0,
+    "beer_name": "Série Tontap #6: Cross Channel",
+    "brewery": "Cloudwater Brew Co.",
+    "beer_type": "Pale Ale - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-30T19:33:24+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Série Tontap #6: Cross Channel",
+    "brewery": "Cloudwater Brew Co.",
+    "beer_type": "Pale Ale - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-30T19:32:06+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Série Tontap #6: Cross Channel",
+    "brewery": "Cloudwater Brew Co.",
+    "beer_type": "Pale Ale - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-30T19:30:40+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "Série Tontap #6: Cross Channel",
+    "brewery": "Cloudwater Brew Co.",
+    "beer_type": "Pale Ale - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-30T19:30:30+00:00",
+    "serving": "can",
+    "rating": 3.25,
+    "beer_name": "Auster/Mikkeller Peach Pact",
+    "brewery": "Sigma Bräu (Сигма Брау)/ Auster",
+    "beer_type": "IPA - Fruited"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-30T19:24:27+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "Auster/Mikkeller Peach Pact",
+    "brewery": "Sigma Bräu (Сигма Брау)/ Auster",
+    "beer_type": "IPA - Fruited"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-30T19:24:17+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Auster/Mikkeller Peach Pact",
+    "brewery": "Sigma Bräu (Сигма Брау)/ Auster",
+    "beer_type": "IPA - Fruited"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-30T19:20:57+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "Auster/Mikkeller Peach Pact",
+    "brewery": "Sigma Bräu (Сигма Брау)/ Auster",
+    "beer_type": "IPA - Fruited"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-30T19:20:20+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Pirulo Tropikal",
+    "brewery": "Basqueland Brewing",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-30T19:19:08+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Pirulo Tropikal",
+    "brewery": "Basqueland Brewing",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-30T19:17:53+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Pirulo Tropikal",
+    "brewery": "Basqueland Brewing",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-12-30T19:16:31+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "Slice.",
+    "brewery": "Moon Lark Brewery",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-30T19:15:03+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "Pirulo Tropikal",
+    "brewery": "Basqueland Brewing",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-30T19:12:18+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Arara (2025)",
+    "brewery": "Tarin Cervejaria",
+    "beer_type": "IPA - Imperial / Double"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-30T19:12:13+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Arara (2025)",
+    "brewery": "Tarin Cervejaria",
+    "beer_type": "IPA - Imperial / Double"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-30T19:12:11+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Arara (2025)",
+    "brewery": "Tarin Cervejaria",
+    "beer_type": "IPA - Imperial / Double"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-30T19:08:11+00:00",
+    "serving": "Unknown",
+    "rating": 4.25,
+    "beer_name": "Arara (2025)",
+    "brewery": "Tarin Cervejaria",
+    "beer_type": "IPA - Imperial / Double"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-30T19:05:11+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Lost In the Mountains",
+    "brewery": "Sabotage",
+    "beer_type": "Sour - Fruited Berliner Weisse"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-30T19:04:53+00:00",
+    "serving": "can",
+    "rating": 5.0,
+    "beer_name": "Lost In the Mountains",
+    "brewery": "Sabotage",
+    "beer_type": "Sour - Fruited Berliner Weisse"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-30T19:04:14+00:00",
+    "serving": "Unknown",
+    "rating": 4.25,
+    "beer_name": "Lost In the Mountains",
+    "brewery": "Sabotage",
+    "beer_type": "Sour - Fruited Berliner Weisse"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-30T19:03:05+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Lost In the Mountains",
+    "brewery": "Sabotage",
+    "beer_type": "Sour - Fruited Berliner Weisse"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-30T19:01:48+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Lost In the Mountains",
+    "brewery": "Sabotage",
+    "beer_type": "Sour - Fruited Berliner Weisse"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-30T18:57:41+00:00",
+    "serving": "can",
+    "rating": 5.0,
+    "beer_name": "Nobody Knows More About Collabs Than We Do",
+    "brewery": "Bereta Brewing Co.",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-30T18:54:46+00:00",
+    "serving": "can",
+    "rating": 4.5,
+    "beer_name": "Nobody Knows More About Collabs Than We Do",
+    "brewery": "Bereta Brewing Co.",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-30T18:54:24+00:00",
+    "serving": "can",
+    "rating": 4.5,
+    "beer_name": "Nobody Knows More About Collabs Than We Do",
+    "brewery": "Bereta Brewing Co.",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-30T18:53:57+00:00",
+    "serving": "can",
+    "rating": 4.5,
+    "beer_name": "Nobody Knows More About Collabs Than We Do",
+    "brewery": "Bereta Brewing Co.",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-30T18:53:01+00:00",
+    "serving": "Unknown",
+    "rating": 3.0,
+    "beer_name": "961 American IPA",
+    "brewery": "Gravity Brewing Sal",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-12-30T18:52:14+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Dee Dee",
+    "brewery": "Drunken Bros",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-30T18:49:53+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Tomato Gose",
+    "brewery": "Golem Brewhouse",
+    "beer_type": "Sour - Tomato / Vegetable Gose"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-30T18:49:47+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Tomato Gose",
+    "brewery": "Golem Brewhouse",
+    "beer_type": "Sour - Tomato / Vegetable Gose"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-30T18:43:38+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Rokolos",
+    "brewery": "Crossline Brewing",
+    "beer_type": "IPA - Session"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-30T18:43:33+00:00",
+    "serving": "can",
+    "rating": 3.25,
+    "beer_name": "Rokolos",
+    "brewery": "Crossline Brewing",
+    "beer_type": "IPA - Session"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-30T18:42:49+00:00",
+    "serving": "can",
+    "rating": 3.0,
+    "beer_name": "Rokolos",
+    "brewery": "Crossline Brewing",
+    "beer_type": "IPA - Session"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-30T18:42:11+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "Rokolos",
+    "brewery": "Crossline Brewing",
+    "beer_type": "IPA - Session"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-30T18:39:24+00:00",
+    "serving": "can",
+    "rating": 4.5,
+    "beer_name": "Blackhopberry",
+    "brewery": "Fire Bat Brewing Co.",
+    "beer_type": "IPA - Fruited"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-30T18:38:46+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Blackhopberry",
+    "brewery": "Fire Bat Brewing Co.",
+    "beer_type": "IPA - Fruited"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-30T18:37:53+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Blackhopberry",
+    "brewery": "Fire Bat Brewing Co.",
+    "beer_type": "IPA - Fruited"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-30T18:36:27+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "Blackhopberry",
+    "brewery": "Fire Bat Brewing Co.",
+    "beer_type": "IPA - Fruited"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-30T18:32:53+00:00",
+    "serving": "Unknown",
+    "rating": 4.75,
+    "beer_name": "Hi-Fi",
+    "brewery": "Eighty-Eight Brewing Co.",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-30T18:32:47+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Hi-Fi",
+    "brewery": "Eighty-Eight Brewing Co.",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-30T18:31:48+00:00",
+    "serving": "can",
+    "rating": 4.5,
+    "beer_name": "Hi-Fi",
+    "brewery": "Eighty-Eight Brewing Co.",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-30T18:29:03+00:00",
+    "serving": "Unknown",
+    "rating": 4.25,
+    "beer_name": "Hi-Fi",
+    "brewery": "Eighty-Eight Brewing Co.",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-30T18:26:17+00:00",
+    "serving": "bottle",
+    "rating": 3.5,
+    "beer_name": "961 American IPA",
+    "brewery": "Gravity Brewing Sal",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-30T18:23:44+00:00",
+    "serving": "draft",
+    "rating": 4.75,
+    "beer_name": "Fruity Mish Mash",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-30T18:15:09+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "Oude Quetsche Tilquin à l'Ancienne",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-30T18:10:12+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "צ׳ארלי המלך 2.0",
+    "brewery": "קישקשתא (Kishkashta)",
+    "beer_type": "Bitter - Extra Special / Strong (ESB)"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-30T18:06:45+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Oude Quetsche Tilquin à l'Ancienne",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-30T17:59:11+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Benediktiner Hell",
+    "brewery": "Benediktiner Weissbräu",
+    "beer_type": "Lager - Helles"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-30T17:44:42+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Oude Quetsche Tilquin à l'Ancienne",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-30T17:43:55+00:00",
+    "serving": "draft",
+    "rating": 3.0,
+    "beer_name": "Fruity Mish Mash",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-30T17:32:08+00:00",
+    "serving": "draft",
+    "rating": 3.25,
+    "beer_name": "TIPA Mara (2025)",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - Triple"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-30T17:30:06+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "Öö",
+    "brewery": "Põhjala",
+    "beer_type": "Porter - Imperial / Double Baltic"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-30T17:27:37+00:00",
+    "serving": "draft",
+    "rating": 3.0,
+    "beer_name": "Flu Fighters",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pale Ale - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-30T17:24:20+00:00",
+    "serving": "draft",
+    "rating": 3.0,
+    "beer_name": "Anything Gose: Orange And Sage",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Sour - Fruited Gose"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-30T17:15:57+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "צ׳ארלי המלך 2.0",
+    "brewery": "קישקשתא (Kishkashta)",
+    "beer_type": "Bitter - Extra Special / Strong (ESB)"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-30T16:42:48+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Fruity Mish Mash",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-12-30T16:33:58+00:00",
+    "serving": "draft",
+    "rating": 4.5,
+    "beer_name": "Alon vs. אלון",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Porter - Baltic"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-30T16:15:19+00:00",
+    "serving": "draft",
+    "rating": 3.25,
+    "beer_name": "צ׳ארלי המלך 2.0",
+    "brewery": "קישקשתא (Kishkashta)",
+    "beer_type": "Bitter - Extra Special / Strong (ESB)"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-12-30T16:09:16+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "IPA Craft Beer",
+    "brewery": "HaGibor Brewery (מבשלת הגיבור)",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-12-30T16:02:24+00:00",
+    "serving": "draft",
+    "rating": 4.5,
+    "beer_name": "Four Hopsmen",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - Imperial / Double New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-12-30T15:06:39+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Anything Gose: Orange And Sage",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Sour - Fruited Gose"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-12-30T14:26:44+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Kochav HaTzafon 2025 כוכב הצפון",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Winter Ale"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-12-30T14:10:56+00:00",
+    "serving": "draft",
+    "rating": 3.8,
+    "beer_name": "Coresh כורש",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Smoked Beer"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-12-30T13:58:35+00:00",
+    "serving": "draft",
+    "rating": 3.7,
+    "beer_name": "Alt Neuland",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Altbier - Traditional"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-12-30T13:49:34+00:00",
+    "serving": "draft",
+    "rating": 4.1,
+    "beer_name": "Four Hopsmen",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - Imperial / Double New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-12-30T13:48:57+00:00",
+    "serving": "Unknown",
+    "rating": 3.7,
+    "beer_name": "Kochav HaTzafon 2025 כוכב הצפון",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Winter Ale"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-12-30T13:13:10+00:00",
+    "serving": "draft",
+    "rating": 3.4,
+    "beer_name": "Lazy Bee Classic",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Mead - Session / Short"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-12-30T13:02:08+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Anything Gose: Orange And Sage",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Sour - Fruited Gose"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-12-30T12:09:31+00:00",
+    "serving": "draft",
+    "rating": 3.25,
+    "beer_name": "TIPA Mara (2025)",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - Triple"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-12-30T11:01:58+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "ער.ה? 2025",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Stout - White / Golden"
+  },
   {
     "venue": "schnitt-brewing-company",
     "time": "2025-12-30T00:10:48+00:00",
@@ -4435,8 +5488,8 @@ const BEER_DATA = [
     "venue": "lauter",
     "time": "2025-12-19T13:11:34+00:00",
     "serving": "bottle",
-    "rating": 4.7,
-    "beer_name": "Oude Gueuze Tilquin à l'ancienne - Cuvée Jean-François 1759 (2021-2022)",
+    "rating": 4.25,
+    "beer_name": "Oude Gueuze Tilquin à l'ancienne - Cuvée Arthur (2022-2023)",
     "brewery": "Gueuzerie Tilquin",
     "beer_type": "Lambic - Gueuze"
   },
@@ -4444,8 +5497,8 @@ const BEER_DATA = [
     "venue": "lauter",
     "time": "2025-12-19T13:11:34+00:00",
     "serving": "bottle",
-    "rating": 4.25,
-    "beer_name": "Oude Gueuze Tilquin à l'ancienne - Cuvée Arthur (2022-2023)",
+    "rating": 4.7,
+    "beer_name": "Oude Gueuze Tilquin à l'ancienne - Cuvée Jean-François 1759 (2021-2022)",
     "brewery": "Gueuzerie Tilquin",
     "beer_type": "Lambic - Gueuze"
   },
@@ -16829,18 +17882,18 @@ const BEER_DATA = [
     "time": "2025-11-21T10:35:21+00:00",
     "serving": "bottle",
     "rating": 4.25,
-    "beer_name": "Grapefruit Peel Lambiek - Sparkling Infused",
-    "brewery": "Oud Beersel",
-    "beer_type": "Lambic - Other"
+    "beer_name": "Rullquin au café du Rwanda",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": "Sour - Other"
   },
   {
     "venue": "b7-beer-house",
     "time": "2025-11-21T10:35:21+00:00",
     "serving": "bottle",
     "rating": 4.25,
-    "beer_name": "Rullquin au café du Rwanda",
-    "brewery": "Gueuzerie Tilquin",
-    "beer_type": "Sour - Other"
+    "beer_name": "Grapefruit Peel Lambiek - Sparkling Infused",
+    "brewery": "Oud Beersel",
+    "beer_type": "Lambic - Other"
   },
   {
     "venue": "b7-beer-house",
@@ -58009,15 +59062,6 @@ const BEER_DATA = [
     "beer_type": "Stout - White / Golden"
   },
   {
-    "venue": "lauter",
-    "time": "2025-08-21T16:00:28+00:00",
-    "serving": "draft",
-    "rating": 3.5,
-    "beer_name": "KRUSHED IT",
-    "brewery": "Oak & Ash",
-    "beer_type": "IPA - New England / Hazy"
-  },
-  {
     "venue": "b7-beer-house",
     "time": "2025-08-21T16:00:28+00:00",
     "serving": "can",
@@ -58025,6 +59069,15 @@ const BEER_DATA = [
     "beer_name": "Naughty & Nice - White Chocolate & Raspberry",
     "brewery": "Vocation Brewery",
     "beer_type": "Stout - White / Golden"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-21T16:00:28+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "KRUSHED IT",
+    "brewery": "Oak & Ash",
+    "beer_type": "IPA - New England / Hazy"
   },
   {
     "venue": "b7-beer-house",
@@ -82789,8 +83842,8 @@ const BEER_DATA = [
     "venue": "berlin-florentin",
     "time": "2024-12-23T18:37:49+00:00",
     "serving": "bottle",
-    "rating": 4.1,
-    "beer_name": "Christmas Ale (2023)",
+    "rating": 3.0,
+    "beer_name": "Christmas Ale",
     "brewery": "Brouwerij St.Bernardus",
     "beer_type": "Winter Ale"
   },
@@ -82798,8 +83851,8 @@ const BEER_DATA = [
     "venue": "berlin-florentin",
     "time": "2024-12-23T18:37:49+00:00",
     "serving": "bottle",
-    "rating": 3.0,
-    "beer_name": "Christmas Ale",
+    "rating": 4.1,
+    "beer_name": "Christmas Ale (2023)",
     "brewery": "Brouwerij St.Bernardus",
     "beer_type": "Winter Ale"
   },
