@@ -1,8 +1,296 @@
 // 🍺 BEER STATS DATA - Generated automatically
-// Last updated: 2026-01-04 06:42:37
-// Total records: 10552
+// Last updated: 2026-01-05 06:51:44
+// Total records: 10584
 
 const BEER_DATA = [
+  {
+    "venue": "lauter",
+    "time": "2026-01-04T20:40:25+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "צ׳ארלי המלך 2.0",
+    "brewery": "קישקשתא (Kishkashta)",
+    "beer_type": "Bitter - Extra Special / Strong (ESB)"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-04T20:02:10+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Öö",
+    "brewery": "Põhjala",
+    "beer_type": "Porter - Imperial / Double Baltic"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-04T19:58:46+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Öö",
+    "brewery": "Põhjala",
+    "beer_type": "Porter - Imperial / Double Baltic"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-01-04T19:48:09+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Citra Achra סיטרה אחרא",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-04T19:16:53+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Flu Fighters",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pale Ale - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-04T19:03:03+00:00",
+    "serving": "Unknown",
+    "rating": 3.25,
+    "beer_name": "N'Ice Chouffe",
+    "brewery": "Brasserie d'Achouffe",
+    "beer_type": "Winter Ale"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-04T18:52:50+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "N'Ice Chouffe",
+    "brewery": "Brasserie d'Achouffe",
+    "beer_type": "Winter Ale"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-04T18:52:27+00:00",
+    "serving": "draft",
+    "rating": null,
+    "beer_name": "Quetsche Tilquin – Draft Version",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-04T18:52:21+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Christmas Ale",
+    "brewery": "Brouwerij St.Bernardus",
+    "beer_type": "Winter Ale"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-04T18:51:50+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Alt Neuland",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Altbier - Traditional"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-04T18:50:51+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "N'Ice Chouffe",
+    "brewery": "Brasserie d'Achouffe",
+    "beer_type": "Winter Ale"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-04T18:49:57+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Alt Neuland",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Altbier - Traditional"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-04T18:21:48+00:00",
+    "serving": "draft",
+    "rating": 4.7,
+    "beer_name": "Quetsche Tilquin – Draft Version",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "porter-and-sons",
+    "time": "2026-01-04T18:03:40+00:00",
+    "serving": "bottle",
+    "rating": 1.9,
+    "beer_name": "Tropical",
+    "brewery": "Kasteel Brouwerij Vanhonsebrouck",
+    "beer_type": "Fruit Beer"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-01-04T17:53:36+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Alon vs. אלון",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Porter - Baltic"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-01-04T17:52:08+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Alon vs. אלון",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Porter - Baltic"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-01-04T17:12:44+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Weissman",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Wheat Beer - Hefeweizen"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-01-04T17:03:34+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Lazy Bee Hibiscus And Raspberries",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Mead - Session / Short"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-01-04T17:02:57+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Lazy Bee Classic",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Mead - Session / Short"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-01-04T16:56:43+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Pint It Black",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Schwarzbier"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-01-04T16:26:41+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Pint It Black",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Schwarzbier"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-01-04T16:26:13+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Arturito",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Blonde / Golden Ale - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-04T16:12:03+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "Zigzag.",
+    "brewery": "Moon Lark Brewery",
+    "beer_type": "IPA - Imperial / Double New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-01-04T15:12:15+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Kochav HaTzafon 2025 כוכב הצפון",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Winter Ale"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-01-04T15:11:32+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Pint It Black",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Schwarzbier"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-04T14:47:26+00:00",
+    "serving": "draft",
+    "rating": 3.25,
+    "beer_name": "Flu Fighters",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pale Ale - Other"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-01-04T11:33:55+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "Global Chillin'",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - Cold"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-01-04T11:30:27+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "שוורצע",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - Black / Cascadian Dark Ale"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-01-04T11:28:25+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "Porter&Sons: Amarena Cherry",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Porter - American"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-01-04T11:25:06+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "Anything Gose: Orange And Sage",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Sour - Fruited Gose"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-01-04T10:04:01+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Four Hopsmen",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - Imperial / Double New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-01-04T07:44:59+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "Kochav HaTzafon 2025 כוכב הצפון",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Winter Ale"
+  },
   {
     "venue": "lauter",
     "time": "2026-01-03T21:16:16+00:00",
@@ -19015,7 +19303,7 @@ const BEER_DATA = [
     "venue": "b7-beer-house",
     "time": "2025-11-21T11:17:46+00:00",
     "serving": "bottle",
-    "rating": 4.25,
+    "rating": 4.0,
     "beer_name": "Oude Gueuze Tilquin à l'Ancienne - Cuvée Renée (2023-2024)",
     "brewery": "Gueuzerie Tilquin",
     "beer_type": "Lambic - Gueuze"
@@ -19024,7 +19312,7 @@ const BEER_DATA = [
     "venue": "b7-beer-house",
     "time": "2025-11-21T11:17:46+00:00",
     "serving": "bottle",
-    "rating": 4.0,
+    "rating": 4.25,
     "beer_name": "Oude Gueuze Tilquin à l'Ancienne - Cuvée Renée (2023-2024)",
     "brewery": "Gueuzerie Tilquin",
     "beer_type": "Lambic - Gueuze"
@@ -55851,7 +56139,7 @@ const BEER_DATA = [
   {
     "venue": "lauter",
     "time": "2025-09-01T17:44:35+00:00",
-    "serving": "bottle",
+    "serving": "Unknown",
     "rating": 4.0,
     "beer_name": "Hops Don’t Lie",
     "brewery": "Thurø Bryghus",
@@ -55860,7 +56148,7 @@ const BEER_DATA = [
   {
     "venue": "lauter",
     "time": "2025-09-01T17:44:35+00:00",
-    "serving": "Unknown",
+    "serving": "bottle",
     "rating": 4.0,
     "beer_name": "Hops Don’t Lie",
     "brewery": "Thurø Bryghus",
@@ -67983,8 +68271,8 @@ const BEER_DATA = [
   {
     "venue": "lauter",
     "time": "2025-08-05T18:49:38+00:00",
-    "serving": "Unknown",
-    "rating": 4.5,
+    "serving": "can",
+    "rating": 4.0,
     "beer_name": "Whakahoa",
     "brewery": "Factory Brewing",
     "beer_type": "IPA - Triple New England / Hazy"
@@ -67992,8 +68280,8 @@ const BEER_DATA = [
   {
     "venue": "lauter",
     "time": "2025-08-05T18:49:38+00:00",
-    "serving": "can",
-    "rating": 4.0,
+    "serving": "Unknown",
+    "rating": 4.5,
     "beer_name": "Whakahoa",
     "brewery": "Factory Brewing",
     "beer_type": "IPA - Triple New England / Hazy"
