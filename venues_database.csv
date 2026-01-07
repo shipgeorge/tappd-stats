@@ -1,4 +1,141 @@
 venue,user,time,serving,data_rating,beer_name,brewery,beer_type
+lauter,Grace HH,"Tue, 06 Jan 2026 21:20:27 +0000",draft,4.0,Flu Fighters,Schnitt Brewing Company﻿,Pale Ale - Other
+lauter,Desmond H,"Tue, 06 Jan 2026 21:17:24 +0000",draft,4.25,Quetsche Tilquin – Draft Version,Gueuzerie Tilquin,Lambic - Fruit
+lauter,Asaf Levi,"Tue, 06 Jan 2026 20:58:21 +0000",bottle,4.0,Racine (2025),Brasserie Cantillon,Lambic - Fruit
+lauter,Yoav Kowalski,"Tue, 06 Jan 2026 20:56:00 +0000",,4.5,Racine (2025),Brasserie Cantillon,Lambic - Fruit
+lauter,Max N,"Tue, 06 Jan 2026 20:53:46 +0000",bottle,3.5,Surfer Dude,Shevet (שבט),Lager - American Light
+lauter,Lior Degabli,"Tue, 06 Jan 2026 20:41:16 +0000",bottle,4.25,Racine (2025),Brasserie Cantillon,Lambic - Fruit
+lauter,Kobi,"Tue, 06 Jan 2026 20:40:43 +0000",,4.25,Racine (2025),Brasserie Cantillon,Lambic - Fruit
+lauter,barak luzon,"Tue, 06 Jan 2026 20:40:41 +0000",bottle,4.5,Racine (2025),Brasserie Cantillon,Lambic - Fruit
+schnitt-brewing-company,Max N,"Tue, 06 Jan 2026 20:39:58 +0000",bottle,4.3,Racine (2025),Brasserie Cantillon,Lambic - Fruit
+lauter,Zvika Rosenthal,"Tue, 06 Jan 2026 20:38:35 +0000",bottle,4.0,Racine (2025),Brasserie Cantillon,Lambic - Fruit
+lauter,barak luzon,"Tue, 06 Jan 2026 20:37:01 +0000",bottle,4.75,Mira d'Or: Vanilla,Pellicle Vergistingen,Lambic - Fruit
+lauter,Asaf Levi,"Tue, 06 Jan 2026 20:35:15 +0000",bottle,4.0,Mira d'Or: Vanilla,Pellicle Vergistingen,Lambic - Fruit
+lauter,Kobi,"Tue, 06 Jan 2026 20:35:00 +0000",,4.5,Mira d'Or: Vanilla,Pellicle Vergistingen,Lambic - Fruit
+lauter,Lior Degabli,"Tue, 06 Jan 2026 20:34:15 +0000",bottle,4.25,Mira d'Or: Vanilla,Pellicle Vergistingen,Lambic - Fruit
+lauter,Yoav Kowalski,"Tue, 06 Jan 2026 20:32:58 +0000",,4.75,Mira d'Or: Vanilla,Pellicle Vergistingen,Lambic - Fruit
+lauter,Zvika Rosenthal,"Tue, 06 Jan 2026 20:32:12 +0000",bottle,3.9,Mira d'Or: Vanilla,Pellicle Vergistingen,Lambic - Fruit
+lauter,Asaf Levi,"Tue, 06 Jan 2026 20:28:54 +0000",bottle,4.5,Little Geezer,Pellicle Vergistingen,Lambic - Gueuze
+lauter,barak luzon,"Tue, 06 Jan 2026 20:28:42 +0000",bottle,4.25,Little Geezer,Pellicle Vergistingen,Lambic - Gueuze
+lauter,Kobi,"Tue, 06 Jan 2026 20:28:41 +0000",,4.25,Little Geezer,Pellicle Vergistingen,Lambic - Gueuze
+lauter,Zvika Rosenthal,"Tue, 06 Jan 2026 20:27:53 +0000",bottle,4.1,Little Geezer,Pellicle Vergistingen,Lambic - Gueuze
+schnitt-brewing-company,Yoav Kowalski,"Tue, 06 Jan 2026 20:26:49 +0000",,4.25,Little Geezer,Pellicle Vergistingen,Lambic - Gueuze
+lauter,Lior Degabli,"Tue, 06 Jan 2026 20:25:33 +0000",bottle,4.0,Little Geezer,Pellicle Vergistingen,Lambic - Gueuze
+lauter,Yoav Kowalski,"Tue, 06 Jan 2026 20:24:50 +0000",,4.0,50/50/50,Pellicle Vergistingen,Cider - Dry
+lauter,barak luzon,"Tue, 06 Jan 2026 20:24:41 +0000",bottle,4.0,50/50/50,Pellicle Vergistingen,Cider - Dry
+lauter,Kobi,"Tue, 06 Jan 2026 20:24:30 +0000",,4.0,50/50/50,Pellicle Vergistingen,Cider - Dry
+lauter,Asaf Levi,"Tue, 06 Jan 2026 20:22:31 +0000",bottle,4.0,50/50/50,Pellicle Vergistingen,Cider - Dry
+lauter,Zvika Rosenthal,"Tue, 06 Jan 2026 20:21:59 +0000",bottle,3.6,50/50/50,Pellicle Vergistingen,Cider - Dry
+lauter,Lior Degabli,"Tue, 06 Jan 2026 20:19:14 +0000",bottle,3.75,50/50/50,Pellicle Vergistingen,Cider - Dry
+lauter,Kobi,"Tue, 06 Jan 2026 20:17:41 +0000",,4.0,Pruim De Carmel,Galileo Brewery,"Homebrew, Lambic - Fruit"
+lauter,NeriyaBeerlowitz,"Tue, 06 Jan 2026 20:16:54 +0000",,3.0,שוורצע,Schnitt Brewing Company﻿,IPA - Black / Cascadian Dark Ale
+lauter,NeriyaBeerlowitz,"Tue, 06 Jan 2026 20:16:41 +0000",,4.0,La Chouffe Blonde,Brasserie d'Achouffe,Belgian Strong Golden Ale
+lauter,NeriyaBeerlowitz,"Tue, 06 Jan 2026 20:16:31 +0000",,3.5,Alt Neuland,Schnitt Brewing Company﻿,Altbier - Traditional
+lauter,Lior Degabli,"Tue, 06 Jan 2026 20:15:20 +0000",bottle,3.75,Pruim De Carmel,Galileo Brewery,"Homebrew, Lambic - Fruit"
+lauter,Yoav Kowalski,"Tue, 06 Jan 2026 20:13:44 +0000",,4.25,Pruim De Carmel,Galileo Brewery,"Homebrew, Lambic - Fruit"
+lauter,Asaf Levi,"Tue, 06 Jan 2026 20:13:43 +0000",bottle,4.25,Imperial Storm (2024),Heisenberg,"Homebrew, Sour - Other"
+lauter,Asaf Levi,"Tue, 06 Jan 2026 20:13:22 +0000",,4.0,Pruim De Carmel,Galileo Brewery,"Homebrew, Lambic - Fruit"
+lauter,Yoav Kowalski,"Tue, 06 Jan 2026 20:13:03 +0000",,3.75,Imperial Storm (2024),Heisenberg,"Homebrew, Sour - Other"
+lauter,Asaf Levi,"Tue, 06 Jan 2026 20:12:33 +0000",bottle,4.25,Field Blend,Pellicle Vergistingen,Cider - Other Fruit
+lauter,barak luzon,"Tue, 06 Jan 2026 20:12:29 +0000",bottle,4.25,Pruim De Carmel,Galileo Brewery,"Homebrew, Lambic - Fruit"
+lauter,Kobi,"Tue, 06 Jan 2026 20:12:14 +0000",,4.25,Imperial Storm (2024),Heisenberg,"Homebrew, Sour - Other"
+lauter,Lior Degabli,"Tue, 06 Jan 2026 20:11:59 +0000",bottle,3.75,Imperial Storm (2024),Heisenberg,"Homebrew, Sour - Other"
+lauter,Zvika Rosenthal,"Tue, 06 Jan 2026 20:11:53 +0000",bottle,3.6,Imperial Storm (2024),Heisenberg,"Homebrew, Sour - Other"
+lauter,Kobi,"Tue, 06 Jan 2026 20:11:50 +0000",,4.25,Field Blend,Pellicle Vergistingen,Cider - Other Fruit
+lauter,barak luzon,"Tue, 06 Jan 2026 20:10:47 +0000",bottle,4.0,Imperial Storm (2024),Heisenberg,"Homebrew, Sour - Other"
+lauter,Yoav Kowalski,"Tue, 06 Jan 2026 20:02:38 +0000",,4.0,Field Blend,Pellicle Vergistingen,Cider - Other Fruit
+lauter,Zvika Rosenthal,"Tue, 06 Jan 2026 20:02:28 +0000",bottle,3.5,Field Blend,Pellicle Vergistingen,Cider - Other Fruit
+lauter,barak luzon,"Tue, 06 Jan 2026 20:02:05 +0000",bottle,4.0,Field Blend,Pellicle Vergistingen,Cider - Other Fruit
+lauter,Lior Degabli,"Tue, 06 Jan 2026 20:01:34 +0000",bottle,4.0,Field Blend,Pellicle Vergistingen,Cider - Other Fruit
+lauter,Kobi,"Tue, 06 Jan 2026 20:00:05 +0000",,4.0,Mira D'Or: Omija,Pellicle Vergistingen,Lambic - Fruit
+lauter,Lior Degabli,"Tue, 06 Jan 2026 19:58:03 +0000",bottle,4.25,Mira D'Or: Omija,Pellicle Vergistingen,Lambic - Fruit
+lauter,barak luzon,"Tue, 06 Jan 2026 19:57:21 +0000",bottle,4.5,Mira D'Or: Omija,Pellicle Vergistingen,Lambic - Fruit
+lauter,Asaf Levi,"Tue, 06 Jan 2026 19:56:37 +0000",bottle,4.75,Synergy: Strawberry - Mirabelle,Pellicle Vergistingen,Lambic - Fruit
+lauter,Ilya Markovsky,"Tue, 06 Jan 2026 19:55:57 +0000",bottle,4.3,Mira D'Or: Omija,Pellicle Vergistingen,Lambic - Fruit
+lauter,Zvika Rosenthal,"Tue, 06 Jan 2026 19:55:40 +0000",bottle,3.9,Mira D'Or: Omija,Pellicle Vergistingen,Lambic - Fruit
+lauter,Yoav Kowalski,"Tue, 06 Jan 2026 19:54:46 +0000",,4.5,Mira D'Or: Omija,Pellicle Vergistingen,Lambic - Fruit
+lauter,Kobi,"Tue, 06 Jan 2026 19:51:00 +0000",,4.5,Synergy: Strawberry - Mirabelle,Pellicle Vergistingen,Lambic - Fruit
+lauter,Yoav Kowalski,"Tue, 06 Jan 2026 19:50:48 +0000",,5.0,Synergy: Strawberry - Mirabelle,Pellicle Vergistingen,Lambic - Fruit
+lauter,barak luzon,"Tue, 06 Jan 2026 19:50:11 +0000",bottle,4.75,Synergy: Strawberry - Mirabelle,Pellicle Vergistingen,Lambic - Fruit
+lauter,Lior Degabli,"Tue, 06 Jan 2026 19:49:47 +0000",bottle,4.5,Synergy: Strawberry - Mirabelle,Pellicle Vergistingen,Lambic - Fruit
+lauter,Zvika Rosenthal,"Tue, 06 Jan 2026 19:48:52 +0000",bottle,4.2,Synergy: Strawberry - Mirabelle,Pellicle Vergistingen,Lambic - Fruit
+lauter,Ilya Markovsky,"Tue, 06 Jan 2026 19:48:50 +0000",bottle,4.8,Synergy: Strawberry - Mirabelle,Pellicle Vergistingen,Lambic - Fruit
+lauter,Yoav Kowalski,"Tue, 06 Jan 2026 19:44:57 +0000",,3.5,Oxaal (2024),Pellicle Vergistingen,Cider - Other Fruit
+schnitt-brewing-company,Yoav Kowalski,"Tue, 06 Jan 2026 19:42:54 +0000",,4.0,Oxaal Kriek (2025),Pellicle Vergistingen,Cider - Other Fruit
+lauter,barak luzon,"Tue, 06 Jan 2026 19:42:30 +0000",bottle,2.0,Oxaal (2024),Pellicle Vergistingen,Cider - Other Fruit
+lauter,Ilya Markovsky,"Tue, 06 Jan 2026 19:39:29 +0000",bottle,2.5,Oxaal (2024),Pellicle Vergistingen,Cider - Other Fruit
+lauter,Asaf Levi,"Tue, 06 Jan 2026 19:38:31 +0000",bottle,4.0,Oxaal Kriek (2025),Pellicle Vergistingen,Cider - Other Fruit
+schnitt-brewing-company,Yoav Kowalski,"Tue, 06 Jan 2026 19:38:29 +0000",,3.75,Pomme D’Or,Pellicle Vergistingen,Cider - Dry
+lauter,Kobi,"Tue, 06 Jan 2026 19:38:06 +0000",,3.5,Oxaal (2024),Pellicle Vergistingen,Cider - Other Fruit
+lauter,Zvika Rosenthal,"Tue, 06 Jan 2026 19:37:39 +0000",bottle,3.6,Oxaal (2024),Pellicle Vergistingen,Cider - Other Fruit
+lauter,barak luzon,"Tue, 06 Jan 2026 19:37:32 +0000",bottle,3.75,Oxaal Kriek (2025),Pellicle Vergistingen,Cider - Other Fruit
+lauter,Lior Degabli,"Tue, 06 Jan 2026 19:36:36 +0000",bottle,3.75,Oxaal (2024),Pellicle Vergistingen,Cider - Other Fruit
+lauter,Kobi,"Tue, 06 Jan 2026 19:32:35 +0000",,4.25,Oxaal Kriek (2025),Pellicle Vergistingen,Cider - Other Fruit
+lauter,Zvika Rosenthal,"Tue, 06 Jan 2026 19:32:04 +0000",bottle,4.0,Oxaal Kriek (2025),Pellicle Vergistingen,Cider - Other Fruit
+lauter,Ilya Markovsky,"Tue, 06 Jan 2026 19:31:39 +0000",bottle,4.3,Oxaal Kriek (2025),Pellicle Vergistingen,Cider - Other Fruit
+lauter,Lior Degabli,"Tue, 06 Jan 2026 19:31:36 +0000",bottle,4.0,Oxaal Kriek (2025),Pellicle Vergistingen,Cider - Other Fruit
+lauter,Kobi,"Tue, 06 Jan 2026 19:29:06 +0000",,4.0,Pomme D’Or,Pellicle Vergistingen,Cider - Dry
+lauter,Asaf Levi,"Tue, 06 Jan 2026 19:28:25 +0000",,4.5,Pomme D’Or,Pellicle Vergistingen,Cider - Dry
+lauter,Lior Degabli,"Tue, 06 Jan 2026 19:26:52 +0000",bottle,4.0,Pomme D’Or,Pellicle Vergistingen,Cider - Dry
+lauter,Ilya Markovsky,"Tue, 06 Jan 2026 19:26:27 +0000",bottle,3.7,Pomme D’Or,Pellicle Vergistingen,Cider - Dry
+lauter,Zvika Rosenthal,"Tue, 06 Jan 2026 19:25:44 +0000",bottle,3.8,Pomme D’Or,Pellicle Vergistingen,Cider - Dry
+lauter,Yoav Kowalski,"Tue, 06 Jan 2026 19:21:48 +0000",,3.75,Ultra Violet,Pellicle Vergistingen,Cider - Other Fruit
+schnitt-brewing-company,Yoav Kowalski,"Tue, 06 Jan 2026 19:20:31 +0000",,5.0,Mira d'Or: Pure,Pellicle Vergistingen,Lambic - Fruit
+lauter,Zvika Rosenthal,"Tue, 06 Jan 2026 19:17:52 +0000",bottle,3.6,Ultra Violet,Pellicle Vergistingen,Cider - Other Fruit
+lauter,barak luzon,"Tue, 06 Jan 2026 19:15:41 +0000",bottle,4.0,Ultra Violet,Pellicle Vergistingen,Cider - Other Fruit
+schnitt-brewing-company,Yoav Kowalski,"Tue, 06 Jan 2026 19:15:20 +0000",,4.0,Vorrei Un Aperitivo,Métaphore,Wild Ale - Other
+lauter,Asaf Levi,"Tue, 06 Jan 2026 19:15:04 +0000",bottle,4.25,Ultra Violet,Pellicle Vergistingen,Cider - Other Fruit
+lauter,Kobi,"Tue, 06 Jan 2026 19:14:50 +0000",,4.25,Ultra Violet,Pellicle Vergistingen,Cider - Other Fruit
+lauter,Lior Degabli,"Tue, 06 Jan 2026 19:14:42 +0000",bottle,4.0,Ultra Violet,Pellicle Vergistingen,Cider - Other Fruit
+lauter,Ilya Markovsky,"Tue, 06 Jan 2026 19:14:23 +0000",bottle,3.8,Vorrei Un Aperitivo,Métaphore,Wild Ale - Other
+lauter,Ilya Markovsky,"Tue, 06 Jan 2026 19:13:40 +0000",bottle,4.7,Ultra Violet,Pellicle Vergistingen,Cider - Other Fruit
+lauter,Yoav Kowalski,"Tue, 06 Jan 2026 19:12:04 +0000",,4.5,Voor (2019),Tommie Sjef,Sour - Fruited
+lauter,Ilya Markovsky,"Tue, 06 Jan 2026 19:12:00 +0000",bottle,3.8,L'Obscur (Amarone) (2020),Antidoot - Wilde Fermenten,Sour - Flanders Oud Bruin
+lauter,Yoav Kowalski,"Tue, 06 Jan 2026 19:10:40 +0000",,4.0,L'Obscur (Amarone) (2020),Antidoot - Wilde Fermenten,Sour - Flanders Oud Bruin
+lauter,Asaf Levi,"Tue, 06 Jan 2026 19:10:20 +0000",bottle,3.75,Vorrei Un Aperitivo,Métaphore,Wild Ale - Other
+lauter,Ilya Markovsky,"Tue, 06 Jan 2026 19:10:01 +0000",bottle,4.0,Voor (2019),Tommie Sjef,Sour - Fruited
+lauter,Asaf Levi,"Tue, 06 Jan 2026 19:10:00 +0000",bottle,4.5,Mira d'Or: Pure,Pellicle Vergistingen,Lambic - Fruit
+lauter,Zvika Rosenthal,"Tue, 06 Jan 2026 19:09:51 +0000",bottle,4.2,Mira d'Or: Pure,Pellicle Vergistingen,Lambic - Fruit
+lauter,barak luzon,"Tue, 06 Jan 2026 19:09:01 +0000",bottle,4.5,Mira d'Or: Pure,Pellicle Vergistingen,Lambic - Fruit
+lauter,Ilya Markovsky,"Tue, 06 Jan 2026 19:08:55 +0000",bottle,4.3,Mira d'Or: Pure,Pellicle Vergistingen,Lambic - Fruit
+lauter,Lior Degabli,"Tue, 06 Jan 2026 19:07:26 +0000",bottle,4.25,Mira d'Or: Pure,Pellicle Vergistingen,Lambic - Fruit
+lauter,Kobi,"Tue, 06 Jan 2026 19:06:52 +0000",,4.0,Mira d'Or: Pure,Pellicle Vergistingen,Lambic - Fruit
+lauter,Zvika Rosenthal,"Tue, 06 Jan 2026 19:01:57 +0000",bottle,3.9,Vorrei Un Aperitivo,Métaphore,Wild Ale - Other
+lauter,barak luzon,"Tue, 06 Jan 2026 19:01:14 +0000",bottle,4.0,Vorrei Un Aperitivo,Métaphore,Wild Ale - Other
+lauter,Kobi,"Tue, 06 Jan 2026 19:00:11 +0000",,4.0,Vorrei Un Aperitivo,Métaphore,Wild Ale - Other
+lauter,Lior Degabli,"Tue, 06 Jan 2026 18:59:50 +0000",bottle,3.75,Vorrei Un Aperitivo,Métaphore,Wild Ale - Other
+lauter,Kobi,"Tue, 06 Jan 2026 18:57:13 +0000",,4.25,Voor (2019),Tommie Sjef,Sour - Fruited
+lauter,Asaf Levi,"Tue, 06 Jan 2026 18:55:58 +0000",bottle,4.0,Voor (2019),Tommie Sjef,Sour - Fruited
+lauter,Zvika Rosenthal,"Tue, 06 Jan 2026 18:53:32 +0000",bottle,3.8,Voor (2019),Tommie Sjef,Sour - Fruited
+lauter,Lior Degabli,"Tue, 06 Jan 2026 18:53:24 +0000",bottle,4.25,Voor (2019),Tommie Sjef,Sour - Fruited
+lauter,barak luzon,"Tue, 06 Jan 2026 18:51:09 +0000",bottle,4.25,Voor (2019),Tommie Sjef,Sour - Fruited
+lauter,Kobi,"Tue, 06 Jan 2026 18:49:04 +0000",,4.0,L'Obscur (Amarone) (2020),Antidoot - Wilde Fermenten,Sour - Flanders Oud Bruin
+lauter,Asaf Levi,"Tue, 06 Jan 2026 18:48:15 +0000",bottle,4.0,L'Obscur (Amarone) (2020),Antidoot - Wilde Fermenten,Sour - Flanders Oud Bruin
+lauter,barak luzon,"Tue, 06 Jan 2026 18:48:00 +0000",bottle,3.75,L'Obscur (Amarone) (2020),Antidoot - Wilde Fermenten,Sour - Flanders Oud Bruin
+lauter,Zeev,"Tue, 06 Jan 2026 18:47:50 +0000",bottle,3.75,L'Obscur (Amarone) (2020),Antidoot - Wilde Fermenten,Sour - Flanders Oud Bruin
+lauter,Zvika Rosenthal,"Tue, 06 Jan 2026 18:47:19 +0000",bottle,3.7,L'Obscur (Amarone) (2019),Antidoot - Wilde Fermenten,Sour - Flanders Oud Bruin
+lauter,Lior Degabli,"Tue, 06 Jan 2026 18:46:07 +0000",bottle,4.0,L'Obscur (Amarone) (2020),Antidoot - Wilde Fermenten,Sour - Flanders Oud Bruin
+lauter,Ben Prize Bar-On,"Tue, 06 Jan 2026 18:44:00 +0000",draft,4.6,Quetsche Tilquin – Draft Version,Gueuzerie Tilquin,Lambic - Fruit
+lauter,Ilya Markovsky,"Tue, 06 Jan 2026 18:41:29 +0000",draft,3.2,Coresh כורש,Schnitt Brewing Company﻿,Smoked Beer
+lauter,UV R,"Tue, 06 Jan 2026 17:59:07 +0000",can,3.5,Hazy Queen - Peacherine Edition,HORIZONT Brewing,IPA - New England / Hazy
+schnitt-brewing-company,Oren Avrashi,"Tue, 06 Jan 2026 17:20:46 +0000",draft,3.25,Anything Gose: Orange And Sage,Schnitt Brewing Company﻿,Sour - Fruited Gose
+schnitt-brewing-company,Oren Avrashi,"Tue, 06 Jan 2026 17:19:13 +0000",draft,3.75,Global Chillin',Schnitt Brewing Company﻿,IPA - Cold
+schnitt-brewing-company,Oren Avrashi,"Tue, 06 Jan 2026 17:18:05 +0000",draft,3.25,Kochav HaTzafon 2025 כוכב הצפון,Schnitt Brewing Company﻿,Winter Ale
+lauter,NeriyaBeerlowitz,"Tue, 06 Jan 2026 16:47:06 +0000",draft,3.0,Buster's Cranberry Lemonade,Oak & Ash,Malt Liquor
+lauter,Adam Berelowitz,"Tue, 06 Jan 2026 16:44:41 +0000",draft,2.5,Edelweiss Snowfresh / Wheat Beer,Brau Union Österreich,Wheat Beer - Hefeweizen
+lauter,Adam Berelowitz,"Tue, 06 Jan 2026 16:44:20 +0000",draft,3.7,Flu Fighters,Schnitt Brewing Company﻿,Pale Ale - Other
+lauter,Adam Berelowitz,"Tue, 06 Jan 2026 16:44:06 +0000",draft,3.7,Anything Gose: Orange And Sage,Schnitt Brewing Company﻿,Sour - Fruited Gose
+lauter,NeriyaBeerlowitz,"Tue, 06 Jan 2026 16:43:39 +0000",draft,4.5,Quetsche Tilquin – Draft Version,Gueuzerie Tilquin,Lambic - Fruit
+lauter,Adam Berelowitz,"Tue, 06 Jan 2026 16:43:30 +0000",draft,3.7,"Duvel 6,66%",Duvel Moortgat,Belgian Blonde
+lauter,Adam Berelowitz,"Tue, 06 Jan 2026 16:43:13 +0000",draft,3.4,Fruity Mish Mash,Schnitt Brewing Company﻿,IPA - New England / Hazy
+lauter,Adam Berelowitz,"Tue, 06 Jan 2026 16:42:40 +0000",draft,3.7,שוורצע,Schnitt Brewing Company﻿,IPA - Black / Cascadian Dark Ale
+lauter,Adam Berelowitz,"Tue, 06 Jan 2026 16:42:19 +0000",draft,3.8,La Chouffe Blonde,Brasserie d'Achouffe,Belgian Strong Golden Ale
+lauter,Adam Berelowitz,"Tue, 06 Jan 2026 16:42:01 +0000",draft,3.7,N'Ice Chouffe,Brasserie d'Achouffe,Winter Ale
+lauter,Adam Berelowitz,"Tue, 06 Jan 2026 16:41:45 +0000",draft,3.6,צ׳ארלי המלך 2.0,קישקשתא (Kishkashta),Bitter - Extra Special / Strong (ESB)
+lauter,Adam Berelowitz,"Tue, 06 Jan 2026 16:41:24 +0000",draft,3.6,Benediktiner Hell,Benediktiner Weissbräu,Lager - Helles
+schnitt-brewing-company,Oren Gutman,"Tue, 06 Jan 2026 15:32:43 +0000",draft,4.75,Jaffa IPA,Schnitt Brewing Company﻿,IPA - American
+lauter,goodman9,"Tue, 06 Jan 2026 09:15:50 +0000",draft,2.25,Fruity Mish Mash,Schnitt Brewing Company﻿,IPA - New England / Hazy
+lauter,goodman9,"Tue, 06 Jan 2026 09:04:26 +0000",draft,1.75,N'Ice Chouffe,Brasserie d'Achouffe,Winter Ale
 lauter,Desmond H,"Mon, 05 Jan 2026 20:12:16 +0000",can,4.0,IPA,Volfas Engelman,IPA - Other
 lauter,Raz Hechter,"Mon, 05 Jan 2026 19:31:55 +0000",draft,3.75,צ׳ארלי המלך 2.0,קישקשתא (Kishkashta),Bitter - Extra Special / Strong (ESB)
 lauter,Raz Hechter,"Mon, 05 Jan 2026 19:21:19 +0000",draft,4.5,TIPA Mara (2025),Schnitt Brewing Company﻿,IPA - Triple
@@ -1006,8 +1143,8 @@ lauter,ParkerAsaf,"Mon, 15 Dec 2025 14:05:21 +0000",bottle,3.75,Maredsous Triple
 lauter,ParkerAsaf,"Mon, 15 Dec 2025 14:03:48 +0000",bottle,4.25,"Chimay Grande Réserve Fermentée En Barriques - Chêne Français, Chêne Américain, Brandy (02/2024)",Bières de Chimay,Belgian Strong Dark Ale
 lauter,ParkerAsaf,"Mon, 15 Dec 2025 13:59:24 +0000",bottle,3.75,N'Ice Chouffe,Brasserie d'Achouffe,Winter Ale
 lauter,ParkerAsaf,"Mon, 15 Dec 2025 13:55:18 +0000",bottle,3.5,Chouffe IPA,Brasserie d'Achouffe,IPA - Belgian
-schnitt-brewing-company,Nirit Agiv,"Sun, 14 Dec 2025 20:46:46 +0000",draft,3.7,Nightmare Fuel,Schnitt Brewing Company﻿,Porter - American
 lauter,Shmupi Koto,"Sun, 14 Dec 2025 20:46:46 +0000",draft,3.7,Nightmare Fuel,Schnitt Brewing Company﻿,Porter - American
+schnitt-brewing-company,Nirit Agiv,"Sun, 14 Dec 2025 20:46:46 +0000",draft,3.7,Nightmare Fuel,Schnitt Brewing Company﻿,Porter - American
 lauter,Shmupi Koto,"Sun, 14 Dec 2025 20:25:36 +0000",draft,4.5,Gueuze Tilquin – Draft Version,Gueuzerie Tilquin,Lambic - Gueuze
 schnitt-brewing-company,Chinese Uncle,"Sun, 14 Dec 2025 19:50:56 +0000",draft,3.5,Lazy Bee Hibiscus And Raspberries,Schnitt Brewing Company﻿,Mead - Session / Short
 b7-beer-house,Yotam Bar-natan,"Sun, 14 Dec 2025 19:43:50 +0000",can,3.9,Vesper,Ophiussa,Sour - Smoothie / Pastry
@@ -1025,8 +1162,8 @@ b7-beer-house,Noam Yogev,"Sun, 14 Dec 2025 19:15:06 +0000",can,4.25,Grapefruit M
 b7-beer-house,Yotam Bar-natan,"Sun, 14 Dec 2025 19:14:55 +0000",can,4.1,Grapefruit Mead,Steppe & Wind Meadery (Степь и Ветер),Mead - Melomel
 lauter,Lee Ker,"Sun, 14 Dec 2025 19:09:04 +0000",,,Maredsous Triple / Tripel,Abbaye de Maredsous,Belgian Tripel
 b7-beer-house,Noam Yogev,"Sun, 14 Dec 2025 19:06:53 +0000",can,3.5,Качок-Кабачок,4BREWERS,Sour - Tomato / Vegetable Gose
-b7-beer-house,Noam Yogev,"Sun, 14 Dec 2025 19:05:15 +0000",can,3.75,Toasted Marshmallow Hazy IPA,Urbanaut Brewing,IPA - New England / Hazy
 b7-beer-house,Yotam Bar-natan,"Sun, 14 Dec 2025 19:05:15 +0000",can,3.6,Качок-Кабачок,4BREWERS,Sour - Tomato / Vegetable Gose
+b7-beer-house,Noam Yogev,"Sun, 14 Dec 2025 19:05:15 +0000",can,3.75,Toasted Marshmallow Hazy IPA,Urbanaut Brewing,IPA - New England / Hazy
 lauter,Lee Ker,"Sun, 14 Dec 2025 19:01:49 +0000",,,Cherry Chouffe,Brasserie d'Achouffe,Fruit Beer
 b7-beer-house,Noam Yogev,"Sun, 14 Dec 2025 18:57:52 +0000",can,4.0,Smoothie Bowl - Green Morning,Nepo Brewing,Sour - Smoothie / Pastry
 b7-beer-house,Yotam Bar-natan,"Sun, 14 Dec 2025 18:57:47 +0000",can,4.1,Toasted Marshmallow Hazy IPA,Urbanaut Brewing,IPA - New England / Hazy
@@ -3952,8 +4089,8 @@ lauter,Omer Shahar,"Sun, 19 Oct 2025 19:40:35 +0000",draft,3.5,"Shut Up And Drin
 porter-and-sons,Shmupi Koto,"Sun, 19 Oct 2025 19:33:53 +0000",draft,4.7,Quetsche Tilquin – Draft Version,Gueuzerie Tilquin,Lambic - Fruit
 lauter,Shmupi Koto,"Sun, 19 Oct 2025 19:32:51 +0000",bottle,4.0,Aecht Schlenkerla Rauchbier – Märzen,"Schlenkerla (""Heller-Bräu"" Trum)",Rauchbier
 lauter,Tal,"Sun, 19 Oct 2025 19:27:16 +0000",bottle,4.0,Bjorn's Beer,Attali's Family Brewery,IPA - American
-lauter,adi_zadik_2741,"Sun, 19 Oct 2025 19:17:21 +0000",bottle,3.25,Bjorn's Beer,Attali's Family Brewery,IPA - American
 schnitt-brewing-company,May Cohen,"Sun, 19 Oct 2025 19:17:21 +0000",can,4.25,Plum Waffle,Duncan's Brewing,Sour - Smoothie / Pastry
+lauter,adi_zadik_2741,"Sun, 19 Oct 2025 19:17:21 +0000",bottle,3.25,Bjorn's Beer,Attali's Family Brewery,IPA - American
 lauter,Tal,"Sun, 19 Oct 2025 18:51:53 +0000",draft,3.75,"Shut Up And Drink Me! (שת""פ)",Schnitt Brewing Company﻿,Historical Beer - Lichtenhainer
 schnitt-brewing-company,May Cohen,"Sun, 19 Oct 2025 18:34:54 +0000",can,4.5,Jetphilia,Totopia Brewery,Stout - Imperial / Double
 beerline,Slava Gladchenko,"Sun, 19 Oct 2025 18:23:28 +0000",,3.0,Benediktiner Weissbier,Benediktiner Weissbräu,Wheat Beer - Hefeweizen
@@ -5649,8 +5786,8 @@ lauter,YanivMeir1503,"Fri, 12 Sep 2025 10:38:04 +0000",draft,,Delirium Black Bar
 lauter,David Siegel,"Fri, 12 Sep 2025 10:37:22 +0000",draft,4.0,Ciderman Apple,Volfas Engelman,Cider - Traditional / Apfelwein
 lauter,Yuval Erets Kdosha,"Fri, 12 Sep 2025 10:34:34 +0000",draft,5.0,Black Currant x Cherry x Blueberry x Coconut x Almond Smoothie Sour Ale,Ārpus Brewing Co.,Sour - Smoothie / Pastry
 lauter,Yuval Erets Kdosha,"Fri, 12 Sep 2025 10:34:15 +0000",draft,4.0,Eclipse,Schmulz,Mead - Braggot
-lauter,Yuval Erets Kdosha,"Fri, 12 Sep 2025 10:33:29 +0000",draft,4.0,Birthday Popsicle קרטיב יום הולדת,Schnitt Brewing Company﻿,IPA - New England / Hazy
 lauter,ParkerAsaf,"Fri, 12 Sep 2025 10:33:29 +0000",draft,4.0,Birthday Popsicle קרטיב יום הולדת,Schnitt Brewing Company﻿,IPA - New England / Hazy
+lauter,Yuval Erets Kdosha,"Fri, 12 Sep 2025 10:33:29 +0000",draft,4.0,Birthday Popsicle קרטיב יום הולדת,Schnitt Brewing Company﻿,IPA - New England / Hazy
 lauter,Yana O,"Fri, 12 Sep 2025 10:33:25 +0000",draft,4.4,Black Currant x Cherry x Blueberry x Coconut x Almond Smoothie Sour Ale,Ārpus Brewing Co.,Sour - Smoothie / Pastry
 lauter,Yuval Erets Kdosha,"Fri, 12 Sep 2025 10:33:07 +0000",draft,4.5,Anything Gose: Mango,Schnitt Brewing Company﻿,Sour - Fruited Gose
 lauter,dafi20,"Fri, 12 Sep 2025 10:29:45 +0000",draft,4.25,Sweet Dreams,Oak & Ash,Sour - Fruited
@@ -6275,8 +6412,8 @@ lauter,Adam Berelowitz,"Mon, 01 Sep 2025 17:50:20 +0000",can,4.0,Confuzzled '202
 lauter,Oren Sleepwalker,"Mon, 01 Sep 2025 17:46:17 +0000",,,Hops Don’t Lie,Thurø Bryghus,IPA - New England / Hazy
 lauter,Mikhail Stolov,"Mon, 01 Sep 2025 17:45:42 +0000",bottle,2.5,Hops Don’t Lie,Thurø Bryghus,IPA - New England / Hazy
 lauter,Yosef Dahan,"Mon, 01 Sep 2025 17:45:00 +0000",bottle,3.5,Hops Don’t Lie,Thurø Bryghus,IPA - New England / Hazy
-lauter,Adam Berelowitz,"Mon, 01 Sep 2025 17:44:35 +0000",bottle,4.0,Hops Don’t Lie,Thurø Bryghus,IPA - New England / Hazy
 lauter,Yaron Sh,"Mon, 01 Sep 2025 17:44:35 +0000",,4.0,Hops Don’t Lie,Thurø Bryghus,IPA - New England / Hazy
+lauter,Adam Berelowitz,"Mon, 01 Sep 2025 17:44:35 +0000",bottle,4.0,Hops Don’t Lie,Thurø Bryghus,IPA - New England / Hazy
 lauter,Kobi,"Mon, 01 Sep 2025 17:44:03 +0000",,4.0,Hops Don’t Lie,Thurø Bryghus,IPA - New England / Hazy
 lauter,Yaron Sh,"Mon, 01 Sep 2025 17:42:20 +0000",,4.5,Super Trigo,Bierwerk Züri,IPA - White / Wheat
 lauter,Oren Sleepwalker,"Mon, 01 Sep 2025 17:40:34 +0000",,,Super Trigo,Bierwerk Züri,IPA - White / Wheat
@@ -6824,8 +6961,8 @@ b7-beer-house,גל סילברמן,"Thu, 21 Aug 2025 16:00:18 +0000",can,3.8,Naug
 b7-beer-house,Guy Azene,"Thu, 21 Aug 2025 16:00:01 +0000",can,3.8,Naughty & Nice - White Chocolate & Raspberry,Vocation Brewery,Stout - White / Golden
 b7-beer-house,Liad Shaked,"Thu, 21 Aug 2025 15:59:41 +0000",can,3.9,Naughty & Nice - White Chocolate & Raspberry,Vocation Brewery,Stout - White / Golden
 b7-beer-house,Yotam Bar-natan,"Thu, 21 Aug 2025 15:59:21 +0000",can,4.3,Birthday Cake,Vocation Brewery,Stout - Milk / Sweet
-b7-beer-house,Elior Mizrahi,"Thu, 21 Aug 2025 15:59:11 +0000",,4.0,Naughty & Nice - White Chocolate & Raspberry,Vocation Brewery,Stout - White / Golden
 b7-beer-house,Eli Smikin,"Thu, 21 Aug 2025 15:59:11 +0000",can,3.8,Peach Rings,Vault City Brewing,Sour - Fruited
+b7-beer-house,Elior Mizrahi,"Thu, 21 Aug 2025 15:59:11 +0000",,4.0,Naughty & Nice - White Chocolate & Raspberry,Vocation Brewery,Stout - White / Golden
 b7-beer-house,Yotam Bar-natan,"Thu, 21 Aug 2025 15:58:45 +0000",can,3.8,Naughty & Nice - White Chocolate & Raspberry,Vocation Brewery,Stout - White / Golden
 b7-beer-house,Tom Lahav,"Thu, 21 Aug 2025 15:58:44 +0000",can,3.25,Naughty & Nice - White Chocolate & Raspberry,Vocation Brewery,Stout - White / Golden
 b7-beer-house,Yotam Bar-natan,"Thu, 21 Aug 2025 15:58:21 +0000",can,3.7,Incognito,Vocation Brewery,IPA - Imperial / Double
@@ -7623,8 +7760,8 @@ lauter,Mikhail Stolov,"Tue, 05 Aug 2025 18:52:25 +0000",,3.25,OUOUOU,4BREWERS,So
 lauter,Oren Sleepwalker,"Tue, 05 Aug 2025 18:50:13 +0000",,,Whakahoa,Factory Brewing,IPA - Triple New England / Hazy
 schnitt-brewing-company,Arkady Gerasimuk,"Tue, 05 Aug 2025 18:49:49 +0000",draft,3.5,Twist & Stout,Schnitt Brewing Company﻿,Stout - Irish Dry
 schnitt-brewing-company,Yaniv Gorodetsky,"Tue, 05 Aug 2025 18:49:42 +0000",draft,3.0,Twist & Stout,Schnitt Brewing Company﻿,Stout - Irish Dry
-lauter,Yosef Dahan,"Tue, 05 Aug 2025 18:49:38 +0000",can,4.0,Whakahoa,Factory Brewing,IPA - Triple New England / Hazy
 lauter,Yaron Sh,"Tue, 05 Aug 2025 18:49:38 +0000",,4.5,Whakahoa,Factory Brewing,IPA - Triple New England / Hazy
+lauter,Yosef Dahan,"Tue, 05 Aug 2025 18:49:38 +0000",can,4.0,Whakahoa,Factory Brewing,IPA - Triple New England / Hazy
 lauter,Yaniv Alal,"Tue, 05 Aug 2025 18:49:26 +0000",draft,4.25,Whakahoa,Factory Brewing,IPA - Triple New England / Hazy
 lauter,Shaul A,"Tue, 05 Aug 2025 18:49:14 +0000",,4.5,Whakahoa,Factory Brewing,IPA - Triple New England / Hazy
 lauter,Yaron Sh,"Tue, 05 Aug 2025 18:48:30 +0000",,4.0,Magical Path,Shred Beer Company,IPA - New England / Hazy

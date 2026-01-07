@@ -1,8 +1,1241 @@
 // 🍺 BEER STATS DATA - Generated automatically
-// Last updated: 2026-01-06 06:47:10
-// Total records: 10623
+// Last updated: 2026-01-07 06:46:25
+// Total records: 10760
 
 const BEER_DATA = [
+  {
+    "venue": "lauter",
+    "time": "2026-01-06T21:20:27+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Flu Fighters",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pale Ale - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-06T21:17:24+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "Quetsche Tilquin – Draft Version",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-06T20:58:21+00:00",
+    "serving": "bottle",
+    "rating": 4.0,
+    "beer_name": "Racine (2025)",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-06T20:56:00+00:00",
+    "serving": "Unknown",
+    "rating": 4.5,
+    "beer_name": "Racine (2025)",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-06T20:53:46+00:00",
+    "serving": "bottle",
+    "rating": 3.5,
+    "beer_name": "Surfer Dude",
+    "brewery": "Shevet (שבט)",
+    "beer_type": "Lager - American Light"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-06T20:41:16+00:00",
+    "serving": "bottle",
+    "rating": 4.25,
+    "beer_name": "Racine (2025)",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-06T20:40:43+00:00",
+    "serving": "Unknown",
+    "rating": 4.25,
+    "beer_name": "Racine (2025)",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-06T20:40:41+00:00",
+    "serving": "bottle",
+    "rating": 4.5,
+    "beer_name": "Racine (2025)",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-01-06T20:39:58+00:00",
+    "serving": "bottle",
+    "rating": 4.3,
+    "beer_name": "Racine (2025)",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-06T20:38:35+00:00",
+    "serving": "bottle",
+    "rating": 4.0,
+    "beer_name": "Racine (2025)",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-06T20:37:01+00:00",
+    "serving": "bottle",
+    "rating": 4.75,
+    "beer_name": "Mira d'Or: Vanilla",
+    "brewery": "Pellicle Vergistingen",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-06T20:35:15+00:00",
+    "serving": "bottle",
+    "rating": 4.0,
+    "beer_name": "Mira d'Or: Vanilla",
+    "brewery": "Pellicle Vergistingen",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-06T20:35:00+00:00",
+    "serving": "Unknown",
+    "rating": 4.5,
+    "beer_name": "Mira d'Or: Vanilla",
+    "brewery": "Pellicle Vergistingen",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-06T20:34:15+00:00",
+    "serving": "bottle",
+    "rating": 4.25,
+    "beer_name": "Mira d'Or: Vanilla",
+    "brewery": "Pellicle Vergistingen",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-06T20:32:58+00:00",
+    "serving": "Unknown",
+    "rating": 4.75,
+    "beer_name": "Mira d'Or: Vanilla",
+    "brewery": "Pellicle Vergistingen",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-06T20:32:12+00:00",
+    "serving": "bottle",
+    "rating": 3.9,
+    "beer_name": "Mira d'Or: Vanilla",
+    "brewery": "Pellicle Vergistingen",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-06T20:28:54+00:00",
+    "serving": "bottle",
+    "rating": 4.5,
+    "beer_name": "Little Geezer",
+    "brewery": "Pellicle Vergistingen",
+    "beer_type": "Lambic - Gueuze"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-06T20:28:42+00:00",
+    "serving": "bottle",
+    "rating": 4.25,
+    "beer_name": "Little Geezer",
+    "brewery": "Pellicle Vergistingen",
+    "beer_type": "Lambic - Gueuze"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-06T20:28:41+00:00",
+    "serving": "Unknown",
+    "rating": 4.25,
+    "beer_name": "Little Geezer",
+    "brewery": "Pellicle Vergistingen",
+    "beer_type": "Lambic - Gueuze"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-06T20:27:53+00:00",
+    "serving": "bottle",
+    "rating": 4.1,
+    "beer_name": "Little Geezer",
+    "brewery": "Pellicle Vergistingen",
+    "beer_type": "Lambic - Gueuze"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-01-06T20:26:49+00:00",
+    "serving": "Unknown",
+    "rating": 4.25,
+    "beer_name": "Little Geezer",
+    "brewery": "Pellicle Vergistingen",
+    "beer_type": "Lambic - Gueuze"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-06T20:25:33+00:00",
+    "serving": "bottle",
+    "rating": 4.0,
+    "beer_name": "Little Geezer",
+    "brewery": "Pellicle Vergistingen",
+    "beer_type": "Lambic - Gueuze"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-06T20:24:50+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "50/50/50",
+    "brewery": "Pellicle Vergistingen",
+    "beer_type": "Cider - Dry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-06T20:24:41+00:00",
+    "serving": "bottle",
+    "rating": 4.0,
+    "beer_name": "50/50/50",
+    "brewery": "Pellicle Vergistingen",
+    "beer_type": "Cider - Dry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-06T20:24:30+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "50/50/50",
+    "brewery": "Pellicle Vergistingen",
+    "beer_type": "Cider - Dry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-06T20:22:31+00:00",
+    "serving": "bottle",
+    "rating": 4.0,
+    "beer_name": "50/50/50",
+    "brewery": "Pellicle Vergistingen",
+    "beer_type": "Cider - Dry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-06T20:21:59+00:00",
+    "serving": "bottle",
+    "rating": 3.6,
+    "beer_name": "50/50/50",
+    "brewery": "Pellicle Vergistingen",
+    "beer_type": "Cider - Dry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-06T20:19:14+00:00",
+    "serving": "bottle",
+    "rating": 3.75,
+    "beer_name": "50/50/50",
+    "brewery": "Pellicle Vergistingen",
+    "beer_type": "Cider - Dry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-06T20:17:41+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Pruim De Carmel",
+    "brewery": "Galileo Brewery",
+    "beer_type": "Homebrew, Lambic - Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-06T20:16:54+00:00",
+    "serving": "Unknown",
+    "rating": 3.0,
+    "beer_name": "שוורצע",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - Black / Cascadian Dark Ale"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-06T20:16:41+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "La Chouffe Blonde",
+    "brewery": "Brasserie d'Achouffe",
+    "beer_type": "Belgian Strong Golden Ale"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-06T20:16:31+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "Alt Neuland",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Altbier - Traditional"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-06T20:15:20+00:00",
+    "serving": "bottle",
+    "rating": 3.75,
+    "beer_name": "Pruim De Carmel",
+    "brewery": "Galileo Brewery",
+    "beer_type": "Homebrew, Lambic - Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-06T20:13:44+00:00",
+    "serving": "Unknown",
+    "rating": 4.25,
+    "beer_name": "Pruim De Carmel",
+    "brewery": "Galileo Brewery",
+    "beer_type": "Homebrew, Lambic - Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-06T20:13:43+00:00",
+    "serving": "bottle",
+    "rating": 4.25,
+    "beer_name": "Imperial Storm (2024)",
+    "brewery": "Heisenberg",
+    "beer_type": "Homebrew, Sour - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-06T20:13:22+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Pruim De Carmel",
+    "brewery": "Galileo Brewery",
+    "beer_type": "Homebrew, Lambic - Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-06T20:13:03+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "Imperial Storm (2024)",
+    "brewery": "Heisenberg",
+    "beer_type": "Homebrew, Sour - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-06T20:12:33+00:00",
+    "serving": "bottle",
+    "rating": 4.25,
+    "beer_name": "Field Blend",
+    "brewery": "Pellicle Vergistingen",
+    "beer_type": "Cider - Other Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-06T20:12:29+00:00",
+    "serving": "bottle",
+    "rating": 4.25,
+    "beer_name": "Pruim De Carmel",
+    "brewery": "Galileo Brewery",
+    "beer_type": "Homebrew, Lambic - Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-06T20:12:14+00:00",
+    "serving": "Unknown",
+    "rating": 4.25,
+    "beer_name": "Imperial Storm (2024)",
+    "brewery": "Heisenberg",
+    "beer_type": "Homebrew, Sour - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-06T20:11:59+00:00",
+    "serving": "bottle",
+    "rating": 3.75,
+    "beer_name": "Imperial Storm (2024)",
+    "brewery": "Heisenberg",
+    "beer_type": "Homebrew, Sour - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-06T20:11:53+00:00",
+    "serving": "bottle",
+    "rating": 3.6,
+    "beer_name": "Imperial Storm (2024)",
+    "brewery": "Heisenberg",
+    "beer_type": "Homebrew, Sour - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-06T20:11:50+00:00",
+    "serving": "Unknown",
+    "rating": 4.25,
+    "beer_name": "Field Blend",
+    "brewery": "Pellicle Vergistingen",
+    "beer_type": "Cider - Other Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-06T20:10:47+00:00",
+    "serving": "bottle",
+    "rating": 4.0,
+    "beer_name": "Imperial Storm (2024)",
+    "brewery": "Heisenberg",
+    "beer_type": "Homebrew, Sour - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-06T20:02:38+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Field Blend",
+    "brewery": "Pellicle Vergistingen",
+    "beer_type": "Cider - Other Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-06T20:02:28+00:00",
+    "serving": "bottle",
+    "rating": 3.5,
+    "beer_name": "Field Blend",
+    "brewery": "Pellicle Vergistingen",
+    "beer_type": "Cider - Other Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-06T20:02:05+00:00",
+    "serving": "bottle",
+    "rating": 4.0,
+    "beer_name": "Field Blend",
+    "brewery": "Pellicle Vergistingen",
+    "beer_type": "Cider - Other Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-06T20:01:34+00:00",
+    "serving": "bottle",
+    "rating": 4.0,
+    "beer_name": "Field Blend",
+    "brewery": "Pellicle Vergistingen",
+    "beer_type": "Cider - Other Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-06T20:00:05+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Mira D'Or: Omija",
+    "brewery": "Pellicle Vergistingen",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-06T19:58:03+00:00",
+    "serving": "bottle",
+    "rating": 4.25,
+    "beer_name": "Mira D'Or: Omija",
+    "brewery": "Pellicle Vergistingen",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-06T19:57:21+00:00",
+    "serving": "bottle",
+    "rating": 4.5,
+    "beer_name": "Mira D'Or: Omija",
+    "brewery": "Pellicle Vergistingen",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-06T19:56:37+00:00",
+    "serving": "bottle",
+    "rating": 4.75,
+    "beer_name": "Synergy: Strawberry - Mirabelle",
+    "brewery": "Pellicle Vergistingen",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-06T19:55:57+00:00",
+    "serving": "bottle",
+    "rating": 4.3,
+    "beer_name": "Mira D'Or: Omija",
+    "brewery": "Pellicle Vergistingen",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-06T19:55:40+00:00",
+    "serving": "bottle",
+    "rating": 3.9,
+    "beer_name": "Mira D'Or: Omija",
+    "brewery": "Pellicle Vergistingen",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-06T19:54:46+00:00",
+    "serving": "Unknown",
+    "rating": 4.5,
+    "beer_name": "Mira D'Or: Omija",
+    "brewery": "Pellicle Vergistingen",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-06T19:51:00+00:00",
+    "serving": "Unknown",
+    "rating": 4.5,
+    "beer_name": "Synergy: Strawberry - Mirabelle",
+    "brewery": "Pellicle Vergistingen",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-06T19:50:48+00:00",
+    "serving": "Unknown",
+    "rating": 5.0,
+    "beer_name": "Synergy: Strawberry - Mirabelle",
+    "brewery": "Pellicle Vergistingen",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-06T19:50:11+00:00",
+    "serving": "bottle",
+    "rating": 4.75,
+    "beer_name": "Synergy: Strawberry - Mirabelle",
+    "brewery": "Pellicle Vergistingen",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-06T19:49:47+00:00",
+    "serving": "bottle",
+    "rating": 4.5,
+    "beer_name": "Synergy: Strawberry - Mirabelle",
+    "brewery": "Pellicle Vergistingen",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-06T19:48:52+00:00",
+    "serving": "bottle",
+    "rating": 4.2,
+    "beer_name": "Synergy: Strawberry - Mirabelle",
+    "brewery": "Pellicle Vergistingen",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-06T19:48:50+00:00",
+    "serving": "bottle",
+    "rating": 4.8,
+    "beer_name": "Synergy: Strawberry - Mirabelle",
+    "brewery": "Pellicle Vergistingen",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-06T19:44:57+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "Oxaal (2024)",
+    "brewery": "Pellicle Vergistingen",
+    "beer_type": "Cider - Other Fruit"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-01-06T19:42:54+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Oxaal Kriek (2025)",
+    "brewery": "Pellicle Vergistingen",
+    "beer_type": "Cider - Other Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-06T19:42:30+00:00",
+    "serving": "bottle",
+    "rating": 2.0,
+    "beer_name": "Oxaal (2024)",
+    "brewery": "Pellicle Vergistingen",
+    "beer_type": "Cider - Other Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-06T19:39:29+00:00",
+    "serving": "bottle",
+    "rating": 2.5,
+    "beer_name": "Oxaal (2024)",
+    "brewery": "Pellicle Vergistingen",
+    "beer_type": "Cider - Other Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-06T19:38:31+00:00",
+    "serving": "bottle",
+    "rating": 4.0,
+    "beer_name": "Oxaal Kriek (2025)",
+    "brewery": "Pellicle Vergistingen",
+    "beer_type": "Cider - Other Fruit"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-01-06T19:38:29+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "Pomme D’Or",
+    "brewery": "Pellicle Vergistingen",
+    "beer_type": "Cider - Dry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-06T19:38:06+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "Oxaal (2024)",
+    "brewery": "Pellicle Vergistingen",
+    "beer_type": "Cider - Other Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-06T19:37:39+00:00",
+    "serving": "bottle",
+    "rating": 3.6,
+    "beer_name": "Oxaal (2024)",
+    "brewery": "Pellicle Vergistingen",
+    "beer_type": "Cider - Other Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-06T19:37:32+00:00",
+    "serving": "bottle",
+    "rating": 3.75,
+    "beer_name": "Oxaal Kriek (2025)",
+    "brewery": "Pellicle Vergistingen",
+    "beer_type": "Cider - Other Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-06T19:36:36+00:00",
+    "serving": "bottle",
+    "rating": 3.75,
+    "beer_name": "Oxaal (2024)",
+    "brewery": "Pellicle Vergistingen",
+    "beer_type": "Cider - Other Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-06T19:32:35+00:00",
+    "serving": "Unknown",
+    "rating": 4.25,
+    "beer_name": "Oxaal Kriek (2025)",
+    "brewery": "Pellicle Vergistingen",
+    "beer_type": "Cider - Other Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-06T19:32:04+00:00",
+    "serving": "bottle",
+    "rating": 4.0,
+    "beer_name": "Oxaal Kriek (2025)",
+    "brewery": "Pellicle Vergistingen",
+    "beer_type": "Cider - Other Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-06T19:31:39+00:00",
+    "serving": "bottle",
+    "rating": 4.3,
+    "beer_name": "Oxaal Kriek (2025)",
+    "brewery": "Pellicle Vergistingen",
+    "beer_type": "Cider - Other Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-06T19:31:36+00:00",
+    "serving": "bottle",
+    "rating": 4.0,
+    "beer_name": "Oxaal Kriek (2025)",
+    "brewery": "Pellicle Vergistingen",
+    "beer_type": "Cider - Other Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-06T19:29:06+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Pomme D’Or",
+    "brewery": "Pellicle Vergistingen",
+    "beer_type": "Cider - Dry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-06T19:28:25+00:00",
+    "serving": "Unknown",
+    "rating": 4.5,
+    "beer_name": "Pomme D’Or",
+    "brewery": "Pellicle Vergistingen",
+    "beer_type": "Cider - Dry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-06T19:26:52+00:00",
+    "serving": "bottle",
+    "rating": 4.0,
+    "beer_name": "Pomme D’Or",
+    "brewery": "Pellicle Vergistingen",
+    "beer_type": "Cider - Dry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-06T19:26:27+00:00",
+    "serving": "bottle",
+    "rating": 3.7,
+    "beer_name": "Pomme D’Or",
+    "brewery": "Pellicle Vergistingen",
+    "beer_type": "Cider - Dry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-06T19:25:44+00:00",
+    "serving": "bottle",
+    "rating": 3.8,
+    "beer_name": "Pomme D’Or",
+    "brewery": "Pellicle Vergistingen",
+    "beer_type": "Cider - Dry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-06T19:21:48+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "Ultra Violet",
+    "brewery": "Pellicle Vergistingen",
+    "beer_type": "Cider - Other Fruit"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-01-06T19:20:31+00:00",
+    "serving": "Unknown",
+    "rating": 5.0,
+    "beer_name": "Mira d'Or: Pure",
+    "brewery": "Pellicle Vergistingen",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-06T19:17:52+00:00",
+    "serving": "bottle",
+    "rating": 3.6,
+    "beer_name": "Ultra Violet",
+    "brewery": "Pellicle Vergistingen",
+    "beer_type": "Cider - Other Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-06T19:15:41+00:00",
+    "serving": "bottle",
+    "rating": 4.0,
+    "beer_name": "Ultra Violet",
+    "brewery": "Pellicle Vergistingen",
+    "beer_type": "Cider - Other Fruit"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-01-06T19:15:20+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Vorrei Un Aperitivo",
+    "brewery": "Métaphore",
+    "beer_type": "Wild Ale - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-06T19:15:04+00:00",
+    "serving": "bottle",
+    "rating": 4.25,
+    "beer_name": "Ultra Violet",
+    "brewery": "Pellicle Vergistingen",
+    "beer_type": "Cider - Other Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-06T19:14:50+00:00",
+    "serving": "Unknown",
+    "rating": 4.25,
+    "beer_name": "Ultra Violet",
+    "brewery": "Pellicle Vergistingen",
+    "beer_type": "Cider - Other Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-06T19:14:42+00:00",
+    "serving": "bottle",
+    "rating": 4.0,
+    "beer_name": "Ultra Violet",
+    "brewery": "Pellicle Vergistingen",
+    "beer_type": "Cider - Other Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-06T19:14:23+00:00",
+    "serving": "bottle",
+    "rating": 3.8,
+    "beer_name": "Vorrei Un Aperitivo",
+    "brewery": "Métaphore",
+    "beer_type": "Wild Ale - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-06T19:13:40+00:00",
+    "serving": "bottle",
+    "rating": 4.7,
+    "beer_name": "Ultra Violet",
+    "brewery": "Pellicle Vergistingen",
+    "beer_type": "Cider - Other Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-06T19:12:04+00:00",
+    "serving": "Unknown",
+    "rating": 4.5,
+    "beer_name": "Voor (2019)",
+    "brewery": "Tommie Sjef",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-06T19:12:00+00:00",
+    "serving": "bottle",
+    "rating": 3.8,
+    "beer_name": "L'Obscur (Amarone) (2020)",
+    "brewery": "Antidoot - Wilde Fermenten",
+    "beer_type": "Sour - Flanders Oud Bruin"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-06T19:10:40+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "L'Obscur (Amarone) (2020)",
+    "brewery": "Antidoot - Wilde Fermenten",
+    "beer_type": "Sour - Flanders Oud Bruin"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-06T19:10:20+00:00",
+    "serving": "bottle",
+    "rating": 3.75,
+    "beer_name": "Vorrei Un Aperitivo",
+    "brewery": "Métaphore",
+    "beer_type": "Wild Ale - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-06T19:10:01+00:00",
+    "serving": "bottle",
+    "rating": 4.0,
+    "beer_name": "Voor (2019)",
+    "brewery": "Tommie Sjef",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-06T19:10:00+00:00",
+    "serving": "bottle",
+    "rating": 4.5,
+    "beer_name": "Mira d'Or: Pure",
+    "brewery": "Pellicle Vergistingen",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-06T19:09:51+00:00",
+    "serving": "bottle",
+    "rating": 4.2,
+    "beer_name": "Mira d'Or: Pure",
+    "brewery": "Pellicle Vergistingen",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-06T19:09:01+00:00",
+    "serving": "bottle",
+    "rating": 4.5,
+    "beer_name": "Mira d'Or: Pure",
+    "brewery": "Pellicle Vergistingen",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-06T19:08:55+00:00",
+    "serving": "bottle",
+    "rating": 4.3,
+    "beer_name": "Mira d'Or: Pure",
+    "brewery": "Pellicle Vergistingen",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-06T19:07:26+00:00",
+    "serving": "bottle",
+    "rating": 4.25,
+    "beer_name": "Mira d'Or: Pure",
+    "brewery": "Pellicle Vergistingen",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-06T19:06:52+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Mira d'Or: Pure",
+    "brewery": "Pellicle Vergistingen",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-06T19:01:57+00:00",
+    "serving": "bottle",
+    "rating": 3.9,
+    "beer_name": "Vorrei Un Aperitivo",
+    "brewery": "Métaphore",
+    "beer_type": "Wild Ale - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-06T19:01:14+00:00",
+    "serving": "bottle",
+    "rating": 4.0,
+    "beer_name": "Vorrei Un Aperitivo",
+    "brewery": "Métaphore",
+    "beer_type": "Wild Ale - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-06T19:00:11+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Vorrei Un Aperitivo",
+    "brewery": "Métaphore",
+    "beer_type": "Wild Ale - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-06T18:59:50+00:00",
+    "serving": "bottle",
+    "rating": 3.75,
+    "beer_name": "Vorrei Un Aperitivo",
+    "brewery": "Métaphore",
+    "beer_type": "Wild Ale - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-06T18:57:13+00:00",
+    "serving": "Unknown",
+    "rating": 4.25,
+    "beer_name": "Voor (2019)",
+    "brewery": "Tommie Sjef",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-06T18:55:58+00:00",
+    "serving": "bottle",
+    "rating": 4.0,
+    "beer_name": "Voor (2019)",
+    "brewery": "Tommie Sjef",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-06T18:53:32+00:00",
+    "serving": "bottle",
+    "rating": 3.8,
+    "beer_name": "Voor (2019)",
+    "brewery": "Tommie Sjef",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-06T18:53:24+00:00",
+    "serving": "bottle",
+    "rating": 4.25,
+    "beer_name": "Voor (2019)",
+    "brewery": "Tommie Sjef",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-06T18:51:09+00:00",
+    "serving": "bottle",
+    "rating": 4.25,
+    "beer_name": "Voor (2019)",
+    "brewery": "Tommie Sjef",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-06T18:49:04+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "L'Obscur (Amarone) (2020)",
+    "brewery": "Antidoot - Wilde Fermenten",
+    "beer_type": "Sour - Flanders Oud Bruin"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-06T18:48:15+00:00",
+    "serving": "bottle",
+    "rating": 4.0,
+    "beer_name": "L'Obscur (Amarone) (2020)",
+    "brewery": "Antidoot - Wilde Fermenten",
+    "beer_type": "Sour - Flanders Oud Bruin"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-06T18:48:00+00:00",
+    "serving": "bottle",
+    "rating": 3.75,
+    "beer_name": "L'Obscur (Amarone) (2020)",
+    "brewery": "Antidoot - Wilde Fermenten",
+    "beer_type": "Sour - Flanders Oud Bruin"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-06T18:47:50+00:00",
+    "serving": "bottle",
+    "rating": 3.75,
+    "beer_name": "L'Obscur (Amarone) (2020)",
+    "brewery": "Antidoot - Wilde Fermenten",
+    "beer_type": "Sour - Flanders Oud Bruin"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-06T18:47:19+00:00",
+    "serving": "bottle",
+    "rating": 3.7,
+    "beer_name": "L'Obscur (Amarone) (2019)",
+    "brewery": "Antidoot - Wilde Fermenten",
+    "beer_type": "Sour - Flanders Oud Bruin"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-06T18:46:07+00:00",
+    "serving": "bottle",
+    "rating": 4.0,
+    "beer_name": "L'Obscur (Amarone) (2020)",
+    "brewery": "Antidoot - Wilde Fermenten",
+    "beer_type": "Sour - Flanders Oud Bruin"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-06T18:44:00+00:00",
+    "serving": "draft",
+    "rating": 4.6,
+    "beer_name": "Quetsche Tilquin – Draft Version",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-06T18:41:29+00:00",
+    "serving": "draft",
+    "rating": 3.2,
+    "beer_name": "Coresh כורש",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Smoked Beer"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-06T17:59:07+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Hazy Queen - Peacherine Edition",
+    "brewery": "HORIZONT Brewing",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-01-06T17:20:46+00:00",
+    "serving": "draft",
+    "rating": 3.25,
+    "beer_name": "Anything Gose: Orange And Sage",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Sour - Fruited Gose"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-01-06T17:19:13+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Global Chillin'",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - Cold"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-01-06T17:18:05+00:00",
+    "serving": "draft",
+    "rating": 3.25,
+    "beer_name": "Kochav HaTzafon 2025 כוכב הצפון",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Winter Ale"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-06T16:47:06+00:00",
+    "serving": "draft",
+    "rating": 3.0,
+    "beer_name": "Buster's Cranberry Lemonade",
+    "brewery": "Oak & Ash",
+    "beer_type": "Malt Liquor"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-06T16:44:41+00:00",
+    "serving": "draft",
+    "rating": 2.5,
+    "beer_name": "Edelweiss Snowfresh / Wheat Beer",
+    "brewery": "Brau Union Österreich",
+    "beer_type": "Wheat Beer - Hefeweizen"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-06T16:44:20+00:00",
+    "serving": "draft",
+    "rating": 3.7,
+    "beer_name": "Flu Fighters",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pale Ale - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-06T16:44:06+00:00",
+    "serving": "draft",
+    "rating": 3.7,
+    "beer_name": "Anything Gose: Orange And Sage",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Sour - Fruited Gose"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-06T16:43:39+00:00",
+    "serving": "draft",
+    "rating": 4.5,
+    "beer_name": "Quetsche Tilquin – Draft Version",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-06T16:43:30+00:00",
+    "serving": "draft",
+    "rating": 3.7,
+    "beer_name": "Duvel 6,66%",
+    "brewery": "Duvel Moortgat",
+    "beer_type": "Belgian Blonde"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-06T16:43:13+00:00",
+    "serving": "draft",
+    "rating": 3.4,
+    "beer_name": "Fruity Mish Mash",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-06T16:42:40+00:00",
+    "serving": "draft",
+    "rating": 3.7,
+    "beer_name": "שוורצע",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - Black / Cascadian Dark Ale"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-06T16:42:19+00:00",
+    "serving": "draft",
+    "rating": 3.8,
+    "beer_name": "La Chouffe Blonde",
+    "brewery": "Brasserie d'Achouffe",
+    "beer_type": "Belgian Strong Golden Ale"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-06T16:42:01+00:00",
+    "serving": "draft",
+    "rating": 3.7,
+    "beer_name": "N'Ice Chouffe",
+    "brewery": "Brasserie d'Achouffe",
+    "beer_type": "Winter Ale"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-06T16:41:45+00:00",
+    "serving": "draft",
+    "rating": 3.6,
+    "beer_name": "צ׳ארלי המלך 2.0",
+    "brewery": "קישקשתא (Kishkashta)",
+    "beer_type": "Bitter - Extra Special / Strong (ESB)"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-06T16:41:24+00:00",
+    "serving": "draft",
+    "rating": 3.6,
+    "beer_name": "Benediktiner Hell",
+    "brewery": "Benediktiner Weissbräu",
+    "beer_type": "Lager - Helles"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-01-06T15:32:43+00:00",
+    "serving": "draft",
+    "rating": 4.75,
+    "beer_name": "Jaffa IPA",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-06T09:15:50+00:00",
+    "serving": "draft",
+    "rating": 2.25,
+    "beer_name": "Fruity Mish Mash",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-06T09:04:26+00:00",
+    "serving": "draft",
+    "rating": 1.75,
+    "beer_name": "N'Ice Chouffe",
+    "brewery": "Brasserie d'Achouffe",
+    "beer_type": "Winter Ale"
+  },
   {
     "venue": "lauter",
     "time": "2026-01-05T20:12:16+00:00",
@@ -9067,7 +10300,7 @@ const BEER_DATA = [
     "beer_type": "IPA - Belgian"
   },
   {
-    "venue": "schnitt-brewing-company",
+    "venue": "lauter",
     "time": "2025-12-14T20:46:46+00:00",
     "serving": "draft",
     "rating": 3.7,
@@ -9076,7 +10309,7 @@ const BEER_DATA = [
     "beer_type": "Porter - American"
   },
   {
-    "venue": "lauter",
+    "venue": "schnitt-brewing-company",
     "time": "2025-12-14T20:46:46+00:00",
     "serving": "draft",
     "rating": 3.7,
@@ -9241,19 +10474,19 @@ const BEER_DATA = [
     "venue": "b7-beer-house",
     "time": "2025-12-14T19:05:15+00:00",
     "serving": "can",
-    "rating": 3.75,
-    "beer_name": "Toasted Marshmallow Hazy IPA",
-    "brewery": "Urbanaut Brewing",
-    "beer_type": "IPA - New England / Hazy"
+    "rating": 3.6,
+    "beer_name": "Качок-Кабачок",
+    "brewery": "4BREWERS",
+    "beer_type": "Sour - Tomato / Vegetable Gose"
   },
   {
     "venue": "b7-beer-house",
     "time": "2025-12-14T19:05:15+00:00",
     "serving": "can",
-    "rating": 3.6,
-    "beer_name": "Качок-Кабачок",
-    "brewery": "4BREWERS",
-    "beer_type": "Sour - Tomato / Vegetable Gose"
+    "rating": 3.75,
+    "beer_name": "Toasted Marshmallow Hazy IPA",
+    "brewery": "Urbanaut Brewing",
+    "beer_type": "IPA - New England / Hazy"
   },
   {
     "venue": "lauter",
@@ -35581,15 +36814,6 @@ const BEER_DATA = [
     "beer_type": "IPA - American"
   },
   {
-    "venue": "lauter",
-    "time": "2025-10-19T19:17:21+00:00",
-    "serving": "bottle",
-    "rating": 3.25,
-    "beer_name": "Bjorn's Beer",
-    "brewery": "Attali's Family Brewery",
-    "beer_type": "IPA - American"
-  },
-  {
     "venue": "schnitt-brewing-company",
     "time": "2025-10-19T19:17:21+00:00",
     "serving": "can",
@@ -35597,6 +36821,15 @@ const BEER_DATA = [
     "beer_name": "Plum Waffle",
     "brewery": "Duncan's Brewing",
     "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-19T19:17:21+00:00",
+    "serving": "bottle",
+    "rating": 3.25,
+    "beer_name": "Bjorn's Beer",
+    "brewery": "Attali's Family Brewery",
+    "beer_type": "IPA - American"
   },
   {
     "venue": "lauter",
@@ -56490,7 +57723,7 @@ const BEER_DATA = [
   {
     "venue": "lauter",
     "time": "2025-09-01T17:44:35+00:00",
-    "serving": "bottle",
+    "serving": "Unknown",
     "rating": 4.0,
     "beer_name": "Hops Don’t Lie",
     "brewery": "Thurø Bryghus",
@@ -56499,7 +57732,7 @@ const BEER_DATA = [
   {
     "venue": "lauter",
     "time": "2025-09-01T17:44:35+00:00",
-    "serving": "Unknown",
+    "serving": "bottle",
     "rating": 4.0,
     "beer_name": "Hops Don’t Lie",
     "brewery": "Thurø Bryghus",
@@ -61431,20 +62664,20 @@ const BEER_DATA = [
   {
     "venue": "b7-beer-house",
     "time": "2025-08-21T15:59:11+00:00",
-    "serving": "Unknown",
-    "rating": 4.0,
-    "beer_name": "Naughty & Nice - White Chocolate & Raspberry",
-    "brewery": "Vocation Brewery",
-    "beer_type": "Stout - White / Golden"
-  },
-  {
-    "venue": "b7-beer-house",
-    "time": "2025-08-21T15:59:11+00:00",
     "serving": "can",
     "rating": 3.8,
     "beer_name": "Peach Rings",
     "brewery": "Vault City Brewing",
     "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-21T15:59:11+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Naughty & Nice - White Chocolate & Raspberry",
+    "brewery": "Vocation Brewery",
+    "beer_type": "Stout - White / Golden"
   },
   {
     "venue": "b7-beer-house",
@@ -68622,8 +69855,8 @@ const BEER_DATA = [
   {
     "venue": "lauter",
     "time": "2025-08-05T18:49:38+00:00",
-    "serving": "can",
-    "rating": 4.0,
+    "serving": "Unknown",
+    "rating": 4.5,
     "beer_name": "Whakahoa",
     "brewery": "Factory Brewing",
     "beer_type": "IPA - Triple New England / Hazy"
@@ -68631,8 +69864,8 @@ const BEER_DATA = [
   {
     "venue": "lauter",
     "time": "2025-08-05T18:49:38+00:00",
-    "serving": "Unknown",
-    "rating": 4.5,
+    "serving": "can",
+    "rating": 4.0,
     "beer_name": "Whakahoa",
     "brewery": "Factory Brewing",
     "beer_type": "IPA - Triple New England / Hazy"
