@@ -1,8 +1,1358 @@
 // 🍺 BEER STATS DATA - Generated automatically
-// Last updated: 2026-01-13 06:46:58
-// Total records: 11051
+// Last updated: 2026-01-14 06:47:29
+// Total records: 11201
 
 const BEER_DATA = [
+  {
+    "venue": "lauter",
+    "time": "2026-01-13T21:17:26+00:00",
+    "serving": "can",
+    "rating": 3.7,
+    "beer_name": "Hadar הדר",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Wheat Beer - Witbier / Blanche"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-13T21:02:11+00:00",
+    "serving": "Unknown",
+    "rating": 5.0,
+    "beer_name": "Umbra",
+    "brewery": "Ophiussa",
+    "beer_type": "Stout - Imperial / Double Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-13T21:00:35+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Umbra",
+    "brewery": "Ophiussa",
+    "beer_type": "Stout - Imperial / Double Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-13T20:55:31+00:00",
+    "serving": "can",
+    "rating": 4.1,
+    "beer_name": "Cambios – Barrel-Aged Cuvee (2024)",
+    "brewery": "Fremont Brewing",
+    "beer_type": "Stout - Imperial / Double Oatmeal"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-13T20:54:51+00:00",
+    "serving": "can",
+    "rating": 4.1,
+    "beer_name": "Cambios – Barrel-Aged Cuvee (2024)",
+    "brewery": "Fremont Brewing",
+    "beer_type": "Stout - Imperial / Double Oatmeal"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-13T20:54:01+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "Cambios – Barrel-Aged Cuvee (2024)",
+    "brewery": "Fremont Brewing",
+    "beer_type": "Stout - Imperial / Double Oatmeal"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-13T20:52:39+00:00",
+    "serving": "Unknown",
+    "rating": 4.5,
+    "beer_name": "Cambios – Barrel-Aged Cuvee (2024)",
+    "brewery": "Fremont Brewing",
+    "beer_type": "Stout - Imperial / Double Oatmeal"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-13T20:51:31+00:00",
+    "serving": "can",
+    "rating": 5.0,
+    "beer_name": "Welcome To the Party",
+    "brewery": "One Drop Brewing Co",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-13T20:51:00+00:00",
+    "serving": "can",
+    "rating": 4.7,
+    "beer_name": "Welcome To the Party",
+    "brewery": "One Drop Brewing Co",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-13T20:50:33+00:00",
+    "serving": "can",
+    "rating": 3.8,
+    "beer_name": "Junina",
+    "brewery": "Tarin Cervejaria",
+    "beer_type": "IPA - Imperial / Double Milkshake"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-13T20:50:21+00:00",
+    "serving": "Unknown",
+    "rating": 4.25,
+    "beer_name": "Cambios – Barrel-Aged Cuvee (2024)",
+    "brewery": "Fremont Brewing",
+    "beer_type": "Stout - Imperial / Double Oatmeal"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-13T20:49:44+00:00",
+    "serving": "can",
+    "rating": 3.8,
+    "beer_name": "Junina",
+    "brewery": "Tarin Cervejaria",
+    "beer_type": "IPA - Imperial / Double Milkshake"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-13T20:47:04+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Welcome To the Party",
+    "brewery": "One Drop Brewing Co",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-13T20:46:02+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "Welcome To the Party",
+    "brewery": "One Drop Brewing Co",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-13T20:45:22+00:00",
+    "serving": "Unknown",
+    "rating": 4.75,
+    "beer_name": "Welcome To the Party",
+    "brewery": "One Drop Brewing Co",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-13T20:45:08+00:00",
+    "serving": "Unknown",
+    "rating": 4.5,
+    "beer_name": "Welcome To the Party",
+    "brewery": "One Drop Brewing Co",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-13T20:40:26+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Junina",
+    "brewery": "Tarin Cervejaria",
+    "beer_type": "IPA - Imperial / Double Milkshake"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-13T20:38:57+00:00",
+    "serving": "Unknown",
+    "rating": 4.5,
+    "beer_name": "Junina",
+    "brewery": "Tarin Cervejaria",
+    "beer_type": "IPA - Imperial / Double Milkshake"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-13T20:38:11+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "Junina",
+    "brewery": "Tarin Cervejaria",
+    "beer_type": "IPA - Imperial / Double Milkshake"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-13T20:37:26+00:00",
+    "serving": "Unknown",
+    "rating": 3.25,
+    "beer_name": "Junina",
+    "brewery": "Tarin Cervejaria",
+    "beer_type": "IPA - Imperial / Double Milkshake"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-01-13T20:34:02+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Jaffa IPA",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-13T20:31:46+00:00",
+    "serving": "can",
+    "rating": 4.2,
+    "beer_name": "Spicy Tomato Gose",
+    "brewery": "Fire Bat Brewing Co.",
+    "beer_type": "Sour - Other Gose"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-13T20:30:36+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Spicy Tomato Gose",
+    "brewery": "Fire Bat Brewing Co.",
+    "beer_type": "Sour - Other Gose"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-13T20:29:34+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Spicy Tomato Gose",
+    "brewery": "Fire Bat Brewing Co.",
+    "beer_type": "Sour - Other Gose"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-13T20:29:08+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "Spicy Tomato Gose",
+    "brewery": "Fire Bat Brewing Co.",
+    "beer_type": "Sour - Other Gose"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-13T20:28:27+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "Spicy Tomato Gose",
+    "brewery": "Fire Bat Brewing Co.",
+    "beer_type": "Sour - Other Gose"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-13T20:25:57+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Spicy Tomato Gose",
+    "brewery": "Fire Bat Brewing Co.",
+    "beer_type": "Sour - Other Gose"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-13T20:24:20+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Brut IPA",
+    "brewery": "Pravda Brewery",
+    "beer_type": "IPA - Brut"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-13T20:23:52+00:00",
+    "serving": "Unknown",
+    "rating": 3.0,
+    "beer_name": "Brut IPA",
+    "brewery": "Pravda Brewery",
+    "beer_type": "IPA - Brut"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-13T20:23:03+00:00",
+    "serving": "can",
+    "rating": 2.8,
+    "beer_name": "Brut IPA",
+    "brewery": "Pravda Brewery",
+    "beer_type": "IPA - Brut"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-13T20:22:23+00:00",
+    "serving": "can",
+    "rating": 3.2,
+    "beer_name": "Brut IPA",
+    "brewery": "Pravda Brewery",
+    "beer_type": "IPA - Brut"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-13T20:21:52+00:00",
+    "serving": "Unknown",
+    "rating": 3.25,
+    "beer_name": "Brut IPA",
+    "brewery": "Pravda Brewery",
+    "beer_type": "IPA - Brut"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-13T20:20:01+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "Brut IPA",
+    "brewery": "Pravda Brewery",
+    "beer_type": "IPA - Brut"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-13T20:18:06+00:00",
+    "serving": "can",
+    "rating": 4.6,
+    "beer_name": "Многоборье",
+    "brewery": "4BREWERS",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-13T20:17:44+00:00",
+    "serving": "can",
+    "rating": 4.5,
+    "beer_name": "Многоборье",
+    "brewery": "4BREWERS",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-13T20:16:29+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "8 Year Anniversary Quintuple Dry Hopped QIPA",
+    "brewery": "Ārpus Brewing Co.",
+    "beer_type": "IPA - Quadruple"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-13T20:16:04+00:00",
+    "serving": "Unknown",
+    "rating": 4.25,
+    "beer_name": "Многоборье",
+    "brewery": "4BREWERS",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-13T20:16:02+00:00",
+    "serving": "Unknown",
+    "rating": 4.5,
+    "beer_name": "Многоборье",
+    "brewery": "4BREWERS",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-13T20:15:20+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Многоборье",
+    "brewery": "4BREWERS",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-13T20:12:13+00:00",
+    "serving": "Unknown",
+    "rating": 4.25,
+    "beer_name": "Многоборье",
+    "brewery": "4BREWERS",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-13T20:09:33+00:00",
+    "serving": "can",
+    "rating": 3.6,
+    "beer_name": "Golden Ratio",
+    "brewery": "Boombox Brewing Company",
+    "beer_type": "IPA - Triple New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-13T20:09:24+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "N'Ice Chouffe",
+    "brewery": "Brasserie d'Achouffe",
+    "beer_type": "Winter Ale"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-13T20:08:36+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Golden Ratio",
+    "brewery": "Boombox Brewing Company",
+    "beer_type": "IPA - Triple New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-13T20:07:16+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "8 Year Anniversary Quintuple Dry Hopped QIPA",
+    "brewery": "Ārpus Brewing Co.",
+    "beer_type": "IPA - Quadruple"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-13T20:06:30+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "8 Year Anniversary Quintuple Dry Hopped QIPA",
+    "brewery": "Ārpus Brewing Co.",
+    "beer_type": "IPA - Quadruple"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-13T20:05:23+00:00",
+    "serving": "Unknown",
+    "rating": 4.25,
+    "beer_name": "Golden Ratio",
+    "brewery": "Boombox Brewing Company",
+    "beer_type": "IPA - Triple New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-13T20:04:58+00:00",
+    "serving": "Unknown",
+    "rating": 4.5,
+    "beer_name": "8 Year Anniversary Quintuple Dry Hopped QIPA",
+    "brewery": "Ārpus Brewing Co.",
+    "beer_type": "IPA - Quadruple"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-13T20:02:25+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Golden Ratio",
+    "brewery": "Boombox Brewing Company",
+    "beer_type": "IPA - Triple New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-13T20:02:24+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "Golden Ratio",
+    "brewery": "Boombox Brewing Company",
+    "beer_type": "IPA - Triple New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-13T19:59:31+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "Golden Ratio",
+    "brewery": "Boombox Brewing Company",
+    "beer_type": "IPA - Triple New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-13T19:55:39+00:00",
+    "serving": "can",
+    "rating": 4.3,
+    "beer_name": "Le Seul VII (Mango)",
+    "brewery": "Une Année Brewery",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-13T19:55:30+00:00",
+    "serving": "can",
+    "rating": 4.3,
+    "beer_name": "Le Seul VII (Mango)",
+    "brewery": "Une Année Brewery",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-13T19:53:25+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Le Seul VII (Mango)",
+    "brewery": "Une Année Brewery",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-13T19:52:53+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "Le Seul VII (Mango)",
+    "brewery": "Une Année Brewery",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-13T19:52:18+00:00",
+    "serving": "draft",
+    "rating": 4.2,
+    "beer_name": "Crazy Hazy",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-13T19:51:47+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "Le Seul VII (Mango)",
+    "brewery": "Une Année Brewery",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-13T19:48:52+00:00",
+    "serving": "Unknown",
+    "rating": 4.25,
+    "beer_name": "Le Seul VII (Mango)",
+    "brewery": "Une Année Brewery",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-13T19:48:37+00:00",
+    "serving": "bottle",
+    "rating": 3.3,
+    "beer_name": "Porter's 7 Seas",
+    "brewery": "Thurø Bryghus",
+    "beer_type": "Porter - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-13T19:48:26+00:00",
+    "serving": "can",
+    "rating": 3.8,
+    "beer_name": "RAKAU ORCHARD",
+    "brewery": "Hopalaa",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-13T19:48:02+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "RAKAU ORCHARD",
+    "brewery": "Hopalaa",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-13T19:47:40+00:00",
+    "serving": "can",
+    "rating": 3.8,
+    "beer_name": "RAKAU ORCHARD",
+    "brewery": "Hopalaa",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-13T19:47:27+00:00",
+    "serving": "Unknown",
+    "rating": 3.3,
+    "beer_name": "Porter's 7 Seas",
+    "brewery": "Thurø Bryghus",
+    "beer_type": "Porter - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-13T19:46:46+00:00",
+    "serving": "can",
+    "rating": 3.9,
+    "beer_name": "Greener Grass",
+    "brewery": "Dois Corvos",
+    "beer_type": "IPA - Imperial / Double New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-13T19:46:31+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "RAKAU ORCHARD",
+    "brewery": "Hopalaa",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-13T19:45:58+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "RAKAU ORCHARD",
+    "brewery": "Hopalaa",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-13T19:45:54+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "RAKAU ORCHARD",
+    "brewery": "Hopalaa",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-13T19:39:42+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "Porter's 7 Seas",
+    "brewery": "Thurø Bryghus",
+    "beer_type": "Porter - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-13T19:39:40+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Porter's 7 Seas",
+    "brewery": "Thurø Bryghus",
+    "beer_type": "Porter - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-13T19:38:21+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Greener Grass",
+    "brewery": "Dois Corvos",
+    "beer_type": "IPA - Imperial / Double New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-13T19:38:19+00:00",
+    "serving": "Unknown",
+    "rating": 4.5,
+    "beer_name": "Porter's 7 Seas",
+    "brewery": "Thurø Bryghus",
+    "beer_type": "Porter - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-13T19:37:17+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "Porter's 7 Seas",
+    "brewery": "Thurø Bryghus",
+    "beer_type": "Porter - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-13T19:35:23+00:00",
+    "serving": "can",
+    "rating": 4.1,
+    "beer_name": "Greener Grass",
+    "brewery": "Dois Corvos",
+    "beer_type": "IPA - Imperial / Double New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-13T19:34:23+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Greener Grass",
+    "brewery": "Dois Corvos",
+    "beer_type": "IPA - Imperial / Double New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-13T19:34:16+00:00",
+    "serving": "can",
+    "rating": 4.1,
+    "beer_name": "Forester",
+    "brewery": "Plague Brew",
+    "beer_type": "Sour - Other Gose"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-13T19:32:59+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "Greener Grass",
+    "brewery": "Dois Corvos",
+    "beer_type": "IPA - Imperial / Double New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-13T19:31:40+00:00",
+    "serving": "Unknown",
+    "rating": 3.25,
+    "beer_name": "Greener Grass",
+    "brewery": "Dois Corvos",
+    "beer_type": "IPA - Imperial / Double New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-13T19:30:58+00:00",
+    "serving": "can",
+    "rating": 3.8,
+    "beer_name": "Forester",
+    "brewery": "Plague Brew",
+    "beer_type": "Sour - Other Gose"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-13T19:30:53+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Forester",
+    "brewery": "Plague Brew",
+    "beer_type": "Sour - Other Gose"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-01-13T19:30:47+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Orly Cactus Sour",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-01-13T19:29:33+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Hop 4ward",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-13T19:25:35+00:00",
+    "serving": "Unknown",
+    "rating": 2.0,
+    "beer_name": "Forester",
+    "brewery": "Plague Brew",
+    "beer_type": "Sour - Other Gose"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-13T19:25:08+00:00",
+    "serving": "Unknown",
+    "rating": 2.75,
+    "beer_name": "Forester",
+    "brewery": "Plague Brew",
+    "beer_type": "Sour - Other Gose"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-13T19:21:27+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Forester",
+    "brewery": "Plague Brew",
+    "beer_type": "Sour - Other Gose"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-13T19:18:23+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Stan Umysłu 2025 (Owsianego Rodzaju)",
+    "brewery": "Ziemia Obiecana",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-13T19:17:58+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Stan Umysłu 2025 (Owsianego Rodzaju)",
+    "brewery": "Ziemia Obiecana",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-13T19:17:16+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "Stan Umysłu 2025 (Owsianego Rodzaju)",
+    "brewery": "Ziemia Obiecana",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-13T19:16:13+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Stan Umysłu 2025 (Owsianego Rodzaju)",
+    "brewery": "Ziemia Obiecana",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-13T19:16:06+00:00",
+    "serving": "Unknown",
+    "rating": 4.5,
+    "beer_name": "Stan Umysłu 2025 (Owsianego Rodzaju)",
+    "brewery": "Ziemia Obiecana",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-13T19:14:56+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Stan Umysłu 2025 (Owsianego Rodzaju)",
+    "brewery": "Ziemia Obiecana",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-13T19:12:19+00:00",
+    "serving": "can",
+    "rating": 4.3,
+    "beer_name": "Hard Ticket To Riga",
+    "brewery": "Xül Beer Company",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-13T19:12:15+00:00",
+    "serving": "can",
+    "rating": 4.5,
+    "beer_name": "Hard Ticket To Riga",
+    "brewery": "Xül Beer Company",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-13T19:10:02+00:00",
+    "serving": "Unknown",
+    "rating": 4.5,
+    "beer_name": "Hard Ticket To Riga",
+    "brewery": "Xül Beer Company",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-13T19:08:05+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Hard Ticket To Riga",
+    "brewery": "Xül Beer Company",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-13T19:07:33+00:00",
+    "serving": "Unknown",
+    "rating": 2.75,
+    "beer_name": "Hard Ticket To Riga",
+    "brewery": "Xül Beer Company",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-13T19:05:50+00:00",
+    "serving": "Unknown",
+    "rating": 4.5,
+    "beer_name": "Hard Ticket To Riga",
+    "brewery": "Xül Beer Company",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-13T19:03:43+00:00",
+    "serving": "can",
+    "rating": 4.4,
+    "beer_name": "Bloody Roots",
+    "brewery": "COVEN BREWERY",
+    "beer_type": "Sour - Tomato / Vegetable Gose"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-13T19:03:25+00:00",
+    "serving": "Unknown",
+    "rating": 3.25,
+    "beer_name": "Smoked Bloody Roots",
+    "brewery": "COVEN BREWERY",
+    "beer_type": "Sour - Other Gose"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-13T19:02:50+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Bloody Roots",
+    "brewery": "COVEN BREWERY",
+    "beer_type": "Sour - Tomato / Vegetable Gose"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-13T19:02:26+00:00",
+    "serving": "Unknown",
+    "rating": 4.25,
+    "beer_name": "Bloody Roots",
+    "brewery": "COVEN BREWERY",
+    "beer_type": "Sour - Tomato / Vegetable Gose"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-13T19:02:18+00:00",
+    "serving": "can",
+    "rating": 4.3,
+    "beer_name": "SPF 88",
+    "brewery": "Eighty-Eight Brewing Co.",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-13T19:01:26+00:00",
+    "serving": "can",
+    "rating": 4.2,
+    "beer_name": "Bloody Roots",
+    "brewery": "COVEN BREWERY",
+    "beer_type": "Sour - Tomato / Vegetable Gose"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-13T19:00:35+00:00",
+    "serving": "can",
+    "rating": 4.6,
+    "beer_name": "Orion",
+    "brewery": "Ophiussa",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-13T18:58:15+00:00",
+    "serving": "can",
+    "rating": 4.7,
+    "beer_name": "Orion",
+    "brewery": "Ophiussa",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-13T18:58:01+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Bloody Roots",
+    "brewery": "COVEN BREWERY",
+    "beer_type": "Sour - Tomato / Vegetable Gose"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-13T18:57:02+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Lab Rat - Key Lime Pie Sour",
+    "brewery": "Ossett Brewery",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-13T18:54:21+00:00",
+    "serving": "Unknown",
+    "rating": 4.5,
+    "beer_name": "Orion",
+    "brewery": "Ophiussa",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-13T18:53:40+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "Orion",
+    "brewery": "Ophiussa",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-13T18:52:54+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Orion",
+    "brewery": "Ophiussa",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-13T18:52:02+00:00",
+    "serving": "Unknown",
+    "rating": 4.5,
+    "beer_name": "Orion",
+    "brewery": "Ophiussa",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-13T18:48:20+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "SPF 88",
+    "brewery": "Eighty-Eight Brewing Co.",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-01-13T18:47:55+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Crazy Hazy",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-13T18:47:07+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "SPF 88",
+    "brewery": "Eighty-Eight Brewing Co.",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-13T18:46:21+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "SPF 88",
+    "brewery": "Eighty-Eight Brewing Co.",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-13T18:45:42+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "SPF 88",
+    "brewery": "Eighty-Eight Brewing Co.",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-13T18:44:50+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "SPF 88",
+    "brewery": "Eighty-Eight Brewing Co.",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-13T18:41:28+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "Lab Rat - Key Lime Pie Sour",
+    "brewery": "Ossett Brewery",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-13T18:40:45+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "Lab Rat - Key Lime Pie Sour",
+    "brewery": "Ossett Brewery",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-13T18:40:31+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Lab Rat - Key Lime Pie Sour",
+    "brewery": "Ossett Brewery",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-13T18:40:11+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Lab Rat - Key Lime Pie Sour",
+    "brewery": "Ossett Brewery",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-13T18:39:01+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "Lab Rat - Key Lime Pie Sour",
+    "brewery": "Ossett Brewery",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-13T18:35:25+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Pikrissa American IPA",
+    "brewery": "Crossline Brewing",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-13T18:34:32+00:00",
+    "serving": "Unknown",
+    "rating": 3.0,
+    "beer_name": "Pikrissa American IPA",
+    "brewery": "Crossline Brewing",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-13T18:34:17+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Pikrissa American IPA",
+    "brewery": "Crossline Brewing",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-13T18:34:01+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "Pikrissa American IPA",
+    "brewery": "Crossline Brewing",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-13T18:33:47+00:00",
+    "serving": "can",
+    "rating": 3.6,
+    "beer_name": "Pikrissa American IPA",
+    "brewery": "Crossline Brewing",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-13T18:32:52+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "Pikrissa American IPA",
+    "brewery": "Crossline Brewing",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-13T18:27:39+00:00",
+    "serving": "can",
+    "rating": 3.8,
+    "beer_name": "New Zealand Session Pale Ale",
+    "brewery": "Golem Brewhouse",
+    "beer_type": "Pale Ale - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-13T18:27:34+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "New Zealand Session Pale Ale",
+    "brewery": "Golem Brewhouse",
+    "beer_type": "Pale Ale - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-13T18:27:26+00:00",
+    "serving": "can",
+    "rating": 3.6,
+    "beer_name": "New Zealand Session Pale Ale",
+    "brewery": "Golem Brewhouse",
+    "beer_type": "Pale Ale - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-13T18:27:09+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "New Zealand Session Pale Ale",
+    "brewery": "Golem Brewhouse",
+    "beer_type": "Pale Ale - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-13T18:26:41+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "New Zealand Session Pale Ale",
+    "brewery": "Golem Brewhouse",
+    "beer_type": "Pale Ale - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-13T18:26:01+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "961 Beer Red Ale",
+    "brewery": "Gravity Brewing Sal",
+    "beer_type": "Red Ale - American Amber / Red"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-13T18:25:50+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "New Zealand Session Pale Ale",
+    "brewery": "Golem Brewhouse",
+    "beer_type": "Pale Ale - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-13T18:22:27+00:00",
+    "serving": "bottle",
+    "rating": null,
+    "beer_name": "961 Beer Red Ale",
+    "brewery": "Gravity Brewing Sal",
+    "beer_type": "Red Ale - American Amber / Red"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-13T18:22:17+00:00",
+    "serving": "Unknown",
+    "rating": 2.5,
+    "beer_name": "961 Beer Red Ale",
+    "brewery": "Gravity Brewing Sal",
+    "beer_type": "Red Ale - American Amber / Red"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-13T18:21:56+00:00",
+    "serving": "bottle",
+    "rating": 2.5,
+    "beer_name": "961 Beer Red Ale",
+    "brewery": "Gravity Brewing Sal",
+    "beer_type": "Red Ale - American Amber / Red"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-13T18:21:38+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "961 Beer Red Ale",
+    "brewery": "Gravity Brewing Sal",
+    "beer_type": "Red Ale - American Amber / Red"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-13T18:20:09+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "961 Beer Red Ale",
+    "brewery": "Gravity Brewing Sal",
+    "beer_type": "Red Ale - American Amber / Red"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-13T17:58:50+00:00",
+    "serving": "draft",
+    "rating": 4.5,
+    "beer_name": "Quetsche Tilquin – Draft Version",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-13T17:53:41+00:00",
+    "serving": "draft",
+    "rating": null,
+    "beer_name": "צ׳ארלי המלך 2.0",
+    "brewery": "קישקשתא (Kishkashta)",
+    "beer_type": "Bitter - Extra Special / Strong (ESB)"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-13T17:51:15+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Bush.",
+    "brewery": "Moon Lark Brewery",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-13T17:46:01+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Abt 12",
+    "brewery": "Brouwerij St.Bernardus",
+    "beer_type": "Belgian Quadrupel"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-13T14:38:18+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Bush.",
+    "brewery": "Moon Lark Brewery",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-01-13T14:07:27+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "Weissman",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Wheat Beer - Hefeweizen"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-01-13T14:02:29+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "Wolfgang",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Lager - Vienna"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-01-13T14:01:46+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "Crazy Hazy",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-01-13T13:11:14+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "Weissman",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Wheat Beer - Hefeweizen"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-01-13T13:11:05+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "Citra Achra סיטרה אחרא",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - Other"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-01-13T11:34:18+00:00",
+    "serving": "bottle",
+    "rating": 3.5,
+    "beer_name": "IPA Craft Beer",
+    "brewery": "HaGibor Brewery (מבשלת הגיבור)",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-01-13T11:31:15+00:00",
+    "serving": "bottle",
+    "rating": 3.3,
+    "beer_name": "חווה / הגיבורות",
+    "brewery": "HaGibor Brewery (מבשלת הגיבור)",
+    "beer_type": "Lager - Other"
+  },
   {
     "venue": "schnitt-brewing-company",
     "time": "2026-01-12T22:33:03+00:00",
@@ -65175,8 +66525,8 @@ const BEER_DATA = [
   {
     "venue": "b7-beer-house",
     "time": "2025-08-21T16:02:37+00:00",
-    "serving": "can",
-    "rating": 3.5,
+    "serving": "Unknown",
+    "rating": 3.75,
     "beer_name": "Nitro Mini M*rs",
     "brewery": "Vault City Brewing",
     "beer_type": "Stout - Pastry"
@@ -65184,8 +66534,8 @@ const BEER_DATA = [
   {
     "venue": "b7-beer-house",
     "time": "2025-08-21T16:02:37+00:00",
-    "serving": "Unknown",
-    "rating": 3.75,
+    "serving": "can",
+    "rating": 3.5,
     "beer_name": "Nitro Mini M*rs",
     "brewery": "Vault City Brewing",
     "beer_type": "Stout - Pastry"
@@ -72177,8 +73527,8 @@ const BEER_DATA = [
   {
     "venue": "lauter",
     "time": "2025-08-05T19:24:07+00:00",
-    "serving": "can",
-    "rating": 4.5,
+    "serving": "Unknown",
+    "rating": null,
     "beer_name": "SLUSHY XL: Haha!",
     "brewery": "450 North Brewing Company",
     "beer_type": "Sour - Smoothie / Pastry"
@@ -72186,8 +73536,8 @@ const BEER_DATA = [
   {
     "venue": "lauter",
     "time": "2025-08-05T19:24:07+00:00",
-    "serving": "Unknown",
-    "rating": null,
+    "serving": "can",
+    "rating": 4.5,
     "beer_name": "SLUSHY XL: Haha!",
     "brewery": "450 North Brewing Company",
     "beer_type": "Sour - Smoothie / Pastry"
@@ -79548,20 +80898,20 @@ const BEER_DATA = [
   {
     "venue": "lauter",
     "time": "2025-07-26T15:22:08+00:00",
-    "serving": "Unknown",
-    "rating": 4.0,
-    "beer_name": "Pijże",
-    "brewery": "Nepo Brewing",
-    "beer_type": "Pale Ale - New England / Hazy"
-  },
-  {
-    "venue": "lauter",
-    "time": "2025-07-26T15:22:08+00:00",
     "serving": "can",
     "rating": 4.2,
     "beer_name": "Smoothie Bowl: Pistachio Fluff",
     "brewery": "Nepo Brewing",
     "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-07-26T15:22:08+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Pijże",
+    "brewery": "Nepo Brewing",
+    "beer_type": "Pale Ale - New England / Hazy"
   },
   {
     "venue": "lauter",
@@ -80593,19 +81943,19 @@ const BEER_DATA = [
     "venue": "lauter",
     "time": "2025-07-25T18:15:23+00:00",
     "serving": "draft",
-    "rating": 4.0,
-    "beer_name": "Cuvée Saint-Gilloise 2023 - Draft Version",
+    "rating": 4.8,
+    "beer_name": "Fou' Foune 2023 - Draft Version",
     "brewery": "Brasserie Cantillon",
-    "beer_type": "Lambic - Traditional"
+    "beer_type": "Lambic - Fruit"
   },
   {
     "venue": "lauter",
     "time": "2025-07-25T18:15:23+00:00",
     "serving": "draft",
-    "rating": 4.8,
-    "beer_name": "Fou' Foune 2023 - Draft Version",
+    "rating": 4.0,
+    "beer_name": "Cuvée Saint-Gilloise 2023 - Draft Version",
     "brewery": "Brasserie Cantillon",
-    "beer_type": "Lambic - Fruit"
+    "beer_type": "Lambic - Traditional"
   },
   {
     "venue": "lauter",
@@ -96441,8 +97791,8 @@ const BEER_DATA = [
   {
     "venue": "berlin-florentin",
     "time": "2024-01-22T18:42:20+00:00",
-    "serving": "can",
-    "rating": 4.0,
+    "serving": "Unknown",
+    "rating": null,
     "beer_name": "200 Units",
     "brewery": "Brewski",
     "beer_type": "Barleywine - English"
@@ -96450,8 +97800,8 @@ const BEER_DATA = [
   {
     "venue": "berlin-florentin",
     "time": "2024-01-22T18:42:20+00:00",
-    "serving": "Unknown",
-    "rating": null,
+    "serving": "can",
+    "rating": 4.0,
     "beer_name": "200 Units",
     "brewery": "Brewski",
     "beer_type": "Barleywine - English"
