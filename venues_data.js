@@ -1,8 +1,395 @@
 // 🍺 BEER STATS DATA - Generated automatically
-// Last updated: 2026-01-15 06:46:18
-// Total records: 11217
+// Last updated: 2026-01-16 06:46:26
+// Total records: 11260
 
 const BEER_DATA = [
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-01-15T21:27:04+00:00",
+    "serving": "can",
+    "rating": null,
+    "beer_name": "Hadar הדר",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Wheat Beer - Witbier / Blanche"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-15T21:07:41+00:00",
+    "serving": "Unknown",
+    "rating": 4.5,
+    "beer_name": "Midnight Snack",
+    "brewery": "LERVIG",
+    "beer_type": "Stout - Imperial / Double Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-15T20:36:35+00:00",
+    "serving": "draft",
+    "rating": 3.6,
+    "beer_name": "Brut",
+    "brewery": "Isis Desert Brewery (מבשלת הנגב המערבי)",
+    "beer_type": "Bière de Champagne / Bière Brut"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-01-15T20:14:32+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Grodziskie",
+    "brewery": "Sheeta Brewery (בירה שיטה)",
+    "beer_type": "Grodziskie / Grätzer"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-01-15T20:13:12+00:00",
+    "serving": "can",
+    "rating": 3.9,
+    "beer_name": "Grodziskie",
+    "brewery": "Sheeta Brewery (בירה שיטה)",
+    "beer_type": "Grodziskie / Grätzer"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-15T20:09:27+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Porter&Sons: Amarena Cherry",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Porter - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-15T20:06:21+00:00",
+    "serving": "can",
+    "rating": 4.5,
+    "beer_name": "Five Dollar Sub",
+    "brewery": "Garage Beer Co.",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-15T20:05:14+00:00",
+    "serving": "can",
+    "rating": null,
+    "beer_name": "Five Dollar Sub",
+    "brewery": "Garage Beer Co.",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-01-15T19:55:04+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Triple Cream Milk Stout",
+    "brewery": "Cassels Brewing Co.",
+    "beer_type": "Stout - Imperial / Double Milk"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-01-15T19:52:28+00:00",
+    "serving": "can",
+    "rating": 3.7,
+    "beer_name": "Triple Cream Milk Stout",
+    "brewery": "Cassels Brewing Co.",
+    "beer_type": "Stout - Imperial / Double Milk"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-15T19:52:26+00:00",
+    "serving": "Unknown",
+    "rating": 3.25,
+    "beer_name": "Brut",
+    "brewery": "Isis Desert Brewery (מבשלת הנגב המערבי)",
+    "beer_type": "Bière de Champagne / Bière Brut"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-15T19:52:03+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "סיידר תפוחים אלכוהולי חצי יבש",
+    "brewery": "Hamatsesa (המתססה)",
+    "beer_type": "Cider - Traditional / Apfelwein"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-01-15T19:48:12+00:00",
+    "serving": "can",
+    "rating": 4.5,
+    "beer_name": "Hydra | Luck",
+    "brewery": "Mortalis Brewing Company",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-01-15T19:44:45+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Hydra | Luck",
+    "brewery": "Mortalis Brewing Company",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-01-15T19:39:08+00:00",
+    "serving": "can",
+    "rating": 4.3,
+    "beer_name": "Subsurface (PULP • w. Arpus)",
+    "brewery": "Elmeleven",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-01-15T19:39:00+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Krahulík 11",
+    "brewery": "Rodinný pivovar Zichovec",
+    "beer_type": "Pilsner - Czech / Bohemian"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-01-15T19:27:43+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "To Central With Love Pinot Noir Wild Ale",
+    "brewery": "Canyon Brewing",
+    "beer_type": "Wild Ale - Other"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-01-15T19:26:22+00:00",
+    "serving": "can",
+    "rating": 3.4,
+    "beer_name": "To Central With Love Pinot Noir Wild Ale",
+    "brewery": "Canyon Brewing",
+    "beer_type": "Wild Ale - Other"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-01-15T19:20:39+00:00",
+    "serving": "can",
+    "rating": 4.4,
+    "beer_name": "Blackberry & Black Currant Bochet",
+    "brewery": "Steppe & Wind Meadery (Степь и Ветер)",
+    "beer_type": "Mead - Bochet"
+  },
+  {
+    "venue": "beerline",
+    "time": "2026-01-15T19:12:34+00:00",
+    "serving": "draft",
+    "rating": 4.75,
+    "beer_name": "Delirium Red",
+    "brewery": "Delirium - Huyghe Brewery",
+    "beer_type": "Fruit Beer"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-01-15T19:09:46+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Llamageddon",
+    "brewery": "Blech.Brut",
+    "beer_type": "IPA - New Zealand"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-01-15T19:07:46+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Crazy Hazy",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-01-15T19:05:54+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Krahulík 11",
+    "brewery": "Rodinný pivovar Zichovec",
+    "beer_type": "Pilsner - Czech / Bohemian"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-15T19:05:15+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Sim Sima",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - Imperial / Double"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-01-15T18:57:36+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Mind Your Unwind",
+    "brewery": "Toppling Goliath Brewing Co.",
+    "beer_type": "IPA - Imperial / Double"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-01-15T18:57:20+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "Krahulík 11",
+    "brewery": "Rodinný pivovar Zichovec",
+    "beer_type": "Pilsner - Czech / Bohemian"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-01-15T18:55:36+00:00",
+    "serving": "can",
+    "rating": 3.8,
+    "beer_name": "Fluff Stuff - Pineapple",
+    "brewery": "Drekker Brewing Company",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-01-15T18:53:16+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "Imperial Oyster Stout (2025)",
+    "brewery": "Three Boys Brewery",
+    "beer_type": "Stout - Oyster"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-01-15T18:50:52+00:00",
+    "serving": "bottle",
+    "rating": 3.5,
+    "beer_name": "Imperial Oyster Stout (2025)",
+    "brewery": "Three Boys Brewery",
+    "beer_type": "Stout - Oyster"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-01-15T18:50:46+00:00",
+    "serving": "can",
+    "rating": 3.25,
+    "beer_name": "Sea Buckthorn Ginger Gose 11",
+    "brewery": "Rodinný pivovar Zichovec",
+    "beer_type": "Sour - Other Gose"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-01-15T18:49:14+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Jam Donut Hazy IPA 2024",
+    "brewery": "Urbanaut Brewing",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-01-15T18:48:25+00:00",
+    "serving": "can",
+    "rating": 3.7,
+    "beer_name": "Mind Your Unwind",
+    "brewery": "Toppling Goliath Brewing Co.",
+    "beer_type": "IPA - Imperial / Double"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-01-15T18:47:38+00:00",
+    "serving": "can",
+    "rating": 3.2,
+    "beer_name": "Jam Donut Hazy IPA 2024",
+    "brewery": "Urbanaut Brewing",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-01-15T17:49:05+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Crazy Hazy",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-15T15:17:22+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "Bush.",
+    "brewery": "Moon Lark Brewery",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-01-15T15:01:44+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Hop 4ward",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-01-15T15:00:51+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Crazy Hazy",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-01-15T14:25:05+00:00",
+    "serving": "draft",
+    "rating": 4.3,
+    "beer_name": "Krahulík 11",
+    "brewery": "Rodinný pivovar Zichovec",
+    "beer_type": "Pilsner - Czech / Bohemian"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-01-15T13:16:17+00:00",
+    "serving": "draft",
+    "rating": 3.8,
+    "beer_name": "Krahulík 11",
+    "brewery": "Rodinný pivovar Zichovec",
+    "beer_type": "Pilsner - Czech / Bohemian"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-01-15T12:41:08+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Lazy Bee Classic",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Mead - Session / Short"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-01-15T12:40:24+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "It Is What It Is",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Blonde / Golden Ale - Other"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-01-15T12:39:44+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Lazy Bee Hibiscus And Raspberries",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Mead - Session / Short"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-01-15T12:38:53+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Kelly's Green Pony",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
   {
     "venue": "lauter",
     "time": "2026-01-14T22:39:57+00:00",
@@ -25541,18 +25928,18 @@ const BEER_DATA = [
     "time": "2025-11-21T10:35:21+00:00",
     "serving": "bottle",
     "rating": 4.25,
-    "beer_name": "Rullquin au café du Rwanda",
-    "brewery": "Gueuzerie Tilquin",
-    "beer_type": "Sour - Other"
+    "beer_name": "Grapefruit Peel Lambiek - Sparkling Infused",
+    "brewery": "Oud Beersel",
+    "beer_type": "Lambic - Other"
   },
   {
     "venue": "b7-beer-house",
     "time": "2025-11-21T10:35:21+00:00",
     "serving": "bottle",
     "rating": 4.25,
-    "beer_name": "Grapefruit Peel Lambiek - Sparkling Infused",
-    "brewery": "Oud Beersel",
-    "beer_type": "Lambic - Other"
+    "beer_name": "Rullquin au café du Rwanda",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": "Sour - Other"
   },
   {
     "venue": "b7-beer-house",
@@ -61836,7 +62223,7 @@ const BEER_DATA = [
   {
     "venue": "lauter",
     "time": "2025-09-01T17:44:35+00:00",
-    "serving": "Unknown",
+    "serving": "bottle",
     "rating": 4.0,
     "beer_name": "Hops Don’t Lie",
     "brewery": "Thurø Bryghus",
@@ -61845,7 +62232,7 @@ const BEER_DATA = [
   {
     "venue": "lauter",
     "time": "2025-09-01T17:44:35+00:00",
-    "serving": "bottle",
+    "serving": "Unknown",
     "rating": 4.0,
     "beer_name": "Hops Don’t Lie",
     "brewery": "Thurø Bryghus",
@@ -66721,15 +67108,6 @@ const BEER_DATA = [
     "beer_type": "Stout - White / Golden"
   },
   {
-    "venue": "lauter",
-    "time": "2025-08-21T16:00:28+00:00",
-    "serving": "draft",
-    "rating": 3.5,
-    "beer_name": "KRUSHED IT",
-    "brewery": "Oak & Ash",
-    "beer_type": "IPA - New England / Hazy"
-  },
-  {
     "venue": "b7-beer-house",
     "time": "2025-08-21T16:00:28+00:00",
     "serving": "can",
@@ -66737,6 +67115,15 @@ const BEER_DATA = [
     "beer_name": "Naughty & Nice - White Chocolate & Raspberry",
     "brewery": "Vocation Brewery",
     "beer_type": "Stout - White / Golden"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-21T16:00:28+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "KRUSHED IT",
+    "brewery": "Oak & Ash",
+    "beer_type": "IPA - New England / Hazy"
   },
   {
     "venue": "b7-beer-house",
@@ -97935,8 +98322,8 @@ const BEER_DATA = [
   {
     "venue": "berlin-florentin",
     "time": "2024-01-22T18:42:20+00:00",
-    "serving": "can",
-    "rating": 4.0,
+    "serving": "Unknown",
+    "rating": null,
     "beer_name": "200 Units",
     "brewery": "Brewski",
     "beer_type": "Barleywine - English"
@@ -97944,8 +98331,8 @@ const BEER_DATA = [
   {
     "venue": "berlin-florentin",
     "time": "2024-01-22T18:42:20+00:00",
-    "serving": "Unknown",
-    "rating": null,
+    "serving": "can",
+    "rating": 4.0,
     "beer_name": "200 Units",
     "brewery": "Brewski",
     "beer_type": "Barleywine - English"
