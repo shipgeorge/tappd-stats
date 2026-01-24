@@ -1,8 +1,440 @@
 // 🍺 BEER STATS DATA - Generated automatically
-// Last updated: 2026-01-23 06:48:24
-// Total records: 11910
+// Last updated: 2026-01-24 06:42:24
+// Total records: 11958
 
 const BEER_DATA = [
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-01-23T21:53:24+00:00",
+    "serving": "draft",
+    "rating": 4.5,
+    "beer_name": "I Am (Gruit IPA)",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Historical Beer - Gruit / Ancient Herbed Ale"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-01-23T21:51:21+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Stoutment",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Stout - Other"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-01-23T21:51:02+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "4 the Love of Fruit",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-01-23T21:50:34+00:00",
+    "serving": "bottle",
+    "rating": 3.5,
+    "beer_name": "La Trappe Epos 0.0%",
+    "brewery": "Bierbrouwerij De Koningshoeven",
+    "beer_type": "Non-Alcoholic - Blonde / Golden Ale"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-01-23T21:00:47+00:00",
+    "serving": "draft",
+    "rating": 3.25,
+    "beer_name": "I Am (Gruit IPA)",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Historical Beer - Gruit / Ancient Herbed Ale"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-23T20:12:45+00:00",
+    "serving": "draft",
+    "rating": 3.25,
+    "beer_name": "Bush.",
+    "brewery": "Moon Lark Brewery",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-01-23T20:11:56+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "4 the Love of Fruit PINEAPPLE",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-01-23T20:11:24+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "4 the Love of Fruit COCONUT",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-01-23T20:10:46+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Crazy Hazy",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-01-23T19:56:09+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Hop 4ward",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "beerz",
+    "time": "2026-01-23T19:11:30+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Hobgoblin IPA",
+    "brewery": "Marston's Brewery",
+    "beer_type": "IPA - English"
+  },
+  {
+    "venue": "beerz",
+    "time": "2026-01-23T19:09:29+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Hazy Queen",
+    "brewery": "HORIZONT Brewing",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-23T19:07:41+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "סיידר תפוחים אלכוהולי חצי יבש",
+    "brewery": "Hamatsesa (המתססה)",
+    "beer_type": "Cider - Traditional / Apfelwein"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-23T18:58:50+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Rinktinis",
+    "brewery": "Volfas Engelman",
+    "beer_type": "Lager - Pale"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-23T18:43:26+00:00",
+    "serving": "can",
+    "rating": 4.75,
+    "beer_name": "Ārpus X 450 North Mango X Vanilla X Coconut X Apricot X Pineapple Smoothie Sour Ale",
+    "brewery": "Ārpus Brewing Co.",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-23T18:40:04+00:00",
+    "serving": "can",
+    "rating": 5.0,
+    "beer_name": "Ārpus Plum X Banana X Peach X Cherry X Coconut Smoothie Sour Ale",
+    "brewery": "Ārpus Brewing Co.",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-23T18:07:26+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "Sour 12 Passion Fruit + Guava",
+    "brewery": "Rodinný pivovar Zichovec",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-01-23T18:00:46+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "Wit Win (situation)",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Wheat Beer - Witbier / Blanche"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-23T17:53:52+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "Ārpus X Celestial Beerworks QDH Peacharine X Citra X Rakau X Strata TIPA",
+    "brewery": "Ārpus Brewing Co.",
+    "beer_type": "IPA - Triple New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-23T17:39:06+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Surf City",
+    "brewery": "Põhjala",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-23T17:37:47+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Surf City",
+    "brewery": "Põhjala",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-23T17:30:04+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Zigzag.",
+    "brewery": "Moon Lark Brewery",
+    "beer_type": "IPA - Imperial / Double New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-23T17:15:55+00:00",
+    "serving": "draft",
+    "rating": 3.25,
+    "beer_name": "Porter & Sons Salted Caramel 2024",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Porter - Other"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-01-23T16:56:27+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "I Am (Gruit IPA)",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Historical Beer - Gruit / Ancient Herbed Ale"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-01-23T16:46:17+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "4 the Love of Fruit",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-01-23T16:23:55+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Alon vs. אלון",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Porter - Baltic"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-23T16:21:20+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Zigzag.",
+    "brewery": "Moon Lark Brewery",
+    "beer_type": "IPA - Imperial / Double New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-23T16:20:25+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "Abbey Mode",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Belgian Dubbel"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-01-23T15:55:09+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "Wolfgang",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Lager - Vienna"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-23T15:54:20+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Ginnungagap",
+    "brewery": "Schmulz",
+    "beer_type": "Mead - Bochet"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-01-23T15:49:31+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "Anything Gose: Orange And Sage",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Sour - Fruited Gose"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-23T15:48:59+00:00",
+    "serving": "draft",
+    "rating": 3.25,
+    "beer_name": "Zigzag.",
+    "brewery": "Moon Lark Brewery",
+    "beer_type": "IPA - Imperial / Double New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-23T15:46:52+00:00",
+    "serving": "draft",
+    "rating": 4.5,
+    "beer_name": "Kriek de Schaerbeek Tilquin - Draft Version",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": "Lambic - Kriek"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-01-23T15:46:25+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "4 the Love of Fruit",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-23T15:24:55+00:00",
+    "serving": "draft",
+    "rating": 3.25,
+    "beer_name": "Abbey Mode",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Belgian Dubbel"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-23T15:19:21+00:00",
+    "serving": "draft",
+    "rating": 5.0,
+    "beer_name": "Tennent's Stout",
+    "brewery": "Tennent's Caledonian Brewery",
+    "beer_type": "Stout - English"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-23T15:15:03+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Vagus",
+    "brewery": "קישקשתא (Kishkashta)",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-23T15:04:59+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "Kriek de Schaerbeek Tilquin - Draft Version",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": "Lambic - Kriek"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-01-23T14:57:03+00:00",
+    "serving": "Unknown",
+    "rating": 4.25,
+    "beer_name": "Stoutment",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Stout - Other"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-01-23T14:54:43+00:00",
+    "serving": "Unknown",
+    "rating": 4.5,
+    "beer_name": "4 the Love of Fruit",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-01-23T14:42:54+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Crazy Hazy",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-01-23T14:36:29+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "I Am (Gruit IPA)",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Historical Beer - Gruit / Ancient Herbed Ale"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-01-23T14:30:56+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Hop 4ward",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-23T14:05:28+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "Kriek de Schaerbeek Tilquin - Draft Version",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": "Lambic - Kriek"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-01-23T12:12:18+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "4 the Love of Fruit",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-23T12:11:04+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Abbey Mode",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Belgian Dubbel"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-01-23T12:04:01+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Stoutment",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Stout - Other"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-01-23T11:20:51+00:00",
+    "serving": "draft",
+    "rating": 3.25,
+    "beer_name": "Liquid Luck",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": "Pale Ale - American"
+  },
   {
     "venue": "lauter",
     "time": "2026-01-22T22:17:10+00:00",
@@ -20824,19 +21256,19 @@ const BEER_DATA = [
     "venue": "b7-beer-house",
     "time": "2025-12-14T19:05:15+00:00",
     "serving": "can",
-    "rating": 3.75,
-    "beer_name": "Toasted Marshmallow Hazy IPA",
-    "brewery": "Urbanaut Brewing",
-    "beer_type": "IPA - New England / Hazy"
+    "rating": 3.6,
+    "beer_name": "Качок-Кабачок",
+    "brewery": "4BREWERS",
+    "beer_type": "Sour - Tomato / Vegetable Gose"
   },
   {
     "venue": "b7-beer-house",
     "time": "2025-12-14T19:05:15+00:00",
     "serving": "can",
-    "rating": 3.6,
-    "beer_name": "Качок-Кабачок",
-    "brewery": "4BREWERS",
-    "beer_type": "Sour - Tomato / Vegetable Gose"
+    "rating": 3.75,
+    "beer_name": "Toasted Marshmallow Hazy IPA",
+    "brewery": "Urbanaut Brewing",
+    "beer_type": "IPA - New England / Hazy"
   },
   {
     "venue": "lauter",
@@ -30526,19 +30958,19 @@ const BEER_DATA = [
     "venue": "b7-beer-house",
     "time": "2025-11-21T12:08:02+00:00",
     "serving": "bottle",
-    "rating": 4.25,
-    "beer_name": "Bzart Lambiek Millésime 2018",
+    "rating": 4.0,
+    "beer_name": "Wild Dry Cider - Blended With Lambic",
     "brewery": "Oud Beersel",
-    "beer_type": "Lambic - Traditional"
+    "beer_type": "Cider - Dry"
   },
   {
     "venue": "b7-beer-house",
     "time": "2025-11-21T12:08:02+00:00",
     "serving": "bottle",
-    "rating": 4.0,
-    "beer_name": "Wild Dry Cider - Blended With Lambic",
+    "rating": 4.25,
+    "beer_name": "Bzart Lambiek Millésime 2018",
     "brewery": "Oud Beersel",
-    "beer_type": "Cider - Dry"
+    "beer_type": "Lambic - Traditional"
   },
   {
     "venue": "b7-beer-house",
@@ -31778,18 +32210,18 @@ const BEER_DATA = [
     "time": "2025-11-21T10:35:21+00:00",
     "serving": "bottle",
     "rating": 4.25,
-    "beer_name": "Rullquin au café du Rwanda",
-    "brewery": "Gueuzerie Tilquin",
-    "beer_type": "Sour - Other"
+    "beer_name": "Grapefruit Peel Lambiek - Sparkling Infused",
+    "brewery": "Oud Beersel",
+    "beer_type": "Lambic - Other"
   },
   {
     "venue": "b7-beer-house",
     "time": "2025-11-21T10:35:21+00:00",
     "serving": "bottle",
     "rating": 4.25,
-    "beer_name": "Grapefruit Peel Lambiek - Sparkling Infused",
-    "brewery": "Oud Beersel",
-    "beer_type": "Lambic - Other"
+    "beer_name": "Rullquin au café du Rwanda",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": "Sour - Other"
   },
   {
     "venue": "b7-beer-house",
@@ -73014,20 +73446,20 @@ const BEER_DATA = [
   {
     "venue": "b7-beer-house",
     "time": "2025-08-21T15:59:11+00:00",
-    "serving": "Unknown",
-    "rating": 4.0,
-    "beer_name": "Naughty & Nice - White Chocolate & Raspberry",
-    "brewery": "Vocation Brewery",
-    "beer_type": "Stout - White / Golden"
-  },
-  {
-    "venue": "b7-beer-house",
-    "time": "2025-08-21T15:59:11+00:00",
     "serving": "can",
     "rating": 3.8,
     "beer_name": "Peach Rings",
     "brewery": "Vault City Brewing",
     "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-21T15:59:11+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Naughty & Nice - White Chocolate & Raspberry",
+    "brewery": "Vocation Brewery",
+    "beer_type": "Stout - White / Golden"
   },
   {
     "venue": "b7-beer-house",
@@ -88324,19 +88756,19 @@ const BEER_DATA = [
     "venue": "lauter",
     "time": "2025-07-25T18:15:23+00:00",
     "serving": "draft",
-    "rating": 4.8,
-    "beer_name": "Fou' Foune 2023 - Draft Version",
+    "rating": 4.0,
+    "beer_name": "Cuvée Saint-Gilloise 2023 - Draft Version",
     "brewery": "Brasserie Cantillon",
-    "beer_type": "Lambic - Fruit"
+    "beer_type": "Lambic - Traditional"
   },
   {
     "venue": "lauter",
     "time": "2025-07-25T18:15:23+00:00",
     "serving": "draft",
-    "rating": 4.0,
-    "beer_name": "Cuvée Saint-Gilloise 2023 - Draft Version",
+    "rating": 4.8,
+    "beer_name": "Fou' Foune 2023 - Draft Version",
     "brewery": "Brasserie Cantillon",
-    "beer_type": "Lambic - Traditional"
+    "beer_type": "Lambic - Fruit"
   },
   {
     "venue": "lauter",
