@@ -1,8 +1,386 @@
 // 🍺 BEER STATS DATA - Generated automatically
-// Last updated: 2026-02-01 07:01:01
-// Total records: 12320
+// Last updated: 2026-02-02 07:13:48
+// Total records: 12362
 
 const BEER_DATA = [
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-02-01T19:47:12+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "Fabrizio",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pilsner - Italian"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-02-01T19:06:40+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "שוורצע",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - Black / Cascadian Dark Ale"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-02-01T18:54:59+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Fabrizio",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pilsner - Italian"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-02-01T18:54:14+00:00",
+    "serving": "draft",
+    "rating": 3.25,
+    "beer_name": "Anything Gose: Orange And Sage",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Sour - Fruited Gose"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-02-01T18:53:24+00:00",
+    "serving": "draft",
+    "rating": 3.0,
+    "beer_name": "Anything Gose: Orange And Sage",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Sour - Fruited Gose"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-02-01T18:52:05+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Fabrizio",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pilsner - Italian"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-02-01T18:46:14+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "Cantillon Gueuze 2025 - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": "Lambic - Gueuze"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-02-01T18:41:20+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Zigzag.",
+    "brewery": "Moon Lark Brewery",
+    "beer_type": "IPA - Imperial / Double New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-02-01T18:39:22+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "Abt 12",
+    "brewery": "Brouwerij St. Bernardus",
+    "beer_type": "Belgian Quadrupel"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-02-01T18:38:57+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Sim Sima",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - Imperial / Double"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-02-01T18:37:21+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Sim Sima",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - Imperial / Double"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-02-01T18:34:04+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Bush.",
+    "brewery": "Moon Lark Brewery",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-02-01T18:15:01+00:00",
+    "serving": "can",
+    "rating": 3.25,
+    "beer_name": "Hoppywood Pils",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Lager - IPL (India Pale Lager)"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-02-01T17:55:41+00:00",
+    "serving": "bottle",
+    "rating": 3.75,
+    "beer_name": "מכת חושך",
+    "brewery": "Oak & Ash",
+    "beer_type": "Stout - Milk / Sweet"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-02-01T17:55:10+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Barbãr Bok",
+    "brewery": "Brasserie Lefebvre",
+    "beer_type": "Bock - Single / Traditional"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-02-01T17:54:36+00:00",
+    "serving": "bottle",
+    "rating": 4.5,
+    "beer_name": "Barbãr Bok",
+    "brewery": "Brasserie Lefebvre",
+    "beer_type": "Bock - Single / Traditional"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-02-01T17:54:10+00:00",
+    "serving": "bottle",
+    "rating": null,
+    "beer_name": "מכת חושך",
+    "brewery": "Oak & Ash",
+    "beer_type": "Stout - Milk / Sweet"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-02-01T17:34:08+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Stoutment",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Stout - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-02-01T17:12:33+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Abbey Mode",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Belgian Dubbel"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-02-01T17:12:19+00:00",
+    "serving": "draft",
+    "rating": 4.5,
+    "beer_name": "Abbey Mode",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Belgian Dubbel"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-02-01T17:12:04+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Tennent's Stout",
+    "brewery": "Tennent's Caledonian Brewery",
+    "beer_type": "Stout - English"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-02-01T17:11:48+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Tennent's Stout",
+    "brewery": "Tennent's Caledonian Brewery",
+    "beer_type": "Stout - English"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-02-01T17:11:33+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Bitburger Premium Pils",
+    "brewery": "Bitburger Brauerei",
+    "beer_type": "Pilsner - German"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-02-01T17:11:25+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "Budweiser Budvar / Czechvar Original",
+    "brewery": "Budějovický Budvar",
+    "beer_type": "Pilsner - Czech / Bohemian"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-02-01T17:10:59+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Budweiser Budvar / Czechvar Original",
+    "brewery": "Budějovický Budvar",
+    "beer_type": "Pilsner - Czech / Bohemian"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-02-01T17:10:53+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Bitburger Premium Pils",
+    "brewery": "Bitburger Brauerei",
+    "beer_type": "Pilsner - German"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-02-01T17:05:10+00:00",
+    "serving": "bottle",
+    "rating": 4.5,
+    "beer_name": "Die Rote Kapelle - Berries",
+    "brewery": "Fat Cat Brewery",
+    "beer_type": "Homebrew, Sour - Fruited Berliner Weisse"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-02-01T16:59:46+00:00",
+    "serving": "draft",
+    "rating": 3.0,
+    "beer_name": "Arturito",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Blonde / Golden Ale - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-02-01T16:49:31+00:00",
+    "serving": "bottle",
+    "rating": 4.25,
+    "beer_name": "Pukkölo Kakkålo (2025)",
+    "brewery": "Fat Cat Brewery",
+    "beer_type": "Homebrew, Porter - Baltic"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-02-01T16:37:20+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Fabrizio",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pilsner - Italian"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-02-01T16:35:54+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Alon vs. אלון",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Porter - Baltic"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-02-01T16:33:54+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Alon vs. אלון",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Porter - Baltic"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-02-01T16:27:52+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Fabrizio",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pilsner - Italian"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-02-01T16:26:45+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "Fabrizio",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pilsner - Italian"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-02-01T16:15:54+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "4 the Love of Fruit",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-02-01T16:15:06+00:00",
+    "serving": "Unknown",
+    "rating": 3.6,
+    "beer_name": "Fabrizio",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pilsner - Italian"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-02-01T16:13:38+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Jaffa Sunrise",
+    "brewery": "Herzl (הרצל)",
+    "beer_type": "IPA - Fruited"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-02-01T16:02:16+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Fruitheart Smoothie Sour Ale",
+    "brewery": "Ārpus Brewing Co.",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-02-01T16:01:15+00:00",
+    "serving": "draft",
+    "rating": 3.9,
+    "beer_name": "Fruitheart Smoothie Sour Ale",
+    "brewery": "Ārpus Brewing Co.",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-02-01T15:12:53+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "Float",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-02-01T15:05:12+00:00",
+    "serving": "can",
+    "rating": 4.75,
+    "beer_name": "Nectar of Happiness 17",
+    "brewery": "Rodinný pivovar Zichovec",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-02-01T14:57:53+00:00",
+    "serving": "draft",
+    "rating": 4.5,
+    "beer_name": "Fabrizio",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pilsner - Italian"
+  },
   {
     "venue": "beerz",
     "time": "2026-01-31T21:41:23+00:00",
@@ -50854,15 +51232,6 @@ const BEER_DATA = [
     "beer_type": "IPA - American"
   },
   {
-    "venue": "schnitt-brewing-company",
-    "time": "2025-10-19T19:17:21+00:00",
-    "serving": "can",
-    "rating": 4.25,
-    "beer_name": "Plum Waffle",
-    "brewery": "Duncan's Brewing",
-    "beer_type": "Sour - Smoothie / Pastry"
-  },
-  {
     "venue": "lauter",
     "time": "2025-10-19T19:17:21+00:00",
     "serving": "bottle",
@@ -50870,6 +51239,15 @@ const BEER_DATA = [
     "beer_name": "Bjorn's Beer",
     "brewery": "Attali's Family Brewery",
     "beer_type": "IPA - American"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-10-19T19:17:21+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "Plum Waffle",
+    "brewery": "Duncan's Brewing",
+    "beer_type": "Sour - Smoothie / Pastry"
   },
   {
     "venue": "lauter",
@@ -71763,7 +72141,7 @@ const BEER_DATA = [
   {
     "venue": "lauter",
     "time": "2025-09-01T17:44:35+00:00",
-    "serving": "bottle",
+    "serving": "Unknown",
     "rating": 4.0,
     "beer_name": "Hops Don’t Lie",
     "brewery": "Thurø Bryghus",
@@ -71772,7 +72150,7 @@ const BEER_DATA = [
   {
     "venue": "lauter",
     "time": "2025-09-01T17:44:35+00:00",
-    "serving": "Unknown",
+    "serving": "bottle",
     "rating": 4.0,
     "beer_name": "Hops Don’t Lie",
     "brewery": "Thurø Bryghus",
@@ -76648,15 +77026,6 @@ const BEER_DATA = [
     "beer_type": "Stout - White / Golden"
   },
   {
-    "venue": "lauter",
-    "time": "2025-08-21T16:00:28+00:00",
-    "serving": "draft",
-    "rating": 3.5,
-    "beer_name": "KRUSHED IT",
-    "brewery": "Oak & Ash",
-    "beer_type": "IPA - New England / Hazy"
-  },
-  {
     "venue": "b7-beer-house",
     "time": "2025-08-21T16:00:28+00:00",
     "serving": "can",
@@ -76664,6 +77033,15 @@ const BEER_DATA = [
     "beer_name": "Naughty & Nice - White Chocolate & Raspberry",
     "brewery": "Vocation Brewery",
     "beer_type": "Stout - White / Golden"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-21T16:00:28+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "KRUSHED IT",
+    "brewery": "Oak & Ash",
+    "beer_type": "IPA - New England / Hazy"
   },
   {
     "venue": "b7-beer-house",
