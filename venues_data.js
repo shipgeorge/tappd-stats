@@ -1,8 +1,611 @@
 // 🍺 BEER STATS DATA - Generated automatically
-// Last updated: 2026-02-05 07:10:16
-// Total records: 12430
+// Last updated: 2026-02-06 07:05:14
+// Total records: 12497
 
 const BEER_DATA = [
+  {
+    "venue": "lauter",
+    "time": "2026-02-05T22:09:42+00:00",
+    "serving": "draft",
+    "rating": 3.7,
+    "beer_name": "Barbãr",
+    "brewery": "Brasserie Lefebvre",
+    "beer_type": "Honey Beer"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-02-05T21:08:31+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Gimme My Ice Tea!",
+    "brewery": "HORIZONT Brewing",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-02-05T20:46:29+00:00",
+    "serving": "can",
+    "rating": 3.7,
+    "beer_name": "+10 Cacao Winter Stout",
+    "brewery": "HaGibor Brewery (מבשלת הגיבור)",
+    "beer_type": "Stout - Coffee"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-02-05T20:25:14+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Cantillon Gueuze 2025 - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": "Lambic - Gueuze"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-02-05T20:09:51+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Meerts Tilquin à la Kriek de Schaerbeek",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-02-05T20:09:38+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Bush.",
+    "brewery": "Moon Lark Brewery",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-02-05T20:08:55+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "עבודה עברית",
+    "brewery": "New Pioneer Brewing Co - חלוץ חדש",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-02-05T20:03:49+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Porter & Sons Salted Caramel 2024",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Porter - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-02-05T20:02:52+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Fruitheart Smoothie Sour Ale",
+    "brewery": "Ārpus Brewing Co.",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-02-05T20:02:06+00:00",
+    "serving": "Unknown",
+    "rating": 4.25,
+    "beer_name": "Cantillon Gueuze 2025 - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": "Lambic - Gueuze"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-02-05T19:38:38+00:00",
+    "serving": "draft",
+    "rating": 4.5,
+    "beer_name": "Fruitheart Smoothie Sour Ale",
+    "brewery": "Ārpus Brewing Co.",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-02-05T19:23:56+00:00",
+    "serving": "bottle",
+    "rating": 3.8,
+    "beer_name": "מכת חושך",
+    "brewery": "Oak & Ash",
+    "beer_type": "Stout - Milk / Sweet"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-02-05T19:08:59+00:00",
+    "serving": "draft",
+    "rating": 4.5,
+    "beer_name": "Cantillon Gueuze 2025 - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": "Lambic - Gueuze"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-02-05T18:59:32+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "חוצה ישראל",
+    "brewery": "New Pioneer Brewing Co - חלוץ חדש",
+    "beer_type": "Wheat Beer - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-02-05T18:55:40+00:00",
+    "serving": "can",
+    "rating": 4.4,
+    "beer_name": "Najpierw Masa",
+    "brewery": "Ziemia Obiecana",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-02-05T18:55:17+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Groovy Dream",
+    "brewery": "Ice Breaker Brewing Co.",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-02-05T18:54:42+00:00",
+    "serving": "can",
+    "rating": 4.1,
+    "beer_name": "Newcastle Donut",
+    "brewery": "Browar Stu Mostów",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-02-05T18:54:18+00:00",
+    "serving": "can",
+    "rating": 3.7,
+    "beer_name": "Before Party: Polish Double NEIPA",
+    "brewery": "Funky Fluid",
+    "beer_type": "IPA - Imperial / Double New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-02-05T18:46:51+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Pilot #53 Hopfen 1019",
+    "brewery": "BrewDog Deutschland",
+    "beer_type": "Red Ale - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-02-05T18:45:14+00:00",
+    "serving": "can",
+    "rating": 4.1,
+    "beer_name": "Newcastle Donut",
+    "brewery": "Browar Stu Mostów",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-02-05T18:43:13+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Barbãr",
+    "brewery": "Brasserie Lefebvre",
+    "beer_type": "Honey Beer"
+  },
+  {
+    "venue": "beerz",
+    "time": "2026-02-05T18:41:53+00:00",
+    "serving": "can",
+    "rating": 3.7,
+    "beer_name": "Sour 12 Passion Fruit + Guava",
+    "brewery": "Rodinný pivovar Zichovec",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-02-05T18:41:42+00:00",
+    "serving": "can",
+    "rating": 3.8,
+    "beer_name": "Groovy Dream",
+    "brewery": "Ice Breaker Brewing Co.",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-02-05T18:40:15+00:00",
+    "serving": "can",
+    "rating": 3.7,
+    "beer_name": "Before Party: Polish Double NEIPA",
+    "brewery": "Funky Fluid",
+    "beer_type": "IPA - Imperial / Double New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-02-05T18:39:00+00:00",
+    "serving": "can",
+    "rating": 4.5,
+    "beer_name": "Najpierw Masa",
+    "brewery": "Ziemia Obiecana",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-02-05T18:38:13+00:00",
+    "serving": "draft",
+    "rating": 3.8,
+    "beer_name": "שוורצע",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - Black / Cascadian Dark Ale"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-02-05T18:36:51+00:00",
+    "serving": "can",
+    "rating": 3.6,
+    "beer_name": "Three Times Three Vol. 7",
+    "brewery": "Omnipollo",
+    "beer_type": "IPA - Imperial / Double New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-02-05T18:26:13+00:00",
+    "serving": "draft",
+    "rating": 3.3,
+    "beer_name": "Abbey Mode",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Belgian Dubbel"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-02-05T18:25:44+00:00",
+    "serving": "draft",
+    "rating": 3.9,
+    "beer_name": "Shade.",
+    "brewery": "Moon Lark Brewery",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-02-05T18:25:17+00:00",
+    "serving": "draft",
+    "rating": 3.8,
+    "beer_name": "Bush.",
+    "brewery": "Moon Lark Brewery",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "beerz",
+    "time": "2026-02-05T18:13:41+00:00",
+    "serving": "can",
+    "rating": 3.7,
+    "beer_name": "Hotline 15",
+    "brewery": "Rodinný pivovar Zichovec",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-02-05T18:05:39+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Zigzag.",
+    "brewery": "Moon Lark Brewery",
+    "beer_type": "IPA - Imperial / Double New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-02-05T17:59:41+00:00",
+    "serving": "draft",
+    "rating": 4.5,
+    "beer_name": "Cantillon Gueuze 2025 - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": "Lambic - Gueuze"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-02-05T17:58:04+00:00",
+    "serving": "draft",
+    "rating": 4.3,
+    "beer_name": "עבודה עברית",
+    "brewery": "New Pioneer Brewing Co - חלוץ חדש",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-02-05T17:54:00+00:00",
+    "serving": "can",
+    "rating": 4.5,
+    "beer_name": "Premonition",
+    "brewery": "Ophiussa",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-02-05T17:35:29+00:00",
+    "serving": "draft",
+    "rating": 4.2,
+    "beer_name": "Piñata",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-02-05T17:35:22+00:00",
+    "serving": "can",
+    "rating": 4.2,
+    "beer_name": "Newcastle Donut",
+    "brewery": "Browar Stu Mostów",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-02-05T17:26:30+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "עבודה עברית",
+    "brewery": "New Pioneer Brewing Co - חלוץ חדש",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-02-05T17:11:41+00:00",
+    "serving": "can",
+    "rating": 4.3,
+    "beer_name": "Najpierw Masa",
+    "brewery": "Ziemia Obiecana",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "porter-and-sons",
+    "time": "2026-02-05T17:10:30+00:00",
+    "serving": "draft",
+    "rating": null,
+    "beer_name": "Ronen The Ugly Beer (הבירה המכוערת)",
+    "brewery": "Srigim (שריגים)",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "beerz",
+    "time": "2026-02-05T17:09:03+00:00",
+    "serving": "can",
+    "rating": 3.7,
+    "beer_name": "Aurora Borealis 15",
+    "brewery": "Rodinný pivovar Zichovec",
+    "beer_type": "IPA - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-02-05T17:06:36+00:00",
+    "serving": "can",
+    "rating": 3.3,
+    "beer_name": "Groovy Dream",
+    "brewery": "Ice Breaker Brewing Co.",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-02-05T16:53:44+00:00",
+    "serving": "can",
+    "rating": 3.7,
+    "beer_name": "Three Times Three Vol. 7",
+    "brewery": "Omnipollo",
+    "beer_type": "IPA - Imperial / Double New England / Hazy"
+  },
+  {
+    "venue": "porter-and-sons",
+    "time": "2026-02-05T16:44:13+00:00",
+    "serving": "draft",
+    "rating": null,
+    "beer_name": "Bianca Orange Pineapple Marshmallow Lassi Gose",
+    "brewery": "Omnipollo",
+    "beer_type": "Sour - Fruited Gose"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-02-05T16:36:24+00:00",
+    "serving": "can",
+    "rating": 3.6,
+    "beer_name": "Before Party: Polish Double NEIPA",
+    "brewery": "Funky Fluid",
+    "beer_type": "IPA - Imperial / Double New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-02-05T16:08:29+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Mexico 70 2025",
+    "brewery": "Herzl (הרצל)",
+    "beer_type": "Lager - Other"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-02-05T16:05:10+00:00",
+    "serving": "Unknown",
+    "rating": 4.25,
+    "beer_name": "Stoutment",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Stout - Other"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-02-05T15:59:06+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "שוורצע",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - Black / Cascadian Dark Ale"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-02-05T15:55:44+00:00",
+    "serving": "Unknown",
+    "rating": 4.25,
+    "beer_name": "4 the Love of Fruit",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-02-05T15:50:42+00:00",
+    "serving": "draft",
+    "rating": null,
+    "beer_name": "Tennent's Stout",
+    "brewery": "Tennent's Caledonian Brewery",
+    "beer_type": "Stout - English"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-02-05T15:35:52+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "Hadar הדר",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Wheat Beer - Witbier / Blanche"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-02-05T15:34:20+00:00",
+    "serving": "draft",
+    "rating": 3.4,
+    "beer_name": "Hadar הדר",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Wheat Beer - Witbier / Blanche"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-02-05T15:28:50+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "Budweiser Budvar / Czechvar Original",
+    "brewery": "Budějovický Budvar",
+    "beer_type": "Pilsner - Czech / Bohemian"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-02-05T15:19:21+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Anything Gose",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Sour - Fruited Gose"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-02-05T15:15:16+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Float",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-02-05T15:14:25+00:00",
+    "serving": "can",
+    "rating": 5.0,
+    "beer_name": "Budwaiser",
+    "brewery": "Пражская пивоварня в Волгограде",
+    "beer_type": "Lager - Pale"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-02-05T14:53:08+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Float",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-02-05T14:46:28+00:00",
+    "serving": "draft",
+    "rating": 4.5,
+    "beer_name": "עבודה עברית",
+    "brewery": "New Pioneer Brewing Co - חלוץ חדש",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-02-05T13:16:45+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "4 the Love of Fruit",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-02-05T12:49:56+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Cantillon Gueuze 2025 - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": "Lambic - Gueuze"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-02-05T12:28:05+00:00",
+    "serving": "Unknown",
+    "rating": 2.75,
+    "beer_name": "שוורצע",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - Black / Cascadian Dark Ale"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-02-05T11:36:50+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Stoutment",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Stout - Other"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-02-05T11:27:21+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Twist & Stout",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Stout - Irish Dry"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-02-05T11:18:17+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Flu Fighters",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pale Ale - Other"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-02-05T11:09:19+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "4 the Love of Fruit",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-02-05T11:05:51+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Stoutment",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Stout - Other"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-02-05T10:47:32+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Fabrizio",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pilsner - Italian"
+  },
   {
     "venue": "schnitt-brewing-company",
     "time": "2026-02-04T21:38:02+00:00",
@@ -25330,7 +25933,7 @@ const BEER_DATA = [
     "beer_type": "IPA - Belgian"
   },
   {
-    "venue": "schnitt-brewing-company",
+    "venue": "lauter",
     "time": "2025-12-14T20:46:46+00:00",
     "serving": "draft",
     "rating": 3.7,
@@ -25339,7 +25942,7 @@ const BEER_DATA = [
     "beer_type": "Porter - American"
   },
   {
-    "venue": "lauter",
+    "venue": "schnitt-brewing-company",
     "time": "2025-12-14T20:46:46+00:00",
     "serving": "draft",
     "rating": 3.7,
