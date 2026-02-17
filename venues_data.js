@@ -1,8 +1,323 @@
 // 🍺 BEER STATS DATA - Generated automatically
-// Last updated: 2026-02-16 07:16:12
-// Total records: 12863
+// Last updated: 2026-02-17 07:09:53
+// Total records: 12898
 
 const BEER_DATA = [
+  {
+    "venue": "lauter",
+    "time": "2026-02-17T05:06:16+00:00",
+    "serving": "bottle",
+    "rating": 3.5,
+    "beer_name": "Oude Kriek de Schaerbeek Tilquin à l'ancienne (2023-2024)",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": "Lambic - Kriek"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-02-17T05:05:47+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Black Forest",
+    "brewery": "קישקשתא (Kishkashta)",
+    "beer_type": "Porter - Imperial / Double"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-02-17T05:03:57+00:00",
+    "serving": "bottle",
+    "rating": 3.5,
+    "beer_name": "Aecht Schlenkerla Eiche – Doppelbock",
+    "brewery": "Schlenkerla (\"Heller-Bräu\" Trum)",
+    "beer_type": "Rauchbier"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-02-16T19:52:23+00:00",
+    "serving": "Unknown",
+    "rating": 4.5,
+    "beer_name": "Hop 4ward",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "beerbazaar-brewery",
+    "time": "2026-02-16T19:14:23+00:00",
+    "serving": "can",
+    "rating": 3.25,
+    "beer_name": "ששון",
+    "brewery": "BeerBazaar / Mivshelet Ha’Aretz",
+    "beer_type": "IPA - Other"
+  },
+  {
+    "venue": "beerbazaar-brewery",
+    "time": "2026-02-16T19:03:01+00:00",
+    "serving": "bottle",
+    "rating": 4.5,
+    "beer_name": "OMG (2026 - תשפ\"ו) - Peated Barreled Aged Wheat Wine",
+    "brewery": "BeerBazaar / Mivshelet Ha’Aretz",
+    "beer_type": "Wheat Beer - Wheat Wine"
+  },
+  {
+    "venue": "beerbazaar-brewery",
+    "time": "2026-02-16T19:01:45+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "OMG (2026 - תשפ\"ו) - Peated Barreled Aged Wheat Wine",
+    "brewery": "BeerBazaar / Mivshelet Ha’Aretz",
+    "beer_type": "Wheat Beer - Wheat Wine"
+  },
+  {
+    "venue": "beerbazaar-brewery",
+    "time": "2026-02-16T18:59:46+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "OMG (2026 - תשפ\"ו) - Peated Barreled Aged Wheat Wine",
+    "brewery": "BeerBazaar / Mivshelet Ha’Aretz",
+    "beer_type": "Wheat Beer - Wheat Wine"
+  },
+  {
+    "venue": "beerbazaar-brewery",
+    "time": "2026-02-16T18:59:12+00:00",
+    "serving": "bottle",
+    "rating": 4.25,
+    "beer_name": "OMG (2026 - תשפ\"ו) - Peated Barreled Aged Wheat Wine",
+    "brewery": "BeerBazaar / Mivshelet Ha’Aretz",
+    "beer_type": "Wheat Beer - Wheat Wine"
+  },
+  {
+    "venue": "beerbazaar-brewery",
+    "time": "2026-02-16T18:58:38+00:00",
+    "serving": "bottle",
+    "rating": null,
+    "beer_name": "OMG (2026 - תשפ\"ו) - Brewmaster's Choice",
+    "brewery": "BeerBazaar / Mivshelet Ha’Aretz",
+    "beer_type": "Wheat Beer - Wheat Wine"
+  },
+  {
+    "venue": "beerz",
+    "time": "2026-02-16T18:55:49+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "Ārpus Plum X Banana X Peach X Cherry X Coconut Smoothie Sour Ale",
+    "brewery": "Ārpus Brewing Co.",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "beerbazaar-brewery",
+    "time": "2026-02-16T18:54:30+00:00",
+    "serving": "bottle",
+    "rating": 4.25,
+    "beer_name": "OMG (2026 - תשפ\"ו) - Brewmaster's Choice",
+    "brewery": "BeerBazaar / Mivshelet Ha’Aretz",
+    "beer_type": "Wheat Beer - Wheat Wine"
+  },
+  {
+    "venue": "beerbazaar-brewery",
+    "time": "2026-02-16T18:53:45+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "OMG (2026 - תשפ\"ו) - Brewmaster's Choice",
+    "brewery": "BeerBazaar / Mivshelet Ha’Aretz",
+    "beer_type": "Wheat Beer - Wheat Wine"
+  },
+  {
+    "venue": "beerbazaar-brewery",
+    "time": "2026-02-16T18:50:50+00:00",
+    "serving": "bottle",
+    "rating": 3.75,
+    "beer_name": "OMG (2026 - תשפ\"ו) - Brewmaster's Choice",
+    "brewery": "BeerBazaar / Mivshelet Ha’Aretz",
+    "beer_type": "Wheat Beer - Wheat Wine"
+  },
+  {
+    "venue": "beerbazaar-brewery",
+    "time": "2026-02-16T18:50:11+00:00",
+    "serving": "Unknown",
+    "rating": 5.0,
+    "beer_name": "OMG (2026 - תשפ\"ו) - Brewmaster's Choice",
+    "brewery": "BeerBazaar / Mivshelet Ha’Aretz",
+    "beer_type": "Wheat Beer - Wheat Wine"
+  },
+  {
+    "venue": "beerbazaar-brewery",
+    "time": "2026-02-16T18:49:55+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "OMG (2026 - תשפ\"ו) - Barreled Aged Wheat Wine",
+    "brewery": "BeerBazaar / Mivshelet Ha’Aretz",
+    "beer_type": "Wheat Beer - Wheat Wine"
+  },
+  {
+    "venue": "beerbazaar-brewery",
+    "time": "2026-02-16T18:49:20+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "OMG (2026 - תשפ\"ו) - Barreled Aged Wheat Wine",
+    "brewery": "BeerBazaar / Mivshelet Ha’Aretz",
+    "beer_type": "Wheat Beer - Wheat Wine"
+  },
+  {
+    "venue": "beerbazaar-brewery",
+    "time": "2026-02-16T18:48:46+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "OMG (2026 - תשפ\"ו) - Barreled Aged Wheat Wine",
+    "brewery": "BeerBazaar / Mivshelet Ha’Aretz",
+    "beer_type": "Wheat Beer - Wheat Wine"
+  },
+  {
+    "venue": "beerbazaar-brewery",
+    "time": "2026-02-16T18:46:36+00:00",
+    "serving": "Unknown",
+    "rating": 5.0,
+    "beer_name": "OMG (2026 - תשפ\"ו) - Barreled Aged Wheat Wine",
+    "brewery": "BeerBazaar / Mivshelet Ha’Aretz",
+    "beer_type": "Wheat Beer - Wheat Wine"
+  },
+  {
+    "venue": "beerbazaar-brewery",
+    "time": "2026-02-16T18:38:59+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Barak (ברק)",
+    "brewery": "BeerBazaar / Mivshelet Ha’Aretz",
+    "beer_type": "IPA - Black / Cascadian Dark Ale"
+  },
+  {
+    "venue": "beerbazaar-brewery",
+    "time": "2026-02-16T18:19:08+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Barak (ברק)",
+    "brewery": "BeerBazaar / Mivshelet Ha’Aretz",
+    "beer_type": "IPA - Black / Cascadian Dark Ale"
+  },
+  {
+    "venue": "beerbazaar-brewery",
+    "time": "2026-02-16T18:16:35+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Raam (רעם)",
+    "brewery": "BeerBazaar / Mivshelet Ha’Aretz",
+    "beer_type": "Stout - Oatmeal"
+  },
+  {
+    "venue": "beerbazaar-brewery",
+    "time": "2026-02-16T18:06:23+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Barak (ברק)",
+    "brewery": "BeerBazaar / Mivshelet Ha’Aretz",
+    "beer_type": "IPA - Black / Cascadian Dark Ale"
+  },
+  {
+    "venue": "beerbazaar-brewery",
+    "time": "2026-02-16T17:56:55+00:00",
+    "serving": "draft",
+    "rating": null,
+    "beer_name": "Barak (ברק)",
+    "brewery": "BeerBazaar / Mivshelet Ha’Aretz",
+    "beer_type": "IPA - Black / Cascadian Dark Ale"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-02-16T17:17:53+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Brut",
+    "brewery": "Isis Desert Brewery (מבשלת הנגב המערבי)",
+    "beer_type": "Bière de Champagne / Bière Brut"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-02-16T17:16:36+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Jack’s Winter Ale (2026)",
+    "brewery": "Shapiro (שפירא)",
+    "beer_type": "Winter Ale"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-02-16T16:56:56+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Tropical",
+    "brewery": "Kasteel Brouwerij Vanhonsebrouck",
+    "beer_type": "Fruit Beer"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-02-16T16:54:34+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Black Forest",
+    "brewery": "קישקשתא (Kishkashta)",
+    "beer_type": "Porter - Imperial / Double"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-02-16T16:35:08+00:00",
+    "serving": "bottle",
+    "rating": 3.5,
+    "beer_name": "Jack’s Winter Ale (2026)",
+    "brewery": "Shapiro (שפירא)",
+    "beer_type": "Winter Ale"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-02-16T16:16:11+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Tea Party: Masala",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pale Ale - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-02-16T15:56:30+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Hadar הדר",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Wheat Beer - Witbier / Blanche"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-02-16T15:38:37+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "DDH Hopchest DIPA",
+    "brewery": "Ārpus Brewing Co.",
+    "beer_type": "IPA - Imperial / Double New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-02-16T15:32:02+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "Anything Gose: Orange And Sage",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Sour - Fruited Gose"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-02-16T15:26:38+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Shade.",
+    "brewery": "Moon Lark Brewery",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-02-16T15:22:27+00:00",
+    "serving": "draft",
+    "rating": 2.75,
+    "beer_name": "It Is What It Is",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Blonde / Golden Ale - Other"
+  },
   {
     "venue": "schnitt-brewing-company",
     "time": "2026-02-16T04:18:53+00:00",
@@ -11947,15 +12262,6 @@ const BEER_DATA = [
     "beer_type": "IPA - New England / Hazy"
   },
   {
-    "venue": "lauter",
-    "time": "2026-01-16T18:31:34+00:00",
-    "serving": "draft",
-    "rating": null,
-    "beer_name": "Vagus",
-    "brewery": "קישקשתא (Kishkashta)",
-    "beer_type": "IPA - American"
-  },
-  {
     "venue": "schnitt-brewing-company",
     "time": "2026-01-16T18:31:34+00:00",
     "serving": "draft",
@@ -11963,6 +12269,15 @@ const BEER_DATA = [
     "beer_name": "CBGF: Garden Through the Looking Glass",
     "brewery": "CoolHead Brew",
     "beer_type": "Stout - Imperial / Double Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-16T18:31:34+00:00",
+    "serving": "draft",
+    "rating": null,
+    "beer_name": "Vagus",
+    "brewery": "קישקשתא (Kishkashta)",
+    "beer_type": "IPA - American"
   },
   {
     "venue": "lauter",
@@ -29401,19 +29716,19 @@ const BEER_DATA = [
     "venue": "b7-beer-house",
     "time": "2025-12-14T19:05:15+00:00",
     "serving": "can",
-    "rating": 3.6,
-    "beer_name": "Качок-Кабачок",
-    "brewery": "4BREWERS",
-    "beer_type": "Sour - Tomato / Vegetable Gose"
+    "rating": 3.75,
+    "beer_name": "Toasted Marshmallow Hazy IPA",
+    "brewery": "Urbanaut Brewing",
+    "beer_type": "IPA - New England / Hazy"
   },
   {
     "venue": "b7-beer-house",
     "time": "2025-12-14T19:05:15+00:00",
     "serving": "can",
-    "rating": 3.75,
-    "beer_name": "Toasted Marshmallow Hazy IPA",
-    "brewery": "Urbanaut Brewing",
-    "beer_type": "IPA - New England / Hazy"
+    "rating": 3.6,
+    "beer_name": "Качок-Кабачок",
+    "brewery": "4BREWERS",
+    "beer_type": "Sour - Tomato / Vegetable Gose"
   },
   {
     "venue": "lauter",
@@ -39814,7 +40129,7 @@ const BEER_DATA = [
     "venue": "b7-beer-house",
     "time": "2025-11-21T11:17:46+00:00",
     "serving": "bottle",
-    "rating": 4.0,
+    "rating": 4.25,
     "beer_name": "Oude Gueuze Tilquin à l'Ancienne - Cuvée Renée (2023-2024)",
     "brewery": "Gueuzerie Tilquin",
     "beer_type": "Lambic - Gueuze"
@@ -39823,7 +40138,7 @@ const BEER_DATA = [
     "venue": "b7-beer-house",
     "time": "2025-11-21T11:17:46+00:00",
     "serving": "bottle",
-    "rating": 4.25,
+    "rating": 4.0,
     "beer_name": "Oude Gueuze Tilquin à l'Ancienne - Cuvée Renée (2023-2024)",
     "brewery": "Gueuzerie Tilquin",
     "beer_type": "Lambic - Gueuze"
@@ -40355,18 +40670,18 @@ const BEER_DATA = [
     "time": "2025-11-21T10:35:21+00:00",
     "serving": "bottle",
     "rating": 4.25,
-    "beer_name": "Rullquin au café du Rwanda",
-    "brewery": "Gueuzerie Tilquin",
-    "beer_type": "Sour - Other"
+    "beer_name": "Grapefruit Peel Lambiek - Sparkling Infused",
+    "brewery": "Oud Beersel",
+    "beer_type": "Lambic - Other"
   },
   {
     "venue": "b7-beer-house",
     "time": "2025-11-21T10:35:21+00:00",
     "serving": "bottle",
     "rating": 4.25,
-    "beer_name": "Grapefruit Peel Lambiek - Sparkling Infused",
-    "brewery": "Oud Beersel",
-    "beer_type": "Lambic - Other"
+    "beer_name": "Rullquin au café du Rwanda",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": "Sour - Other"
   },
   {
     "venue": "b7-beer-house",
@@ -81483,8 +81798,8 @@ const BEER_DATA = [
   {
     "venue": "b7-beer-house",
     "time": "2025-08-21T16:02:37+00:00",
-    "serving": "Unknown",
-    "rating": 3.75,
+    "serving": "can",
+    "rating": 3.5,
     "beer_name": "Nitro Mini M*rs",
     "brewery": "Vault City Brewing",
     "beer_type": "Stout - Pastry"
@@ -81492,8 +81807,8 @@ const BEER_DATA = [
   {
     "venue": "b7-beer-house",
     "time": "2025-08-21T16:02:37+00:00",
-    "serving": "can",
-    "rating": 3.5,
+    "serving": "Unknown",
+    "rating": 3.75,
     "beer_name": "Nitro Mini M*rs",
     "brewery": "Vault City Brewing",
     "beer_type": "Stout - Pastry"
@@ -88485,8 +88800,8 @@ const BEER_DATA = [
   {
     "venue": "lauter",
     "time": "2025-08-05T19:24:07+00:00",
-    "serving": "Unknown",
-    "rating": null,
+    "serving": "can",
+    "rating": 4.5,
     "beer_name": "SLUSHY XL: Haha!",
     "brewery": "450 North Brewing Company",
     "beer_type": "Sour - Smoothie / Pastry"
@@ -88494,8 +88809,8 @@ const BEER_DATA = [
   {
     "venue": "lauter",
     "time": "2025-08-05T19:24:07+00:00",
-    "serving": "can",
-    "rating": 4.5,
+    "serving": "Unknown",
+    "rating": null,
     "beer_name": "SLUSHY XL: Haha!",
     "brewery": "450 North Brewing Company",
     "beer_type": "Sour - Smoothie / Pastry"
@@ -96901,19 +97216,19 @@ const BEER_DATA = [
     "venue": "lauter",
     "time": "2025-07-25T18:15:23+00:00",
     "serving": "draft",
-    "rating": 4.0,
-    "beer_name": "Cuvée Saint-Gilloise 2023 - Draft Version",
+    "rating": 4.8,
+    "beer_name": "Fou' Foune 2023 - Draft Version",
     "brewery": "Brasserie Cantillon",
-    "beer_type": "Lambic - Traditional"
+    "beer_type": "Lambic - Fruit"
   },
   {
     "venue": "lauter",
     "time": "2025-07-25T18:15:23+00:00",
     "serving": "draft",
-    "rating": 4.8,
-    "beer_name": "Fou' Foune 2023 - Draft Version",
+    "rating": 4.0,
+    "beer_name": "Cuvée Saint-Gilloise 2023 - Draft Version",
     "brewery": "Brasserie Cantillon",
-    "beer_type": "Lambic - Fruit"
+    "beer_type": "Lambic - Traditional"
   },
   {
     "venue": "lauter",
@@ -112749,8 +113064,8 @@ const BEER_DATA = [
   {
     "venue": "berlin-florentin",
     "time": "2024-01-22T18:42:20+00:00",
-    "serving": "Unknown",
-    "rating": null,
+    "serving": "can",
+    "rating": 4.0,
     "beer_name": "200 Units",
     "brewery": "Brewski",
     "beer_type": "Barleywine - English"
@@ -112758,8 +113073,8 @@ const BEER_DATA = [
   {
     "venue": "berlin-florentin",
     "time": "2024-01-22T18:42:20+00:00",
-    "serving": "can",
-    "rating": 4.0,
+    "serving": "Unknown",
+    "rating": null,
     "beer_name": "200 Units",
     "brewery": "Brewski",
     "beer_type": "Barleywine - English"
