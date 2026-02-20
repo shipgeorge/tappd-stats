@@ -1,8 +1,521 @@
 // 🍺 BEER STATS DATA - Generated automatically
-// Last updated: 2026-02-19 07:11:11
-// Total records: 12980
+// Last updated: 2026-02-20 07:07:24
+// Total records: 13037
 
 const BEER_DATA = [
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-02-19T23:55:24+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Fabrizio",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pilsner - Italian"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-02-19T23:54:00+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Prior 8",
+    "brewery": "Brouwerij St. Bernardus",
+    "beer_type": "Belgian Dubbel"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-02-19T23:43:29+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "עכשיו מעונן",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-02-19T22:38:58+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "Stoutment",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Stout - Other"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-02-19T22:05:10+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "עכשיו מעונן",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "porter-and-sons",
+    "time": "2026-02-19T21:57:44+00:00",
+    "serving": "Unknown",
+    "rating": 4.75,
+    "beer_name": "Guinness Draught",
+    "brewery": "Guinness",
+    "beer_type": "Stout - Irish Dry"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-02-19T21:39:30+00:00",
+    "serving": "draft",
+    "rating": 3.0,
+    "beer_name": "Hadar הדר",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Wheat Beer - Witbier / Blanche"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-02-19T21:06:15+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Black Forest",
+    "brewery": "קישקשתא (Kishkashta)",
+    "beer_type": "Porter - Imperial / Double"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-02-19T21:04:51+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "4 the Love of Fruit",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-02-19T20:23:01+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Shade.",
+    "brewery": "Moon Lark Brewery",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-02-19T20:19:27+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "הפילס שבחדר the Pils In the Room",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pilsner - German"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-02-19T20:08:04+00:00",
+    "serving": "draft",
+    "rating": 3.0,
+    "beer_name": "Shade.",
+    "brewery": "Moon Lark Brewery",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-02-19T20:07:39+00:00",
+    "serving": "Unknown",
+    "rating": 4.5,
+    "beer_name": "Pleroma Karpologi Pineapple Peach Marshmallow Créme Brulée Sour",
+    "brewery": "Omnipollo",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-02-19T20:06:24+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Shade.",
+    "brewery": "Moon Lark Brewery",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-02-19T20:06:15+00:00",
+    "serving": "draft",
+    "rating": 5.0,
+    "beer_name": "Pleroma Karpologi Pineapple Peach Marshmallow Créme Brulée Sour",
+    "brewery": "Omnipollo",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "porter-and-sons",
+    "time": "2026-02-19T20:04:46+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Aecht Schlenkerla Rauchbier – Märzen",
+    "brewery": "Schlenkerla (\"Heller-Bräu\" Trum)",
+    "beer_type": "Rauchbier"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-02-19T19:54:20+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Quetsche Tilquin – Draft Version",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-02-19T19:51:52+00:00",
+    "serving": "draft",
+    "rating": 3.25,
+    "beer_name": "Hoppywood Pils",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Lager - IPL (India Pale Lager)"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-02-19T19:50:53+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "עכשיו מעונן",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-02-19T19:47:46+00:00",
+    "serving": "draft",
+    "rating": 3.4,
+    "beer_name": "Hoppywood Pils",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Lager - IPL (India Pale Lager)"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-02-19T19:33:20+00:00",
+    "serving": "draft",
+    "rating": 4.7,
+    "beer_name": "Quetsche Tilquin – Draft Version",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-02-19T19:19:24+00:00",
+    "serving": "draft",
+    "rating": 4.7,
+    "beer_name": "Quetsche Tilquin – Draft Version",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-02-19T19:05:01+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Twist & Stout",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Stout - Irish Dry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-02-19T18:52:33+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Shrooom",
+    "brewery": "Plague Brew",
+    "beer_type": "Sour - Other Gose"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-02-19T18:48:36+00:00",
+    "serving": "can",
+    "rating": 4.5,
+    "beer_name": "Ārpus X 450 North Mango X Vanilla X Coconut X Apricot X Pineapple Smoothie Sour Ale",
+    "brewery": "Ārpus Brewing Co.",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-02-19T18:14:28+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Porter & Sons - Salted Caramel",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Porter - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-02-19T18:13:54+00:00",
+    "serving": "draft",
+    "rating": 3.6,
+    "beer_name": "Hadar הדר",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Wheat Beer - Witbier / Blanche"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-02-19T18:11:35+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Porter & Sons - Salted Caramel",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Porter - Other"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-02-19T18:11:08+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "Hadar הדר",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Wheat Beer - Witbier / Blanche"
+  },
+  {
+    "venue": "porter-and-sons",
+    "time": "2026-02-19T17:04:07+00:00",
+    "serving": "draft",
+    "rating": 5.0,
+    "beer_name": "Blanche de Bruxelles",
+    "brewery": "Brasserie Lefebvre",
+    "beer_type": "Wheat Beer - Witbier / Blanche"
+  },
+  {
+    "venue": "porter-and-sons",
+    "time": "2026-02-19T17:00:15+00:00",
+    "serving": "draft",
+    "rating": 4.2,
+    "beer_name": "Aecht Schlenkerla Rauchbier – Märzen",
+    "brewery": "Schlenkerla (\"Heller-Bräu\" Trum)",
+    "beer_type": "Rauchbier"
+  },
+  {
+    "venue": "ursa",
+    "time": "2026-02-19T16:45:33+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Ārpus Plum X Banana X Peach X Cherry X Coconut Smoothie Sour Ale",
+    "brewery": "Ārpus Brewing Co.",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "ursa",
+    "time": "2026-02-19T16:44:24+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Ārpus Plum X Banana X Peach X Cherry X Coconut Smoothie Sour Ale",
+    "brewery": "Ārpus Brewing Co.",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-02-19T16:17:58+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "הפילס שבחדר the Pils In the Room",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pilsner - German"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-02-19T16:11:12+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Helix",
+    "brewery": "Equilibrium Brewery",
+    "beer_type": "Pilsner - German"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-02-19T16:10:36+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "eMCee",
+    "brewery": "Equilibrium Brewery",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-02-19T15:53:07+00:00",
+    "serving": "Unknown",
+    "rating": 4.5,
+    "beer_name": "Quetsche Tilquin – Draft Version",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-02-19T15:48:38+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Porter&Sons: Amarena Cherry",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Porter - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-02-19T15:48:01+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Tennent's Stout",
+    "brewery": "Tennent's Caledonian Brewery",
+    "beer_type": "Stout - English"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-02-19T15:47:27+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Tucher Pils",
+    "brewery": "Tucher Bräu",
+    "beer_type": "Pilsner - German"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-02-19T15:46:44+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Abbey Mode",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Belgian Dubbel"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-02-19T15:45:57+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Black Forest",
+    "brewery": "קישקשתא (Kishkashta)",
+    "beer_type": "Porter - Imperial / Double"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-02-19T15:34:03+00:00",
+    "serving": "draft",
+    "rating": 3.6,
+    "beer_name": "Abbey Mode",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Belgian Dubbel"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-02-19T15:31:40+00:00",
+    "serving": "draft",
+    "rating": 3.6,
+    "beer_name": "DDH Hopchest DIPA",
+    "brewery": "Ārpus Brewing Co.",
+    "beer_type": "IPA - Imperial / Double New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-02-19T15:23:10+00:00",
+    "serving": "draft",
+    "rating": 3.3,
+    "beer_name": "Twist & Stout",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Stout - Irish Dry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-02-19T15:22:53+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Tea Party: Masala",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pale Ale - Other"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-02-19T15:01:07+00:00",
+    "serving": "draft",
+    "rating": 3.6,
+    "beer_name": "It Is What It Is",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Blonde / Golden Ale - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-02-19T14:49:28+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Pleroma Karpologi Pineapple Peach Marshmallow Créme Brulée Sour",
+    "brewery": "Omnipollo",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-02-19T14:45:51+00:00",
+    "serving": "draft",
+    "rating": 3.4,
+    "beer_name": "Pleroma Karpologi Pineapple Peach Marshmallow Créme Brulée Sour",
+    "brewery": "Omnipollo",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-02-19T14:34:40+00:00",
+    "serving": "Unknown",
+    "rating": 3.25,
+    "beer_name": "עכשיו מעונן",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-02-19T14:22:18+00:00",
+    "serving": "draft",
+    "rating": 3.9,
+    "beer_name": "Four Hopsmen",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - Imperial / Double New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-02-19T14:20:51+00:00",
+    "serving": "draft",
+    "rating": 3.9,
+    "beer_name": "עכשיו מעונן",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-02-19T14:02:04+00:00",
+    "serving": "Unknown",
+    "rating": 3.8,
+    "beer_name": "עכשיו מעונן",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-02-19T11:27:25+00:00",
+    "serving": "draft",
+    "rating": 4.5,
+    "beer_name": "Stoutment",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Stout - Other"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-02-19T11:19:25+00:00",
+    "serving": "draft",
+    "rating": 5.0,
+    "beer_name": "4 the Love of Fruit",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-02-19T11:14:53+00:00",
+    "serving": "draft",
+    "rating": 4.75,
+    "beer_name": "Weissman",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Wheat Beer - Hefeweizen"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-02-19T09:42:29+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "eMCee",
+    "brewery": "Equilibrium Brewery",
+    "beer_type": "IPA - New England / Hazy"
+  },
   {
     "venue": "lauter",
     "time": "2026-02-18T21:01:25+00:00",
@@ -52882,7 +53395,7 @@ const BEER_DATA = [
     "venue": "lauter",
     "time": "2025-10-26T18:36:28+00:00",
     "serving": "can",
-    "rating": 3.25,
+    "rating": 3.75,
     "beer_name": "Darkness My Friends Imperial Baltic Porter Coffee & Date Syrup",
     "brewery": "Maryensztadt",
     "beer_type": "Porter - Baltic"
@@ -52891,7 +53404,7 @@ const BEER_DATA = [
     "venue": "lauter",
     "time": "2025-10-26T18:36:28+00:00",
     "serving": "can",
-    "rating": 3.75,
+    "rating": 3.25,
     "beer_name": "Darkness My Friends Imperial Baltic Porter Coffee & Date Syrup",
     "brewery": "Maryensztadt",
     "beer_type": "Porter - Baltic"
@@ -89835,8 +90348,8 @@ const BEER_DATA = [
   {
     "venue": "lauter",
     "time": "2025-08-05T18:49:38+00:00",
-    "serving": "Unknown",
-    "rating": 4.5,
+    "serving": "can",
+    "rating": 4.0,
     "beer_name": "Whakahoa",
     "brewery": "Factory Brewing",
     "beer_type": "IPA - Triple New England / Hazy"
@@ -89844,8 +90357,8 @@ const BEER_DATA = [
   {
     "venue": "lauter",
     "time": "2025-08-05T18:49:38+00:00",
-    "serving": "can",
-    "rating": 4.0,
+    "serving": "Unknown",
+    "rating": 4.5,
     "beer_name": "Whakahoa",
     "brewery": "Factory Brewing",
     "beer_type": "IPA - Triple New England / Hazy"
@@ -107368,8 +107881,8 @@ const BEER_DATA = [
     "venue": "berlin-florentin",
     "time": "2024-12-23T18:37:49+00:00",
     "serving": "bottle",
-    "rating": 3.0,
-    "beer_name": "Christmas Ale",
+    "rating": 4.1,
+    "beer_name": "Christmas Ale (2023)",
     "brewery": "Brouwerij St.Bernardus",
     "beer_type": "Winter Ale"
   },
@@ -107377,8 +107890,8 @@ const BEER_DATA = [
     "venue": "berlin-florentin",
     "time": "2024-12-23T18:37:49+00:00",
     "serving": "bottle",
-    "rating": 4.1,
-    "beer_name": "Christmas Ale (2023)",
+    "rating": 3.0,
+    "beer_name": "Christmas Ale",
     "brewery": "Brouwerij St.Bernardus",
     "beer_type": "Winter Ale"
   },

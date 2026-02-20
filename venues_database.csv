@@ -1,4 +1,61 @@
 venue,user,time,serving,data_rating,beer_name,brewery,beer_type
+schnitt-brewing-company,oriel38,"Thu, 19 Feb 2026 23:55:24 +0000",draft,3.5,Fabrizio,Schnitt Brewing Company﻿,Pilsner - Italian
+lauter,oriel38,"Thu, 19 Feb 2026 23:54:00 +0000",draft,3.75,Prior 8,Brouwerij St. Bernardus,Belgian Dubbel
+schnitt-brewing-company,Omri Gill,"Thu, 19 Feb 2026 23:43:29 +0000",draft,4.25,עכשיו מעונן,Schnitt Brewing Company﻿,IPA - New England / Hazy
+schnitt-brewing-company,Ori Pemper,"Thu, 19 Feb 2026 22:38:58 +0000",,3.75,Stoutment,Schnitt Brewing Company﻿,Stout - Other
+schnitt-brewing-company,oriel38,"Thu, 19 Feb 2026 22:05:10 +0000",draft,4.0,עכשיו מעונן,Schnitt Brewing Company﻿,IPA - New England / Hazy
+porter-and-sons,Nir Langer,"Thu, 19 Feb 2026 21:57:44 +0000",,4.75,Guinness Draught,Guinness,Stout - Irish Dry
+schnitt-brewing-company,Dr Troubles,"Thu, 19 Feb 2026 21:39:30 +0000",draft,3.0,Hadar הדר,Schnitt Brewing Company﻿,Wheat Beer - Witbier / Blanche
+lauter,Dr Troubles,"Thu, 19 Feb 2026 21:06:15 +0000",draft,3.5,Black Forest,קישקשתא (Kishkashta),Porter - Imperial / Double
+schnitt-brewing-company,Ori Pemper,"Thu, 19 Feb 2026 21:04:51 +0000",draft,4.0,4 the Love of Fruit,Schnitt Brewing Company﻿,IPA - New England / Hazy
+lauter,Dr Troubles,"Thu, 19 Feb 2026 20:23:01 +0000",draft,3.75,Shade.,Moon Lark Brewery,IPA - New England / Hazy
+schnitt-brewing-company,Maxim Shain,"Thu, 19 Feb 2026 20:19:27 +0000",,3.5,הפילס שבחדר the Pils In the Room,Schnitt Brewing Company﻿,Pilsner - German
+lauter,Adam Rom,"Thu, 19 Feb 2026 20:08:04 +0000",draft,3.0,Shade.,Moon Lark Brewery,IPA - New England / Hazy
+lauter,Ratam Edri,"Thu, 19 Feb 2026 20:07:39 +0000",,4.5,Pleroma Karpologi Pineapple Peach Marshmallow Créme Brulée Sour,Omnipollo,Sour - Smoothie / Pastry
+lauter,Ratam Edri,"Thu, 19 Feb 2026 20:06:24 +0000",draft,4.0,Shade.,Moon Lark Brewery,IPA - New England / Hazy
+lauter,Adam Rom,"Thu, 19 Feb 2026 20:06:15 +0000",draft,5.0,Pleroma Karpologi Pineapple Peach Marshmallow Créme Brulée Sour,Omnipollo,Sour - Smoothie / Pastry
+porter-and-sons,Shmupi Koto,"Thu, 19 Feb 2026 20:04:46 +0000",draft,4.0,Aecht Schlenkerla Rauchbier – Märzen,"Schlenkerla (""Heller-Bräu"" Trum)",Rauchbier
+lauter,Zoe Bystrik,"Thu, 19 Feb 2026 19:54:20 +0000",draft,3.75,Quetsche Tilquin – Draft Version,Gueuzerie Tilquin,Lambic - Fruit
+lauter,Dr Troubles,"Thu, 19 Feb 2026 19:51:52 +0000",draft,3.25,Hoppywood Pils,Schnitt Brewing Company﻿,Lager - IPL (India Pale Lager)
+schnitt-brewing-company,Maxim Shain,"Thu, 19 Feb 2026 19:50:53 +0000",,3.75,עכשיו מעונן,Schnitt Brewing Company﻿,IPA - New England / Hazy
+lauter,Yana O,"Thu, 19 Feb 2026 19:47:46 +0000",draft,3.4,Hoppywood Pils,Schnitt Brewing Company﻿,Lager - IPL (India Pale Lager)
+lauter,Shmupi Koto,"Thu, 19 Feb 2026 19:33:20 +0000",draft,4.7,Quetsche Tilquin – Draft Version,Gueuzerie Tilquin,Lambic - Fruit
+lauter,Shmupi Koto,"Thu, 19 Feb 2026 19:19:24 +0000",draft,4.7,Quetsche Tilquin – Draft Version,Gueuzerie Tilquin,Lambic - Fruit
+lauter,Kobi,"Thu, 19 Feb 2026 19:05:01 +0000",,,Twist & Stout,Schnitt Brewing Company﻿,Stout - Irish Dry
+lauter,Kobi,"Thu, 19 Feb 2026 18:52:33 +0000",can,4.0,Shrooom,Plague Brew,Sour - Other Gose
+schnitt-brewing-company,Zoe Bystrik,"Thu, 19 Feb 2026 18:48:36 +0000",can,4.5,Ārpus X 450 North Mango X Vanilla X Coconut X Apricot X Pineapple Smoothie Sour Ale,Ārpus Brewing Co.,Sour - Smoothie / Pastry
+schnitt-brewing-company,Zoe Bystrik,"Thu, 19 Feb 2026 18:14:28 +0000",draft,4.0,Porter & Sons - Salted Caramel,Schnitt Brewing Company﻿,Porter - Other
+lauter,Yana O,"Thu, 19 Feb 2026 18:13:54 +0000",draft,3.6,Hadar הדר,Schnitt Brewing Company﻿,Wheat Beer - Witbier / Blanche
+schnitt-brewing-company,Yana O,"Thu, 19 Feb 2026 18:11:35 +0000",draft,4.0,Porter & Sons - Salted Caramel,Schnitt Brewing Company﻿,Porter - Other
+schnitt-brewing-company,Zoe Bystrik,"Thu, 19 Feb 2026 18:11:08 +0000",,3.5,Hadar הדר,Schnitt Brewing Company﻿,Wheat Beer - Witbier / Blanche
+porter-and-sons,Zoe Bystrik,"Thu, 19 Feb 2026 17:04:07 +0000",draft,5.0,Blanche de Bruxelles,Brasserie Lefebvre,Wheat Beer - Witbier / Blanche
+porter-and-sons,Yana O,"Thu, 19 Feb 2026 17:00:15 +0000",draft,4.2,Aecht Schlenkerla Rauchbier – Märzen,"Schlenkerla (""Heller-Bräu"" Trum)",Rauchbier
+ursa,Aviad Attia,"Thu, 19 Feb 2026 16:45:33 +0000",,,Ārpus Plum X Banana X Peach X Cherry X Coconut Smoothie Sour Ale,Ārpus Brewing Co.,Sour - Smoothie / Pastry
+ursa,Danielle Yona,"Thu, 19 Feb 2026 16:44:24 +0000",,,Ārpus Plum X Banana X Peach X Cherry X Coconut Smoothie Sour Ale,Ārpus Brewing Co.,Sour - Smoothie / Pastry
+schnitt-brewing-company,Dennis Prokopiev,"Thu, 19 Feb 2026 16:17:58 +0000",draft,3.5,הפילס שבחדר the Pils In the Room,Schnitt Brewing Company﻿,Pilsner - German
+b7-beer-house,Guy Standing,"Thu, 19 Feb 2026 16:11:12 +0000",draft,3.75,Helix,Equilibrium Brewery,Pilsner - German
+b7-beer-house,Guy Standing,"Thu, 19 Feb 2026 16:10:36 +0000",draft,4.0,eMCee,Equilibrium Brewery,IPA - New England / Hazy
+lauter,Nadav,"Thu, 19 Feb 2026 15:53:07 +0000",,4.5,Quetsche Tilquin – Draft Version,Gueuzerie Tilquin,Lambic - Fruit
+lauter,Nadav,"Thu, 19 Feb 2026 15:48:38 +0000",,,Porter&Sons: Amarena Cherry,Schnitt Brewing Company﻿,Porter - American
+lauter,Nadav,"Thu, 19 Feb 2026 15:48:01 +0000",,,Tennent's Stout,Tennent's Caledonian Brewery,Stout - English
+lauter,Nadav,"Thu, 19 Feb 2026 15:47:27 +0000",,,Tucher Pils,Tucher Bräu,Pilsner - German
+lauter,Nadav,"Thu, 19 Feb 2026 15:46:44 +0000",,,Abbey Mode,Schnitt Brewing Company﻿,Belgian Dubbel
+lauter,Nadav,"Thu, 19 Feb 2026 15:45:57 +0000",,,Black Forest,קישקשתא (Kishkashta),Porter - Imperial / Double
+schnitt-brewing-company,Dennis Prokopiev,"Thu, 19 Feb 2026 15:34:03 +0000",draft,3.6,Abbey Mode,Schnitt Brewing Company﻿,Belgian Dubbel
+lauter,Omri Levy,"Thu, 19 Feb 2026 15:31:40 +0000",draft,3.6,DDH Hopchest DIPA,Ārpus Brewing Co.,IPA - Imperial / Double New England / Hazy
+schnitt-brewing-company,Dennis Prokopiev,"Thu, 19 Feb 2026 15:23:10 +0000",draft,3.3,Twist & Stout,Schnitt Brewing Company﻿,Stout - Irish Dry
+lauter,Omri Levy,"Thu, 19 Feb 2026 15:22:53 +0000",draft,3.5,Tea Party: Masala,Schnitt Brewing Company﻿,Pale Ale - Other
+schnitt-brewing-company,Dennis Prokopiev,"Thu, 19 Feb 2026 15:01:07 +0000",draft,3.6,It Is What It Is,Schnitt Brewing Company﻿,Blonde / Golden Ale - Other
+lauter,Itay shalom Kaplan,"Thu, 19 Feb 2026 14:49:28 +0000",draft,3.5,Pleroma Karpologi Pineapple Peach Marshmallow Créme Brulée Sour,Omnipollo,Sour - Smoothie / Pastry
+lauter,Omri Levy,"Thu, 19 Feb 2026 14:45:51 +0000",draft,3.4,Pleroma Karpologi Pineapple Peach Marshmallow Créme Brulée Sour,Omnipollo,Sour - Smoothie / Pastry
+schnitt-brewing-company,Itay shalom Kaplan,"Thu, 19 Feb 2026 14:34:40 +0000",,3.25,עכשיו מעונן,Schnitt Brewing Company﻿,IPA - New England / Hazy
+schnitt-brewing-company,Dennis Prokopiev,"Thu, 19 Feb 2026 14:22:18 +0000",draft,3.9,Four Hopsmen,Schnitt Brewing Company﻿,IPA - Imperial / Double New England / Hazy
+schnitt-brewing-company,Dennis Prokopiev,"Thu, 19 Feb 2026 14:20:51 +0000",draft,3.9,עכשיו מעונן,Schnitt Brewing Company﻿,IPA - New England / Hazy
+schnitt-brewing-company,Omri Levy,"Thu, 19 Feb 2026 14:02:04 +0000",,3.8,עכשיו מעונן,Schnitt Brewing Company﻿,IPA - New England / Hazy
+schnitt-brewing-company,Evan Oberstein,"Thu, 19 Feb 2026 11:27:25 +0000",draft,4.5,Stoutment,Schnitt Brewing Company﻿,Stout - Other
+schnitt-brewing-company,Evan Oberstein,"Thu, 19 Feb 2026 11:19:25 +0000",draft,5.0,4 the Love of Fruit,Schnitt Brewing Company﻿,IPA - New England / Hazy
+schnitt-brewing-company,Evan Oberstein,"Thu, 19 Feb 2026 11:14:53 +0000",draft,4.75,Weissman,Schnitt Brewing Company﻿,Wheat Beer - Hefeweizen
+b7-beer-house,Yuval Lutski,"Thu, 19 Feb 2026 09:42:29 +0000",can,4.0,eMCee,Equilibrium Brewery,IPA - New England / Hazy
 lauter,Instinct Basic,"Wed, 18 Feb 2026 21:01:25 +0000",can,3.75,Ārpus X 450 North Mango X Vanilla X Coconut X Apricot X Pineapple Smoothie Sour Ale,Ārpus Brewing Co.,Sour - Smoothie / Pastry
 lauter,Instinct Basic,"Wed, 18 Feb 2026 20:16:06 +0000",draft,3.5,Tucher Pils,Tucher Bräu,Pilsner - German
 lauter,Instinct Basic,"Wed, 18 Feb 2026 20:15:38 +0000",draft,3.5,Tennent's Stout,Tennent's Caledonian Brewery,Stout - English
@@ -5874,8 +5931,8 @@ lauter,Lee Ker,"Sun, 26 Oct 2025 18:41:01 +0000",,,Darkness My Friend - Imperial
 lauter,Shaul A,"Sun, 26 Oct 2025 18:37:28 +0000",can,3.75,Darkness My Friends Imperial Baltic Porter Coffee & Date Syrup,Maryensztadt,Porter - Baltic
 lauter,Tal,"Sun, 26 Oct 2025 18:37:13 +0000",can,4.25,Darkness My Friends Imperial Baltic Porter Coffee & Date Syrup,Maryensztadt,Porter - Baltic
 lauter,roey_lerman_9282,"Sun, 26 Oct 2025 18:36:50 +0000",can,3.5,Darkness My Friends Imperial Baltic Porter Coffee & Date Syrup,Maryensztadt,Porter - Baltic
-lauter,adi_zadik_2741,"Sun, 26 Oct 2025 18:36:28 +0000",can,3.25,Darkness My Friends Imperial Baltic Porter Coffee & Date Syrup,Maryensztadt,Porter - Baltic
 lauter,Nativ Kapach,"Sun, 26 Oct 2025 18:36:28 +0000",can,3.75,Darkness My Friends Imperial Baltic Porter Coffee & Date Syrup,Maryensztadt,Porter - Baltic
+lauter,adi_zadik_2741,"Sun, 26 Oct 2025 18:36:28 +0000",can,3.25,Darkness My Friends Imperial Baltic Porter Coffee & Date Syrup,Maryensztadt,Porter - Baltic
 lauter,Yaron Sh,"Sun, 26 Oct 2025 18:34:37 +0000",,4.0,Darkness My Friends Imperial Baltic Porter Coffee & Date Syrup,Maryensztadt,Porter - Baltic
 lauter,Yaron Sh,"Sun, 26 Oct 2025 18:33:45 +0000",,4.5,Barrel Aged Projekt: Chocolate Rye RIS Jack Daniels Whiskey BA,Maryensztadt,Stout - Russian Imperial
 lauter,Lee Ker,"Sun, 26 Oct 2025 18:32:27 +0000",can,,Darkness My Friends Imperial Baltic Porter Coffee & Date Syrup,Maryensztadt,Porter - Baltic
@@ -9980,8 +10037,8 @@ lauter,Mikhail Stolov,"Tue, 05 Aug 2025 18:52:25 +0000",,3.25,OUOUOU,4BREWERS,So
 lauter,Oren Sleepwalker,"Tue, 05 Aug 2025 18:50:13 +0000",,,Whakahoa,Factory Brewing,IPA - Triple New England / Hazy
 schnitt-brewing-company,Arkady Gerasimuk,"Tue, 05 Aug 2025 18:49:49 +0000",draft,3.5,Twist & Stout,Schnitt Brewing Company﻿,Stout - Irish Dry
 schnitt-brewing-company,Yaniv Gorodetsky,"Tue, 05 Aug 2025 18:49:42 +0000",draft,3.0,Twist & Stout,Schnitt Brewing Company﻿,Stout - Irish Dry
-lauter,Yaron Sh,"Tue, 05 Aug 2025 18:49:38 +0000",,4.5,Whakahoa,Factory Brewing,IPA - Triple New England / Hazy
 lauter,Yosef Dahan,"Tue, 05 Aug 2025 18:49:38 +0000",can,4.0,Whakahoa,Factory Brewing,IPA - Triple New England / Hazy
+lauter,Yaron Sh,"Tue, 05 Aug 2025 18:49:38 +0000",,4.5,Whakahoa,Factory Brewing,IPA - Triple New England / Hazy
 lauter,Yaniv Alal,"Tue, 05 Aug 2025 18:49:26 +0000",draft,4.25,Whakahoa,Factory Brewing,IPA - Triple New England / Hazy
 lauter,Shaul A,"Tue, 05 Aug 2025 18:49:14 +0000",,4.5,Whakahoa,Factory Brewing,IPA - Triple New England / Hazy
 lauter,Yaron Sh,"Tue, 05 Aug 2025 18:48:30 +0000",,4.0,Magical Path,Shred Beer Company,IPA - New England / Hazy
@@ -11928,8 +11985,8 @@ berlin-florentin,Sharon Confino,"Mon, 23 Dec 2024 18:45:24 +0000",bottle,3.75,Fr
 berlin-florentin,Yana O,"Mon, 23 Dec 2024 18:44:17 +0000",bottle,4.0,Framboise,Brouwerij Lindemans,Lambic - Framboise
 berlin-florentin,Ⓜ️axx Dee,"Mon, 23 Dec 2024 18:44:11 +0000",bottle,4.0,Framboise,Brouwerij Lindemans,Lambic - Framboise
 berlin-florentin,Ⓜ️axx Dee,"Mon, 23 Dec 2024 18:38:17 +0000",bottle,4.0,Christmas Ale (2023),Brouwerij St.Bernardus,Winter Ale
-berlin-florentin,Sharon Confino,"Mon, 23 Dec 2024 18:37:49 +0000",bottle,3.0,Christmas Ale,Brouwerij St.Bernardus,Winter Ale
 berlin-florentin,Yana O,"Mon, 23 Dec 2024 18:37:49 +0000",bottle,4.1,Christmas Ale (2023),Brouwerij St.Bernardus,Winter Ale
+berlin-florentin,Sharon Confino,"Mon, 23 Dec 2024 18:37:49 +0000",bottle,3.0,Christmas Ale,Brouwerij St.Bernardus,Winter Ale
 berlin-florentin,Sharon Confino,"Mon, 23 Dec 2024 18:32:18 +0000",bottle,4.5,Faro,Brouwerij Lindemans,Lambic - Faro
 berlin-florentin,Yana O,"Mon, 23 Dec 2024 18:30:45 +0000",bottle,4.0,Faro,Brouwerij Lindemans,Lambic - Faro
 berlin-florentin,Ⓜ️axx Dee,"Mon, 23 Dec 2024 18:30:43 +0000",bottle,4.1,Faro,Brouwerij Lindemans,Lambic - Faro
