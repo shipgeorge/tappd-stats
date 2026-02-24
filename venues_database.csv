@@ -1,4 +1,75 @@
 venue,user,time,serving,data_rating,beer_name,brewery,beer_type
+lauter,גל סילברמן,"Tue, 24 Feb 2026 06:05:23 +0000",can,4.0,Stuck On S'More (2025),Fine Balance Brewing,Stout - Pastry
+lauter,גל סילברמן,"Tue, 24 Feb 2026 06:02:17 +0000",can,4.5,Зависимость [Чёрный перец],4BREWERS,Sour - Tomato / Vegetable Gose
+porter-and-sons,גל סילברמן,"Tue, 24 Feb 2026 05:59:18 +0000",bottle,3.9,Dama Mirabella Çina,Brasserie des Franches-Montagnes (BFM),Wheat Beer - Fruited
+porter-and-sons,גל סילברמן,"Tue, 24 Feb 2026 05:56:44 +0000",bottle,4.0,Savvaļā 2022,Abuls Sidra Darītava,Cider - Traditional / Apfelwein
+porter-and-sons,גל סילברמן,"Tue, 24 Feb 2026 05:53:12 +0000",bottle,4.3,Zidania,Brasserie des Franches-Montagnes (BFM),Bière de Champagne / Bière Brut
+porter-and-sons,גל סילברמן,"Tue, 24 Feb 2026 05:51:48 +0000",bottle,3.8,Naturālis Pet-nat 2022,Abuls Sidra Darītava,Cider - Dry
+porter-and-sons,גל סילברמן,"Tue, 24 Feb 2026 05:50:19 +0000",bottle,3.9,I.P.A,RonStar,"Homebrew, IPA - American"
+porter-and-sons,גל סילברמן,"Tue, 24 Feb 2026 05:49:17 +0000",bottle,4.4,סאוור אוכמניות,RonStar,"Homebrew, Sour - Fruited"
+porter-and-sons,גל סילברמן,"Tue, 24 Feb 2026 05:47:19 +0000",bottle,4.2,Robust Porter With Winter Spices,Batra Homebrewery,"Homebrew, Porter - Other"
+porter-and-sons,גל סילברמן,"Tue, 24 Feb 2026 05:45:41 +0000",bottle,3.7,Be Wild#2: Flanders Red Ale Aged In Red Wine Barrels,Browar Rockmill,Sour - Flanders Red Ale
+porter-and-sons,גל סילברמן,"Tue, 24 Feb 2026 05:44:00 +0000",bottle,4.0,Die Rote Kapelle - Berries,Fat Cat Brewery,"Homebrew, Sour - Fruited Berliner Weisse"
+porter-and-sons,גל סילברמן,"Tue, 24 Feb 2026 05:41:49 +0000",bottle,3.9,Tropical Talus HPA Jan26,Batra Homebrewery,"Homebrew, Pale Ale - New England / Hazy"
+porter-and-sons,גל סילברמן,"Tue, 24 Feb 2026 05:40:36 +0000",bottle,4.5,Black Fruit Well,Brasserie des Franches-Montagnes (BFM),Sour - Other
+lauter,oriel38,"Mon, 23 Feb 2026 21:13:52 +0000",draft,3.25,Budweiser Budvar / Czechvar Original,Budějovický Budvar,Pilsner - Czech / Bohemian
+schnitt-brewing-company,Lee Ker,"Mon, 23 Feb 2026 20:44:40 +0000",,,ער.ה? 2025,Schnitt Brewing Company﻿,Stout - White / Golden
+schnitt-brewing-company,Lee Ker,"Mon, 23 Feb 2026 20:34:25 +0000",,,Stoutment,Schnitt Brewing Company﻿,Stout - Other
+schnitt-brewing-company,Zoe Bystrik,"Mon, 23 Feb 2026 20:33:06 +0000",bottle,4.5,La Trappe Nillis 0.0%,Bierbrouwerij De Koningshoeven,Non-Alcoholic - Other
+lauter,Yana O,"Mon, 23 Feb 2026 20:18:43 +0000",draft,4.3,Black Forest,קישקשתא (Kishkashta),Porter - Imperial / Double
+porter-and-sons,Yaron Sh,"Mon, 23 Feb 2026 19:25:20 +0000",,4.0,Be Wild#2: Flanders Red Ale Aged In Red Wine Barrels,Browar Rockmill,Sour - Flanders Red Ale
+porter-and-sons,Oren Sleepwalker,"Mon, 23 Feb 2026 19:21:06 +0000",,,סאוור אוכמניות,RonStar,"Homebrew, Sour - Fruited"
+porter-and-sons,Oren Sleepwalker,"Mon, 23 Feb 2026 19:19:45 +0000",,,Be Wild#2: Flanders Red Ale Aged In Red Wine Barrels,Browar Rockmill,Sour - Flanders Red Ale
+porter-and-sons,Yaron Sh,"Mon, 23 Feb 2026 19:14:26 +0000",bottle,4.25,Die Rote Kapelle - Cherries,Fat Cat Brewery,"Homebrew, Sour - Fruited Berliner Weisse"
+porter-and-sons,Oren Sleepwalker,"Mon, 23 Feb 2026 19:09:34 +0000",,,Die Rote Kapelle - Cherries,Fat Cat Brewery,"Homebrew, Sour - Fruited Berliner Weisse"
+porter-and-sons,Yaron Sh,"Mon, 23 Feb 2026 19:03:17 +0000",,3.75,Imperial Brett Saison,Genys Brewing Co.,Brett Beer
+porter-and-sons,Yaron Sh,"Mon, 23 Feb 2026 19:02:44 +0000",bottle,4.0,Lichtenheiner Orange Zest Jan26,Batra Homebrewery,"Homebrew, Historical Beer - Lichtenhainer"
+porter-and-sons,Max N,"Mon, 23 Feb 2026 19:02:21 +0000",bottle,3.8,Lichtenheiner Orange Zest Jan26,Batra Homebrewery,"Homebrew, Historical Beer - Lichtenhainer"
+porter-and-sons,Oren Sleepwalker,"Mon, 23 Feb 2026 19:00:05 +0000",,,Lichtenheiner Orange Zest Jan26,Batra Homebrewery,"Homebrew, Historical Beer - Lichtenhainer"
+porter-and-sons,Anton,"Mon, 23 Feb 2026 18:53:55 +0000",bottle,3.5,Imperial Brett Saison,Genys Brewing Co.,Brett Beer
+porter-and-sons,Oren Sleepwalker,"Mon, 23 Feb 2026 18:51:24 +0000",,,Die Rote Kapelle - Berries,Fat Cat Brewery,"Homebrew, Sour - Fruited Berliner Weisse"
+porter-and-sons,Yaron Sh,"Mon, 23 Feb 2026 18:51:19 +0000",bottle,4.25,Die Rote Kapelle - Berries,Fat Cat Brewery,"Homebrew, Sour - Fruited Berliner Weisse"
+porter-and-sons,Oren Sleepwalker,"Mon, 23 Feb 2026 18:49:13 +0000",,,Imperial Brett Saison,Genys Brewing Co.,Brett Beer
+porter-and-sons,Yaron Sh,"Mon, 23 Feb 2026 18:48:19 +0000",,4.0,Tropical Talus HPA Jan26,Batra Homebrewery,"Homebrew, Pale Ale - New England / Hazy"
+porter-and-sons,Yaron Sh,"Mon, 23 Feb 2026 18:45:46 +0000",,4.0,Black Fruit Well,Brasserie des Franches-Montagnes (BFM),Sour - Other
+porter-and-sons,Oren Sleepwalker,"Mon, 23 Feb 2026 18:45:32 +0000",,,Tropical Talus HPA Jan26,Batra Homebrewery,"Homebrew, Pale Ale - New England / Hazy"
+schnitt-brewing-company,Arnon Ben-dov,"Mon, 23 Feb 2026 18:43:41 +0000",draft,4.0,Stoutment,Schnitt Brewing Company﻿,Stout - Other
+schnitt-brewing-company,Arnon Ben-dov,"Mon, 23 Feb 2026 18:43:20 +0000",draft,4.0,4 the Love of Fruit,Schnitt Brewing Company﻿,IPA - New England / Hazy
+porter-and-sons,Max N,"Mon, 23 Feb 2026 18:41:07 +0000",bottle,3.8,Naturālis Pet-nat 2022,Abuls Sidra Darītava,Cider - Dry
+porter-and-sons,Oren Sleepwalker,"Mon, 23 Feb 2026 18:39:04 +0000",,,Zidania,Brasserie des Franches-Montagnes (BFM),Bière de Champagne / Bière Brut
+porter-and-sons,Oren Sleepwalker,"Mon, 23 Feb 2026 18:38:21 +0000",,,Bush.,Moon Lark Brewery,IPA - American
+porter-and-sons,Oren Sleepwalker,"Mon, 23 Feb 2026 18:37:14 +0000",,,Black Fruit Well,Brasserie des Franches-Montagnes (BFM),Sour - Other
+porter-and-sons,Max N,"Mon, 23 Feb 2026 18:36:54 +0000",bottle,4.0,Zidania,Brasserie des Franches-Montagnes (BFM),Bière de Champagne / Bière Brut
+porter-and-sons,Oren Sleepwalker,"Mon, 23 Feb 2026 18:36:45 +0000",bottle,,MISHELANU,Batra Homebrewery,"Homebrew, Farmhouse Ale - Saison"
+porter-and-sons,Leo C,"Mon, 23 Feb 2026 18:36:01 +0000",,,In the Little,Schnitt Brewing Company﻿,IPA - Session
+porter-and-sons,Max N,"Mon, 23 Feb 2026 18:32:45 +0000",bottle,4.4,Black Fruit Well,Brasserie des Franches-Montagnes (BFM),Sour - Other
+porter-and-sons,Max N,"Mon, 23 Feb 2026 18:31:57 +0000",bottle,3.7,Tropical Talus HPA Jan26,Batra Homebrewery,"Homebrew, Pale Ale - New England / Hazy"
+porter-and-sons,Yaron Sh,"Mon, 23 Feb 2026 18:31:30 +0000",draft,4.0,Bush.,Moon Lark Brewery,IPA - American
+porter-and-sons,Max N,"Mon, 23 Feb 2026 18:31:08 +0000",bottle,3.8,Robust Porter With Winter Spices,Batra Homebrewery,"Homebrew, Porter - Other"
+porter-and-sons,Yaron Sh,"Mon, 23 Feb 2026 18:30:07 +0000",,4.0,MISHELANU,Batra Homebrewery,"Homebrew, Farmhouse Ale - Saison"
+porter-and-sons,Max N,"Mon, 23 Feb 2026 18:26:57 +0000",bottle,3.7,MISHELANU,Batra Homebrewery,"Homebrew, Farmhouse Ale - Saison"
+schnitt-brewing-company,GuyGellert,"Mon, 23 Feb 2026 17:01:09 +0000",draft,3.25,Twist & Stout,Schnitt Brewing Company﻿,Stout - Irish Dry
+lauter,Ido Kessler,"Mon, 23 Feb 2026 17:01:03 +0000",draft,4.25,Meerts Tilquin à la Kriek de Schaerbeek,Gueuzerie Tilquin,Lambic - Fruit
+schnitt-brewing-company,Niv Gellert,"Mon, 23 Feb 2026 16:59:14 +0000",draft,3.5,Abbey Mode,Schnitt Brewing Company﻿,Belgian Dubbel
+lauter,Arnon Ben-dov,"Mon, 23 Feb 2026 16:44:06 +0000",,3.75,Hop 4ward,Schnitt Brewing Company﻿,IPA - American
+lauter,Arnon Ben-dov,"Mon, 23 Feb 2026 16:43:46 +0000",,3.25,Brut,Isis Desert Brewery (מבשלת הנגב המערבי),Bière de Champagne / Bière Brut
+lauter,Arnon Ben-dov,"Mon, 23 Feb 2026 16:43:12 +0000",,3.75,Black Forest,קישקשתא (Kishkashta),Porter - Imperial / Double
+berlin-florentin,uri822,"Mon, 23 Feb 2026 15:49:26 +0000",can,4.5,Must Kuld,Põhjala,Porter - Other
+berlin-florentin,Ilya Markovsky,"Mon, 23 Feb 2026 12:18:40 +0000",bottle,3.9,Kasteel Rouge 0.0,Kasteel Brouwerij Vanhonsebrouck,Non-Alcoholic - Fruit Beer
+schnitt-brewing-company,matt katz,"Mon, 23 Feb 2026 11:54:45 +0000",,4.25,Anything Gose: Orange And Sage,Schnitt Brewing Company﻿,Sour - Fruited Gose
+schnitt-brewing-company,keren mk,"Mon, 23 Feb 2026 11:52:53 +0000",draft,4.0,Coresh כורש,Schnitt Brewing Company﻿,Smoked Beer
+schnitt-brewing-company,matt katz,"Mon, 23 Feb 2026 11:52:14 +0000",,3.5,Abbey Mode,Schnitt Brewing Company﻿,Belgian Dubbel
+schnitt-brewing-company,matt katz,"Mon, 23 Feb 2026 11:43:44 +0000",,3.25,Alt Neuland,Schnitt Brewing Company﻿,Altbier - Traditional
+schnitt-brewing-company,matt katz,"Mon, 23 Feb 2026 11:38:15 +0000",,3.25,I(tai)PA,Schnitt Brewing Company﻿,IPA - Other
+schnitt-brewing-company,matt katz,"Mon, 23 Feb 2026 11:21:39 +0000",,4.25,Four Hopsmen,Schnitt Brewing Company﻿,IPA - Imperial / Double New England / Hazy
+schnitt-brewing-company,matt katz,"Mon, 23 Feb 2026 11:17:50 +0000",,3.5,Piñata,Schnitt Brewing Company﻿,IPA - New England / Hazy
+schnitt-brewing-company,Avigdor Book,"Mon, 23 Feb 2026 11:17:26 +0000",draft,4.25,4 the Love of Fruit,Schnitt Brewing Company﻿,IPA - New England / Hazy
+schnitt-brewing-company,matt katz,"Mon, 23 Feb 2026 11:13:21 +0000",,3.75,עכשיו מעונן 2024 It’s Cloudy Now,Schnitt Brewing Company﻿,IPA - New England / Hazy
+schnitt-brewing-company,keren mk,"Mon, 23 Feb 2026 11:05:06 +0000",,4.0,Flu Fighters,Schnitt Brewing Company﻿,Pale Ale - Other
+schnitt-brewing-company,matt katz,"Mon, 23 Feb 2026 10:58:35 +0000",,4.0,4 the Love of Fruit,Schnitt Brewing Company﻿,IPA - New England / Hazy
+beerline,Дмитрий Семенкин,"Mon, 23 Feb 2026 08:51:20 +0000",draft,4.0,Delirium Black Barrel Aged,Delirium - Huyghe Brewery,Belgian Strong Dark Ale
+beerline,Дмитрий Семенкин,"Mon, 23 Feb 2026 08:19:05 +0000",draft,4.0,Pleroma Karpologi Pineapple Peach Marshmallow Créme Brulée Sour,Omnipollo,Sour - Smoothie / Pastry
+beerline,Дмитрий Семенкин,"Mon, 23 Feb 2026 08:15:55 +0000",draft,3.75,Tennent's Stout,Tennent's Caledonian Brewery,Stout - English
 lauter,Vladimir Gershanov,"Sun, 22 Feb 2026 21:14:19 +0000",bottle,5.0,Fou' Foune (2024),Brasserie Cantillon,Lambic - Fruit
 lauter,Vladimir Gershanov,"Sun, 22 Feb 2026 21:13:30 +0000",bottle,5.0,Oude Rhubarbe Tilquin à l'Ancienne (2022-2023),Gueuzerie Tilquin,Lambic - Other
 porter-and-sons,Vladimir Gershanov,"Sun, 22 Feb 2026 21:12:11 +0000",bottle,4.5,Oude Rhubarbe Tilquin à l'Ancienne (2022-2023),Gueuzerie Tilquin,Lambic - Other
@@ -1056,8 +1127,8 @@ b7-beer-house,Dima Shleifman,"Sun, 25 Jan 2026 20:52:02 +0000",can,3.25,Eureka,O
 b7-beer-house,Alex Fux,"Sun, 25 Jan 2026 20:50:34 +0000",can,3.5,Eureka,Ophiussa,Sour - Smoothie / Pastry
 b7-beer-house,Dima Shleifman,"Sun, 25 Jan 2026 20:49:57 +0000",can,3.75,Gelato: Syrniki,Funky Fluid,Sour - Smoothie / Pastry
 b7-beer-house,Yotam Bar-natan,"Sun, 25 Jan 2026 20:49:40 +0000",can,3.9,Eureka,Ophiussa,Sour - Smoothie / Pastry
-b7-beer-house,Alex Fux,"Sun, 25 Jan 2026 20:44:31 +0000",can,3.0,Gelato: Syrniki,Funky Fluid,Sour - Smoothie / Pastry
 b7-beer-house,Yotam Bar-natan,"Sun, 25 Jan 2026 20:44:31 +0000",can,3.8,Gelato: Syrniki,Funky Fluid,Sour - Smoothie / Pastry
+b7-beer-house,Alex Fux,"Sun, 25 Jan 2026 20:44:31 +0000",can,3.0,Gelato: Syrniki,Funky Fluid,Sour - Smoothie / Pastry
 b7-beer-house,Dima Shleifman,"Sun, 25 Jan 2026 20:43:21 +0000",can,3.5,Chilly Willie,Freebridge Brewing,IPA - Cold
 b7-beer-house,Eli Smikin,"Sun, 25 Jan 2026 20:42:30 +0000",can,4.2,She Shot First,Bottle Logic Brewing,IPA - New England / Hazy
 b7-beer-house,Alex Fux,"Sun, 25 Jan 2026 20:40:26 +0000",can,4.0,Chilly Willie,Freebridge Brewing,IPA - Cold
@@ -4632,8 +4703,8 @@ b7-beer-house,Kobi,"Fri, 21 Nov 2025 12:12:45 +0000",,4.0,Bzart Lambiek Millési
 b7-beer-house,Yaniv Alal,"Fri, 21 Nov 2025 12:09:40 +0000",bottle,4.25,Six Seven,Beerbalach,"Homebrew, Lambic - Gueuze"
 b7-beer-house,Tom Lahav,"Fri, 21 Nov 2025 12:09:01 +0000",bottle,3.5,Six Seven,Beerbalach,"Homebrew, Lambic - Gueuze"
 b7-beer-house,barak luzon,"Fri, 21 Nov 2025 12:08:45 +0000",,4.0,FIZY,Fundamental Brewing Co.,Sour - Fruited Berliner Weisse
-b7-beer-house,Yaniv Alal,"Fri, 21 Nov 2025 12:08:02 +0000",bottle,4.0,Wild Dry Cider - Blended With Lambic,Oud Beersel,Cider - Dry
 b7-beer-house,barak luzon,"Fri, 21 Nov 2025 12:08:02 +0000",bottle,4.25,Bzart Lambiek Millésime 2018,Oud Beersel,Lambic - Traditional
+b7-beer-house,Yaniv Alal,"Fri, 21 Nov 2025 12:08:02 +0000",bottle,4.0,Wild Dry Cider - Blended With Lambic,Oud Beersel,Cider - Dry
 b7-beer-house,Tom Lahav,"Fri, 21 Nov 2025 12:07:23 +0000",,3.75,Bzart Lambiek Millésime 2018,Oud Beersel,Lambic - Traditional
 b7-beer-house,Ido Cohen,"Fri, 21 Nov 2025 12:06:42 +0000",bottle,4.1,Bzart Lambiek Millésime 2018,Oud Beersel,Lambic - Traditional
 b7-beer-house,Eylon,"Fri, 21 Nov 2025 12:05:29 +0000",can,3.75,Mebel,Ziemia Obiecana,IPA - Session
@@ -9347,8 +9418,8 @@ b7-beer-house,Liad Shaked,"Thu, 21 Aug 2025 16:02:21 +0000",can,4.3,Salted Caram
 b7-beer-house,Ido Cohen,"Thu, 21 Aug 2025 16:02:06 +0000",can,3.9,Birthday Cake,Vocation Brewery,Stout - Milk / Sweet
 b7-beer-house,Eran Keller,"Thu, 21 Aug 2025 16:01:24 +0000",can,3.75,Naughty & Nice - White Chocolate & Raspberry,Vocation Brewery,Stout - White / Golden
 b7-beer-house,Ido Cohen,"Thu, 21 Aug 2025 16:00:48 +0000",can,3.7,Naughty & Nice - White Chocolate & Raspberry,Vocation Brewery,Stout - White / Golden
-b7-beer-house,sourlips69,"Thu, 21 Aug 2025 16:00:28 +0000",can,5.0,Naughty & Nice - White Chocolate & Raspberry,Vocation Brewery,Stout - White / Golden
 lauter,Danny Ganelin,"Thu, 21 Aug 2025 16:00:28 +0000",draft,3.5,KRUSHED IT,Oak & Ash,IPA - New England / Hazy
+b7-beer-house,sourlips69,"Thu, 21 Aug 2025 16:00:28 +0000",can,5.0,Naughty & Nice - White Chocolate & Raspberry,Vocation Brewery,Stout - White / Golden
 b7-beer-house,גל סילברמן,"Thu, 21 Aug 2025 16:00:18 +0000",can,3.8,Naughty & Nice - White Chocolate & Raspberry,Vocation Brewery,Stout - White / Golden
 b7-beer-house,Guy Azene,"Thu, 21 Aug 2025 16:00:01 +0000",can,3.8,Naughty & Nice - White Chocolate & Raspberry,Vocation Brewery,Stout - White / Golden
 b7-beer-house,Liad Shaked,"Thu, 21 Aug 2025 15:59:41 +0000",can,3.9,Naughty & Nice - White Chocolate & Raspberry,Vocation Brewery,Stout - White / Golden
@@ -12100,8 +12171,8 @@ berlin-florentin,Sharon Confino,"Mon, 23 Dec 2024 18:45:24 +0000",bottle,3.75,Fr
 berlin-florentin,Yana O,"Mon, 23 Dec 2024 18:44:17 +0000",bottle,4.0,Framboise,Brouwerij Lindemans,Lambic - Framboise
 berlin-florentin,Ⓜ️axx Dee,"Mon, 23 Dec 2024 18:44:11 +0000",bottle,4.0,Framboise,Brouwerij Lindemans,Lambic - Framboise
 berlin-florentin,Ⓜ️axx Dee,"Mon, 23 Dec 2024 18:38:17 +0000",bottle,4.0,Christmas Ale (2023),Brouwerij St.Bernardus,Winter Ale
-berlin-florentin,Yana O,"Mon, 23 Dec 2024 18:37:49 +0000",bottle,4.1,Christmas Ale (2023),Brouwerij St.Bernardus,Winter Ale
 berlin-florentin,Sharon Confino,"Mon, 23 Dec 2024 18:37:49 +0000",bottle,3.0,Christmas Ale,Brouwerij St.Bernardus,Winter Ale
+berlin-florentin,Yana O,"Mon, 23 Dec 2024 18:37:49 +0000",bottle,4.1,Christmas Ale (2023),Brouwerij St.Bernardus,Winter Ale
 berlin-florentin,Sharon Confino,"Mon, 23 Dec 2024 18:32:18 +0000",bottle,4.5,Faro,Brouwerij Lindemans,Lambic - Faro
 berlin-florentin,Yana O,"Mon, 23 Dec 2024 18:30:45 +0000",bottle,4.0,Faro,Brouwerij Lindemans,Lambic - Faro
 berlin-florentin,Ⓜ️axx Dee,"Mon, 23 Dec 2024 18:30:43 +0000",bottle,4.1,Faro,Brouwerij Lindemans,Lambic - Faro

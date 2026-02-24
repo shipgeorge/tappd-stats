@@ -1,8 +1,647 @@
 // 🍺 BEER STATS DATA - Generated automatically
-// Last updated: 2026-02-23 07:17:20
-// Total records: 13152
+// Last updated: 2026-02-24 07:11:39
+// Total records: 13223
 
 const BEER_DATA = [
+  {
+    "venue": "lauter",
+    "time": "2026-02-24T06:05:23+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Stuck On S'More (2025)",
+    "brewery": "Fine Balance Brewing",
+    "beer_type": "Stout - Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-02-24T06:02:17+00:00",
+    "serving": "can",
+    "rating": 4.5,
+    "beer_name": "Зависимость [Чёрный перец]",
+    "brewery": "4BREWERS",
+    "beer_type": "Sour - Tomato / Vegetable Gose"
+  },
+  {
+    "venue": "porter-and-sons",
+    "time": "2026-02-24T05:59:18+00:00",
+    "serving": "bottle",
+    "rating": 3.9,
+    "beer_name": "Dama Mirabella Çina",
+    "brewery": "Brasserie des Franches-Montagnes (BFM)",
+    "beer_type": "Wheat Beer - Fruited"
+  },
+  {
+    "venue": "porter-and-sons",
+    "time": "2026-02-24T05:56:44+00:00",
+    "serving": "bottle",
+    "rating": 4.0,
+    "beer_name": "Savvaļā 2022",
+    "brewery": "Abuls Sidra Darītava",
+    "beer_type": "Cider - Traditional / Apfelwein"
+  },
+  {
+    "venue": "porter-and-sons",
+    "time": "2026-02-24T05:53:12+00:00",
+    "serving": "bottle",
+    "rating": 4.3,
+    "beer_name": "Zidania",
+    "brewery": "Brasserie des Franches-Montagnes (BFM)",
+    "beer_type": "Bière de Champagne / Bière Brut"
+  },
+  {
+    "venue": "porter-and-sons",
+    "time": "2026-02-24T05:51:48+00:00",
+    "serving": "bottle",
+    "rating": 3.8,
+    "beer_name": "Naturālis Pet-nat 2022",
+    "brewery": "Abuls Sidra Darītava",
+    "beer_type": "Cider - Dry"
+  },
+  {
+    "venue": "porter-and-sons",
+    "time": "2026-02-24T05:50:19+00:00",
+    "serving": "bottle",
+    "rating": 3.9,
+    "beer_name": "I.P.A",
+    "brewery": "RonStar",
+    "beer_type": "Homebrew, IPA - American"
+  },
+  {
+    "venue": "porter-and-sons",
+    "time": "2026-02-24T05:49:17+00:00",
+    "serving": "bottle",
+    "rating": 4.4,
+    "beer_name": "סאוור אוכמניות",
+    "brewery": "RonStar",
+    "beer_type": "Homebrew, Sour - Fruited"
+  },
+  {
+    "venue": "porter-and-sons",
+    "time": "2026-02-24T05:47:19+00:00",
+    "serving": "bottle",
+    "rating": 4.2,
+    "beer_name": "Robust Porter With Winter Spices",
+    "brewery": "Batra Homebrewery",
+    "beer_type": "Homebrew, Porter - Other"
+  },
+  {
+    "venue": "porter-and-sons",
+    "time": "2026-02-24T05:45:41+00:00",
+    "serving": "bottle",
+    "rating": 3.7,
+    "beer_name": "Be Wild#2: Flanders Red Ale Aged In Red Wine Barrels",
+    "brewery": "Browar Rockmill",
+    "beer_type": "Sour - Flanders Red Ale"
+  },
+  {
+    "venue": "porter-and-sons",
+    "time": "2026-02-24T05:44:00+00:00",
+    "serving": "bottle",
+    "rating": 4.0,
+    "beer_name": "Die Rote Kapelle - Berries",
+    "brewery": "Fat Cat Brewery",
+    "beer_type": "Homebrew, Sour - Fruited Berliner Weisse"
+  },
+  {
+    "venue": "porter-and-sons",
+    "time": "2026-02-24T05:41:49+00:00",
+    "serving": "bottle",
+    "rating": 3.9,
+    "beer_name": "Tropical Talus HPA Jan26",
+    "brewery": "Batra Homebrewery",
+    "beer_type": "Homebrew, Pale Ale - New England / Hazy"
+  },
+  {
+    "venue": "porter-and-sons",
+    "time": "2026-02-24T05:40:36+00:00",
+    "serving": "bottle",
+    "rating": 4.5,
+    "beer_name": "Black Fruit Well",
+    "brewery": "Brasserie des Franches-Montagnes (BFM)",
+    "beer_type": "Sour - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-02-23T21:13:52+00:00",
+    "serving": "draft",
+    "rating": 3.25,
+    "beer_name": "Budweiser Budvar / Czechvar Original",
+    "brewery": "Budějovický Budvar",
+    "beer_type": "Pilsner - Czech / Bohemian"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-02-23T20:44:40+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "ער.ה? 2025",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Stout - White / Golden"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-02-23T20:34:25+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Stoutment",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Stout - Other"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-02-23T20:33:06+00:00",
+    "serving": "bottle",
+    "rating": 4.5,
+    "beer_name": "La Trappe Nillis 0.0%",
+    "brewery": "Bierbrouwerij De Koningshoeven",
+    "beer_type": "Non-Alcoholic - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-02-23T20:18:43+00:00",
+    "serving": "draft",
+    "rating": 4.3,
+    "beer_name": "Black Forest",
+    "brewery": "קישקשתא (Kishkashta)",
+    "beer_type": "Porter - Imperial / Double"
+  },
+  {
+    "venue": "porter-and-sons",
+    "time": "2026-02-23T19:25:20+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Be Wild#2: Flanders Red Ale Aged In Red Wine Barrels",
+    "brewery": "Browar Rockmill",
+    "beer_type": "Sour - Flanders Red Ale"
+  },
+  {
+    "venue": "porter-and-sons",
+    "time": "2026-02-23T19:21:06+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "סאוור אוכמניות",
+    "brewery": "RonStar",
+    "beer_type": "Homebrew, Sour - Fruited"
+  },
+  {
+    "venue": "porter-and-sons",
+    "time": "2026-02-23T19:19:45+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Be Wild#2: Flanders Red Ale Aged In Red Wine Barrels",
+    "brewery": "Browar Rockmill",
+    "beer_type": "Sour - Flanders Red Ale"
+  },
+  {
+    "venue": "porter-and-sons",
+    "time": "2026-02-23T19:14:26+00:00",
+    "serving": "bottle",
+    "rating": 4.25,
+    "beer_name": "Die Rote Kapelle - Cherries",
+    "brewery": "Fat Cat Brewery",
+    "beer_type": "Homebrew, Sour - Fruited Berliner Weisse"
+  },
+  {
+    "venue": "porter-and-sons",
+    "time": "2026-02-23T19:09:34+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Die Rote Kapelle - Cherries",
+    "brewery": "Fat Cat Brewery",
+    "beer_type": "Homebrew, Sour - Fruited Berliner Weisse"
+  },
+  {
+    "venue": "porter-and-sons",
+    "time": "2026-02-23T19:03:17+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "Imperial Brett Saison",
+    "brewery": "Genys Brewing Co.",
+    "beer_type": "Brett Beer"
+  },
+  {
+    "venue": "porter-and-sons",
+    "time": "2026-02-23T19:02:44+00:00",
+    "serving": "bottle",
+    "rating": 4.0,
+    "beer_name": "Lichtenheiner Orange Zest Jan26",
+    "brewery": "Batra Homebrewery",
+    "beer_type": "Homebrew, Historical Beer - Lichtenhainer"
+  },
+  {
+    "venue": "porter-and-sons",
+    "time": "2026-02-23T19:02:21+00:00",
+    "serving": "bottle",
+    "rating": 3.8,
+    "beer_name": "Lichtenheiner Orange Zest Jan26",
+    "brewery": "Batra Homebrewery",
+    "beer_type": "Homebrew, Historical Beer - Lichtenhainer"
+  },
+  {
+    "venue": "porter-and-sons",
+    "time": "2026-02-23T19:00:05+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Lichtenheiner Orange Zest Jan26",
+    "brewery": "Batra Homebrewery",
+    "beer_type": "Homebrew, Historical Beer - Lichtenhainer"
+  },
+  {
+    "venue": "porter-and-sons",
+    "time": "2026-02-23T18:53:55+00:00",
+    "serving": "bottle",
+    "rating": 3.5,
+    "beer_name": "Imperial Brett Saison",
+    "brewery": "Genys Brewing Co.",
+    "beer_type": "Brett Beer"
+  },
+  {
+    "venue": "porter-and-sons",
+    "time": "2026-02-23T18:51:24+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Die Rote Kapelle - Berries",
+    "brewery": "Fat Cat Brewery",
+    "beer_type": "Homebrew, Sour - Fruited Berliner Weisse"
+  },
+  {
+    "venue": "porter-and-sons",
+    "time": "2026-02-23T18:51:19+00:00",
+    "serving": "bottle",
+    "rating": 4.25,
+    "beer_name": "Die Rote Kapelle - Berries",
+    "brewery": "Fat Cat Brewery",
+    "beer_type": "Homebrew, Sour - Fruited Berliner Weisse"
+  },
+  {
+    "venue": "porter-and-sons",
+    "time": "2026-02-23T18:49:13+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Imperial Brett Saison",
+    "brewery": "Genys Brewing Co.",
+    "beer_type": "Brett Beer"
+  },
+  {
+    "venue": "porter-and-sons",
+    "time": "2026-02-23T18:48:19+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Tropical Talus HPA Jan26",
+    "brewery": "Batra Homebrewery",
+    "beer_type": "Homebrew, Pale Ale - New England / Hazy"
+  },
+  {
+    "venue": "porter-and-sons",
+    "time": "2026-02-23T18:45:46+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Black Fruit Well",
+    "brewery": "Brasserie des Franches-Montagnes (BFM)",
+    "beer_type": "Sour - Other"
+  },
+  {
+    "venue": "porter-and-sons",
+    "time": "2026-02-23T18:45:32+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Tropical Talus HPA Jan26",
+    "brewery": "Batra Homebrewery",
+    "beer_type": "Homebrew, Pale Ale - New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-02-23T18:43:41+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Stoutment",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Stout - Other"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-02-23T18:43:20+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "4 the Love of Fruit",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "porter-and-sons",
+    "time": "2026-02-23T18:41:07+00:00",
+    "serving": "bottle",
+    "rating": 3.8,
+    "beer_name": "Naturālis Pet-nat 2022",
+    "brewery": "Abuls Sidra Darītava",
+    "beer_type": "Cider - Dry"
+  },
+  {
+    "venue": "porter-and-sons",
+    "time": "2026-02-23T18:39:04+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Zidania",
+    "brewery": "Brasserie des Franches-Montagnes (BFM)",
+    "beer_type": "Bière de Champagne / Bière Brut"
+  },
+  {
+    "venue": "porter-and-sons",
+    "time": "2026-02-23T18:38:21+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Bush.",
+    "brewery": "Moon Lark Brewery",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "porter-and-sons",
+    "time": "2026-02-23T18:37:14+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Black Fruit Well",
+    "brewery": "Brasserie des Franches-Montagnes (BFM)",
+    "beer_type": "Sour - Other"
+  },
+  {
+    "venue": "porter-and-sons",
+    "time": "2026-02-23T18:36:54+00:00",
+    "serving": "bottle",
+    "rating": 4.0,
+    "beer_name": "Zidania",
+    "brewery": "Brasserie des Franches-Montagnes (BFM)",
+    "beer_type": "Bière de Champagne / Bière Brut"
+  },
+  {
+    "venue": "porter-and-sons",
+    "time": "2026-02-23T18:36:45+00:00",
+    "serving": "bottle",
+    "rating": null,
+    "beer_name": "MISHELANU",
+    "brewery": "Batra Homebrewery",
+    "beer_type": "Homebrew, Farmhouse Ale - Saison"
+  },
+  {
+    "venue": "porter-and-sons",
+    "time": "2026-02-23T18:36:01+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "In the Little",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - Session"
+  },
+  {
+    "venue": "porter-and-sons",
+    "time": "2026-02-23T18:32:45+00:00",
+    "serving": "bottle",
+    "rating": 4.4,
+    "beer_name": "Black Fruit Well",
+    "brewery": "Brasserie des Franches-Montagnes (BFM)",
+    "beer_type": "Sour - Other"
+  },
+  {
+    "venue": "porter-and-sons",
+    "time": "2026-02-23T18:31:57+00:00",
+    "serving": "bottle",
+    "rating": 3.7,
+    "beer_name": "Tropical Talus HPA Jan26",
+    "brewery": "Batra Homebrewery",
+    "beer_type": "Homebrew, Pale Ale - New England / Hazy"
+  },
+  {
+    "venue": "porter-and-sons",
+    "time": "2026-02-23T18:31:30+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Bush.",
+    "brewery": "Moon Lark Brewery",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "porter-and-sons",
+    "time": "2026-02-23T18:31:08+00:00",
+    "serving": "bottle",
+    "rating": 3.8,
+    "beer_name": "Robust Porter With Winter Spices",
+    "brewery": "Batra Homebrewery",
+    "beer_type": "Homebrew, Porter - Other"
+  },
+  {
+    "venue": "porter-and-sons",
+    "time": "2026-02-23T18:30:07+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "MISHELANU",
+    "brewery": "Batra Homebrewery",
+    "beer_type": "Homebrew, Farmhouse Ale - Saison"
+  },
+  {
+    "venue": "porter-and-sons",
+    "time": "2026-02-23T18:26:57+00:00",
+    "serving": "bottle",
+    "rating": 3.7,
+    "beer_name": "MISHELANU",
+    "brewery": "Batra Homebrewery",
+    "beer_type": "Homebrew, Farmhouse Ale - Saison"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-02-23T17:01:09+00:00",
+    "serving": "draft",
+    "rating": 3.25,
+    "beer_name": "Twist & Stout",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Stout - Irish Dry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-02-23T17:01:03+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "Meerts Tilquin à la Kriek de Schaerbeek",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-02-23T16:59:14+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Abbey Mode",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Belgian Dubbel"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-02-23T16:44:06+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "Hop 4ward",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-02-23T16:43:46+00:00",
+    "serving": "Unknown",
+    "rating": 3.25,
+    "beer_name": "Brut",
+    "brewery": "Isis Desert Brewery (מבשלת הנגב המערבי)",
+    "beer_type": "Bière de Champagne / Bière Brut"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-02-23T16:43:12+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "Black Forest",
+    "brewery": "קישקשתא (Kishkashta)",
+    "beer_type": "Porter - Imperial / Double"
+  },
+  {
+    "venue": "berlin-florentin",
+    "time": "2026-02-23T15:49:26+00:00",
+    "serving": "can",
+    "rating": 4.5,
+    "beer_name": "Must Kuld",
+    "brewery": "Põhjala",
+    "beer_type": "Porter - Other"
+  },
+  {
+    "venue": "berlin-florentin",
+    "time": "2026-02-23T12:18:40+00:00",
+    "serving": "bottle",
+    "rating": 3.9,
+    "beer_name": "Kasteel Rouge 0.0",
+    "brewery": "Kasteel Brouwerij Vanhonsebrouck",
+    "beer_type": "Non-Alcoholic - Fruit Beer"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-02-23T11:54:45+00:00",
+    "serving": "Unknown",
+    "rating": 4.25,
+    "beer_name": "Anything Gose: Orange And Sage",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Sour - Fruited Gose"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-02-23T11:52:53+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Coresh כורש",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Smoked Beer"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-02-23T11:52:14+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "Abbey Mode",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Belgian Dubbel"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-02-23T11:43:44+00:00",
+    "serving": "Unknown",
+    "rating": 3.25,
+    "beer_name": "Alt Neuland",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Altbier - Traditional"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-02-23T11:38:15+00:00",
+    "serving": "Unknown",
+    "rating": 3.25,
+    "beer_name": "I(tai)PA",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - Other"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-02-23T11:21:39+00:00",
+    "serving": "Unknown",
+    "rating": 4.25,
+    "beer_name": "Four Hopsmen",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - Imperial / Double New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-02-23T11:17:50+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "Piñata",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-02-23T11:17:26+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "4 the Love of Fruit",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-02-23T11:13:21+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "עכשיו מעונן 2024 It’s Cloudy Now",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-02-23T11:05:06+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Flu Fighters",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pale Ale - Other"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-02-23T10:58:35+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "4 the Love of Fruit",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "beerline",
+    "time": "2026-02-23T08:51:20+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Delirium Black Barrel Aged",
+    "brewery": "Delirium - Huyghe Brewery",
+    "beer_type": "Belgian Strong Dark Ale"
+  },
+  {
+    "venue": "beerline",
+    "time": "2026-02-23T08:19:05+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Pleroma Karpologi Pineapple Peach Marshmallow Créme Brulée Sour",
+    "brewery": "Omnipollo",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "beerline",
+    "time": "2026-02-23T08:15:55+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Tennent's Stout",
+    "brewery": "Tennent's Caledonian Brewery",
+    "beer_type": "Stout - English"
+  },
   {
     "venue": "lauter",
     "time": "2026-02-22T21:14:19+00:00",
@@ -9520,7 +10159,7 @@ const BEER_DATA = [
     "venue": "b7-beer-house",
     "time": "2026-01-25T20:44:31+00:00",
     "serving": "can",
-    "rating": 3.0,
+    "rating": 3.8,
     "beer_name": "Gelato: Syrniki",
     "brewery": "Funky Fluid",
     "beer_type": "Sour - Smoothie / Pastry"
@@ -9529,7 +10168,7 @@ const BEER_DATA = [
     "venue": "b7-beer-house",
     "time": "2026-01-25T20:44:31+00:00",
     "serving": "can",
-    "rating": 3.8,
+    "rating": 3.0,
     "beer_name": "Gelato: Syrniki",
     "brewery": "Funky Fluid",
     "beer_type": "Sour - Smoothie / Pastry"
@@ -41704,19 +42343,19 @@ const BEER_DATA = [
     "venue": "b7-beer-house",
     "time": "2025-11-21T12:08:02+00:00",
     "serving": "bottle",
-    "rating": 4.0,
-    "beer_name": "Wild Dry Cider - Blended With Lambic",
+    "rating": 4.25,
+    "beer_name": "Bzart Lambiek Millésime 2018",
     "brewery": "Oud Beersel",
-    "beer_type": "Cider - Dry"
+    "beer_type": "Lambic - Traditional"
   },
   {
     "venue": "b7-beer-house",
     "time": "2025-11-21T12:08:02+00:00",
     "serving": "bottle",
-    "rating": 4.25,
-    "beer_name": "Bzart Lambiek Millésime 2018",
+    "rating": 4.0,
+    "beer_name": "Wild Dry Cider - Blended With Lambic",
     "brewery": "Oud Beersel",
-    "beer_type": "Lambic - Traditional"
+    "beer_type": "Cider - Dry"
   },
   {
     "venue": "b7-beer-house",
@@ -84136,15 +84775,6 @@ const BEER_DATA = [
     "beer_type": "Stout - White / Golden"
   },
   {
-    "venue": "b7-beer-house",
-    "time": "2025-08-21T16:00:28+00:00",
-    "serving": "can",
-    "rating": 5.0,
-    "beer_name": "Naughty & Nice - White Chocolate & Raspberry",
-    "brewery": "Vocation Brewery",
-    "beer_type": "Stout - White / Golden"
-  },
-  {
     "venue": "lauter",
     "time": "2025-08-21T16:00:28+00:00",
     "serving": "draft",
@@ -84152,6 +84782,15 @@ const BEER_DATA = [
     "beer_name": "KRUSHED IT",
     "brewery": "Oak & Ash",
     "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-21T16:00:28+00:00",
+    "serving": "can",
+    "rating": 5.0,
+    "beer_name": "Naughty & Nice - White Chocolate & Raspberry",
+    "brewery": "Vocation Brewery",
+    "beer_type": "Stout - White / Golden"
   },
   {
     "venue": "b7-beer-house",
@@ -108916,8 +109555,8 @@ const BEER_DATA = [
     "venue": "berlin-florentin",
     "time": "2024-12-23T18:37:49+00:00",
     "serving": "bottle",
-    "rating": 4.1,
-    "beer_name": "Christmas Ale (2023)",
+    "rating": 3.0,
+    "beer_name": "Christmas Ale",
     "brewery": "Brouwerij St.Bernardus",
     "beer_type": "Winter Ale"
   },
@@ -108925,8 +109564,8 @@ const BEER_DATA = [
     "venue": "berlin-florentin",
     "time": "2024-12-23T18:37:49+00:00",
     "serving": "bottle",
-    "rating": 3.0,
-    "beer_name": "Christmas Ale",
+    "rating": 4.1,
+    "beer_name": "Christmas Ale (2023)",
     "brewery": "Brouwerij St.Bernardus",
     "beer_type": "Winter Ale"
   },
