@@ -1,8 +1,368 @@
 // 🍺 BEER STATS DATA - Generated automatically
-// Last updated: 2026-02-24 07:11:39
-// Total records: 13223
+// Last updated: 2026-02-25 07:12:39
+// Total records: 13263
 
 const BEER_DATA = [
+  {
+    "venue": "lauter",
+    "time": "2026-02-24T22:21:49+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "Hoppywood Pils",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Lager - IPL (India Pale Lager)"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-02-24T22:21:17+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "Sim Sima",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - Imperial / Double"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-02-24T22:20:25+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "שוורצע",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - Black / Cascadian Dark Ale"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-02-24T22:19:54+00:00",
+    "serving": "Unknown",
+    "rating": 4.75,
+    "beer_name": "Meerts Tilquin à la Kriek de Schaerbeek",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-02-24T22:19:06+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "Abbey Mode",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Belgian Dubbel"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-02-24T22:01:04+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "Four Horsemen",
+    "brewery": "Ellison Brewery + Spirits",
+    "beer_type": "Stout - Russian Imperial"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-02-24T21:56:03+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "Temporalis #0039",
+    "brewery": "Messorem",
+    "beer_type": "IPA - Triple New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-02-24T20:19:52+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Hoppywood Pils",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Lager - IPL (India Pale Lager)"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-02-24T20:00:18+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Porter&Sons: Amarena Cherry",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Porter - American"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-02-24T19:58:26+00:00",
+    "serving": "Unknown",
+    "rating": 3.0,
+    "beer_name": "It Is What It Is",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Blonde / Golden Ale - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-02-24T19:55:21+00:00",
+    "serving": "draft",
+    "rating": 3.0,
+    "beer_name": "Brut",
+    "brewery": "Isis Desert Brewery (מבשלת הנגב המערבי)",
+    "beer_type": "Bière de Champagne / Bière Brut"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-02-24T19:53:19+00:00",
+    "serving": "bottle",
+    "rating": 4.0,
+    "beer_name": "Helles Schlenkerla Lagerbier",
+    "brewery": "Schlenkerla (\"Heller-Bräu\" Trum)",
+    "beer_type": "Lager - Helles"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-02-24T19:36:56+00:00",
+    "serving": "draft",
+    "rating": 3.25,
+    "beer_name": "Shade.",
+    "brewery": "Moon Lark Brewery",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-02-24T18:32:21+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "הפילס שבחדר the Pils In the Room",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pilsner - German"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-02-24T17:59:10+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Alt Neuland",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Altbier - Traditional"
+  },
+  {
+    "venue": "ursa",
+    "time": "2026-02-24T17:11:35+00:00",
+    "serving": "can",
+    "rating": null,
+    "beer_name": "Passionfruit X Lemon X Blueberry X Mango X Coconut Smoothie Sour Ale",
+    "brewery": "Ārpus Brewing Co.",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-02-24T17:11:28+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "La Trappe Quadrupel",
+    "brewery": "Bierbrouwerij De Koningshoeven",
+    "beer_type": "Belgian Quadrupel"
+  },
+  {
+    "venue": "ursa",
+    "time": "2026-02-24T17:10:01+00:00",
+    "serving": "can",
+    "rating": null,
+    "beer_name": "Passionfruit X Lemon X Blueberry X Mango X Coconut Smoothie Sour Ale",
+    "brewery": "Ārpus Brewing Co.",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-02-24T16:47:54+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "Photon",
+    "brewery": "Equilibrium Brewery",
+    "beer_type": "Pale Ale - American"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-02-24T16:40:01+00:00",
+    "serving": "can",
+    "rating": 4.75,
+    "beer_name": "String Theory",
+    "brewery": "Coma Brewery",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-02-24T16:36:32+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "String Theory",
+    "brewery": "Coma Brewery",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-02-24T16:35:26+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "String Theory",
+    "brewery": "Coma Brewery",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-02-24T16:31:41+00:00",
+    "serving": "bottle",
+    "rating": 2.75,
+    "beer_name": "Bazelet Porter (בזלת פורטר)",
+    "brewery": "Golan Brewery (מבשלת הגולן)",
+    "beer_type": "Porter - Other"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-02-24T16:29:14+00:00",
+    "serving": "bottle",
+    "rating": 3.5,
+    "beer_name": "Bazelet Porter (בזלת פורטר)",
+    "brewery": "Golan Brewery (מבשלת הגולן)",
+    "beer_type": "Porter - Other"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-02-24T16:29:09+00:00",
+    "serving": "bottle",
+    "rating": 3.0,
+    "beer_name": "Bazelet IPA (בזלת-IPA)",
+    "brewery": "Golan Brewery (מבשלת הגולן)",
+    "beer_type": "IPA - Other"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-02-24T16:27:15+00:00",
+    "serving": "bottle",
+    "rating": 3.1,
+    "beer_name": "Bazelet IPA (בזלת-IPA)",
+    "brewery": "Golan Brewery (מבשלת הגולן)",
+    "beer_type": "IPA - Other"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-02-24T16:24:03+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Daily Reset",
+    "brewery": "FUERST WIACEK Berlin",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-02-24T16:23:52+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Daily Reset",
+    "brewery": "FUERST WIACEK Berlin",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-02-24T16:23:35+00:00",
+    "serving": "can",
+    "rating": 4.1,
+    "beer_name": "Daily Reset",
+    "brewery": "FUERST WIACEK Berlin",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-02-24T16:20:10+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Wicked Wizard (Dark Ages Series )",
+    "brewery": "Seven Island Brewery",
+    "beer_type": "Stout - Imperial / Double Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-02-24T16:18:52+00:00",
+    "serving": "can",
+    "rating": 3.8,
+    "beer_name": "Wicked Wizard (Dark Ages Series )",
+    "brewery": "Seven Island Brewery",
+    "beer_type": "Stout - Imperial / Double Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-02-24T16:18:32+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "Wicked Wizard (Dark Ages Series )",
+    "brewery": "Seven Island Brewery",
+    "beer_type": "Stout - Imperial / Double Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-02-24T16:16:25+00:00",
+    "serving": "can",
+    "rating": 3.8,
+    "beer_name": "MAKE IT FRUITY TIGER'S BLOOD",
+    "brewery": "Evil Twin Brewing NYC",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-02-24T16:15:19+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "MAKE IT FRUITY TIGER'S BLOOD",
+    "brewery": "Evil Twin Brewing NYC",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-02-24T16:09:24+00:00",
+    "serving": "Unknown",
+    "rating": 4.5,
+    "beer_name": "Meerts Tilquin à la Kriek de Schaerbeek",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-02-24T15:32:25+00:00",
+    "serving": "draft",
+    "rating": 3.0,
+    "beer_name": "Hoppywood Pils",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Lager - IPL (India Pale Lager)"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-02-24T15:31:26+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Weissbier",
+    "brewery": "Sheeta Brewery (בירה שיטה)",
+    "beer_type": "Wheat Beer - Hefeweizen"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-02-24T15:00:41+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "Black Forest",
+    "brewery": "קישקשתא (Kishkashta)",
+    "beer_type": "Porter - Imperial / Double"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-02-24T14:36:35+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "עבודה עברית",
+    "brewery": "New Pioneer Brewing Co - חלוץ חדש",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-02-24T11:35:17+00:00",
+    "serving": "can",
+    "rating": 3.7,
+    "beer_name": "eMCee",
+    "brewery": "Equilibrium Brewery",
+    "beer_type": "IPA - New England / Hazy"
+  },
   {
     "venue": "lauter",
     "time": "2026-02-24T06:05:23+00:00",
@@ -10159,7 +10519,7 @@ const BEER_DATA = [
     "venue": "b7-beer-house",
     "time": "2026-01-25T20:44:31+00:00",
     "serving": "can",
-    "rating": 3.8,
+    "rating": 3.0,
     "beer_name": "Gelato: Syrniki",
     "brewery": "Funky Fluid",
     "beer_type": "Sour - Smoothie / Pastry"
@@ -10168,7 +10528,7 @@ const BEER_DATA = [
     "venue": "b7-beer-house",
     "time": "2026-01-25T20:44:31+00:00",
     "serving": "can",
-    "rating": 3.0,
+    "rating": 3.8,
     "beer_name": "Gelato: Syrniki",
     "brewery": "Funky Fluid",
     "beer_type": "Sour - Smoothie / Pastry"
@@ -24909,20 +25269,20 @@ const BEER_DATA = [
   {
     "venue": "lauter",
     "time": "2026-01-01T20:23:13+00:00",
-    "serving": "draft",
-    "rating": 3.0,
-    "beer_name": "Benediktiner Hell",
-    "brewery": "Benediktiner Weissbräu",
-    "beer_type": "Lager - Helles"
-  },
-  {
-    "venue": "lauter",
-    "time": "2026-01-01T20:23:13+00:00",
     "serving": "Unknown",
     "rating": null,
     "beer_name": "N'Ice Chouffe",
     "brewery": "Brasserie d'Achouffe",
     "beer_type": "Winter Ale"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-01T20:23:13+00:00",
+    "serving": "draft",
+    "rating": 3.0,
+    "beer_name": "Benediktiner Hell",
+    "brewery": "Benediktiner Weissbräu",
+    "beer_type": "Lager - Helles"
   },
   {
     "venue": "lauter",
@@ -42343,19 +42703,19 @@ const BEER_DATA = [
     "venue": "b7-beer-house",
     "time": "2025-11-21T12:08:02+00:00",
     "serving": "bottle",
-    "rating": 4.25,
-    "beer_name": "Bzart Lambiek Millésime 2018",
+    "rating": 4.0,
+    "beer_name": "Wild Dry Cider - Blended With Lambic",
     "brewery": "Oud Beersel",
-    "beer_type": "Lambic - Traditional"
+    "beer_type": "Cider - Dry"
   },
   {
     "venue": "b7-beer-house",
     "time": "2025-11-21T12:08:02+00:00",
     "serving": "bottle",
-    "rating": 4.0,
-    "beer_name": "Wild Dry Cider - Blended With Lambic",
+    "rating": 4.25,
+    "beer_name": "Bzart Lambiek Millésime 2018",
     "brewery": "Oud Beersel",
-    "beer_type": "Cider - Dry"
+    "beer_type": "Lambic - Traditional"
   },
   {
     "venue": "b7-beer-house",
@@ -58981,15 +59341,6 @@ const BEER_DATA = [
     "beer_type": "IPA - American"
   },
   {
-    "venue": "schnitt-brewing-company",
-    "time": "2025-10-19T19:17:21+00:00",
-    "serving": "can",
-    "rating": 4.25,
-    "beer_name": "Plum Waffle",
-    "brewery": "Duncan's Brewing",
-    "beer_type": "Sour - Smoothie / Pastry"
-  },
-  {
     "venue": "lauter",
     "time": "2025-10-19T19:17:21+00:00",
     "serving": "bottle",
@@ -58997,6 +59348,15 @@ const BEER_DATA = [
     "beer_name": "Bjorn's Beer",
     "brewery": "Attali's Family Brewery",
     "beer_type": "IPA - American"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-10-19T19:17:21+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "Plum Waffle",
+    "brewery": "Duncan's Brewing",
+    "beer_type": "Sour - Smoothie / Pastry"
   },
   {
     "venue": "lauter",
@@ -84775,15 +85135,6 @@ const BEER_DATA = [
     "beer_type": "Stout - White / Golden"
   },
   {
-    "venue": "lauter",
-    "time": "2025-08-21T16:00:28+00:00",
-    "serving": "draft",
-    "rating": 3.5,
-    "beer_name": "KRUSHED IT",
-    "brewery": "Oak & Ash",
-    "beer_type": "IPA - New England / Hazy"
-  },
-  {
     "venue": "b7-beer-house",
     "time": "2025-08-21T16:00:28+00:00",
     "serving": "can",
@@ -84791,6 +85142,15 @@ const BEER_DATA = [
     "beer_name": "Naughty & Nice - White Chocolate & Raspberry",
     "brewery": "Vocation Brewery",
     "beer_type": "Stout - White / Golden"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-08-21T16:00:28+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "KRUSHED IT",
+    "brewery": "Oak & Ash",
+    "beer_type": "IPA - New England / Hazy"
   },
   {
     "venue": "b7-beer-house",
@@ -91725,8 +92085,8 @@ const BEER_DATA = [
   {
     "venue": "lauter",
     "time": "2025-08-05T19:24:07+00:00",
-    "serving": "can",
-    "rating": 4.5,
+    "serving": "Unknown",
+    "rating": null,
     "beer_name": "SLUSHY XL: Haha!",
     "brewery": "450 North Brewing Company",
     "beer_type": "Sour - Smoothie / Pastry"
@@ -91734,8 +92094,8 @@ const BEER_DATA = [
   {
     "venue": "lauter",
     "time": "2025-08-05T19:24:07+00:00",
-    "serving": "Unknown",
-    "rating": null,
+    "serving": "can",
+    "rating": 4.5,
     "beer_name": "SLUSHY XL: Haha!",
     "brewery": "450 North Brewing Company",
     "beer_type": "Sour - Smoothie / Pastry"
@@ -100141,19 +100501,19 @@ const BEER_DATA = [
     "venue": "lauter",
     "time": "2025-07-25T18:15:23+00:00",
     "serving": "draft",
-    "rating": 4.8,
-    "beer_name": "Fou' Foune 2023 - Draft Version",
+    "rating": 4.0,
+    "beer_name": "Cuvée Saint-Gilloise 2023 - Draft Version",
     "brewery": "Brasserie Cantillon",
-    "beer_type": "Lambic - Fruit"
+    "beer_type": "Lambic - Traditional"
   },
   {
     "venue": "lauter",
     "time": "2025-07-25T18:15:23+00:00",
     "serving": "draft",
-    "rating": 4.0,
-    "beer_name": "Cuvée Saint-Gilloise 2023 - Draft Version",
+    "rating": 4.8,
+    "beer_name": "Fou' Foune 2023 - Draft Version",
     "brewery": "Brasserie Cantillon",
-    "beer_type": "Lambic - Traditional"
+    "beer_type": "Lambic - Fruit"
   },
   {
     "venue": "lauter",
@@ -109555,8 +109915,8 @@ const BEER_DATA = [
     "venue": "berlin-florentin",
     "time": "2024-12-23T18:37:49+00:00",
     "serving": "bottle",
-    "rating": 3.0,
-    "beer_name": "Christmas Ale",
+    "rating": 4.1,
+    "beer_name": "Christmas Ale (2023)",
     "brewery": "Brouwerij St.Bernardus",
     "beer_type": "Winter Ale"
   },
@@ -109564,8 +109924,8 @@ const BEER_DATA = [
     "venue": "berlin-florentin",
     "time": "2024-12-23T18:37:49+00:00",
     "serving": "bottle",
-    "rating": 4.1,
-    "beer_name": "Christmas Ale (2023)",
+    "rating": 3.0,
+    "beer_name": "Christmas Ale",
     "brewery": "Brouwerij St.Bernardus",
     "beer_type": "Winter Ale"
   },
