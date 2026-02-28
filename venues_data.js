@@ -1,8 +1,1871 @@
 // 🍺 BEER STATS DATA - Generated automatically
-// Last updated: 2026-02-27 07:05:44
-// Total records: 13583
+// Last updated: 2026-02-28 06:52:23
+// Total records: 13790
 
 const BEER_DATA = [
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-02-27T22:16:52+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "4 the Love of Fruit",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-02-27T22:13:07+00:00",
+    "serving": "bottle",
+    "rating": 3.5,
+    "beer_name": "סיידר תפוחים אלכוהולי חצי יבש",
+    "brewery": "Hamatsesa (המתססה)",
+    "beer_type": "Cider - Traditional / Apfelwein"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-02-27T22:11:00+00:00",
+    "serving": "bottle",
+    "rating": 3.5,
+    "beer_name": "סיידר תפוחים אלכוהולי חצי יבש",
+    "brewery": "Hamatsesa (המתססה)",
+    "beer_type": "Cider - Traditional / Apfelwein"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-02-27T21:53:00+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Black Forest",
+    "brewery": "קישקשתא (Kishkashta)",
+    "beer_type": "Porter - Imperial / Double"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-02-27T21:35:50+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "עבודה עברית",
+    "brewery": "New Pioneer Brewing Co - חלוץ חדש",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-02-27T21:10:55+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Everyone Knows the Rules",
+    "brewery": "Bereta Brewing Co.",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-02-27T21:06:45+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Abbey Mode",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Belgian Dubbel"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-02-27T20:53:58+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "Everyone Knows the Rules",
+    "brewery": "Bereta Brewing Co.",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-02-27T20:53:26+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "Alon vs. אלון",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Porter - Baltic"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-02-27T20:48:59+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Bucharest Anyone?",
+    "brewery": "ULTIMA",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-02-27T20:45:06+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "I Hate Cinnamon",
+    "brewery": "ULTIMA",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-02-27T20:42:14+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Meerts Tilquin à la Kriek de Schaerbeek",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-02-27T20:33:06+00:00",
+    "serving": "bottle",
+    "rating": 5.0,
+    "beer_name": "Noa Pecan Mud Cake Stout",
+    "brewery": "Omnipollo",
+    "beer_type": "Stout - Imperial / Double Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-02-27T20:09:40+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "I love cinnamon",
+    "brewery": "ULTIMA",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-02-27T20:07:23+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Milk of the Madonna",
+    "brewery": "ULTIMA",
+    "beer_type": "IPA - Imperial / Double New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-02-27T19:51:07+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "I'll Be Bock",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Bock - Single / Traditional"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-02-27T19:49:44+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Schnitt Happens",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-02-27T19:46:30+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "Milk of the Madonna",
+    "brewery": "ULTIMA",
+    "beer_type": "IPA - Imperial / Double New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-02-27T19:40:34+00:00",
+    "serving": "draft",
+    "rating": 3.8,
+    "beer_name": "Schnitt Happens",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-02-27T19:39:00+00:00",
+    "serving": "draft",
+    "rating": 3.7,
+    "beer_name": "I'll Be Bock",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Bock - Single / Traditional"
+  },
+  {
+    "venue": "beerz",
+    "time": "2026-02-27T19:35:00+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Hazy Queen",
+    "brewery": "HORIZONT Brewing",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "beerz",
+    "time": "2026-02-27T19:32:12+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Hobgoblin IPA",
+    "brewery": "Marston's Brewery",
+    "beer_type": "IPA - English"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-02-27T19:25:43+00:00",
+    "serving": "draft",
+    "rating": 3.8,
+    "beer_name": "Stoutment",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Stout - Other"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-02-27T19:24:38+00:00",
+    "serving": "draft",
+    "rating": 3.9,
+    "beer_name": "4 the Love of Fruit",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-02-27T19:19:19+00:00",
+    "serving": "bottle",
+    "rating": 3.8,
+    "beer_name": "La Trappe Quadrupel",
+    "brewery": "Bierbrouwerij De Koningshoeven",
+    "beer_type": "Belgian Quadrupel"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-02-27T18:54:33+00:00",
+    "serving": "can",
+    "rating": 3.0,
+    "beer_name": "I'll Be Bock",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Bock - Single / Traditional"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-02-27T17:34:18+00:00",
+    "serving": "Unknown",
+    "rating": 3.8,
+    "beer_name": "Sour Passion Fruit 12",
+    "brewery": "Rodinný pivovar Zichovec",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-02-27T17:16:55+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "I'll Be Bock",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Bock - Single / Traditional"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-02-27T17:16:40+00:00",
+    "serving": "Unknown",
+    "rating": 3.3,
+    "beer_name": "Alt Neuland",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Altbier - Traditional"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-02-27T17:16:33+00:00",
+    "serving": "Unknown",
+    "rating": 3.25,
+    "beer_name": "Alt Neuland",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Altbier - Traditional"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-02-27T17:15:47+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "Schnitt Happens",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-02-27T17:14:52+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "I'll Be Bock",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Bock - Single / Traditional"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-02-27T17:14:34+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "Schnitt Happens",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-02-27T17:12:55+00:00",
+    "serving": "Unknown",
+    "rating": 3.4,
+    "beer_name": "I'll Be Bock",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Bock - Single / Traditional"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-02-27T16:41:30+00:00",
+    "serving": "bottle",
+    "rating": 4.5,
+    "beer_name": "THE GREAT NORTHERN BARREL-AGED SERIES 53 - RELEASED 10/24/25",
+    "brewery": "Evil Twin Brewing NYC",
+    "beer_type": "Stout - Imperial / Double"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-02-27T16:36:52+00:00",
+    "serving": "bottle",
+    "rating": 4.3,
+    "beer_name": "Winter Lambiek - Sparkling Infused (2022)",
+    "brewery": "Oud Beersel",
+    "beer_type": "Lambic - Other"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-02-27T16:31:54+00:00",
+    "serving": "draft",
+    "rating": 3.4,
+    "beer_name": "בירטטה",
+    "brewery": "New Pioneer Brewing Co - חלוץ חדש",
+    "beer_type": "Porter - Other"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-02-27T16:28:59+00:00",
+    "serving": "draft",
+    "rating": 4.5,
+    "beer_name": "Birthday Haze",
+    "brewery": "The Three-Legged Crow Brewery",
+    "beer_type": "Homebrew, IPA - New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-02-27T16:25:32+00:00",
+    "serving": "can",
+    "rating": 4.5,
+    "beer_name": "Midnight Snack",
+    "brewery": "LERVIG",
+    "beer_type": "Stout - Imperial / Double Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-02-27T16:21:50+00:00",
+    "serving": "can",
+    "rating": 4.3,
+    "beer_name": "Free Gelato: Szarlotka",
+    "brewery": "Funky Fluid",
+    "beer_type": "Non-Alcoholic - Sour"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-02-27T16:18:20+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Ever Haze (w/ Oranges)",
+    "brewery": "Tripping Animals Brewing Co.",
+    "beer_type": "IPA - Fruited"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-02-27T16:11:57+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Beauty - Kiwi, Strawberry, Banana & Spirulina",
+    "brewery": "Magic Road",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-02-27T16:09:30+00:00",
+    "serving": "Unknown",
+    "rating": 3.4,
+    "beer_name": "Blazing Fire",
+    "brewery": "Spartacus Brewing",
+    "beer_type": "IPA - Imperial / Double"
+  },
+  {
+    "venue": "porter-and-sons",
+    "time": "2026-02-27T16:04:17+00:00",
+    "serving": "Unknown",
+    "rating": 4.75,
+    "beer_name": "Guinness Draught",
+    "brewery": "Guinness",
+    "beer_type": "Stout - Irish Dry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-02-27T15:44:49+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "משהו טוטאלי",
+    "brewery": "New Pioneer Brewing Co - חלוץ חדש",
+    "beer_type": "Brown Ale - Other"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-02-27T15:44:03+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "בירטטה",
+    "brewery": "New Pioneer Brewing Co - חלוץ חדש",
+    "beer_type": "Porter - Other"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-02-27T15:35:58+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "I'll Be Bock",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Bock - Single / Traditional"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-02-27T15:35:09+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "Schnitt Happens",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-02-27T15:21:15+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Schnitt Happens",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-02-27T14:03:23+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "Oude Vieux Lambiek 3-Years (2018)",
+    "brewery": "Oud Beersel",
+    "beer_type": "Lambic - Gueuze"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-02-27T14:02:44+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Bersalis Barrel Reserve",
+    "brewery": "Oud Beersel",
+    "beer_type": "Lambic - Other"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-02-27T14:01:35+00:00",
+    "serving": "draft",
+    "rating": 3.25,
+    "beer_name": "בירטטה",
+    "brewery": "New Pioneer Brewing Co - חלוץ חדש",
+    "beer_type": "Porter - Other"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-02-27T14:00:46+00:00",
+    "serving": "draft",
+    "rating": 2.5,
+    "beer_name": "מה? זה בירה?",
+    "brewery": "New Pioneer Brewing Co - חלוץ חדש",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-02-27T13:59:51+00:00",
+    "serving": "Unknown",
+    "rating": 4.25,
+    "beer_name": "Winter Lambiek - Sparkling Infused (2022)",
+    "brewery": "Oud Beersel",
+    "beer_type": "Lambic - Other"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-02-27T13:58:01+00:00",
+    "serving": "Unknown",
+    "rating": 4.25,
+    "beer_name": "Sweet Osmanthus Infused Lambic",
+    "brewery": "Oud Beersel",
+    "beer_type": "Lambic - Other"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-02-27T13:56:29+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Helix",
+    "brewery": "Equilibrium Brewery",
+    "beer_type": "Pilsner - German"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-02-27T13:54:56+00:00",
+    "serving": "Unknown",
+    "rating": 4.75,
+    "beer_name": "THE GREAT NORTHERN BARREL-AGED SERIES 53 - RELEASED 10/24/25",
+    "brewery": "Evil Twin Brewing NYC",
+    "beer_type": "Stout - Imperial / Double"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-02-27T13:53:23+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Stout Woodford 2025",
+    "brewery": "Rodinný pivovar Zichovec",
+    "beer_type": "Stout - Imperial / Double"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-02-27T13:52:21+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Cocoa Vanilla Cardamom Sea Salt Stout 2025",
+    "brewery": "Rodinný pivovar Zichovec",
+    "beer_type": "Stout - Imperial / Double Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-02-27T13:51:05+00:00",
+    "serving": "Unknown",
+    "rating": 4.25,
+    "beer_name": "Dubai Style Chocolate Stout 2025",
+    "brewery": "Rodinný pivovar Zichovec",
+    "beer_type": "Stout - Imperial / Double Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-02-27T13:48:40+00:00",
+    "serving": "Unknown",
+    "rating": 4.25,
+    "beer_name": "EVIL FUSION - AUTUMN EDITION",
+    "brewery": "Evil Twin Brewing NYC",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-02-27T13:46:29+00:00",
+    "serving": "draft",
+    "rating": 5.0,
+    "beer_name": "משהו טוטאלי",
+    "brewery": "New Pioneer Brewing Co - חלוץ חדש",
+    "beer_type": "Brown Ale - Other"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-02-27T13:44:01+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "LEAF ME ALONE",
+    "brewery": "Evil Twin Brewing NYC",
+    "beer_type": "IPA - Triple New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-02-27T13:39:04+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "GREENHOUSE CZECH PALE LAGER CONDITIONED ON AMERICAN OAK FOUDRE",
+    "brewery": "Evil Twin Brewing NYC",
+    "beer_type": "Lager - Světlé (Czech Pale)"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-02-27T13:15:35+00:00",
+    "serving": "draft",
+    "rating": 4.75,
+    "beer_name": "Fruitheart Smoothie Sour Ale",
+    "brewery": "Ārpus Brewing Co.",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-02-27T13:12:59+00:00",
+    "serving": "draft",
+    "rating": 4.5,
+    "beer_name": "Meerts Tilquin à la Kriek de Schaerbeek",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-02-27T13:10:18+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "I'll Be Bock",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Bock - Single / Traditional"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-02-27T13:07:43+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "בירטטה",
+    "brewery": "New Pioneer Brewing Co - חלוץ חדש",
+    "beer_type": "Porter - Other"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-02-27T13:05:30+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Blazing Fire",
+    "brewery": "Spartacus Brewing",
+    "beer_type": "IPA - Imperial / Double"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-02-27T12:57:01+00:00",
+    "serving": "Unknown",
+    "rating": 3.8,
+    "beer_name": "Blazing Fire",
+    "brewery": "Spartacus Brewing",
+    "beer_type": "IPA - Imperial / Double"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-02-27T12:54:56+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "Blazing Fire",
+    "brewery": "Spartacus Brewing",
+    "beer_type": "IPA - Imperial / Double"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-02-27T12:54:37+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Lemon Pie Mead",
+    "brewery": "Schmulz (Home Brewery)",
+    "beer_type": "Homebrew, Mead - Melomel"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-02-27T12:53:16+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Blazing Fire",
+    "brewery": "Spartacus Brewing",
+    "beer_type": "IPA - Imperial / Double"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-02-27T12:50:22+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Denali 6190",
+    "brewery": "Monpiër de Gherdëina",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-02-27T12:50:01+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Beauty - Kiwi, Strawberry, Banana & Spirulina",
+    "brewery": "Magic Road",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-02-27T12:49:31+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Beauty - Kiwi, Strawberry, Banana & Spirulina",
+    "brewery": "Magic Road",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-02-27T12:48:50+00:00",
+    "serving": "Unknown",
+    "rating": 4.1,
+    "beer_name": "Midnight Snack",
+    "brewery": "LERVIG",
+    "beer_type": "Stout - Imperial / Double Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-02-27T12:48:49+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Midnight Snack",
+    "brewery": "LERVIG",
+    "beer_type": "Stout - Imperial / Double Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-02-27T12:47:31+00:00",
+    "serving": "can",
+    "rating": 4.5,
+    "beer_name": "Midnight Snack",
+    "brewery": "LERVIG",
+    "beer_type": "Stout - Imperial / Double Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-02-27T12:44:15+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "Free Gelato: Szarlotka",
+    "brewery": "Funky Fluid",
+    "beer_type": "Non-Alcoholic - Sour"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-02-27T12:42:06+00:00",
+    "serving": "bottle",
+    "rating": 3.25,
+    "beer_name": "Szechuan-inspired Imperial Stout - Bourbon Barrel Aged",
+    "brewery": "Vocation Brewery",
+    "beer_type": "Stout - Imperial / Double"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-02-27T12:41:42+00:00",
+    "serving": "Unknown",
+    "rating": 4.1,
+    "beer_name": "Ever Haze (w/ Oranges)",
+    "brewery": "Tripping Animals Brewing Co.",
+    "beer_type": "IPA - Fruited"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-02-27T12:40:48+00:00",
+    "serving": "Unknown",
+    "rating": 4.25,
+    "beer_name": "Beauty - Kiwi, Strawberry, Banana & Spirulina",
+    "brewery": "Magic Road",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-02-27T12:40:16+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Beauty - Kiwi, Strawberry, Banana & Spirulina",
+    "brewery": "Magic Road",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-02-27T12:36:19+00:00",
+    "serving": "Unknown",
+    "rating": 4.5,
+    "beer_name": "משהו טוטאלי",
+    "brewery": "New Pioneer Brewing Co - חלוץ חדש",
+    "beer_type": "Brown Ale - Other"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-02-27T12:34:41+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Free Gelato: Szarlotka",
+    "brewery": "Funky Fluid",
+    "beer_type": "Non-Alcoholic - Sour"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-02-27T12:26:52+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Helix",
+    "brewery": "Equilibrium Brewery",
+    "beer_type": "Pilsner - German"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-02-27T12:25:42+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Ever Haze (w/ Oranges)",
+    "brewery": "Tripping Animals Brewing Co.",
+    "beer_type": "IPA - Fruited"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-02-27T12:25:10+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Ever Haze (w/ Oranges)",
+    "brewery": "Tripping Animals Brewing Co.",
+    "beer_type": "IPA - Fruited"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-02-27T12:20:28+00:00",
+    "serving": "can",
+    "rating": 3.4,
+    "beer_name": "Denali 6190",
+    "brewery": "Monpiër de Gherdëina",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-02-27T12:18:55+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Free Gelato: Szarlotka",
+    "brewery": "Funky Fluid",
+    "beer_type": "Non-Alcoholic - Sour"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-02-27T12:18:04+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Free Gelato: Szarlotka",
+    "brewery": "Funky Fluid",
+    "beer_type": "Non-Alcoholic - Sour"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-02-27T12:13:18+00:00",
+    "serving": "can",
+    "rating": 4.5,
+    "beer_name": "Midnight Snack",
+    "brewery": "LERVIG",
+    "beer_type": "Stout - Imperial / Double Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-02-27T12:12:58+00:00",
+    "serving": "draft",
+    "rating": 4.5,
+    "beer_name": "I Hate Cinnamon",
+    "brewery": "ULTIMA",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-02-27T12:11:58+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "Denali 6190",
+    "brewery": "Monpiër de Gherdëina",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-02-27T12:11:29+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "משהו טוטאלי",
+    "brewery": "New Pioneer Brewing Co - חלוץ חדש",
+    "beer_type": "Brown Ale - Other"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-02-27T12:11:29+00:00",
+    "serving": "can",
+    "rating": 4.8,
+    "beer_name": "Midnight Snack",
+    "brewery": "LERVIG",
+    "beer_type": "Stout - Imperial / Double Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-02-27T12:11:12+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "זה לא בירה?!",
+    "brewery": "New Pioneer Brewing Co - חלוץ חדש",
+    "beer_type": "Mead - Other"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-02-27T12:10:42+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "Midnight Snack",
+    "brewery": "LERVIG",
+    "beer_type": "Stout - Imperial / Double Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-02-27T12:09:01+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Denali 6190",
+    "brewery": "Monpiër de Gherdëina",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-02-27T12:08:58+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Denali 6190",
+    "brewery": "Monpiër de Gherdëina",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-02-27T12:04:23+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Schnitt Happens",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-02-27T12:00:51+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "A Twist In the Mist",
+    "brewery": "Sleepwalker Brewery",
+    "beer_type": "Homebrew, Stout - English"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-02-27T12:00:51+00:00",
+    "serving": "draft",
+    "rating": 3.25,
+    "beer_name": "It Is What It Is",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Blonde / Golden Ale - Other"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-02-27T12:00:09+00:00",
+    "serving": "Unknown",
+    "rating": 3.9,
+    "beer_name": "A Twist In the Mist",
+    "brewery": "Sleepwalker Brewery",
+    "beer_type": "Homebrew, Stout - English"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-02-27T11:59:58+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Anything Gose: Orange And Sage",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Sour - Fruited Gose"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-02-27T11:59:06+00:00",
+    "serving": "bottle",
+    "rating": 3.8,
+    "beer_name": "A Twist In the Mist",
+    "brewery": "Sleepwalker Brewery",
+    "beer_type": "Homebrew, Stout - English"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-02-27T11:56:50+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "Bersalis Barrel Reserve",
+    "brewery": "Oud Beersel",
+    "beer_type": "Lambic - Other"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-02-27T11:56:43+00:00",
+    "serving": "draft",
+    "rating": 4.5,
+    "beer_name": "זה לא בירה?!",
+    "brewery": "New Pioneer Brewing Co - חלוץ חדש",
+    "beer_type": "Mead - Other"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-02-27T11:55:03+00:00",
+    "serving": "draft",
+    "rating": 4.75,
+    "beer_name": "EVIL FUSION - AUTUMN EDITION",
+    "brewery": "Evil Twin Brewing NYC",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-02-27T11:53:47+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "Bersalis Barrel Reserve",
+    "brewery": "Oud Beersel",
+    "beer_type": "Lambic - Other"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-02-27T11:52:27+00:00",
+    "serving": "Unknown",
+    "rating": 4.2,
+    "beer_name": "Night Porter 2020 שוער הלילה",
+    "brewery": "New Pioneer Brewing Co - חלוץ חדש",
+    "beer_type": "Stout - Imperial / Double Oatmeal"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-02-27T11:51:44+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "Teacups IPA",
+    "brewery": "Sleepwalker Brewery",
+    "beer_type": "Homebrew, IPA - Other"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-02-27T11:51:20+00:00",
+    "serving": "Unknown",
+    "rating": 3.7,
+    "beer_name": "Teacups IPA",
+    "brewery": "Sleepwalker Brewery",
+    "beer_type": "Homebrew, IPA - Other"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-02-27T11:47:47+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Birthday Haze",
+    "brewery": "The Three-Legged Crow Brewery",
+    "beer_type": "Homebrew, IPA - New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-02-27T11:46:21+00:00",
+    "serving": "draft",
+    "rating": 4.3,
+    "beer_name": "זה לא בירה?!",
+    "brewery": "New Pioneer Brewing Co - חלוץ חדש",
+    "beer_type": "Mead - Other"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-02-27T11:44:45+00:00",
+    "serving": "Unknown",
+    "rating": 4.1,
+    "beer_name": "זה לא בירה?!",
+    "brewery": "New Pioneer Brewing Co - חלוץ חדש",
+    "beer_type": "Mead - Other"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-02-27T11:44:34+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "זה לא בירה?!",
+    "brewery": "New Pioneer Brewing Co - חלוץ חדש",
+    "beer_type": "Mead - Other"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-02-27T11:44:26+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "זה לא בירה?!",
+    "brewery": "New Pioneer Brewing Co - חלוץ חדש",
+    "beer_type": "Mead - Other"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-02-27T11:40:18+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Birthday Haze",
+    "brewery": "The Three-Legged Crow Brewery",
+    "beer_type": "Homebrew, IPA - New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-02-27T11:40:01+00:00",
+    "serving": "draft",
+    "rating": 4.4,
+    "beer_name": "Birthday Haze",
+    "brewery": "The Three-Legged Crow Brewery",
+    "beer_type": "Homebrew, IPA - New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-02-27T11:39:01+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Birthday Haze",
+    "brewery": "The Three-Legged Crow Brewery",
+    "beer_type": "Homebrew, IPA - New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-02-27T11:38:51+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Porter & Sons - Salted Caramel",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Porter - Other"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-02-27T11:37:01+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Birthday Haze",
+    "brewery": "The Three-Legged Crow Brewery",
+    "beer_type": "Homebrew, IPA - New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-02-27T11:36:37+00:00",
+    "serving": "draft",
+    "rating": null,
+    "beer_name": "I Hate Cinnamon",
+    "brewery": "ULTIMA",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-02-27T11:32:19+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "I Hate Cinnamon",
+    "brewery": "ULTIMA",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-02-27T11:32:06+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "I Hate Cinnamon",
+    "brewery": "ULTIMA",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-02-27T11:29:36+00:00",
+    "serving": "draft",
+    "rating": 3.7,
+    "beer_name": "בירטטה",
+    "brewery": "New Pioneer Brewing Co - חלוץ חדש",
+    "beer_type": "Porter - Other"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-02-27T11:21:38+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "מה? זה בירה?",
+    "brewery": "New Pioneer Brewing Co - חלוץ חדש",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-02-27T11:20:32+00:00",
+    "serving": "draft",
+    "rating": 2.5,
+    "beer_name": "Schnitt Happens",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-02-27T11:18:50+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "Four Hopsmen",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - Imperial / Double New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-02-27T11:18:30+00:00",
+    "serving": "bottle",
+    "rating": 4.25,
+    "beer_name": "Dubai Style Chocolate Stout 2025",
+    "brewery": "Rodinný pivovar Zichovec",
+    "beer_type": "Stout - Imperial / Double Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-02-27T11:16:51+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Helix",
+    "brewery": "Equilibrium Brewery",
+    "beer_type": "Pilsner - German"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-02-27T11:15:50+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Helix",
+    "brewery": "Equilibrium Brewery",
+    "beer_type": "Pilsner - German"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-02-27T11:12:44+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "מה? זה בירה?",
+    "brewery": "New Pioneer Brewing Co - חלוץ חדש",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-02-27T11:12:29+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "בירטטה",
+    "brewery": "New Pioneer Brewing Co - חלוץ חדש",
+    "beer_type": "Porter - Other"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-02-27T11:12:27+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "בירטטה",
+    "brewery": "New Pioneer Brewing Co - חלוץ חדש",
+    "beer_type": "Porter - Other"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-02-27T11:11:48+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "Winterlambiek",
+    "brewery": "Oud Beersel",
+    "beer_type": "Lambic - Other"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-02-27T11:10:47+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "מה? זה בירה?",
+    "brewery": "New Pioneer Brewing Co - חלוץ חדש",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-02-27T11:09:23+00:00",
+    "serving": "Unknown",
+    "rating": 3.25,
+    "beer_name": "Oude Vieux Lambiek 3-Years (2018)",
+    "brewery": "Oud Beersel",
+    "beer_type": "Lambic - Gueuze"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-02-27T11:08:22+00:00",
+    "serving": "draft",
+    "rating": 3.0,
+    "beer_name": "מה? זה בירה?",
+    "brewery": "New Pioneer Brewing Co - חלוץ חדש",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-02-27T11:07:40+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "LEAF ME ALONE",
+    "brewery": "Evil Twin Brewing NYC",
+    "beer_type": "IPA - Triple New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-02-27T11:06:23+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "LEAF ME ALONE",
+    "brewery": "Evil Twin Brewing NYC",
+    "beer_type": "IPA - Triple New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-02-27T11:06:02+00:00",
+    "serving": "draft",
+    "rating": 2.75,
+    "beer_name": "I'll Be Bock",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Bock - Single / Traditional"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-02-27T11:05:43+00:00",
+    "serving": "Unknown",
+    "rating": 4.2,
+    "beer_name": "Stout Woodford 2025",
+    "brewery": "Rodinný pivovar Zichovec",
+    "beer_type": "Stout - Imperial / Double"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-02-27T11:05:00+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "LEAF ME ALONE",
+    "brewery": "Evil Twin Brewing NYC",
+    "beer_type": "IPA - Triple New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-02-27T11:02:58+00:00",
+    "serving": "bottle",
+    "rating": 3.5,
+    "beer_name": "Cocoa Vanilla Cardamom Sea Salt Stout 2025",
+    "brewery": "Rodinný pivovar Zichovec",
+    "beer_type": "Stout - Imperial / Double Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-02-27T11:02:06+00:00",
+    "serving": "bottle",
+    "rating": 3.75,
+    "beer_name": "Cocoa Vanilla Cardamom Sea Salt Stout 2025",
+    "brewery": "Rodinný pivovar Zichovec",
+    "beer_type": "Stout - Imperial / Double Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-02-27T11:02:04+00:00",
+    "serving": "bottle",
+    "rating": 4.0,
+    "beer_name": "Cocoa Vanilla Cardamom Sea Salt Stout 2025",
+    "brewery": "Rodinný pivovar Zichovec",
+    "beer_type": "Stout - Imperial / Double Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-02-27T11:00:05+00:00",
+    "serving": "Unknown",
+    "rating": 3.7,
+    "beer_name": "Dubai Style Chocolate Stout 2025",
+    "brewery": "Rodinný pivovar Zichovec",
+    "beer_type": "Stout - Imperial / Double Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-02-27T10:59:11+00:00",
+    "serving": "draft",
+    "rating": 3.4,
+    "beer_name": "משהו טוטאלי",
+    "brewery": "New Pioneer Brewing Co - חלוץ חדש",
+    "beer_type": "Brown Ale - Other"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-02-27T10:58:30+00:00",
+    "serving": "draft",
+    "rating": 3.7,
+    "beer_name": "משהו טוטאלי",
+    "brewery": "New Pioneer Brewing Co - חלוץ חדש",
+    "beer_type": "Brown Ale - Other"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-02-27T10:57:39+00:00",
+    "serving": "bottle",
+    "rating": 4.5,
+    "beer_name": "Stout Woodford 2025",
+    "brewery": "Rodinný pivovar Zichovec",
+    "beer_type": "Stout - Imperial / Double"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-02-27T10:57:09+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Stoutment",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Stout - Other"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-02-27T10:56:40+00:00",
+    "serving": "bottle",
+    "rating": 4.0,
+    "beer_name": "Winter Lambiek - Sparkling Infused (2022)",
+    "brewery": "Oud Beersel",
+    "beer_type": "Lambic - Other"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-02-27T10:56:07+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "בירטטה",
+    "brewery": "New Pioneer Brewing Co - חלוץ חדש",
+    "beer_type": "Porter - Other"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-02-27T10:55:20+00:00",
+    "serving": "bottle",
+    "rating": 4.0,
+    "beer_name": "Stout Woodford 2025",
+    "brewery": "Rodinný pivovar Zichovec",
+    "beer_type": "Stout - Imperial / Double"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-02-27T10:54:32+00:00",
+    "serving": "bottle",
+    "rating": 4.0,
+    "beer_name": "Stout Woodford 2025",
+    "brewery": "Rodinný pivovar Zichovec",
+    "beer_type": "Stout - Imperial / Double"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-02-27T10:54:02+00:00",
+    "serving": "bottle",
+    "rating": 4.25,
+    "beer_name": "Dubai Style Chocolate Stout 2025",
+    "brewery": "Rodinný pivovar Zichovec",
+    "beer_type": "Stout - Imperial / Double Pastry"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-02-27T10:52:19+00:00",
+    "serving": "draft",
+    "rating": 3.25,
+    "beer_name": "4 the Love of Fruit",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-02-27T10:51:44+00:00",
+    "serving": "bottle",
+    "rating": 3.75,
+    "beer_name": "Dubai Style Chocolate Stout 2025",
+    "brewery": "Rodinný pivovar Zichovec",
+    "beer_type": "Stout - Imperial / Double Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-02-27T10:51:23+00:00",
+    "serving": "draft",
+    "rating": 3.9,
+    "beer_name": "בירטטה",
+    "brewery": "New Pioneer Brewing Co - חלוץ חדש",
+    "beer_type": "Porter - Other"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-02-27T10:51:01+00:00",
+    "serving": "Unknown",
+    "rating": 4.5,
+    "beer_name": "THE GREAT NORTHERN BARREL-AGED SERIES 53 - RELEASED 10/24/25",
+    "brewery": "Evil Twin Brewing NYC",
+    "beer_type": "Stout - Imperial / Double"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-02-27T10:48:04+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "GREENHOUSE CZECH PALE LAGER CONDITIONED ON AMERICAN OAK FOUDRE",
+    "brewery": "Evil Twin Brewing NYC",
+    "beer_type": "Lager - Světlé (Czech Pale)"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-02-27T10:47:22+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "GREENHOUSE CZECH PALE LAGER CONDITIONED ON AMERICAN OAK FOUDRE",
+    "brewery": "Evil Twin Brewing NYC",
+    "beer_type": "Lager - Světlé (Czech Pale)"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-02-27T10:45:18+00:00",
+    "serving": "bottle",
+    "rating": 5.0,
+    "beer_name": "THE GREAT NORTHERN BARREL-AGED SERIES 53 - RELEASED 10/24/25",
+    "brewery": "Evil Twin Brewing NYC",
+    "beer_type": "Stout - Imperial / Double"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-02-27T10:45:09+00:00",
+    "serving": "bottle",
+    "rating": 4.75,
+    "beer_name": "THE GREAT NORTHERN BARREL-AGED SERIES 53 - RELEASED 10/24/25",
+    "brewery": "Evil Twin Brewing NYC",
+    "beer_type": "Stout - Imperial / Double"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-02-27T10:44:53+00:00",
+    "serving": "bottle",
+    "rating": 4.5,
+    "beer_name": "THE GREAT NORTHERN BARREL-AGED SERIES 53 - RELEASED 10/24/25",
+    "brewery": "Evil Twin Brewing NYC",
+    "beer_type": "Stout - Imperial / Double"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-02-27T10:44:35+00:00",
+    "serving": "bottle",
+    "rating": 4.5,
+    "beer_name": "THE GREAT NORTHERN BARREL-AGED SERIES 53 - RELEASED 10/24/25",
+    "brewery": "Evil Twin Brewing NYC",
+    "beer_type": "Stout - Imperial / Double"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-02-27T10:43:08+00:00",
+    "serving": "can",
+    "rating": 4.5,
+    "beer_name": "EVIL FUSION - AUTUMN EDITION",
+    "brewery": "Evil Twin Brewing NYC",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-02-27T10:42:27+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "EVIL FUSION - AUTUMN EDITION",
+    "brewery": "Evil Twin Brewing NYC",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-02-27T10:41:51+00:00",
+    "serving": "Unknown",
+    "rating": 4.2,
+    "beer_name": "EVIL FUSION - AUTUMN EDITION",
+    "brewery": "Evil Twin Brewing NYC",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-02-27T10:41:21+00:00",
+    "serving": "Unknown",
+    "rating": 4.1,
+    "beer_name": "LEAF ME ALONE",
+    "brewery": "Evil Twin Brewing NYC",
+    "beer_type": "IPA - Triple New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-02-27T10:40:50+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "GREENHOUSE CZECH PALE LAGER CONDITIONED ON AMERICAN OAK FOUDRE",
+    "brewery": "Evil Twin Brewing NYC",
+    "beer_type": "Lager - Světlé (Czech Pale)"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-02-27T10:39:19+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "EVIL FUSION - AUTUMN EDITION",
+    "brewery": "Evil Twin Brewing NYC",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-02-27T10:39:00+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "זה לא בירה?!",
+    "brewery": "New Pioneer Brewing Co - חלוץ חדש",
+    "beer_type": "Mead - Other"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-02-27T10:34:52+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "LEAF ME ALONE",
+    "brewery": "Evil Twin Brewing NYC",
+    "beer_type": "IPA - Triple New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-02-27T10:31:01+00:00",
+    "serving": "Unknown",
+    "rating": 3.8,
+    "beer_name": "GREENHOUSE CZECH PILS CONDITIONED ON AMERICAN OAK FOUDRE",
+    "brewery": "Evil Twin Brewing NYC",
+    "beer_type": "Pilsner - Czech / Bohemian"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-02-27T10:30:25+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "GREENHOUSE CZECH PILS CONDITIONED ON AMERICAN OAK FOUDRE",
+    "brewery": "Evil Twin Brewing NYC",
+    "beer_type": "Pilsner - Czech / Bohemian"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-02-27T10:30:07+00:00",
+    "serving": "can",
+    "rating": 5.0,
+    "beer_name": "For Goodness Shake",
+    "brewery": "Pulfer Brewery",
+    "beer_type": "Stout - Imperial / Double Milk"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-02-27T10:28:11+00:00",
+    "serving": "Unknown",
+    "rating": 1.0,
+    "beer_name": "Brut",
+    "brewery": "Isis Desert Brewery (מבשלת הנגב המערבי)",
+    "beer_type": "Bière de Champagne / Bière Brut"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-02-27T10:18:18+00:00",
+    "serving": "draft",
+    "rating": 1.5,
+    "beer_name": "Hoppywood Pils",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Lager - IPL (India Pale Lager)"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-02-27T10:08:32+00:00",
+    "serving": "draft",
+    "rating": 3.0,
+    "beer_name": "Hop Squad 2026",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-02-27T09:57:56+00:00",
+    "serving": "bottle",
+    "rating": 4.75,
+    "beer_name": "THE GREAT NORTHERN BARREL-AGED SERIES 53 - RELEASED 10/24/25",
+    "brewery": "Evil Twin Brewing NYC",
+    "beer_type": "Stout - Imperial / Double"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-02-27T09:56:10+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Winterlambiek",
+    "brewery": "Oud Beersel",
+    "beer_type": "Lambic - Other"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-02-27T09:55:02+00:00",
+    "serving": "bottle",
+    "rating": null,
+    "beer_name": "Winterlambiek",
+    "brewery": "Oud Beersel",
+    "beer_type": "Lambic - Other"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-02-27T09:52:23+00:00",
+    "serving": "Unknown",
+    "rating": 4.5,
+    "beer_name": "Sweet Osmanthus Infused Lambic",
+    "brewery": "Oud Beersel",
+    "beer_type": "Lambic - Other"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-02-27T09:49:08+00:00",
+    "serving": "bottle",
+    "rating": null,
+    "beer_name": "Sweet Osmanthus Infused Lambic",
+    "brewery": "Oud Beersel",
+    "beer_type": "Lambic - Other"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-02-27T09:45:51+00:00",
+    "serving": "bottle",
+    "rating": 4.5,
+    "beer_name": "Sweet Osmanthus Infused Lambic",
+    "brewery": "Oud Beersel",
+    "beer_type": "Lambic - Other"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-02-27T09:42:06+00:00",
+    "serving": "Unknown",
+    "rating": 4.5,
+    "beer_name": "THE GREAT NORTHERN BARREL-AGED SERIES 53 - RELEASED 10/24/25",
+    "brewery": "Evil Twin Brewing NYC",
+    "beer_type": "Stout - Imperial / Double"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-02-27T09:41:35+00:00",
+    "serving": "bottle",
+    "rating": 4.5,
+    "beer_name": "THE GREAT NORTHERN BARREL-AGED SERIES 53 - RELEASED 10/24/25",
+    "brewery": "Evil Twin Brewing NYC",
+    "beer_type": "Stout - Imperial / Double"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-02-27T09:40:39+00:00",
+    "serving": "bottle",
+    "rating": 4.7,
+    "beer_name": "THE GREAT NORTHERN BARREL-AGED SERIES 53 - RELEASED 10/24/25",
+    "brewery": "Evil Twin Brewing NYC",
+    "beer_type": "Stout - Imperial / Double"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-02-27T09:39:59+00:00",
+    "serving": "bottle",
+    "rating": 4.0,
+    "beer_name": "Dubai Style Chocolate Stout 2025",
+    "brewery": "Rodinný pivovar Zichovec",
+    "beer_type": "Stout - Imperial / Double Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-02-27T09:36:37+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "מה? זה בירה?",
+    "brewery": "New Pioneer Brewing Co - חלוץ חדש",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-02-27T09:27:00+00:00",
+    "serving": "bottle",
+    "rating": 4.7,
+    "beer_name": "THE GREAT NORTHERN BARREL-AGED SERIES 53 - RELEASED 10/24/25",
+    "brewery": "Evil Twin Brewing NYC",
+    "beer_type": "Stout - Imperial / Double"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-02-27T09:19:37+00:00",
+    "serving": "can",
+    "rating": 3.8,
+    "beer_name": "GREENHOUSE CZECH PALE LAGER CONDITIONED ON AMERICAN OAK FOUDRE",
+    "brewery": "Evil Twin Brewing NYC",
+    "beer_type": "Lager - Světlé (Czech Pale)"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-02-27T09:18:35+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "GREENHOUSE CZECH PALE LAGER CONDITIONED ON AMERICAN OAK FOUDRE",
+    "brewery": "Evil Twin Brewing NYC",
+    "beer_type": "Lager - Světlé (Czech Pale)"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-02-27T09:18:10+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "GREENHOUSE CZECH PALE LAGER CONDITIONED ON AMERICAN OAK FOUDRE",
+    "brewery": "Evil Twin Brewing NYC",
+    "beer_type": "Lager - Světlé (Czech Pale)"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-02-27T09:17:55+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "GREENHOUSE CZECH PALE LAGER CONDITIONED ON AMERICAN OAK FOUDRE",
+    "brewery": "Evil Twin Brewing NYC",
+    "beer_type": "Lager - Světlé (Czech Pale)"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-02-27T09:16:06+00:00",
+    "serving": "can",
+    "rating": 4.5,
+    "beer_name": "EVIL FUSION - AUTUMN EDITION",
+    "brewery": "Evil Twin Brewing NYC",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-02-27T09:09:56+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "I Hate Cinnamon",
+    "brewery": "ULTIMA",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-02-27T09:08:34+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "המהייז מנצח",
+    "brewery": "New Pioneer Brewing Co - חלוץ חדש",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-02-27T08:47:36+00:00",
+    "serving": "bottle",
+    "rating": 2.5,
+    "beer_name": "SOUR RED ALE - Aged In Ex Brandy Barrels 9.6% 2024",
+    "brewery": "THEMA By Psagot",
+    "beer_type": "Sour - Flanders Red Ale"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-02-27T08:45:36+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "קוקונט קווין",
+    "brewery": "New Pioneer Brewing Co - חלוץ חדש",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-02-27T07:51:29+00:00",
+    "serving": "bottle",
+    "rating": null,
+    "beer_name": "Lichtenheiner Orange Zest Jan26",
+    "brewery": "Batra Homebrewery",
+    "beer_type": "Homebrew, Historical Beer - Lichtenhainer"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-02-27T07:45:02+00:00",
+    "serving": "draft",
+    "rating": 4.5,
+    "beer_name": "המהייז מנצח",
+    "brewery": "New Pioneer Brewing Co - חלוץ חדש",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-02-27T07:44:38+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "I Hate Cinnamon",
+    "brewery": "ULTIMA",
+    "beer_type": "Sour - Fruited"
+  },
   {
     "venue": "b7-beer-house",
     "time": "2026-02-26T23:27:53+00:00",
@@ -28149,20 +30012,20 @@ const BEER_DATA = [
   {
     "venue": "lauter",
     "time": "2026-01-01T20:23:13+00:00",
-    "serving": "Unknown",
-    "rating": null,
-    "beer_name": "N'Ice Chouffe",
-    "brewery": "Brasserie d'Achouffe",
-    "beer_type": "Winter Ale"
-  },
-  {
-    "venue": "lauter",
-    "time": "2026-01-01T20:23:13+00:00",
     "serving": "draft",
     "rating": 3.0,
     "beer_name": "Benediktiner Hell",
     "brewery": "Benediktiner Weissbräu",
     "beer_type": "Lager - Helles"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-01T20:23:13+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "N'Ice Chouffe",
+    "brewery": "Brasserie d'Achouffe",
+    "beer_type": "Winter Ale"
   },
   {
     "venue": "lauter",
@@ -46835,18 +48698,18 @@ const BEER_DATA = [
     "time": "2025-11-21T10:35:21+00:00",
     "serving": "bottle",
     "rating": 4.25,
-    "beer_name": "Rullquin au café du Rwanda",
-    "brewery": "Gueuzerie Tilquin",
-    "beer_type": "Sour - Other"
+    "beer_name": "Grapefruit Peel Lambiek - Sparkling Infused",
+    "brewery": "Oud Beersel",
+    "beer_type": "Lambic - Other"
   },
   {
     "venue": "b7-beer-house",
     "time": "2025-11-21T10:35:21+00:00",
     "serving": "bottle",
     "rating": 4.25,
-    "beer_name": "Grapefruit Peel Lambiek - Sparkling Infused",
-    "brewery": "Oud Beersel",
-    "beer_type": "Lambic - Other"
+    "beer_name": "Rullquin au café du Rwanda",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": "Sour - Other"
   },
   {
     "venue": "b7-beer-house",
@@ -58309,7 +60172,7 @@ const BEER_DATA = [
     "venue": "lauter",
     "time": "2025-10-26T18:36:28+00:00",
     "serving": "can",
-    "rating": 3.25,
+    "rating": 3.75,
     "beer_name": "Darkness My Friends Imperial Baltic Porter Coffee & Date Syrup",
     "brewery": "Maryensztadt",
     "beer_type": "Porter - Baltic"
@@ -58318,7 +60181,7 @@ const BEER_DATA = [
     "venue": "lauter",
     "time": "2025-10-26T18:36:28+00:00",
     "serving": "can",
-    "rating": 3.75,
+    "rating": 3.25,
     "beer_name": "Darkness My Friends Imperial Baltic Porter Coffee & Date Syrup",
     "brewery": "Maryensztadt",
     "beer_type": "Porter - Baltic"
@@ -88071,20 +89934,20 @@ const BEER_DATA = [
   {
     "venue": "b7-beer-house",
     "time": "2025-08-21T15:59:11+00:00",
-    "serving": "Unknown",
-    "rating": 4.0,
-    "beer_name": "Naughty & Nice - White Chocolate & Raspberry",
-    "brewery": "Vocation Brewery",
-    "beer_type": "Stout - White / Golden"
-  },
-  {
-    "venue": "b7-beer-house",
-    "time": "2025-08-21T15:59:11+00:00",
     "serving": "can",
     "rating": 3.8,
     "beer_name": "Peach Rings",
     "brewery": "Vault City Brewing",
     "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-21T15:59:11+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Naughty & Nice - White Chocolate & Raspberry",
+    "brewery": "Vocation Brewery",
+    "beer_type": "Stout - White / Golden"
   },
   {
     "venue": "b7-beer-house",
@@ -95262,8 +97125,8 @@ const BEER_DATA = [
   {
     "venue": "lauter",
     "time": "2025-08-05T18:49:38+00:00",
-    "serving": "Unknown",
-    "rating": 4.5,
+    "serving": "can",
+    "rating": 4.0,
     "beer_name": "Whakahoa",
     "brewery": "Factory Brewing",
     "beer_type": "IPA - Triple New England / Hazy"
@@ -95271,8 +97134,8 @@ const BEER_DATA = [
   {
     "venue": "lauter",
     "time": "2025-08-05T18:49:38+00:00",
-    "serving": "can",
-    "rating": 4.0,
+    "serving": "Unknown",
+    "rating": 4.5,
     "beer_name": "Whakahoa",
     "brewery": "Factory Brewing",
     "beer_type": "IPA - Triple New England / Hazy"
@@ -102336,20 +104199,20 @@ const BEER_DATA = [
   {
     "venue": "lauter",
     "time": "2025-07-26T15:22:08+00:00",
-    "serving": "Unknown",
-    "rating": 4.0,
-    "beer_name": "Pijże",
-    "brewery": "Nepo Brewing",
-    "beer_type": "Pale Ale - New England / Hazy"
-  },
-  {
-    "venue": "lauter",
-    "time": "2025-07-26T15:22:08+00:00",
     "serving": "can",
     "rating": 4.2,
     "beer_name": "Smoothie Bowl: Pistachio Fluff",
     "brewery": "Nepo Brewing",
     "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-07-26T15:22:08+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Pijże",
+    "brewery": "Nepo Brewing",
+    "beer_type": "Pale Ale - New England / Hazy"
   },
   {
     "venue": "lauter",
@@ -112795,8 +114658,8 @@ const BEER_DATA = [
     "venue": "berlin-florentin",
     "time": "2024-12-23T18:37:49+00:00",
     "serving": "bottle",
-    "rating": 3.0,
-    "beer_name": "Christmas Ale",
+    "rating": 4.1,
+    "beer_name": "Christmas Ale (2023)",
     "brewery": "Brouwerij St.Bernardus",
     "beer_type": "Winter Ale"
   },
@@ -112804,8 +114667,8 @@ const BEER_DATA = [
     "venue": "berlin-florentin",
     "time": "2024-12-23T18:37:49+00:00",
     "serving": "bottle",
-    "rating": 4.1,
-    "beer_name": "Christmas Ale (2023)",
+    "rating": 3.0,
+    "beer_name": "Christmas Ale",
     "brewery": "Brouwerij St.Bernardus",
     "beer_type": "Winter Ale"
   },
