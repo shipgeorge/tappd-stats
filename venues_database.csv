@@ -1,4 +1,24 @@
 venue,user,time,serving,data_rating,beer_name,brewery,beer_type
+lauter,Nirit Agiv,"Fri, 06 Mar 2026 20:40:44 +0000",bottle,4.8,Oude Pinot Gris Tilquin à l'Ancienne (2021-2022),Gueuzerie Tilquin,Lambic - Fruit
+lauter,Shmupi Koto,"Fri, 06 Mar 2026 20:40:18 +0000",bottle,4.8,Oude Pinot Gris Tilquin à l'Ancienne (2021-2022),Gueuzerie Tilquin,Lambic - Fruit
+beerline,NaShTu,"Fri, 06 Mar 2026 19:47:10 +0000",draft,3.75,Bacchus Frambozenbier,Kasteel Brouwerij Vanhonsebrouck,Sour - Flanders Oud Bruin
+lauter,Adam Berelowitz,"Fri, 06 Mar 2026 17:46:40 +0000",bottle,4.0,Helles Schlenkerla Lagerbier,"Schlenkerla (""Heller-Bräu"" Trum)",Lager - Helles
+lauter,Nir Langer,"Fri, 06 Mar 2026 15:38:48 +0000",,,Alon vs. אלון,Schnitt Brewing Company﻿,Porter - Baltic
+lauter,UV R,"Fri, 06 Mar 2026 15:33:42 +0000",draft,,Hoppywood Pils,Schnitt Brewing Company﻿,Lager - IPL (India Pale Lager)
+lauter,Omri Levy,"Fri, 06 Mar 2026 15:05:13 +0000",draft,3.5,La Trappe Quadrupel,Bierbrouwerij De Koningshoeven,Belgian Quadrupel
+schnitt-brewing-company,AfekStein12,"Fri, 06 Mar 2026 15:04:56 +0000",draft,3.75,Spaten Münchner Hell / Premium Lager,Spaten-Franziskaner-Löwenbräu-Gruppe,Lager - Helles
+lauter,Itay shalom Kaplan,"Fri, 06 Mar 2026 15:02:13 +0000",draft,3.5,La Trappe Quadrupel,Bierbrouwerij De Koningshoeven,Belgian Quadrupel
+lauter,Omri Levy,"Fri, 06 Mar 2026 15:02:07 +0000",draft,3.7,Black Forest,קישקשתא (Kishkashta),Porter - Imperial / Double
+lauter,UV R,"Fri, 06 Mar 2026 14:37:18 +0000",,,תוצרת הארץ,New Pioneer Brewing Co - חלוץ חדש,Pale Ale - American
+lauter,Nir Langer,"Fri, 06 Mar 2026 14:36:13 +0000",,,תוצרת הארץ,New Pioneer Brewing Co - חלוץ חדש,Pale Ale - American
+lauter,UV R,"Fri, 06 Mar 2026 14:25:34 +0000",draft,4.75,Hop Squad 2026,Schnitt Brewing Company﻿,IPA - New England / Hazy
+lauter,UV R,"Fri, 06 Mar 2026 14:14:05 +0000",,,Bucharest Anyone?,ULTIMA,Sour - Fruited
+lauter,Nir Langer,"Fri, 06 Mar 2026 14:07:32 +0000",can,,Bucharest Anyone?,ULTIMA,Sour - Fruited
+berlin-florentin,Ilya Markovsky,"Fri, 06 Mar 2026 11:01:42 +0000",can,3.9,Imperial Raspberry & Coconut Stout,The Garden Brewery,Stout - Imperial / Double Pastry
+beerline,Slava Gladchenko,"Fri, 06 Mar 2026 10:42:01 +0000",draft,5.0,La Trappe Quadrupel,Bierbrouwerij De Koningshoeven,Belgian Quadrupel
+b7-beer-house,Dima Shleifman,"Fri, 06 Mar 2026 09:32:55 +0000",can,4.0,Fros'e Hydra Deuce,Mortalis Brewing Company,Sour - Smoothie / Pastry
+b7-beer-house,Yuval Lutski,"Fri, 06 Mar 2026 09:06:38 +0000",draft,4.5,Birthday Haze,The Three-Legged Crow Brewery,"Homebrew, IPA - New England / Hazy"
+b7-beer-house,Dima Shleifman,"Fri, 06 Mar 2026 08:55:24 +0000",draft,5.0,Birthday Haze,The Three-Legged Crow Brewery,"Homebrew, IPA - New England / Hazy"
 b7-beer-house,Alex Fux,"Thu, 05 Mar 2026 22:08:40 +0000",can,4.0,Bucharest Anyone?,ULTIMA,Sour - Fruited
 lauter,Dr Troubles,"Thu, 05 Mar 2026 21:22:57 +0000",can,3.5,Pilot #54 Smokey Jane,BrewDog Deutschland,IPA - Other
 lauter,Itay shalom Kaplan,"Thu, 05 Mar 2026 21:19:54 +0000",draft,3.5,Hop Squad 2026,Schnitt Brewing Company﻿,IPA - New England / Hazy
@@ -137,8 +157,8 @@ b7-beer-house,Tom Lahav,"Fri, 27 Feb 2026 12:18:04 +0000",can,3.5,Free Gelato: S
 b7-beer-house,Eylon,"Fri, 27 Feb 2026 12:13:18 +0000",can,4.5,Midnight Snack,LERVIG,Stout - Imperial / Double Pastry
 b7-beer-house,Raz Hechter,"Fri, 27 Feb 2026 12:12:58 +0000",draft,4.5,I Hate Cinnamon,ULTIMA,Sour - Fruited
 b7-beer-house,Eylon,"Fri, 27 Feb 2026 12:11:58 +0000",,3.5,Denali 6190,Monpiër de Gherdëina,IPA - American
-b7-beer-house,Yana O,"Fri, 27 Feb 2026 12:11:29 +0000",can,4.8,Midnight Snack,LERVIG,Stout - Imperial / Double Pastry
 b7-beer-house,Oren Sleepwalker,"Fri, 27 Feb 2026 12:11:29 +0000",,,משהו טוטאלי,New Pioneer Brewing Co - חלוץ חדש,Brown Ale - Other
+b7-beer-house,Yana O,"Fri, 27 Feb 2026 12:11:29 +0000",can,4.8,Midnight Snack,LERVIG,Stout - Imperial / Double Pastry
 b7-beer-house,Oren Sleepwalker,"Fri, 27 Feb 2026 12:11:12 +0000",,,זה לא בירה?!,New Pioneer Brewing Co - חלוץ חדש,Mead - Other
 b7-beer-house,Tom Lahav,"Fri, 27 Feb 2026 12:10:42 +0000",can,4.25,Midnight Snack,LERVIG,Stout - Imperial / Double Pastry
 b7-beer-house,Tom Lahav,"Fri, 27 Feb 2026 12:09:01 +0000",can,3.5,Denali 6190,Monpiër de Gherdëina,IPA - American
@@ -2296,8 +2316,8 @@ schnitt-brewing-company,jonathan_gurevitz,"Fri, 16 Jan 2026 18:34:34 +0000",draf
 schnitt-brewing-company,jonathan_gurevitz,"Fri, 16 Jan 2026 18:33:38 +0000",draft,4.0,Crazy Hazy,Schnitt Brewing Company﻿,IPA - New England / Hazy
 schnitt-brewing-company,jonathan_gurevitz,"Fri, 16 Jan 2026 18:33:05 +0000",draft,4.0,Stoutment,Schnitt Brewing Company﻿,Stout - Other
 schnitt-brewing-company,jonathan_gurevitz,"Fri, 16 Jan 2026 18:32:25 +0000",draft,4.0,4 the Love of Fruit,Schnitt Brewing Company﻿,IPA - New England / Hazy
-lauter,David Siegel,"Fri, 16 Jan 2026 18:31:34 +0000",draft,,Vagus,קישקשתא (Kishkashta),IPA - American
 schnitt-brewing-company,Ohad Pinhas,"Fri, 16 Jan 2026 18:31:34 +0000",draft,4.0,CBGF: Garden Through the Looking Glass,CoolHead Brew,Stout - Imperial / Double Pastry
+lauter,David Siegel,"Fri, 16 Jan 2026 18:31:34 +0000",draft,,Vagus,קישקשתא (Kishkashta),IPA - American
 lauter,Yaron Sh,"Fri, 16 Jan 2026 18:16:28 +0000",,4.25,4 the Love of Fruit COCONUT,Schnitt Brewing Company﻿,IPA - New England / Hazy
 schnitt-brewing-company,Yaron Sh,"Fri, 16 Jan 2026 18:15:22 +0000",draft,4.0,Crazy Hazy,Schnitt Brewing Company﻿,IPA - New England / Hazy
 lauter,Sivan Nagola,"Fri, 16 Jan 2026 18:03:54 +0000",draft,4.5,Quetsche Tilquin – Draft Version,Gueuzerie Tilquin,Lambic - Fruit
@@ -2416,8 +2436,8 @@ schnitt-brewing-company,Shai Friling,"Fri, 16 Jan 2026 14:55:56 +0000",,,4 the L
 lauter,Omri Levy,"Fri, 16 Jan 2026 14:54:38 +0000",draft,3.0,Buster's Cranberry Lemonade,Oak & Ash,Malt Liquor
 schnitt-brewing-company,Miki Zaidel,"Fri, 16 Jan 2026 14:54:10 +0000",draft,4.0,4 the Love of Fruit COCONUT,Schnitt Brewing Company﻿,IPA - New England / Hazy
 lauter,Ido Meir,"Fri, 16 Jan 2026 14:53:43 +0000",,3.75,Rinktinis,Volfas Engelman,Lager - Pale
-lauter,Ido Meir,"Fri, 16 Jan 2026 14:52:39 +0000",,4.0,Christmas Ale,Brouwerij St. Bernardus,Winter Ale
 lauter,Omri Levy,"Fri, 16 Jan 2026 14:52:39 +0000",,3.5,Alt Neuland,Schnitt Brewing Company﻿,Altbier - Traditional
+lauter,Ido Meir,"Fri, 16 Jan 2026 14:52:39 +0000",,4.0,Christmas Ale,Brouwerij St. Bernardus,Winter Ale
 schnitt-brewing-company,Gal Sorogon,"Fri, 16 Jan 2026 14:52:27 +0000",draft,4.0,Stoutment,Schnitt Brewing Company﻿,Stout - Other
 schnitt-brewing-company,Ido Mund,"Fri, 16 Jan 2026 14:51:49 +0000",draft,3.75,Stoutment,Schnitt Brewing Company﻿,Stout - Other
 schnitt-brewing-company,moria koren,"Fri, 16 Jan 2026 14:51:38 +0000",draft,,שוורצע,Schnitt Brewing Company﻿,IPA - Black / Cascadian Dark Ale
@@ -4075,8 +4095,8 @@ lauter,levlev444,"Fri, 19 Dec 2025 13:51:33 +0000",bottle,4.25,Vigneronne (2023)
 lauter,levlev444,"Fri, 19 Dec 2025 13:34:48 +0000",,3.75,Oude Gueuze Tilquin à l'ancienne - Cuvée Jean-François 1759 (2021-2022),Gueuzerie Tilquin,Lambic - Gueuze
 lauter,levlev444,"Fri, 19 Dec 2025 13:23:07 +0000",bottle,4.25,Fou' Foune (2024),Brasserie Cantillon,Lambic - Fruit
 lauter,YanivMeir1503,"Fri, 19 Dec 2025 13:14:08 +0000",bottle,,Oude Gueuze Tilquin à l'ancienne - Cuvée Jean-François 1759 (2021-2022),Gueuzerie Tilquin,Lambic - Gueuze
-lauter,Ido Cohen,"Fri, 19 Dec 2025 13:11:34 +0000",bottle,4.7,Oude Gueuze Tilquin à l'ancienne - Cuvée Jean-François 1759 (2021-2022),Gueuzerie Tilquin,Lambic - Gueuze
 lauter,levlev444,"Fri, 19 Dec 2025 13:11:34 +0000",bottle,4.25,Oude Gueuze Tilquin à l'ancienne - Cuvée Arthur (2022-2023),Gueuzerie Tilquin,Lambic - Gueuze
+lauter,Ido Cohen,"Fri, 19 Dec 2025 13:11:34 +0000",bottle,4.7,Oude Gueuze Tilquin à l'ancienne - Cuvée Jean-François 1759 (2021-2022),Gueuzerie Tilquin,Lambic - Gueuze
 lauter,levlev444,"Fri, 19 Dec 2025 13:09:36 +0000",bottle,4.0,Rabarber (2023),Boerenerf,Lambic - Fruit
 lauter,Nirit Agiv,"Fri, 19 Dec 2025 13:05:57 +0000",bottle,4.4,Rabarber (2023),Boerenerf,Lambic - Fruit
 lauter,levlev444,"Fri, 19 Dec 2025 13:04:39 +0000",bottle,4.5,Pescharina (Oogst 2023),Boerenerf,Lambic - Fruit
@@ -8859,8 +8879,8 @@ lauter,YanivMeir1503,"Fri, 12 Sep 2025 10:38:04 +0000",draft,,Delirium Black Bar
 lauter,David Siegel,"Fri, 12 Sep 2025 10:37:22 +0000",draft,4.0,Ciderman Apple,Volfas Engelman,Cider - Traditional / Apfelwein
 lauter,Yuval Erets Kdosha,"Fri, 12 Sep 2025 10:34:34 +0000",draft,5.0,Black Currant x Cherry x Blueberry x Coconut x Almond Smoothie Sour Ale,Ārpus Brewing Co.,Sour - Smoothie / Pastry
 lauter,Yuval Erets Kdosha,"Fri, 12 Sep 2025 10:34:15 +0000",draft,4.0,Eclipse,Schmulz,Mead - Braggot
-lauter,ParkerAsaf,"Fri, 12 Sep 2025 10:33:29 +0000",draft,4.0,Birthday Popsicle קרטיב יום הולדת,Schnitt Brewing Company﻿,IPA - New England / Hazy
 lauter,Yuval Erets Kdosha,"Fri, 12 Sep 2025 10:33:29 +0000",draft,4.0,Birthday Popsicle קרטיב יום הולדת,Schnitt Brewing Company﻿,IPA - New England / Hazy
+lauter,ParkerAsaf,"Fri, 12 Sep 2025 10:33:29 +0000",draft,4.0,Birthday Popsicle קרטיב יום הולדת,Schnitt Brewing Company﻿,IPA - New England / Hazy
 lauter,Yana O,"Fri, 12 Sep 2025 10:33:25 +0000",draft,4.4,Black Currant x Cherry x Blueberry x Coconut x Almond Smoothie Sour Ale,Ārpus Brewing Co.,Sour - Smoothie / Pastry
 lauter,Yuval Erets Kdosha,"Fri, 12 Sep 2025 10:33:07 +0000",draft,4.5,Anything Gose: Mango,Schnitt Brewing Company﻿,Sour - Fruited Gose
 lauter,dafi20,"Fri, 12 Sep 2025 10:29:45 +0000",draft,4.25,Sweet Dreams,Oak & Ash,Sour - Fruited
@@ -10022,8 +10042,8 @@ b7-beer-house,Liad Shaked,"Thu, 21 Aug 2025 16:04:25 +0000",can,3.8,Nitro Mini M
 b7-beer-house,Tom Lahav,"Thu, 21 Aug 2025 16:04:24 +0000",can,3.5,Nitro Mini M*rs,Vault City Brewing,Stout - Pastry
 b7-beer-house,Raz Ko,"Thu, 21 Aug 2025 16:03:38 +0000",can,4.2,Salted Caramel Crema,Vault City Brewing,Stout - Imperial / Double Coffee
 b7-beer-house,Eran Keller,"Thu, 21 Aug 2025 16:03:08 +0000",can,4.25,Salted Caramel Crema,Vault City Brewing,Stout - Imperial / Double Coffee
-b7-beer-house,Elior Mizrahi,"Thu, 21 Aug 2025 16:02:37 +0000",,3.75,Nitro Mini M*rs,Vault City Brewing,Stout - Pastry
 b7-beer-house,Raz Ko,"Thu, 21 Aug 2025 16:02:37 +0000",can,3.5,Nitro Mini M*rs,Vault City Brewing,Stout - Pastry
+b7-beer-house,Elior Mizrahi,"Thu, 21 Aug 2025 16:02:37 +0000",,3.75,Nitro Mini M*rs,Vault City Brewing,Stout - Pastry
 b7-beer-house,Liad Shaked,"Thu, 21 Aug 2025 16:02:21 +0000",can,4.3,Salted Caramel Crema,Vault City Brewing,Stout - Imperial / Double Coffee
 b7-beer-house,Ido Cohen,"Thu, 21 Aug 2025 16:02:06 +0000",can,3.9,Birthday Cake,Vocation Brewery,Stout - Milk / Sweet
 b7-beer-house,Eran Keller,"Thu, 21 Aug 2025 16:01:24 +0000",can,3.75,Naughty & Nice - White Chocolate & Raspberry,Vocation Brewery,Stout - White / Golden
@@ -11735,8 +11755,8 @@ lauter,Sivan Nagola,"Fri, 25 Jul 2025 18:16:52 +0000",draft,4.5,Rosé De Gambrin
 lauter,Shmupi Koto,"Fri, 25 Jul 2025 18:16:45 +0000",draft,4.6,Sang Bleu 2024 - Draft Version,Brasserie Cantillon,Lambic - Fruit
 lauter,Yahly Guttman,"Fri, 25 Jul 2025 18:16:17 +0000",,5.0,Fou' Foune 2023 - Draft Version,Brasserie Cantillon,Lambic - Fruit
 lauter,Sivan Nagola,"Fri, 25 Jul 2025 18:15:54 +0000",draft,4.0,Kriek 2025 - Draft Version,Brasserie Cantillon,Lambic - Kriek
-lauter,Sivan Nagola,"Fri, 25 Jul 2025 18:15:23 +0000",draft,4.0,Cuvée Saint-Gilloise 2023 - Draft Version,Brasserie Cantillon,Lambic - Traditional
 lauter,Eli Smikin,"Fri, 25 Jul 2025 18:15:23 +0000",draft,4.8,Fou' Foune 2023 - Draft Version,Brasserie Cantillon,Lambic - Fruit
+lauter,Sivan Nagola,"Fri, 25 Jul 2025 18:15:23 +0000",draft,4.0,Cuvée Saint-Gilloise 2023 - Draft Version,Brasserie Cantillon,Lambic - Traditional
 lauter,Sivan Nagola,"Fri, 25 Jul 2025 18:14:47 +0000",draft,4.75,Gueuze 2024 - Draft Version,Brasserie Cantillon,Lambic - Gueuze
 lauter,Sivan Nagola,"Fri, 25 Jul 2025 18:14:07 +0000",draft,4.0,Grand Cru Bruocsella - Draft Version (2021-2022),Brasserie Cantillon,Lambic - Traditional
 lauter,Itai Snai,"Fri, 25 Jul 2025 18:10:14 +0000",,4.5,Fou' Foune 2023 - Draft Version,Brasserie Cantillon,Lambic - Fruit
