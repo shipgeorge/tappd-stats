@@ -1,8 +1,647 @@
 // 🍺 BEER STATS DATA - Generated automatically
-// Last updated: 2026-03-07 06:54:12
-// Total records: 13853
+// Last updated: 2026-03-08 06:56:14
+// Total records: 13924
 
 const BEER_DATA = [
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-03-08T06:43:22+00:00",
+    "serving": "can",
+    "rating": 5.0,
+    "beer_name": "Yes Yes No No",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Wheat Beer - Hefeweizen"
+  },
+  {
+    "venue": "berlin-florentin",
+    "time": "2026-03-08T06:41:15+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Punk IPA",
+    "brewery": "BrewDog",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-03-08T06:40:16+00:00",
+    "serving": "draft",
+    "rating": 5.0,
+    "beer_name": "Wit Win (situation)",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Wheat Beer - Witbier / Blanche"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-03-08T06:38:44+00:00",
+    "serving": "can",
+    "rating": 5.0,
+    "beer_name": "Anything Gose: Orange And Sage",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Sour - Fruited Gose"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-03-08T06:36:23+00:00",
+    "serving": "Unknown",
+    "rating": 5.0,
+    "beer_name": "Weissman",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Wheat Beer - Hefeweizen"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-03-07T21:44:51+00:00",
+    "serving": "can",
+    "rating": 3.7,
+    "beer_name": "PEEKA",
+    "brewery": "Blech.Brut",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-03-07T21:43:53+00:00",
+    "serving": "can",
+    "rating": 3.6,
+    "beer_name": "BA Liquid Rorschach",
+    "brewery": "Salama Brewing Company",
+    "beer_type": "Stout - Imperial / Double"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-03-07T21:41:04+00:00",
+    "serving": "can",
+    "rating": 3.4,
+    "beer_name": "Maple Syrup Barrel-Aged Imperial Stout",
+    "brewery": "Two Chefs Brewing",
+    "beer_type": "Stout - Imperial / Double"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-03-07T21:35:46+00:00",
+    "serving": "can",
+    "rating": 4.3,
+    "beer_name": "Mindless Philosopher",
+    "brewery": "Emperor's Brewery",
+    "beer_type": "Porter - Imperial / Double"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-03-07T21:24:15+00:00",
+    "serving": "can",
+    "rating": 5.0,
+    "beer_name": "Mindless Philosopher",
+    "brewery": "Emperor's Brewery",
+    "beer_type": "Porter - Imperial / Double"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-03-07T21:24:14+00:00",
+    "serving": "can",
+    "rating": 4.5,
+    "beer_name": "Marvel At This",
+    "brewery": "Spanish Marie Brewery",
+    "beer_type": "Sour - Other"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-03-07T21:23:37+00:00",
+    "serving": "can",
+    "rating": 4.1,
+    "beer_name": "Mindless Philosopher",
+    "brewery": "Emperor's Brewery",
+    "beer_type": "Porter - Imperial / Double"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-03-07T21:20:13+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Maple Syrup Barrel-Aged Imperial Stout",
+    "brewery": "Two Chefs Brewing",
+    "beer_type": "Stout - Imperial / Double"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-03-07T21:19:30+00:00",
+    "serving": "can",
+    "rating": 3.7,
+    "beer_name": "Maple Syrup Barrel-Aged Imperial Stout",
+    "brewery": "Two Chefs Brewing",
+    "beer_type": "Stout - Imperial / Double"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-03-07T21:15:49+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Marvel At This",
+    "brewery": "Spanish Marie Brewery",
+    "beer_type": "Sour - Other"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-03-07T21:15:10+00:00",
+    "serving": "can",
+    "rating": 4.1,
+    "beer_name": "Marvel At This",
+    "brewery": "Spanish Marie Brewery",
+    "beer_type": "Sour - Other"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-03-07T20:50:44+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "BA Liquid Rorschach",
+    "brewery": "Salama Brewing Company",
+    "beer_type": "Stout - Imperial / Double"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-03-07T20:49:25+00:00",
+    "serving": "can",
+    "rating": 3.8,
+    "beer_name": "BA Liquid Rorschach",
+    "brewery": "Salama Brewing Company",
+    "beer_type": "Stout - Imperial / Double"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-03-07T20:48:50+00:00",
+    "serving": "can",
+    "rating": 3.6,
+    "beer_name": "Late Santa",
+    "brewery": "Bereta Brewing Co.",
+    "beer_type": "Stout - Imperial / Double Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-03-07T20:47:37+00:00",
+    "serving": "can",
+    "rating": 4.3,
+    "beer_name": "CHONK: Raspberry & White Chocolate",
+    "brewery": "Drekker Brewing Company",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-03-07T20:43:25+00:00",
+    "serving": "can",
+    "rating": 4.5,
+    "beer_name": "Late Santa",
+    "brewery": "Bereta Brewing Co.",
+    "beer_type": "Stout - Imperial / Double Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-03-07T20:43:12+00:00",
+    "serving": "can",
+    "rating": 3.9,
+    "beer_name": "Late Santa",
+    "brewery": "Bereta Brewing Co.",
+    "beer_type": "Stout - Imperial / Double Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-03-07T20:37:18+00:00",
+    "serving": "can",
+    "rating": 4.2,
+    "beer_name": "Luck Dragon",
+    "brewery": "Selfmade Brewery",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-03-07T20:34:41+00:00",
+    "serving": "can",
+    "rating": 5.0,
+    "beer_name": "CHONK: Raspberry & White Chocolate",
+    "brewery": "Drekker Brewing Company",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-03-07T20:34:26+00:00",
+    "serving": "can",
+    "rating": 4.3,
+    "beer_name": "CHONK: Raspberry & White Chocolate",
+    "brewery": "Drekker Brewing Company",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-03-07T20:30:50+00:00",
+    "serving": "can",
+    "rating": 3.2,
+    "beer_name": "Luck Dragon",
+    "brewery": "Selfmade Brewery",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-03-07T20:29:13+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "Luck Dragon",
+    "brewery": "Selfmade Brewery",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-03-07T20:21:44+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "PEEKA",
+    "brewery": "Blech.Brut",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-03-07T20:21:25+00:00",
+    "serving": "can",
+    "rating": 3.8,
+    "beer_name": "La Truffe",
+    "brewery": "Wolves & People Farmhouse Brewery",
+    "beer_type": "Stout - Other"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-03-07T20:21:22+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "PEEKA",
+    "brewery": "Blech.Brut",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-03-07T20:17:44+00:00",
+    "serving": "can",
+    "rating": 4.5,
+    "beer_name": "Braaaaaaaains - Mango Key Lime",
+    "brewery": "Drekker Brewing Company",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-03-07T20:16:40+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "La Truffe",
+    "brewery": "Wolves & People Farmhouse Brewery",
+    "beer_type": "Stout - Other"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-03-07T20:15:22+00:00",
+    "serving": "can",
+    "rating": 3.7,
+    "beer_name": "La Truffe",
+    "brewery": "Wolves & People Farmhouse Brewery",
+    "beer_type": "Stout - Other"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-03-07T20:15:04+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Rhubarb Drizzleberry Cupcake",
+    "brewery": "Vault City Brewing",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-03-07T20:09:23+00:00",
+    "serving": "can",
+    "rating": 4.3,
+    "beer_name": "Braaaaaaaains - Mango Key Lime",
+    "brewery": "Drekker Brewing Company",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-03-07T20:09:19+00:00",
+    "serving": "can",
+    "rating": 5.0,
+    "beer_name": "Braaaaaaaains - Mango Key Lime",
+    "brewery": "Drekker Brewing Company",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-03-07T20:03:31+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Raubtier Duell - Das Rückspiel",
+    "brewery": "Nürnbier",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-03-07T20:03:20+00:00",
+    "serving": "can",
+    "rating": 3.9,
+    "beer_name": "Rhubarb Drizzleberry Cupcake",
+    "brewery": "Vault City Brewing",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-03-07T20:01:42+00:00",
+    "serving": "can",
+    "rating": 4.5,
+    "beer_name": "Rhubarb Drizzleberry Cupcake",
+    "brewery": "Vault City Brewing",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-03-07T19:56:30+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Raubtier Duell - Das Rückspiel",
+    "brewery": "Nürnbier",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-03-07T19:55:38+00:00",
+    "serving": "can",
+    "rating": 4.1,
+    "beer_name": "Raubtier Duell - Das Rückspiel",
+    "brewery": "Nürnbier",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-03-07T19:55:04+00:00",
+    "serving": "can",
+    "rating": 4.2,
+    "beer_name": "Salzgeist 11",
+    "brewery": "Rodinný pivovar Zichovec",
+    "beer_type": "Sour - Traditional Gose"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-03-07T19:53:03+00:00",
+    "serving": "can",
+    "rating": 3.6,
+    "beer_name": "Project X: Cause & Effect",
+    "brewery": "Mother Earth Brewing Company",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-03-07T19:52:07+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Salzgeist 11",
+    "brewery": "Rodinný pivovar Zichovec",
+    "beer_type": "Sour - Traditional Gose"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-03-07T19:48:43+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Salzgeist 11",
+    "brewery": "Rodinný pivovar Zichovec",
+    "beer_type": "Sour - Traditional Gose"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-03-07T19:45:33+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Diamond Dust",
+    "brewery": "Pure Project Brewing",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-03-07T19:41:51+00:00",
+    "serving": "can",
+    "rating": 3.6,
+    "beer_name": "Project X: Cause & Effect",
+    "brewery": "Mother Earth Brewing Company",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-03-07T19:41:17+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Project X: Cause & Effect",
+    "brewery": "Mother Earth Brewing Company",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-03-07T19:35:28+00:00",
+    "serving": "can",
+    "rating": 3.9,
+    "beer_name": "Diamond Dust",
+    "brewery": "Pure Project Brewing",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-03-07T19:33:39+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Diamond Dust",
+    "brewery": "Pure Project Brewing",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-03-07T19:28:11+00:00",
+    "serving": "can",
+    "rating": 4.4,
+    "beer_name": "Patty Lou",
+    "brewery": "Living Häus Beer Company",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-03-07T19:24:36+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "Patty Lou",
+    "brewery": "Living Häus Beer Company",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-03-07T19:23:51+00:00",
+    "serving": "can",
+    "rating": 4.3,
+    "beer_name": "Patty Lou",
+    "brewery": "Living Häus Beer Company",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-03-07T19:22:52+00:00",
+    "serving": "can",
+    "rating": 3.4,
+    "beer_name": "Crazy Lines Series: Good Time",
+    "brewery": "Nepo Brewing",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-03-07T19:21:38+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Crazy Lines Series: Good Time",
+    "brewery": "Nepo Brewing",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-03-07T19:19:48+00:00",
+    "serving": "can",
+    "rating": 3.7,
+    "beer_name": "Crazy Lines Series: Good Time",
+    "brewery": "Nepo Brewing",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-03-07T19:18:56+00:00",
+    "serving": "can",
+    "rating": 3.4,
+    "beer_name": "JAM JUICE",
+    "brewery": "FERMENTERARNA",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-03-07T19:14:17+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "JAM JUICE",
+    "brewery": "FERMENTERARNA",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-03-07T19:12:44+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "JAM JUICE",
+    "brewery": "FERMENTERARNA",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-03-07T19:10:40+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Sonic Meltdown",
+    "brewery": "FUERST WIACEK Berlin",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-03-07T19:09:41+00:00",
+    "serving": "can",
+    "rating": 4.5,
+    "beer_name": "Sonic Meltdown",
+    "brewery": "FUERST WIACEK Berlin",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-03-07T19:08:46+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Ascendance",
+    "brewery": "Track Brewing Company",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-03-07T19:06:41+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Hoptopia",
+    "brewery": "La Grúa",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-03-07T19:03:51+00:00",
+    "serving": "can",
+    "rating": 4.1,
+    "beer_name": "Sonic Meltdown",
+    "brewery": "FUERST WIACEK Berlin",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-03-07T19:00:45+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "Ascendance",
+    "brewery": "Track Brewing Company",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-03-07T18:58:33+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Ascendance",
+    "brewery": "Track Brewing Company",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-03-07T18:56:50+00:00",
+    "serving": "Unknown",
+    "rating": 3.4,
+    "beer_name": "Hoptopia",
+    "brewery": "La Grúa",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-03-07T18:50:45+00:00",
+    "serving": "can",
+    "rating": 3.8,
+    "beer_name": "Hoptopia",
+    "brewery": "La Grúa",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-07T17:07:39+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Black Banana",
+    "brewery": "Zavod",
+    "beer_type": "Stout - Milk / Sweet"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-07T17:05:32+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "Otsneba (Cherry+Banana+Vanilla)",
+    "brewery": "Megobrebi Brewery",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-03-07T09:31:51+00:00",
+    "serving": "Unknown",
+    "rating": 3.25,
+    "beer_name": "Helix",
+    "brewery": "Equilibrium Brewery",
+    "beer_type": "Pilsner - German"
+  },
   {
     "venue": "lauter",
     "time": "2026-03-06T20:40:44+00:00",
@@ -21940,19 +22579,19 @@ const BEER_DATA = [
     "venue": "lauter",
     "time": "2026-01-16T14:52:39+00:00",
     "serving": "Unknown",
-    "rating": 3.5,
-    "beer_name": "Alt Neuland",
-    "brewery": "Schnitt Brewing Company﻿",
-    "beer_type": "Altbier - Traditional"
+    "rating": 4.0,
+    "beer_name": "Christmas Ale",
+    "brewery": "Brouwerij St. Bernardus",
+    "beer_type": "Winter Ale"
   },
   {
     "venue": "lauter",
     "time": "2026-01-16T14:52:39+00:00",
     "serving": "Unknown",
-    "rating": 4.0,
-    "beer_name": "Christmas Ale",
-    "brewery": "Brouwerij St. Bernardus",
-    "beer_type": "Winter Ale"
+    "rating": 3.5,
+    "beer_name": "Alt Neuland",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Altbier - Traditional"
   },
   {
     "venue": "schnitt-brewing-company",
@@ -49265,18 +49904,18 @@ const BEER_DATA = [
     "time": "2025-11-21T10:35:21+00:00",
     "serving": "bottle",
     "rating": 4.25,
-    "beer_name": "Grapefruit Peel Lambiek - Sparkling Infused",
-    "brewery": "Oud Beersel",
-    "beer_type": "Lambic - Other"
+    "beer_name": "Rullquin au café du Rwanda",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": "Sour - Other"
   },
   {
     "venue": "b7-beer-house",
     "time": "2025-11-21T10:35:21+00:00",
     "serving": "bottle",
     "rating": 4.25,
-    "beer_name": "Rullquin au café du Rwanda",
-    "brewery": "Gueuzerie Tilquin",
-    "beer_type": "Sour - Other"
+    "beer_name": "Grapefruit Peel Lambiek - Sparkling Infused",
+    "brewery": "Oud Beersel",
+    "beer_type": "Lambic - Other"
   },
   {
     "venue": "b7-beer-house",
@@ -64651,15 +65290,6 @@ const BEER_DATA = [
     "beer_type": "IPA - American"
   },
   {
-    "venue": "lauter",
-    "time": "2025-10-19T19:17:21+00:00",
-    "serving": "bottle",
-    "rating": 3.25,
-    "beer_name": "Bjorn's Beer",
-    "brewery": "Attali's Family Brewery",
-    "beer_type": "IPA - American"
-  },
-  {
     "venue": "schnitt-brewing-company",
     "time": "2025-10-19T19:17:21+00:00",
     "serving": "can",
@@ -64667,6 +65297,15 @@ const BEER_DATA = [
     "beer_name": "Plum Waffle",
     "brewery": "Duncan's Brewing",
     "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-19T19:17:21+00:00",
+    "serving": "bottle",
+    "rating": 3.25,
+    "beer_name": "Bjorn's Beer",
+    "brewery": "Attali's Family Brewery",
+    "beer_type": "IPA - American"
   },
   {
     "venue": "lauter",
@@ -90393,8 +91032,8 @@ const BEER_DATA = [
   {
     "venue": "b7-beer-house",
     "time": "2025-08-21T16:02:37+00:00",
-    "serving": "can",
-    "rating": 3.5,
+    "serving": "Unknown",
+    "rating": 3.75,
     "beer_name": "Nitro Mini M*rs",
     "brewery": "Vault City Brewing",
     "beer_type": "Stout - Pastry"
@@ -90402,8 +91041,8 @@ const BEER_DATA = [
   {
     "venue": "b7-beer-house",
     "time": "2025-08-21T16:02:37+00:00",
-    "serving": "Unknown",
-    "rating": 3.75,
+    "serving": "can",
+    "rating": 3.5,
     "beer_name": "Nitro Mini M*rs",
     "brewery": "Vault City Brewing",
     "beer_type": "Stout - Pastry"
@@ -90501,20 +91140,20 @@ const BEER_DATA = [
   {
     "venue": "b7-beer-house",
     "time": "2025-08-21T15:59:11+00:00",
-    "serving": "Unknown",
-    "rating": 4.0,
-    "beer_name": "Naughty & Nice - White Chocolate & Raspberry",
-    "brewery": "Vocation Brewery",
-    "beer_type": "Stout - White / Golden"
-  },
-  {
-    "venue": "b7-beer-house",
-    "time": "2025-08-21T15:59:11+00:00",
     "serving": "can",
     "rating": 3.8,
     "beer_name": "Peach Rings",
     "brewery": "Vault City Brewing",
     "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-21T15:59:11+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Naughty & Nice - White Chocolate & Raspberry",
+    "brewery": "Vocation Brewery",
+    "beer_type": "Stout - White / Golden"
   },
   {
     "venue": "b7-beer-house",
@@ -97395,8 +98034,8 @@ const BEER_DATA = [
   {
     "venue": "lauter",
     "time": "2025-08-05T19:24:07+00:00",
-    "serving": "can",
-    "rating": 4.5,
+    "serving": "Unknown",
+    "rating": null,
     "beer_name": "SLUSHY XL: Haha!",
     "brewery": "450 North Brewing Company",
     "beer_type": "Sour - Smoothie / Pastry"
@@ -97404,8 +98043,8 @@ const BEER_DATA = [
   {
     "venue": "lauter",
     "time": "2025-08-05T19:24:07+00:00",
-    "serving": "Unknown",
-    "rating": null,
+    "serving": "can",
+    "rating": 4.5,
     "beer_name": "SLUSHY XL: Haha!",
     "brewery": "450 North Brewing Company",
     "beer_type": "Sour - Smoothie / Pastry"
