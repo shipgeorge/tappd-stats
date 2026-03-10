@@ -1,8 +1,206 @@
 // 🍺 BEER STATS DATA - Generated automatically
-// Last updated: 2026-03-09 07:13:00
-// Total records: 13935
+// Last updated: 2026-03-10 07:02:44
+// Total records: 13957
 
 const BEER_DATA = [
+  {
+    "venue": "lauter",
+    "time": "2026-03-09T20:47:46+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "Hoppywood Pils",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Lager - IPL (India Pale Lager)"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-09T20:47:28+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Hop Squad 2026",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-03-09T20:39:10+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Hop Me Baby",
+    "brewery": "HORIZONT Brewing",
+    "beer_type": "IPA - Other"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-03-09T19:37:16+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Void Spawn",
+    "brewery": "HORIZONT Brewing",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-03-09T19:03:45+00:00",
+    "serving": "can",
+    "rating": 4.5,
+    "beer_name": "A Touch of Space (2025)",
+    "brewery": "Third Moon Brewing Company",
+    "beer_type": "IPA - Imperial / Double New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-03-09T16:51:59+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Hydra | SLUSHIE Passion Fruit + Mango + Peach",
+    "brewery": "Mortalis Brewing Company",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-03-09T16:51:45+00:00",
+    "serving": "can",
+    "rating": 4.5,
+    "beer_name": "Hydra | Passion Fruit + Mango + Peach",
+    "brewery": "Mortalis Brewing Company",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-03-09T16:48:51+00:00",
+    "serving": "can",
+    "rating": 4.75,
+    "beer_name": "Schmoojee Mango Colada",
+    "brewery": "Imprint Beer Co.",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-03-09T16:46:06+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Schmoojee Hydra A La Mode",
+    "brewery": "Imprint Beer Co.",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-03-09T16:44:20+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Schmoojee Hydra A La Mode",
+    "brewery": "Imprint Beer Co.",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-03-09T16:41:50+00:00",
+    "serving": "can",
+    "rating": 3.8,
+    "beer_name": "Schmoojee Mango Colada",
+    "brewery": "Imprint Beer Co.",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-03-09T16:28:27+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Tales From Canada",
+    "brewery": "HORIZONT Brewing",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "beerline",
+    "time": "2026-03-09T16:11:23+00:00",
+    "serving": "draft",
+    "rating": 4.75,
+    "beer_name": "Delirium Red",
+    "brewery": "Delirium - Huyghe Brewery",
+    "beer_type": "Fruit Beer"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-03-09T16:06:57+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "Boh (2024)",
+    "brewery": "FUERST WIACEK Berlin",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-03-09T16:04:54+00:00",
+    "serving": "can",
+    "rating": 4.1,
+    "beer_name": "Boh (2024)",
+    "brewery": "FUERST WIACEK Berlin",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-03-09T16:03:24+00:00",
+    "serving": "can",
+    "rating": 3.6,
+    "beer_name": "Yakima IPA",
+    "brewery": "Jacobsen",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-03-09T15:56:41+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Yakima IPA",
+    "brewery": "Jacobsen",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-03-09T15:56:07+00:00",
+    "serving": "can",
+    "rating": 3.25,
+    "beer_name": "Brown Ale",
+    "brewery": "Jacobsen",
+    "beer_type": "Brown Ale - English"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-03-09T15:56:07+00:00",
+    "serving": "can",
+    "rating": 3.6,
+    "beer_name": "Yakima IPA",
+    "brewery": "Jacobsen",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-03-09T15:51:52+00:00",
+    "serving": "can",
+    "rating": 2.9,
+    "beer_name": "Brown Ale",
+    "brewery": "Jacobsen",
+    "beer_type": "Brown Ale - English"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-03-09T15:43:55+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "What Was Was",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-09T13:20:21+00:00",
+    "serving": "Unknown",
+    "rating": 4.5,
+    "beer_name": "Alon vs. אלון",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Porter - Baltic"
+  },
   {
     "venue": "b7-beer-house",
     "time": "2026-03-08T20:01:05+00:00",
@@ -2166,20 +2364,20 @@ const BEER_DATA = [
   {
     "venue": "b7-beer-house",
     "time": "2026-02-27T12:11:29+00:00",
-    "serving": "can",
-    "rating": 4.8,
-    "beer_name": "Midnight Snack",
-    "brewery": "LERVIG",
-    "beer_type": "Stout - Imperial / Double Pastry"
-  },
-  {
-    "venue": "b7-beer-house",
-    "time": "2026-02-27T12:11:29+00:00",
     "serving": "Unknown",
     "rating": null,
     "beer_name": "משהו טוטאלי",
     "brewery": "New Pioneer Brewing Co - חלוץ חדש",
     "beer_type": "Brown Ale - Other"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-02-27T12:11:29+00:00",
+    "serving": "can",
+    "rating": 4.8,
+    "beer_name": "Midnight Snack",
+    "brewery": "LERVIG",
+    "beer_type": "Stout - Imperial / Double Pastry"
   },
   {
     "venue": "b7-beer-house",
@@ -91183,15 +91381,6 @@ const BEER_DATA = [
     "beer_type": "Stout - White / Golden"
   },
   {
-    "venue": "b7-beer-house",
-    "time": "2025-08-21T16:00:28+00:00",
-    "serving": "can",
-    "rating": 5.0,
-    "beer_name": "Naughty & Nice - White Chocolate & Raspberry",
-    "brewery": "Vocation Brewery",
-    "beer_type": "Stout - White / Golden"
-  },
-  {
     "venue": "lauter",
     "time": "2025-08-21T16:00:28+00:00",
     "serving": "draft",
@@ -91199,6 +91388,15 @@ const BEER_DATA = [
     "beer_name": "KRUSHED IT",
     "brewery": "Oak & Ash",
     "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-21T16:00:28+00:00",
+    "serving": "can",
+    "rating": 5.0,
+    "beer_name": "Naughty & Nice - White Chocolate & Raspberry",
+    "brewery": "Vocation Brewery",
+    "beer_type": "Stout - White / Golden"
   },
   {
     "venue": "b7-beer-house",
@@ -98430,8 +98628,8 @@ const BEER_DATA = [
   {
     "venue": "lauter",
     "time": "2025-08-05T18:49:38+00:00",
-    "serving": "can",
-    "rating": 4.0,
+    "serving": "Unknown",
+    "rating": 4.5,
     "beer_name": "Whakahoa",
     "brewery": "Factory Brewing",
     "beer_type": "IPA - Triple New England / Hazy"
@@ -98439,8 +98637,8 @@ const BEER_DATA = [
   {
     "venue": "lauter",
     "time": "2025-08-05T18:49:38+00:00",
-    "serving": "Unknown",
-    "rating": 4.5,
+    "serving": "can",
+    "rating": 4.0,
     "beer_name": "Whakahoa",
     "brewery": "Factory Brewing",
     "beer_type": "IPA - Triple New England / Hazy"
@@ -105504,20 +105702,20 @@ const BEER_DATA = [
   {
     "venue": "lauter",
     "time": "2025-07-26T15:22:08+00:00",
-    "serving": "Unknown",
-    "rating": 4.0,
-    "beer_name": "Pijże",
-    "brewery": "Nepo Brewing",
-    "beer_type": "Pale Ale - New England / Hazy"
-  },
-  {
-    "venue": "lauter",
-    "time": "2025-07-26T15:22:08+00:00",
     "serving": "can",
     "rating": 4.2,
     "beer_name": "Smoothie Bowl: Pistachio Fluff",
     "brewery": "Nepo Brewing",
     "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-07-26T15:22:08+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Pijże",
+    "brewery": "Nepo Brewing",
+    "beer_type": "Pale Ale - New England / Hazy"
   },
   {
     "venue": "lauter",
