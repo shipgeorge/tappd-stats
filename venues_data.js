@@ -1,8 +1,1223 @@
 // 🍺 BEER STATS DATA - Generated automatically
-// Last updated: 2026-03-15 07:09:58
-// Total records: 14066
+// Last updated: 2026-03-16 07:43:24
+// Total records: 14201
 
 const BEER_DATA = [
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-03-15T20:56:04+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Oktober Klassiker",
+    "brewery": "HORIZONT Brewing",
+    "beer_type": "Märzen"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-03-15T20:18:31+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Journey 1100",
+    "brewery": "HORIZONT Brewing",
+    "beer_type": "Pilsner - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-15T20:08:15+00:00",
+    "serving": "can",
+    "rating": 4.2,
+    "beer_name": "Toxic Avenger",
+    "brewery": "Dude Brewing",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-15T20:05:32+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Toxic Avenger",
+    "brewery": "Dude Brewing",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-15T20:00:28+00:00",
+    "serving": "bottle",
+    "rating": 4.0,
+    "beer_name": "A North American Raga (2018/2019)",
+    "brewery": "Antidoot - Wilde Fermenten",
+    "beer_type": "Cider - Graff"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-15T19:56:43+00:00",
+    "serving": "bottle",
+    "rating": 3.9,
+    "beer_name": "Dr. Jenner's Muscat Vine",
+    "brewery": "Mills Brewing",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-15T19:49:55+00:00",
+    "serving": "bottle",
+    "rating": 4.2,
+    "beer_name": "Barrel Aged Wild Ale W Viognier Grapes",
+    "brewery": "Heisenberg",
+    "beer_type": "Homebrew, Wild Ale - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-15T19:47:06+00:00",
+    "serving": "bottle",
+    "rating": 5.0,
+    "beer_name": "Framboos Puur (2019)",
+    "brewery": "Bokke",
+    "beer_type": "Lambic - Framboise"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-15T19:39:17+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Night Shift Vintage 2024 - Triticale Wine Aged In Gemenc Whiskey & Tennessee Whiskey Barrels",
+    "brewery": "HORIZONT Brewing",
+    "beer_type": "Specialty Grain"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-15T19:34:27+00:00",
+    "serving": "bottle",
+    "rating": 4.1,
+    "beer_name": "Framboise Vlier (2018)",
+    "brewery": "Geuzestekerij De Cam",
+    "beer_type": "Lambic - Framboise"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-15T19:33:21+00:00",
+    "serving": "bottle",
+    "rating": 4.3,
+    "beer_name": "Framboos Puur (2019)",
+    "brewery": "Bokke",
+    "beer_type": "Lambic - Framboise"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-15T19:31:09+00:00",
+    "serving": "bottle",
+    "rating": 4.5,
+    "beer_name": "Oude Gueuze Tilquin à l'Ancienne (2016-2017)",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": "Lambic - Gueuze"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-15T19:31:00+00:00",
+    "serving": "bottle",
+    "rating": 3.9,
+    "beer_name": "Ardenne Wood Ma Demoiselle (Jura 2020)",
+    "brewery": "Brasserie Minne",
+    "beer_type": "Sour - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-15T19:30:46+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Barrel Aged Wild Ale W Viognier Grapes",
+    "brewery": "Heisenberg",
+    "beer_type": "Homebrew, Wild Ale - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-15T19:29:19+00:00",
+    "serving": "bottle",
+    "rating": 4.2,
+    "beer_name": "BXL Camaraderie",
+    "brewery": "Batra Homebrewery",
+    "beer_type": "Homebrew, Farmhouse Ale - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-15T19:29:13+00:00",
+    "serving": "bottle",
+    "rating": 4.0,
+    "beer_name": "Night Shift Vintage 2024 - Triticale Wine Aged In Gemenc Whiskey & Tennessee Whiskey Barrels",
+    "brewery": "HORIZONT Brewing",
+    "beer_type": "Specialty Grain"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-15T19:23:10+00:00",
+    "serving": "bottle",
+    "rating": 4.3,
+    "beer_name": "Barrel Aged Wild Ale W Viognier Grapes",
+    "brewery": "Heisenberg",
+    "beer_type": "Homebrew, Wild Ale - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-15T19:21:30+00:00",
+    "serving": "bottle",
+    "rating": 4.3,
+    "beer_name": "IsraLambic Peach",
+    "brewery": "Batra Homebrewery",
+    "beer_type": "Homebrew, Lambic - Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-15T19:20:03+00:00",
+    "serving": "bottle",
+    "rating": 5.0,
+    "beer_name": "3 Fonteinen Perzik Geel (season 18|19) Blend No. 25",
+    "brewery": "Brouwerij 3 Fonteinen",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-15T19:19:32+00:00",
+    "serving": "bottle",
+    "rating": 3.8,
+    "beer_name": "Rum Barrel-Aged Tart of Darkness (2018)",
+    "brewery": "The Bruery Terreux",
+    "beer_type": "Wild Ale - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-15T19:17:52+00:00",
+    "serving": "bottle",
+    "rating": 4.5,
+    "beer_name": "3 Fonteinen Robijn (season 18|19) Blend No. 104",
+    "brewery": "Brouwerij 3 Fonteinen",
+    "beer_type": "Lambic - Kriek"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-15T19:16:13+00:00",
+    "serving": "Unknown",
+    "rating": 4.2,
+    "beer_name": "Framboos Puur (2019)",
+    "brewery": "Bokke",
+    "beer_type": "Lambic - Framboise"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-15T19:15:12+00:00",
+    "serving": "bottle",
+    "rating": 4.5,
+    "beer_name": "Framboos Puur (2019)",
+    "brewery": "Bokke",
+    "beer_type": "Lambic - Framboise"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-15T19:15:03+00:00",
+    "serving": "bottle",
+    "rating": 4.1,
+    "beer_name": "Framboos Puur (2019)",
+    "brewery": "Bokke",
+    "beer_type": "Lambic - Framboise"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-15T19:13:08+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "Framboos Puur (2019)",
+    "brewery": "Bokke",
+    "beer_type": "Lambic - Framboise"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-15T19:11:31+00:00",
+    "serving": "bottle",
+    "rating": 4.5,
+    "beer_name": "Framboise Vlier (2018)",
+    "brewery": "Geuzestekerij De Cam",
+    "beer_type": "Lambic - Framboise"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-15T19:11:13+00:00",
+    "serving": "bottle",
+    "rating": 4.3,
+    "beer_name": "Speling van het Lot IX.viii: Aardbeiiteraties: Aardbei - Raw & Uncut",
+    "brewery": "Brouwerij 3 Fonteinen",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-15T19:10:42+00:00",
+    "serving": "bottle",
+    "rating": 4.75,
+    "beer_name": "Framboos Puur (2019)",
+    "brewery": "Bokke",
+    "beer_type": "Lambic - Framboise"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-15T19:09:24+00:00",
+    "serving": "bottle",
+    "rating": 4.4,
+    "beer_name": "Steen (2018)",
+    "brewery": "Bokke",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-15T19:06:08+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Framboise Vlier (2018)",
+    "brewery": "Geuzestekerij De Cam",
+    "beer_type": "Lambic - Framboise"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-15T19:06:02+00:00",
+    "serving": "bottle",
+    "rating": 4.0,
+    "beer_name": "Framboise Vlier (2018)",
+    "brewery": "Geuzestekerij De Cam",
+    "beer_type": "Lambic - Framboise"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-15T19:04:50+00:00",
+    "serving": "bottle",
+    "rating": 4.0,
+    "beer_name": "Framboise Vlier (2018)",
+    "brewery": "Geuzestekerij De Cam",
+    "beer_type": "Lambic - Framboise"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-15T19:01:52+00:00",
+    "serving": "bottle",
+    "rating": 4.25,
+    "beer_name": "Framboise Vlier (2018)",
+    "brewery": "Geuzestekerij De Cam",
+    "beer_type": "Lambic - Framboise"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-15T18:58:51+00:00",
+    "serving": "bottle",
+    "rating": 4.0,
+    "beer_name": "Barrel Aged Wild Ale W Viognier Grapes",
+    "brewery": "Heisenberg",
+    "beer_type": "Homebrew, Wild Ale - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-15T18:58:16+00:00",
+    "serving": "bottle",
+    "rating": 4.8,
+    "beer_name": "Steen (2018)",
+    "brewery": "Bokke",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-15T18:57:05+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Barrel Aged Wild Ale W Viognier Grapes",
+    "brewery": "Heisenberg",
+    "beer_type": "Homebrew, Wild Ale - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-15T18:56:24+00:00",
+    "serving": "bottle",
+    "rating": 4.1,
+    "beer_name": "Barrel Aged Wild Ale W Viognier Grapes",
+    "brewery": "Heisenberg",
+    "beer_type": "Homebrew, Wild Ale - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-15T18:56:10+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "Rum Barrel-Aged Tart of Darkness (2018)",
+    "brewery": "The Bruery Terreux",
+    "beer_type": "Wild Ale - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-15T18:56:06+00:00",
+    "serving": "bottle",
+    "rating": 4.75,
+    "beer_name": "Steen (2018)",
+    "brewery": "Bokke",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-15T18:55:41+00:00",
+    "serving": "bottle",
+    "rating": 4.75,
+    "beer_name": "Barrel Aged Wild Ale W Viognier Grapes",
+    "brewery": "Heisenberg",
+    "beer_type": "Homebrew, Wild Ale - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-15T18:54:46+00:00",
+    "serving": "bottle",
+    "rating": 4.2,
+    "beer_name": "Rum Barrel-Aged Tart of Darkness (2018)",
+    "brewery": "The Bruery Terreux",
+    "beer_type": "Wild Ale - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-15T18:54:37+00:00",
+    "serving": "bottle",
+    "rating": 3.75,
+    "beer_name": "Rum Barrel-Aged Tart of Darkness (2018)",
+    "brewery": "The Bruery Terreux",
+    "beer_type": "Wild Ale - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-15T18:51:00+00:00",
+    "serving": "bottle",
+    "rating": 3.75,
+    "beer_name": "Rum Barrel-Aged Tart of Darkness (2018)",
+    "brewery": "The Bruery Terreux",
+    "beer_type": "Wild Ale - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-15T18:46:49+00:00",
+    "serving": "Unknown",
+    "rating": 4.3,
+    "beer_name": "Steen (2018)",
+    "brewery": "Bokke",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-15T18:46:33+00:00",
+    "serving": "bottle",
+    "rating": 4.1,
+    "beer_name": "Steen (2018)",
+    "brewery": "Bokke",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-15T18:45:48+00:00",
+    "serving": "bottle",
+    "rating": 4.0,
+    "beer_name": "IsraLambic Peach",
+    "brewery": "Batra Homebrewery",
+    "beer_type": "Homebrew, Lambic - Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-15T18:44:47+00:00",
+    "serving": "bottle",
+    "rating": null,
+    "beer_name": "3 Fonteinen Perzik Wit (season 18|19) Blend No. 24",
+    "brewery": "Brouwerij 3 Fonteinen",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-15T18:44:24+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "IsraLambic Peach",
+    "brewery": "Batra Homebrewery",
+    "beer_type": "Homebrew, Lambic - Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-15T18:43:26+00:00",
+    "serving": "bottle",
+    "rating": 4.0,
+    "beer_name": "IsraLambic Peach",
+    "brewery": "Batra Homebrewery",
+    "beer_type": "Homebrew, Lambic - Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-15T18:43:04+00:00",
+    "serving": "bottle",
+    "rating": 4.75,
+    "beer_name": "Steen (2018)",
+    "brewery": "Bokke",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-15T18:43:01+00:00",
+    "serving": "bottle",
+    "rating": 4.7,
+    "beer_name": "3 Fonteinen Perzik Geel (season 18|19) Blend No. 25",
+    "brewery": "Brouwerij 3 Fonteinen",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-15T18:42:13+00:00",
+    "serving": "bottle",
+    "rating": null,
+    "beer_name": "IsraLambic Peach",
+    "brewery": "Batra Homebrewery",
+    "beer_type": "Homebrew, Lambic - Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-15T18:40:56+00:00",
+    "serving": "bottle",
+    "rating": 3.9,
+    "beer_name": "IsraLambic Peach",
+    "brewery": "Batra Homebrewery",
+    "beer_type": "Homebrew, Lambic - Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-15T18:40:40+00:00",
+    "serving": "bottle",
+    "rating": 4.4,
+    "beer_name": "3 Fonteinen Pruim Reine Claude D’Oullins (season 19|20) Blend No. 23",
+    "brewery": "Brouwerij 3 Fonteinen",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-15T18:37:04+00:00",
+    "serving": "bottle",
+    "rating": 3.75,
+    "beer_name": "3 Fonteinen Perzik Wit (season 18|19) Blend No. 24",
+    "brewery": "Brouwerij 3 Fonteinen",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-15T18:36:26+00:00",
+    "serving": "bottle",
+    "rating": 4.0,
+    "beer_name": "3 Fonteinen Perzik Wit (season 18|19) Blend No. 24",
+    "brewery": "Brouwerij 3 Fonteinen",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-15T18:36:25+00:00",
+    "serving": "bottle",
+    "rating": 4.25,
+    "beer_name": "3 Fonteinen Perzik Wit (season 18|19) Blend No. 24",
+    "brewery": "Brouwerij 3 Fonteinen",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-15T18:36:21+00:00",
+    "serving": "Unknown",
+    "rating": 4.1,
+    "beer_name": "3 Fonteinen Perzik Wit (season 18|19) Blend No. 24",
+    "brewery": "Brouwerij 3 Fonteinen",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-15T18:35:18+00:00",
+    "serving": "bottle",
+    "rating": 4.3,
+    "beer_name": "3 Fonteinen Hommage Bio Frambozen (season 18|19) Blend No. 110",
+    "brewery": "Brouwerij 3 Fonteinen",
+    "beer_type": "Lambic - Framboise"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-15T18:33:10+00:00",
+    "serving": "bottle",
+    "rating": 4.25,
+    "beer_name": "3 Fonteinen Perzik Wit (season 18|19) Blend No. 24",
+    "brewery": "Brouwerij 3 Fonteinen",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-15T18:33:05+00:00",
+    "serving": "bottle",
+    "rating": 4.5,
+    "beer_name": "3 Fonteinen Robijn (season 18|19) Blend No. 104",
+    "brewery": "Brouwerij 3 Fonteinen",
+    "beer_type": "Lambic - Kriek"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-15T18:31:31+00:00",
+    "serving": "Unknown",
+    "rating": 4.6,
+    "beer_name": "3 Fonteinen Perzik Geel (season 18|19) Blend No. 25",
+    "brewery": "Brouwerij 3 Fonteinen",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-15T18:31:14+00:00",
+    "serving": "bottle",
+    "rating": 4.75,
+    "beer_name": "3 Fonteinen Perzik Geel (season 18|19) Blend No. 25",
+    "brewery": "Brouwerij 3 Fonteinen",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-15T18:30:45+00:00",
+    "serving": "bottle",
+    "rating": 4.75,
+    "beer_name": "3 Fonteinen Perzik Geel (season 18|19) Blend No. 25",
+    "brewery": "Brouwerij 3 Fonteinen",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-15T18:30:35+00:00",
+    "serving": "bottle",
+    "rating": 4.3,
+    "beer_name": "3 Fonteinen Perzik Geel (season 18|19) Blend No. 25",
+    "brewery": "Brouwerij 3 Fonteinen",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-15T18:29:50+00:00",
+    "serving": "bottle",
+    "rating": 4.2,
+    "beer_name": "BXL Camaraderie",
+    "brewery": "Batra Homebrewery",
+    "beer_type": "Homebrew, Farmhouse Ale - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-15T18:27:06+00:00",
+    "serving": "Unknown",
+    "rating": 4.3,
+    "beer_name": "3 Fonteinen Pruim Reine Claude D’Oullins (season 19|20) Blend No. 23",
+    "brewery": "Brouwerij 3 Fonteinen",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-15T18:27:03+00:00",
+    "serving": "bottle",
+    "rating": 4.0,
+    "beer_name": "3 Fonteinen Pruim Reine Claude D’Oullins (season 19|20) Blend No. 23",
+    "brewery": "Brouwerij 3 Fonteinen",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-15T18:26:59+00:00",
+    "serving": "bottle",
+    "rating": 4.5,
+    "beer_name": "3 Fonteinen Perzik Geel (season 18|19) Blend No. 25",
+    "brewery": "Brouwerij 3 Fonteinen",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-15T18:26:11+00:00",
+    "serving": "bottle",
+    "rating": 4.5,
+    "beer_name": "3 Fonteinen Pruim Reine Claude D’Oullins (season 19|20) Blend No. 23",
+    "brewery": "Brouwerij 3 Fonteinen",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-15T18:25:45+00:00",
+    "serving": "bottle",
+    "rating": 4.4,
+    "beer_name": "Speling van het Lot IX.viii: Aardbeiiteraties: Aardbei - Raw & Uncut",
+    "brewery": "Brouwerij 3 Fonteinen",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-15T18:25:42+00:00",
+    "serving": "bottle",
+    "rating": 4.5,
+    "beer_name": "3 Fonteinen Pruim Reine Claude D’Oullins (season 19|20) Blend No. 23",
+    "brewery": "Brouwerij 3 Fonteinen",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-15T18:22:18+00:00",
+    "serving": "Unknown",
+    "rating": 4.5,
+    "beer_name": "3 Fonteinen Hommage Bio Frambozen (season 18|19) Blend No. 110",
+    "brewery": "Brouwerij 3 Fonteinen",
+    "beer_type": "Lambic - Framboise"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-15T18:20:30+00:00",
+    "serving": "bottle",
+    "rating": 3.75,
+    "beer_name": "3 Fonteinen Hommage Bio Frambozen (season 18|19) Blend No. 110",
+    "brewery": "Brouwerij 3 Fonteinen",
+    "beer_type": "Lambic - Framboise"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-15T18:19:50+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "3 Fonteinen Hommage Bio Frambozen (season 18|19) Blend No. 110",
+    "brewery": "Brouwerij 3 Fonteinen",
+    "beer_type": "Lambic - Framboise"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-15T18:19:36+00:00",
+    "serving": "bottle",
+    "rating": 4.5,
+    "beer_name": "3 Fonteinen Pruim Reine Claude D’Oullins (season 19|20) Blend No. 23",
+    "brewery": "Brouwerij 3 Fonteinen",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-15T18:19:25+00:00",
+    "serving": "bottle",
+    "rating": 4.1,
+    "beer_name": "3 Fonteinen Hommage Bio Frambozen (season 18|19) Blend No. 110",
+    "brewery": "Brouwerij 3 Fonteinen",
+    "beer_type": "Lambic - Framboise"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-15T18:14:52+00:00",
+    "serving": "bottle",
+    "rating": 4.0,
+    "beer_name": "3 Fonteinen Hommage Bio Frambozen (season 18|19) Blend No. 110",
+    "brewery": "Brouwerij 3 Fonteinen",
+    "beer_type": "Lambic - Framboise"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-15T18:11:33+00:00",
+    "serving": "bottle",
+    "rating": 4.5,
+    "beer_name": "3 Fonteinen Robijn (season 18|19) Blend No. 104",
+    "brewery": "Brouwerij 3 Fonteinen",
+    "beer_type": "Lambic - Kriek"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-15T18:10:47+00:00",
+    "serving": "Unknown",
+    "rating": 4.2,
+    "beer_name": "Speling van het Lot IX.viii: Aardbeiiteraties: Aardbei - Raw & Uncut",
+    "brewery": "Brouwerij 3 Fonteinen",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-15T18:10:27+00:00",
+    "serving": "bottle",
+    "rating": 5.0,
+    "beer_name": "Speling van het Lot IX.viii: Aardbeiiteraties: Aardbei - Raw & Uncut",
+    "brewery": "Brouwerij 3 Fonteinen",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-15T18:09:52+00:00",
+    "serving": "bottle",
+    "rating": 4.5,
+    "beer_name": "3 Fonteinen Robijn (season 18|19) Blend No. 104",
+    "brewery": "Brouwerij 3 Fonteinen",
+    "beer_type": "Lambic - Kriek"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-15T18:09:45+00:00",
+    "serving": "Unknown",
+    "rating": 4.5,
+    "beer_name": "3 Fonteinen Robijn (season 18|19) Blend No. 104",
+    "brewery": "Brouwerij 3 Fonteinen",
+    "beer_type": "Lambic - Kriek"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-15T18:09:41+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Speling van het Lot IX.viii: Aardbeiiteraties: Aardbei - Raw & Uncut",
+    "brewery": "Brouwerij 3 Fonteinen",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-15T18:08:27+00:00",
+    "serving": "bottle",
+    "rating": 4.6,
+    "beer_name": "3 Fonteinen Robijn (season 18|19) Blend No. 104",
+    "brewery": "Brouwerij 3 Fonteinen",
+    "beer_type": "Lambic - Kriek"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-15T18:07:18+00:00",
+    "serving": "bottle",
+    "rating": 4.25,
+    "beer_name": "3 Fonteinen Robijn (season 18|19) Blend No. 104",
+    "brewery": "Brouwerij 3 Fonteinen",
+    "beer_type": "Lambic - Kriek"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-15T18:05:12+00:00",
+    "serving": "bottle",
+    "rating": 4.25,
+    "beer_name": "Speling van het Lot IX.viii: Aardbeiiteraties: Aardbei - Raw & Uncut",
+    "brewery": "Brouwerij 3 Fonteinen",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-15T18:04:29+00:00",
+    "serving": "bottle",
+    "rating": null,
+    "beer_name": "A North American Raga (2018/2019)",
+    "brewery": "Antidoot - Wilde Fermenten",
+    "beer_type": "Cider - Graff"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-15T18:04:15+00:00",
+    "serving": "bottle",
+    "rating": 3.9,
+    "beer_name": "Speling van het Lot IX.iii: Aardbeiiteraties: Bio Aardbei + Kriek - Raw & Uncut",
+    "brewery": "Brouwerij 3 Fonteinen",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-15T17:59:27+00:00",
+    "serving": "bottle",
+    "rating": 4.0,
+    "beer_name": "A North American Raga (2018/2019)",
+    "brewery": "Antidoot - Wilde Fermenten",
+    "beer_type": "Cider - Graff"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-15T17:59:07+00:00",
+    "serving": "bottle",
+    "rating": 3.5,
+    "beer_name": "A North American Raga (2018/2019)",
+    "brewery": "Antidoot - Wilde Fermenten",
+    "beer_type": "Cider - Graff"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-15T17:58:30+00:00",
+    "serving": "Unknown",
+    "rating": 4.2,
+    "beer_name": "A North American Raga (2018/2019)",
+    "brewery": "Antidoot - Wilde Fermenten",
+    "beer_type": "Cider - Graff"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-15T17:55:22+00:00",
+    "serving": "Unknown",
+    "rating": 3.7,
+    "beer_name": "Ardenne Wood Ma Demoiselle (Jura 2020)",
+    "brewery": "Brasserie Minne",
+    "beer_type": "Sour - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-15T17:55:12+00:00",
+    "serving": "bottle",
+    "rating": 3.1,
+    "beer_name": "Ardenne Wood Ma Demoiselle (Jura 2020)",
+    "brewery": "Brasserie Minne",
+    "beer_type": "Sour - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-15T17:53:56+00:00",
+    "serving": "bottle",
+    "rating": 3.75,
+    "beer_name": "Ardenne Wood Ma Demoiselle (Jura 2020)",
+    "brewery": "Brasserie Minne",
+    "beer_type": "Sour - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-15T17:53:17+00:00",
+    "serving": "bottle",
+    "rating": null,
+    "beer_name": "A North American Raga (2018/2019)",
+    "brewery": "Antidoot - Wilde Fermenten",
+    "beer_type": "Cider - Graff"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-15T17:52:41+00:00",
+    "serving": "bottle",
+    "rating": 3.75,
+    "beer_name": "Ardenne Wood Ma Demoiselle (Jura 2020)",
+    "brewery": "Brasserie Minne",
+    "beer_type": "Sour - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-15T17:51:20+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "BXL Camaraderie",
+    "brewery": "Batra Homebrewery",
+    "beer_type": "Homebrew, Farmhouse Ale - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-15T17:50:14+00:00",
+    "serving": "bottle",
+    "rating": 3.75,
+    "beer_name": "Ardenne Wood Ma Demoiselle (Jura 2020)",
+    "brewery": "Brasserie Minne",
+    "beer_type": "Sour - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-15T17:48:49+00:00",
+    "serving": "bottle",
+    "rating": 4.0,
+    "beer_name": "BXL Camaraderie",
+    "brewery": "Batra Homebrewery",
+    "beer_type": "Homebrew, Farmhouse Ale - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-15T17:48:01+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "BXL Camaraderie",
+    "brewery": "Batra Homebrewery",
+    "beer_type": "Homebrew, Farmhouse Ale - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-15T17:45:50+00:00",
+    "serving": "bottle",
+    "rating": 4.1,
+    "beer_name": "Saison Riesling (lot 002)",
+    "brewery": "♑ Capri Fermentations",
+    "beer_type": "Homebrew, Farmhouse Ale - Saison"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-15T17:44:14+00:00",
+    "serving": "bottle",
+    "rating": null,
+    "beer_name": "BXL Camaraderie",
+    "brewery": "Batra Homebrewery",
+    "beer_type": "Homebrew, Farmhouse Ale - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-15T17:43:44+00:00",
+    "serving": "bottle",
+    "rating": 4.0,
+    "beer_name": "Saison Riesling (lot 002)",
+    "brewery": "♑ Capri Fermentations",
+    "beer_type": "Homebrew, Farmhouse Ale - Saison"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-15T17:42:44+00:00",
+    "serving": "Unknown",
+    "rating": 4.2,
+    "beer_name": "Saison Riesling (lot 002)",
+    "brewery": "♑ Capri Fermentations",
+    "beer_type": "Homebrew, Farmhouse Ale - Saison"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-15T17:42:06+00:00",
+    "serving": "bottle",
+    "rating": 3.8,
+    "beer_name": "Saison Riesling (lot 002)",
+    "brewery": "♑ Capri Fermentations",
+    "beer_type": "Homebrew, Farmhouse Ale - Saison"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-15T17:41:28+00:00",
+    "serving": "Unknown",
+    "rating": 4.5,
+    "beer_name": "Saison Riesling (lot 002)",
+    "brewery": "♑ Capri Fermentations",
+    "beer_type": "Homebrew, Farmhouse Ale - Saison"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-15T17:38:24+00:00",
+    "serving": "bottle",
+    "rating": 4.5,
+    "beer_name": "Saison Riesling (lot 002)",
+    "brewery": "♑ Capri Fermentations",
+    "beer_type": "Homebrew, Farmhouse Ale - Saison"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-15T17:34:49+00:00",
+    "serving": "Unknown",
+    "rating": 4.2,
+    "beer_name": "Dr. Jenner's Muscat Vine",
+    "brewery": "Mills Brewing",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-15T17:34:27+00:00",
+    "serving": "bottle",
+    "rating": 4.25,
+    "beer_name": "Dr. Jenner's Muscat Vine",
+    "brewery": "Mills Brewing",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-15T17:33:27+00:00",
+    "serving": "bottle",
+    "rating": 4.4,
+    "beer_name": "Dr. Jenner's Muscat Vine",
+    "brewery": "Mills Brewing",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-15T17:32:43+00:00",
+    "serving": "bottle",
+    "rating": 4.5,
+    "beer_name": "Dr. Jenner's Muscat Vine",
+    "brewery": "Mills Brewing",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-15T17:31:48+00:00",
+    "serving": "bottle",
+    "rating": 3.9,
+    "beer_name": "Nicky",
+    "brewery": "Mills Brewing",
+    "beer_type": "Farmhouse Ale - Saison"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-15T17:31:46+00:00",
+    "serving": "Unknown",
+    "rating": 4.2,
+    "beer_name": "Nicky",
+    "brewery": "Mills Brewing",
+    "beer_type": "Farmhouse Ale - Saison"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-15T17:31:43+00:00",
+    "serving": "bottle",
+    "rating": 4.25,
+    "beer_name": "Dr. Jenner's Muscat Vine",
+    "brewery": "Mills Brewing",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-15T17:29:11+00:00",
+    "serving": "bottle",
+    "rating": 3.75,
+    "beer_name": "Nicky",
+    "brewery": "Mills Brewing",
+    "beer_type": "Farmhouse Ale - Saison"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-15T17:28:13+00:00",
+    "serving": "can",
+    "rating": 4.1,
+    "beer_name": "Nicky",
+    "brewery": "Mills Brewing",
+    "beer_type": "Farmhouse Ale - Saison"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-15T17:27:30+00:00",
+    "serving": "bottle",
+    "rating": 4.25,
+    "beer_name": "Nicky",
+    "brewery": "Mills Brewing",
+    "beer_type": "Farmhouse Ale - Saison"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-15T17:26:24+00:00",
+    "serving": "bottle",
+    "rating": 4.25,
+    "beer_name": "Nicky",
+    "brewery": "Mills Brewing",
+    "beer_type": "Farmhouse Ale - Saison"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-15T17:22:44+00:00",
+    "serving": "Unknown",
+    "rating": 4.4,
+    "beer_name": "Oude Gueuze Tilquin à l'Ancienne (2016-2017)",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": "Lambic - Gueuze"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-15T17:22:15+00:00",
+    "serving": "bottle",
+    "rating": 4.5,
+    "beer_name": "Oude Gueuze Tilquin à l'Ancienne (2016-2017)",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": "Lambic - Gueuze"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-15T17:22:13+00:00",
+    "serving": "bottle",
+    "rating": 4.5,
+    "beer_name": "Oude Gueuze Tilquin à l'Ancienne (2016-2017)",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": "Lambic - Gueuze"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-15T17:21:51+00:00",
+    "serving": "bottle",
+    "rating": 4.0,
+    "beer_name": "Oude Gueuze Tilquin à l'Ancienne (2016-2017)",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": "Lambic - Gueuze"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-15T17:21:09+00:00",
+    "serving": "bottle",
+    "rating": 4.5,
+    "beer_name": "Oude Gueuze Tilquin à l'Ancienne (2016-2017)",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": "Lambic - Gueuze"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-15T17:15:42+00:00",
+    "serving": "bottle",
+    "rating": 4.0,
+    "beer_name": "Grand Cru Bruocsella Lambic Bio (2018-2019)",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": "Lambic - Traditional"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-15T17:15:30+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Hoppywood Pils",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Lager - IPL (India Pale Lager)"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-15T17:15:25+00:00",
+    "serving": "bottle",
+    "rating": 4.25,
+    "beer_name": "Grand Cru Bruocsella Lambic Bio (2018-2019)",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": "Lambic - Traditional"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-15T17:15:14+00:00",
+    "serving": "bottle",
+    "rating": 3.75,
+    "beer_name": "Grand Cru Bruocsella Lambic Bio (2018-2019)",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": "Lambic - Traditional"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-15T17:14:48+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Grand Cru Bruocsella Lambic Bio (2018-2019)",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": "Lambic - Traditional"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-03-15T17:00:02+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Meerts Tilquin à la Kriek de Schaerbeek",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-15T16:56:11+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "Meerts Tilquin à la Kriek de Schaerbeek",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-03-15T14:16:16+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Hop Squad 2026",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-03-15T13:20:09+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Hadar הדר",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Wheat Beer - Witbier / Blanche"
+  },
+  {
+    "venue": "porter-and-sons",
+    "time": "2026-03-15T13:15:22+00:00",
+    "serving": "bottle",
+    "rating": 4.4,
+    "beer_name": "Framboise Vlier",
+    "brewery": "Geuzestekerij De Cam",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-03-15T10:05:48+00:00",
+    "serving": "can",
+    "rating": 4.5,
+    "beer_name": "זהב שחור",
+    "brewery": "New Pioneer Brewing Co - חלוץ חדש",
+    "beer_type": "Porter - American"
+  },
   {
     "venue": "lauter",
     "time": "2026-03-14T23:18:06+00:00",
@@ -66568,15 +67783,6 @@ const BEER_DATA = [
     "beer_type": "IPA - American"
   },
   {
-    "venue": "schnitt-brewing-company",
-    "time": "2025-10-19T19:17:21+00:00",
-    "serving": "can",
-    "rating": 4.25,
-    "beer_name": "Plum Waffle",
-    "brewery": "Duncan's Brewing",
-    "beer_type": "Sour - Smoothie / Pastry"
-  },
-  {
     "venue": "lauter",
     "time": "2025-10-19T19:17:21+00:00",
     "serving": "bottle",
@@ -66584,6 +67790,15 @@ const BEER_DATA = [
     "beer_name": "Bjorn's Beer",
     "brewery": "Attali's Family Brewery",
     "beer_type": "IPA - American"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-10-19T19:17:21+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "Plum Waffle",
+    "brewery": "Duncan's Brewing",
+    "beer_type": "Sour - Smoothie / Pastry"
   },
   {
     "venue": "lauter",
@@ -87477,7 +88692,7 @@ const BEER_DATA = [
   {
     "venue": "lauter",
     "time": "2025-09-01T17:44:35+00:00",
-    "serving": "bottle",
+    "serving": "Unknown",
     "rating": 4.0,
     "beer_name": "Hops Don’t Lie",
     "brewery": "Thurø Bryghus",
@@ -87486,7 +88701,7 @@ const BEER_DATA = [
   {
     "venue": "lauter",
     "time": "2025-09-01T17:44:35+00:00",
-    "serving": "Unknown",
+    "serving": "bottle",
     "rating": 4.0,
     "beer_name": "Hops Don’t Lie",
     "brewery": "Thurø Bryghus",
@@ -92418,20 +93633,20 @@ const BEER_DATA = [
   {
     "venue": "b7-beer-house",
     "time": "2025-08-21T15:59:11+00:00",
-    "serving": "can",
-    "rating": 3.8,
-    "beer_name": "Peach Rings",
-    "brewery": "Vault City Brewing",
-    "beer_type": "Sour - Fruited"
-  },
-  {
-    "venue": "b7-beer-house",
-    "time": "2025-08-21T15:59:11+00:00",
     "serving": "Unknown",
     "rating": 4.0,
     "beer_name": "Naughty & Nice - White Chocolate & Raspberry",
     "brewery": "Vocation Brewery",
     "beer_type": "Stout - White / Golden"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-21T15:59:11+00:00",
+    "serving": "can",
+    "rating": 3.8,
+    "beer_name": "Peach Rings",
+    "brewery": "Vault City Brewing",
+    "beer_type": "Sour - Fruited"
   },
   {
     "venue": "b7-beer-house",

@@ -1,4 +1,139 @@
 venue,user,time,serving,data_rating,beer_name,brewery,beer_type
+b7-beer-house,Vitaly Pintushel,"Sun, 15 Mar 2026 20:56:04 +0000",can,3.75,Oktober Klassiker,HORIZONT Brewing,Märzen
+b7-beer-house,Vitaly Pintushel,"Sun, 15 Mar 2026 20:18:31 +0000",can,3.75,Journey 1100,HORIZONT Brewing,Pilsner - American
+lauter,גל סילברמן,"Sun, 15 Mar 2026 20:08:15 +0000",can,4.2,Toxic Avenger,Dude Brewing,Sour - Fruited
+lauter,Kobi,"Sun, 15 Mar 2026 20:05:32 +0000",can,4.0,Toxic Avenger,Dude Brewing,Sour - Fruited
+lauter,גל סילברמן,"Sun, 15 Mar 2026 20:00:28 +0000",bottle,4.0,A North American Raga (2018/2019),Antidoot - Wilde Fermenten,Cider - Graff
+lauter,גל סילברמן,"Sun, 15 Mar 2026 19:56:43 +0000",bottle,3.9,Dr. Jenner's Muscat Vine,Mills Brewing,Sour - Fruited
+lauter,גל סילברמן,"Sun, 15 Mar 2026 19:49:55 +0000",bottle,4.2,Barrel Aged Wild Ale W Viognier Grapes,Heisenberg,"Homebrew, Wild Ale - American"
+lauter,גל סילברמן,"Sun, 15 Mar 2026 19:47:06 +0000",bottle,5.0,Framboos Puur (2019),Bokke,Lambic - Framboise
+lauter,barak luzon,"Sun, 15 Mar 2026 19:39:17 +0000",can,4.0,Night Shift Vintage 2024 - Triticale Wine Aged In Gemenc Whiskey & Tennessee Whiskey Barrels,HORIZONT Brewing,Specialty Grain
+lauter,Dr Solo,"Sun, 15 Mar 2026 19:34:27 +0000",bottle,4.1,Framboise Vlier (2018),Geuzestekerij De Cam,Lambic - Framboise
+lauter,Dr Solo,"Sun, 15 Mar 2026 19:33:21 +0000",bottle,4.3,Framboos Puur (2019),Bokke,Lambic - Framboise
+lauter,גל סילברמן,"Sun, 15 Mar 2026 19:31:09 +0000",bottle,4.5,Oude Gueuze Tilquin à l'Ancienne (2016-2017),Gueuzerie Tilquin,Lambic - Gueuze
+lauter,Dr Solo,"Sun, 15 Mar 2026 19:31:00 +0000",bottle,3.9,Ardenne Wood Ma Demoiselle (Jura 2020),Brasserie Minne,Sour - Other
+lauter,barak luzon,"Sun, 15 Mar 2026 19:30:46 +0000",,,Barrel Aged Wild Ale W Viognier Grapes,Heisenberg,"Homebrew, Wild Ale - American"
+lauter,גל סילברמן,"Sun, 15 Mar 2026 19:29:19 +0000",bottle,4.2,BXL Camaraderie,Batra Homebrewery,"Homebrew, Farmhouse Ale - Other"
+lauter,Leo C,"Sun, 15 Mar 2026 19:29:13 +0000",bottle,4.0,Night Shift Vintage 2024 - Triticale Wine Aged In Gemenc Whiskey & Tennessee Whiskey Barrels,HORIZONT Brewing,Specialty Grain
+lauter,Dr Solo,"Sun, 15 Mar 2026 19:23:10 +0000",bottle,4.3,Barrel Aged Wild Ale W Viognier Grapes,Heisenberg,"Homebrew, Wild Ale - American"
+lauter,גל סילברמן,"Sun, 15 Mar 2026 19:21:30 +0000",bottle,4.3,IsraLambic Peach,Batra Homebrewery,"Homebrew, Lambic - Fruit"
+lauter,גל סילברמן,"Sun, 15 Mar 2026 19:20:03 +0000",bottle,5.0,3 Fonteinen Perzik Geel (season 18|19) Blend No. 25,Brouwerij 3 Fonteinen,Lambic - Fruit
+lauter,Dr Solo,"Sun, 15 Mar 2026 19:19:32 +0000",bottle,3.8,Rum Barrel-Aged Tart of Darkness (2018),The Bruery Terreux,Wild Ale - American
+lauter,גל סילברמן,"Sun, 15 Mar 2026 19:17:52 +0000",bottle,4.5,3 Fonteinen Robijn (season 18|19) Blend No. 104,Brouwerij 3 Fonteinen,Lambic - Kriek
+lauter,Kobi,"Sun, 15 Mar 2026 19:16:13 +0000",,4.2,Framboos Puur (2019),Bokke,Lambic - Framboise
+lauter,barak luzon,"Sun, 15 Mar 2026 19:15:12 +0000",bottle,4.5,Framboos Puur (2019),Bokke,Lambic - Framboise
+lauter,Yotam Bar-natan,"Sun, 15 Mar 2026 19:15:03 +0000",bottle,4.1,Framboos Puur (2019),Bokke,Lambic - Framboise
+lauter,Tom Lahav,"Sun, 15 Mar 2026 19:13:08 +0000",,3.75,Framboos Puur (2019),Bokke,Lambic - Framboise
+lauter,barak luzon,"Sun, 15 Mar 2026 19:11:31 +0000",bottle,4.5,Framboise Vlier (2018),Geuzestekerij De Cam,Lambic - Framboise
+lauter,גל סילברמן,"Sun, 15 Mar 2026 19:11:13 +0000",bottle,4.3,Speling van het Lot IX.viii: Aardbeiiteraties: Aardbei - Raw & Uncut,Brouwerij 3 Fonteinen,Lambic - Fruit
+lauter,Leo C,"Sun, 15 Mar 2026 19:10:42 +0000",bottle,4.75,Framboos Puur (2019),Bokke,Lambic - Framboise
+lauter,גל סילברמן,"Sun, 15 Mar 2026 19:09:24 +0000",bottle,4.4,Steen (2018),Bokke,Lambic - Fruit
+lauter,Kobi,"Sun, 15 Mar 2026 19:06:08 +0000",,4.0,Framboise Vlier (2018),Geuzestekerij De Cam,Lambic - Framboise
+lauter,Tom Lahav,"Sun, 15 Mar 2026 19:06:02 +0000",bottle,4.0,Framboise Vlier (2018),Geuzestekerij De Cam,Lambic - Framboise
+lauter,Yotam Bar-natan,"Sun, 15 Mar 2026 19:04:50 +0000",bottle,4.0,Framboise Vlier (2018),Geuzestekerij De Cam,Lambic - Framboise
+lauter,Leo C,"Sun, 15 Mar 2026 19:01:52 +0000",bottle,4.25,Framboise Vlier (2018),Geuzestekerij De Cam,Lambic - Framboise
+lauter,Tom Lahav,"Sun, 15 Mar 2026 18:58:51 +0000",bottle,4.0,Barrel Aged Wild Ale W Viognier Grapes,Heisenberg,"Homebrew, Wild Ale - American"
+lauter,Dr Solo,"Sun, 15 Mar 2026 18:58:16 +0000",bottle,4.8,Steen (2018),Bokke,Lambic - Fruit
+lauter,Kobi,"Sun, 15 Mar 2026 18:57:05 +0000",,,Barrel Aged Wild Ale W Viognier Grapes,Heisenberg,"Homebrew, Wild Ale - American"
+lauter,Yotam Bar-natan,"Sun, 15 Mar 2026 18:56:24 +0000",bottle,4.1,Barrel Aged Wild Ale W Viognier Grapes,Heisenberg,"Homebrew, Wild Ale - American"
+lauter,Kobi,"Sun, 15 Mar 2026 18:56:10 +0000",,3.5,Rum Barrel-Aged Tart of Darkness (2018),The Bruery Terreux,Wild Ale - American
+lauter,barak luzon,"Sun, 15 Mar 2026 18:56:06 +0000",bottle,4.75,Steen (2018),Bokke,Lambic - Fruit
+lauter,Leo C,"Sun, 15 Mar 2026 18:55:41 +0000",bottle,4.75,Barrel Aged Wild Ale W Viognier Grapes,Heisenberg,"Homebrew, Wild Ale - American"
+lauter,Yotam Bar-natan,"Sun, 15 Mar 2026 18:54:46 +0000",bottle,4.2,Rum Barrel-Aged Tart of Darkness (2018),The Bruery Terreux,Wild Ale - American
+lauter,Tom Lahav,"Sun, 15 Mar 2026 18:54:37 +0000",bottle,3.75,Rum Barrel-Aged Tart of Darkness (2018),The Bruery Terreux,Wild Ale - American
+lauter,Leo C,"Sun, 15 Mar 2026 18:51:00 +0000",bottle,3.75,Rum Barrel-Aged Tart of Darkness (2018),The Bruery Terreux,Wild Ale - American
+lauter,Kobi,"Sun, 15 Mar 2026 18:46:49 +0000",,4.3,Steen (2018),Bokke,Lambic - Fruit
+lauter,Yotam Bar-natan,"Sun, 15 Mar 2026 18:46:33 +0000",bottle,4.1,Steen (2018),Bokke,Lambic - Fruit
+lauter,Dr Solo,"Sun, 15 Mar 2026 18:45:48 +0000",bottle,4.0,IsraLambic Peach,Batra Homebrewery,"Homebrew, Lambic - Fruit"
+lauter,Dr Solo,"Sun, 15 Mar 2026 18:44:47 +0000",bottle,,3 Fonteinen Perzik Wit (season 18|19) Blend No. 24,Brouwerij 3 Fonteinen,Lambic - Fruit
+lauter,Kobi,"Sun, 15 Mar 2026 18:44:24 +0000",,,IsraLambic Peach,Batra Homebrewery,"Homebrew, Lambic - Fruit"
+lauter,Tom Lahav,"Sun, 15 Mar 2026 18:43:26 +0000",bottle,4.0,IsraLambic Peach,Batra Homebrewery,"Homebrew, Lambic - Fruit"
+lauter,Leo C,"Sun, 15 Mar 2026 18:43:04 +0000",bottle,4.75,Steen (2018),Bokke,Lambic - Fruit
+lauter,Dr Solo,"Sun, 15 Mar 2026 18:43:01 +0000",bottle,4.7,3 Fonteinen Perzik Geel (season 18|19) Blend No. 25,Brouwerij 3 Fonteinen,Lambic - Fruit
+lauter,barak luzon,"Sun, 15 Mar 2026 18:42:13 +0000",bottle,,IsraLambic Peach,Batra Homebrewery,"Homebrew, Lambic - Fruit"
+lauter,Yotam Bar-natan,"Sun, 15 Mar 2026 18:40:56 +0000",bottle,3.9,IsraLambic Peach,Batra Homebrewery,"Homebrew, Lambic - Fruit"
+lauter,Dr Solo,"Sun, 15 Mar 2026 18:40:40 +0000",bottle,4.4,3 Fonteinen Pruim Reine Claude D’Oullins (season 19|20) Blend No. 23,Brouwerij 3 Fonteinen,Lambic - Fruit
+lauter,Tom Lahav,"Sun, 15 Mar 2026 18:37:04 +0000",bottle,3.75,3 Fonteinen Perzik Wit (season 18|19) Blend No. 24,Brouwerij 3 Fonteinen,Lambic - Fruit
+lauter,Yotam Bar-natan,"Sun, 15 Mar 2026 18:36:26 +0000",bottle,4.0,3 Fonteinen Perzik Wit (season 18|19) Blend No. 24,Brouwerij 3 Fonteinen,Lambic - Fruit
+lauter,barak luzon,"Sun, 15 Mar 2026 18:36:25 +0000",bottle,4.25,3 Fonteinen Perzik Wit (season 18|19) Blend No. 24,Brouwerij 3 Fonteinen,Lambic - Fruit
+lauter,Kobi,"Sun, 15 Mar 2026 18:36:21 +0000",,4.1,3 Fonteinen Perzik Wit (season 18|19) Blend No. 24,Brouwerij 3 Fonteinen,Lambic - Fruit
+lauter,Dr Solo,"Sun, 15 Mar 2026 18:35:18 +0000",bottle,4.3,3 Fonteinen Hommage Bio Frambozen (season 18|19) Blend No. 110,Brouwerij 3 Fonteinen,Lambic - Framboise
+lauter,Leo C,"Sun, 15 Mar 2026 18:33:10 +0000",bottle,4.25,3 Fonteinen Perzik Wit (season 18|19) Blend No. 24,Brouwerij 3 Fonteinen,Lambic - Fruit
+lauter,Dr Solo,"Sun, 15 Mar 2026 18:33:05 +0000",bottle,4.5,3 Fonteinen Robijn (season 18|19) Blend No. 104,Brouwerij 3 Fonteinen,Lambic - Kriek
+lauter,Kobi,"Sun, 15 Mar 2026 18:31:31 +0000",,4.6,3 Fonteinen Perzik Geel (season 18|19) Blend No. 25,Brouwerij 3 Fonteinen,Lambic - Fruit
+lauter,Tom Lahav,"Sun, 15 Mar 2026 18:31:14 +0000",bottle,4.75,3 Fonteinen Perzik Geel (season 18|19) Blend No. 25,Brouwerij 3 Fonteinen,Lambic - Fruit
+lauter,barak luzon,"Sun, 15 Mar 2026 18:30:45 +0000",bottle,4.75,3 Fonteinen Perzik Geel (season 18|19) Blend No. 25,Brouwerij 3 Fonteinen,Lambic - Fruit
+lauter,Yotam Bar-natan,"Sun, 15 Mar 2026 18:30:35 +0000",bottle,4.3,3 Fonteinen Perzik Geel (season 18|19) Blend No. 25,Brouwerij 3 Fonteinen,Lambic - Fruit
+lauter,Dr Solo,"Sun, 15 Mar 2026 18:29:50 +0000",bottle,4.2,BXL Camaraderie,Batra Homebrewery,"Homebrew, Farmhouse Ale - Other"
+lauter,Kobi,"Sun, 15 Mar 2026 18:27:06 +0000",,4.3,3 Fonteinen Pruim Reine Claude D’Oullins (season 19|20) Blend No. 23,Brouwerij 3 Fonteinen,Lambic - Fruit
+lauter,Tom Lahav,"Sun, 15 Mar 2026 18:27:03 +0000",bottle,4.0,3 Fonteinen Pruim Reine Claude D’Oullins (season 19|20) Blend No. 23,Brouwerij 3 Fonteinen,Lambic - Fruit
+lauter,Leo C,"Sun, 15 Mar 2026 18:26:59 +0000",bottle,4.5,3 Fonteinen Perzik Geel (season 18|19) Blend No. 25,Brouwerij 3 Fonteinen,Lambic - Fruit
+lauter,Yotam Bar-natan,"Sun, 15 Mar 2026 18:26:11 +0000",bottle,4.5,3 Fonteinen Pruim Reine Claude D’Oullins (season 19|20) Blend No. 23,Brouwerij 3 Fonteinen,Lambic - Fruit
+lauter,Yotam Bar-natan,"Sun, 15 Mar 2026 18:25:45 +0000",bottle,4.4,Speling van het Lot IX.viii: Aardbeiiteraties: Aardbei - Raw & Uncut,Brouwerij 3 Fonteinen,Lambic - Fruit
+lauter,barak luzon,"Sun, 15 Mar 2026 18:25:42 +0000",bottle,4.5,3 Fonteinen Pruim Reine Claude D’Oullins (season 19|20) Blend No. 23,Brouwerij 3 Fonteinen,Lambic - Fruit
+lauter,Kobi,"Sun, 15 Mar 2026 18:22:18 +0000",,4.5,3 Fonteinen Hommage Bio Frambozen (season 18|19) Blend No. 110,Brouwerij 3 Fonteinen,Lambic - Framboise
+lauter,Tom Lahav,"Sun, 15 Mar 2026 18:20:30 +0000",bottle,3.75,3 Fonteinen Hommage Bio Frambozen (season 18|19) Blend No. 110,Brouwerij 3 Fonteinen,Lambic - Framboise
+lauter,barak luzon,"Sun, 15 Mar 2026 18:19:50 +0000",can,4.0,3 Fonteinen Hommage Bio Frambozen (season 18|19) Blend No. 110,Brouwerij 3 Fonteinen,Lambic - Framboise
+lauter,Leo C,"Sun, 15 Mar 2026 18:19:36 +0000",bottle,4.5,3 Fonteinen Pruim Reine Claude D’Oullins (season 19|20) Blend No. 23,Brouwerij 3 Fonteinen,Lambic - Fruit
+lauter,Yotam Bar-natan,"Sun, 15 Mar 2026 18:19:25 +0000",bottle,4.1,3 Fonteinen Hommage Bio Frambozen (season 18|19) Blend No. 110,Brouwerij 3 Fonteinen,Lambic - Framboise
+lauter,Leo C,"Sun, 15 Mar 2026 18:14:52 +0000",bottle,4.0,3 Fonteinen Hommage Bio Frambozen (season 18|19) Blend No. 110,Brouwerij 3 Fonteinen,Lambic - Framboise
+lauter,barak luzon,"Sun, 15 Mar 2026 18:11:33 +0000",bottle,4.5,3 Fonteinen Robijn (season 18|19) Blend No. 104,Brouwerij 3 Fonteinen,Lambic - Kriek
+lauter,Kobi,"Sun, 15 Mar 2026 18:10:47 +0000",,4.2,Speling van het Lot IX.viii: Aardbeiiteraties: Aardbei - Raw & Uncut,Brouwerij 3 Fonteinen,Lambic - Fruit
+lauter,barak luzon,"Sun, 15 Mar 2026 18:10:27 +0000",bottle,5.0,Speling van het Lot IX.viii: Aardbeiiteraties: Aardbei - Raw & Uncut,Brouwerij 3 Fonteinen,Lambic - Fruit
+lauter,Tom Lahav,"Sun, 15 Mar 2026 18:09:52 +0000",bottle,4.5,3 Fonteinen Robijn (season 18|19) Blend No. 104,Brouwerij 3 Fonteinen,Lambic - Kriek
+lauter,Kobi,"Sun, 15 Mar 2026 18:09:45 +0000",,4.5,3 Fonteinen Robijn (season 18|19) Blend No. 104,Brouwerij 3 Fonteinen,Lambic - Kriek
+lauter,Leo C,"Sun, 15 Mar 2026 18:09:41 +0000",,,Speling van het Lot IX.viii: Aardbeiiteraties: Aardbei - Raw & Uncut,Brouwerij 3 Fonteinen,Lambic - Fruit
+lauter,Yotam Bar-natan,"Sun, 15 Mar 2026 18:08:27 +0000",bottle,4.6,3 Fonteinen Robijn (season 18|19) Blend No. 104,Brouwerij 3 Fonteinen,Lambic - Kriek
+lauter,Leo C,"Sun, 15 Mar 2026 18:07:18 +0000",bottle,4.25,3 Fonteinen Robijn (season 18|19) Blend No. 104,Brouwerij 3 Fonteinen,Lambic - Kriek
+lauter,Tom Lahav,"Sun, 15 Mar 2026 18:05:12 +0000",bottle,4.25,Speling van het Lot IX.viii: Aardbeiiteraties: Aardbei - Raw & Uncut,Brouwerij 3 Fonteinen,Lambic - Fruit
+lauter,barak luzon,"Sun, 15 Mar 2026 18:04:29 +0000",bottle,,A North American Raga (2018/2019),Antidoot - Wilde Fermenten,Cider - Graff
+lauter,Yotam Bar-natan,"Sun, 15 Mar 2026 18:04:15 +0000",bottle,3.9,Speling van het Lot IX.iii: Aardbeiiteraties: Bio Aardbei + Kriek - Raw & Uncut,Brouwerij 3 Fonteinen,Lambic - Fruit
+lauter,Tom Lahav,"Sun, 15 Mar 2026 17:59:27 +0000",bottle,4.0,A North American Raga (2018/2019),Antidoot - Wilde Fermenten,Cider - Graff
+lauter,Yotam Bar-natan,"Sun, 15 Mar 2026 17:59:07 +0000",bottle,3.5,A North American Raga (2018/2019),Antidoot - Wilde Fermenten,Cider - Graff
+lauter,Kobi,"Sun, 15 Mar 2026 17:58:30 +0000",,4.2,A North American Raga (2018/2019),Antidoot - Wilde Fermenten,Cider - Graff
+lauter,Kobi,"Sun, 15 Mar 2026 17:55:22 +0000",,3.7,Ardenne Wood Ma Demoiselle (Jura 2020),Brasserie Minne,Sour - Other
+lauter,Yotam Bar-natan,"Sun, 15 Mar 2026 17:55:12 +0000",bottle,3.1,Ardenne Wood Ma Demoiselle (Jura 2020),Brasserie Minne,Sour - Other
+lauter,barak luzon,"Sun, 15 Mar 2026 17:53:56 +0000",bottle,3.75,Ardenne Wood Ma Demoiselle (Jura 2020),Brasserie Minne,Sour - Other
+lauter,Leo C,"Sun, 15 Mar 2026 17:53:17 +0000",bottle,,A North American Raga (2018/2019),Antidoot - Wilde Fermenten,Cider - Graff
+lauter,Tom Lahav,"Sun, 15 Mar 2026 17:52:41 +0000",bottle,3.75,Ardenne Wood Ma Demoiselle (Jura 2020),Brasserie Minne,Sour - Other
+lauter,Kobi,"Sun, 15 Mar 2026 17:51:20 +0000",,4.0,BXL Camaraderie,Batra Homebrewery,"Homebrew, Farmhouse Ale - Other"
+lauter,Leo C,"Sun, 15 Mar 2026 17:50:14 +0000",bottle,3.75,Ardenne Wood Ma Demoiselle (Jura 2020),Brasserie Minne,Sour - Other
+lauter,barak luzon,"Sun, 15 Mar 2026 17:48:49 +0000",bottle,4.0,BXL Camaraderie,Batra Homebrewery,"Homebrew, Farmhouse Ale - Other"
+lauter,Tom Lahav,"Sun, 15 Mar 2026 17:48:01 +0000",,4.0,BXL Camaraderie,Batra Homebrewery,"Homebrew, Farmhouse Ale - Other"
+lauter,Dr Solo,"Sun, 15 Mar 2026 17:45:50 +0000",bottle,4.1,Saison Riesling (lot 002),♑ Capri Fermentations,"Homebrew, Farmhouse Ale - Saison"
+lauter,Leo C,"Sun, 15 Mar 2026 17:44:14 +0000",bottle,,BXL Camaraderie,Batra Homebrewery,"Homebrew, Farmhouse Ale - Other"
+lauter,barak luzon,"Sun, 15 Mar 2026 17:43:44 +0000",bottle,4.0,Saison Riesling (lot 002),♑ Capri Fermentations,"Homebrew, Farmhouse Ale - Saison"
+lauter,Kobi,"Sun, 15 Mar 2026 17:42:44 +0000",,4.2,Saison Riesling (lot 002),♑ Capri Fermentations,"Homebrew, Farmhouse Ale - Saison"
+lauter,Yotam Bar-natan,"Sun, 15 Mar 2026 17:42:06 +0000",bottle,3.8,Saison Riesling (lot 002),♑ Capri Fermentations,"Homebrew, Farmhouse Ale - Saison"
+lauter,Tom Lahav,"Sun, 15 Mar 2026 17:41:28 +0000",,4.5,Saison Riesling (lot 002),♑ Capri Fermentations,"Homebrew, Farmhouse Ale - Saison"
+lauter,Leo C,"Sun, 15 Mar 2026 17:38:24 +0000",bottle,4.5,Saison Riesling (lot 002),♑ Capri Fermentations,"Homebrew, Farmhouse Ale - Saison"
+lauter,Kobi,"Sun, 15 Mar 2026 17:34:49 +0000",,4.2,Dr. Jenner's Muscat Vine,Mills Brewing,Sour - Fruited
+lauter,Tom Lahav,"Sun, 15 Mar 2026 17:34:27 +0000",bottle,4.25,Dr. Jenner's Muscat Vine,Mills Brewing,Sour - Fruited
+lauter,Yotam Bar-natan,"Sun, 15 Mar 2026 17:33:27 +0000",bottle,4.4,Dr. Jenner's Muscat Vine,Mills Brewing,Sour - Fruited
+lauter,barak luzon,"Sun, 15 Mar 2026 17:32:43 +0000",bottle,4.5,Dr. Jenner's Muscat Vine,Mills Brewing,Sour - Fruited
+lauter,Dr Solo,"Sun, 15 Mar 2026 17:31:48 +0000",bottle,3.9,Nicky,Mills Brewing,Farmhouse Ale - Saison
+lauter,Kobi,"Sun, 15 Mar 2026 17:31:46 +0000",,4.2,Nicky,Mills Brewing,Farmhouse Ale - Saison
+lauter,Leo C,"Sun, 15 Mar 2026 17:31:43 +0000",bottle,4.25,Dr. Jenner's Muscat Vine,Mills Brewing,Sour - Fruited
+lauter,Tom Lahav,"Sun, 15 Mar 2026 17:29:11 +0000",bottle,3.75,Nicky,Mills Brewing,Farmhouse Ale - Saison
+lauter,Yotam Bar-natan,"Sun, 15 Mar 2026 17:28:13 +0000",can,4.1,Nicky,Mills Brewing,Farmhouse Ale - Saison
+lauter,barak luzon,"Sun, 15 Mar 2026 17:27:30 +0000",bottle,4.25,Nicky,Mills Brewing,Farmhouse Ale - Saison
+lauter,Leo C,"Sun, 15 Mar 2026 17:26:24 +0000",bottle,4.25,Nicky,Mills Brewing,Farmhouse Ale - Saison
+lauter,Kobi,"Sun, 15 Mar 2026 17:22:44 +0000",,4.4,Oude Gueuze Tilquin à l'Ancienne (2016-2017),Gueuzerie Tilquin,Lambic - Gueuze
+lauter,barak luzon,"Sun, 15 Mar 2026 17:22:15 +0000",bottle,4.5,Oude Gueuze Tilquin à l'Ancienne (2016-2017),Gueuzerie Tilquin,Lambic - Gueuze
+lauter,Yotam Bar-natan,"Sun, 15 Mar 2026 17:22:13 +0000",bottle,4.5,Oude Gueuze Tilquin à l'Ancienne (2016-2017),Gueuzerie Tilquin,Lambic - Gueuze
+lauter,Tom Lahav,"Sun, 15 Mar 2026 17:21:51 +0000",bottle,4.0,Oude Gueuze Tilquin à l'Ancienne (2016-2017),Gueuzerie Tilquin,Lambic - Gueuze
+lauter,Leo C,"Sun, 15 Mar 2026 17:21:09 +0000",bottle,4.5,Oude Gueuze Tilquin à l'Ancienne (2016-2017),Gueuzerie Tilquin,Lambic - Gueuze
+lauter,barak luzon,"Sun, 15 Mar 2026 17:15:42 +0000",bottle,4.0,Grand Cru Bruocsella Lambic Bio (2018-2019),Brasserie Cantillon,Lambic - Traditional
+lauter,Eli Smikin,"Sun, 15 Mar 2026 17:15:30 +0000",draft,4.0,Hoppywood Pils,Schnitt Brewing Company﻿,Lager - IPL (India Pale Lager)
+lauter,Leo C,"Sun, 15 Mar 2026 17:15:25 +0000",bottle,4.25,Grand Cru Bruocsella Lambic Bio (2018-2019),Brasserie Cantillon,Lambic - Traditional
+lauter,Tom Lahav,"Sun, 15 Mar 2026 17:15:14 +0000",bottle,3.75,Grand Cru Bruocsella Lambic Bio (2018-2019),Brasserie Cantillon,Lambic - Traditional
+lauter,Kobi,"Sun, 15 Mar 2026 17:14:48 +0000",,4.0,Grand Cru Bruocsella Lambic Bio (2018-2019),Brasserie Cantillon,Lambic - Traditional
+schnitt-brewing-company,Tom Lahav,"Sun, 15 Mar 2026 17:00:02 +0000",,4.0,Meerts Tilquin à la Kriek de Schaerbeek,Gueuzerie Tilquin,Lambic - Fruit
+lauter,Asaf Levi,"Sun, 15 Mar 2026 16:56:11 +0000",,3.75,Meerts Tilquin à la Kriek de Schaerbeek,Gueuzerie Tilquin,Lambic - Fruit
+schnitt-brewing-company,May Cohen,"Sun, 15 Mar 2026 14:16:16 +0000",draft,4.0,Hop Squad 2026,Schnitt Brewing Company﻿,IPA - New England / Hazy
+schnitt-brewing-company,May Cohen,"Sun, 15 Mar 2026 13:20:09 +0000",draft,3.5,Hadar הדר,Schnitt Brewing Company﻿,Wheat Beer - Witbier / Blanche
+porter-and-sons,Shmupi Koto,"Sun, 15 Mar 2026 13:15:22 +0000",bottle,4.4,Framboise Vlier,Geuzestekerij De Cam,Lambic - Fruit
+b7-beer-house,Gal Faintoch,"Sun, 15 Mar 2026 10:05:48 +0000",can,4.5,זהב שחור,New Pioneer Brewing Co - חלוץ חדש,Porter - American
 lauter,Shmupi Koto,"Sat, 14 Mar 2026 23:18:06 +0000",bottle,4.8,Oude Pinot Gris Tilquin à l'Ancienne (2021-2022),Gueuzerie Tilquin,Lambic - Fruit
 lauter,TheOnlyMagicalNoob,"Sat, 14 Mar 2026 21:12:58 +0000",can,3.25,Coresh כורש,Schnitt Brewing Company﻿,Smoked Beer
 lauter,TheOnlyMagicalNoob,"Sat, 14 Mar 2026 20:47:07 +0000",can,3.75,מכת חושך,Oak & Ash,Stout - Milk / Sweet
@@ -7395,8 +7530,8 @@ lauter,Omer Shahar,"Sun, 19 Oct 2025 19:40:35 +0000",draft,3.5,"Shut Up And Drin
 porter-and-sons,Shmupi Koto,"Sun, 19 Oct 2025 19:33:53 +0000",draft,4.7,Quetsche Tilquin – Draft Version,Gueuzerie Tilquin,Lambic - Fruit
 lauter,Shmupi Koto,"Sun, 19 Oct 2025 19:32:51 +0000",bottle,4.0,Aecht Schlenkerla Rauchbier – Märzen,"Schlenkerla (""Heller-Bräu"" Trum)",Rauchbier
 lauter,Tal,"Sun, 19 Oct 2025 19:27:16 +0000",bottle,4.0,Bjorn's Beer,Attali's Family Brewery,IPA - American
-schnitt-brewing-company,May Cohen,"Sun, 19 Oct 2025 19:17:21 +0000",can,4.25,Plum Waffle,Duncan's Brewing,Sour - Smoothie / Pastry
 lauter,adi_zadik_2741,"Sun, 19 Oct 2025 19:17:21 +0000",bottle,3.25,Bjorn's Beer,Attali's Family Brewery,IPA - American
+schnitt-brewing-company,May Cohen,"Sun, 19 Oct 2025 19:17:21 +0000",can,4.25,Plum Waffle,Duncan's Brewing,Sour - Smoothie / Pastry
 lauter,Tal,"Sun, 19 Oct 2025 18:51:53 +0000",draft,3.75,"Shut Up And Drink Me! (שת""פ)",Schnitt Brewing Company﻿,Historical Beer - Lichtenhainer
 schnitt-brewing-company,May Cohen,"Sun, 19 Oct 2025 18:34:54 +0000",can,4.5,Jetphilia,Totopia Brewery,Stout - Imperial / Double
 beerline,Slava Gladchenko,"Sun, 19 Oct 2025 18:23:28 +0000",,3.0,Benediktiner Weissbier,Benediktiner Weissbräu,Wheat Beer - Hefeweizen
@@ -9718,8 +9853,8 @@ lauter,Adam Berelowitz,"Mon, 01 Sep 2025 17:50:20 +0000",can,4.0,Confuzzled '202
 lauter,Oren Sleepwalker,"Mon, 01 Sep 2025 17:46:17 +0000",,,Hops Don’t Lie,Thurø Bryghus,IPA - New England / Hazy
 lauter,Mikhail Stolov,"Mon, 01 Sep 2025 17:45:42 +0000",bottle,2.5,Hops Don’t Lie,Thurø Bryghus,IPA - New England / Hazy
 lauter,Yosef Dahan,"Mon, 01 Sep 2025 17:45:00 +0000",bottle,3.5,Hops Don’t Lie,Thurø Bryghus,IPA - New England / Hazy
-lauter,Adam Berelowitz,"Mon, 01 Sep 2025 17:44:35 +0000",bottle,4.0,Hops Don’t Lie,Thurø Bryghus,IPA - New England / Hazy
 lauter,Yaron Sh,"Mon, 01 Sep 2025 17:44:35 +0000",,4.0,Hops Don’t Lie,Thurø Bryghus,IPA - New England / Hazy
+lauter,Adam Berelowitz,"Mon, 01 Sep 2025 17:44:35 +0000",bottle,4.0,Hops Don’t Lie,Thurø Bryghus,IPA - New England / Hazy
 lauter,Kobi,"Mon, 01 Sep 2025 17:44:03 +0000",,4.0,Hops Don’t Lie,Thurø Bryghus,IPA - New England / Hazy
 lauter,Yaron Sh,"Mon, 01 Sep 2025 17:42:20 +0000",,4.5,Super Trigo,Bierwerk Züri,IPA - White / Wheat
 lauter,Oren Sleepwalker,"Mon, 01 Sep 2025 17:40:34 +0000",,,Super Trigo,Bierwerk Züri,IPA - White / Wheat
@@ -10267,8 +10402,8 @@ b7-beer-house,גל סילברמן,"Thu, 21 Aug 2025 16:00:18 +0000",can,3.8,Naug
 b7-beer-house,Guy Azene,"Thu, 21 Aug 2025 16:00:01 +0000",can,3.8,Naughty & Nice - White Chocolate & Raspberry,Vocation Brewery,Stout - White / Golden
 b7-beer-house,Liad Shaked,"Thu, 21 Aug 2025 15:59:41 +0000",can,3.9,Naughty & Nice - White Chocolate & Raspberry,Vocation Brewery,Stout - White / Golden
 b7-beer-house,Yotam Bar-natan,"Thu, 21 Aug 2025 15:59:21 +0000",can,4.3,Birthday Cake,Vocation Brewery,Stout - Milk / Sweet
-b7-beer-house,Eli Smikin,"Thu, 21 Aug 2025 15:59:11 +0000",can,3.8,Peach Rings,Vault City Brewing,Sour - Fruited
 b7-beer-house,Elior Mizrahi,"Thu, 21 Aug 2025 15:59:11 +0000",,4.0,Naughty & Nice - White Chocolate & Raspberry,Vocation Brewery,Stout - White / Golden
+b7-beer-house,Eli Smikin,"Thu, 21 Aug 2025 15:59:11 +0000",can,3.8,Peach Rings,Vault City Brewing,Sour - Fruited
 b7-beer-house,Yotam Bar-natan,"Thu, 21 Aug 2025 15:58:45 +0000",can,3.8,Naughty & Nice - White Chocolate & Raspberry,Vocation Brewery,Stout - White / Golden
 b7-beer-house,Tom Lahav,"Thu, 21 Aug 2025 15:58:44 +0000",can,3.25,Naughty & Nice - White Chocolate & Raspberry,Vocation Brewery,Stout - White / Golden
 b7-beer-house,Yotam Bar-natan,"Thu, 21 Aug 2025 15:58:21 +0000",can,3.7,Incognito,Vocation Brewery,IPA - Imperial / Double
