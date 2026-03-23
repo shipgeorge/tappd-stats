@@ -1,8 +1,530 @@
 // 🍺 BEER STATS DATA - Generated automatically
-// Last updated: 2026-03-22 07:02:28
-// Total records: 14464
+// Last updated: 2026-03-23 07:23:55
+// Total records: 14522
 
 const BEER_DATA = [
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-03-23T05:24:09+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "I love cinnamon",
+    "brewery": "ULTIMA",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-22T21:44:23+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "שנה טובה כפרה",
+    "brewery": "Herzl (הרצל)",
+    "beer_type": "IPA - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-22T21:43:16+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "Meerts Tilquin à la Kriek de Schaerbeek",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-22T19:19:29+00:00",
+    "serving": "draft",
+    "rating": null,
+    "beer_name": "מכת חושך",
+    "brewery": "Oak & Ash",
+    "beer_type": "Stout - Milk / Sweet"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-22T19:04:32+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "מכת חושך",
+    "brewery": "Oak & Ash",
+    "beer_type": "Stout - Milk / Sweet"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-22T19:03:54+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Hoppywood Pils",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Lager - IPL (India Pale Lager)"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-22T18:44:46+00:00",
+    "serving": "Unknown",
+    "rating": 5.0,
+    "beer_name": "Blanc de Brute 2019",
+    "brewery": "Wild Creatures",
+    "beer_type": "Wild Ale - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-22T18:41:47+00:00",
+    "serving": "bottle",
+    "rating": 4.5,
+    "beer_name": "Blanc de Brute 2019",
+    "brewery": "Wild Creatures",
+    "beer_type": "Wild Ale - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-22T18:40:31+00:00",
+    "serving": "bottle",
+    "rating": 4.3,
+    "beer_name": "Blanc de Brute 2019",
+    "brewery": "Wild Creatures",
+    "beer_type": "Wild Ale - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-22T18:39:53+00:00",
+    "serving": "bottle",
+    "rating": 4.25,
+    "beer_name": "Blanc de Brute 2019",
+    "brewery": "Wild Creatures",
+    "beer_type": "Wild Ale - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-22T18:36:07+00:00",
+    "serving": "bottle",
+    "rating": 4.0,
+    "beer_name": "Solera (2019)",
+    "brewery": "Wild Creatures",
+    "beer_type": "Wild Ale - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-22T18:31:58+00:00",
+    "serving": "bottle",
+    "rating": 4.5,
+    "beer_name": "Solera (2019)",
+    "brewery": "Wild Creatures",
+    "beer_type": "Wild Ale - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-22T18:30:44+00:00",
+    "serving": "bottle",
+    "rating": 4.2,
+    "beer_name": "Solera (2019)",
+    "brewery": "Wild Creatures",
+    "beer_type": "Wild Ale - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-22T18:25:38+00:00",
+    "serving": "bottle",
+    "rating": 4.5,
+    "beer_name": "Meditation (2020)",
+    "brewery": "Wild Creatures",
+    "beer_type": "Lambic - Gueuze"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-22T18:25:16+00:00",
+    "serving": "Unknown",
+    "rating": 4.75,
+    "beer_name": "Meditation",
+    "brewery": "Wild Creatures",
+    "beer_type": "Lambic - Gueuze"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-22T18:23:57+00:00",
+    "serving": "bottle",
+    "rating": 3.75,
+    "beer_name": "Meditation (2020)",
+    "brewery": "Wild Creatures",
+    "beer_type": "Lambic - Gueuze"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-22T18:23:42+00:00",
+    "serving": "bottle",
+    "rating": 4.0,
+    "beer_name": "Meditation (2020)",
+    "brewery": "Wild Creatures",
+    "beer_type": "Lambic - Gueuze"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-22T18:17:40+00:00",
+    "serving": "bottle",
+    "rating": 4.0,
+    "beer_name": "Summer Ribes (2022)",
+    "brewery": "Wild Creatures",
+    "beer_type": "Wild Ale - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-22T18:16:05+00:00",
+    "serving": "bottle",
+    "rating": 4.25,
+    "beer_name": "Summer Ribes (2022)",
+    "brewery": "Wild Creatures",
+    "beer_type": "Wild Ale - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-22T18:16:02+00:00",
+    "serving": "bottle",
+    "rating": 3.9,
+    "beer_name": "Summer Ribes (2022)",
+    "brewery": "Wild Creatures",
+    "beer_type": "Wild Ale - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-22T18:12:10+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Femme Fanale",
+    "brewery": "Wild Creatures",
+    "beer_type": "Wild Ale - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-22T18:10:15+00:00",
+    "serving": "bottle",
+    "rating": 4.5,
+    "beer_name": "Femme Fanale (2022)",
+    "brewery": "Wild Creatures",
+    "beer_type": "Wild Ale - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-22T18:09:31+00:00",
+    "serving": "bottle",
+    "rating": 4.5,
+    "beer_name": "Femme Fanale",
+    "brewery": "Wild Creatures",
+    "beer_type": "Wild Ale - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-22T18:07:28+00:00",
+    "serving": "bottle",
+    "rating": 4.0,
+    "beer_name": "Femme Fanale (2022)",
+    "brewery": "Wild Creatures",
+    "beer_type": "Wild Ale - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-22T18:00:14+00:00",
+    "serving": "bottle",
+    "rating": 3.8,
+    "beer_name": "Te Rheum 2022",
+    "brewery": "Wild Creatures",
+    "beer_type": "Wild Ale - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-22T17:59:33+00:00",
+    "serving": "bottle",
+    "rating": 4.0,
+    "beer_name": "Te Rheum 2022",
+    "brewery": "Wild Creatures",
+    "beer_type": "Wild Ale - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-22T17:58:38+00:00",
+    "serving": "bottle",
+    "rating": 4.0,
+    "beer_name": "Te Rheum 2022",
+    "brewery": "Wild Creatures",
+    "beer_type": "Wild Ale - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-22T17:53:59+00:00",
+    "serving": "bottle",
+    "rating": 4.25,
+    "beer_name": "La Vie En Rose (2020)",
+    "brewery": "Wild Creatures",
+    "beer_type": "Wild Ale - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-22T17:53:29+00:00",
+    "serving": "bottle",
+    "rating": 4.25,
+    "beer_name": "La Vie En Rose (2020)",
+    "brewery": "Wild Creatures",
+    "beer_type": "Wild Ale - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-22T17:52:06+00:00",
+    "serving": "bottle",
+    "rating": 4.1,
+    "beer_name": "La Vie En Rose (2020)",
+    "brewery": "Wild Creatures",
+    "beer_type": "Wild Ale - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-22T17:31:22+00:00",
+    "serving": "draft",
+    "rating": 3.7,
+    "beer_name": "מכת חושך",
+    "brewery": "Oak & Ash",
+    "beer_type": "Stout - Milk / Sweet"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-22T17:28:03+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Sea Buckthorn Ginger Gose 11",
+    "brewery": "Rodinný pivovar Zichovec",
+    "beer_type": "Sour - Other Gose"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-22T17:27:43+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Sea Buckthorn Ginger Gose 11",
+    "brewery": "Rodinný pivovar Zichovec",
+    "beer_type": "Sour - Other Gose"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-22T17:18:49+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Tea Party: Masala",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pale Ale - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-22T17:06:43+00:00",
+    "serving": "bottle",
+    "rating": 4.0,
+    "beer_name": "Cheesecake Island",
+    "brewery": "Põhjala",
+    "beer_type": "Porter - Imperial / Double Baltic"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-22T17:06:22+00:00",
+    "serving": "bottle",
+    "rating": 4.5,
+    "beer_name": "Baltic Porter Day 2025",
+    "brewery": "Põhjala",
+    "beer_type": "Porter - Imperial / Double Baltic"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-22T16:44:59+00:00",
+    "serving": "bottle",
+    "rating": 3.75,
+    "beer_name": "Tiramisu Bänger",
+    "brewery": "Põhjala",
+    "beer_type": "Stout - Imperial / Double Coffee"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-22T16:30:15+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Sour Passion Fruit 12",
+    "brewery": "Rodinný pivovar Zichovec",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-22T16:27:33+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Fros'e Hydra Deuce",
+    "brewery": "Mortalis Brewing Company",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-22T15:59:01+00:00",
+    "serving": "can",
+    "rating": 4.5,
+    "beer_name": "Fros'e Hydra Deuce",
+    "brewery": "Mortalis Brewing Company",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-22T15:45:19+00:00",
+    "serving": "can",
+    "rating": 4.75,
+    "beer_name": "Hydra Glizzy",
+    "brewery": "Mortalis Brewing Company",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-22T15:40:49+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "DemiHydra | Circle the Wagons",
+    "brewery": "Mortalis Brewing Company",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-22T15:16:20+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "DemiHydra | Circle the Wagons",
+    "brewery": "Mortalis Brewing Company",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-03-22T15:08:35+00:00",
+    "serving": "bottle",
+    "rating": 1.0,
+    "beer_name": "Shel Zahab(של זהב)",
+    "brewery": "Jerusalem Brewing Co. (מבשלת ירושלים)",
+    "beer_type": "Pilsner - Other"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-03-22T11:42:53+00:00",
+    "serving": "bottle",
+    "rating": 5.0,
+    "beer_name": "Ube Summation",
+    "brewery": "3 Sons Brewing Co.",
+    "beer_type": "Stout - Imperial / Double Coffee"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-03-22T11:34:13+00:00",
+    "serving": "bottle",
+    "rating": 4.5,
+    "beer_name": "Huggin & Munnin",
+    "brewery": "Artivem Mead Co.",
+    "beer_type": "Mead - Other"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-03-22T11:29:33+00:00",
+    "serving": "bottle",
+    "rating": 4.5,
+    "beer_name": "Sparklepuss: Pina Colada Rum BA (2025, Purple Wax)",
+    "brewery": "Hop Hooligans",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-03-22T11:25:47+00:00",
+    "serving": "bottle",
+    "rating": 4.5,
+    "beer_name": "Sparklepuss: Strawberry Shortcake Rum BA (2025, Purple Wax)",
+    "brewery": "Hop Hooligans",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-03-22T11:18:56+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Deadspace Opera",
+    "brewery": "P.i.g.s. Brew Co.",
+    "beer_type": "Stout - Imperial / Double Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-03-22T11:17:25+00:00",
+    "serving": "bottle",
+    "rating": 5.0,
+    "beer_name": "Endless Cherry Pie",
+    "brewery": "Zymarium Meadery",
+    "beer_type": "Mead - Melomel"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-03-22T11:05:43+00:00",
+    "serving": "Unknown",
+    "rating": 4.2,
+    "beer_name": "Lemon's Cello: Encore",
+    "brewery": "Lost Cause Meadery",
+    "beer_type": "Mead - Melomel"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-03-22T11:00:22+00:00",
+    "serving": "bottle",
+    "rating": 3.1,
+    "beer_name": "OMG (2026 - תשפ\"ו) - Peated Barreled Aged Wheat Wine",
+    "brewery": "BeerBazaar / Mivshelet Ha’Aretz",
+    "beer_type": "Wheat Beer - Wheat Wine"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-03-22T10:43:50+00:00",
+    "serving": "can",
+    "rating": 4.2,
+    "beer_name": "MR BIG STUFF*",
+    "brewery": "One Drop Brewing Co",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-03-22T10:39:10+00:00",
+    "serving": "can",
+    "rating": 4.5,
+    "beer_name": "Gelato Sourpuss: Paloma Pink",
+    "brewery": "Hop Hooligans",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-03-22T10:34:56+00:00",
+    "serving": "Unknown",
+    "rating": 4.4,
+    "beer_name": "Wee Buckie",
+    "brewery": "Vault City Brewing",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-03-22T10:30:23+00:00",
+    "serving": "can",
+    "rating": 4.4,
+    "beer_name": "Cherry Berry Crush",
+    "brewery": "Sudden Death Brewing Co.",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-03-22T10:27:03+00:00",
+    "serving": "can",
+    "rating": 3.3,
+    "beer_name": "SLUSHY XL: Zombie Patch",
+    "brewery": "450 North Brewing Company",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-03-22T10:22:57+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Just Fruit (Red Raspberry, White Grape, Blueberry)",
+    "brewery": "Frequentem Brewing Co.",
+    "beer_type": "Sour - Fruited"
+  },
   {
     "venue": "b7-beer-house",
     "time": "2026-03-22T01:47:12+00:00",
@@ -898,18 +1420,18 @@ const BEER_DATA = [
     "venue": "b7-beer-house",
     "time": "2026-03-21T19:42:50+00:00",
     "serving": "can",
-    "rating": 4.25,
-    "beer_name": "Paco",
-    "brewery": "Living Häus Beer Company",
+    "rating": 3.8,
+    "beer_name": "Can You Dig It?!",
+    "brewery": "Gigantic Brewing Company",
     "beer_type": "IPA - American"
   },
   {
     "venue": "b7-beer-house",
     "time": "2026-03-21T19:42:50+00:00",
     "serving": "can",
-    "rating": 3.8,
-    "beer_name": "Can You Dig It?!",
-    "brewery": "Gigantic Brewing Company",
+    "rating": 4.25,
+    "beer_name": "Paco",
+    "brewery": "Living Häus Beer Company",
     "beer_type": "IPA - American"
   },
   {
@@ -21328,7 +21850,7 @@ const BEER_DATA = [
     "venue": "b7-beer-house",
     "time": "2026-01-25T20:44:31+00:00",
     "serving": "can",
-    "rating": 3.0,
+    "rating": 3.8,
     "beer_name": "Gelato: Syrniki",
     "brewery": "Funky Fluid",
     "beer_type": "Sour - Smoothie / Pastry"
@@ -21337,7 +21859,7 @@ const BEER_DATA = [
     "venue": "b7-beer-house",
     "time": "2026-01-25T20:44:31+00:00",
     "serving": "can",
-    "rating": 3.8,
+    "rating": 3.0,
     "beer_name": "Gelato: Syrniki",
     "brewery": "Funky Fluid",
     "beer_type": "Sour - Smoothie / Pastry"
@@ -26356,15 +26878,6 @@ const BEER_DATA = [
     "beer_type": "IPA - New England / Hazy"
   },
   {
-    "venue": "lauter",
-    "time": "2026-01-16T18:31:34+00:00",
-    "serving": "draft",
-    "rating": null,
-    "beer_name": "Vagus",
-    "brewery": "קישקשתא (Kishkashta)",
-    "beer_type": "IPA - American"
-  },
-  {
     "venue": "schnitt-brewing-company",
     "time": "2026-01-16T18:31:34+00:00",
     "serving": "draft",
@@ -26372,6 +26885,15 @@ const BEER_DATA = [
     "beer_name": "CBGF: Garden Through the Looking Glass",
     "brewery": "CoolHead Brew",
     "beer_type": "Stout - Imperial / Double Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-16T18:31:34+00:00",
+    "serving": "draft",
+    "rating": null,
+    "beer_name": "Vagus",
+    "brewery": "קישקשתא (Kishkashta)",
+    "beer_type": "IPA - American"
   },
   {
     "venue": "lauter",
@@ -43636,7 +44158,7 @@ const BEER_DATA = [
     "beer_type": "IPA - Belgian"
   },
   {
-    "venue": "schnitt-brewing-company",
+    "venue": "lauter",
     "time": "2025-12-14T20:46:46+00:00",
     "serving": "draft",
     "rating": 3.7,
@@ -43645,7 +44167,7 @@ const BEER_DATA = [
     "beer_type": "Porter - American"
   },
   {
-    "venue": "lauter",
+    "venue": "schnitt-brewing-company",
     "time": "2025-12-14T20:46:46+00:00",
     "serving": "draft",
     "rating": 3.7,
@@ -54223,7 +54745,7 @@ const BEER_DATA = [
     "venue": "b7-beer-house",
     "time": "2025-11-21T11:17:46+00:00",
     "serving": "bottle",
-    "rating": 4.0,
+    "rating": 4.25,
     "beer_name": "Oude Gueuze Tilquin à l'Ancienne - Cuvée Renée (2023-2024)",
     "brewery": "Gueuzerie Tilquin",
     "beer_type": "Lambic - Gueuze"
@@ -54232,7 +54754,7 @@ const BEER_DATA = [
     "venue": "b7-beer-house",
     "time": "2025-11-21T11:17:46+00:00",
     "serving": "bottle",
-    "rating": 4.25,
+    "rating": 4.0,
     "beer_name": "Oude Gueuze Tilquin à l'Ancienne - Cuvée Renée (2023-2024)",
     "brewery": "Gueuzerie Tilquin",
     "beer_type": "Lambic - Gueuze"
@@ -102894,8 +103416,8 @@ const BEER_DATA = [
   {
     "venue": "lauter",
     "time": "2025-08-05T19:24:07+00:00",
-    "serving": "can",
-    "rating": 4.5,
+    "serving": "Unknown",
+    "rating": null,
     "beer_name": "SLUSHY XL: Haha!",
     "brewery": "450 North Brewing Company",
     "beer_type": "Sour - Smoothie / Pastry"
@@ -102903,8 +103425,8 @@ const BEER_DATA = [
   {
     "venue": "lauter",
     "time": "2025-08-05T19:24:07+00:00",
-    "serving": "Unknown",
-    "rating": null,
+    "serving": "can",
+    "rating": 4.5,
     "beer_name": "SLUSHY XL: Haha!",
     "brewery": "450 North Brewing Company",
     "beer_type": "Sour - Smoothie / Pastry"
