@@ -1,8 +1,782 @@
 // 🍺 BEER STATS DATA - Generated automatically
-// Last updated: 2026-03-26 07:21:54
-// Total records: 14554
+// Last updated: 2026-03-27 07:21:16
+// Total records: 14640
 
 const BEER_DATA = [
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-03-27T06:17:47+00:00",
+    "serving": "draft",
+    "rating": 3.9,
+    "beer_name": "I TOLD YOU! I SPENT IT WITH MY UNCLE IN ALASKA HUNTING WOLVERINES!",
+    "brewery": "Evil Twin Brewing NYC",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-03-26T23:58:26+00:00",
+    "serving": "Unknown",
+    "rating": 4.2,
+    "beer_name": "Chocolate River Imperial Stout",
+    "brewery": "Vault City Brewing",
+    "beer_type": "Stout - Imperial / Double"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-03-26T22:59:12+00:00",
+    "serving": "can",
+    "rating": 4.2,
+    "beer_name": "MAKE IT FRUITY PEACH APRICOT",
+    "brewery": "Evil Twin Brewing NYC",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-26T22:43:19+00:00",
+    "serving": "bottle",
+    "rating": 4.25,
+    "beer_name": "Buckley Reserve #1",
+    "brewery": "Transient Artisan Ales",
+    "beer_type": "Stout - Imperial / Double"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-26T22:42:47+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "Hoppywood Pils",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Lager - IPL (India Pale Lager)"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-26T22:42:09+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Chimney.",
+    "brewery": "Moon Lark Brewery",
+    "beer_type": "Porter - Smoked"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-26T22:41:12+00:00",
+    "serving": "Unknown",
+    "rating": 4.5,
+    "beer_name": "Kriek 100% Lambic Bio",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": "Lambic - Kriek"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-26T22:40:29+00:00",
+    "serving": "bottle",
+    "rating": 4.0,
+    "beer_name": "Buckley Reserve #2 (2023)",
+    "brewery": "Transient Artisan Ales",
+    "beer_type": "Stout - Imperial / Double"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-26T22:07:23+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Fros'e Hydra Deuce",
+    "brewery": "Mortalis Brewing Company",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-26T21:58:17+00:00",
+    "serving": "draft",
+    "rating": 4.5,
+    "beer_name": "Kriek 100% Lambic Bio",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": "Lambic - Kriek"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-26T21:57:34+00:00",
+    "serving": "bottle",
+    "rating": 4.2,
+    "beer_name": "Plague Village",
+    "brewery": "Plague Brew",
+    "beer_type": "Mead - Melomel"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-26T20:54:54+00:00",
+    "serving": "bottle",
+    "rating": 4.5,
+    "beer_name": "Buckley Reserve #1 (2023)",
+    "brewery": "Transient Artisan Ales",
+    "beer_type": "Stout - Imperial / Double"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-26T20:42:34+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Smoothie Bowl: Coconut Bomb",
+    "brewery": "Nepo Brewing",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-26T20:42:23+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "I THOUGHT IT WAS BREAKFAST BUT IT WAS FEELINGS",
+    "brewery": "Evil Twin Brewing NYC",
+    "beer_type": "Stout - Oatmeal"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-26T20:34:30+00:00",
+    "serving": "bottle",
+    "rating": 2.75,
+    "beer_name": "Baltika #0 Non-Alcoholic / Балтика #0 Безалкогольное",
+    "brewery": "Baltika Breweries (Балтика)",
+    "beer_type": "Non-Alcoholic - Lager"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-26T20:34:16+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "I THOUGHT IT WAS BREAKFAST BUT IT WAS FEELINGS",
+    "brewery": "Evil Twin Brewing NYC",
+    "beer_type": "Stout - Oatmeal"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-26T20:34:15+00:00",
+    "serving": "draft",
+    "rating": 3.0,
+    "beer_name": "Double Trouble",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - Imperial / Double"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-26T20:31:25+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "EVEN MORE HIPSTERISH",
+    "brewery": "Evil Twin Brewing NYC",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-03-26T20:30:53+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Bucharest Anyone?",
+    "brewery": "ULTIMA",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-03-26T20:30:25+00:00",
+    "serving": "can",
+    "rating": 5.0,
+    "beer_name": "MAKE IT FRUITY PEACH APRICOT",
+    "brewery": "Evil Twin Brewing NYC",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-26T20:23:16+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Hoppywood Pils",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Lager - IPL (India Pale Lager)"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-03-26T20:22:42+00:00",
+    "serving": "can",
+    "rating": 3.9,
+    "beer_name": "I TOLD YOU! I SPENT IT WITH MY UNCLE IN ALASKA HUNTING WOLVERINES!",
+    "brewery": "Evil Twin Brewing NYC",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-03-26T20:20:43+00:00",
+    "serving": "can",
+    "rating": 4.5,
+    "beer_name": "Lollihop",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "beerz",
+    "time": "2026-03-26T20:20:31+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Hazy Queen",
+    "brewery": "HORIZONT Brewing",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "beerz",
+    "time": "2026-03-26T20:19:16+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Hobgoblin IPA",
+    "brewery": "Marston's Brewery",
+    "beer_type": "IPA - English"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-26T20:07:12+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Kriek 100% Lambic Bio",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": "Lambic - Kriek"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-26T20:06:31+00:00",
+    "serving": "can",
+    "rating": 4.5,
+    "beer_name": "Buckley Reserve #2 (2023)",
+    "brewery": "Transient Artisan Ales",
+    "beer_type": "Stout - Imperial / Double"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-26T19:59:46+00:00",
+    "serving": "can",
+    "rating": 4.5,
+    "beer_name": "Buckley Reserve #1",
+    "brewery": "Transient Artisan Ales",
+    "beer_type": "Stout - Imperial / Double"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-26T19:52:07+00:00",
+    "serving": "draft",
+    "rating": 4.5,
+    "beer_name": "Kriek 100% Lambic Bio",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": "Lambic - Kriek"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-03-26T19:43:40+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "Chocolate River Imperial Stout",
+    "brewery": "Vault City Brewing",
+    "beer_type": "Stout - Imperial / Double"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-26T19:39:58+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Anywhere Loud",
+    "brewery": "Metalhead",
+    "beer_type": "Pale Ale - Other"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-03-26T19:39:02+00:00",
+    "serving": "can",
+    "rating": 4.5,
+    "beer_name": "Chocolate River Imperial Stout",
+    "brewery": "Vault City Brewing",
+    "beer_type": "Stout - Imperial / Double"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-03-26T19:39:00+00:00",
+    "serving": "can",
+    "rating": 5.0,
+    "beer_name": "Chocolate River Imperial Stout",
+    "brewery": "Vault City Brewing",
+    "beer_type": "Stout - Imperial / Double"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-03-26T19:35:01+00:00",
+    "serving": "can",
+    "rating": 4.5,
+    "beer_name": "THE FUTURE IS HERE & EVERYTHING MUST CONTAIN EXTRA MILK SUGAR & THREE VARIETIES OF FRUIT - LUXURIOUS TREATMENT - 15 YEAR ANNIVERSARY BEER",
+    "brewery": "Evil Twin Brewing NYC",
+    "beer_type": "IPA - Sour"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-03-26T19:31:28+00:00",
+    "serving": "can",
+    "rating": 5.0,
+    "beer_name": "THE FUTURE IS HERE & EVERYTHING MUST CONTAIN EXTRA MILK SUGAR & THREE VARIETIES OF FRUIT - LUXURIOUS TREATMENT - 15 YEAR ANNIVERSARY BEER",
+    "brewery": "Evil Twin Brewing NYC",
+    "beer_type": "IPA - Sour"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-03-26T19:31:24+00:00",
+    "serving": "can",
+    "rating": 3.0,
+    "beer_name": "GilgaMash",
+    "brewery": "Birrificio Babylon",
+    "beer_type": "Belgian Tripel"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-03-26T19:30:35+00:00",
+    "serving": "can",
+    "rating": 4.5,
+    "beer_name": "THE FUTURE IS HERE & EVERYTHING MUST CONTAIN EXTRA MILK SUGAR & THREE VARIETIES OF FRUIT - LUXURIOUS TREATMENT - 15 YEAR ANNIVERSARY BEER",
+    "brewery": "Evil Twin Brewing NYC",
+    "beer_type": "IPA - Sour"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-03-26T19:26:33+00:00",
+    "serving": "can",
+    "rating": 2.5,
+    "beer_name": "GilgaMash",
+    "brewery": "Birrificio Babylon",
+    "beer_type": "Belgian Tripel"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-03-26T19:24:42+00:00",
+    "serving": "can",
+    "rating": 3.3,
+    "beer_name": "GilgaMash",
+    "brewery": "Birrificio Babylon",
+    "beer_type": "Belgian Tripel"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-03-26T19:22:45+00:00",
+    "serving": "can",
+    "rating": 4.8,
+    "beer_name": "Beauty - Pear Banana Walnuts",
+    "brewery": "Magic Road",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-03-26T19:19:52+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "Salpicón",
+    "brewery": "Tuletorn Brewing",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-03-26T19:18:51+00:00",
+    "serving": "can",
+    "rating": 4.3,
+    "beer_name": "Salpicón",
+    "brewery": "Tuletorn Brewing",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-03-26T19:18:07+00:00",
+    "serving": "can",
+    "rating": 5.0,
+    "beer_name": "Salpicón",
+    "brewery": "Tuletorn Brewing",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-03-26T19:17:22+00:00",
+    "serving": "can",
+    "rating": 3.8,
+    "beer_name": "Salpicón",
+    "brewery": "Tuletorn Brewing",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-26T19:15:28+00:00",
+    "serving": "draft",
+    "rating": 2.75,
+    "beer_name": "Abbey Mode",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Belgian Dubbel"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-26T19:14:12+00:00",
+    "serving": "bottle",
+    "rating": 4.5,
+    "beer_name": "Texas Terry",
+    "brewery": "Forager Brewery",
+    "beer_type": "Porter - Imperial / Double"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-03-26T19:13:36+00:00",
+    "serving": "can",
+    "rating": 4.2,
+    "beer_name": "Double Dry Hopped (DDH) Cloud City",
+    "brewery": "Narrow Gauge Brewing Company",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-03-26T19:12:31+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Bucharest Anyone?",
+    "brewery": "ULTIMA",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-03-26T19:11:12+00:00",
+    "serving": "can",
+    "rating": 4.75,
+    "beer_name": "Beauty - Pear Banana Walnuts",
+    "brewery": "Magic Road",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-03-26T19:10:52+00:00",
+    "serving": "can",
+    "rating": 4.2,
+    "beer_name": "Beauty - Pear Banana Walnuts",
+    "brewery": "Magic Road",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-03-26T19:10:01+00:00",
+    "serving": "can",
+    "rating": 5.0,
+    "beer_name": "Beauty - Pear Banana Walnuts",
+    "brewery": "Magic Road",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-03-26T19:10:00+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "Double Dry Hopped (DDH) Cloud City",
+    "brewery": "Narrow Gauge Brewing Company",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-03-26T19:09:01+00:00",
+    "serving": "draft",
+    "rating": 3.9,
+    "beer_name": "Bucharest Anyone?",
+    "brewery": "ULTIMA",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-26T19:08:12+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Tea Party: Masala",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pale Ale - Other"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-03-26T19:06:16+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Double Dry Hopped (DDH) Cloud City",
+    "brewery": "Narrow Gauge Brewing Company",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-03-26T19:03:09+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Double Dry Hopped (DDH) Cloud City",
+    "brewery": "Narrow Gauge Brewing Company",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-03-26T19:01:35+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Mango'rine Sorbet IPA",
+    "brewery": "Energy City Brewing",
+    "beer_type": "IPA - Sour"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-03-26T18:59:11+00:00",
+    "serving": "can",
+    "rating": 5.0,
+    "beer_name": "Mango'rine Sorbet IPA",
+    "brewery": "Energy City Brewing",
+    "beer_type": "IPA - Sour"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-03-26T18:57:27+00:00",
+    "serving": "can",
+    "rating": 3.8,
+    "beer_name": "Mango'rine Sorbet IPA",
+    "brewery": "Energy City Brewing",
+    "beer_type": "IPA - Sour"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-03-26T18:57:21+00:00",
+    "serving": "Unknown",
+    "rating": 4.1,
+    "beer_name": "Oswald",
+    "brewery": "Living Häus Beer Company",
+    "beer_type": "IPA - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-26T18:57:13+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Orange Crush",
+    "brewery": "BrewDog",
+    "beer_type": "IPA - Fruited"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-03-26T18:54:29+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Oswald",
+    "brewery": "Living Häus Beer Company",
+    "beer_type": "IPA - Other"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-03-26T18:53:47+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Meet Our Friends | From Budapest: Horizont Brewing - Beyond the Horizont",
+    "brewery": "Nepo Brewing",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-03-26T18:53:08+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "CHOPPING WOOD",
+    "brewery": "Evil Twin Brewing NYC",
+    "beer_type": "IPA - Imperial / Double New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-03-26T18:51:26+00:00",
+    "serving": "can",
+    "rating": 3.9,
+    "beer_name": "Oswald",
+    "brewery": "Living Häus Beer Company",
+    "beer_type": "IPA - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-26T18:51:06+00:00",
+    "serving": "bottle",
+    "rating": 4.25,
+    "beer_name": "Old Fitz",
+    "brewery": "Tempest Brewing Co.",
+    "beer_type": "Barleywine - Other"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-03-26T18:51:03+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Oswald",
+    "brewery": "Living Häus Beer Company",
+    "beer_type": "IPA - Other"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-03-26T18:50:04+00:00",
+    "serving": "Unknown",
+    "rating": 4.5,
+    "beer_name": "Bucharest Anyone?",
+    "brewery": "ULTIMA",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-03-26T18:49:33+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "CHOPPING WOOD",
+    "brewery": "Evil Twin Brewing NYC",
+    "beer_type": "IPA - Imperial / Double New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-03-26T18:48:53+00:00",
+    "serving": "draft",
+    "rating": 3.8,
+    "beer_name": "CHOPPING WOOD",
+    "brewery": "Evil Twin Brewing NYC",
+    "beer_type": "IPA - Imperial / Double New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-03-26T18:47:00+00:00",
+    "serving": "can",
+    "rating": 4.75,
+    "beer_name": "I TOLD YOU! I SPENT IT WITH MY UNCLE IN ALASKA HUNTING WOLVERINES!",
+    "brewery": "Evil Twin Brewing NYC",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-03-26T18:30:18+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Abbey Mode",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Belgian Dubbel"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-26T18:27:30+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Hoppywood Pils",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Lager - IPL (India Pale Lager)"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-03-26T18:25:00+00:00",
+    "serving": "can",
+    "rating": 4.3,
+    "beer_name": "Hydra Glizzy",
+    "brewery": "Mortalis Brewing Company",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-03-26T17:48:28+00:00",
+    "serving": "can",
+    "rating": 4.75,
+    "beer_name": "I TOLD YOU! I SPENT IT WITH MY UNCLE IN ALASKA HUNTING WOLVERINES!",
+    "brewery": "Evil Twin Brewing NYC",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-26T17:27:10+00:00",
+    "serving": "bottle",
+    "rating": 4.5,
+    "beer_name": "Tiramisu Bänger",
+    "brewery": "Põhjala",
+    "beer_type": "Stout - Imperial / Double Coffee"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-03-26T17:23:17+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Bucharest Anyone?",
+    "brewery": "ULTIMA",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-26T17:12:31+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "Kriek 100% Lambic Bio",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": "Lambic - Kriek"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-26T16:50:23+00:00",
+    "serving": "draft",
+    "rating": 3.0,
+    "beer_name": "Hoppywood Pils",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Lager - IPL (India Pale Lager)"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-26T16:44:30+00:00",
+    "serving": "draft",
+    "rating": 4.5,
+    "beer_name": "Kriek 100% Lambic Bio",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": "Lambic - Kriek"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-26T16:18:18+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Pleroma Karpologi Pineapple Peach Marshmallow Créme Brulée Sour",
+    "brewery": "Omnipollo",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-03-26T14:52:05+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Bucharest Anyone?",
+    "brewery": "ULTIMA",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-03-26T14:26:39+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Hop Squad 2026",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-03-26T14:26:05+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Porter & Sons - Salted Caramel",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Porter - Other"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-03-26T13:53:35+00:00",
+    "serving": "draft",
+    "rating": 5.0,
+    "beer_name": "CHOPPING WOOD",
+    "brewery": "Evil Twin Brewing NYC",
+    "beer_type": "IPA - Imperial / Double New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-03-26T09:56:24+00:00",
+    "serving": "draft",
+    "rating": 2.75,
+    "beer_name": "Buster's Spiced Cider",
+    "brewery": "Oak & Ash",
+    "beer_type": "Cider - Traditional / Apfelwein"
+  },
   {
     "venue": "b7-beer-house",
     "time": "2026-03-25T20:54:12+00:00",
@@ -22138,7 +22912,7 @@ const BEER_DATA = [
     "venue": "b7-beer-house",
     "time": "2026-01-25T20:44:31+00:00",
     "serving": "can",
-    "rating": 3.0,
+    "rating": 3.8,
     "beer_name": "Gelato: Syrniki",
     "brewery": "Funky Fluid",
     "beer_type": "Sour - Smoothie / Pastry"
@@ -22147,7 +22921,7 @@ const BEER_DATA = [
     "venue": "b7-beer-house",
     "time": "2026-01-25T20:44:31+00:00",
     "serving": "can",
-    "rating": 3.8,
+    "rating": 3.0,
     "beer_name": "Gelato: Syrniki",
     "brewery": "Funky Fluid",
     "beer_type": "Sour - Smoothie / Pastry"
@@ -44446,7 +45220,7 @@ const BEER_DATA = [
     "beer_type": "IPA - Belgian"
   },
   {
-    "venue": "schnitt-brewing-company",
+    "venue": "lauter",
     "time": "2025-12-14T20:46:46+00:00",
     "serving": "draft",
     "rating": 3.7,
@@ -44455,7 +45229,7 @@ const BEER_DATA = [
     "beer_type": "Porter - American"
   },
   {
-    "venue": "lauter",
+    "venue": "schnitt-brewing-company",
     "time": "2025-12-14T20:46:46+00:00",
     "serving": "draft",
     "rating": 3.7,
@@ -96810,20 +97584,20 @@ const BEER_DATA = [
   {
     "venue": "b7-beer-house",
     "time": "2025-08-21T15:59:11+00:00",
-    "serving": "can",
-    "rating": 3.8,
-    "beer_name": "Peach Rings",
-    "brewery": "Vault City Brewing",
-    "beer_type": "Sour - Fruited"
-  },
-  {
-    "venue": "b7-beer-house",
-    "time": "2025-08-21T15:59:11+00:00",
     "serving": "Unknown",
     "rating": 4.0,
     "beer_name": "Naughty & Nice - White Chocolate & Raspberry",
     "brewery": "Vocation Brewery",
     "beer_type": "Stout - White / Golden"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-21T15:59:11+00:00",
+    "serving": "can",
+    "rating": 3.8,
+    "beer_name": "Peach Rings",
+    "brewery": "Vault City Brewing",
+    "beer_type": "Sour - Fruited"
   },
   {
     "venue": "b7-beer-house",
@@ -104001,8 +104775,8 @@ const BEER_DATA = [
   {
     "venue": "lauter",
     "time": "2025-08-05T18:49:38+00:00",
-    "serving": "can",
-    "rating": 4.0,
+    "serving": "Unknown",
+    "rating": 4.5,
     "beer_name": "Whakahoa",
     "brewery": "Factory Brewing",
     "beer_type": "IPA - Triple New England / Hazy"
@@ -104010,8 +104784,8 @@ const BEER_DATA = [
   {
     "venue": "lauter",
     "time": "2025-08-05T18:49:38+00:00",
-    "serving": "Unknown",
-    "rating": 4.5,
+    "serving": "can",
+    "rating": 4.0,
     "beer_name": "Whakahoa",
     "brewery": "Factory Brewing",
     "beer_type": "IPA - Triple New England / Hazy"
@@ -111075,20 +111849,20 @@ const BEER_DATA = [
   {
     "venue": "lauter",
     "time": "2025-07-26T15:22:08+00:00",
-    "serving": "Unknown",
-    "rating": 4.0,
-    "beer_name": "Pijże",
-    "brewery": "Nepo Brewing",
-    "beer_type": "Pale Ale - New England / Hazy"
-  },
-  {
-    "venue": "lauter",
-    "time": "2025-07-26T15:22:08+00:00",
     "serving": "can",
     "rating": 4.2,
     "beer_name": "Smoothie Bowl: Pistachio Fluff",
     "brewery": "Nepo Brewing",
     "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-07-26T15:22:08+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Pijże",
+    "brewery": "Nepo Brewing",
+    "beer_type": "Pale Ale - New England / Hazy"
   },
   {
     "venue": "lauter",
