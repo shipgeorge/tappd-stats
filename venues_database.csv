@@ -1,4 +1,36 @@
 venue,user,time,serving,data_rating,beer_name,brewery,beer_type
+b7-beer-house,Alex Fux,"Fri, 27 Mar 2026 20:40:18 +0000",can,3.5,Mad Cow,HORIZONT Brewing,Stout - Milk / Sweet
+lauter,Amit Carmi,"Fri, 27 Mar 2026 20:15:09 +0000",draft,3.25,Hoppywood Pils,Schnitt Brewing Company﻿,Lager - IPL (India Pale Lager)
+lauter,Nirit Agiv,"Fri, 27 Mar 2026 19:13:59 +0000",can,4.3,Bucharest Anyone?,ULTIMA,Sour - Fruited
+lauter,Nirit Agiv,"Fri, 27 Mar 2026 19:13:16 +0000",can,3.3,Oktober Klassiker,HORIZONT Brewing,Märzen
+lauter,Amit Carmi,"Fri, 27 Mar 2026 19:10:58 +0000",draft,4.5,Kriek 2025 - Draft Version,Brasserie Cantillon,Lambic - Kriek
+lauter,Amit Carmi,"Fri, 27 Mar 2026 19:10:21 +0000",can,3.5,"Open Craft 2025: Banana, Kiwi, Mango, Lime x Pineapple",Nepo Brewing,Sour - Smoothie / Pastry
+lauter,Shmupi Koto,"Fri, 27 Mar 2026 19:07:57 +0000",draft,4.5,Bucharest Anyone?,ULTIMA,Sour - Fruited
+lauter,Shmupi Koto,"Fri, 27 Mar 2026 18:58:08 +0000",bottle,4.0,Aecht Schlenkerla Rauchbier – Märzen,"Schlenkerla (""Heller-Bräu"" Trum)",Rauchbier
+lauter,Niv Gellert,"Fri, 27 Mar 2026 18:38:38 +0000",,4.0,Kriek 100% Lambic Bio,Brasserie Cantillon,Lambic - Kriek
+lauter,David Siegel,"Fri, 27 Mar 2026 18:31:24 +0000",can,4.0,Journey 1100,HORIZONT Brewing,Pilsner - American
+lauter,AfekStein12,"Fri, 27 Mar 2026 18:31:04 +0000",draft,3.5,Hadar הדר,Schnitt Brewing Company﻿,Wheat Beer - Witbier / Blanche
+lauter,David Siegel,"Fri, 27 Mar 2026 16:57:53 +0000",bottle,3.75,Oktoberfest,Shevet (שבט),Festbier
+lauter,David Siegel,"Fri, 27 Mar 2026 15:57:00 +0000",can,4.5,MAKE IT FRUITY TIGER'S BLOOD,Evil Twin Brewing NYC,Sour - Fruited
+b7-beer-house,Yuval Lutski,"Fri, 27 Mar 2026 11:49:37 +0000",draft,4.0,חוצה ישראל,New Pioneer Brewing Co - חלוץ חדש,Wheat Beer - Other
+b7-beer-house,Dima Shleifman,"Fri, 27 Mar 2026 10:41:50 +0000",draft,3.75,Buster's Spiced Cider,Oak & Ash,Cider - Traditional / Apfelwein
+b7-beer-house,Yuval Lutski,"Fri, 27 Mar 2026 10:39:14 +0000",can,3.5,Black Oat 20,Rodinný pivovar Zichovec,Stout - Imperial / Double Oatmeal
+b7-beer-house,Natalia Ya,"Fri, 27 Mar 2026 10:38:35 +0000",can,4.75,Black Oat 20,Rodinný pivovar Zichovec,Stout - Imperial / Double Oatmeal
+b7-beer-house,Dima Shleifman,"Fri, 27 Mar 2026 10:36:10 +0000",can,3.75,Black Oat 20,Rodinný pivovar Zichovec,Stout - Imperial / Double Oatmeal
+b7-beer-house,Yotam Bar-natan,"Fri, 27 Mar 2026 10:33:21 +0000",can,3.7,Black Oat 20,Rodinný pivovar Zichovec,Stout - Imperial / Double Oatmeal
+b7-beer-house,Yuval Lutski,"Fri, 27 Mar 2026 10:27:04 +0000",can,4.5,Mosaic Ale 12,Rodinný pivovar Zichovec,Pale Ale - American
+b7-beer-house,Natalia Ya,"Fri, 27 Mar 2026 10:24:41 +0000",can,4.5,Mosaic Ale 12,Rodinný pivovar Zichovec,Pale Ale - American
+b7-beer-house,Yotam Bar-natan,"Fri, 27 Mar 2026 10:21:53 +0000",can,3.7,Mosaic Ale 12,Rodinný pivovar Zichovec,Pale Ale - American
+b7-beer-house,Natalia Ya,"Fri, 27 Mar 2026 10:19:02 +0000",can,4.75,MAKE IT FRUITY PEACH APRICOT,Evil Twin Brewing NYC,Sour - Fruited
+b7-beer-house,Natalia Ya,"Fri, 27 Mar 2026 10:17:53 +0000",can,4.5,MAKE IT FRUITY PEACH APRICOT,Evil Twin Brewing NYC,Sour - Fruited
+b7-beer-house,Yuval Lutski,"Fri, 27 Mar 2026 09:44:35 +0000",can,2.25,Chocolate River Imperial Stout,Vault City Brewing,Stout - Imperial / Double
+b7-beer-house,Yuval Lutski,"Fri, 27 Mar 2026 09:44:16 +0000",can,4.0,THE FUTURE IS HERE & EVERYTHING MUST CONTAIN EXTRA MILK SUGAR & THREE VARIETIES OF FRUIT - LUXURIOUS TREATMENT - 15 YEAR ANNIVERSARY BEER,Evil Twin Brewing NYC,IPA - Sour
+b7-beer-house,Yuval Lutski,"Fri, 27 Mar 2026 09:43:59 +0000",can,3.5,GilgaMash,Birrificio Babylon,Belgian Tripel
+b7-beer-house,Yuval Lutski,"Fri, 27 Mar 2026 09:43:43 +0000",can,4.5,Salpicón,Tuletorn Brewing,Sour - Smoothie / Pastry
+b7-beer-house,Yuval Lutski,"Fri, 27 Mar 2026 09:43:22 +0000",can,4.0,Beauty - Pear Banana Walnuts,Magic Road,Sour - Smoothie / Pastry
+b7-beer-house,Yuval Lutski,"Fri, 27 Mar 2026 09:42:47 +0000",can,3.75,Mango'rine Sorbet IPA,Energy City Brewing,IPA - Sour
+b7-beer-house,Yuval Lutski,"Fri, 27 Mar 2026 09:42:32 +0000",can,4.0,Oswald,Living Häus Beer Company,IPA - Other
+b7-beer-house,Dima Shleifman,"Fri, 27 Mar 2026 09:23:47 +0000",draft,3.75,Meet Our Friends | From Budapest: Horizont Brewing - Beyond the Horizont,Nepo Brewing,IPA - New England / Hazy
 b7-beer-house,Eli Smikin,"Fri, 27 Mar 2026 06:17:47 +0000",draft,3.9,I TOLD YOU! I SPENT IT WITH MY UNCLE IN ALASKA HUNTING WOLVERINES!,Evil Twin Brewing NYC,IPA - New England / Hazy
 b7-beer-house,Eli Smikin,"Thu, 26 Mar 2026 23:58:26 +0000",,4.2,Chocolate River Imperial Stout,Vault City Brewing,Stout - Imperial / Double
 b7-beer-house,Eli Smikin,"Thu, 26 Mar 2026 22:59:12 +0000",can,4.2,MAKE IT FRUITY PEACH APRICOT,Evil Twin Brewing NYC,Sour - Fruited
@@ -699,8 +731,8 @@ b7-beer-house,Yuval Lutski,"Mon, 09 Mar 2026 16:06:57 +0000",can,4.25,Boh (2024)
 b7-beer-house,Yotam Bar-natan,"Mon, 09 Mar 2026 16:04:54 +0000",can,4.1,Boh (2024),FUERST WIACEK Berlin,IPA - New England / Hazy
 b7-beer-house,Yotam Bar-natan,"Mon, 09 Mar 2026 16:03:24 +0000",can,3.6,Yakima IPA,Jacobsen,IPA - American
 b7-beer-house,Yuval Lutski,"Mon, 09 Mar 2026 15:56:41 +0000",can,4.0,Yakima IPA,Jacobsen,IPA - American
-b7-beer-house,Yuval Lutski,"Mon, 09 Mar 2026 15:56:07 +0000",can,3.25,Brown Ale,Jacobsen,Brown Ale - English
 b7-beer-house,Yotam Bar-natan,"Mon, 09 Mar 2026 15:56:07 +0000",can,3.6,Yakima IPA,Jacobsen,IPA - American
+b7-beer-house,Yuval Lutski,"Mon, 09 Mar 2026 15:56:07 +0000",can,3.25,Brown Ale,Jacobsen,Brown Ale - English
 b7-beer-house,Yotam Bar-natan,"Mon, 09 Mar 2026 15:51:52 +0000",can,2.9,Brown Ale,Jacobsen,Brown Ale - English
 schnitt-brewing-company,fselfws,"Mon, 09 Mar 2026 15:43:55 +0000",draft,3.75,What Was Was,Schnitt Brewing Company﻿,IPA - New England / Hazy
 lauter,KarpatychЪ Tych,"Mon, 09 Mar 2026 13:20:21 +0000",,4.5,Alon vs. אלון,Schnitt Brewing Company﻿,Porter - Baltic
@@ -5023,8 +5055,8 @@ lauter,ParkerAsaf,"Mon, 15 Dec 2025 14:05:21 +0000",bottle,3.75,Maredsous Triple
 lauter,ParkerAsaf,"Mon, 15 Dec 2025 14:03:48 +0000",bottle,4.25,"Chimay Grande Réserve Fermentée En Barriques - Chêne Français, Chêne Américain, Brandy (02/2024)",Bières de Chimay,Belgian Strong Dark Ale
 lauter,ParkerAsaf,"Mon, 15 Dec 2025 13:59:24 +0000",bottle,3.75,N'Ice Chouffe,Brasserie d'Achouffe,Winter Ale
 lauter,ParkerAsaf,"Mon, 15 Dec 2025 13:55:18 +0000",bottle,3.5,Chouffe IPA,Brasserie d'Achouffe,IPA - Belgian
-lauter,Shmupi Koto,"Sun, 14 Dec 2025 20:46:46 +0000",draft,3.7,Nightmare Fuel,Schnitt Brewing Company﻿,Porter - American
 schnitt-brewing-company,Nirit Agiv,"Sun, 14 Dec 2025 20:46:46 +0000",draft,3.7,Nightmare Fuel,Schnitt Brewing Company﻿,Porter - American
+lauter,Shmupi Koto,"Sun, 14 Dec 2025 20:46:46 +0000",draft,3.7,Nightmare Fuel,Schnitt Brewing Company﻿,Porter - American
 lauter,Shmupi Koto,"Sun, 14 Dec 2025 20:25:36 +0000",draft,4.5,Gueuze Tilquin – Draft Version,Gueuzerie Tilquin,Lambic - Gueuze
 schnitt-brewing-company,Chinese Uncle,"Sun, 14 Dec 2025 19:50:56 +0000",draft,3.5,Lazy Bee Hibiscus And Raspberries,Schnitt Brewing Company﻿,Mead - Session / Short
 b7-beer-house,Yotam Bar-natan,"Sun, 14 Dec 2025 19:43:50 +0000",can,3.9,Vesper,Ophiussa,Sour - Smoothie / Pastry
@@ -6259,8 +6291,8 @@ b7-beer-house,Eylon,"Fri, 21 Nov 2025 10:36:46 +0000",bottle,4.0,Grapefruit Peel
 b7-beer-house,barak luzon,"Fri, 21 Nov 2025 10:36:42 +0000",bottle,4.25,Grapefruit Peel Lambiek - Sparkling Infused,Oud Beersel,Lambic - Other
 b7-beer-house,Ido Meir,"Fri, 21 Nov 2025 10:36:33 +0000",draft,4.25,Oude Gueuze Tilquin à l'ancienne - Lambics Vieillis en Fûts de Whisky,Gueuzerie Tilquin,Lambic - Gueuze
 b7-beer-house,Yaniv Alal,"Fri, 21 Nov 2025 10:36:26 +0000",,4.25,Pink Pepper Infused Lambic,Oud Beersel,Lambic - Other
-b7-beer-house,Ido Meir,"Fri, 21 Nov 2025 10:35:21 +0000",bottle,4.25,Grapefruit Peel Lambiek - Sparkling Infused,Oud Beersel,Lambic - Other
 b7-beer-house,Israel Shenkman,"Fri, 21 Nov 2025 10:35:21 +0000",bottle,4.25,Rullquin au café du Rwanda,Gueuzerie Tilquin,Sour - Other
+b7-beer-house,Ido Meir,"Fri, 21 Nov 2025 10:35:21 +0000",bottle,4.25,Grapefruit Peel Lambiek - Sparkling Infused,Oud Beersel,Lambic - Other
 b7-beer-house,Israel Shenkman,"Fri, 21 Nov 2025 10:34:09 +0000",bottle,4.5,Rullquin au café d'Éthiopie,Gueuzerie Tilquin,Sour - Other
 b7-beer-house,Ido Cohen,"Fri, 21 Nov 2025 10:33:43 +0000",can,4.0,Rullquin au café du Rwanda,Gueuzerie Tilquin,Sour - Other
 lauter,Lee Ker,"Fri, 21 Nov 2025 10:33:20 +0000",,,Budweiser Budvar / Czechvar Original,Budějovický Budvar,Pilsner - Czech / Bohemian
@@ -7969,8 +8001,8 @@ lauter,Omer Shahar,"Sun, 19 Oct 2025 19:40:35 +0000",draft,3.5,"Shut Up And Drin
 porter-and-sons,Shmupi Koto,"Sun, 19 Oct 2025 19:33:53 +0000",draft,4.7,Quetsche Tilquin – Draft Version,Gueuzerie Tilquin,Lambic - Fruit
 lauter,Shmupi Koto,"Sun, 19 Oct 2025 19:32:51 +0000",bottle,4.0,Aecht Schlenkerla Rauchbier – Märzen,"Schlenkerla (""Heller-Bräu"" Trum)",Rauchbier
 lauter,Tal,"Sun, 19 Oct 2025 19:27:16 +0000",bottle,4.0,Bjorn's Beer,Attali's Family Brewery,IPA - American
-lauter,adi_zadik_2741,"Sun, 19 Oct 2025 19:17:21 +0000",bottle,3.25,Bjorn's Beer,Attali's Family Brewery,IPA - American
 schnitt-brewing-company,May Cohen,"Sun, 19 Oct 2025 19:17:21 +0000",can,4.25,Plum Waffle,Duncan's Brewing,Sour - Smoothie / Pastry
+lauter,adi_zadik_2741,"Sun, 19 Oct 2025 19:17:21 +0000",bottle,3.25,Bjorn's Beer,Attali's Family Brewery,IPA - American
 lauter,Tal,"Sun, 19 Oct 2025 18:51:53 +0000",draft,3.75,"Shut Up And Drink Me! (שת""פ)",Schnitt Brewing Company﻿,Historical Beer - Lichtenhainer
 schnitt-brewing-company,May Cohen,"Sun, 19 Oct 2025 18:34:54 +0000",can,4.5,Jetphilia,Totopia Brewery,Stout - Imperial / Double
 beerline,Slava Gladchenko,"Sun, 19 Oct 2025 18:23:28 +0000",,3.0,Benediktiner Weissbier,Benediktiner Weissbräu,Wheat Beer - Hefeweizen

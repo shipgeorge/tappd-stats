@@ -1,8 +1,296 @@
 // 🍺 BEER STATS DATA - Generated automatically
-// Last updated: 2026-03-27 07:21:16
-// Total records: 14640
+// Last updated: 2026-03-28 07:08:58
+// Total records: 14672
 
 const BEER_DATA = [
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-03-27T20:40:18+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Mad Cow",
+    "brewery": "HORIZONT Brewing",
+    "beer_type": "Stout - Milk / Sweet"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-27T20:15:09+00:00",
+    "serving": "draft",
+    "rating": 3.25,
+    "beer_name": "Hoppywood Pils",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Lager - IPL (India Pale Lager)"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-27T19:13:59+00:00",
+    "serving": "can",
+    "rating": 4.3,
+    "beer_name": "Bucharest Anyone?",
+    "brewery": "ULTIMA",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-27T19:13:16+00:00",
+    "serving": "can",
+    "rating": 3.3,
+    "beer_name": "Oktober Klassiker",
+    "brewery": "HORIZONT Brewing",
+    "beer_type": "Märzen"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-27T19:10:58+00:00",
+    "serving": "draft",
+    "rating": 4.5,
+    "beer_name": "Kriek 2025 - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": "Lambic - Kriek"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-27T19:10:21+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Open Craft 2025: Banana, Kiwi, Mango, Lime x Pineapple",
+    "brewery": "Nepo Brewing",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-27T19:07:57+00:00",
+    "serving": "draft",
+    "rating": 4.5,
+    "beer_name": "Bucharest Anyone?",
+    "brewery": "ULTIMA",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-27T18:58:08+00:00",
+    "serving": "bottle",
+    "rating": 4.0,
+    "beer_name": "Aecht Schlenkerla Rauchbier – Märzen",
+    "brewery": "Schlenkerla (\"Heller-Bräu\" Trum)",
+    "beer_type": "Rauchbier"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-27T18:38:38+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Kriek 100% Lambic Bio",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": "Lambic - Kriek"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-27T18:31:24+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Journey 1100",
+    "brewery": "HORIZONT Brewing",
+    "beer_type": "Pilsner - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-27T18:31:04+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Hadar הדר",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Wheat Beer - Witbier / Blanche"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-27T16:57:53+00:00",
+    "serving": "bottle",
+    "rating": 3.75,
+    "beer_name": "Oktoberfest",
+    "brewery": "Shevet (שבט)",
+    "beer_type": "Festbier"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-27T15:57:00+00:00",
+    "serving": "can",
+    "rating": 4.5,
+    "beer_name": "MAKE IT FRUITY TIGER'S BLOOD",
+    "brewery": "Evil Twin Brewing NYC",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-03-27T11:49:37+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "חוצה ישראל",
+    "brewery": "New Pioneer Brewing Co - חלוץ חדש",
+    "beer_type": "Wheat Beer - Other"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-03-27T10:41:50+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Buster's Spiced Cider",
+    "brewery": "Oak & Ash",
+    "beer_type": "Cider - Traditional / Apfelwein"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-03-27T10:39:14+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Black Oat 20",
+    "brewery": "Rodinný pivovar Zichovec",
+    "beer_type": "Stout - Imperial / Double Oatmeal"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-03-27T10:38:35+00:00",
+    "serving": "can",
+    "rating": 4.75,
+    "beer_name": "Black Oat 20",
+    "brewery": "Rodinný pivovar Zichovec",
+    "beer_type": "Stout - Imperial / Double Oatmeal"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-03-27T10:36:10+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Black Oat 20",
+    "brewery": "Rodinný pivovar Zichovec",
+    "beer_type": "Stout - Imperial / Double Oatmeal"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-03-27T10:33:21+00:00",
+    "serving": "can",
+    "rating": 3.7,
+    "beer_name": "Black Oat 20",
+    "brewery": "Rodinný pivovar Zichovec",
+    "beer_type": "Stout - Imperial / Double Oatmeal"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-03-27T10:27:04+00:00",
+    "serving": "can",
+    "rating": 4.5,
+    "beer_name": "Mosaic Ale 12",
+    "brewery": "Rodinný pivovar Zichovec",
+    "beer_type": "Pale Ale - American"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-03-27T10:24:41+00:00",
+    "serving": "can",
+    "rating": 4.5,
+    "beer_name": "Mosaic Ale 12",
+    "brewery": "Rodinný pivovar Zichovec",
+    "beer_type": "Pale Ale - American"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-03-27T10:21:53+00:00",
+    "serving": "can",
+    "rating": 3.7,
+    "beer_name": "Mosaic Ale 12",
+    "brewery": "Rodinný pivovar Zichovec",
+    "beer_type": "Pale Ale - American"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-03-27T10:19:02+00:00",
+    "serving": "can",
+    "rating": 4.75,
+    "beer_name": "MAKE IT FRUITY PEACH APRICOT",
+    "brewery": "Evil Twin Brewing NYC",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-03-27T10:17:53+00:00",
+    "serving": "can",
+    "rating": 4.5,
+    "beer_name": "MAKE IT FRUITY PEACH APRICOT",
+    "brewery": "Evil Twin Brewing NYC",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-03-27T09:44:35+00:00",
+    "serving": "can",
+    "rating": 2.25,
+    "beer_name": "Chocolate River Imperial Stout",
+    "brewery": "Vault City Brewing",
+    "beer_type": "Stout - Imperial / Double"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-03-27T09:44:16+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "THE FUTURE IS HERE & EVERYTHING MUST CONTAIN EXTRA MILK SUGAR & THREE VARIETIES OF FRUIT - LUXURIOUS TREATMENT - 15 YEAR ANNIVERSARY BEER",
+    "brewery": "Evil Twin Brewing NYC",
+    "beer_type": "IPA - Sour"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-03-27T09:43:59+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "GilgaMash",
+    "brewery": "Birrificio Babylon",
+    "beer_type": "Belgian Tripel"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-03-27T09:43:43+00:00",
+    "serving": "can",
+    "rating": 4.5,
+    "beer_name": "Salpicón",
+    "brewery": "Tuletorn Brewing",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-03-27T09:43:22+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Beauty - Pear Banana Walnuts",
+    "brewery": "Magic Road",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-03-27T09:42:47+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Mango'rine Sorbet IPA",
+    "brewery": "Energy City Brewing",
+    "beer_type": "IPA - Sour"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-03-27T09:42:32+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Oswald",
+    "brewery": "Living Häus Beer Company",
+    "beer_type": "IPA - Other"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-03-27T09:23:47+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Meet Our Friends | From Budapest: Horizont Brewing - Beyond the Horizont",
+    "brewery": "Nepo Brewing",
+    "beer_type": "IPA - New England / Hazy"
+  },
   {
     "venue": "b7-beer-house",
     "time": "2026-03-27T06:17:47+00:00",
@@ -6307,19 +6595,19 @@ const BEER_DATA = [
     "venue": "b7-beer-house",
     "time": "2026-03-09T15:56:07+00:00",
     "serving": "can",
-    "rating": 3.25,
-    "beer_name": "Brown Ale",
+    "rating": 3.6,
+    "beer_name": "Yakima IPA",
     "brewery": "Jacobsen",
-    "beer_type": "Brown Ale - English"
+    "beer_type": "IPA - American"
   },
   {
     "venue": "b7-beer-house",
     "time": "2026-03-09T15:56:07+00:00",
     "serving": "can",
-    "rating": 3.6,
-    "beer_name": "Yakima IPA",
+    "rating": 3.25,
+    "beer_name": "Brown Ale",
     "brewery": "Jacobsen",
-    "beer_type": "IPA - American"
+    "beer_type": "Brown Ale - English"
   },
   {
     "venue": "b7-beer-house",
@@ -45220,7 +45508,7 @@ const BEER_DATA = [
     "beer_type": "IPA - Belgian"
   },
   {
-    "venue": "lauter",
+    "venue": "schnitt-brewing-company",
     "time": "2025-12-14T20:46:46+00:00",
     "serving": "draft",
     "rating": 3.7,
@@ -45229,7 +45517,7 @@ const BEER_DATA = [
     "beer_type": "Porter - American"
   },
   {
-    "venue": "schnitt-brewing-company",
+    "venue": "lauter",
     "time": "2025-12-14T20:46:46+00:00",
     "serving": "draft",
     "rating": 3.7,
@@ -56348,18 +56636,18 @@ const BEER_DATA = [
     "time": "2025-11-21T10:35:21+00:00",
     "serving": "bottle",
     "rating": 4.25,
-    "beer_name": "Grapefruit Peel Lambiek - Sparkling Infused",
-    "brewery": "Oud Beersel",
-    "beer_type": "Lambic - Other"
+    "beer_name": "Rullquin au café du Rwanda",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": "Sour - Other"
   },
   {
     "venue": "b7-beer-house",
     "time": "2025-11-21T10:35:21+00:00",
     "serving": "bottle",
     "rating": 4.25,
-    "beer_name": "Rullquin au café du Rwanda",
-    "brewery": "Gueuzerie Tilquin",
-    "beer_type": "Sour - Other"
+    "beer_name": "Grapefruit Peel Lambiek - Sparkling Infused",
+    "brewery": "Oud Beersel",
+    "beer_type": "Lambic - Other"
   },
   {
     "venue": "b7-beer-house",
@@ -71734,15 +72022,6 @@ const BEER_DATA = [
     "beer_type": "IPA - American"
   },
   {
-    "venue": "lauter",
-    "time": "2025-10-19T19:17:21+00:00",
-    "serving": "bottle",
-    "rating": 3.25,
-    "beer_name": "Bjorn's Beer",
-    "brewery": "Attali's Family Brewery",
-    "beer_type": "IPA - American"
-  },
-  {
     "venue": "schnitt-brewing-company",
     "time": "2025-10-19T19:17:21+00:00",
     "serving": "can",
@@ -71750,6 +72029,15 @@ const BEER_DATA = [
     "beer_name": "Plum Waffle",
     "brewery": "Duncan's Brewing",
     "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-10-19T19:17:21+00:00",
+    "serving": "bottle",
+    "rating": 3.25,
+    "beer_name": "Bjorn's Beer",
+    "brewery": "Attali's Family Brewery",
+    "beer_type": "IPA - American"
   },
   {
     "venue": "lauter",
