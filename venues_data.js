@@ -1,8 +1,251 @@
 // 🍺 BEER STATS DATA - Generated automatically
-// Last updated: 2026-03-28 07:08:58
-// Total records: 14672
+// Last updated: 2026-03-29 07:15:45
+// Total records: 14699
 
 const BEER_DATA = [
+  {
+    "venue": "beerz",
+    "time": "2026-03-28T22:47:27+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "Void Spawn",
+    "brewery": "HORIZONT Brewing",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "beerz",
+    "time": "2026-03-28T21:17:22+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Day Maker",
+    "brewery": "Thornbridge Brewery",
+    "beer_type": "IPA - Session"
+  },
+  {
+    "venue": "beerz",
+    "time": "2026-03-28T21:12:27+00:00",
+    "serving": "can",
+    "rating": 3.25,
+    "beer_name": "Void Spawn",
+    "brewery": "HORIZONT Brewing",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "beerz",
+    "time": "2026-03-28T20:36:54+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Void Spawn",
+    "brewery": "HORIZONT Brewing",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "beerz",
+    "time": "2026-03-28T20:27:29+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Bucharest Anyone?",
+    "brewery": "ULTIMA",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "beerz",
+    "time": "2026-03-28T20:26:37+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Penalty Hero",
+    "brewery": "HORIZONT Brewing",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "beerz",
+    "time": "2026-03-28T20:24:19+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Bucharest Anyone?",
+    "brewery": "ULTIMA",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "beerz",
+    "time": "2026-03-28T20:09:51+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Penalty Hero",
+    "brewery": "HORIZONT Brewing",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "beerz",
+    "time": "2026-03-28T20:09:20+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "Penalty Hero",
+    "brewery": "HORIZONT Brewing",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-28T19:54:32+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Bucharest Anyone?",
+    "brewery": "ULTIMA",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-28T18:23:53+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "MAKE IT FRUITY TIGER'S BLOOD",
+    "brewery": "Evil Twin Brewing NYC",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-28T18:23:04+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "MAKE IT FRUITY TIGER'S BLOOD",
+    "brewery": "Evil Twin Brewing NYC",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-28T18:22:53+00:00",
+    "serving": "can",
+    "rating": 2.75,
+    "beer_name": "Oktober Klassiker",
+    "brewery": "HORIZONT Brewing",
+    "beer_type": "Märzen"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-28T18:13:58+00:00",
+    "serving": "can",
+    "rating": 3.0,
+    "beer_name": "Oktober Klassiker",
+    "brewery": "HORIZONT Brewing",
+    "beer_type": "Märzen"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-28T18:08:24+00:00",
+    "serving": "bottle",
+    "rating": 4.0,
+    "beer_name": "Saint Lamvinus",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-28T18:00:40+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Lazy Bee Hibiscus And Raspberries",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Mead - Session / Short"
+  },
+  {
+    "venue": "beerline",
+    "time": "2026-03-28T17:39:51+00:00",
+    "serving": "draft",
+    "rating": 1.5,
+    "beer_name": "Original Cider (Irish) By Sainsbury's",
+    "brewery": "Magners Irish Cider",
+    "beer_type": "Cider - Dry"
+  },
+  {
+    "venue": "beerline",
+    "time": "2026-03-28T17:39:15+00:00",
+    "serving": "draft",
+    "rating": 1.5,
+    "beer_name": "Lidski bread kvass (Квас Лидский Хлебный)",
+    "brewery": "Lidskae Piva (Лідскае Піва)",
+    "beer_type": "Kvass"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-28T17:29:19+00:00",
+    "serving": "can",
+    "rating": 2.5,
+    "beer_name": "I THOUGHT IT WAS BREAKFAST BUT IT WAS FEELINGS",
+    "brewery": "Evil Twin Brewing NYC",
+    "beer_type": "Stout - Oatmeal"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-28T17:17:05+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Hop Me Baby",
+    "brewery": "HORIZONT Brewing",
+    "beer_type": "IPA - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-28T17:03:08+00:00",
+    "serving": "bottle",
+    "rating": 4.0,
+    "beer_name": "Saint Lamvinus",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-28T17:00:45+00:00",
+    "serving": "can",
+    "rating": 2.75,
+    "beer_name": "I THOUGHT IT WAS BREAKFAST BUT IT WAS FEELINGS",
+    "brewery": "Evil Twin Brewing NYC",
+    "beer_type": "Stout - Oatmeal"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-28T16:41:00+00:00",
+    "serving": "can",
+    "rating": 3.0,
+    "beer_name": "Prime.",
+    "brewery": "Moon Lark Brewery",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-28T15:54:46+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "EVEN MORE HIPSTERISH",
+    "brewery": "Evil Twin Brewing NYC",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-28T15:35:00+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "La Trappe Quadrupel",
+    "brewery": "Bierbrouwerij De Koningshoeven",
+    "beer_type": "Belgian Quadrupel"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-28T15:34:28+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Kasteel Rouge",
+    "brewery": "Kasteel Brouwerij Vanhonsebrouck",
+    "beer_type": "Fruit Beer"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-03-28T15:34:03+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Bucharest Anyone?",
+    "brewery": "ULTIMA",
+    "beer_type": "Sour - Fruited"
+  },
   {
     "venue": "b7-beer-house",
     "time": "2026-03-27T20:40:18+00:00",
@@ -2770,18 +3013,18 @@ const BEER_DATA = [
     "venue": "b7-beer-house",
     "time": "2026-03-21T19:42:50+00:00",
     "serving": "can",
-    "rating": 4.25,
-    "beer_name": "Paco",
-    "brewery": "Living Häus Beer Company",
+    "rating": 3.8,
+    "beer_name": "Can You Dig It?!",
+    "brewery": "Gigantic Brewing Company",
     "beer_type": "IPA - American"
   },
   {
     "venue": "b7-beer-house",
     "time": "2026-03-21T19:42:50+00:00",
     "serving": "can",
-    "rating": 3.8,
-    "beer_name": "Can You Dig It?!",
-    "brewery": "Gigantic Brewing Company",
+    "rating": 4.25,
+    "beer_name": "Paco",
+    "brewery": "Living Häus Beer Company",
     "beer_type": "IPA - American"
   },
   {
@@ -3265,7 +3508,7 @@ const BEER_DATA = [
     "venue": "b7-beer-house",
     "time": "2026-03-21T18:37:19+00:00",
     "serving": "can",
-    "rating": 3.5,
+    "rating": 3.75,
     "beer_name": "Oasis Splash",
     "brewery": "Duda",
     "beer_type": "IPA - American"
@@ -3274,7 +3517,7 @@ const BEER_DATA = [
     "venue": "b7-beer-house",
     "time": "2026-03-21T18:37:19+00:00",
     "serving": "can",
-    "rating": 3.75,
+    "rating": 3.5,
     "beer_name": "Oasis Splash",
     "brewery": "Duda",
     "beer_type": "IPA - American"
@@ -6595,19 +6838,19 @@ const BEER_DATA = [
     "venue": "b7-beer-house",
     "time": "2026-03-09T15:56:07+00:00",
     "serving": "can",
-    "rating": 3.6,
-    "beer_name": "Yakima IPA",
+    "rating": 3.25,
+    "beer_name": "Brown Ale",
     "brewery": "Jacobsen",
-    "beer_type": "IPA - American"
+    "beer_type": "Brown Ale - English"
   },
   {
     "venue": "b7-beer-house",
     "time": "2026-03-09T15:56:07+00:00",
     "serving": "can",
-    "rating": 3.25,
-    "beer_name": "Brown Ale",
+    "rating": 3.6,
+    "beer_name": "Yakima IPA",
     "brewery": "Jacobsen",
-    "beer_type": "Brown Ale - English"
+    "beer_type": "IPA - American"
   },
   {
     "venue": "b7-beer-house",
@@ -29311,19 +29554,19 @@ const BEER_DATA = [
     "venue": "lauter",
     "time": "2026-01-16T14:52:39+00:00",
     "serving": "Unknown",
-    "rating": 4.0,
-    "beer_name": "Christmas Ale",
-    "brewery": "Brouwerij St. Bernardus",
-    "beer_type": "Winter Ale"
+    "rating": 3.5,
+    "beer_name": "Alt Neuland",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Altbier - Traditional"
   },
   {
     "venue": "lauter",
     "time": "2026-01-16T14:52:39+00:00",
     "serving": "Unknown",
-    "rating": 3.5,
-    "beer_name": "Alt Neuland",
-    "brewery": "Schnitt Brewing Company﻿",
-    "beer_type": "Altbier - Traditional"
+    "rating": 4.0,
+    "beer_name": "Christmas Ale",
+    "brewery": "Brouwerij St. Bernardus",
+    "beer_type": "Winter Ale"
   },
   {
     "venue": "schnitt-brewing-company",
@@ -37950,20 +38193,20 @@ const BEER_DATA = [
   {
     "venue": "lauter",
     "time": "2026-01-01T20:23:13+00:00",
-    "serving": "Unknown",
-    "rating": null,
-    "beer_name": "N'Ice Chouffe",
-    "brewery": "Brasserie d'Achouffe",
-    "beer_type": "Winter Ale"
-  },
-  {
-    "venue": "lauter",
-    "time": "2026-01-01T20:23:13+00:00",
     "serving": "draft",
     "rating": 3.0,
     "beer_name": "Benediktiner Hell",
     "brewery": "Benediktiner Weissbräu",
     "beer_type": "Lager - Helles"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-01T20:23:13+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "N'Ice Chouffe",
+    "brewery": "Brasserie d'Achouffe",
+    "beer_type": "Winter Ale"
   },
   {
     "venue": "lauter",
@@ -45508,7 +45751,7 @@ const BEER_DATA = [
     "beer_type": "IPA - Belgian"
   },
   {
-    "venue": "schnitt-brewing-company",
+    "venue": "lauter",
     "time": "2025-12-14T20:46:46+00:00",
     "serving": "draft",
     "rating": 3.7,
@@ -45517,7 +45760,7 @@ const BEER_DATA = [
     "beer_type": "Porter - American"
   },
   {
-    "venue": "lauter",
+    "venue": "schnitt-brewing-company",
     "time": "2025-12-14T20:46:46+00:00",
     "serving": "draft",
     "rating": 3.7,
@@ -72022,15 +72265,6 @@ const BEER_DATA = [
     "beer_type": "IPA - American"
   },
   {
-    "venue": "schnitt-brewing-company",
-    "time": "2025-10-19T19:17:21+00:00",
-    "serving": "can",
-    "rating": 4.25,
-    "beer_name": "Plum Waffle",
-    "brewery": "Duncan's Brewing",
-    "beer_type": "Sour - Smoothie / Pastry"
-  },
-  {
     "venue": "lauter",
     "time": "2025-10-19T19:17:21+00:00",
     "serving": "bottle",
@@ -72038,6 +72272,15 @@ const BEER_DATA = [
     "beer_name": "Bjorn's Beer",
     "brewery": "Attali's Family Brewery",
     "beer_type": "IPA - American"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2025-10-19T19:17:21+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "Plum Waffle",
+    "brewery": "Duncan's Brewing",
+    "beer_type": "Sour - Smoothie / Pastry"
   },
   {
     "venue": "lauter",
@@ -92931,7 +93174,7 @@ const BEER_DATA = [
   {
     "venue": "lauter",
     "time": "2025-09-01T17:44:35+00:00",
-    "serving": "bottle",
+    "serving": "Unknown",
     "rating": 4.0,
     "beer_name": "Hops Don’t Lie",
     "brewery": "Thurø Bryghus",
@@ -92940,7 +93183,7 @@ const BEER_DATA = [
   {
     "venue": "lauter",
     "time": "2025-09-01T17:44:35+00:00",
-    "serving": "Unknown",
+    "serving": "bottle",
     "rating": 4.0,
     "beer_name": "Hops Don’t Lie",
     "brewery": "Thurø Bryghus",
@@ -97872,20 +98115,20 @@ const BEER_DATA = [
   {
     "venue": "b7-beer-house",
     "time": "2025-08-21T15:59:11+00:00",
-    "serving": "Unknown",
-    "rating": 4.0,
-    "beer_name": "Naughty & Nice - White Chocolate & Raspberry",
-    "brewery": "Vocation Brewery",
-    "beer_type": "Stout - White / Golden"
-  },
-  {
-    "venue": "b7-beer-house",
-    "time": "2025-08-21T15:59:11+00:00",
     "serving": "can",
     "rating": 3.8,
     "beer_name": "Peach Rings",
     "brewery": "Vault City Brewing",
     "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-21T15:59:11+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Naughty & Nice - White Chocolate & Raspberry",
+    "brewery": "Vocation Brewery",
+    "beer_type": "Stout - White / Golden"
   },
   {
     "venue": "b7-beer-house",
@@ -105063,8 +105306,8 @@ const BEER_DATA = [
   {
     "venue": "lauter",
     "time": "2025-08-05T18:49:38+00:00",
-    "serving": "Unknown",
-    "rating": 4.5,
+    "serving": "can",
+    "rating": 4.0,
     "beer_name": "Whakahoa",
     "brewery": "Factory Brewing",
     "beer_type": "IPA - Triple New England / Hazy"
@@ -105072,8 +105315,8 @@ const BEER_DATA = [
   {
     "venue": "lauter",
     "time": "2025-08-05T18:49:38+00:00",
-    "serving": "can",
-    "rating": 4.0,
+    "serving": "Unknown",
+    "rating": 4.5,
     "beer_name": "Whakahoa",
     "brewery": "Factory Brewing",
     "beer_type": "IPA - Triple New England / Hazy"
@@ -112137,20 +112380,20 @@ const BEER_DATA = [
   {
     "venue": "lauter",
     "time": "2025-07-26T15:22:08+00:00",
-    "serving": "can",
-    "rating": 4.2,
-    "beer_name": "Smoothie Bowl: Pistachio Fluff",
-    "brewery": "Nepo Brewing",
-    "beer_type": "Sour - Smoothie / Pastry"
-  },
-  {
-    "venue": "lauter",
-    "time": "2025-07-26T15:22:08+00:00",
     "serving": "Unknown",
     "rating": 4.0,
     "beer_name": "Pijże",
     "brewery": "Nepo Brewing",
     "beer_type": "Pale Ale - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-07-26T15:22:08+00:00",
+    "serving": "can",
+    "rating": 4.2,
+    "beer_name": "Smoothie Bowl: Pistachio Fluff",
+    "brewery": "Nepo Brewing",
+    "beer_type": "Sour - Smoothie / Pastry"
   },
   {
     "venue": "lauter",
