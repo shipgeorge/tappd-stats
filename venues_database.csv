@@ -1,4 +1,62 @@
 venue,user,time,serving,data_rating,beer_name,brewery,beer_type
+b7-beer-house,Yuval Lutski,"Fri, 10 Apr 2026 06:28:01 +0000",draft,4.25,Silver Snail,Sibeeria Brewery,IPA - New England / Hazy
+b7-beer-house,Yuval Lutski,"Fri, 10 Apr 2026 05:54:27 +0000",draft,4.0,Snowtown,Sibeeria Brewery,IPA - New England / Hazy
+b7-beer-house,Eli Smikin,"Fri, 10 Apr 2026 02:44:45 +0000",draft,4.5,חמוץ ומצה 2026,New Pioneer Brewing Co - חלוץ חדש,Sour - Fruited
+lauter,Leon,"Thu, 09 Apr 2026 21:44:06 +0000",draft,3.75,Sab Kuch Milaga,Schnitt Brewing Company﻿,Lager - IPL (India Pale Lager)
+lauter,Yuval Shalom,"Thu, 09 Apr 2026 21:16:04 +0000",draft,3.25,Tripel,Brouwerij St. Bernardus,Belgian Tripel
+b7-beer-house,Eli Smikin,"Thu, 09 Apr 2026 21:15:27 +0000",draft,4.2,Snowtown,Sibeeria Brewery,IPA - New England / Hazy
+b7-beer-house,Eli Smikin,"Thu, 09 Apr 2026 21:06:37 +0000",can,4.5,I Love the Smell of Strata In the Morning,Sibeeria Brewery,IPA - American
+lauter,Yuval Shalom,"Thu, 09 Apr 2026 21:02:38 +0000",draft,3.75,Sab Kuch Milaga,Schnitt Brewing Company﻿,Lager - IPL (India Pale Lager)
+lauter,Yuval Shalom,"Thu, 09 Apr 2026 20:59:25 +0000",,3.75,Double Intergalactica,Schnitt Brewing Company﻿,IPA - New England / Hazy
+b7-beer-house,Eli Smikin,"Thu, 09 Apr 2026 20:47:18 +0000",can,4.0,Silver Snail,Sibeeria Brewery,IPA - New England / Hazy
+lauter,Dr Troubles,"Thu, 09 Apr 2026 20:31:22 +0000",can,3.25,Hoppy Little Thing,Sierra Nevada Brewing Co.,IPA - New England / Hazy
+lauter,Elad Schitrit,"Thu, 09 Apr 2026 20:26:53 +0000",,3.25,Big Little Thing Hazy Imperial IPA,Sierra Nevada Brewing Co.,IPA - Imperial / Double New England / Hazy
+lauter,Dr Troubles,"Thu, 09 Apr 2026 20:13:01 +0000",draft,3.75,Double Intergalactica,Schnitt Brewing Company﻿,IPA - New England / Hazy
+b7-beer-house,Dima Shleifman,"Thu, 09 Apr 2026 20:05:33 +0000",can,3.5,Hoppy Little Thing,Sierra Nevada Brewing Co.,IPA - New England / Hazy
+b7-beer-house,Yana O,"Thu, 09 Apr 2026 20:02:57 +0000",draft,3.9,Silver Snail,Sibeeria Brewery,IPA - New England / Hazy
+b7-beer-house,Alex Fux,"Thu, 09 Apr 2026 20:02:03 +0000",can,4.25,Hoppy Little Thing,Sierra Nevada Brewing Co.,IPA - New England / Hazy
+b7-beer-house,Maxim Shain,"Thu, 09 Apr 2026 19:58:43 +0000",,4.25,Snowtown,Sibeeria Brewery,IPA - New England / Hazy
+lauter,Elad Schitrit,"Thu, 09 Apr 2026 19:57:42 +0000",can,3.5,Hoppy Little Thing,Sierra Nevada Brewing Co.,IPA - New England / Hazy
+b7-beer-house,Ido Cohen,"Thu, 09 Apr 2026 19:51:58 +0000",,4.2,MAKE IT FRUITY PEACH APRICOT,Evil Twin Brewing NYC,Sour - Fruited
+b7-beer-house,Yana O,"Thu, 09 Apr 2026 19:47:24 +0000",can,4.2,MAKE IT FRUITY PEACH APRICOT,Evil Twin Brewing NYC,Sour - Fruited
+b7-beer-house,Alex Fux,"Thu, 09 Apr 2026 19:45:01 +0000",bottle,5.0,Roadside Picnic - Latte Edition #Feb26,Post Apocalyptic,"Homebrew, Stout - Milk / Sweet"
+b7-beer-house,Alex Fux,"Thu, 09 Apr 2026 19:43:35 +0000",bottle,5.0,Rised Dead (2025): Sofie’s Nougat Pillows,Post Apocalyptic,"Homebrew, Stout - Imperial / Double Pastry"
+b7-beer-house,Dima Shleifman,"Thu, 09 Apr 2026 19:41:59 +0000",can,3.75,"Yummy Prickly Pear, Banana, Pear & Kiwi",Sibeeria Brewery,Sour - Smoothie / Pastry
+b7-beer-house,Ido Cohen,"Thu, 09 Apr 2026 19:40:36 +0000",,4.1,Rised Dead (2025): Sofie’s Nougat Pillows,Post Apocalyptic,"Homebrew, Stout - Imperial / Double Pastry"
+b7-beer-house,Yotam Bar-natan,"Thu, 09 Apr 2026 19:39:58 +0000",bottle,4.0,Rised Dead (2025): Sofie’s Nougat Pillows,Post Apocalyptic,"Homebrew, Stout - Imperial / Double Pastry"
+b7-beer-house,Ido Cohen,"Thu, 09 Apr 2026 19:30:16 +0000",,4.0,Roadside Picnic - Latte Edition #Feb26,Post Apocalyptic,"Homebrew, Stout - Milk / Sweet"
+lauter,Dr Troubles,"Thu, 09 Apr 2026 19:21:44 +0000",draft,3.0,Sab Kuch Milaga,Schnitt Brewing Company﻿,Lager - IPL (India Pale Lager)
+lauter,TheOnlyMagicalNoob,"Thu, 09 Apr 2026 19:15:25 +0000",can,3.5,Big Little Thing Hazy Imperial IPA,Sierra Nevada Brewing Co.,IPA - Imperial / Double New England / Hazy
+b7-beer-house,Ido Cohen,"Thu, 09 Apr 2026 19:01:30 +0000",,3.7,Counter Strike,BrewDog,IPA - American
+b7-beer-house,Ido Cohen,"Thu, 09 Apr 2026 18:56:47 +0000",can,4.3,Hydra Glizzy,Mortalis Brewing Company,Sour - Smoothie / Pastry
+b7-beer-house,Yana O,"Thu, 09 Apr 2026 18:56:18 +0000",draft,4.0,Counter Strike,BrewDog,IPA - American
+b7-beer-house,Yana O,"Thu, 09 Apr 2026 18:54:05 +0000",draft,3.8,Snowtown,Sibeeria Brewery,IPA - New England / Hazy
+b7-beer-house,Ido Cohen,"Thu, 09 Apr 2026 18:46:31 +0000",can,3.8,YIN - NYC VERSION,Evil Twin Brewing NYC,Stout - Imperial / Double
+lauter,Elad Schitrit,"Thu, 09 Apr 2026 18:33:19 +0000",,3.75,Double Intergalactica,Schnitt Brewing Company﻿,IPA - New England / Hazy
+b7-beer-house,Dima Shleifman,"Thu, 09 Apr 2026 18:31:51 +0000",draft,3.5,Snowtown,Sibeeria Brewery,IPA - New England / Hazy
+lauter,Nir Langer,"Thu, 09 Apr 2026 18:23:45 +0000",can,4.0,Hoppy Little Thing,Sierra Nevada Brewing Co.,IPA - New England / Hazy
+lauter,TheOnlyMagicalNoob,"Thu, 09 Apr 2026 18:16:13 +0000",can,3.5,Aecht Schlenkerla Rauchbier – Märzen,"Schlenkerla (""Heller-Bräu"" Trum)",Rauchbier
+lauter,TheOnlyMagicalNoob,"Thu, 09 Apr 2026 18:15:27 +0000",can,3.25,Aecht Schlenkerla Rauchbier – Urbock,"Schlenkerla (""Heller-Bräu"" Trum)",Rauchbier
+b7-beer-house,Ido Cohen,"Thu, 09 Apr 2026 18:14:46 +0000",can,3.9,MAKE IT FRUITY TIGER'S BLOOD,Evil Twin Brewing NYC,Sour - Fruited
+b7-beer-house,Yotam Bar-natan,"Thu, 09 Apr 2026 18:11:39 +0000",bottle,3.8,Shezifus,Schmulz,Mead - Melomel
+b7-beer-house,Yotam Bar-natan,"Thu, 09 Apr 2026 18:10:22 +0000",draft,3.9,חמוץ ומצה 2026,New Pioneer Brewing Co - חלוץ חדש,Sour - Fruited
+lauter,Nir Langer,"Thu, 09 Apr 2026 18:07:43 +0000",can,3.75,Trail Pass IPA,Sierra Nevada Brewing Co.,Non-Alcoholic - IPA
+b7-beer-house,Ido Cohen,"Thu, 09 Apr 2026 18:03:51 +0000",can,3.9,"Yummy Prickly Pear, Banana, Pear & Kiwi",Sibeeria Brewery,Sour - Smoothie / Pastry
+beer-station-beersheba-israel,Yana O,"Thu, 09 Apr 2026 17:26:30 +0000",draft,3.7,001 [שם זמני],Arava Brewery (מבשלת בירה ערבה),IPA - Other
+lauter,TheOnlyMagicalNoob,"Thu, 09 Apr 2026 17:25:25 +0000",can,3.5,חלוץ תחת אש,New Pioneer Brewing Co - חלוץ חדש,Sour - Fruited
+beer-station-beersheba-israel,Yana O,"Thu, 09 Apr 2026 17:24:22 +0000",draft,3.7,Katzra Black (קצרה כהה),Arava Brewery (מבשלת בירה ערבה),Porter - Other
+b7-beer-house,Ido Cohen,"Thu, 09 Apr 2026 16:59:12 +0000",can,3.8,Silver Snail,Sibeeria Brewery,IPA - New England / Hazy
+b7-beer-house,Ido Cohen,"Thu, 09 Apr 2026 16:41:53 +0000",can,3.8,I Love the Smell of Strata In the Morning,Sibeeria Brewery,IPA - American
+b7-beer-house,Ido Cohen,"Thu, 09 Apr 2026 16:28:42 +0000",draft,4.0,Snowtown,Sibeeria Brewery,IPA - New England / Hazy
+b7-beer-house,Ido Cohen,"Thu, 09 Apr 2026 16:27:21 +0000",,,חמוץ ומצה 2026,New Pioneer Brewing Co - חלוץ חדש,Sour - Fruited
+lauter,Lee Ker,"Thu, 09 Apr 2026 16:12:23 +0000",,,Hadar הדר,Schnitt Brewing Company﻿,Wheat Beer - Witbier / Blanche
+lauter,Lee Ker,"Thu, 09 Apr 2026 16:02:43 +0000",draft,4.25,Budweiser Budvar B:DARK / Czechvar B:DARK,Budějovický Budvar,Lager - Tmavé (Czech Dark)
+lauter,Raz Ko,"Thu, 09 Apr 2026 15:08:59 +0000",draft,3.8,Meet Our Friends | From Budapest: Horizont Brewing - Beyond the Horizont,Nepo Brewing,IPA - New England / Hazy
+lauter,Raz Ko,"Thu, 09 Apr 2026 14:59:07 +0000",draft,3.3,Sab Kuch Milaga,Schnitt Brewing Company﻿,Lager - IPL (India Pale Lager)
+lauter,Raz Ko,"Thu, 09 Apr 2026 14:54:52 +0000",draft,4.0,Bucharest Anyone?,ULTIMA,Sour - Fruited
+lauter,Raz Ko,"Thu, 09 Apr 2026 14:53:09 +0000",draft,3.7,Abbey Mode,Schnitt Brewing Company﻿,Belgian Dubbel
+lauter,Leon,"Thu, 09 Apr 2026 14:20:24 +0000",draft,3.5,Kuch Kuch,Schnitt Brewing Company﻿,IPA - American
+lauter,Aviv Avitan,"Thu, 09 Apr 2026 08:28:29 +0000",draft,3.5,Kuch Kuch,Schnitt Brewing Company﻿,IPA - American
 lauter,Dror Grintal,"Wed, 08 Apr 2026 20:14:47 +0000",draft,3.0,Bucharest Anyone?,ULTIMA,Sour - Fruited
 lauter,Omer Abraham,"Wed, 08 Apr 2026 20:13:40 +0000",draft,,Sab Kuch Milaga,Schnitt Brewing Company﻿,Lager - IPL (India Pale Lager)
 lauter,Omer Abraham,"Wed, 08 Apr 2026 20:13:18 +0000",,,Lazy Bee Classic,Schnitt Brewing Company﻿,
@@ -5278,8 +5336,8 @@ lauter,ParkerAsaf,"Mon, 15 Dec 2025 14:05:21 +0000",bottle,3.75,Maredsous Triple
 lauter,ParkerAsaf,"Mon, 15 Dec 2025 14:03:48 +0000",bottle,4.25,"Chimay Grande Réserve Fermentée En Barriques - Chêne Français, Chêne Américain, Brandy (02/2024)",Bières de Chimay,Belgian Strong Dark Ale
 lauter,ParkerAsaf,"Mon, 15 Dec 2025 13:59:24 +0000",bottle,3.75,N'Ice Chouffe,Brasserie d'Achouffe,Winter Ale
 lauter,ParkerAsaf,"Mon, 15 Dec 2025 13:55:18 +0000",bottle,3.5,Chouffe IPA,Brasserie d'Achouffe,IPA - Belgian
-lauter,Shmupi Koto,"Sun, 14 Dec 2025 20:46:46 +0000",draft,3.7,Nightmare Fuel,Schnitt Brewing Company﻿,Porter - American
 schnitt-brewing-company,Nirit Agiv,"Sun, 14 Dec 2025 20:46:46 +0000",draft,3.7,Nightmare Fuel,Schnitt Brewing Company﻿,Porter - American
+lauter,Shmupi Koto,"Sun, 14 Dec 2025 20:46:46 +0000",draft,3.7,Nightmare Fuel,Schnitt Brewing Company﻿,Porter - American
 lauter,Shmupi Koto,"Sun, 14 Dec 2025 20:25:36 +0000",draft,4.5,Gueuze Tilquin – Draft Version,Gueuzerie Tilquin,Lambic - Gueuze
 schnitt-brewing-company,Chinese Uncle,"Sun, 14 Dec 2025 19:50:56 +0000",draft,3.5,Lazy Bee Hibiscus And Raspberries,Schnitt Brewing Company﻿,Mead - Session / Short
 b7-beer-house,Yotam Bar-natan,"Sun, 14 Dec 2025 19:43:50 +0000",can,3.9,Vesper,Ophiussa,Sour - Smoothie / Pastry
@@ -6375,8 +6433,8 @@ b7-beer-house,Kobi,"Fri, 21 Nov 2025 12:12:45 +0000",,4.0,Bzart Lambiek Millési
 b7-beer-house,Yaniv Alal,"Fri, 21 Nov 2025 12:09:40 +0000",bottle,4.25,Six Seven,Beerbalach,"Homebrew, Lambic - Gueuze"
 b7-beer-house,Tom Lahav,"Fri, 21 Nov 2025 12:09:01 +0000",bottle,3.5,Six Seven,Beerbalach,"Homebrew, Lambic - Gueuze"
 b7-beer-house,barak luzon,"Fri, 21 Nov 2025 12:08:45 +0000",,4.0,FIZY,Fundamental Brewing Co.,Sour - Fruited Berliner Weisse
-b7-beer-house,Yaniv Alal,"Fri, 21 Nov 2025 12:08:02 +0000",bottle,4.0,Wild Dry Cider - Blended With Lambic,Oud Beersel,Cider - Dry
 b7-beer-house,barak luzon,"Fri, 21 Nov 2025 12:08:02 +0000",bottle,4.25,Bzart Lambiek Millésime 2018,Oud Beersel,Lambic - Traditional
+b7-beer-house,Yaniv Alal,"Fri, 21 Nov 2025 12:08:02 +0000",bottle,4.0,Wild Dry Cider - Blended With Lambic,Oud Beersel,Cider - Dry
 b7-beer-house,Tom Lahav,"Fri, 21 Nov 2025 12:07:23 +0000",,3.75,Bzart Lambiek Millésime 2018,Oud Beersel,Lambic - Traditional
 b7-beer-house,Ido Cohen,"Fri, 21 Nov 2025 12:06:42 +0000",bottle,4.1,Bzart Lambiek Millésime 2018,Oud Beersel,Lambic - Traditional
 b7-beer-house,Eylon,"Fri, 21 Nov 2025 12:05:29 +0000",can,3.75,Mebel,Ziemia Obiecana,IPA - Session
@@ -11862,8 +11920,8 @@ lauter,Yaron Sh,"Tue, 05 Aug 2025 19:29:11 +0000",,4.0,SLUSHY XL: Haha!,450 Nort
 lauter,Kobi,"Tue, 05 Aug 2025 19:29:05 +0000",,4.3,Hydralisk,Spanish Marie Brewery,Sour - Smoothie / Pastry
 lauter,Yosef Dahan,"Tue, 05 Aug 2025 19:28:30 +0000",can,3.75,SLUSHY XL: Haha!,450 North Brewing Company,Sour - Smoothie / Pastry
 lauter,Shaul A,"Tue, 05 Aug 2025 19:26:45 +0000",,4.25,SLUSHY XL: Haha!,450 North Brewing Company,Sour - Smoothie / Pastry
-lauter,Mikhail Stolov,"Tue, 05 Aug 2025 19:24:07 +0000",can,4.5,SLUSHY XL: Haha!,450 North Brewing Company,Sour - Smoothie / Pastry
 lauter,Oren Sleepwalker,"Tue, 05 Aug 2025 19:24:07 +0000",,,SLUSHY XL: Haha!,450 North Brewing Company,Sour - Smoothie / Pastry
+lauter,Mikhail Stolov,"Tue, 05 Aug 2025 19:24:07 +0000",can,4.5,SLUSHY XL: Haha!,450 North Brewing Company,Sour - Smoothie / Pastry
 lauter,Kobi,"Tue, 05 Aug 2025 19:21:59 +0000",,4.3,SLUSHY XL: Haha!,450 North Brewing Company,Sour - Smoothie / Pastry
 lauter,Shaul A,"Tue, 05 Aug 2025 19:16:22 +0000",,4.25,Monstrous Oils,Cellarmaker Brewing Company,IPA - Quadruple
 lauter,Yaron Sh,"Tue, 05 Aug 2025 19:15:56 +0000",,4.25,Monstrous Oils,Cellarmaker Brewing Company,IPA - Quadruple

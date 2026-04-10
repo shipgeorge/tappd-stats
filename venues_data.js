@@ -1,8 +1,530 @@
 // 🍺 BEER STATS DATA - Generated automatically
-// Last updated: 2026-04-09 07:53:00
-// Total records: 14895
+// Last updated: 2026-04-10 07:55:10
+// Total records: 14953
 
 const BEER_DATA = [
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-04-10T06:28:01+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "Silver Snail",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-04-10T05:54:27+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Snowtown",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-04-10T02:44:45+00:00",
+    "serving": "draft",
+    "rating": 4.5,
+    "beer_name": "חמוץ ומצה 2026",
+    "brewery": "New Pioneer Brewing Co - חלוץ חדש",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-04-09T21:44:06+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Sab Kuch Milaga",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Lager - IPL (India Pale Lager)"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-04-09T21:16:04+00:00",
+    "serving": "draft",
+    "rating": 3.25,
+    "beer_name": "Tripel",
+    "brewery": "Brouwerij St. Bernardus",
+    "beer_type": "Belgian Tripel"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-04-09T21:15:27+00:00",
+    "serving": "draft",
+    "rating": 4.2,
+    "beer_name": "Snowtown",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-04-09T21:06:37+00:00",
+    "serving": "can",
+    "rating": 4.5,
+    "beer_name": "I Love the Smell of Strata In the Morning",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-04-09T21:02:38+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Sab Kuch Milaga",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Lager - IPL (India Pale Lager)"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-04-09T20:59:25+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "Double Intergalactica",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-04-09T20:47:18+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Silver Snail",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-04-09T20:31:22+00:00",
+    "serving": "can",
+    "rating": 3.25,
+    "beer_name": "Hoppy Little Thing",
+    "brewery": "Sierra Nevada Brewing Co.",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-04-09T20:26:53+00:00",
+    "serving": "Unknown",
+    "rating": 3.25,
+    "beer_name": "Big Little Thing Hazy Imperial IPA",
+    "brewery": "Sierra Nevada Brewing Co.",
+    "beer_type": "IPA - Imperial / Double New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-04-09T20:13:01+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Double Intergalactica",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-04-09T20:05:33+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Hoppy Little Thing",
+    "brewery": "Sierra Nevada Brewing Co.",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-04-09T20:02:57+00:00",
+    "serving": "draft",
+    "rating": 3.9,
+    "beer_name": "Silver Snail",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-04-09T20:02:03+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "Hoppy Little Thing",
+    "brewery": "Sierra Nevada Brewing Co.",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-04-09T19:58:43+00:00",
+    "serving": "Unknown",
+    "rating": 4.25,
+    "beer_name": "Snowtown",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-04-09T19:57:42+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Hoppy Little Thing",
+    "brewery": "Sierra Nevada Brewing Co.",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-04-09T19:51:58+00:00",
+    "serving": "Unknown",
+    "rating": 4.2,
+    "beer_name": "MAKE IT FRUITY PEACH APRICOT",
+    "brewery": "Evil Twin Brewing NYC",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-04-09T19:47:24+00:00",
+    "serving": "can",
+    "rating": 4.2,
+    "beer_name": "MAKE IT FRUITY PEACH APRICOT",
+    "brewery": "Evil Twin Brewing NYC",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-04-09T19:45:01+00:00",
+    "serving": "bottle",
+    "rating": 5.0,
+    "beer_name": "Roadside Picnic - Latte Edition #Feb26",
+    "brewery": "Post Apocalyptic",
+    "beer_type": "Homebrew, Stout - Milk / Sweet"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-04-09T19:43:35+00:00",
+    "serving": "bottle",
+    "rating": 5.0,
+    "beer_name": "Rised Dead (2025): Sofie’s Nougat Pillows",
+    "brewery": "Post Apocalyptic",
+    "beer_type": "Homebrew, Stout - Imperial / Double Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-04-09T19:41:59+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Yummy Prickly Pear, Banana, Pear & Kiwi",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-04-09T19:40:36+00:00",
+    "serving": "Unknown",
+    "rating": 4.1,
+    "beer_name": "Rised Dead (2025): Sofie’s Nougat Pillows",
+    "brewery": "Post Apocalyptic",
+    "beer_type": "Homebrew, Stout - Imperial / Double Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-04-09T19:39:58+00:00",
+    "serving": "bottle",
+    "rating": 4.0,
+    "beer_name": "Rised Dead (2025): Sofie’s Nougat Pillows",
+    "brewery": "Post Apocalyptic",
+    "beer_type": "Homebrew, Stout - Imperial / Double Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-04-09T19:30:16+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Roadside Picnic - Latte Edition #Feb26",
+    "brewery": "Post Apocalyptic",
+    "beer_type": "Homebrew, Stout - Milk / Sweet"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-04-09T19:21:44+00:00",
+    "serving": "draft",
+    "rating": 3.0,
+    "beer_name": "Sab Kuch Milaga",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Lager - IPL (India Pale Lager)"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-04-09T19:15:25+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Big Little Thing Hazy Imperial IPA",
+    "brewery": "Sierra Nevada Brewing Co.",
+    "beer_type": "IPA - Imperial / Double New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-04-09T19:01:30+00:00",
+    "serving": "Unknown",
+    "rating": 3.7,
+    "beer_name": "Counter Strike",
+    "brewery": "BrewDog",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-04-09T18:56:47+00:00",
+    "serving": "can",
+    "rating": 4.3,
+    "beer_name": "Hydra Glizzy",
+    "brewery": "Mortalis Brewing Company",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-04-09T18:56:18+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Counter Strike",
+    "brewery": "BrewDog",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-04-09T18:54:05+00:00",
+    "serving": "draft",
+    "rating": 3.8,
+    "beer_name": "Snowtown",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-04-09T18:46:31+00:00",
+    "serving": "can",
+    "rating": 3.8,
+    "beer_name": "YIN - NYC VERSION",
+    "brewery": "Evil Twin Brewing NYC",
+    "beer_type": "Stout - Imperial / Double"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-04-09T18:33:19+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "Double Intergalactica",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-04-09T18:31:51+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Snowtown",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-04-09T18:23:45+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Hoppy Little Thing",
+    "brewery": "Sierra Nevada Brewing Co.",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-04-09T18:16:13+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Aecht Schlenkerla Rauchbier – Märzen",
+    "brewery": "Schlenkerla (\"Heller-Bräu\" Trum)",
+    "beer_type": "Rauchbier"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-04-09T18:15:27+00:00",
+    "serving": "can",
+    "rating": 3.25,
+    "beer_name": "Aecht Schlenkerla Rauchbier – Urbock",
+    "brewery": "Schlenkerla (\"Heller-Bräu\" Trum)",
+    "beer_type": "Rauchbier"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-04-09T18:14:46+00:00",
+    "serving": "can",
+    "rating": 3.9,
+    "beer_name": "MAKE IT FRUITY TIGER'S BLOOD",
+    "brewery": "Evil Twin Brewing NYC",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-04-09T18:11:39+00:00",
+    "serving": "bottle",
+    "rating": 3.8,
+    "beer_name": "Shezifus",
+    "brewery": "Schmulz",
+    "beer_type": "Mead - Melomel"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-04-09T18:10:22+00:00",
+    "serving": "draft",
+    "rating": 3.9,
+    "beer_name": "חמוץ ומצה 2026",
+    "brewery": "New Pioneer Brewing Co - חלוץ חדש",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-04-09T18:07:43+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Trail Pass IPA",
+    "brewery": "Sierra Nevada Brewing Co.",
+    "beer_type": "Non-Alcoholic - IPA"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-04-09T18:03:51+00:00",
+    "serving": "can",
+    "rating": 3.9,
+    "beer_name": "Yummy Prickly Pear, Banana, Pear & Kiwi",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "beer-station-beersheba-israel",
+    "time": "2026-04-09T17:26:30+00:00",
+    "serving": "draft",
+    "rating": 3.7,
+    "beer_name": "001 [שם זמני]",
+    "brewery": "Arava Brewery (מבשלת בירה ערבה)",
+    "beer_type": "IPA - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-04-09T17:25:25+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "חלוץ תחת אש",
+    "brewery": "New Pioneer Brewing Co - חלוץ חדש",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "beer-station-beersheba-israel",
+    "time": "2026-04-09T17:24:22+00:00",
+    "serving": "draft",
+    "rating": 3.7,
+    "beer_name": "Katzra Black (קצרה כהה)",
+    "brewery": "Arava Brewery (מבשלת בירה ערבה)",
+    "beer_type": "Porter - Other"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-04-09T16:59:12+00:00",
+    "serving": "can",
+    "rating": 3.8,
+    "beer_name": "Silver Snail",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-04-09T16:41:53+00:00",
+    "serving": "can",
+    "rating": 3.8,
+    "beer_name": "I Love the Smell of Strata In the Morning",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-04-09T16:28:42+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Snowtown",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-04-09T16:27:21+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "חמוץ ומצה 2026",
+    "brewery": "New Pioneer Brewing Co - חלוץ חדש",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-04-09T16:12:23+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Hadar הדר",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Wheat Beer - Witbier / Blanche"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-04-09T16:02:43+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "Budweiser Budvar B:DARK / Czechvar B:DARK",
+    "brewery": "Budějovický Budvar",
+    "beer_type": "Lager - Tmavé (Czech Dark)"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-04-09T15:08:59+00:00",
+    "serving": "draft",
+    "rating": 3.8,
+    "beer_name": "Meet Our Friends | From Budapest: Horizont Brewing - Beyond the Horizont",
+    "brewery": "Nepo Brewing",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-04-09T14:59:07+00:00",
+    "serving": "draft",
+    "rating": 3.3,
+    "beer_name": "Sab Kuch Milaga",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Lager - IPL (India Pale Lager)"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-04-09T14:54:52+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Bucharest Anyone?",
+    "brewery": "ULTIMA",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-04-09T14:53:09+00:00",
+    "serving": "draft",
+    "rating": 3.7,
+    "beer_name": "Abbey Mode",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Belgian Dubbel"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-04-09T14:20:24+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Kuch Kuch",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-04-09T08:28:29+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Kuch Kuch",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - American"
+  },
   {
     "venue": "lauter",
     "time": "2026-04-08T20:14:47+00:00",
@@ -47515,7 +48037,7 @@ const BEER_DATA = [
     "beer_type": "IPA - Belgian"
   },
   {
-    "venue": "lauter",
+    "venue": "schnitt-brewing-company",
     "time": "2025-12-14T20:46:46+00:00",
     "serving": "draft",
     "rating": 3.7,
@@ -47524,7 +48046,7 @@ const BEER_DATA = [
     "beer_type": "Porter - American"
   },
   {
-    "venue": "schnitt-brewing-company",
+    "venue": "lauter",
     "time": "2025-12-14T20:46:46+00:00",
     "serving": "draft",
     "rating": 3.7,
@@ -57391,19 +57913,19 @@ const BEER_DATA = [
     "venue": "b7-beer-house",
     "time": "2025-11-21T12:08:02+00:00",
     "serving": "bottle",
-    "rating": 4.0,
-    "beer_name": "Wild Dry Cider - Blended With Lambic",
+    "rating": 4.25,
+    "beer_name": "Bzart Lambiek Millésime 2018",
     "brewery": "Oud Beersel",
-    "beer_type": "Cider - Dry"
+    "beer_type": "Lambic - Traditional"
   },
   {
     "venue": "b7-beer-house",
     "time": "2025-11-21T12:08:02+00:00",
     "serving": "bottle",
-    "rating": 4.25,
-    "beer_name": "Bzart Lambiek Millésime 2018",
+    "rating": 4.0,
+    "beer_name": "Wild Dry Cider - Blended With Lambic",
     "brewery": "Oud Beersel",
-    "beer_type": "Lambic - Traditional"
+    "beer_type": "Cider - Dry"
   },
   {
     "venue": "b7-beer-house",
@@ -106773,8 +107295,8 @@ const BEER_DATA = [
   {
     "venue": "lauter",
     "time": "2025-08-05T19:24:07+00:00",
-    "serving": "can",
-    "rating": 4.5,
+    "serving": "Unknown",
+    "rating": null,
     "beer_name": "SLUSHY XL: Haha!",
     "brewery": "450 North Brewing Company",
     "beer_type": "Sour - Smoothie / Pastry"
@@ -106782,8 +107304,8 @@ const BEER_DATA = [
   {
     "venue": "lauter",
     "time": "2025-08-05T19:24:07+00:00",
-    "serving": "Unknown",
-    "rating": null,
+    "serving": "can",
+    "rating": 4.5,
     "beer_name": "SLUSHY XL: Haha!",
     "brewery": "450 North Brewing Company",
     "beer_type": "Sour - Smoothie / Pastry"
