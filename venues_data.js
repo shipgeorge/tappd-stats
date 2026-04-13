@@ -1,8 +1,242 @@
 // 🍺 BEER STATS DATA - Generated automatically
-// Last updated: 2026-04-12 07:26:07
-// Total records: 15071
+// Last updated: 2026-04-13 08:17:06
+// Total records: 15097
 
 const BEER_DATA = [
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-04-12T23:57:23+00:00",
+    "serving": "can",
+    "rating": 4.75,
+    "beer_name": "Maisel & Friends - Weizen IPA f.n.a.",
+    "brewery": "Brauerei Gebr. Maisel",
+    "beer_type": "IPA - White / Wheat"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-04-12T23:27:56+00:00",
+    "serving": "bottle",
+    "rating": 4.75,
+    "beer_name": "Mongozo Banana",
+    "brewery": "Mongozo",
+    "beer_type": "Fruit Beer"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-04-12T20:05:54+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "I THOUGHT IT WAS BREAKFAST BUT IT WAS FEELINGS",
+    "brewery": "Evil Twin Brewing NYC",
+    "beer_type": "Stout - Oatmeal"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-04-12T20:03:44+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Hadar הדר",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Wheat Beer - Witbier / Blanche"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-04-12T19:38:59+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "Big Little Thing Hazy Imperial IPA",
+    "brewery": "Sierra Nevada Brewing Co.",
+    "beer_type": "IPA - Imperial / Double New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-04-12T19:27:57+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "Silver Snail",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-04-12T19:26:29+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "I Love the Smell of Strata In the Morning",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-04-12T19:19:21+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "זהב שחור",
+    "brewery": "New Pioneer Brewing Co - חלוץ חדש",
+    "beer_type": "Porter - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-04-12T19:17:40+00:00",
+    "serving": "can",
+    "rating": null,
+    "beer_name": "זהב שחור",
+    "brewery": "New Pioneer Brewing Co - חלוץ חדש",
+    "beer_type": "Porter - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-04-12T18:58:32+00:00",
+    "serving": "bottle",
+    "rating": 4.5,
+    "beer_name": "Öö",
+    "brewery": "Põhjala",
+    "beer_type": "Porter - Imperial / Double Baltic"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-04-12T18:54:56+00:00",
+    "serving": "bottle",
+    "rating": 3.25,
+    "beer_name": "סוסון בווארי",
+    "brewery": "Shevet (שבט)",
+    "beer_type": "Lager - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-04-12T18:52:56+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "סוסון בווארי",
+    "brewery": "Shevet (שבט)",
+    "beer_type": "Lager - Other"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-04-12T18:40:32+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "חמוץ ומצה 2026",
+    "brewery": "New Pioneer Brewing Co - חלוץ חדש",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-04-12T18:32:43+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "עכשיו מעונן",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-04-12T17:15:24+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Abt 12",
+    "brewery": "Brouwerij St. Bernardus",
+    "beer_type": "Belgian Quadrupel"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-04-12T17:15:02+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Budweiser Budvar B:DARK / Czechvar B:DARK",
+    "brewery": "Budějovický Budvar",
+    "beer_type": "Lager - Tmavé (Czech Dark)"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-04-12T17:13:59+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Abt 12",
+    "brewery": "Brouwerij St. Bernardus",
+    "beer_type": "Belgian Quadrupel"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-04-12T17:12:59+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "La Trappe Quadrupel",
+    "brewery": "Bierbrouwerij De Koningshoeven",
+    "beer_type": "Belgian Quadrupel"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-04-12T17:10:38+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "Budweiser Budvar B:DARK / Czechvar B:DARK",
+    "brewery": "Budějovický Budvar",
+    "beer_type": "Lager - Tmavé (Czech Dark)"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-04-12T17:10:00+00:00",
+    "serving": "draft",
+    "rating": 4.5,
+    "beer_name": "La Trappe Quadrupel",
+    "brewery": "Bierbrouwerij De Koningshoeven",
+    "beer_type": "Belgian Quadrupel"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-04-12T17:05:26+00:00",
+    "serving": "can",
+    "rating": 3.0,
+    "beer_name": "Cactus Sour",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-04-12T16:18:27+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Twist & Stout",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Stout - Irish Dry"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-04-12T16:18:08+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Twist & Stout",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Stout - Irish Dry"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-04-12T16:17:38+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "I'll Be Bock",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Bock - Single / Traditional"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-04-12T16:15:37+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "I'll Be Bock",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Bock - Single / Traditional"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-04-12T13:52:52+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "חמוץ ומצה 2026",
+    "brewery": "New Pioneer Brewing Co - חלוץ חדש",
+    "beer_type": "Sour - Fruited"
+  },
   {
     "venue": "lauter",
     "time": "2026-04-11T20:50:30+00:00",
@@ -10186,19 +10420,19 @@ const BEER_DATA = [
     "venue": "b7-beer-house",
     "time": "2026-03-09T15:56:07+00:00",
     "serving": "can",
-    "rating": 3.25,
-    "beer_name": "Brown Ale",
+    "rating": 3.6,
+    "beer_name": "Yakima IPA",
     "brewery": "Jacobsen",
-    "beer_type": "Brown Ale - English"
+    "beer_type": "IPA - American"
   },
   {
     "venue": "b7-beer-house",
     "time": "2026-03-09T15:56:07+00:00",
     "serving": "can",
-    "rating": 3.6,
-    "beer_name": "Yakima IPA",
+    "rating": 3.25,
+    "beer_name": "Brown Ale",
     "brewery": "Jacobsen",
-    "beer_type": "IPA - American"
+    "beer_type": "Brown Ale - English"
   },
   {
     "venue": "b7-beer-house",
@@ -12390,20 +12624,20 @@ const BEER_DATA = [
   {
     "venue": "b7-beer-house",
     "time": "2026-02-27T12:11:29+00:00",
-    "serving": "Unknown",
-    "rating": null,
-    "beer_name": "משהו טוטאלי",
-    "brewery": "New Pioneer Brewing Co - חלוץ חדש",
-    "beer_type": "Brown Ale - Other"
-  },
-  {
-    "venue": "b7-beer-house",
-    "time": "2026-02-27T12:11:29+00:00",
     "serving": "can",
     "rating": 4.8,
     "beer_name": "Midnight Snack",
     "brewery": "LERVIG",
     "beer_type": "Stout - Imperial / Double Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-02-27T12:11:29+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "משהו טוטאלי",
+    "brewery": "New Pioneer Brewing Co - חלוץ חדש",
+    "beer_type": "Brown Ale - Other"
   },
   {
     "venue": "b7-beer-house",
@@ -12451,15 +12685,6 @@ const BEER_DATA = [
     "beer_type": "IPA - American"
   },
   {
-    "venue": "b7-beer-house",
-    "time": "2026-02-27T12:00:51+00:00",
-    "serving": "Unknown",
-    "rating": 3.75,
-    "beer_name": "A Twist In the Mist",
-    "brewery": "Sleepwalker Brewery",
-    "beer_type": "Homebrew, Stout - English"
-  },
-  {
     "venue": "schnitt-brewing-company",
     "time": "2026-02-27T12:00:51+00:00",
     "serving": "draft",
@@ -12467,6 +12692,15 @@ const BEER_DATA = [
     "beer_name": "It Is What It Is",
     "brewery": "Schnitt Brewing Company﻿",
     "beer_type": "Blonde / Golden Ale - Other"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-02-27T12:00:51+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "A Twist In the Mist",
+    "brewery": "Sleepwalker Brewery",
+    "beer_type": "Homebrew, Stout - English"
   },
   {
     "venue": "b7-beer-house",
@@ -58975,19 +59209,19 @@ const BEER_DATA = [
     "venue": "b7-beer-house",
     "time": "2025-11-21T12:08:02+00:00",
     "serving": "bottle",
-    "rating": 4.0,
-    "beer_name": "Wild Dry Cider - Blended With Lambic",
+    "rating": 4.25,
+    "beer_name": "Bzart Lambiek Millésime 2018",
     "brewery": "Oud Beersel",
-    "beer_type": "Cider - Dry"
+    "beer_type": "Lambic - Traditional"
   },
   {
     "venue": "b7-beer-house",
     "time": "2025-11-21T12:08:02+00:00",
     "serving": "bottle",
-    "rating": 4.25,
-    "beer_name": "Bzart Lambiek Millésime 2018",
+    "rating": 4.0,
+    "beer_name": "Wild Dry Cider - Blended With Lambic",
     "brewery": "Oud Beersel",
-    "beer_type": "Lambic - Traditional"
+    "beer_type": "Cider - Dry"
   },
   {
     "venue": "b7-beer-house",
@@ -59686,7 +59920,7 @@ const BEER_DATA = [
     "venue": "b7-beer-house",
     "time": "2025-11-21T11:17:46+00:00",
     "serving": "bottle",
-    "rating": 4.25,
+    "rating": 4.0,
     "beer_name": "Oude Gueuze Tilquin à l'Ancienne - Cuvée Renée (2023-2024)",
     "brewery": "Gueuzerie Tilquin",
     "beer_type": "Lambic - Gueuze"
@@ -59695,7 +59929,7 @@ const BEER_DATA = [
     "venue": "b7-beer-house",
     "time": "2025-11-21T11:17:46+00:00",
     "serving": "bottle",
-    "rating": 4.0,
+    "rating": 4.25,
     "beer_name": "Oude Gueuze Tilquin à l'Ancienne - Cuvée Renée (2023-2024)",
     "brewery": "Gueuzerie Tilquin",
     "beer_type": "Lambic - Gueuze"
@@ -96522,7 +96756,7 @@ const BEER_DATA = [
   {
     "venue": "lauter",
     "time": "2025-09-01T17:44:35+00:00",
-    "serving": "Unknown",
+    "serving": "bottle",
     "rating": 4.0,
     "beer_name": "Hops Don’t Lie",
     "brewery": "Thurø Bryghus",
@@ -96531,7 +96765,7 @@ const BEER_DATA = [
   {
     "venue": "lauter",
     "time": "2025-09-01T17:44:35+00:00",
-    "serving": "bottle",
+    "serving": "Unknown",
     "rating": 4.0,
     "beer_name": "Hops Don’t Lie",
     "brewery": "Thurø Bryghus",
@@ -101355,8 +101589,8 @@ const BEER_DATA = [
   {
     "venue": "b7-beer-house",
     "time": "2025-08-21T16:02:37+00:00",
-    "serving": "can",
-    "rating": 3.5,
+    "serving": "Unknown",
+    "rating": 3.75,
     "beer_name": "Nitro Mini M*rs",
     "brewery": "Vault City Brewing",
     "beer_type": "Stout - Pastry"
@@ -101364,8 +101598,8 @@ const BEER_DATA = [
   {
     "venue": "b7-beer-house",
     "time": "2025-08-21T16:02:37+00:00",
-    "serving": "Unknown",
-    "rating": 3.75,
+    "serving": "can",
+    "rating": 3.5,
     "beer_name": "Nitro Mini M*rs",
     "brewery": "Vault City Brewing",
     "beer_type": "Stout - Pastry"
@@ -116773,19 +117007,19 @@ const BEER_DATA = [
     "venue": "lauter",
     "time": "2025-07-25T18:15:23+00:00",
     "serving": "draft",
-    "rating": 4.8,
-    "beer_name": "Fou' Foune 2023 - Draft Version",
+    "rating": 4.0,
+    "beer_name": "Cuvée Saint-Gilloise 2023 - Draft Version",
     "brewery": "Brasserie Cantillon",
-    "beer_type": "Lambic - Fruit"
+    "beer_type": "Lambic - Traditional"
   },
   {
     "venue": "lauter",
     "time": "2025-07-25T18:15:23+00:00",
     "serving": "draft",
-    "rating": 4.0,
-    "beer_name": "Cuvée Saint-Gilloise 2023 - Draft Version",
+    "rating": 4.8,
+    "beer_name": "Fou' Foune 2023 - Draft Version",
     "brewery": "Brasserie Cantillon",
-    "beer_type": "Lambic - Traditional"
+    "beer_type": "Lambic - Fruit"
   },
   {
     "venue": "lauter",
@@ -132621,8 +132855,8 @@ const BEER_DATA = [
   {
     "venue": "berlin-florentin",
     "time": "2024-01-22T18:42:20+00:00",
-    "serving": "Unknown",
-    "rating": null,
+    "serving": "can",
+    "rating": 4.0,
     "beer_name": "200 Units",
     "brewery": "Brewski",
     "beer_type": "Barleywine - English"
@@ -132630,8 +132864,8 @@ const BEER_DATA = [
   {
     "venue": "berlin-florentin",
     "time": "2024-01-22T18:42:20+00:00",
-    "serving": "can",
-    "rating": 4.0,
+    "serving": "Unknown",
+    "rating": null,
     "beer_name": "200 Units",
     "brewery": "Brewski",
     "beer_type": "Barleywine - English"
