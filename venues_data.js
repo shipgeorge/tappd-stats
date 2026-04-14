@@ -1,8 +1,206 @@
 // 🍺 BEER STATS DATA - Generated automatically
-// Last updated: 2026-04-13 08:17:06
-// Total records: 15097
+// Last updated: 2026-04-14 07:59:28
+// Total records: 15119
 
 const BEER_DATA = [
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-04-13T16:05:51+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "Beauty - Pineapple, Cherry, Strawberry",
+    "brewery": "Magic Road",
+    "beer_type": "Fruit Beer"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-04-13T15:26:44+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "I TOLD YOU! I SPENT IT WITH MY UNCLE IN ALASKA HUNTING WOLVERINES!",
+    "brewery": "Evil Twin Brewing NYC",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-04-13T15:01:35+00:00",
+    "serving": "can",
+    "rating": 3.3,
+    "beer_name": "Hoppy Little Thing",
+    "brewery": "Sierra Nevada Brewing Co.",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-04-13T14:56:17+00:00",
+    "serving": "can",
+    "rating": 4.5,
+    "beer_name": "Practice the Art of Connection",
+    "brewery": "Omnipollo",
+    "beer_type": "IPA - Imperial / Double New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-04-13T14:05:13+00:00",
+    "serving": "bottle",
+    "rating": 4.0,
+    "beer_name": "Woop Woop 5Y ‘still’",
+    "brewery": "Antidoot - Wilde Fermenten",
+    "beer_type": "Wild Ale - Other"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-04-13T14:04:43+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Beauty - Pineapple, Cherry, Strawberry",
+    "brewery": "Magic Road",
+    "beer_type": "Fruit Beer"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-04-13T14:04:09+00:00",
+    "serving": "can",
+    "rating": 3.25,
+    "beer_name": "Practice the Art of Connection",
+    "brewery": "Omnipollo",
+    "beer_type": "IPA - Imperial / Double New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-04-13T14:02:25+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "I Love the Smell of Strata In the Morning",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-04-13T14:00:46+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "חמוץ ומצה 2026",
+    "brewery": "New Pioneer Brewing Co - חלוץ חדש",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-04-13T14:00:03+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "חוצה ישראל",
+    "brewery": "New Pioneer Brewing Co - חלוץ חדש",
+    "beer_type": "Wheat Beer - Other"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-04-13T13:45:30+00:00",
+    "serving": "draft",
+    "rating": 4.3,
+    "beer_name": "עבודה עברית",
+    "brewery": "New Pioneer Brewing Co - חלוץ חדש",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-04-13T13:44:02+00:00",
+    "serving": "draft",
+    "rating": 4.3,
+    "beer_name": "עבודה עברית",
+    "brewery": "New Pioneer Brewing Co - חלוץ חדש",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "berlin-florentin",
+    "time": "2026-04-13T13:33:45+00:00",
+    "serving": "Unknown",
+    "rating": 4.5,
+    "beer_name": "Guinness Draught",
+    "brewery": "Guinness",
+    "beer_type": "Stout - Irish Dry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-04-13T12:55:22+00:00",
+    "serving": "can",
+    "rating": 4.1,
+    "beer_name": "Practice the Art of Connection",
+    "brewery": "Omnipollo",
+    "beer_type": "IPA - Imperial / Double New England / Hazy"
+  },
+  {
+    "venue": "berlin-florentin",
+    "time": "2026-04-13T12:49:28+00:00",
+    "serving": "Unknown",
+    "rating": 4.5,
+    "beer_name": "Guinness Draught",
+    "brewery": "Guinness",
+    "beer_type": "Stout - Irish Dry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-04-13T12:44:49+00:00",
+    "serving": "bottle",
+    "rating": 4.2,
+    "beer_name": "Night Porter 2020 שוער הלילה",
+    "brewery": "New Pioneer Brewing Co - חלוץ חדש",
+    "beer_type": "Stout - Imperial / Double Oatmeal"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-04-13T12:37:00+00:00",
+    "serving": "can",
+    "rating": 3.8,
+    "beer_name": "Beauty - Pineapple, Cherry, Strawberry",
+    "brewery": "Magic Road",
+    "beer_type": "Fruit Beer"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-04-13T12:28:39+00:00",
+    "serving": "Unknown",
+    "rating": 4.2,
+    "beer_name": "Strawberry Sundae",
+    "brewery": "Vault City Brewing",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "berlin-florentin",
+    "time": "2026-04-13T12:19:41+00:00",
+    "serving": "Unknown",
+    "rating": 4.5,
+    "beer_name": "Guinness Draught",
+    "brewery": "Guinness",
+    "beer_type": "Stout - Irish Dry"
+  },
+  {
+    "venue": "berlin-florentin",
+    "time": "2026-04-13T12:10:25+00:00",
+    "serving": "Unknown",
+    "rating": 4.5,
+    "beer_name": "Guinness Draught",
+    "brewery": "Guinness",
+    "beer_type": "Stout - Irish Dry"
+  },
+  {
+    "venue": "berlin-florentin",
+    "time": "2026-04-13T11:48:00+00:00",
+    "serving": "Unknown",
+    "rating": 4.5,
+    "beer_name": "Guinness Draught",
+    "brewery": "Guinness",
+    "beer_type": "Stout - Irish Dry"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-04-13T10:32:59+00:00",
+    "serving": "draft",
+    "rating": 3.25,
+    "beer_name": "I'll Be Bock",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Bock - Single / Traditional"
+  },
   {
     "venue": "b7-beer-house",
     "time": "2026-04-12T23:57:23+00:00",
@@ -6595,18 +6793,18 @@ const BEER_DATA = [
     "venue": "b7-beer-house",
     "time": "2026-03-21T19:42:50+00:00",
     "serving": "can",
-    "rating": 4.25,
-    "beer_name": "Paco",
-    "brewery": "Living Häus Beer Company",
+    "rating": 3.8,
+    "beer_name": "Can You Dig It?!",
+    "brewery": "Gigantic Brewing Company",
     "beer_type": "IPA - American"
   },
   {
     "venue": "b7-beer-house",
     "time": "2026-03-21T19:42:50+00:00",
     "serving": "can",
-    "rating": 3.8,
-    "beer_name": "Can You Dig It?!",
-    "brewery": "Gigantic Brewing Company",
+    "rating": 4.25,
+    "beer_name": "Paco",
+    "brewery": "Living Häus Beer Company",
     "beer_type": "IPA - American"
   },
   {
@@ -10420,19 +10618,19 @@ const BEER_DATA = [
     "venue": "b7-beer-house",
     "time": "2026-03-09T15:56:07+00:00",
     "serving": "can",
-    "rating": 3.6,
-    "beer_name": "Yakima IPA",
+    "rating": 3.25,
+    "beer_name": "Brown Ale",
     "brewery": "Jacobsen",
-    "beer_type": "IPA - American"
+    "beer_type": "Brown Ale - English"
   },
   {
     "venue": "b7-beer-house",
     "time": "2026-03-09T15:56:07+00:00",
     "serving": "can",
-    "rating": 3.25,
-    "beer_name": "Brown Ale",
+    "rating": 3.6,
+    "beer_name": "Yakima IPA",
     "brewery": "Jacobsen",
-    "beer_type": "Brown Ale - English"
+    "beer_type": "IPA - American"
   },
   {
     "venue": "b7-beer-house",
@@ -27025,7 +27223,7 @@ const BEER_DATA = [
     "venue": "b7-beer-house",
     "time": "2026-01-25T20:44:31+00:00",
     "serving": "can",
-    "rating": 3.0,
+    "rating": 3.8,
     "beer_name": "Gelato: Syrniki",
     "brewery": "Funky Fluid",
     "beer_type": "Sour - Smoothie / Pastry"
@@ -27034,7 +27232,7 @@ const BEER_DATA = [
     "venue": "b7-beer-house",
     "time": "2026-01-25T20:44:31+00:00",
     "serving": "can",
-    "rating": 3.8,
+    "rating": 3.0,
     "beer_name": "Gelato: Syrniki",
     "brewery": "Funky Fluid",
     "beer_type": "Sour - Smoothie / Pastry"
@@ -41775,20 +41973,20 @@ const BEER_DATA = [
   {
     "venue": "lauter",
     "time": "2026-01-01T20:23:13+00:00",
-    "serving": "draft",
-    "rating": 3.0,
-    "beer_name": "Benediktiner Hell",
-    "brewery": "Benediktiner Weissbräu",
-    "beer_type": "Lager - Helles"
-  },
-  {
-    "venue": "lauter",
-    "time": "2026-01-01T20:23:13+00:00",
     "serving": "Unknown",
     "rating": null,
     "beer_name": "N'Ice Chouffe",
     "brewery": "Brasserie d'Achouffe",
     "beer_type": "Winter Ale"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-01-01T20:23:13+00:00",
+    "serving": "draft",
+    "rating": 3.0,
+    "beer_name": "Benediktiner Hell",
+    "brewery": "Benediktiner Weissbräu",
+    "beer_type": "Lager - Helles"
   },
   {
     "venue": "lauter",
@@ -48067,8 +48265,8 @@ const BEER_DATA = [
     "venue": "lauter",
     "time": "2025-12-19T13:11:34+00:00",
     "serving": "bottle",
-    "rating": 4.25,
-    "beer_name": "Oude Gueuze Tilquin à l'ancienne - Cuvée Arthur (2022-2023)",
+    "rating": 4.7,
+    "beer_name": "Oude Gueuze Tilquin à l'ancienne - Cuvée Jean-François 1759 (2021-2022)",
     "brewery": "Gueuzerie Tilquin",
     "beer_type": "Lambic - Gueuze"
   },
@@ -48076,8 +48274,8 @@ const BEER_DATA = [
     "venue": "lauter",
     "time": "2025-12-19T13:11:34+00:00",
     "serving": "bottle",
-    "rating": 4.7,
-    "beer_name": "Oude Gueuze Tilquin à l'ancienne - Cuvée Jean-François 1759 (2021-2022)",
+    "rating": 4.25,
+    "beer_name": "Oude Gueuze Tilquin à l'ancienne - Cuvée Arthur (2022-2023)",
     "brewery": "Gueuzerie Tilquin",
     "beer_type": "Lambic - Gueuze"
   },
@@ -101589,8 +101787,8 @@ const BEER_DATA = [
   {
     "venue": "b7-beer-house",
     "time": "2025-08-21T16:02:37+00:00",
-    "serving": "Unknown",
-    "rating": 3.75,
+    "serving": "can",
+    "rating": 3.5,
     "beer_name": "Nitro Mini M*rs",
     "brewery": "Vault City Brewing",
     "beer_type": "Stout - Pastry"
@@ -101598,8 +101796,8 @@ const BEER_DATA = [
   {
     "venue": "b7-beer-house",
     "time": "2025-08-21T16:02:37+00:00",
-    "serving": "can",
-    "rating": 3.5,
+    "serving": "Unknown",
+    "rating": 3.75,
     "beer_name": "Nitro Mini M*rs",
     "brewery": "Vault City Brewing",
     "beer_type": "Stout - Pastry"
@@ -101697,20 +101895,20 @@ const BEER_DATA = [
   {
     "venue": "b7-beer-house",
     "time": "2025-08-21T15:59:11+00:00",
-    "serving": "Unknown",
-    "rating": 4.0,
-    "beer_name": "Naughty & Nice - White Chocolate & Raspberry",
-    "brewery": "Vocation Brewery",
-    "beer_type": "Stout - White / Golden"
-  },
-  {
-    "venue": "b7-beer-house",
-    "time": "2025-08-21T15:59:11+00:00",
     "serving": "can",
     "rating": 3.8,
     "beer_name": "Peach Rings",
     "brewery": "Vault City Brewing",
     "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2025-08-21T15:59:11+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Naughty & Nice - White Chocolate & Raspberry",
+    "brewery": "Vocation Brewery",
+    "beer_type": "Stout - White / Golden"
   },
   {
     "venue": "b7-beer-house",
@@ -108591,8 +108789,8 @@ const BEER_DATA = [
   {
     "venue": "lauter",
     "time": "2025-08-05T19:24:07+00:00",
-    "serving": "Unknown",
-    "rating": null,
+    "serving": "can",
+    "rating": 4.5,
     "beer_name": "SLUSHY XL: Haha!",
     "brewery": "450 North Brewing Company",
     "beer_type": "Sour - Smoothie / Pastry"
@@ -108600,8 +108798,8 @@ const BEER_DATA = [
   {
     "venue": "lauter",
     "time": "2025-08-05T19:24:07+00:00",
-    "serving": "can",
-    "rating": 4.5,
+    "serving": "Unknown",
+    "rating": null,
     "beer_name": "SLUSHY XL: Haha!",
     "brewery": "450 North Brewing Company",
     "beer_type": "Sour - Smoothie / Pastry"
@@ -115962,20 +116160,20 @@ const BEER_DATA = [
   {
     "venue": "lauter",
     "time": "2025-07-26T15:22:08+00:00",
-    "serving": "Unknown",
-    "rating": 4.0,
-    "beer_name": "Pijże",
-    "brewery": "Nepo Brewing",
-    "beer_type": "Pale Ale - New England / Hazy"
-  },
-  {
-    "venue": "lauter",
-    "time": "2025-07-26T15:22:08+00:00",
     "serving": "can",
     "rating": 4.2,
     "beer_name": "Smoothie Bowl: Pistachio Fluff",
     "brewery": "Nepo Brewing",
     "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-07-26T15:22:08+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Pijże",
+    "brewery": "Nepo Brewing",
+    "beer_type": "Pale Ale - New England / Hazy"
   },
   {
     "venue": "lauter",
@@ -132855,8 +133053,8 @@ const BEER_DATA = [
   {
     "venue": "berlin-florentin",
     "time": "2024-01-22T18:42:20+00:00",
-    "serving": "can",
-    "rating": 4.0,
+    "serving": "Unknown",
+    "rating": null,
     "beer_name": "200 Units",
     "brewery": "Brewski",
     "beer_type": "Barleywine - English"
@@ -132864,8 +133062,8 @@ const BEER_DATA = [
   {
     "venue": "berlin-florentin",
     "time": "2024-01-22T18:42:20+00:00",
-    "serving": "Unknown",
-    "rating": null,
+    "serving": "can",
+    "rating": 4.0,
     "beer_name": "200 Units",
     "brewery": "Brewski",
     "beer_type": "Barleywine - English"
