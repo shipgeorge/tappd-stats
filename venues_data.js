@@ -1,8 +1,260 @@
 // 🍺 BEER STATS DATA - Generated automatically
-// Last updated: 2026-04-14 07:59:28
-// Total records: 15119
+// Last updated: 2026-04-15 08:00:48
+// Total records: 15147
 
 const BEER_DATA = [
+  {
+    "venue": "lauter",
+    "time": "2026-04-15T07:18:58+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Pale Ale",
+    "brewery": "Sierra Nevada Brewing Co.",
+    "beer_type": "Pale Ale - American"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-04-14T19:31:29+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Schnitt Happens",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "porter-and-sons",
+    "time": "2026-04-14T18:49:06+00:00",
+    "serving": "draft",
+    "rating": 4.7,
+    "beer_name": "Quetsche Tilquin – Draft Version",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-04-14T18:37:23+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Patt",
+    "brewery": "Pühaste",
+    "beer_type": "Porter - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-04-14T18:36:16+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Mad Cow",
+    "brewery": "HORIZONT Brewing",
+    "beer_type": "Stout - Milk / Sweet"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-04-14T18:34:29+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Black Velvet 2.0",
+    "brewery": "Vault City Brewing",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-04-14T18:17:57+00:00",
+    "serving": "draft",
+    "rating": 4.6,
+    "beer_name": "Kriek 2025 - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": "Lambic - Kriek"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-04-14T17:05:06+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "I'll Be Bock",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Bock - Single / Traditional"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-04-14T17:04:38+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "I love cinnamon",
+    "brewery": "ULTIMA",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-04-14T17:03:49+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Hazy Little Thing",
+    "brewery": "Sierra Nevada Brewing Co.",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-04-14T17:01:58+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Hop Squad 2026",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-04-14T16:22:38+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Milk of the Madonna",
+    "brewery": "ULTIMA",
+    "beer_type": "IPA - Imperial / Double New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-04-14T16:18:09+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Zigzag.",
+    "brewery": "Moon Lark Brewery",
+    "beer_type": "IPA - Imperial / Double New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-04-14T16:17:23+00:00",
+    "serving": "draft",
+    "rating": 3.7,
+    "beer_name": "Hazy Little Thing",
+    "brewery": "Sierra Nevada Brewing Co.",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-04-14T16:16:53+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "EVEN MORE HIPSTERISH",
+    "brewery": "Evil Twin Brewing NYC",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-04-14T16:15:14+00:00",
+    "serving": "can",
+    "rating": 4.5,
+    "beer_name": "Gelato XTREME: Berries & Cream",
+    "brewery": "Funky Fluid",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-04-14T15:53:21+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "I'll Be Bock",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Bock - Single / Traditional"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-04-14T15:48:23+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "I love cinnamon",
+    "brewery": "ULTIMA",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-04-14T15:37:43+00:00",
+    "serving": "can",
+    "rating": 5.0,
+    "beer_name": "BGM Fruit Portal",
+    "brewery": "Browar Stu Mostów",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-04-14T15:31:22+00:00",
+    "serving": "can",
+    "rating": 4.5,
+    "beer_name": "Hydra | Sangria",
+    "brewery": "Mortalis Brewing Company",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-04-14T15:24:36+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "Bucharest Anyone?",
+    "brewery": "ULTIMA",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-04-14T15:22:44+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "I love cinnamon",
+    "brewery": "ULTIMA",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-04-14T15:21:54+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "I Hate Cinnamon",
+    "brewery": "ULTIMA",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-04-14T15:20:35+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Prime.",
+    "brewery": "Moon Lark Brewery",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-04-14T15:19:29+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Everyone Knows the Rules",
+    "brewery": "Bereta Brewing Co.",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-04-14T15:18:25+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Pilot #53 Hopfen 1019",
+    "brewery": "BrewDog Deutschland",
+    "beer_type": "Red Ale - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-04-14T15:16:35+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Slice.",
+    "brewery": "Moon Lark Brewery",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-04-14T11:14:57+00:00",
+    "serving": "draft",
+    "rating": 3.25,
+    "beer_name": "Schnitt Happens",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - American"
+  },
   {
     "venue": "b7-beer-house",
     "time": "2026-04-13T16:05:51+00:00",
@@ -7288,7 +7540,7 @@ const BEER_DATA = [
     "venue": "b7-beer-house",
     "time": "2026-03-21T18:37:19+00:00",
     "serving": "can",
-    "rating": 3.75,
+    "rating": 3.5,
     "beer_name": "Oasis Splash",
     "brewery": "Duda",
     "beer_type": "IPA - American"
@@ -7297,7 +7549,7 @@ const BEER_DATA = [
     "venue": "b7-beer-house",
     "time": "2026-03-21T18:37:19+00:00",
     "serving": "can",
-    "rating": 3.5,
+    "rating": 3.75,
     "beer_name": "Oasis Splash",
     "brewery": "Duda",
     "beer_type": "IPA - American"
@@ -12822,20 +13074,20 @@ const BEER_DATA = [
   {
     "venue": "b7-beer-house",
     "time": "2026-02-27T12:11:29+00:00",
-    "serving": "can",
-    "rating": 4.8,
-    "beer_name": "Midnight Snack",
-    "brewery": "LERVIG",
-    "beer_type": "Stout - Imperial / Double Pastry"
-  },
-  {
-    "venue": "b7-beer-house",
-    "time": "2026-02-27T12:11:29+00:00",
     "serving": "Unknown",
     "rating": null,
     "beer_name": "משהו טוטאלי",
     "brewery": "New Pioneer Brewing Co - חלוץ חדש",
     "beer_type": "Brown Ale - Other"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-02-27T12:11:29+00:00",
+    "serving": "can",
+    "rating": 4.8,
+    "beer_name": "Midnight Snack",
+    "brewery": "LERVIG",
+    "beer_type": "Stout - Imperial / Double Pastry"
   },
   {
     "venue": "b7-beer-house",
@@ -12883,15 +13135,6 @@ const BEER_DATA = [
     "beer_type": "IPA - American"
   },
   {
-    "venue": "schnitt-brewing-company",
-    "time": "2026-02-27T12:00:51+00:00",
-    "serving": "draft",
-    "rating": 3.25,
-    "beer_name": "It Is What It Is",
-    "brewery": "Schnitt Brewing Company﻿",
-    "beer_type": "Blonde / Golden Ale - Other"
-  },
-  {
     "venue": "b7-beer-house",
     "time": "2026-02-27T12:00:51+00:00",
     "serving": "Unknown",
@@ -12899,6 +13142,15 @@ const BEER_DATA = [
     "beer_name": "A Twist In the Mist",
     "brewery": "Sleepwalker Brewery",
     "beer_type": "Homebrew, Stout - English"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-02-27T12:00:51+00:00",
+    "serving": "draft",
+    "rating": 3.25,
+    "beer_name": "It Is What It Is",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Blonde / Golden Ale - Other"
   },
   {
     "venue": "b7-beer-house",
@@ -32251,15 +32503,6 @@ const BEER_DATA = [
     "beer_type": "IPA - New England / Hazy"
   },
   {
-    "venue": "schnitt-brewing-company",
-    "time": "2026-01-16T18:31:34+00:00",
-    "serving": "draft",
-    "rating": 4.0,
-    "beer_name": "CBGF: Garden Through the Looking Glass",
-    "brewery": "CoolHead Brew",
-    "beer_type": "Stout - Imperial / Double Pastry"
-  },
-  {
     "venue": "lauter",
     "time": "2026-01-16T18:31:34+00:00",
     "serving": "draft",
@@ -32267,6 +32510,15 @@ const BEER_DATA = [
     "beer_name": "Vagus",
     "brewery": "קישקשתא (Kishkashta)",
     "beer_type": "IPA - American"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-01-16T18:31:34+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "CBGF: Garden Through the Looking Glass",
+    "brewery": "CoolHead Brew",
+    "beer_type": "Stout - Imperial / Double Pastry"
   },
   {
     "venue": "lauter",
@@ -33334,19 +33586,19 @@ const BEER_DATA = [
     "venue": "lauter",
     "time": "2026-01-16T14:52:39+00:00",
     "serving": "Unknown",
-    "rating": 4.0,
-    "beer_name": "Christmas Ale",
-    "brewery": "Brouwerij St. Bernardus",
-    "beer_type": "Winter Ale"
+    "rating": 3.5,
+    "beer_name": "Alt Neuland",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Altbier - Traditional"
   },
   {
     "venue": "lauter",
     "time": "2026-01-16T14:52:39+00:00",
     "serving": "Unknown",
-    "rating": 3.5,
-    "beer_name": "Alt Neuland",
-    "brewery": "Schnitt Brewing Company﻿",
-    "beer_type": "Altbier - Traditional"
+    "rating": 4.0,
+    "beer_name": "Christmas Ale",
+    "brewery": "Brouwerij St. Bernardus",
+    "beer_type": "Winter Ale"
   },
   {
     "venue": "schnitt-brewing-company",
@@ -59407,19 +59659,19 @@ const BEER_DATA = [
     "venue": "b7-beer-house",
     "time": "2025-11-21T12:08:02+00:00",
     "serving": "bottle",
-    "rating": 4.25,
-    "beer_name": "Bzart Lambiek Millésime 2018",
+    "rating": 4.0,
+    "beer_name": "Wild Dry Cider - Blended With Lambic",
     "brewery": "Oud Beersel",
-    "beer_type": "Lambic - Traditional"
+    "beer_type": "Cider - Dry"
   },
   {
     "venue": "b7-beer-house",
     "time": "2025-11-21T12:08:02+00:00",
     "serving": "bottle",
-    "rating": 4.0,
-    "beer_name": "Wild Dry Cider - Blended With Lambic",
+    "rating": 4.25,
+    "beer_name": "Bzart Lambiek Millésime 2018",
     "brewery": "Oud Beersel",
-    "beer_type": "Cider - Dry"
+    "beer_type": "Lambic - Traditional"
   },
   {
     "venue": "b7-beer-house",
@@ -60659,18 +60911,18 @@ const BEER_DATA = [
     "time": "2025-11-21T10:35:21+00:00",
     "serving": "bottle",
     "rating": 4.25,
-    "beer_name": "Grapefruit Peel Lambiek - Sparkling Infused",
-    "brewery": "Oud Beersel",
-    "beer_type": "Lambic - Other"
+    "beer_name": "Rullquin au café du Rwanda",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": "Sour - Other"
   },
   {
     "venue": "b7-beer-house",
     "time": "2025-11-21T10:35:21+00:00",
     "serving": "bottle",
     "rating": 4.25,
-    "beer_name": "Rullquin au café du Rwanda",
-    "brewery": "Gueuzerie Tilquin",
-    "beer_type": "Sour - Other"
+    "beer_name": "Grapefruit Peel Lambiek - Sparkling Infused",
+    "brewery": "Oud Beersel",
+    "beer_type": "Lambic - Other"
   },
   {
     "venue": "b7-beer-house",
@@ -72133,7 +72385,7 @@ const BEER_DATA = [
     "venue": "lauter",
     "time": "2025-10-26T18:36:28+00:00",
     "serving": "can",
-    "rating": 3.25,
+    "rating": 3.75,
     "beer_name": "Darkness My Friends Imperial Baltic Porter Coffee & Date Syrup",
     "brewery": "Maryensztadt",
     "beer_type": "Porter - Baltic"
@@ -72142,7 +72394,7 @@ const BEER_DATA = [
     "venue": "lauter",
     "time": "2025-10-26T18:36:28+00:00",
     "serving": "can",
-    "rating": 3.75,
+    "rating": 3.25,
     "beer_name": "Darkness My Friends Imperial Baltic Porter Coffee & Date Syrup",
     "brewery": "Maryensztadt",
     "beer_type": "Porter - Baltic"
@@ -101787,8 +102039,8 @@ const BEER_DATA = [
   {
     "venue": "b7-beer-house",
     "time": "2025-08-21T16:02:37+00:00",
-    "serving": "can",
-    "rating": 3.5,
+    "serving": "Unknown",
+    "rating": 3.75,
     "beer_name": "Nitro Mini M*rs",
     "brewery": "Vault City Brewing",
     "beer_type": "Stout - Pastry"
@@ -101796,8 +102048,8 @@ const BEER_DATA = [
   {
     "venue": "b7-beer-house",
     "time": "2025-08-21T16:02:37+00:00",
-    "serving": "Unknown",
-    "rating": 3.75,
+    "serving": "can",
+    "rating": 3.5,
     "beer_name": "Nitro Mini M*rs",
     "brewery": "Vault City Brewing",
     "beer_type": "Stout - Pastry"
@@ -133053,8 +133305,8 @@ const BEER_DATA = [
   {
     "venue": "berlin-florentin",
     "time": "2024-01-22T18:42:20+00:00",
-    "serving": "Unknown",
-    "rating": null,
+    "serving": "can",
+    "rating": 4.0,
     "beer_name": "200 Units",
     "brewery": "Brewski",
     "beer_type": "Barleywine - English"
@@ -133062,8 +133314,8 @@ const BEER_DATA = [
   {
     "venue": "berlin-florentin",
     "time": "2024-01-22T18:42:20+00:00",
-    "serving": "can",
-    "rating": 4.0,
+    "serving": "Unknown",
+    "rating": null,
     "beer_name": "200 Units",
     "brewery": "Brewski",
     "beer_type": "Barleywine - English"
