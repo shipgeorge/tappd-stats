@@ -1,8 +1,269 @@
 // 🍺 BEER STATS DATA - Generated automatically
-// Last updated: 2026-04-21 08:05:06
-// Total records: 15418
+// Last updated: 2026-04-22 08:01:41
+// Total records: 15447
 
 const BEER_DATA = [
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-04-22T07:06:20+00:00",
+    "serving": "draft",
+    "rating": 4.75,
+    "beer_name": "Creamy Lime Sour Cheescake",
+    "brewery": "New Pioneer Brewing Co - חלוץ חדש",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-04-22T07:05:36+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "NY State of Mind",
+    "brewery": "New Pioneer Brewing Co - חלוץ חדש",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-04-21T23:02:08+00:00",
+    "serving": "Unknown",
+    "rating": 3.0,
+    "beer_name": "Porter & Sons - Salted Caramel",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Porter - Other"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-04-21T21:24:34+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "Creamy Lime Sour Cheescake",
+    "brewery": "New Pioneer Brewing Co - חלוץ חדש",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-04-21T21:00:52+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Four Hopsmen",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - Imperial / Double New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-04-21T19:07:02+00:00",
+    "serving": "draft",
+    "rating": 3.25,
+    "beer_name": "NY State of Mind",
+    "brewery": "New Pioneer Brewing Co - חלוץ חדש",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-04-21T18:38:39+00:00",
+    "serving": "draft",
+    "rating": 3.25,
+    "beer_name": "Blackcurrant Sorbet",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-04-21T18:35:23+00:00",
+    "serving": "draft",
+    "rating": 5.0,
+    "beer_name": "Hoppy Ever After",
+    "brewery": "New Pioneer Brewing Co - חלוץ חדש",
+    "beer_type": "Pale Ale - New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-04-21T18:35:02+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "NY State of Mind",
+    "brewery": "New Pioneer Brewing Co - חלוץ חדש",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-04-21T18:13:48+00:00",
+    "serving": "draft",
+    "rating": 5.0,
+    "beer_name": "Creamy Lime Sour Cheescake",
+    "brewery": "New Pioneer Brewing Co - חלוץ חדש",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-04-21T17:11:00+00:00",
+    "serving": "draft",
+    "rating": 5.0,
+    "beer_name": "Creamy Lime Sour Cheescake",
+    "brewery": "New Pioneer Brewing Co - חלוץ חדש",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-04-21T17:10:13+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "NY State of Mind",
+    "brewery": "New Pioneer Brewing Co - חלוץ חדש",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-04-21T17:09:28+00:00",
+    "serving": "draft",
+    "rating": 5.0,
+    "beer_name": "Hoppy Ever After",
+    "brewery": "New Pioneer Brewing Co - חלוץ חדש",
+    "beer_type": "Pale Ale - New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-04-21T17:04:37+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Sessionista",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "ursa",
+    "time": "2026-04-21T14:46:07+00:00",
+    "serving": "can",
+    "rating": null,
+    "beer_name": "DDH Riwaka X Nectaron X Superdelic Pale Ale",
+    "brewery": "Ārpus Brewing Co.",
+    "beer_type": "Pale Ale - New England / Hazy"
+  },
+  {
+    "venue": "ursa",
+    "time": "2026-04-21T14:45:39+00:00",
+    "serving": "can",
+    "rating": null,
+    "beer_name": "Citra & Simcoe Hoppy Grodziskie",
+    "brewery": "Nepo Brewing",
+    "beer_type": "Historical Beer - Grodziskie / Grätzer"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-04-21T14:43:40+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Sessionista",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-04-21T14:19:50+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Weissman",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Wheat Beer - Hefeweizen"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-04-21T13:17:10+00:00",
+    "serving": "Unknown",
+    "rating": 4.25,
+    "beer_name": "הפילס שבחדר the Pils In the Room",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pilsner - German"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-04-21T12:33:16+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Yummy Prickly Pear, Banana, Pear & Kiwi",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-04-21T12:31:08+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Blackcurrant Sorbet",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-04-21T12:29:45+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "Pale Ale",
+    "brewery": "Sierra Nevada Brewing Co.",
+    "beer_type": "Pale Ale - American"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-04-21T12:29:20+00:00",
+    "serving": "draft",
+    "rating": 4.5,
+    "beer_name": "Hoppy Ever After",
+    "brewery": "New Pioneer Brewing Co - חלוץ חדש",
+    "beer_type": "Pale Ale - New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-04-21T12:28:45+00:00",
+    "serving": "draft",
+    "rating": 4.5,
+    "beer_name": "Creamy Lime Sour Cheescake",
+    "brewery": "New Pioneer Brewing Co - חלוץ חדש",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-04-21T12:28:08+00:00",
+    "serving": "draft",
+    "rating": 3.25,
+    "beer_name": "NY State of Mind",
+    "brewery": "New Pioneer Brewing Co - חלוץ חדש",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-04-21T11:33:11+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "Hazy Little Thing",
+    "brewery": "Sierra Nevada Brewing Co.",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-04-21T11:31:39+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Schnitt Happens",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-04-21T11:30:55+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "I'll Be Bock",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Bock - Single / Traditional"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-04-21T09:53:32+00:00",
+    "serving": "Unknown",
+    "rating": 4.5,
+    "beer_name": "Hoppy Ever After",
+    "brewery": "New Pioneer Brewing Co - חלוץ חדש",
+    "beer_type": "Pale Ale - New England / Hazy"
+  },
   {
     "venue": "b7-beer-house",
     "time": "2026-04-21T07:37:17+00:00",
@@ -9484,18 +9745,18 @@ const BEER_DATA = [
     "venue": "b7-beer-house",
     "time": "2026-03-21T19:42:50+00:00",
     "serving": "can",
-    "rating": 4.25,
-    "beer_name": "Paco",
-    "brewery": "Living Häus Beer Company",
+    "rating": 3.8,
+    "beer_name": "Can You Dig It?!",
+    "brewery": "Gigantic Brewing Company",
     "beer_type": "IPA - American"
   },
   {
     "venue": "b7-beer-house",
     "time": "2026-03-21T19:42:50+00:00",
     "serving": "can",
-    "rating": 3.8,
-    "beer_name": "Can You Dig It?!",
-    "brewery": "Gigantic Brewing Company",
+    "rating": 4.25,
+    "beer_name": "Paco",
+    "brewery": "Living Häus Beer Company",
     "beer_type": "IPA - American"
   },
   {
@@ -52396,19 +52657,19 @@ const BEER_DATA = [
     "venue": "b7-beer-house",
     "time": "2025-12-14T19:05:15+00:00",
     "serving": "can",
-    "rating": 3.75,
-    "beer_name": "Toasted Marshmallow Hazy IPA",
-    "brewery": "Urbanaut Brewing",
-    "beer_type": "IPA - New England / Hazy"
+    "rating": 3.6,
+    "beer_name": "Качок-Кабачок",
+    "brewery": "4BREWERS",
+    "beer_type": "Sour - Tomato / Vegetable Gose"
   },
   {
     "venue": "b7-beer-house",
     "time": "2025-12-14T19:05:15+00:00",
     "serving": "can",
-    "rating": 3.6,
-    "beer_name": "Качок-Кабачок",
-    "brewery": "4BREWERS",
-    "beer_type": "Sour - Tomato / Vegetable Gose"
+    "rating": 3.75,
+    "beer_name": "Toasted Marshmallow Hazy IPA",
+    "brewery": "Urbanaut Brewing",
+    "beer_type": "IPA - New England / Hazy"
   },
   {
     "venue": "lauter",
@@ -62098,19 +62359,19 @@ const BEER_DATA = [
     "venue": "b7-beer-house",
     "time": "2025-11-21T12:08:02+00:00",
     "serving": "bottle",
-    "rating": 4.25,
-    "beer_name": "Bzart Lambiek Millésime 2018",
+    "rating": 4.0,
+    "beer_name": "Wild Dry Cider - Blended With Lambic",
     "brewery": "Oud Beersel",
-    "beer_type": "Lambic - Traditional"
+    "beer_type": "Cider - Dry"
   },
   {
     "venue": "b7-beer-house",
     "time": "2025-11-21T12:08:02+00:00",
     "serving": "bottle",
-    "rating": 4.0,
-    "beer_name": "Wild Dry Cider - Blended With Lambic",
+    "rating": 4.25,
+    "beer_name": "Bzart Lambiek Millésime 2018",
     "brewery": "Oud Beersel",
-    "beer_type": "Cider - Dry"
+    "beer_type": "Lambic - Traditional"
   },
   {
     "venue": "b7-beer-house",
@@ -118851,20 +119112,20 @@ const BEER_DATA = [
   {
     "venue": "lauter",
     "time": "2025-07-26T15:22:08+00:00",
-    "serving": "can",
-    "rating": 4.2,
-    "beer_name": "Smoothie Bowl: Pistachio Fluff",
-    "brewery": "Nepo Brewing",
-    "beer_type": "Sour - Smoothie / Pastry"
-  },
-  {
-    "venue": "lauter",
-    "time": "2025-07-26T15:22:08+00:00",
     "serving": "Unknown",
     "rating": 4.0,
     "beer_name": "Pijże",
     "brewery": "Nepo Brewing",
     "beer_type": "Pale Ale - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2025-07-26T15:22:08+00:00",
+    "serving": "can",
+    "rating": 4.2,
+    "beer_name": "Smoothie Bowl: Pistachio Fluff",
+    "brewery": "Nepo Brewing",
+    "beer_type": "Sour - Smoothie / Pastry"
   },
   {
     "venue": "lauter",
@@ -119896,19 +120157,19 @@ const BEER_DATA = [
     "venue": "lauter",
     "time": "2025-07-25T18:15:23+00:00",
     "serving": "draft",
-    "rating": 4.0,
-    "beer_name": "Cuvée Saint-Gilloise 2023 - Draft Version",
+    "rating": 4.8,
+    "beer_name": "Fou' Foune 2023 - Draft Version",
     "brewery": "Brasserie Cantillon",
-    "beer_type": "Lambic - Traditional"
+    "beer_type": "Lambic - Fruit"
   },
   {
     "venue": "lauter",
     "time": "2025-07-25T18:15:23+00:00",
     "serving": "draft",
-    "rating": 4.8,
-    "beer_name": "Fou' Foune 2023 - Draft Version",
+    "rating": 4.0,
+    "beer_name": "Cuvée Saint-Gilloise 2023 - Draft Version",
     "brewery": "Brasserie Cantillon",
-    "beer_type": "Lambic - Fruit"
+    "beer_type": "Lambic - Traditional"
   },
   {
     "venue": "lauter",
@@ -135744,8 +136005,8 @@ const BEER_DATA = [
   {
     "venue": "berlin-florentin",
     "time": "2024-01-22T18:42:20+00:00",
-    "serving": "Unknown",
-    "rating": null,
+    "serving": "can",
+    "rating": 4.0,
     "beer_name": "200 Units",
     "brewery": "Brewski",
     "beer_type": "Barleywine - English"
@@ -135753,8 +136014,8 @@ const BEER_DATA = [
   {
     "venue": "berlin-florentin",
     "time": "2024-01-22T18:42:20+00:00",
-    "serving": "can",
-    "rating": 4.0,
+    "serving": "Unknown",
+    "rating": null,
     "beer_name": "200 Units",
     "brewery": "Brewski",
     "beer_type": "Barleywine - English"
