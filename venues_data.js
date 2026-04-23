@@ -1,5 +1,5 @@
 // 🍺 BEER STATS DATA - Generated automatically
-// Last updated: 2026-04-22 08:01:41
+// Last updated: 2026-04-23 08:07:17
 // Total records: 15447
 
 const BEER_DATA = [
