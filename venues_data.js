@@ -1,8 +1,188 @@
 // 🍺 BEER STATS DATA - Generated automatically
-// Last updated: 2026-04-23 08:07:17
-// Total records: 15447
+// Last updated: 2026-04-24 08:16:23
+// Total records: 15467
 
 const BEER_DATA = [
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-04-24T07:44:21+00:00",
+    "serving": "draft",
+    "rating": 5.0,
+    "beer_name": "Hoppy Ever After",
+    "brewery": "New Pioneer Brewing Co - חלוץ חדש",
+    "beer_type": "Pale Ale - New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-04-24T07:36:26+00:00",
+    "serving": "bottle",
+    "rating": 5.0,
+    "beer_name": "THE GREAT NORTHERN BARREL-AGED SERIES 53 - RELEASED 10/24/25",
+    "brewery": "Evil Twin Brewing NYC",
+    "beer_type": "Stout - Imperial / Double"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-04-24T07:28:35+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "Hoppy Ever After",
+    "brewery": "New Pioneer Brewing Co - חלוץ חדש",
+    "beer_type": "Pale Ale - New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-04-24T07:26:27+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Strawberry Sundae",
+    "brewery": "Vault City Brewing",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-04-24T07:25:44+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "Hoppy Ever After",
+    "brewery": "New Pioneer Brewing Co - חלוץ חדש",
+    "beer_type": "Pale Ale - New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-04-24T07:18:31+00:00",
+    "serving": "draft",
+    "rating": 4.2,
+    "beer_name": "Strawberry Sundae",
+    "brewery": "Vault City Brewing",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-04-24T07:08:32+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Sab Kuch Milaga",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Lager - IPL (India Pale Lager)"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-04-24T07:07:55+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Double Intergalactica",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-04-24T07:06:25+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "תוצרת הארץ",
+    "brewery": "New Pioneer Brewing Co - חלוץ חדש",
+    "beer_type": "Pale Ale - American"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-04-24T07:06:05+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Hazy Little Thing",
+    "brewery": "Sierra Nevada Brewing Co.",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-04-23T21:12:37+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "CHOPPING WOOD",
+    "brewery": "Evil Twin Brewing NYC",
+    "beer_type": "IPA - Imperial / Double New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-04-23T20:07:16+00:00",
+    "serving": "bottle",
+    "rating": 3.75,
+    "beer_name": "Session Wheat",
+    "brewery": "White Rabbit (IL)",
+    "beer_type": "Wheat Beer - Hefeweizen"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-04-23T19:07:22+00:00",
+    "serving": "bottle",
+    "rating": 3.5,
+    "beer_name": "India Pale Ale",
+    "brewery": "Tennent's Caledonian Brewery",
+    "beer_type": "IPA - English"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-04-23T18:59:56+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Tea Party: Masala",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pale Ale - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-04-23T18:34:17+00:00",
+    "serving": "draft",
+    "rating": 4.3,
+    "beer_name": "Kriek de Schaerbeek Tilquin - Draft Version",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": "Lambic - Kriek"
+  },
+  {
+    "venue": "beerbazaar-brewery",
+    "time": "2026-04-23T18:31:33+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "ששון",
+    "brewery": "BeerBazaar / Mivshelet Ha’Aretz",
+    "beer_type": "IPA - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-04-23T14:19:02+00:00",
+    "serving": "draft",
+    "rating": 3.25,
+    "beer_name": "Hoppy Lager",
+    "brewery": "Isis Desert Brewery (מבשלת הנגב המערבי)",
+    "beer_type": "Lager - IPL (India Pale Lager)"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-04-23T10:35:04+00:00",
+    "serving": "draft",
+    "rating": 3.25,
+    "beer_name": "Schnitt Happens",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-04-23T10:02:24+00:00",
+    "serving": "draft",
+    "rating": 3.25,
+    "beer_name": "Sessionista",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-04-23T09:29:09+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Four Hopsmen",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - Imperial / Double New England / Hazy"
+  },
   {
     "venue": "b7-beer-house",
     "time": "2026-04-22T07:06:20+00:00",
@@ -13570,19 +13750,19 @@ const BEER_DATA = [
     "venue": "b7-beer-house",
     "time": "2026-03-09T15:56:07+00:00",
     "serving": "can",
-    "rating": 3.6,
-    "beer_name": "Yakima IPA",
+    "rating": 3.25,
+    "beer_name": "Brown Ale",
     "brewery": "Jacobsen",
-    "beer_type": "IPA - American"
+    "beer_type": "Brown Ale - English"
   },
   {
     "venue": "b7-beer-house",
     "time": "2026-03-09T15:56:07+00:00",
     "serving": "can",
-    "rating": 3.25,
-    "beer_name": "Brown Ale",
+    "rating": 3.6,
+    "beer_name": "Yakima IPA",
     "brewery": "Jacobsen",
-    "beer_type": "Brown Ale - English"
+    "beer_type": "IPA - American"
   },
   {
     "venue": "b7-beer-house",
@@ -30175,7 +30355,7 @@ const BEER_DATA = [
     "venue": "b7-beer-house",
     "time": "2026-01-25T20:44:31+00:00",
     "serving": "can",
-    "rating": 3.8,
+    "rating": 3.0,
     "beer_name": "Gelato: Syrniki",
     "brewery": "Funky Fluid",
     "beer_type": "Sour - Smoothie / Pastry"
@@ -30184,7 +30364,7 @@ const BEER_DATA = [
     "venue": "b7-beer-house",
     "time": "2026-01-25T20:44:31+00:00",
     "serving": "can",
-    "rating": 3.0,
+    "rating": 3.8,
     "beer_name": "Gelato: Syrniki",
     "brewery": "Funky Fluid",
     "beer_type": "Sour - Smoothie / Pastry"
@@ -75085,7 +75265,7 @@ const BEER_DATA = [
     "venue": "lauter",
     "time": "2025-10-26T18:36:28+00:00",
     "serving": "can",
-    "rating": 3.75,
+    "rating": 3.25,
     "beer_name": "Darkness My Friends Imperial Baltic Porter Coffee & Date Syrup",
     "brewery": "Maryensztadt",
     "beer_type": "Porter - Baltic"
@@ -75094,7 +75274,7 @@ const BEER_DATA = [
     "venue": "lauter",
     "time": "2025-10-26T18:36:28+00:00",
     "serving": "can",
-    "rating": 3.25,
+    "rating": 3.75,
     "beer_name": "Darkness My Friends Imperial Baltic Porter Coffee & Date Syrup",
     "brewery": "Maryensztadt",
     "beer_type": "Porter - Baltic"
@@ -112038,8 +112218,8 @@ const BEER_DATA = [
   {
     "venue": "lauter",
     "time": "2025-08-05T18:49:38+00:00",
-    "serving": "Unknown",
-    "rating": 4.5,
+    "serving": "can",
+    "rating": 4.0,
     "beer_name": "Whakahoa",
     "brewery": "Factory Brewing",
     "beer_type": "IPA - Triple New England / Hazy"
@@ -112047,8 +112227,8 @@ const BEER_DATA = [
   {
     "venue": "lauter",
     "time": "2025-08-05T18:49:38+00:00",
-    "serving": "can",
-    "rating": 4.0,
+    "serving": "Unknown",
+    "rating": 4.5,
     "beer_name": "Whakahoa",
     "brewery": "Factory Brewing",
     "beer_type": "IPA - Triple New England / Hazy"
@@ -136005,8 +136185,8 @@ const BEER_DATA = [
   {
     "venue": "berlin-florentin",
     "time": "2024-01-22T18:42:20+00:00",
-    "serving": "can",
-    "rating": 4.0,
+    "serving": "Unknown",
+    "rating": null,
     "beer_name": "200 Units",
     "brewery": "Brewski",
     "beer_type": "Barleywine - English"
@@ -136014,8 +136194,8 @@ const BEER_DATA = [
   {
     "venue": "berlin-florentin",
     "time": "2024-01-22T18:42:20+00:00",
-    "serving": "Unknown",
-    "rating": null,
+    "serving": "can",
+    "rating": 4.0,
     "beer_name": "200 Units",
     "brewery": "Brewski",
     "beer_type": "Barleywine - English"

@@ -1,4 +1,24 @@
 venue,user,time,serving,data_rating,beer_name,brewery,beer_type
+b7-beer-house,Yotam Bar-natan,"Fri, 24 Apr 2026 07:44:21 +0000",draft,5.0,Hoppy Ever After,New Pioneer Brewing Co - חלוץ חדש,Pale Ale - New England / Hazy
+b7-beer-house,Israel Shenkman,"Fri, 24 Apr 2026 07:36:26 +0000",bottle,5.0,THE GREAT NORTHERN BARREL-AGED SERIES 53 - RELEASED 10/24/25,Evil Twin Brewing NYC,Stout - Imperial / Double
+b7-beer-house,Israel Shenkman,"Fri, 24 Apr 2026 07:28:35 +0000",draft,4.25,Hoppy Ever After,New Pioneer Brewing Co - חלוץ חדש,Pale Ale - New England / Hazy
+b7-beer-house,alexander_vaginsky_4548,"Fri, 24 Apr 2026 07:26:27 +0000",draft,4.0,Strawberry Sundae,Vault City Brewing,Sour - Fruited
+b7-beer-house,alexander_vaginsky_4548,"Fri, 24 Apr 2026 07:25:44 +0000",draft,4.25,Hoppy Ever After,New Pioneer Brewing Co - חלוץ חדש,Pale Ale - New England / Hazy
+b7-beer-house,Yotam Bar-natan,"Fri, 24 Apr 2026 07:18:31 +0000",draft,4.2,Strawberry Sundae,Vault City Brewing,Sour - Fruited
+b7-beer-house,Yuval Lutski,"Fri, 24 Apr 2026 07:08:32 +0000",can,3.75,Sab Kuch Milaga,Schnitt Brewing Company﻿,Lager - IPL (India Pale Lager)
+b7-beer-house,Yuval Lutski,"Fri, 24 Apr 2026 07:07:55 +0000",can,4.0,Double Intergalactica,Schnitt Brewing Company﻿,IPA - New England / Hazy
+b7-beer-house,Yuval Lutski,"Fri, 24 Apr 2026 07:06:25 +0000",draft,4.25,תוצרת הארץ,New Pioneer Brewing Co - חלוץ חדש,Pale Ale - American
+b7-beer-house,Yuval Lutski,"Fri, 24 Apr 2026 07:06:05 +0000",draft,4.0,Hazy Little Thing,Sierra Nevada Brewing Co.,IPA - New England / Hazy
+schnitt-brewing-company,Elad Schitrit,"Thu, 23 Apr 2026 21:12:37 +0000",can,4.0,CHOPPING WOOD,Evil Twin Brewing NYC,IPA - Imperial / Double New England / Hazy
+lauter,Elad Schitrit,"Thu, 23 Apr 2026 20:07:16 +0000",bottle,3.75,Session Wheat,White Rabbit (IL),Wheat Beer - Hefeweizen
+lauter,Elad Schitrit,"Thu, 23 Apr 2026 19:07:22 +0000",bottle,3.5,India Pale Ale,Tennent's Caledonian Brewery,IPA - English
+schnitt-brewing-company,Max N,"Thu, 23 Apr 2026 18:59:56 +0000",draft,3.5,Tea Party: Masala,Schnitt Brewing Company﻿,Pale Ale - Other
+lauter,Max N,"Thu, 23 Apr 2026 18:34:17 +0000",draft,4.3,Kriek de Schaerbeek Tilquin - Draft Version,Gueuzerie Tilquin,Lambic - Kriek
+beerbazaar-brewery,Oren Sela,"Thu, 23 Apr 2026 18:31:33 +0000",draft,3.5,ששון,BeerBazaar / Mivshelet Ha’Aretz,IPA - Other
+lauter,Ido Kessler,"Thu, 23 Apr 2026 14:19:02 +0000",draft,3.25,Hoppy Lager,Isis Desert Brewery (מבשלת הנגב המערבי),Lager - IPL (India Pale Lager)
+schnitt-brewing-company,Guy Arbel,"Thu, 23 Apr 2026 10:35:04 +0000",draft,3.25,Schnitt Happens,Schnitt Brewing Company﻿,IPA - American
+schnitt-brewing-company,Guy Arbel,"Thu, 23 Apr 2026 10:02:24 +0000",draft,3.25,Sessionista,Schnitt Brewing Company﻿,IPA - New England / Hazy
+schnitt-brewing-company,Guy Arbel,"Thu, 23 Apr 2026 09:29:09 +0000",draft,3.75,Four Hopsmen,Schnitt Brewing Company﻿,IPA - Imperial / Double New England / Hazy
 b7-beer-house,Gilad Neeman,"Wed, 22 Apr 2026 07:06:20 +0000",draft,4.75,Creamy Lime Sour Cheescake,New Pioneer Brewing Co - חלוץ חדש,Sour - Smoothie / Pastry
 b7-beer-house,Gilad Neeman,"Wed, 22 Apr 2026 07:05:36 +0000",draft,4.0,NY State of Mind,New Pioneer Brewing Co - חלוץ חדש,IPA - American
 schnitt-brewing-company,YSBeer2000,"Tue, 21 Apr 2026 23:02:08 +0000",,3.0,Porter & Sons - Salted Caramel,Schnitt Brewing Company﻿,Porter - Other
@@ -1506,8 +1526,8 @@ b7-beer-house,Yuval Lutski,"Mon, 09 Mar 2026 16:06:57 +0000",can,4.25,Boh (2024)
 b7-beer-house,Yotam Bar-natan,"Mon, 09 Mar 2026 16:04:54 +0000",can,4.1,Boh (2024),FUERST WIACEK Berlin,IPA - New England / Hazy
 b7-beer-house,Yotam Bar-natan,"Mon, 09 Mar 2026 16:03:24 +0000",can,3.6,Yakima IPA,Jacobsen,IPA - American
 b7-beer-house,Yuval Lutski,"Mon, 09 Mar 2026 15:56:41 +0000",can,4.0,Yakima IPA,Jacobsen,IPA - American
-b7-beer-house,Yotam Bar-natan,"Mon, 09 Mar 2026 15:56:07 +0000",can,3.6,Yakima IPA,Jacobsen,IPA - American
 b7-beer-house,Yuval Lutski,"Mon, 09 Mar 2026 15:56:07 +0000",can,3.25,Brown Ale,Jacobsen,Brown Ale - English
+b7-beer-house,Yotam Bar-natan,"Mon, 09 Mar 2026 15:56:07 +0000",can,3.6,Yakima IPA,Jacobsen,IPA - American
 b7-beer-house,Yotam Bar-natan,"Mon, 09 Mar 2026 15:51:52 +0000",can,2.9,Brown Ale,Jacobsen,Brown Ale - English
 schnitt-brewing-company,fselfws,"Mon, 09 Mar 2026 15:43:55 +0000",draft,3.75,What Was Was,Schnitt Brewing Company﻿,IPA - New England / Hazy
 lauter,KarpatychЪ Tych,"Mon, 09 Mar 2026 13:20:21 +0000",,4.5,Alon vs. אלון,Schnitt Brewing Company﻿,Porter - Baltic
@@ -3351,8 +3371,8 @@ b7-beer-house,Dima Shleifman,"Sun, 25 Jan 2026 20:52:02 +0000",can,3.25,Eureka,O
 b7-beer-house,Alex Fux,"Sun, 25 Jan 2026 20:50:34 +0000",can,3.5,Eureka,Ophiussa,Sour - Smoothie / Pastry
 b7-beer-house,Dima Shleifman,"Sun, 25 Jan 2026 20:49:57 +0000",can,3.75,Gelato: Syrniki,Funky Fluid,Sour - Smoothie / Pastry
 b7-beer-house,Yotam Bar-natan,"Sun, 25 Jan 2026 20:49:40 +0000",can,3.9,Eureka,Ophiussa,Sour - Smoothie / Pastry
-b7-beer-house,Yotam Bar-natan,"Sun, 25 Jan 2026 20:44:31 +0000",can,3.8,Gelato: Syrniki,Funky Fluid,Sour - Smoothie / Pastry
 b7-beer-house,Alex Fux,"Sun, 25 Jan 2026 20:44:31 +0000",can,3.0,Gelato: Syrniki,Funky Fluid,Sour - Smoothie / Pastry
+b7-beer-house,Yotam Bar-natan,"Sun, 25 Jan 2026 20:44:31 +0000",can,3.8,Gelato: Syrniki,Funky Fluid,Sour - Smoothie / Pastry
 b7-beer-house,Dima Shleifman,"Sun, 25 Jan 2026 20:43:21 +0000",can,3.5,Chilly Willie,Freebridge Brewing,IPA - Cold
 b7-beer-house,Eli Smikin,"Sun, 25 Jan 2026 20:42:30 +0000",can,4.2,She Shot First,Bottle Logic Brewing,IPA - New England / Hazy
 b7-beer-house,Alex Fux,"Sun, 25 Jan 2026 20:40:26 +0000",can,4.0,Chilly Willie,Freebridge Brewing,IPA - Cold
@@ -8341,8 +8361,8 @@ lauter,Lee Ker,"Sun, 26 Oct 2025 18:41:01 +0000",,,Darkness My Friend - Imperial
 lauter,Shaul A,"Sun, 26 Oct 2025 18:37:28 +0000",can,3.75,Darkness My Friends Imperial Baltic Porter Coffee & Date Syrup,Maryensztadt,Porter - Baltic
 lauter,Tal,"Sun, 26 Oct 2025 18:37:13 +0000",can,4.25,Darkness My Friends Imperial Baltic Porter Coffee & Date Syrup,Maryensztadt,Porter - Baltic
 lauter,roey_lerman_9282,"Sun, 26 Oct 2025 18:36:50 +0000",can,3.5,Darkness My Friends Imperial Baltic Porter Coffee & Date Syrup,Maryensztadt,Porter - Baltic
-lauter,Nativ Kapach,"Sun, 26 Oct 2025 18:36:28 +0000",can,3.75,Darkness My Friends Imperial Baltic Porter Coffee & Date Syrup,Maryensztadt,Porter - Baltic
 lauter,adi_zadik_2741,"Sun, 26 Oct 2025 18:36:28 +0000",can,3.25,Darkness My Friends Imperial Baltic Porter Coffee & Date Syrup,Maryensztadt,Porter - Baltic
+lauter,Nativ Kapach,"Sun, 26 Oct 2025 18:36:28 +0000",can,3.75,Darkness My Friends Imperial Baltic Porter Coffee & Date Syrup,Maryensztadt,Porter - Baltic
 lauter,Yaron Sh,"Sun, 26 Oct 2025 18:34:37 +0000",,4.0,Darkness My Friends Imperial Baltic Porter Coffee & Date Syrup,Maryensztadt,Porter - Baltic
 lauter,Yaron Sh,"Sun, 26 Oct 2025 18:33:45 +0000",,4.5,Barrel Aged Projekt: Chocolate Rye RIS Jack Daniels Whiskey BA,Maryensztadt,Stout - Russian Imperial
 lauter,Lee Ker,"Sun, 26 Oct 2025 18:32:27 +0000",can,,Darkness My Friends Imperial Baltic Porter Coffee & Date Syrup,Maryensztadt,Porter - Baltic
@@ -12447,8 +12467,8 @@ lauter,Mikhail Stolov,"Tue, 05 Aug 2025 18:52:25 +0000",,3.25,OUOUOU,4BREWERS,So
 lauter,Oren Sleepwalker,"Tue, 05 Aug 2025 18:50:13 +0000",,,Whakahoa,Factory Brewing,IPA - Triple New England / Hazy
 schnitt-brewing-company,Arkady Gerasimuk,"Tue, 05 Aug 2025 18:49:49 +0000",draft,3.5,Twist & Stout,Schnitt Brewing Company﻿,Stout - Irish Dry
 schnitt-brewing-company,Yaniv Gorodetsky,"Tue, 05 Aug 2025 18:49:42 +0000",draft,3.0,Twist & Stout,Schnitt Brewing Company﻿,Stout - Irish Dry
-lauter,Yaron Sh,"Tue, 05 Aug 2025 18:49:38 +0000",,4.5,Whakahoa,Factory Brewing,IPA - Triple New England / Hazy
 lauter,Yosef Dahan,"Tue, 05 Aug 2025 18:49:38 +0000",can,4.0,Whakahoa,Factory Brewing,IPA - Triple New England / Hazy
+lauter,Yaron Sh,"Tue, 05 Aug 2025 18:49:38 +0000",,4.5,Whakahoa,Factory Brewing,IPA - Triple New England / Hazy
 lauter,Yaniv Alal,"Tue, 05 Aug 2025 18:49:26 +0000",draft,4.25,Whakahoa,Factory Brewing,IPA - Triple New England / Hazy
 lauter,Shaul A,"Tue, 05 Aug 2025 18:49:14 +0000",,4.5,Whakahoa,Factory Brewing,IPA - Triple New England / Hazy
 lauter,Yaron Sh,"Tue, 05 Aug 2025 18:48:30 +0000",,4.0,Magical Path,Shred Beer Company,IPA - New England / Hazy
@@ -15110,8 +15130,8 @@ berlin-florentin,Yaron Sh,"Mon, 22 Jan 2024 18:49:44 +0000",can,4.0,"¡Buena Par
 berlin-florentin,Shmupi Koto,"Mon, 22 Jan 2024 18:49:41 +0000",can,3.8,"¡Buena Para El Papa! ¿Si, No?",Brewski,Stout - Imperial / Double Pastry
 berlin-florentin,Shmupi Koto,"Mon, 22 Jan 2024 18:49:04 +0000",can,4.0,200 Units,Brewski,Barleywine - English
 berlin-florentin,Tom Oppenheim,"Mon, 22 Jan 2024 18:48:49 +0000",can,3.5,"¡Buena Para El Papa! ¿Si, No?",Brewski,Stout - Imperial / Double Pastry
-berlin-florentin,ori shuster,"Mon, 22 Jan 2024 18:42:20 +0000",can,4.0,200 Units,Brewski,Barleywine - English
 berlin-florentin,Yaron Sh,"Mon, 22 Jan 2024 18:42:20 +0000",,,200 Units,Brewski,Barleywine - English
+berlin-florentin,ori shuster,"Mon, 22 Jan 2024 18:42:20 +0000",can,4.0,200 Units,Brewski,Barleywine - English
 berlin-florentin,Yaron Sh,"Mon, 22 Jan 2024 18:41:52 +0000",,,Strawberry Pie,Brewski,Sour - Smoothie / Pastry
 berlin-florentin,Itai Snai,"Mon, 22 Jan 2024 18:40:50 +0000",,3.5,200 Units,Brewski,Barleywine - English
 berlin-florentin,Mikhail Stolov,"Mon, 22 Jan 2024 18:38:56 +0000",,3.75,200 Units,Brewski,Barleywine - English
