@@ -1,8 +1,224 @@
 // 🍺 BEER STATS DATA - Generated automatically
-// Last updated: 2026-05-02 07:55:25
-// Total records: 15667
+// Last updated: 2026-05-03 08:10:35
+// Total records: 15691
 
 const BEER_DATA = [
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-02T20:30:15+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "CHOPPING WOOD",
+    "brewery": "Evil Twin Brewing NYC",
+    "beer_type": "IPA - Imperial / Double New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-02T19:02:24+00:00",
+    "serving": "can",
+    "rating": 4.5,
+    "beer_name": "MAKE IT FRUITY PEACH APRICOT",
+    "brewery": "Evil Twin Brewing NYC",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-02T19:00:38+00:00",
+    "serving": "draft",
+    "rating": 3.25,
+    "beer_name": "Hoppy Lager",
+    "brewery": "Isis Desert Brewery (מבשלת הנגב המערבי)",
+    "beer_type": "Lager - IPL (India Pale Lager)"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-02T18:36:11+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Everyone Knows the Rules",
+    "brewery": "Bereta Brewing Co.",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-02T18:06:01+00:00",
+    "serving": "bottle",
+    "rating": 3.5,
+    "beer_name": "Bigfoot (2026)",
+    "brewery": "Sierra Nevada Brewing Co.",
+    "beer_type": "Barleywine - American"
+  },
+  {
+    "venue": "porter-and-sons",
+    "time": "2026-05-02T17:42:35+00:00",
+    "serving": "draft",
+    "rating": null,
+    "beer_name": "Pleroma Karpologi Pineapple Peach Marshmallow Créme Brulée Sour",
+    "brewery": "Omnipollo",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "porter-and-sons",
+    "time": "2026-05-02T17:27:39+00:00",
+    "serving": "draft",
+    "rating": null,
+    "beer_name": "What Was Was",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "porter-and-sons",
+    "time": "2026-05-02T16:44:43+00:00",
+    "serving": "draft",
+    "rating": null,
+    "beer_name": "In the Little",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - Session"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-02T16:37:00+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Meet Our Friends | From Budapest: Horizont Brewing - Beyond the Horizont",
+    "brewery": "Nepo Brewing",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-02T16:18:29+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Silver Snail",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-02T15:52:59+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "YIN - NYC VERSION",
+    "brewery": "Evil Twin Brewing NYC",
+    "beer_type": "Stout - Imperial / Double"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-02T15:48:26+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "Kriek de Schaerbeek Tilquin - Draft Version",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": "Lambic - Kriek"
+  },
+  {
+    "venue": "berlin-florentin",
+    "time": "2026-05-02T15:32:48+00:00",
+    "serving": "can",
+    "rating": 3.3,
+    "beer_name": "Pilot #54 Smokey Jane",
+    "brewery": "BrewDog Deutschland",
+    "beer_type": "IPA - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-02T15:29:41+00:00",
+    "serving": "draft",
+    "rating": 3.25,
+    "beer_name": "I'll Be Bock",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Bock - Single / Traditional"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-02T15:03:59+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Schnitt Happens",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-02T14:18:20+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Stoutment",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Stout - Other"
+  },
+  {
+    "venue": "berlin-florentin",
+    "time": "2026-05-02T14:04:24+00:00",
+    "serving": "can",
+    "rating": 3.3,
+    "beer_name": "Pilot #54 Smokey Jane",
+    "brewery": "BrewDog Deutschland",
+    "beer_type": "IPA - Other"
+  },
+  {
+    "venue": "ursa",
+    "time": "2026-05-02T14:01:06+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Pilot #54 Smokey Jane",
+    "brewery": "BrewDog Deutschland",
+    "beer_type": "IPA - Other"
+  },
+  {
+    "venue": "berlin-florentin",
+    "time": "2026-05-02T13:27:31+00:00",
+    "serving": "can",
+    "rating": 3.6,
+    "beer_name": "Naughty Lister",
+    "brewery": "BrewDog",
+    "beer_type": "Lager - Vienna"
+  },
+  {
+    "venue": "ursa",
+    "time": "2026-05-02T13:24:04+00:00",
+    "serving": "can",
+    "rating": 3.4,
+    "beer_name": "Naughty Lister",
+    "brewery": "BrewDog",
+    "beer_type": "Lager - Vienna"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-02T10:43:12+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Stoutment",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Stout - Other"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-02T10:41:55+00:00",
+    "serving": "draft",
+    "rating": 3.0,
+    "beer_name": "Inspector Hoosh Hash",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-02T10:30:39+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "Wolfgang",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Lager - Vienna"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-02T10:24:21+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Tea Party: Masala",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pale Ale - Other"
+  },
   {
     "venue": "schnitt-brewing-company",
     "time": "2026-05-02T06:40:51+00:00",
@@ -236,6 +452,1554 @@ const BEER_DATA = [
     "beer_name": "Everyday Life",
     "brewery": "Sibeeria Brewery",
     "beer_type": "Pilsner - Czech / Bohemian"
+  },
+  {
+    "venue": "beerbazaar-brewery",
+    "time": "2025-05-30T10:24:02+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "חתול עם תעלול",
+    "brewery": "BeerBazaar / Mivshelet Ha’Aretz",
+    "beer_type": "Pale Ale - American"
+  },
+  {
+    "venue": "beerline",
+    "time": "2025-05-29T15:59:18+00:00",
+    "serving": "draft",
+    "rating": 4.5,
+    "beer_name": "Delirium Red",
+    "brewery": "Delirium - Huyghe Brewery",
+    "beer_type": "Fruit Beer"
+  },
+  {
+    "venue": "beer-station-beersheba-israel",
+    "time": "2025-05-29T13:34:17+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Katzra Black (קצרה כהה)",
+    "brewery": "Arava Brewery (מבשלת בירה ערבה)",
+    "beer_type": "Porter - Other"
+  },
+  {
+    "venue": "beerbazaar-brewery",
+    "time": "2025-05-29T13:31:42+00:00",
+    "serving": "can",
+    "rating": 4.5,
+    "beer_name": "Apricot X Passionfruit X Mango X Vanilla Smoothie Sour Ale",
+    "brewery": "Ārpus Brewing Co.",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "beerbazaar-brewery",
+    "time": "2025-05-29T13:28:11+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Lviv Stout",
+    "brewery": "Pravda Brewery",
+    "beer_type": "Stout - Other"
+  },
+  {
+    "venue": "beerbazaar-brewery",
+    "time": "2025-05-29T13:21:42+00:00",
+    "serving": "Unknown",
+    "rating": 3.25,
+    "beer_name": "HOPulência 24.04 IPA Com Lúpulos Nacionais 2024 Lúpulo Do Maria",
+    "brewery": "Cerveja Vadia",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "beer-station-beersheba-israel",
+    "time": "2025-05-29T13:10:54+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Shoshana (שושנע)",
+    "brewery": "Kasteel Brouwerij Vanhonsebrouck",
+    "beer_type": "Spiced / Herbed Beer"
+  },
+  {
+    "venue": "beerbazaar-brewery",
+    "time": "2025-05-29T13:06:57+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "עשן הזמן",
+    "brewery": "BeerBazaar / Mivshelet Ha’Aretz",
+    "beer_type": "Lager - Smoked"
+  },
+  {
+    "venue": "beer-station-beersheba-israel",
+    "time": "2025-05-29T13:04:35+00:00",
+    "serving": "Unknown",
+    "rating": 3.25,
+    "beer_name": "001 [שם זמני]",
+    "brewery": "Arava Brewery (מבשלת בירה ערבה)",
+    "beer_type": "IPA - Other"
+  },
+  {
+    "venue": "berlin-florentin",
+    "time": "2025-05-27T19:47:05+00:00",
+    "serving": "bottle",
+    "rating": 4.3,
+    "beer_name": "Mr. & Mrs. Smith",
+    "brewery": "Fat Cat Brewery",
+    "beer_type": "Homebrew, Cider - Herbed / Spiced / Hopped"
+  },
+  {
+    "venue": "berlin-florentin",
+    "time": "2025-05-27T18:48:34+00:00",
+    "serving": "can",
+    "rating": 3.9,
+    "beer_name": "Juice Shack Session NEIPA",
+    "brewery": "BrewDog",
+    "beer_type": "Pale Ale - New England / Hazy"
+  },
+  {
+    "venue": "berlin-florentin",
+    "time": "2025-05-27T18:31:41+00:00",
+    "serving": "bottle",
+    "rating": 5.0,
+    "beer_name": "Jää | Ice Cuvée",
+    "brewery": "Tori Jõesuu Siidri- Ja Veinitalu",
+    "beer_type": "Cider - Ice"
+  },
+  {
+    "venue": "berlin-florentin",
+    "time": "2025-05-27T18:26:12+00:00",
+    "serving": "bottle",
+    "rating": 4.0,
+    "beer_name": "Mr. & Mrs. Smith",
+    "brewery": "Fat Cat Brewery",
+    "beer_type": "Homebrew, Cider - Herbed / Spiced / Hopped"
+  },
+  {
+    "venue": "berlin-florentin",
+    "time": "2025-05-27T18:23:02+00:00",
+    "serving": "can",
+    "rating": 4.2,
+    "beer_name": "Quince Naturel",
+    "brewery": "Jaanihanso",
+    "beer_type": "Cider - Other Fruit"
+  },
+  {
+    "venue": "berlin-florentin",
+    "time": "2025-05-27T18:15:57+00:00",
+    "serving": "bottle",
+    "rating": 5.0,
+    "beer_name": "Jää | Ice Cuvée",
+    "brewery": "Tori Jõesuu Siidri- Ja Veinitalu",
+    "beer_type": "Cider - Ice"
+  },
+  {
+    "venue": "berlin-florentin",
+    "time": "2025-05-27T18:09:54+00:00",
+    "serving": "can",
+    "rating": 3.2,
+    "beer_name": "Quince Naturel",
+    "brewery": "Jaanihanso",
+    "beer_type": "Cider - Other Fruit"
+  },
+  {
+    "venue": "berlin-florentin",
+    "time": "2025-05-27T18:06:17+00:00",
+    "serving": "bottle",
+    "rating": 4.7,
+    "beer_name": "Pearadise",
+    "brewery": "Mr. Plūme",
+    "beer_type": "Cider - Other Fruit"
+  },
+  {
+    "venue": "berlin-florentin",
+    "time": "2025-05-27T18:04:28+00:00",
+    "serving": "bottle",
+    "rating": 3.9,
+    "beer_name": "Winter Méthode Traditionnelle",
+    "brewery": "Jaanihanso",
+    "beer_type": "Cider - Herbed / Spiced / Hopped"
+  },
+  {
+    "venue": "berlin-florentin",
+    "time": "2025-05-27T18:02:25+00:00",
+    "serving": "can",
+    "rating": 3.9,
+    "beer_name": "Dry Hopped Cider",
+    "brewery": "Jaanihanso",
+    "beer_type": "Cider - Herbed / Spiced / Hopped"
+  },
+  {
+    "venue": "berlin-florentin",
+    "time": "2025-05-27T17:59:39+00:00",
+    "serving": "bottle",
+    "rating": 4.2,
+    "beer_name": "Winter Méthode Traditionnelle",
+    "brewery": "Jaanihanso",
+    "beer_type": "Cider - Herbed / Spiced / Hopped"
+  },
+  {
+    "venue": "berlin-florentin",
+    "time": "2025-05-27T17:59:15+00:00",
+    "serving": "Unknown",
+    "rating": 3.3,
+    "beer_name": "Perry 2022",
+    "brewery": "Mr. Plūme",
+    "beer_type": "Cider - Perry / Poiré"
+  },
+  {
+    "venue": "berlin-florentin",
+    "time": "2025-05-27T17:52:06+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Dry Hopped Cider",
+    "brewery": "Jaanihanso",
+    "beer_type": "Cider - Herbed / Spiced / Hopped"
+  },
+  {
+    "venue": "berlin-florentin",
+    "time": "2025-05-27T17:48:44+00:00",
+    "serving": "bottle",
+    "rating": 3.8,
+    "beer_name": "Perry 2022",
+    "brewery": "Mr. Plūme",
+    "beer_type": "Cider - Perry / Poiré"
+  },
+  {
+    "venue": "berlin-florentin",
+    "time": "2025-05-27T17:38:15+00:00",
+    "serving": "can",
+    "rating": 3.3,
+    "beer_name": "Rheum Naturel",
+    "brewery": "Jaanihanso",
+    "beer_type": "Cider - Other Fruit"
+  },
+  {
+    "venue": "berlin-florentin",
+    "time": "2025-05-27T17:35:07+00:00",
+    "serving": "bottle",
+    "rating": 4.0,
+    "beer_name": "Perry (2024; 5.9%)",
+    "brewery": "Tori Jõesuu Siidri- Ja Veinitalu",
+    "beer_type": "Cider - Perry / Poiré"
+  },
+  {
+    "venue": "berlin-florentin",
+    "time": "2025-05-27T17:31:14+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Rheum Naturel",
+    "brewery": "Jaanihanso",
+    "beer_type": "Cider - Other Fruit"
+  },
+  {
+    "venue": "berlin-florentin",
+    "time": "2025-05-27T17:29:30+00:00",
+    "serving": "bottle",
+    "rating": 4.5,
+    "beer_name": "Ziema Karstsidrs",
+    "brewery": "Abuls Sidra Darītava",
+    "beer_type": "Cider - Herbed / Spiced / Hopped"
+  },
+  {
+    "venue": "berlin-florentin",
+    "time": "2025-05-27T17:26:48+00:00",
+    "serving": "bottle",
+    "rating": 3.9,
+    "beer_name": "Ziema Karstsidrs",
+    "brewery": "Abuls Sidra Darītava",
+    "beer_type": "Cider - Herbed / Spiced / Hopped"
+  },
+  {
+    "venue": "berlin-florentin",
+    "time": "2025-05-27T17:25:38+00:00",
+    "serving": "bottle",
+    "rating": 4.5,
+    "beer_name": "Ziema Karstsidrs",
+    "brewery": "Abuls Sidra Darītava",
+    "beer_type": "Cider - Herbed / Spiced / Hopped"
+  },
+  {
+    "venue": "berlin-florentin",
+    "time": "2025-05-27T17:22:56+00:00",
+    "serving": "bottle",
+    "rating": 3.7,
+    "beer_name": "Mr. Plūme Pussausais",
+    "brewery": "Mr. Plūme",
+    "beer_type": "Cider - Traditional / Apfelwein"
+  },
+  {
+    "venue": "berlin-florentin",
+    "time": "2025-05-27T17:22:08+00:00",
+    "serving": "bottle",
+    "rating": 3.9,
+    "beer_name": "Mr. Plūme Pussausais",
+    "brewery": "Mr. Plūme",
+    "beer_type": "Cider - Traditional / Apfelwein"
+  },
+  {
+    "venue": "berlin-florentin",
+    "time": "2025-05-27T17:18:49+00:00",
+    "serving": "bottle",
+    "rating": 4.0,
+    "beer_name": "Vintage 2021",
+    "brewery": "Mr. Plūme",
+    "beer_type": "Cider - Dry"
+  },
+  {
+    "venue": "berlin-florentin",
+    "time": "2025-05-27T17:13:52+00:00",
+    "serving": "bottle",
+    "rating": 3.7,
+    "beer_name": "Vintage 2021",
+    "brewery": "Mr. Plūme",
+    "beer_type": "Cider - Dry"
+  },
+  {
+    "venue": "berlin-florentin",
+    "time": "2025-05-27T17:12:14+00:00",
+    "serving": "bottle",
+    "rating": 3.7,
+    "beer_name": "Vintage 2021",
+    "brewery": "Mr. Plūme",
+    "beer_type": "Cider - Dry"
+  },
+  {
+    "venue": "berlin-florentin",
+    "time": "2025-05-27T17:12:01+00:00",
+    "serving": "bottle",
+    "rating": 3.5,
+    "beer_name": "Poolkuiv Õunasiider Demi Sec",
+    "brewery": "Tori Jõesuu Siidri- Ja Veinitalu",
+    "beer_type": "Cider - Traditional / Apfelwein"
+  },
+  {
+    "venue": "berlin-florentin",
+    "time": "2025-05-27T17:08:23+00:00",
+    "serving": "bottle",
+    "rating": 3.7,
+    "beer_name": "Poolkuiv Õunasiider Demi Sec",
+    "brewery": "Tori Jõesuu Siidri- Ja Veinitalu",
+    "beer_type": "Cider - Traditional / Apfelwein"
+  },
+  {
+    "venue": "berlin-florentin",
+    "time": "2025-05-27T17:06:57+00:00",
+    "serving": "bottle",
+    "rating": 3.6,
+    "beer_name": "Poolkuiv Õunasiider Demi Sec",
+    "brewery": "Tori Jõesuu Siidri- Ja Veinitalu",
+    "beer_type": "Cider - Traditional / Apfelwein"
+  },
+  {
+    "venue": "berlin-florentin",
+    "time": "2025-05-27T16:44:02+00:00",
+    "serving": "bottle",
+    "rating": 3.6,
+    "beer_name": "Somersby Mango & Lime",
+    "brewery": "Carlsberg Group",
+    "beer_type": "Cider - Other Fruit"
+  },
+  {
+    "venue": "berlin-florentin",
+    "time": "2025-05-27T15:43:00+00:00",
+    "serving": "Unknown",
+    "rating": 3.7,
+    "beer_name": "Beck's",
+    "brewery": "Brauerei Beck",
+    "beer_type": "Pilsner - German"
+  },
+  {
+    "venue": "berlin-florentin",
+    "time": "2025-05-25T19:56:26+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Budweiser Budvar / Czechvar Original",
+    "brewery": "Budějovický Budvar",
+    "beer_type": "Pilsner - Czech / Bohemian"
+  },
+  {
+    "venue": "berlin-florentin",
+    "time": "2025-05-25T19:55:06+00:00",
+    "serving": "draft",
+    "rating": 3.25,
+    "beer_name": "Ronen The Ugly Beer (הבירה המכוערת)",
+    "brewery": "Srigim (שריגים)",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "berlin-florentin",
+    "time": "2025-05-25T17:22:24+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "Soundwave IPA",
+    "brewery": "Siren Craft Brew",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "ursa",
+    "time": "2025-05-24T16:15:54+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Soundwave IPA",
+    "brewery": "Siren Craft Brew",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "ursa",
+    "time": "2025-05-24T16:10:01+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Ronen The Ugly Beer (הבירה המכוערת)",
+    "brewery": "Srigim (שריגים)",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "beerz",
+    "time": "2025-05-19T20:43:03+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Lemon X Coconut X Pineapple X Cherry Smoothie Sour Ale",
+    "brewery": "Ārpus Brewing Co.",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "beerz",
+    "time": "2025-05-19T20:42:36+00:00",
+    "serving": "can",
+    "rating": 4.5,
+    "beer_name": "Apricot X Passionfruit X Mango X Vanilla Smoothie Sour Ale",
+    "brewery": "Ārpus Brewing Co.",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "beerz",
+    "time": "2025-05-19T19:59:22+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Fruitheart Smoothie Sour Ale",
+    "brewery": "Ārpus Brewing Co.",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "beerz",
+    "time": "2025-05-19T17:37:14+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Fruitheart Smoothie Sour Ale",
+    "brewery": "Ārpus Brewing Co.",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "beerz",
+    "time": "2025-05-19T16:47:06+00:00",
+    "serving": "can",
+    "rating": 5.0,
+    "beer_name": "Apricot X Passionfruit X Mango X Vanilla Smoothie Sour Ale",
+    "brewery": "Ārpus Brewing Co.",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "beerz",
+    "time": "2025-05-19T16:42:36+00:00",
+    "serving": "draft",
+    "rating": 3.8,
+    "beer_name": "Barbãr Bok",
+    "brewery": "Brasserie Lefebvre",
+    "beer_type": "Bock - Single / Traditional"
+  },
+  {
+    "venue": "beerz",
+    "time": "2025-05-19T16:40:27+00:00",
+    "serving": "can",
+    "rating": 2.8,
+    "beer_name": "California Sun",
+    "brewery": "Thornbridge Brewery",
+    "beer_type": "IPA - Session"
+  },
+  {
+    "venue": "beerz",
+    "time": "2025-05-19T16:26:28+00:00",
+    "serving": "draft",
+    "rating": 3.25,
+    "beer_name": "Gentle Bastard",
+    "brewery": "HORIZONT Brewing",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "beerz",
+    "time": "2025-05-19T16:20:24+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "Hazy Queen",
+    "brewery": "HORIZONT Brewing",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "beerz",
+    "time": "2025-05-19T16:13:26+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Edelweiss Snowfresh / Wheat Beer",
+    "brewery": "Brau Union Österreich",
+    "beer_type": "Wheat Beer - Hefeweizen"
+  },
+  {
+    "venue": "beerz",
+    "time": "2025-05-19T16:09:29+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Hazy Queen",
+    "brewery": "HORIZONT Brewing",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "beerz",
+    "time": "2025-05-19T16:09:16+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Hazy Queen",
+    "brewery": "HORIZONT Brewing",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "beerz",
+    "time": "2025-05-19T16:08:27+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Gentle Bastard",
+    "brewery": "HORIZONT Brewing",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "beerz",
+    "time": "2025-05-19T16:06:40+00:00",
+    "serving": "draft",
+    "rating": 3.6,
+    "beer_name": "Edelweiss Snowfresh / Wheat Beer",
+    "brewery": "Brau Union Österreich",
+    "beer_type": "Wheat Beer - Hefeweizen"
+  },
+  {
+    "venue": "ursa",
+    "time": "2025-05-18T21:52:34+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Erdinger Weißbier / Hefe-Weizen",
+    "brewery": "Erdinger Weissbräu",
+    "beer_type": "Wheat Beer - Hefeweizen"
+  },
+  {
+    "venue": "berlin-florentin",
+    "time": "2025-05-18T09:12:25+00:00",
+    "serving": "draft",
+    "rating": 3.25,
+    "beer_name": "Amber Ale (תקומה)",
+    "brewery": "בירה שקמה Shikma Beer",
+    "beer_type": "Red Ale - American Amber / Red"
+  },
+  {
+    "venue": "berlin-florentin",
+    "time": "2025-05-18T09:03:12+00:00",
+    "serving": "draft",
+    "rating": 2.5,
+    "beer_name": "Beck's",
+    "brewery": "Brauerei Beck",
+    "beer_type": "Pilsner - German"
+  },
+  {
+    "venue": "beerz",
+    "time": "2025-05-16T19:19:29+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Morning Joe",
+    "brewery": "HORIZONT Brewing",
+    "beer_type": "Stout - Coffee"
+  },
+  {
+    "venue": "berlin-florentin",
+    "time": "2025-05-16T17:57:22+00:00",
+    "serving": "can",
+    "rating": 3.25,
+    "beer_name": "Juice Shack Milkshake",
+    "brewery": "BrewDog",
+    "beer_type": "IPA - Milkshake"
+  },
+  {
+    "venue": "berlin-florentin",
+    "time": "2025-05-16T17:20:02+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Broken Dream",
+    "brewery": "Siren Craft Brew",
+    "beer_type": "Stout - Oatmeal"
+  },
+  {
+    "venue": "berlin-florentin",
+    "time": "2025-05-16T16:36:01+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "DDH Jaipur",
+    "brewery": "Thornbridge Brewery",
+    "beer_type": "IPA - English"
+  },
+  {
+    "venue": "ursa",
+    "time": "2025-05-15T22:16:08+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Weihenstephaner Hefeweissbier Dunkel",
+    "brewery": "Bayerische Staatsbrauerei Weihenstephan",
+    "beer_type": "Wheat Beer - Dunkelweizen"
+  },
+  {
+    "venue": "beerbazaar-brewery",
+    "time": "2025-05-15T18:42:14+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Bhindi IPA",
+    "brewery": "BeerBazaar / Mivshelet Ha’Aretz",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "beerbazaar-brewery",
+    "time": "2025-05-15T17:54:55+00:00",
+    "serving": "draft",
+    "rating": 3.25,
+    "beer_name": "חתול עם תעלול",
+    "brewery": "BeerBazaar / Mivshelet Ha’Aretz",
+    "beer_type": "Pale Ale - American"
+  },
+  {
+    "venue": "beerz",
+    "time": "2025-05-15T16:00:06+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Hobgoblin IPA",
+    "brewery": "Marston's Brewery",
+    "beer_type": "IPA - English"
+  },
+  {
+    "venue": "beerz",
+    "time": "2025-05-15T15:30:37+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Barbãr Bok",
+    "brewery": "Brasserie Lefebvre",
+    "beer_type": "Bock - Single / Traditional"
+  },
+  {
+    "venue": "berlin-florentin",
+    "time": "2025-05-14T17:27:12+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Löwenbräu Original",
+    "brewery": "Spaten-Franziskaner-Löwenbräu-Gruppe",
+    "beer_type": "Lager - Helles"
+  },
+  {
+    "venue": "beerz",
+    "time": "2025-05-12T18:18:57+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Fruitheart Smoothie Sour Ale",
+    "brewery": "Ārpus Brewing Co.",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "beerz",
+    "time": "2025-05-11T20:29:21+00:00",
+    "serving": "draft",
+    "rating": 4.5,
+    "beer_name": "Gentle Bastard",
+    "brewery": "HORIZONT Brewing",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "berlin-florentin",
+    "time": "2025-05-08T21:42:42+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Kasteel Rubus Framboise",
+    "brewery": "Kasteel Brouwerij Vanhonsebrouck",
+    "beer_type": "Fruit Beer"
+  },
+  {
+    "venue": "ursa",
+    "time": "2025-05-08T20:28:37+00:00",
+    "serving": "can",
+    "rating": 3.4,
+    "beer_name": "Oatmeal IPA 2025",
+    "brewery": "Malka (מלכה)",
+    "beer_type": "IPA - Other"
+  },
+  {
+    "venue": "berlin-florentin",
+    "time": "2025-05-08T17:39:43+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Pleroma Karpologi Pineapple Peach Marshmallow Créme Brulée Sour",
+    "brewery": "Omnipollo",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "beerz",
+    "time": "2025-05-08T16:49:15+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Hobgoblin IPA",
+    "brewery": "Marston's Brewery",
+    "beer_type": "IPA - English"
+  },
+  {
+    "venue": "beerz",
+    "time": "2025-05-08T16:05:27+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Bacchus Frambozenbier",
+    "brewery": "Kasteel Brouwerij Vanhonsebrouck",
+    "beer_type": "Sour - Flanders Oud Bruin"
+  },
+  {
+    "venue": "berlin-florentin",
+    "time": "2025-05-07T18:10:10+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Pleroma Karpologi Pineapple Peach Marshmallow Créme Brulée Sour",
+    "brewery": "Omnipollo",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "berlin-florentin",
+    "time": "2025-05-07T16:26:51+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "Franziskaner Premium Weissbier Naturtrüb",
+    "brewery": "Spaten-Franziskaner-Löwenbräu-Gruppe",
+    "beer_type": "Wheat Beer - Hefeweizen"
+  },
+  {
+    "venue": "berlin-florentin",
+    "time": "2025-05-07T16:09:23+00:00",
+    "serving": "Unknown",
+    "rating": 2.75,
+    "beer_name": "Shikma IPA",
+    "brewery": "בירה שקמה Shikma Beer",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "berlin-florentin",
+    "time": "2025-05-07T15:28:41+00:00",
+    "serving": "Unknown",
+    "rating": 2.25,
+    "beer_name": "Goldstar (גולדסטאר)",
+    "brewery": "Tempo Beer Industries Ltd (טמפו)",
+    "beer_type": "Lager - Vienna"
+  },
+  {
+    "venue": "beerline",
+    "time": "2025-05-07T14:11:03+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "Münchner Weisse",
+    "brewery": "Staatliches Hofbräuhaus München",
+    "beer_type": "Wheat Beer - Hefeweizen"
+  },
+  {
+    "venue": "beerbazaar-brewery",
+    "time": "2025-05-05T20:51:54+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "FEAT. Nepo - Stardust",
+    "brewery": "Funky Fluid",
+    "beer_type": "IPA - Triple New England / Hazy"
+  },
+  {
+    "venue": "beerbazaar-brewery",
+    "time": "2025-05-05T19:47:22+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "FEAT. Nepo - Stardust",
+    "brewery": "Funky Fluid",
+    "beer_type": "IPA - Triple New England / Hazy"
+  },
+  {
+    "venue": "beerbazaar-brewery",
+    "time": "2025-05-05T19:43:25+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Tutto Fatto",
+    "brewery": "Birrificio WAR",
+    "beer_type": "IPA - Imperial / Double"
+  },
+  {
+    "venue": "beerbazaar-brewery",
+    "time": "2025-05-05T19:41:58+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "Tutto Fatto",
+    "brewery": "Birrificio WAR",
+    "beer_type": "IPA - Imperial / Double"
+  },
+  {
+    "venue": "beerbazaar-brewery",
+    "time": "2025-05-05T19:41:00+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Tutto Fatto",
+    "brewery": "Birrificio WAR",
+    "beer_type": "IPA - Imperial / Double"
+  },
+  {
+    "venue": "beerbazaar-brewery",
+    "time": "2025-05-05T19:33:44+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "Juice Bomb",
+    "brewery": "Sloop Brewing Co.",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "beerbazaar-brewery",
+    "time": "2025-05-05T19:33:13+00:00",
+    "serving": "can",
+    "rating": 4.5,
+    "beer_name": "Hydra | Passion Fruit + Mango + Pink Guava",
+    "brewery": "Mortalis Brewing Company",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "beerbazaar-brewery",
+    "time": "2025-05-05T19:32:05+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Hydra | Passion Fruit + Mango + Pink Guava",
+    "brewery": "Mortalis Brewing Company",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "beerbazaar-brewery",
+    "time": "2025-05-05T19:27:41+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Juice Bomb",
+    "brewery": "Sloop Brewing Co.",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "beerbazaar-brewery",
+    "time": "2025-05-05T19:27:34+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Juice Bomb",
+    "brewery": "Sloop Brewing Co.",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "beerbazaar-brewery",
+    "time": "2025-05-05T19:24:27+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Juice Bomb",
+    "brewery": "Sloop Brewing Co.",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "beerbazaar-brewery",
+    "time": "2025-05-05T19:20:28+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "SchnittBazaar (שניטבאזר)",
+    "brewery": "BeerBazaar / Mivshelet Ha’Aretz",
+    "beer_type": "Farmhouse Ale - Saison"
+  },
+  {
+    "venue": "beerbazaar-brewery",
+    "time": "2025-05-05T19:19:55+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "חתול עם תעלול",
+    "brewery": "BeerBazaar / Mivshelet Ha’Aretz",
+    "beer_type": "Pale Ale - American"
+  },
+  {
+    "venue": "beerbazaar-brewery",
+    "time": "2025-05-05T18:43:05+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "חתול עם תעלול",
+    "brewery": "BeerBazaar / Mivshelet Ha’Aretz",
+    "beer_type": "Pale Ale - American"
+  },
+  {
+    "venue": "beerbazaar-brewery",
+    "time": "2025-05-05T18:39:41+00:00",
+    "serving": "draft",
+    "rating": null,
+    "beer_name": "SchnittBazaar (שניטבאזר)",
+    "brewery": "BeerBazaar / Mivshelet Ha’Aretz",
+    "beer_type": "Farmhouse Ale - Saison"
+  },
+  {
+    "venue": "beerbazaar-brewery",
+    "time": "2025-05-05T18:20:09+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "SchnittBazaar (שניטבאזר)",
+    "brewery": "BeerBazaar / Mivshelet Ha’Aretz",
+    "beer_type": "Farmhouse Ale - Saison"
+  },
+  {
+    "venue": "beerbazaar-brewery",
+    "time": "2025-05-05T18:13:24+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "חתול עם תעלול",
+    "brewery": "BeerBazaar / Mivshelet Ha’Aretz",
+    "beer_type": "Pale Ale - American"
+  },
+  {
+    "venue": "ursa",
+    "time": "2025-05-03T15:35:21+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Lumina",
+    "brewery": "Siren Craft Brew",
+    "beer_type": "IPA - Session"
+  },
+  {
+    "venue": "ursa",
+    "time": "2025-05-03T14:42:52+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Shesh Ahuz Kapara (שש אחוז כפרה)",
+    "brewery": "Herzl (הרצל)",
+    "beer_type": "Mild - Other"
+  },
+  {
+    "venue": "ursa",
+    "time": "2025-05-02T20:02:19+00:00",
+    "serving": "bottle",
+    "rating": 3.75,
+    "beer_name": "Hard Apple Cider - Dry (סיידר תפוחים אלכוהולי יבש)",
+    "brewery": "Hamatsesa (המתססה)",
+    "beer_type": "Cider - Dry"
+  },
+  {
+    "venue": "ursa",
+    "time": "2025-05-02T20:00:56+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Foggyn’ Delicious",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "beerline",
+    "time": "2024-05-29T14:43:04+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Liquid Cocaine",
+    "brewery": "Mad Scientist",
+    "beer_type": "IPA - Imperial / Double"
+  },
+  {
+    "venue": "beerline",
+    "time": "2024-05-29T13:19:23+00:00",
+    "serving": "draft",
+    "rating": 4.1,
+    "beer_name": "Florida Weisse",
+    "brewery": "Thornbridge Brewery",
+    "beer_type": "Sour - Fruited Berliner Weisse"
+  },
+  {
+    "venue": "beerline",
+    "time": "2024-05-29T13:18:09+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Hobgoblin IPA",
+    "brewery": "Marston's Brewery",
+    "beer_type": "IPA - English"
+  },
+  {
+    "venue": "beerline",
+    "time": "2024-05-29T13:16:58+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Delirium Black Barrel Aged",
+    "brewery": "Delirium - Huyghe Brewery",
+    "beer_type": "Belgian Strong Dark Ale"
+  },
+  {
+    "venue": "beerline",
+    "time": "2024-05-29T13:15:56+00:00",
+    "serving": "draft",
+    "rating": 3.3,
+    "beer_name": "Dry Hop'd Zwickl",
+    "brewery": "Bitburger Brauerei",
+    "beer_type": "Kellerbier / Zwickelbier"
+  },
+  {
+    "venue": "beerline",
+    "time": "2024-05-29T13:14:12+00:00",
+    "serving": "Unknown",
+    "rating": 3.2,
+    "beer_name": "Th. König Zwickl",
+    "brewery": "König Brauerei",
+    "beer_type": "Kellerbier / Zwickelbier"
+  },
+  {
+    "venue": "beerline",
+    "time": "2024-05-29T13:10:30+00:00",
+    "serving": "draft",
+    "rating": 4.4,
+    "beer_name": "Floris Cactus",
+    "brewery": "Delirium - Huyghe Brewery",
+    "beer_type": "Wheat Beer - Fruited"
+  },
+  {
+    "venue": "berlin-florentin",
+    "time": "2024-05-28T19:05:58+00:00",
+    "serving": "draft",
+    "rating": 4.75,
+    "beer_name": "Guinness Draught",
+    "brewery": "Guinness",
+    "beer_type": "Stout - Irish Dry"
+  },
+  {
+    "venue": "berlin-florentin",
+    "time": "2024-05-27T17:49:19+00:00",
+    "serving": "Unknown",
+    "rating": 4.5,
+    "beer_name": "Hallo Ich Bin Berliner Weisse Blueberry",
+    "brewery": "Mikkeller",
+    "beer_type": "Sour - Fruited Berliner Weisse"
+  },
+  {
+    "venue": "berlin-florentin",
+    "time": "2024-05-27T16:39:54+00:00",
+    "serving": "draft",
+    "rating": 4.5,
+    "beer_name": "Hallo Ich Bin Berliner Weisse Blueberry",
+    "brewery": "Mikkeller",
+    "beer_type": "Sour - Fruited Berliner Weisse"
+  },
+  {
+    "venue": "bartov-holon",
+    "time": "2024-05-27T11:57:48+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Black Marble",
+    "brewery": "Sullivan's Brewing Company",
+    "beer_type": "Stout - Irish Dry"
+  },
+  {
+    "venue": "ursa",
+    "time": "2024-05-25T18:30:49+00:00",
+    "serving": "can",
+    "rating": null,
+    "beer_name": "Selfish Games - West Coast Tripping",
+    "brewery": "HORIZONT Brewing",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "ursa",
+    "time": "2024-05-25T18:29:25+00:00",
+    "serving": "can",
+    "rating": null,
+    "beer_name": "Selfish Games - West Coast Tripping",
+    "brewery": "HORIZONT Brewing",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "berlin-florentin",
+    "time": "2024-05-24T16:08:39+00:00",
+    "serving": "draft",
+    "rating": 4.75,
+    "beer_name": "Guinness Draught",
+    "brewery": "Guinness",
+    "beer_type": "Stout - Irish Dry"
+  },
+  {
+    "venue": "berlin-florentin",
+    "time": "2024-05-23T18:46:17+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Carlsberg Luma",
+    "brewery": "Israel Beer Breweries Ltd. (IBBL)",
+    "beer_type": "Lager - IPL (India Pale Lager)"
+  },
+  {
+    "venue": "berlin-florentin",
+    "time": "2024-05-23T18:30:35+00:00",
+    "serving": "draft",
+    "rating": 3.25,
+    "beer_name": "Beck's",
+    "brewery": "Brauerei Beck",
+    "beer_type": "Pilsner - German"
+  },
+  {
+    "venue": "ursa",
+    "time": "2024-05-23T17:47:43+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Green Mountain",
+    "brewery": "Thornbridge Brewery",
+    "beer_type": "IPA - Session"
+  },
+  {
+    "venue": "beerline",
+    "time": "2024-05-23T17:10:26+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Hobgoblin IPA",
+    "brewery": "Marston's Brewery",
+    "beer_type": "IPA - English"
+  },
+  {
+    "venue": "berlin-florentin",
+    "time": "2024-05-23T15:35:23+00:00",
+    "serving": "draft",
+    "rating": 3.25,
+    "beer_name": "Beck's",
+    "brewery": "Brauerei Beck",
+    "beer_type": "Pilsner - German"
+  },
+  {
+    "venue": "ursa",
+    "time": "2024-05-22T19:45:25+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Hop Opera",
+    "brewery": "Mikkeller",
+    "beer_type": "IPA - Imperial / Double New England / Hazy"
+  },
+  {
+    "venue": "ursa",
+    "time": "2024-05-22T18:41:07+00:00",
+    "serving": "can",
+    "rating": 3.25,
+    "beer_name": "Scene Stealer",
+    "brewery": "Siren Craft Brew",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "ursa",
+    "time": "2024-05-22T18:30:51+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Scene Stealer",
+    "brewery": "Siren Craft Brew",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "ursa",
+    "time": "2024-05-22T08:18:14+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "Hop Opera",
+    "brewery": "Mikkeller",
+    "beer_type": "IPA - Imperial / Double New England / Hazy"
+  },
+  {
+    "venue": "bartov-holon",
+    "time": "2024-05-21T20:33:13+00:00",
+    "serving": "bottle",
+    "rating": 2.75,
+    "beer_name": "THAIPA",
+    "brewery": "Alexander (אלכסנדר)",
+    "beer_type": "IPA - Session"
+  },
+  {
+    "venue": "bartov-holon",
+    "time": "2024-05-21T20:29:45+00:00",
+    "serving": "can",
+    "rating": 3.0,
+    "beer_name": "Florida Weisse",
+    "brewery": "Thornbridge Brewery",
+    "beer_type": "Sour - Fruited Berliner Weisse"
+  },
+  {
+    "venue": "bartov-holon",
+    "time": "2024-05-21T19:51:51+00:00",
+    "serving": "bottle",
+    "rating": 2.5,
+    "beer_name": "Vaadat Kishut (ועדת כישות) (2023)",
+    "brewery": "Herzl (הרצל)",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "bartov-holon",
+    "time": "2024-05-21T19:50:17+00:00",
+    "serving": "bottle",
+    "rating": 4.5,
+    "beer_name": "Massala",
+    "brewery": "Hatch (האטצ׳)",
+    "beer_type": "Spiced / Herbed Beer"
+  },
+  {
+    "venue": "bartov-holon",
+    "time": "2024-05-21T19:38:20+00:00",
+    "serving": "bottle",
+    "rating": 4.25,
+    "beer_name": "שנאפי",
+    "brewery": "Hatch (האטצ׳)",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "ursa",
+    "time": "2024-05-21T19:32:13+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Hop Opera",
+    "brewery": "Mikkeller",
+    "beer_type": "IPA - Imperial / Double New England / Hazy"
+  },
+  {
+    "venue": "ursa",
+    "time": "2024-05-21T19:01:02+00:00",
+    "serving": "can",
+    "rating": 3.25,
+    "beer_name": "Shadow Paradise",
+    "brewery": "Siren Craft Brew",
+    "beer_type": "Porter - Other"
+  },
+  {
+    "venue": "ursa",
+    "time": "2024-05-21T18:40:12+00:00",
+    "serving": "Unknown",
+    "rating": 3.25,
+    "beer_name": "Shadow Paradise",
+    "brewery": "Siren Craft Brew",
+    "beer_type": "Porter - Other"
+  },
+  {
+    "venue": "ursa",
+    "time": "2024-05-19T20:02:49+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Trickster",
+    "brewery": "Siren Craft Brew",
+    "beer_type": "IPA - English"
+  },
+  {
+    "venue": "ursa",
+    "time": "2024-05-19T19:39:05+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Resting Brew Face",
+    "brewery": "Mikkeller",
+    "beer_type": "IPA - Imperial / Double New England / Hazy"
+  },
+  {
+    "venue": "ursa",
+    "time": "2024-05-18T15:43:11+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Neck Oil",
+    "brewery": "Beavertown",
+    "beer_type": "IPA - Session"
+  },
+  {
+    "venue": "beerline",
+    "time": "2024-05-17T13:47:43+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Delirium Argentum",
+    "brewery": "Delirium - Huyghe Brewery",
+    "beer_type": "IPA - Belgian"
+  },
+  {
+    "venue": "ursa",
+    "time": "2024-05-16T19:01:20+00:00",
+    "serving": "draft",
+    "rating": 4.5,
+    "beer_name": "Pompelmocello",
+    "brewery": "Siren Craft Brew",
+    "beer_type": "IPA - Sour"
+  },
+  {
+    "venue": "berlin-florentin",
+    "time": "2024-05-10T15:57:04+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Guinness Draught",
+    "brewery": "Guinness",
+    "beer_type": "Stout - Irish Dry"
+  },
+  {
+    "venue": "beerline",
+    "time": "2024-05-10T14:34:08+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Florida Weisse",
+    "brewery": "Thornbridge Brewery",
+    "beer_type": "Sour - Fruited Berliner Weisse"
+  },
+  {
+    "venue": "beerline",
+    "time": "2024-05-10T14:33:42+00:00",
+    "serving": "draft",
+    "rating": 3.25,
+    "beer_name": "Stiegl-Radler Grapefruit",
+    "brewery": "Stieglbrauerei zu Salzburg",
+    "beer_type": "Shandy / Radler"
+  },
+  {
+    "venue": "beerline",
+    "time": "2024-05-10T14:33:10+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Black Marble",
+    "brewery": "Sullivan's Brewing Company",
+    "beer_type": "Stout - Irish Dry"
+  },
+  {
+    "venue": "ursa",
+    "time": "2024-05-09T19:00:21+00:00",
+    "serving": "Unknown",
+    "rating": 2.75,
+    "beer_name": "Zirndorfer Landbier",
+    "brewery": "Brauerei Zirndorf",
+    "beer_type": "Lager - Amber / Red"
+  },
+  {
+    "venue": "ursa",
+    "time": "2024-05-09T18:47:37+00:00",
+    "serving": "draft",
+    "rating": 3.25,
+    "beer_name": "Carlsberg Luma",
+    "brewery": "Israel Beer Breweries Ltd. (IBBL)",
+    "beer_type": "Lager - IPL (India Pale Lager)"
+  },
+  {
+    "venue": "beerline",
+    "time": "2024-05-08T20:27:21+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Black Marble",
+    "brewery": "Sullivan's Brewing Company",
+    "beer_type": "Stout - Irish Dry"
+  },
+  {
+    "venue": "beerline",
+    "time": "2024-05-08T20:26:38+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Florida Weisse",
+    "brewery": "Thornbridge Brewery",
+    "beer_type": "Sour - Fruited Berliner Weisse"
+  },
+  {
+    "venue": "beerline",
+    "time": "2024-05-08T20:25:43+00:00",
+    "serving": "draft",
+    "rating": 3.0,
+    "beer_name": "Shoshana (שושנע)",
+    "brewery": "Kasteel Brouwerij Vanhonsebrouck",
+    "beer_type": "Spiced / Herbed Beer"
+  },
+  {
+    "venue": "beerline",
+    "time": "2024-05-08T20:24:40+00:00",
+    "serving": "draft",
+    "rating": 3.25,
+    "beer_name": "Stiegl-Radler Grapefruit",
+    "brewery": "Stieglbrauerei zu Salzburg",
+    "beer_type": "Shandy / Radler"
+  },
+  {
+    "venue": "beerline",
+    "time": "2024-05-08T16:18:55+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Delirium Black Barrel Aged",
+    "brewery": "Delirium - Huyghe Brewery",
+    "beer_type": "Belgian Strong Dark Ale"
+  },
+  {
+    "venue": "berlin-florentin",
+    "time": "2024-05-07T17:25:25+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "Guinness Draught",
+    "brewery": "Guinness",
+    "beer_type": "Stout - Irish Dry"
+  },
+  {
+    "venue": "ursa",
+    "time": "2024-05-06T21:17:15+00:00",
+    "serving": "draft",
+    "rating": 2.0,
+    "beer_name": "Ronen The Ugly Beer (הבירה המכוערת)",
+    "brewery": "Srigim (שריגים)",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "ursa",
+    "time": "2024-05-03T21:20:34+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Budweiser Budvar / Czechvar Original",
+    "brewery": "Budějovický Budvar",
+    "beer_type": "Pilsner - Czech / Bohemian"
+  },
+  {
+    "venue": "beerline",
+    "time": "2024-05-03T19:16:48+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Edelweiss Snowfresh / Wheat Beer",
+    "brewery": "Brau Union Österreich",
+    "beer_type": "Wheat Beer - Hefeweizen"
+  },
+  {
+    "venue": "beerline",
+    "time": "2024-05-03T18:29:44+00:00",
+    "serving": "draft",
+    "rating": 3.0,
+    "beer_name": "Köstritzer Schwarzbier",
+    "brewery": "Köstritzer Schwarzbierbrauerei",
+    "beer_type": "Schwarzbier"
+  },
+  {
+    "venue": "bartov-holon",
+    "time": "2024-05-03T16:20:54+00:00",
+    "serving": "bottle",
+    "rating": 3.5,
+    "beer_name": "Balance",
+    "brewery": "Hatch (האטצ׳)",
+    "beer_type": "Red Ale - American Amber / Red"
+  },
+  {
+    "venue": "bartov-holon",
+    "time": "2024-05-03T15:30:55+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Shoshana (שושנע)",
+    "brewery": "Kasteel Brouwerij Vanhonsebrouck",
+    "beer_type": "Spiced / Herbed Beer"
+  },
+  {
+    "venue": "beerline",
+    "time": "2024-05-02T16:48:42+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "Edelweiss Snowfresh / Wheat Beer",
+    "brewery": "Brau Union Österreich",
+    "beer_type": "Wheat Beer - Hefeweizen"
+  },
+  {
+    "venue": "ursa",
+    "time": "2023-05-31T19:27:31+00:00",
+    "serving": "Unknown",
+    "rating": 4.25,
+    "beer_name": "Crescendo",
+    "brewery": "Siren Craft Brew",
+    "beer_type": "Stout - Imperial / Double"
+  },
+  {
+    "venue": "ursa",
+    "time": "2023-05-31T19:07:06+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "Trickster",
+    "brewery": "Siren Craft Brew",
+    "beer_type": "IPA - English"
+  },
+  {
+    "venue": "ursa",
+    "time": "2023-05-31T18:50:12+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "Shadow Paradise",
+    "brewery": "Siren Craft Brew",
+    "beer_type": "Porter - Other"
+  },
+  {
+    "venue": "ursa",
+    "time": "2023-05-31T18:36:02+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Lupuloid",
+    "brewery": "Beavertown",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "beer-station-beersheba-israel",
+    "time": "2023-05-03T16:57:39+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Bravehop Amber IPA",
+    "brewery": "Loch Lomond Brewery",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "beer-station-beersheba-israel",
+    "time": "2023-05-03T16:54:16+00:00",
+    "serving": "draft",
+    "rating": 3.0,
+    "beer_name": "Green (גרין)",
+    "brewery": "Alexander (אלכסנדר)",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "beer-station-beersheba-israel",
+    "time": "2023-05-03T16:25:06+00:00",
+    "serving": "draft",
+    "rating": 3.25,
+    "beer_name": "Bazelet Ale (בזלת-אייל ענברי)",
+    "brewery": "Golan Brewery (מבשלת הגולן)",
+    "beer_type": "Red Ale - American Amber / Red"
+  },
+  {
+    "venue": "beer-station-beersheba-israel",
+    "time": "2023-05-03T16:00:51+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "IPA Craft Beer",
+    "brewery": "HaGibor Brewery (מבשלת הגיבור)",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "beer-station-beersheba-israel",
+    "time": "2022-05-24T18:15:42+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Gibor Blondie",
+    "brewery": "HaGibor Brewery (מבשלת הגיבור)",
+    "beer_type": "Blonde / Golden Ale - Other"
+  },
+  {
+    "venue": "beer-station-beersheba-israel",
+    "time": "2022-05-24T18:14:55+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Staropramen Premium / Ležák 12",
+    "brewery": "Pivovary Staropramen",
+    "beer_type": "Pilsner - Czech / Bohemian"
+  },
+  {
+    "venue": "beer-station-beersheba-israel",
+    "time": "2019-05-13T18:42:43+00:00",
+    "serving": "Unknown",
+    "rating": 2.5,
+    "beer_name": "Bacchus Kriekenbier",
+    "brewery": "Kasteel Brouwerij Vanhonsebrouck",
+    "beer_type": "Sour - Flanders Oud Bruin"
+  },
+  {
+    "venue": "beer-station-beersheba-israel",
+    "time": "2018-05-10T19:41:02+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Fruitesse",
+    "brewery": "Brouwerij Liefmans",
+    "beer_type": "Fruit Beer"
+  },
+  {
+    "venue": "beer-station-beersheba-israel",
+    "time": "2018-05-10T19:40:03+00:00",
+    "serving": "Unknown",
+    "rating": 3.25,
+    "beer_name": "Weizen",
+    "brewery": "Primátor",
+    "beer_type": "Wheat Beer - Hefeweizen"
   },
   {
     "venue": "lauter",
@@ -127165,942 +128929,6 @@ const BEER_DATA = [
     "beer_type": "IPA - Session"
   },
   {
-    "venue": "beerbazaar-brewery",
-    "time": "2025-05-30T10:24:02+00:00",
-    "serving": "draft",
-    "rating": 3.5,
-    "beer_name": "חתול עם תעלול",
-    "brewery": "BeerBazaar / Mivshelet Ha’Aretz",
-    "beer_type": "Pale Ale - American"
-  },
-  {
-    "venue": "beerline",
-    "time": "2025-05-29T15:59:18+00:00",
-    "serving": "draft",
-    "rating": 4.5,
-    "beer_name": "Delirium Red",
-    "brewery": "Delirium - Huyghe Brewery",
-    "beer_type": "Fruit Beer"
-  },
-  {
-    "venue": "beer-station-beersheba-israel",
-    "time": "2025-05-29T13:34:17+00:00",
-    "serving": "draft",
-    "rating": 3.5,
-    "beer_name": "Katzra Black (קצרה כהה)",
-    "brewery": "Arava Brewery (מבשלת בירה ערבה)",
-    "beer_type": "Porter - Other"
-  },
-  {
-    "venue": "beerbazaar-brewery",
-    "time": "2025-05-29T13:31:42+00:00",
-    "serving": "can",
-    "rating": 4.5,
-    "beer_name": "Apricot X Passionfruit X Mango X Vanilla Smoothie Sour Ale",
-    "brewery": "Ārpus Brewing Co.",
-    "beer_type": "Sour - Smoothie / Pastry"
-  },
-  {
-    "venue": "beerbazaar-brewery",
-    "time": "2025-05-29T13:28:11+00:00",
-    "serving": "can",
-    "rating": 3.5,
-    "beer_name": "Lviv Stout",
-    "brewery": "Pravda Brewery",
-    "beer_type": "Stout - Other"
-  },
-  {
-    "venue": "beerbazaar-brewery",
-    "time": "2025-05-29T13:21:42+00:00",
-    "serving": "Unknown",
-    "rating": 3.25,
-    "beer_name": "HOPulência 24.04 IPA Com Lúpulos Nacionais 2024 Lúpulo Do Maria",
-    "brewery": "Cerveja Vadia",
-    "beer_type": "IPA - American"
-  },
-  {
-    "venue": "beer-station-beersheba-israel",
-    "time": "2025-05-29T13:10:54+00:00",
-    "serving": "draft",
-    "rating": 3.5,
-    "beer_name": "Shoshana (שושנע)",
-    "brewery": "Kasteel Brouwerij Vanhonsebrouck",
-    "beer_type": "Spiced / Herbed Beer"
-  },
-  {
-    "venue": "beerbazaar-brewery",
-    "time": "2025-05-29T13:06:57+00:00",
-    "serving": "can",
-    "rating": 3.75,
-    "beer_name": "עשן הזמן",
-    "brewery": "BeerBazaar / Mivshelet Ha’Aretz",
-    "beer_type": "Lager - Smoked"
-  },
-  {
-    "venue": "beer-station-beersheba-israel",
-    "time": "2025-05-29T13:04:35+00:00",
-    "serving": "Unknown",
-    "rating": 3.25,
-    "beer_name": "001 [שם זמני]",
-    "brewery": "Arava Brewery (מבשלת בירה ערבה)",
-    "beer_type": "IPA - Other"
-  },
-  {
-    "venue": "berlin-florentin",
-    "time": "2025-05-27T19:47:05+00:00",
-    "serving": "bottle",
-    "rating": 4.3,
-    "beer_name": "Mr. & Mrs. Smith",
-    "brewery": "Fat Cat Brewery",
-    "beer_type": "Homebrew, Cider - Herbed / Spiced / Hopped"
-  },
-  {
-    "venue": "berlin-florentin",
-    "time": "2025-05-27T18:48:34+00:00",
-    "serving": "can",
-    "rating": 3.9,
-    "beer_name": "Juice Shack Session NEIPA",
-    "brewery": "BrewDog",
-    "beer_type": "Pale Ale - New England / Hazy"
-  },
-  {
-    "venue": "berlin-florentin",
-    "time": "2025-05-27T18:31:41+00:00",
-    "serving": "bottle",
-    "rating": 5.0,
-    "beer_name": "Jää | Ice Cuvée",
-    "brewery": "Tori Jõesuu Siidri- Ja Veinitalu",
-    "beer_type": "Cider - Ice"
-  },
-  {
-    "venue": "berlin-florentin",
-    "time": "2025-05-27T18:26:12+00:00",
-    "serving": "bottle",
-    "rating": 4.0,
-    "beer_name": "Mr. & Mrs. Smith",
-    "brewery": "Fat Cat Brewery",
-    "beer_type": "Homebrew, Cider - Herbed / Spiced / Hopped"
-  },
-  {
-    "venue": "berlin-florentin",
-    "time": "2025-05-27T18:23:02+00:00",
-    "serving": "can",
-    "rating": 4.2,
-    "beer_name": "Quince Naturel",
-    "brewery": "Jaanihanso",
-    "beer_type": "Cider - Other Fruit"
-  },
-  {
-    "venue": "berlin-florentin",
-    "time": "2025-05-27T18:15:57+00:00",
-    "serving": "bottle",
-    "rating": 5.0,
-    "beer_name": "Jää | Ice Cuvée",
-    "brewery": "Tori Jõesuu Siidri- Ja Veinitalu",
-    "beer_type": "Cider - Ice"
-  },
-  {
-    "venue": "berlin-florentin",
-    "time": "2025-05-27T18:09:54+00:00",
-    "serving": "can",
-    "rating": 3.2,
-    "beer_name": "Quince Naturel",
-    "brewery": "Jaanihanso",
-    "beer_type": "Cider - Other Fruit"
-  },
-  {
-    "venue": "berlin-florentin",
-    "time": "2025-05-27T18:06:17+00:00",
-    "serving": "bottle",
-    "rating": 4.7,
-    "beer_name": "Pearadise",
-    "brewery": "Mr. Plūme",
-    "beer_type": "Cider - Other Fruit"
-  },
-  {
-    "venue": "berlin-florentin",
-    "time": "2025-05-27T18:04:28+00:00",
-    "serving": "bottle",
-    "rating": 3.9,
-    "beer_name": "Winter Méthode Traditionnelle",
-    "brewery": "Jaanihanso",
-    "beer_type": "Cider - Herbed / Spiced / Hopped"
-  },
-  {
-    "venue": "berlin-florentin",
-    "time": "2025-05-27T18:02:25+00:00",
-    "serving": "can",
-    "rating": 3.9,
-    "beer_name": "Dry Hopped Cider",
-    "brewery": "Jaanihanso",
-    "beer_type": "Cider - Herbed / Spiced / Hopped"
-  },
-  {
-    "venue": "berlin-florentin",
-    "time": "2025-05-27T17:59:39+00:00",
-    "serving": "bottle",
-    "rating": 4.2,
-    "beer_name": "Winter Méthode Traditionnelle",
-    "brewery": "Jaanihanso",
-    "beer_type": "Cider - Herbed / Spiced / Hopped"
-  },
-  {
-    "venue": "berlin-florentin",
-    "time": "2025-05-27T17:59:15+00:00",
-    "serving": "Unknown",
-    "rating": 3.3,
-    "beer_name": "Perry 2022",
-    "brewery": "Mr. Plūme",
-    "beer_type": "Cider - Perry / Poiré"
-  },
-  {
-    "venue": "berlin-florentin",
-    "time": "2025-05-27T17:52:06+00:00",
-    "serving": "can",
-    "rating": 3.5,
-    "beer_name": "Dry Hopped Cider",
-    "brewery": "Jaanihanso",
-    "beer_type": "Cider - Herbed / Spiced / Hopped"
-  },
-  {
-    "venue": "berlin-florentin",
-    "time": "2025-05-27T17:48:44+00:00",
-    "serving": "bottle",
-    "rating": 3.8,
-    "beer_name": "Perry 2022",
-    "brewery": "Mr. Plūme",
-    "beer_type": "Cider - Perry / Poiré"
-  },
-  {
-    "venue": "berlin-florentin",
-    "time": "2025-05-27T17:38:15+00:00",
-    "serving": "can",
-    "rating": 3.3,
-    "beer_name": "Rheum Naturel",
-    "brewery": "Jaanihanso",
-    "beer_type": "Cider - Other Fruit"
-  },
-  {
-    "venue": "berlin-florentin",
-    "time": "2025-05-27T17:35:07+00:00",
-    "serving": "bottle",
-    "rating": 4.0,
-    "beer_name": "Perry (2024; 5.9%)",
-    "brewery": "Tori Jõesuu Siidri- Ja Veinitalu",
-    "beer_type": "Cider - Perry / Poiré"
-  },
-  {
-    "venue": "berlin-florentin",
-    "time": "2025-05-27T17:31:14+00:00",
-    "serving": "can",
-    "rating": 3.5,
-    "beer_name": "Rheum Naturel",
-    "brewery": "Jaanihanso",
-    "beer_type": "Cider - Other Fruit"
-  },
-  {
-    "venue": "berlin-florentin",
-    "time": "2025-05-27T17:29:30+00:00",
-    "serving": "bottle",
-    "rating": 4.5,
-    "beer_name": "Ziema Karstsidrs",
-    "brewery": "Abuls Sidra Darītava",
-    "beer_type": "Cider - Herbed / Spiced / Hopped"
-  },
-  {
-    "venue": "berlin-florentin",
-    "time": "2025-05-27T17:26:48+00:00",
-    "serving": "bottle",
-    "rating": 3.9,
-    "beer_name": "Ziema Karstsidrs",
-    "brewery": "Abuls Sidra Darītava",
-    "beer_type": "Cider - Herbed / Spiced / Hopped"
-  },
-  {
-    "venue": "berlin-florentin",
-    "time": "2025-05-27T17:25:38+00:00",
-    "serving": "bottle",
-    "rating": 4.5,
-    "beer_name": "Ziema Karstsidrs",
-    "brewery": "Abuls Sidra Darītava",
-    "beer_type": "Cider - Herbed / Spiced / Hopped"
-  },
-  {
-    "venue": "berlin-florentin",
-    "time": "2025-05-27T17:22:56+00:00",
-    "serving": "bottle",
-    "rating": 3.7,
-    "beer_name": "Mr. Plūme Pussausais",
-    "brewery": "Mr. Plūme",
-    "beer_type": "Cider - Traditional / Apfelwein"
-  },
-  {
-    "venue": "berlin-florentin",
-    "time": "2025-05-27T17:22:08+00:00",
-    "serving": "bottle",
-    "rating": 3.9,
-    "beer_name": "Mr. Plūme Pussausais",
-    "brewery": "Mr. Plūme",
-    "beer_type": "Cider - Traditional / Apfelwein"
-  },
-  {
-    "venue": "berlin-florentin",
-    "time": "2025-05-27T17:18:49+00:00",
-    "serving": "bottle",
-    "rating": 4.0,
-    "beer_name": "Vintage 2021",
-    "brewery": "Mr. Plūme",
-    "beer_type": "Cider - Dry"
-  },
-  {
-    "venue": "berlin-florentin",
-    "time": "2025-05-27T17:13:52+00:00",
-    "serving": "bottle",
-    "rating": 3.7,
-    "beer_name": "Vintage 2021",
-    "brewery": "Mr. Plūme",
-    "beer_type": "Cider - Dry"
-  },
-  {
-    "venue": "berlin-florentin",
-    "time": "2025-05-27T17:12:14+00:00",
-    "serving": "bottle",
-    "rating": 3.7,
-    "beer_name": "Vintage 2021",
-    "brewery": "Mr. Plūme",
-    "beer_type": "Cider - Dry"
-  },
-  {
-    "venue": "berlin-florentin",
-    "time": "2025-05-27T17:12:01+00:00",
-    "serving": "bottle",
-    "rating": 3.5,
-    "beer_name": "Poolkuiv Õunasiider Demi Sec",
-    "brewery": "Tori Jõesuu Siidri- Ja Veinitalu",
-    "beer_type": "Cider - Traditional / Apfelwein"
-  },
-  {
-    "venue": "berlin-florentin",
-    "time": "2025-05-27T17:08:23+00:00",
-    "serving": "bottle",
-    "rating": 3.7,
-    "beer_name": "Poolkuiv Õunasiider Demi Sec",
-    "brewery": "Tori Jõesuu Siidri- Ja Veinitalu",
-    "beer_type": "Cider - Traditional / Apfelwein"
-  },
-  {
-    "venue": "berlin-florentin",
-    "time": "2025-05-27T17:06:57+00:00",
-    "serving": "bottle",
-    "rating": 3.6,
-    "beer_name": "Poolkuiv Õunasiider Demi Sec",
-    "brewery": "Tori Jõesuu Siidri- Ja Veinitalu",
-    "beer_type": "Cider - Traditional / Apfelwein"
-  },
-  {
-    "venue": "berlin-florentin",
-    "time": "2025-05-27T16:44:02+00:00",
-    "serving": "bottle",
-    "rating": 3.6,
-    "beer_name": "Somersby Mango & Lime",
-    "brewery": "Carlsberg Group",
-    "beer_type": "Cider - Other Fruit"
-  },
-  {
-    "venue": "berlin-florentin",
-    "time": "2025-05-27T15:43:00+00:00",
-    "serving": "Unknown",
-    "rating": 3.7,
-    "beer_name": "Beck's",
-    "brewery": "Brauerei Beck",
-    "beer_type": "Pilsner - German"
-  },
-  {
-    "venue": "berlin-florentin",
-    "time": "2025-05-25T19:56:26+00:00",
-    "serving": "draft",
-    "rating": 3.75,
-    "beer_name": "Budweiser Budvar / Czechvar Original",
-    "brewery": "Budějovický Budvar",
-    "beer_type": "Pilsner - Czech / Bohemian"
-  },
-  {
-    "venue": "berlin-florentin",
-    "time": "2025-05-25T19:55:06+00:00",
-    "serving": "draft",
-    "rating": 3.25,
-    "beer_name": "Ronen The Ugly Beer (הבירה המכוערת)",
-    "brewery": "Srigim (שריגים)",
-    "beer_type": "IPA - American"
-  },
-  {
-    "venue": "berlin-florentin",
-    "time": "2025-05-25T17:22:24+00:00",
-    "serving": "Unknown",
-    "rating": 3.5,
-    "beer_name": "Soundwave IPA",
-    "brewery": "Siren Craft Brew",
-    "beer_type": "IPA - American"
-  },
-  {
-    "venue": "ursa",
-    "time": "2025-05-24T16:15:54+00:00",
-    "serving": "draft",
-    "rating": 3.75,
-    "beer_name": "Soundwave IPA",
-    "brewery": "Siren Craft Brew",
-    "beer_type": "IPA - American"
-  },
-  {
-    "venue": "ursa",
-    "time": "2025-05-24T16:10:01+00:00",
-    "serving": "draft",
-    "rating": 4.0,
-    "beer_name": "Ronen The Ugly Beer (הבירה המכוערת)",
-    "brewery": "Srigim (שריגים)",
-    "beer_type": "IPA - American"
-  },
-  {
-    "venue": "beerz",
-    "time": "2025-05-19T20:43:03+00:00",
-    "serving": "Unknown",
-    "rating": 4.0,
-    "beer_name": "Lemon X Coconut X Pineapple X Cherry Smoothie Sour Ale",
-    "brewery": "Ārpus Brewing Co.",
-    "beer_type": "Sour - Smoothie / Pastry"
-  },
-  {
-    "venue": "beerz",
-    "time": "2025-05-19T20:42:36+00:00",
-    "serving": "can",
-    "rating": 4.5,
-    "beer_name": "Apricot X Passionfruit X Mango X Vanilla Smoothie Sour Ale",
-    "brewery": "Ārpus Brewing Co.",
-    "beer_type": "Sour - Smoothie / Pastry"
-  },
-  {
-    "venue": "beerz",
-    "time": "2025-05-19T19:59:22+00:00",
-    "serving": "can",
-    "rating": 4.0,
-    "beer_name": "Fruitheart Smoothie Sour Ale",
-    "brewery": "Ārpus Brewing Co.",
-    "beer_type": "Sour - Smoothie / Pastry"
-  },
-  {
-    "venue": "beerz",
-    "time": "2025-05-19T17:37:14+00:00",
-    "serving": "can",
-    "rating": 4.0,
-    "beer_name": "Fruitheart Smoothie Sour Ale",
-    "brewery": "Ārpus Brewing Co.",
-    "beer_type": "Sour - Smoothie / Pastry"
-  },
-  {
-    "venue": "beerz",
-    "time": "2025-05-19T16:47:06+00:00",
-    "serving": "can",
-    "rating": 5.0,
-    "beer_name": "Apricot X Passionfruit X Mango X Vanilla Smoothie Sour Ale",
-    "brewery": "Ārpus Brewing Co.",
-    "beer_type": "Sour - Smoothie / Pastry"
-  },
-  {
-    "venue": "beerz",
-    "time": "2025-05-19T16:42:36+00:00",
-    "serving": "draft",
-    "rating": 3.8,
-    "beer_name": "Barbãr Bok",
-    "brewery": "Brasserie Lefebvre",
-    "beer_type": "Bock - Single / Traditional"
-  },
-  {
-    "venue": "beerz",
-    "time": "2025-05-19T16:40:27+00:00",
-    "serving": "can",
-    "rating": 2.8,
-    "beer_name": "California Sun",
-    "brewery": "Thornbridge Brewery",
-    "beer_type": "IPA - Session"
-  },
-  {
-    "venue": "beerz",
-    "time": "2025-05-19T16:26:28+00:00",
-    "serving": "draft",
-    "rating": 3.25,
-    "beer_name": "Gentle Bastard",
-    "brewery": "HORIZONT Brewing",
-    "beer_type": "IPA - American"
-  },
-  {
-    "venue": "beerz",
-    "time": "2025-05-19T16:20:24+00:00",
-    "serving": "draft",
-    "rating": 4.25,
-    "beer_name": "Hazy Queen",
-    "brewery": "HORIZONT Brewing",
-    "beer_type": "IPA - New England / Hazy"
-  },
-  {
-    "venue": "beerz",
-    "time": "2025-05-19T16:13:26+00:00",
-    "serving": "draft",
-    "rating": 3.75,
-    "beer_name": "Edelweiss Snowfresh / Wheat Beer",
-    "brewery": "Brau Union Österreich",
-    "beer_type": "Wheat Beer - Hefeweizen"
-  },
-  {
-    "venue": "beerz",
-    "time": "2025-05-19T16:09:29+00:00",
-    "serving": "draft",
-    "rating": 4.0,
-    "beer_name": "Hazy Queen",
-    "brewery": "HORIZONT Brewing",
-    "beer_type": "IPA - New England / Hazy"
-  },
-  {
-    "venue": "beerz",
-    "time": "2025-05-19T16:09:16+00:00",
-    "serving": "draft",
-    "rating": 4.0,
-    "beer_name": "Hazy Queen",
-    "brewery": "HORIZONT Brewing",
-    "beer_type": "IPA - New England / Hazy"
-  },
-  {
-    "venue": "beerz",
-    "time": "2025-05-19T16:08:27+00:00",
-    "serving": "draft",
-    "rating": 4.0,
-    "beer_name": "Gentle Bastard",
-    "brewery": "HORIZONT Brewing",
-    "beer_type": "IPA - American"
-  },
-  {
-    "venue": "beerz",
-    "time": "2025-05-19T16:06:40+00:00",
-    "serving": "draft",
-    "rating": 3.6,
-    "beer_name": "Edelweiss Snowfresh / Wheat Beer",
-    "brewery": "Brau Union Österreich",
-    "beer_type": "Wheat Beer - Hefeweizen"
-  },
-  {
-    "venue": "ursa",
-    "time": "2025-05-18T21:52:34+00:00",
-    "serving": "draft",
-    "rating": 4.0,
-    "beer_name": "Erdinger Weißbier / Hefe-Weizen",
-    "brewery": "Erdinger Weissbräu",
-    "beer_type": "Wheat Beer - Hefeweizen"
-  },
-  {
-    "venue": "berlin-florentin",
-    "time": "2025-05-18T09:12:25+00:00",
-    "serving": "draft",
-    "rating": 3.25,
-    "beer_name": "Amber Ale (תקומה)",
-    "brewery": "בירה שקמה Shikma Beer",
-    "beer_type": "Red Ale - American Amber / Red"
-  },
-  {
-    "venue": "berlin-florentin",
-    "time": "2025-05-18T09:03:12+00:00",
-    "serving": "draft",
-    "rating": 2.5,
-    "beer_name": "Beck's",
-    "brewery": "Brauerei Beck",
-    "beer_type": "Pilsner - German"
-  },
-  {
-    "venue": "beerz",
-    "time": "2025-05-16T19:19:29+00:00",
-    "serving": "can",
-    "rating": 3.75,
-    "beer_name": "Morning Joe",
-    "brewery": "HORIZONT Brewing",
-    "beer_type": "Stout - Coffee"
-  },
-  {
-    "venue": "berlin-florentin",
-    "time": "2025-05-16T17:57:22+00:00",
-    "serving": "can",
-    "rating": 3.25,
-    "beer_name": "Juice Shack Milkshake",
-    "brewery": "BrewDog",
-    "beer_type": "IPA - Milkshake"
-  },
-  {
-    "venue": "berlin-florentin",
-    "time": "2025-05-16T17:20:02+00:00",
-    "serving": "can",
-    "rating": 3.75,
-    "beer_name": "Broken Dream",
-    "brewery": "Siren Craft Brew",
-    "beer_type": "Stout - Oatmeal"
-  },
-  {
-    "venue": "berlin-florentin",
-    "time": "2025-05-16T16:36:01+00:00",
-    "serving": "can",
-    "rating": 3.5,
-    "beer_name": "DDH Jaipur",
-    "brewery": "Thornbridge Brewery",
-    "beer_type": "IPA - English"
-  },
-  {
-    "venue": "ursa",
-    "time": "2025-05-15T22:16:08+00:00",
-    "serving": "draft",
-    "rating": 4.0,
-    "beer_name": "Weihenstephaner Hefeweissbier Dunkel",
-    "brewery": "Bayerische Staatsbrauerei Weihenstephan",
-    "beer_type": "Wheat Beer - Dunkelweizen"
-  },
-  {
-    "venue": "beerbazaar-brewery",
-    "time": "2025-05-15T18:42:14+00:00",
-    "serving": "draft",
-    "rating": 3.5,
-    "beer_name": "Bhindi IPA",
-    "brewery": "BeerBazaar / Mivshelet Ha’Aretz",
-    "beer_type": "IPA - American"
-  },
-  {
-    "venue": "beerbazaar-brewery",
-    "time": "2025-05-15T17:54:55+00:00",
-    "serving": "draft",
-    "rating": 3.25,
-    "beer_name": "חתול עם תעלול",
-    "brewery": "BeerBazaar / Mivshelet Ha’Aretz",
-    "beer_type": "Pale Ale - American"
-  },
-  {
-    "venue": "beerz",
-    "time": "2025-05-15T16:00:06+00:00",
-    "serving": "draft",
-    "rating": 3.75,
-    "beer_name": "Hobgoblin IPA",
-    "brewery": "Marston's Brewery",
-    "beer_type": "IPA - English"
-  },
-  {
-    "venue": "beerz",
-    "time": "2025-05-15T15:30:37+00:00",
-    "serving": "draft",
-    "rating": 3.75,
-    "beer_name": "Barbãr Bok",
-    "brewery": "Brasserie Lefebvre",
-    "beer_type": "Bock - Single / Traditional"
-  },
-  {
-    "venue": "berlin-florentin",
-    "time": "2025-05-14T17:27:12+00:00",
-    "serving": "draft",
-    "rating": 3.75,
-    "beer_name": "Löwenbräu Original",
-    "brewery": "Spaten-Franziskaner-Löwenbräu-Gruppe",
-    "beer_type": "Lager - Helles"
-  },
-  {
-    "venue": "beerz",
-    "time": "2025-05-12T18:18:57+00:00",
-    "serving": "can",
-    "rating": 3.5,
-    "beer_name": "Fruitheart Smoothie Sour Ale",
-    "brewery": "Ārpus Brewing Co.",
-    "beer_type": "Sour - Smoothie / Pastry"
-  },
-  {
-    "venue": "beerz",
-    "time": "2025-05-11T20:29:21+00:00",
-    "serving": "draft",
-    "rating": 4.5,
-    "beer_name": "Gentle Bastard",
-    "brewery": "HORIZONT Brewing",
-    "beer_type": "IPA - American"
-  },
-  {
-    "venue": "berlin-florentin",
-    "time": "2025-05-08T21:42:42+00:00",
-    "serving": "draft",
-    "rating": 3.5,
-    "beer_name": "Kasteel Rubus Framboise",
-    "brewery": "Kasteel Brouwerij Vanhonsebrouck",
-    "beer_type": "Fruit Beer"
-  },
-  {
-    "venue": "ursa",
-    "time": "2025-05-08T20:28:37+00:00",
-    "serving": "can",
-    "rating": 3.4,
-    "beer_name": "Oatmeal IPA 2025",
-    "brewery": "Malka (מלכה)",
-    "beer_type": "IPA - Other"
-  },
-  {
-    "venue": "berlin-florentin",
-    "time": "2025-05-08T17:39:43+00:00",
-    "serving": "draft",
-    "rating": 3.5,
-    "beer_name": "Pleroma Karpologi Pineapple Peach Marshmallow Créme Brulée Sour",
-    "brewery": "Omnipollo",
-    "beer_type": "Sour - Smoothie / Pastry"
-  },
-  {
-    "venue": "beerz",
-    "time": "2025-05-08T16:49:15+00:00",
-    "serving": "draft",
-    "rating": 3.75,
-    "beer_name": "Hobgoblin IPA",
-    "brewery": "Marston's Brewery",
-    "beer_type": "IPA - English"
-  },
-  {
-    "venue": "beerz",
-    "time": "2025-05-08T16:05:27+00:00",
-    "serving": "draft",
-    "rating": 4.0,
-    "beer_name": "Bacchus Frambozenbier",
-    "brewery": "Kasteel Brouwerij Vanhonsebrouck",
-    "beer_type": "Sour - Flanders Oud Bruin"
-  },
-  {
-    "venue": "berlin-florentin",
-    "time": "2025-05-07T18:10:10+00:00",
-    "serving": "draft",
-    "rating": 3.5,
-    "beer_name": "Pleroma Karpologi Pineapple Peach Marshmallow Créme Brulée Sour",
-    "brewery": "Omnipollo",
-    "beer_type": "Sour - Smoothie / Pastry"
-  },
-  {
-    "venue": "berlin-florentin",
-    "time": "2025-05-07T16:26:51+00:00",
-    "serving": "Unknown",
-    "rating": 3.75,
-    "beer_name": "Franziskaner Premium Weissbier Naturtrüb",
-    "brewery": "Spaten-Franziskaner-Löwenbräu-Gruppe",
-    "beer_type": "Wheat Beer - Hefeweizen"
-  },
-  {
-    "venue": "berlin-florentin",
-    "time": "2025-05-07T16:09:23+00:00",
-    "serving": "Unknown",
-    "rating": 2.75,
-    "beer_name": "Shikma IPA",
-    "brewery": "בירה שקמה Shikma Beer",
-    "beer_type": "IPA - American"
-  },
-  {
-    "venue": "berlin-florentin",
-    "time": "2025-05-07T15:28:41+00:00",
-    "serving": "Unknown",
-    "rating": 2.25,
-    "beer_name": "Goldstar (גולדסטאר)",
-    "brewery": "Tempo Beer Industries Ltd (טמפו)",
-    "beer_type": "Lager - Vienna"
-  },
-  {
-    "venue": "beerline",
-    "time": "2025-05-07T14:11:03+00:00",
-    "serving": "Unknown",
-    "rating": 3.75,
-    "beer_name": "Münchner Weisse",
-    "brewery": "Staatliches Hofbräuhaus München",
-    "beer_type": "Wheat Beer - Hefeweizen"
-  },
-  {
-    "venue": "beerbazaar-brewery",
-    "time": "2025-05-05T20:51:54+00:00",
-    "serving": "can",
-    "rating": 3.75,
-    "beer_name": "FEAT. Nepo - Stardust",
-    "brewery": "Funky Fluid",
-    "beer_type": "IPA - Triple New England / Hazy"
-  },
-  {
-    "venue": "beerbazaar-brewery",
-    "time": "2025-05-05T19:47:22+00:00",
-    "serving": "can",
-    "rating": 3.5,
-    "beer_name": "FEAT. Nepo - Stardust",
-    "brewery": "Funky Fluid",
-    "beer_type": "IPA - Triple New England / Hazy"
-  },
-  {
-    "venue": "beerbazaar-brewery",
-    "time": "2025-05-05T19:43:25+00:00",
-    "serving": "can",
-    "rating": 4.0,
-    "beer_name": "Tutto Fatto",
-    "brewery": "Birrificio WAR",
-    "beer_type": "IPA - Imperial / Double"
-  },
-  {
-    "venue": "beerbazaar-brewery",
-    "time": "2025-05-05T19:41:58+00:00",
-    "serving": "can",
-    "rating": 4.25,
-    "beer_name": "Tutto Fatto",
-    "brewery": "Birrificio WAR",
-    "beer_type": "IPA - Imperial / Double"
-  },
-  {
-    "venue": "beerbazaar-brewery",
-    "time": "2025-05-05T19:41:00+00:00",
-    "serving": "Unknown",
-    "rating": 4.0,
-    "beer_name": "Tutto Fatto",
-    "brewery": "Birrificio WAR",
-    "beer_type": "IPA - Imperial / Double"
-  },
-  {
-    "venue": "beerbazaar-brewery",
-    "time": "2025-05-05T19:33:44+00:00",
-    "serving": "can",
-    "rating": 4.25,
-    "beer_name": "Juice Bomb",
-    "brewery": "Sloop Brewing Co.",
-    "beer_type": "IPA - New England / Hazy"
-  },
-  {
-    "venue": "beerbazaar-brewery",
-    "time": "2025-05-05T19:33:13+00:00",
-    "serving": "can",
-    "rating": 4.5,
-    "beer_name": "Hydra | Passion Fruit + Mango + Pink Guava",
-    "brewery": "Mortalis Brewing Company",
-    "beer_type": "Sour - Smoothie / Pastry"
-  },
-  {
-    "venue": "beerbazaar-brewery",
-    "time": "2025-05-05T19:32:05+00:00",
-    "serving": "can",
-    "rating": 4.0,
-    "beer_name": "Hydra | Passion Fruit + Mango + Pink Guava",
-    "brewery": "Mortalis Brewing Company",
-    "beer_type": "Sour - Smoothie / Pastry"
-  },
-  {
-    "venue": "beerbazaar-brewery",
-    "time": "2025-05-05T19:27:41+00:00",
-    "serving": "can",
-    "rating": 3.5,
-    "beer_name": "Juice Bomb",
-    "brewery": "Sloop Brewing Co.",
-    "beer_type": "IPA - New England / Hazy"
-  },
-  {
-    "venue": "beerbazaar-brewery",
-    "time": "2025-05-05T19:27:34+00:00",
-    "serving": "Unknown",
-    "rating": null,
-    "beer_name": "Juice Bomb",
-    "brewery": "Sloop Brewing Co.",
-    "beer_type": "IPA - New England / Hazy"
-  },
-  {
-    "venue": "beerbazaar-brewery",
-    "time": "2025-05-05T19:24:27+00:00",
-    "serving": "can",
-    "rating": 3.5,
-    "beer_name": "Juice Bomb",
-    "brewery": "Sloop Brewing Co.",
-    "beer_type": "IPA - New England / Hazy"
-  },
-  {
-    "venue": "beerbazaar-brewery",
-    "time": "2025-05-05T19:20:28+00:00",
-    "serving": "Unknown",
-    "rating": null,
-    "beer_name": "SchnittBazaar (שניטבאזר)",
-    "brewery": "BeerBazaar / Mivshelet Ha’Aretz",
-    "beer_type": "Farmhouse Ale - Saison"
-  },
-  {
-    "venue": "beerbazaar-brewery",
-    "time": "2025-05-05T19:19:55+00:00",
-    "serving": "Unknown",
-    "rating": null,
-    "beer_name": "חתול עם תעלול",
-    "brewery": "BeerBazaar / Mivshelet Ha’Aretz",
-    "beer_type": "Pale Ale - American"
-  },
-  {
-    "venue": "beerbazaar-brewery",
-    "time": "2025-05-05T18:43:05+00:00",
-    "serving": "Unknown",
-    "rating": null,
-    "beer_name": "חתול עם תעלול",
-    "brewery": "BeerBazaar / Mivshelet Ha’Aretz",
-    "beer_type": "Pale Ale - American"
-  },
-  {
-    "venue": "beerbazaar-brewery",
-    "time": "2025-05-05T18:39:41+00:00",
-    "serving": "draft",
-    "rating": null,
-    "beer_name": "SchnittBazaar (שניטבאזר)",
-    "brewery": "BeerBazaar / Mivshelet Ha’Aretz",
-    "beer_type": "Farmhouse Ale - Saison"
-  },
-  {
-    "venue": "beerbazaar-brewery",
-    "time": "2025-05-05T18:20:09+00:00",
-    "serving": "Unknown",
-    "rating": null,
-    "beer_name": "SchnittBazaar (שניטבאזר)",
-    "brewery": "BeerBazaar / Mivshelet Ha’Aretz",
-    "beer_type": "Farmhouse Ale - Saison"
-  },
-  {
-    "venue": "beerbazaar-brewery",
-    "time": "2025-05-05T18:13:24+00:00",
-    "serving": "draft",
-    "rating": 3.75,
-    "beer_name": "חתול עם תעלול",
-    "brewery": "BeerBazaar / Mivshelet Ha’Aretz",
-    "beer_type": "Pale Ale - American"
-  },
-  {
-    "venue": "ursa",
-    "time": "2025-05-03T15:35:21+00:00",
-    "serving": "can",
-    "rating": 4.0,
-    "beer_name": "Lumina",
-    "brewery": "Siren Craft Brew",
-    "beer_type": "IPA - Session"
-  },
-  {
-    "venue": "ursa",
-    "time": "2025-05-03T14:42:52+00:00",
-    "serving": "can",
-    "rating": 3.5,
-    "beer_name": "Shesh Ahuz Kapara (שש אחוז כפרה)",
-    "brewery": "Herzl (הרצל)",
-    "beer_type": "Mild - Other"
-  },
-  {
-    "venue": "ursa",
-    "time": "2025-05-02T20:02:19+00:00",
-    "serving": "bottle",
-    "rating": 3.75,
-    "beer_name": "Hard Apple Cider - Dry (סיידר תפוחים אלכוהולי יבש)",
-    "brewery": "Hamatsesa (המתססה)",
-    "beer_type": "Cider - Dry"
-  },
-  {
-    "venue": "ursa",
-    "time": "2025-05-02T20:00:56+00:00",
-    "serving": "can",
-    "rating": 4.0,
-    "beer_name": "Foggyn’ Delicious",
-    "brewery": "Schnitt Brewing Company﻿",
-    "beer_type": "IPA - New England / Hazy"
-  },
-  {
     "venue": "ursa",
     "time": "2025-04-27T16:11:00+00:00",
     "serving": "can",
@@ -135832,501 +136660,6 @@ const BEER_DATA = [
     "beer_type": "Sour - Fruited Berliner Weisse"
   },
   {
-    "venue": "beerline",
-    "time": "2024-05-29T14:43:04+00:00",
-    "serving": "Unknown",
-    "rating": 4.0,
-    "beer_name": "Liquid Cocaine",
-    "brewery": "Mad Scientist",
-    "beer_type": "IPA - Imperial / Double"
-  },
-  {
-    "venue": "beerline",
-    "time": "2024-05-29T13:19:23+00:00",
-    "serving": "draft",
-    "rating": 4.1,
-    "beer_name": "Florida Weisse",
-    "brewery": "Thornbridge Brewery",
-    "beer_type": "Sour - Fruited Berliner Weisse"
-  },
-  {
-    "venue": "beerline",
-    "time": "2024-05-29T13:18:09+00:00",
-    "serving": "draft",
-    "rating": 4.0,
-    "beer_name": "Hobgoblin IPA",
-    "brewery": "Marston's Brewery",
-    "beer_type": "IPA - English"
-  },
-  {
-    "venue": "beerline",
-    "time": "2024-05-29T13:16:58+00:00",
-    "serving": "draft",
-    "rating": 4.0,
-    "beer_name": "Delirium Black Barrel Aged",
-    "brewery": "Delirium - Huyghe Brewery",
-    "beer_type": "Belgian Strong Dark Ale"
-  },
-  {
-    "venue": "beerline",
-    "time": "2024-05-29T13:15:56+00:00",
-    "serving": "draft",
-    "rating": 3.3,
-    "beer_name": "Dry Hop'd Zwickl",
-    "brewery": "Bitburger Brauerei",
-    "beer_type": "Kellerbier / Zwickelbier"
-  },
-  {
-    "venue": "beerline",
-    "time": "2024-05-29T13:14:12+00:00",
-    "serving": "Unknown",
-    "rating": 3.2,
-    "beer_name": "Th. König Zwickl",
-    "brewery": "König Brauerei",
-    "beer_type": "Kellerbier / Zwickelbier"
-  },
-  {
-    "venue": "beerline",
-    "time": "2024-05-29T13:10:30+00:00",
-    "serving": "draft",
-    "rating": 4.4,
-    "beer_name": "Floris Cactus",
-    "brewery": "Delirium - Huyghe Brewery",
-    "beer_type": "Wheat Beer - Fruited"
-  },
-  {
-    "venue": "berlin-florentin",
-    "time": "2024-05-28T19:05:58+00:00",
-    "serving": "draft",
-    "rating": 4.75,
-    "beer_name": "Guinness Draught",
-    "brewery": "Guinness",
-    "beer_type": "Stout - Irish Dry"
-  },
-  {
-    "venue": "berlin-florentin",
-    "time": "2024-05-27T17:49:19+00:00",
-    "serving": "Unknown",
-    "rating": 4.5,
-    "beer_name": "Hallo Ich Bin Berliner Weisse Blueberry",
-    "brewery": "Mikkeller",
-    "beer_type": "Sour - Fruited Berliner Weisse"
-  },
-  {
-    "venue": "berlin-florentin",
-    "time": "2024-05-27T16:39:54+00:00",
-    "serving": "draft",
-    "rating": 4.5,
-    "beer_name": "Hallo Ich Bin Berliner Weisse Blueberry",
-    "brewery": "Mikkeller",
-    "beer_type": "Sour - Fruited Berliner Weisse"
-  },
-  {
-    "venue": "bartov-holon",
-    "time": "2024-05-27T11:57:48+00:00",
-    "serving": "can",
-    "rating": 4.0,
-    "beer_name": "Black Marble",
-    "brewery": "Sullivan's Brewing Company",
-    "beer_type": "Stout - Irish Dry"
-  },
-  {
-    "venue": "ursa",
-    "time": "2024-05-25T18:30:49+00:00",
-    "serving": "can",
-    "rating": null,
-    "beer_name": "Selfish Games - West Coast Tripping",
-    "brewery": "HORIZONT Brewing",
-    "beer_type": "IPA - American"
-  },
-  {
-    "venue": "ursa",
-    "time": "2024-05-25T18:29:25+00:00",
-    "serving": "can",
-    "rating": null,
-    "beer_name": "Selfish Games - West Coast Tripping",
-    "brewery": "HORIZONT Brewing",
-    "beer_type": "IPA - American"
-  },
-  {
-    "venue": "berlin-florentin",
-    "time": "2024-05-24T16:08:39+00:00",
-    "serving": "draft",
-    "rating": 4.75,
-    "beer_name": "Guinness Draught",
-    "brewery": "Guinness",
-    "beer_type": "Stout - Irish Dry"
-  },
-  {
-    "venue": "berlin-florentin",
-    "time": "2024-05-23T18:46:17+00:00",
-    "serving": "draft",
-    "rating": 3.5,
-    "beer_name": "Carlsberg Luma",
-    "brewery": "Israel Beer Breweries Ltd. (IBBL)",
-    "beer_type": "Lager - IPL (India Pale Lager)"
-  },
-  {
-    "venue": "berlin-florentin",
-    "time": "2024-05-23T18:30:35+00:00",
-    "serving": "draft",
-    "rating": 3.25,
-    "beer_name": "Beck's",
-    "brewery": "Brauerei Beck",
-    "beer_type": "Pilsner - German"
-  },
-  {
-    "venue": "ursa",
-    "time": "2024-05-23T17:47:43+00:00",
-    "serving": "can",
-    "rating": 4.0,
-    "beer_name": "Green Mountain",
-    "brewery": "Thornbridge Brewery",
-    "beer_type": "IPA - Session"
-  },
-  {
-    "venue": "beerline",
-    "time": "2024-05-23T17:10:26+00:00",
-    "serving": "draft",
-    "rating": 3.75,
-    "beer_name": "Hobgoblin IPA",
-    "brewery": "Marston's Brewery",
-    "beer_type": "IPA - English"
-  },
-  {
-    "venue": "berlin-florentin",
-    "time": "2024-05-23T15:35:23+00:00",
-    "serving": "draft",
-    "rating": 3.25,
-    "beer_name": "Beck's",
-    "brewery": "Brauerei Beck",
-    "beer_type": "Pilsner - German"
-  },
-  {
-    "venue": "ursa",
-    "time": "2024-05-22T19:45:25+00:00",
-    "serving": "can",
-    "rating": 4.0,
-    "beer_name": "Hop Opera",
-    "brewery": "Mikkeller",
-    "beer_type": "IPA - Imperial / Double New England / Hazy"
-  },
-  {
-    "venue": "ursa",
-    "time": "2024-05-22T18:41:07+00:00",
-    "serving": "can",
-    "rating": 3.25,
-    "beer_name": "Scene Stealer",
-    "brewery": "Siren Craft Brew",
-    "beer_type": "IPA - American"
-  },
-  {
-    "venue": "ursa",
-    "time": "2024-05-22T18:30:51+00:00",
-    "serving": "can",
-    "rating": 3.75,
-    "beer_name": "Scene Stealer",
-    "brewery": "Siren Craft Brew",
-    "beer_type": "IPA - American"
-  },
-  {
-    "venue": "ursa",
-    "time": "2024-05-22T08:18:14+00:00",
-    "serving": "can",
-    "rating": 4.25,
-    "beer_name": "Hop Opera",
-    "brewery": "Mikkeller",
-    "beer_type": "IPA - Imperial / Double New England / Hazy"
-  },
-  {
-    "venue": "bartov-holon",
-    "time": "2024-05-21T20:33:13+00:00",
-    "serving": "bottle",
-    "rating": 2.75,
-    "beer_name": "THAIPA",
-    "brewery": "Alexander (אלכסנדר)",
-    "beer_type": "IPA - Session"
-  },
-  {
-    "venue": "bartov-holon",
-    "time": "2024-05-21T20:29:45+00:00",
-    "serving": "can",
-    "rating": 3.0,
-    "beer_name": "Florida Weisse",
-    "brewery": "Thornbridge Brewery",
-    "beer_type": "Sour - Fruited Berliner Weisse"
-  },
-  {
-    "venue": "bartov-holon",
-    "time": "2024-05-21T19:51:51+00:00",
-    "serving": "bottle",
-    "rating": 2.5,
-    "beer_name": "Vaadat Kishut (ועדת כישות) (2023)",
-    "brewery": "Herzl (הרצל)",
-    "beer_type": "IPA - American"
-  },
-  {
-    "venue": "bartov-holon",
-    "time": "2024-05-21T19:50:17+00:00",
-    "serving": "bottle",
-    "rating": 4.5,
-    "beer_name": "Massala",
-    "brewery": "Hatch (האטצ׳)",
-    "beer_type": "Spiced / Herbed Beer"
-  },
-  {
-    "venue": "bartov-holon",
-    "time": "2024-05-21T19:38:20+00:00",
-    "serving": "bottle",
-    "rating": 4.25,
-    "beer_name": "שנאפי",
-    "brewery": "Hatch (האטצ׳)",
-    "beer_type": "IPA - New England / Hazy"
-  },
-  {
-    "venue": "ursa",
-    "time": "2024-05-21T19:32:13+00:00",
-    "serving": "can",
-    "rating": 4.0,
-    "beer_name": "Hop Opera",
-    "brewery": "Mikkeller",
-    "beer_type": "IPA - Imperial / Double New England / Hazy"
-  },
-  {
-    "venue": "ursa",
-    "time": "2024-05-21T19:01:02+00:00",
-    "serving": "can",
-    "rating": 3.25,
-    "beer_name": "Shadow Paradise",
-    "brewery": "Siren Craft Brew",
-    "beer_type": "Porter - Other"
-  },
-  {
-    "venue": "ursa",
-    "time": "2024-05-21T18:40:12+00:00",
-    "serving": "Unknown",
-    "rating": 3.25,
-    "beer_name": "Shadow Paradise",
-    "brewery": "Siren Craft Brew",
-    "beer_type": "Porter - Other"
-  },
-  {
-    "venue": "ursa",
-    "time": "2024-05-19T20:02:49+00:00",
-    "serving": "can",
-    "rating": 3.75,
-    "beer_name": "Trickster",
-    "brewery": "Siren Craft Brew",
-    "beer_type": "IPA - English"
-  },
-  {
-    "venue": "ursa",
-    "time": "2024-05-19T19:39:05+00:00",
-    "serving": "can",
-    "rating": 3.75,
-    "beer_name": "Resting Brew Face",
-    "brewery": "Mikkeller",
-    "beer_type": "IPA - Imperial / Double New England / Hazy"
-  },
-  {
-    "venue": "ursa",
-    "time": "2024-05-18T15:43:11+00:00",
-    "serving": "draft",
-    "rating": 4.0,
-    "beer_name": "Neck Oil",
-    "brewery": "Beavertown",
-    "beer_type": "IPA - Session"
-  },
-  {
-    "venue": "beerline",
-    "time": "2024-05-17T13:47:43+00:00",
-    "serving": "draft",
-    "rating": 4.0,
-    "beer_name": "Delirium Argentum",
-    "brewery": "Delirium - Huyghe Brewery",
-    "beer_type": "IPA - Belgian"
-  },
-  {
-    "venue": "ursa",
-    "time": "2024-05-16T19:01:20+00:00",
-    "serving": "draft",
-    "rating": 4.5,
-    "beer_name": "Pompelmocello",
-    "brewery": "Siren Craft Brew",
-    "beer_type": "IPA - Sour"
-  },
-  {
-    "venue": "berlin-florentin",
-    "time": "2024-05-10T15:57:04+00:00",
-    "serving": "draft",
-    "rating": 4.0,
-    "beer_name": "Guinness Draught",
-    "brewery": "Guinness",
-    "beer_type": "Stout - Irish Dry"
-  },
-  {
-    "venue": "beerline",
-    "time": "2024-05-10T14:34:08+00:00",
-    "serving": "draft",
-    "rating": 3.75,
-    "beer_name": "Florida Weisse",
-    "brewery": "Thornbridge Brewery",
-    "beer_type": "Sour - Fruited Berliner Weisse"
-  },
-  {
-    "venue": "beerline",
-    "time": "2024-05-10T14:33:42+00:00",
-    "serving": "draft",
-    "rating": 3.25,
-    "beer_name": "Stiegl-Radler Grapefruit",
-    "brewery": "Stieglbrauerei zu Salzburg",
-    "beer_type": "Shandy / Radler"
-  },
-  {
-    "venue": "beerline",
-    "time": "2024-05-10T14:33:10+00:00",
-    "serving": "draft",
-    "rating": 3.5,
-    "beer_name": "Black Marble",
-    "brewery": "Sullivan's Brewing Company",
-    "beer_type": "Stout - Irish Dry"
-  },
-  {
-    "venue": "ursa",
-    "time": "2024-05-09T19:00:21+00:00",
-    "serving": "Unknown",
-    "rating": 2.75,
-    "beer_name": "Zirndorfer Landbier",
-    "brewery": "Brauerei Zirndorf",
-    "beer_type": "Lager - Amber / Red"
-  },
-  {
-    "venue": "ursa",
-    "time": "2024-05-09T18:47:37+00:00",
-    "serving": "draft",
-    "rating": 3.25,
-    "beer_name": "Carlsberg Luma",
-    "brewery": "Israel Beer Breweries Ltd. (IBBL)",
-    "beer_type": "Lager - IPL (India Pale Lager)"
-  },
-  {
-    "venue": "beerline",
-    "time": "2024-05-08T20:27:21+00:00",
-    "serving": "draft",
-    "rating": 3.5,
-    "beer_name": "Black Marble",
-    "brewery": "Sullivan's Brewing Company",
-    "beer_type": "Stout - Irish Dry"
-  },
-  {
-    "venue": "beerline",
-    "time": "2024-05-08T20:26:38+00:00",
-    "serving": "draft",
-    "rating": 3.75,
-    "beer_name": "Florida Weisse",
-    "brewery": "Thornbridge Brewery",
-    "beer_type": "Sour - Fruited Berliner Weisse"
-  },
-  {
-    "venue": "beerline",
-    "time": "2024-05-08T20:25:43+00:00",
-    "serving": "draft",
-    "rating": 3.0,
-    "beer_name": "Shoshana (שושנע)",
-    "brewery": "Kasteel Brouwerij Vanhonsebrouck",
-    "beer_type": "Spiced / Herbed Beer"
-  },
-  {
-    "venue": "beerline",
-    "time": "2024-05-08T20:24:40+00:00",
-    "serving": "draft",
-    "rating": 3.25,
-    "beer_name": "Stiegl-Radler Grapefruit",
-    "brewery": "Stieglbrauerei zu Salzburg",
-    "beer_type": "Shandy / Radler"
-  },
-  {
-    "venue": "beerline",
-    "time": "2024-05-08T16:18:55+00:00",
-    "serving": "draft",
-    "rating": 4.0,
-    "beer_name": "Delirium Black Barrel Aged",
-    "brewery": "Delirium - Huyghe Brewery",
-    "beer_type": "Belgian Strong Dark Ale"
-  },
-  {
-    "venue": "berlin-florentin",
-    "time": "2024-05-07T17:25:25+00:00",
-    "serving": "draft",
-    "rating": 4.25,
-    "beer_name": "Guinness Draught",
-    "brewery": "Guinness",
-    "beer_type": "Stout - Irish Dry"
-  },
-  {
-    "venue": "ursa",
-    "time": "2024-05-06T21:17:15+00:00",
-    "serving": "draft",
-    "rating": 2.0,
-    "beer_name": "Ronen The Ugly Beer (הבירה המכוערת)",
-    "brewery": "Srigim (שריגים)",
-    "beer_type": "IPA - American"
-  },
-  {
-    "venue": "ursa",
-    "time": "2024-05-03T21:20:34+00:00",
-    "serving": "draft",
-    "rating": 3.75,
-    "beer_name": "Budweiser Budvar / Czechvar Original",
-    "brewery": "Budějovický Budvar",
-    "beer_type": "Pilsner - Czech / Bohemian"
-  },
-  {
-    "venue": "beerline",
-    "time": "2024-05-03T19:16:48+00:00",
-    "serving": "draft",
-    "rating": 3.5,
-    "beer_name": "Edelweiss Snowfresh / Wheat Beer",
-    "brewery": "Brau Union Österreich",
-    "beer_type": "Wheat Beer - Hefeweizen"
-  },
-  {
-    "venue": "beerline",
-    "time": "2024-05-03T18:29:44+00:00",
-    "serving": "draft",
-    "rating": 3.0,
-    "beer_name": "Köstritzer Schwarzbier",
-    "brewery": "Köstritzer Schwarzbierbrauerei",
-    "beer_type": "Schwarzbier"
-  },
-  {
-    "venue": "bartov-holon",
-    "time": "2024-05-03T16:20:54+00:00",
-    "serving": "bottle",
-    "rating": 3.5,
-    "beer_name": "Balance",
-    "brewery": "Hatch (האטצ׳)",
-    "beer_type": "Red Ale - American Amber / Red"
-  },
-  {
-    "venue": "bartov-holon",
-    "time": "2024-05-03T15:30:55+00:00",
-    "serving": "draft",
-    "rating": 3.5,
-    "beer_name": "Shoshana (שושנע)",
-    "brewery": "Kasteel Brouwerij Vanhonsebrouck",
-    "beer_type": "Spiced / Herbed Beer"
-  },
-  {
-    "venue": "beerline",
-    "time": "2024-05-02T16:48:42+00:00",
-    "serving": "Unknown",
-    "rating": 3.5,
-    "beer_name": "Edelweiss Snowfresh / Wheat Beer",
-    "brewery": "Brau Union Österreich",
-    "beer_type": "Wheat Beer - Hefeweizen"
-  },
-  {
     "venue": "berlin-florentin",
     "time": "2024-04-29T18:11:21+00:00",
     "serving": "draft",
@@ -140161,78 +140494,6 @@ const BEER_DATA = [
     "beer_type": "Pale Ale - Milkshake"
   },
   {
-    "venue": "ursa",
-    "time": "2023-05-31T19:27:31+00:00",
-    "serving": "Unknown",
-    "rating": 4.25,
-    "beer_name": "Crescendo",
-    "brewery": "Siren Craft Brew",
-    "beer_type": "Stout - Imperial / Double"
-  },
-  {
-    "venue": "ursa",
-    "time": "2023-05-31T19:07:06+00:00",
-    "serving": "Unknown",
-    "rating": 3.5,
-    "beer_name": "Trickster",
-    "brewery": "Siren Craft Brew",
-    "beer_type": "IPA - English"
-  },
-  {
-    "venue": "ursa",
-    "time": "2023-05-31T18:50:12+00:00",
-    "serving": "Unknown",
-    "rating": 3.75,
-    "beer_name": "Shadow Paradise",
-    "brewery": "Siren Craft Brew",
-    "beer_type": "Porter - Other"
-  },
-  {
-    "venue": "ursa",
-    "time": "2023-05-31T18:36:02+00:00",
-    "serving": "can",
-    "rating": 3.75,
-    "beer_name": "Lupuloid",
-    "brewery": "Beavertown",
-    "beer_type": "IPA - American"
-  },
-  {
-    "venue": "beer-station-beersheba-israel",
-    "time": "2023-05-03T16:57:39+00:00",
-    "serving": "draft",
-    "rating": 3.5,
-    "beer_name": "Bravehop Amber IPA",
-    "brewery": "Loch Lomond Brewery",
-    "beer_type": "IPA - American"
-  },
-  {
-    "venue": "beer-station-beersheba-israel",
-    "time": "2023-05-03T16:54:16+00:00",
-    "serving": "draft",
-    "rating": 3.0,
-    "beer_name": "Green (גרין)",
-    "brewery": "Alexander (אלכסנדר)",
-    "beer_type": "IPA - American"
-  },
-  {
-    "venue": "beer-station-beersheba-israel",
-    "time": "2023-05-03T16:25:06+00:00",
-    "serving": "draft",
-    "rating": 3.25,
-    "beer_name": "Bazelet Ale (בזלת-אייל ענברי)",
-    "brewery": "Golan Brewery (מבשלת הגולן)",
-    "beer_type": "Red Ale - American Amber / Red"
-  },
-  {
-    "venue": "beer-station-beersheba-israel",
-    "time": "2023-05-03T16:00:51+00:00",
-    "serving": "draft",
-    "rating": 3.5,
-    "beer_name": "IPA Craft Beer",
-    "brewery": "HaGibor Brewery (מבשלת הגיבור)",
-    "beer_type": "IPA - American"
-  },
-  {
     "venue": "beer-station-beersheba-israel",
     "time": "2023-04-21T13:50:12+00:00",
     "serving": "Unknown",
@@ -140468,24 +140729,6 @@ const BEER_DATA = [
   },
   {
     "venue": "beer-station-beersheba-israel",
-    "time": "2022-05-24T18:15:42+00:00",
-    "serving": "draft",
-    "rating": 3.75,
-    "beer_name": "Gibor Blondie",
-    "brewery": "HaGibor Brewery (מבשלת הגיבור)",
-    "beer_type": "Blonde / Golden Ale - Other"
-  },
-  {
-    "venue": "beer-station-beersheba-israel",
-    "time": "2022-05-24T18:14:55+00:00",
-    "serving": "draft",
-    "rating": 3.5,
-    "beer_name": "Staropramen Premium / Ležák 12",
-    "brewery": "Pivovary Staropramen",
-    "beer_type": "Pilsner - Czech / Bohemian"
-  },
-  {
-    "venue": "beer-station-beersheba-israel",
     "time": "2021-10-25T15:27:55+00:00",
     "serving": "draft",
     "rating": 4.5,
@@ -140665,15 +140908,6 @@ const BEER_DATA = [
     "beer_type": "Belgian Tripel"
   },
   {
-    "venue": "beer-station-beersheba-israel",
-    "time": "2019-05-13T18:42:43+00:00",
-    "serving": "Unknown",
-    "rating": 2.5,
-    "beer_name": "Bacchus Kriekenbier",
-    "brewery": "Kasteel Brouwerij Vanhonsebrouck",
-    "beer_type": "Sour - Flanders Oud Bruin"
-  },
-  {
     "venue": "bartov-holon",
     "time": "2019-03-29T22:48:27+00:00",
     "serving": "Unknown",
@@ -140816,24 +141050,6 @@ const BEER_DATA = [
     "beer_name": "Gambrinus Originál 10",
     "brewery": "Plzeňský Prazdroj",
     "beer_type": "Lager - Světlé (Czech Pale)"
-  },
-  {
-    "venue": "beer-station-beersheba-israel",
-    "time": "2018-05-10T19:41:02+00:00",
-    "serving": "Unknown",
-    "rating": 4.0,
-    "beer_name": "Fruitesse",
-    "brewery": "Brouwerij Liefmans",
-    "beer_type": "Fruit Beer"
-  },
-  {
-    "venue": "beer-station-beersheba-israel",
-    "time": "2018-05-10T19:40:03+00:00",
-    "serving": "Unknown",
-    "rating": 3.25,
-    "beer_name": "Weizen",
-    "brewery": "Primátor",
-    "beer_type": "Wheat Beer - Hefeweizen"
   },
   {
     "venue": "beer-station-beersheba-israel",

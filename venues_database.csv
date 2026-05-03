@@ -1,4 +1,28 @@
 venue,user,time,serving,data_rating,beer_name,brewery,beer_type
+b7-beer-house,Ofer Neumann,"Sat, 02 May 2026 20:30:15 +0000",can,4.25,CHOPPING WOOD,Evil Twin Brewing NYC,IPA - Imperial / Double New England / Hazy
+b7-beer-house,Ofer Neumann,"Sat, 02 May 2026 19:02:24 +0000",can,4.5,MAKE IT FRUITY PEACH APRICOT,Evil Twin Brewing NYC,Sour - Fruited
+lauter,Elad Schitrit,"Sat, 02 May 2026 19:00:38 +0000",draft,3.25,Hoppy Lager,Isis Desert Brewery (מבשלת הנגב המערבי),Lager - IPL (India Pale Lager)
+lauter,NeriyaBeerlowitz,"Sat, 02 May 2026 18:36:11 +0000",can,3.5,Everyone Knows the Rules,Bereta Brewing Co.,IPA - American
+lauter,David Siegel,"Sat, 02 May 2026 18:06:01 +0000",bottle,3.5,Bigfoot (2026),Sierra Nevada Brewing Co.,Barleywine - American
+porter-and-sons,Brian Mills,"Sat, 02 May 2026 17:42:35 +0000",draft,,Pleroma Karpologi Pineapple Peach Marshmallow Créme Brulée Sour,Omnipollo,Sour - Smoothie / Pastry
+porter-and-sons,Brian Mills,"Sat, 02 May 2026 17:27:39 +0000",draft,,What Was Was,Schnitt Brewing Company﻿,IPA - New England / Hazy
+porter-and-sons,Brian Mills,"Sat, 02 May 2026 16:44:43 +0000",draft,,In the Little,Schnitt Brewing Company﻿,IPA - Session
+lauter,Ido Szargel,"Sat, 02 May 2026 16:37:00 +0000",draft,3.75,Meet Our Friends | From Budapest: Horizont Brewing - Beyond the Horizont,Nepo Brewing,IPA - New England / Hazy
+schnitt-brewing-company,Eylon,"Sat, 02 May 2026 16:18:29 +0000",can,4.0,Silver Snail,Sibeeria Brewery,IPA - New England / Hazy
+lauter,UV R,"Sat, 02 May 2026 15:52:59 +0000",can,4.0,YIN - NYC VERSION,Evil Twin Brewing NYC,Stout - Imperial / Double
+lauter,Eylon,"Sat, 02 May 2026 15:48:26 +0000",draft,4.25,Kriek de Schaerbeek Tilquin - Draft Version,Gueuzerie Tilquin,Lambic - Kriek
+berlin-florentin,Ilya Markovsky,"Sat, 02 May 2026 15:32:48 +0000",can,3.3,Pilot #54 Smokey Jane,BrewDog Deutschland,IPA - Other
+lauter,Eylon,"Sat, 02 May 2026 15:29:41 +0000",draft,3.25,I'll Be Bock,Schnitt Brewing Company﻿,Bock - Single / Traditional
+schnitt-brewing-company,Eylon,"Sat, 02 May 2026 15:03:59 +0000",draft,3.5,Schnitt Happens,Schnitt Brewing Company﻿,IPA - American
+schnitt-brewing-company,Ido Szargel,"Sat, 02 May 2026 14:18:20 +0000",draft,4.0,Stoutment,Schnitt Brewing Company﻿,Stout - Other
+berlin-florentin,Ilya Markovsky,"Sat, 02 May 2026 14:04:24 +0000",can,3.3,Pilot #54 Smokey Jane,BrewDog Deutschland,IPA - Other
+ursa,Max N,"Sat, 02 May 2026 14:01:06 +0000",can,3.5,Pilot #54 Smokey Jane,BrewDog Deutschland,IPA - Other
+berlin-florentin,Ilya Markovsky,"Sat, 02 May 2026 13:27:31 +0000",can,3.6,Naughty Lister,BrewDog,Lager - Vienna
+ursa,Max N,"Sat, 02 May 2026 13:24:04 +0000",can,3.4,Naughty Lister,BrewDog,Lager - Vienna
+schnitt-brewing-company,Kyryl,"Sat, 02 May 2026 10:43:12 +0000",draft,3.75,Stoutment,Schnitt Brewing Company﻿,Stout - Other
+schnitt-brewing-company,Kyryl,"Sat, 02 May 2026 10:41:55 +0000",draft,3.0,Inspector Hoosh Hash,Schnitt Brewing Company﻿,Sour - Fruited
+schnitt-brewing-company,Andrey Granovsky,"Sat, 02 May 2026 10:30:39 +0000",,3.5,Wolfgang,Schnitt Brewing Company﻿,Lager - Vienna
+schnitt-brewing-company,Andrey Granovsky,"Sat, 02 May 2026 10:24:21 +0000",draft,3.5,Tea Party: Masala,Schnitt Brewing Company﻿,Pale Ale - Other
 schnitt-brewing-company,Omri Gill,"Sat, 02 May 2026 06:40:51 +0000",,4.0,Wolfgang,Schnitt Brewing Company﻿,Lager - Vienna
 lauter,Omri Gill,"Sat, 02 May 2026 06:40:21 +0000",draft,3.5,Hoppy Lager,Isis Desert Brewery (מבשלת הנגב המערבי),Lager - IPL (India Pale Lager)
 ursa,Amit Ben Hain,"Fri, 01 May 2026 21:42:02 +0000",can,4.25,Lucky Break,BrewDog,IPA - New England / Hazy
@@ -25,6 +49,178 @@ lauter,Adam Appel,"Fri, 01 May 2026 11:51:02 +0000",bottle,3.5,Passiflora (פס�
 b7-beer-house,Martin Sampson,"Fri, 01 May 2026 11:16:20 +0000",can,,Hydra | Sangria,Mortalis Brewing Company,Sour - Smoothie / Pastry
 schnitt-brewing-company,Ilya M,"Fri, 01 May 2026 10:49:50 +0000",draft,3.75,Double Intergalactica,Schnitt Brewing Company﻿,IPA - New England / Hazy
 b7-beer-house,Martin Sampson,"Fri, 01 May 2026 10:25:02 +0000",,,Everyday Life,Sibeeria Brewery,Pilsner - Czech / Bohemian
+beerbazaar-brewery,Mark Litman,"Fri, 30 May 2025 10:24:02 +0000",draft,3.5,חתול עם תעלול,BeerBazaar / Mivshelet Ha’Aretz,Pale Ale - American
+beerline,Philip Greenberg,"Thu, 29 May 2025 15:59:18 +0000",draft,4.5,Delirium Red,Delirium - Huyghe Brewery,Fruit Beer
+beer-station-beersheba-israel,Archie Halikov,"Thu, 29 May 2025 13:34:17 +0000",draft,3.5,Katzra Black (קצרה כהה),Arava Brewery (מבשלת בירה ערבה),Porter - Other
+beerbazaar-brewery,Peleg Magen,"Thu, 29 May 2025 13:31:42 +0000",can,4.5,Apricot X Passionfruit X Mango X Vanilla Smoothie Sour Ale,Ārpus Brewing Co.,Sour - Smoothie / Pastry
+beerbazaar-brewery,Peleg Magen,"Thu, 29 May 2025 13:28:11 +0000",can,3.5,Lviv Stout,Pravda Brewery,Stout - Other
+beerbazaar-brewery,Peleg Magen,"Thu, 29 May 2025 13:21:42 +0000",,3.25,HOPulência 24.04 IPA Com Lúpulos Nacionais 2024 Lúpulo Do Maria,Cerveja Vadia,IPA - American
+beer-station-beersheba-israel,Archie Halikov,"Thu, 29 May 2025 13:10:54 +0000",draft,3.5,Shoshana (שושנע),Kasteel Brouwerij Vanhonsebrouck,Spiced / Herbed Beer
+beerbazaar-brewery,Peleg Magen,"Thu, 29 May 2025 13:06:57 +0000",can,3.75,עשן הזמן,BeerBazaar / Mivshelet Ha’Aretz,Lager - Smoked
+beer-station-beersheba-israel,Archie Halikov,"Thu, 29 May 2025 13:04:35 +0000",,3.25,001 [שם זמני],Arava Brewery (מבשלת בירה ערבה),IPA - Other
+berlin-florentin,Eli Smikin,"Tue, 27 May 2025 19:47:05 +0000",bottle,4.3,Mr. & Mrs. Smith,Fat Cat Brewery,"Homebrew, Cider - Herbed / Spiced / Hopped"
+berlin-florentin,Yotam Bar-natan,"Tue, 27 May 2025 18:48:34 +0000",can,3.9,Juice Shack Session NEIPA,BrewDog,Pale Ale - New England / Hazy
+berlin-florentin,Eli Smikin,"Tue, 27 May 2025 18:31:41 +0000",bottle,5.0,Jää | Ice Cuvée,Tori Jõesuu Siidri- Ja Veinitalu,Cider - Ice
+berlin-florentin,Yotam Bar-natan,"Tue, 27 May 2025 18:26:12 +0000",bottle,4.0,Mr. & Mrs. Smith,Fat Cat Brewery,"Homebrew, Cider - Herbed / Spiced / Hopped"
+berlin-florentin,Eli Smikin,"Tue, 27 May 2025 18:23:02 +0000",can,4.2,Quince Naturel,Jaanihanso,Cider - Other Fruit
+berlin-florentin,Yotam Bar-natan,"Tue, 27 May 2025 18:15:57 +0000",bottle,5.0,Jää | Ice Cuvée,Tori Jõesuu Siidri- Ja Veinitalu,Cider - Ice
+berlin-florentin,Yotam Bar-natan,"Tue, 27 May 2025 18:09:54 +0000",can,3.2,Quince Naturel,Jaanihanso,Cider - Other Fruit
+berlin-florentin,Yotam Bar-natan,"Tue, 27 May 2025 18:06:17 +0000",bottle,4.7,Pearadise,Mr. Plūme,Cider - Other Fruit
+berlin-florentin,Eli Smikin,"Tue, 27 May 2025 18:04:28 +0000",bottle,3.9,Winter Méthode Traditionnelle,Jaanihanso,Cider - Herbed / Spiced / Hopped
+berlin-florentin,Eli Smikin,"Tue, 27 May 2025 18:02:25 +0000",can,3.9,Dry Hopped Cider,Jaanihanso,Cider - Herbed / Spiced / Hopped
+berlin-florentin,Yotam Bar-natan,"Tue, 27 May 2025 17:59:39 +0000",bottle,4.2,Winter Méthode Traditionnelle,Jaanihanso,Cider - Herbed / Spiced / Hopped
+berlin-florentin,Eli Smikin,"Tue, 27 May 2025 17:59:15 +0000",,3.3,Perry 2022,Mr. Plūme,Cider - Perry / Poiré
+berlin-florentin,Yotam Bar-natan,"Tue, 27 May 2025 17:52:06 +0000",can,3.5,Dry Hopped Cider,Jaanihanso,Cider - Herbed / Spiced / Hopped
+berlin-florentin,Yotam Bar-natan,"Tue, 27 May 2025 17:48:44 +0000",bottle,3.8,Perry 2022,Mr. Plūme,Cider - Perry / Poiré
+berlin-florentin,Eli Smikin,"Tue, 27 May 2025 17:38:15 +0000",can,3.3,Rheum Naturel,Jaanihanso,Cider - Other Fruit
+berlin-florentin,Yotam Bar-natan,"Tue, 27 May 2025 17:35:07 +0000",bottle,4.0,Perry (2024; 5.9%),Tori Jõesuu Siidri- Ja Veinitalu,Cider - Perry / Poiré
+berlin-florentin,Yotam Bar-natan,"Tue, 27 May 2025 17:31:14 +0000",can,3.5,Rheum Naturel,Jaanihanso,Cider - Other Fruit
+berlin-florentin,Eli Smikin,"Tue, 27 May 2025 17:29:30 +0000",bottle,4.5,Ziema Karstsidrs,Abuls Sidra Darītava,Cider - Herbed / Spiced / Hopped
+berlin-florentin,Max N,"Tue, 27 May 2025 17:26:48 +0000",bottle,3.9,Ziema Karstsidrs,Abuls Sidra Darītava,Cider - Herbed / Spiced / Hopped
+berlin-florentin,Yotam Bar-natan,"Tue, 27 May 2025 17:25:38 +0000",bottle,4.5,Ziema Karstsidrs,Abuls Sidra Darītava,Cider - Herbed / Spiced / Hopped
+berlin-florentin,Max N,"Tue, 27 May 2025 17:22:56 +0000",bottle,3.7,Mr. Plūme Pussausais,Mr. Plūme,Cider - Traditional / Apfelwein
+berlin-florentin,Yotam Bar-natan,"Tue, 27 May 2025 17:22:08 +0000",bottle,3.9,Mr. Plūme Pussausais,Mr. Plūme,Cider - Traditional / Apfelwein
+berlin-florentin,Eli Smikin,"Tue, 27 May 2025 17:18:49 +0000",bottle,4.0,Vintage 2021,Mr. Plūme,Cider - Dry
+berlin-florentin,Max N,"Tue, 27 May 2025 17:13:52 +0000",bottle,3.7,Vintage 2021,Mr. Plūme,Cider - Dry
+berlin-florentin,Yotam Bar-natan,"Tue, 27 May 2025 17:12:14 +0000",bottle,3.7,Vintage 2021,Mr. Plūme,Cider - Dry
+berlin-florentin,Eli Smikin,"Tue, 27 May 2025 17:12:01 +0000",bottle,3.5,Poolkuiv Õunasiider Demi Sec,Tori Jõesuu Siidri- Ja Veinitalu,Cider - Traditional / Apfelwein
+berlin-florentin,Yotam Bar-natan,"Tue, 27 May 2025 17:08:23 +0000",bottle,3.7,Poolkuiv Õunasiider Demi Sec,Tori Jõesuu Siidri- Ja Veinitalu,Cider - Traditional / Apfelwein
+berlin-florentin,Max N,"Tue, 27 May 2025 17:06:57 +0000",bottle,3.6,Poolkuiv Õunasiider Demi Sec,Tori Jõesuu Siidri- Ja Veinitalu,Cider - Traditional / Apfelwein
+berlin-florentin,Yotam Bar-natan,"Tue, 27 May 2025 16:44:02 +0000",bottle,3.6,Somersby Mango & Lime,Carlsberg Group,Cider - Other Fruit
+berlin-florentin,Eli Smikin,"Tue, 27 May 2025 15:43:00 +0000",,3.7,Beck's,Brauerei Beck,Pilsner - German
+berlin-florentin,uri822,"Sun, 25 May 2025 19:56:26 +0000",draft,3.75,Budweiser Budvar / Czechvar Original,Budějovický Budvar,Pilsner - Czech / Bohemian
+berlin-florentin,uri822,"Sun, 25 May 2025 19:55:06 +0000",draft,3.25,Ronen The Ugly Beer (הבירה המכוערת),Srigim (שריגים),IPA - American
+berlin-florentin,uri822,"Sun, 25 May 2025 17:22:24 +0000",,3.5,Soundwave IPA,Siren Craft Brew,IPA - American
+ursa,Alon Szczupak,"Sat, 24 May 2025 16:15:54 +0000",draft,3.75,Soundwave IPA,Siren Craft Brew,IPA - American
+ursa,Alon Szczupak,"Sat, 24 May 2025 16:10:01 +0000",draft,4.0,Ronen The Ugly Beer (הבירה המכוערת),Srigim (שריגים),IPA - American
+beerz,daniel tkach,"Mon, 19 May 2025 20:43:03 +0000",,4.0,Lemon X Coconut X Pineapple X Cherry Smoothie Sour Ale,Ārpus Brewing Co.,Sour - Smoothie / Pastry
+beerz,daniel tkach,"Mon, 19 May 2025 20:42:36 +0000",can,4.5,Apricot X Passionfruit X Mango X Vanilla Smoothie Sour Ale,Ārpus Brewing Co.,Sour - Smoothie / Pastry
+beerz,daniel tkach,"Mon, 19 May 2025 19:59:22 +0000",can,4.0,Fruitheart Smoothie Sour Ale,Ārpus Brewing Co.,Sour - Smoothie / Pastry
+beerz,Zoe Bystrik,"Mon, 19 May 2025 17:37:14 +0000",can,4.0,Fruitheart Smoothie Sour Ale,Ārpus Brewing Co.,Sour - Smoothie / Pastry
+beerz,Zoe Bystrik,"Mon, 19 May 2025 16:47:06 +0000",can,5.0,Apricot X Passionfruit X Mango X Vanilla Smoothie Sour Ale,Ārpus Brewing Co.,Sour - Smoothie / Pastry
+beerz,Yana O,"Mon, 19 May 2025 16:42:36 +0000",draft,3.8,Barbãr Bok,Brasserie Lefebvre,Bock - Single / Traditional
+beerz,Ⓜ️axx Dee,"Mon, 19 May 2025 16:40:27 +0000",can,2.8,California Sun,Thornbridge Brewery,IPA - Session
+beerz,Zoe Bystrik,"Mon, 19 May 2025 16:26:28 +0000",draft,3.25,Gentle Bastard,HORIZONT Brewing,IPA - American
+beerz,Zoe Bystrik,"Mon, 19 May 2025 16:20:24 +0000",draft,4.25,Hazy Queen,HORIZONT Brewing,IPA - New England / Hazy
+beerz,Zoe Bystrik,"Mon, 19 May 2025 16:13:26 +0000",draft,3.75,Edelweiss Snowfresh / Wheat Beer,Brau Union Österreich,Wheat Beer - Hefeweizen
+beerz,Yana O,"Mon, 19 May 2025 16:09:29 +0000",draft,4.0,Hazy Queen,HORIZONT Brewing,IPA - New England / Hazy
+beerz,Ⓜ️axx Dee,"Mon, 19 May 2025 16:09:16 +0000",draft,4.0,Hazy Queen,HORIZONT Brewing,IPA - New England / Hazy
+beerz,Ⓜ️axx Dee,"Mon, 19 May 2025 16:08:27 +0000",draft,4.0,Gentle Bastard,HORIZONT Brewing,IPA - American
+beerz,Ⓜ️axx Dee,"Mon, 19 May 2025 16:06:40 +0000",draft,3.6,Edelweiss Snowfresh / Wheat Beer,Brau Union Österreich,Wheat Beer - Hefeweizen
+ursa,lilRaziP,"Sun, 18 May 2025 21:52:34 +0000",draft,4.0,Erdinger Weißbier / Hefe-Weizen,Erdinger Weissbräu,Wheat Beer - Hefeweizen
+berlin-florentin,uri822,"Sun, 18 May 2025 09:12:25 +0000",draft,3.25,Amber Ale (תקומה),בירה שקמה Shikma Beer,Red Ale - American Amber / Red
+berlin-florentin,uri822,"Sun, 18 May 2025 09:03:12 +0000",draft,2.5,Beck's,Brauerei Beck,Pilsner - German
+beerz,narkis,"Fri, 16 May 2025 19:19:29 +0000",can,3.75,Morning Joe,HORIZONT Brewing,Stout - Coffee
+berlin-florentin,Bilbo Sios,"Fri, 16 May 2025 17:57:22 +0000",can,3.25,Juice Shack Milkshake,BrewDog,IPA - Milkshake
+berlin-florentin,Bilbo Sios,"Fri, 16 May 2025 17:20:02 +0000",can,3.75,Broken Dream,Siren Craft Brew,Stout - Oatmeal
+berlin-florentin,Bilbo Sios,"Fri, 16 May 2025 16:36:01 +0000",can,3.5,DDH Jaipur,Thornbridge Brewery,IPA - English
+ursa,Ilya Markovsky,"Thu, 15 May 2025 22:16:08 +0000",draft,4.0,Weihenstephaner Hefeweissbier Dunkel,Bayerische Staatsbrauerei Weihenstephan,Wheat Beer - Dunkelweizen
+beerbazaar-brewery,Oren Sela,"Thu, 15 May 2025 18:42:14 +0000",draft,3.5,Bhindi IPA,BeerBazaar / Mivshelet Ha’Aretz,IPA - American
+beerbazaar-brewery,Oren Sela,"Thu, 15 May 2025 17:54:55 +0000",draft,3.25,חתול עם תעלול,BeerBazaar / Mivshelet Ha’Aretz,Pale Ale - American
+beerz,NightFish,"Thu, 15 May 2025 16:00:06 +0000",draft,3.75,Hobgoblin IPA,Marston's Brewery,IPA - English
+beerz,NightFish,"Thu, 15 May 2025 15:30:37 +0000",draft,3.75,Barbãr Bok,Brasserie Lefebvre,Bock - Single / Traditional
+berlin-florentin,uri822,"Wed, 14 May 2025 17:27:12 +0000",draft,3.75,Löwenbräu Original,Spaten-Franziskaner-Löwenbräu-Gruppe,Lager - Helles
+beerz,Beny K,"Mon, 12 May 2025 18:18:57 +0000",can,3.5,Fruitheart Smoothie Sour Ale,Ārpus Brewing Co.,Sour - Smoothie / Pastry
+beerz,Eden Dupont,"Sun, 11 May 2025 20:29:21 +0000",draft,4.5,Gentle Bastard,HORIZONT Brewing,IPA - American
+berlin-florentin,Sono Burger,"Thu, 08 May 2025 21:42:42 +0000",draft,3.5,Kasteel Rubus Framboise,Kasteel Brouwerij Vanhonsebrouck,Fruit Beer
+ursa,Max N,"Thu, 08 May 2025 20:28:37 +0000",can,3.4,Oatmeal IPA 2025,Malka (מלכה),IPA - Other
+berlin-florentin,Sono Burger,"Thu, 08 May 2025 17:39:43 +0000",draft,3.5,Pleroma Karpologi Pineapple Peach Marshmallow Créme Brulée Sour,Omnipollo,Sour - Smoothie / Pastry
+beerz,NightFish,"Thu, 08 May 2025 16:49:15 +0000",draft,3.75,Hobgoblin IPA,Marston's Brewery,IPA - English
+beerz,NightFish,"Thu, 08 May 2025 16:05:27 +0000",draft,4.0,Bacchus Frambozenbier,Kasteel Brouwerij Vanhonsebrouck,Sour - Flanders Oud Bruin
+berlin-florentin,uri822,"Wed, 07 May 2025 18:10:10 +0000",draft,3.5,Pleroma Karpologi Pineapple Peach Marshmallow Créme Brulée Sour,Omnipollo,Sour - Smoothie / Pastry
+berlin-florentin,Tiernan O'Rourke,"Wed, 07 May 2025 16:26:51 +0000",,3.75,Franziskaner Premium Weissbier Naturtrüb,Spaten-Franziskaner-Löwenbräu-Gruppe,Wheat Beer - Hefeweizen
+berlin-florentin,Tiernan O'Rourke,"Wed, 07 May 2025 16:09:23 +0000",,2.75,Shikma IPA,בירה שקמה Shikma Beer,IPA - American
+berlin-florentin,Tiernan O'Rourke,"Wed, 07 May 2025 15:28:41 +0000",,2.25,Goldstar (גולדסטאר),Tempo Beer Industries Ltd (טמפו),Lager - Vienna
+beerline,Slava Gladchenko,"Wed, 07 May 2025 14:11:03 +0000",,3.75,Münchner Weisse,Staatliches Hofbräuhaus München,Wheat Beer - Hefeweizen
+beerbazaar-brewery,Nir Langer,"Mon, 05 May 2025 20:51:54 +0000",can,3.75,FEAT. Nepo - Stardust,Funky Fluid,IPA - Triple New England / Hazy
+beerbazaar-brewery,Guy Elkayam,"Mon, 05 May 2025 19:47:22 +0000",can,3.5,FEAT. Nepo - Stardust,Funky Fluid,IPA - Triple New England / Hazy
+beerbazaar-brewery,Nir Langer,"Mon, 05 May 2025 19:43:25 +0000",can,4.0,Tutto Fatto,Birrificio WAR,IPA - Imperial / Double
+beerbazaar-brewery,Guy Elkayam,"Mon, 05 May 2025 19:41:58 +0000",can,4.25,Tutto Fatto,Birrificio WAR,IPA - Imperial / Double
+beerbazaar-brewery,Kobi,"Mon, 05 May 2025 19:41:00 +0000",,4.0,Tutto Fatto,Birrificio WAR,IPA - Imperial / Double
+beerbazaar-brewery,Nir Langer,"Mon, 05 May 2025 19:33:44 +0000",can,4.25,Juice Bomb,Sloop Brewing Co.,IPA - New England / Hazy
+beerbazaar-brewery,Guy Elkayam,"Mon, 05 May 2025 19:33:13 +0000",can,4.5,Hydra | Passion Fruit + Mango + Pink Guava,Mortalis Brewing Company,Sour - Smoothie / Pastry
+beerbazaar-brewery,Kobi,"Mon, 05 May 2025 19:32:05 +0000",can,4.0,Hydra | Passion Fruit + Mango + Pink Guava,Mortalis Brewing Company,Sour - Smoothie / Pastry
+beerbazaar-brewery,Roni Waldman,"Mon, 05 May 2025 19:27:41 +0000",can,3.5,Juice Bomb,Sloop Brewing Co.,IPA - New England / Hazy
+beerbazaar-brewery,Kobi,"Mon, 05 May 2025 19:27:34 +0000",,,Juice Bomb,Sloop Brewing Co.,IPA - New England / Hazy
+beerbazaar-brewery,Guy Elkayam,"Mon, 05 May 2025 19:24:27 +0000",can,3.5,Juice Bomb,Sloop Brewing Co.,IPA - New England / Hazy
+beerbazaar-brewery,Nir Langer,"Mon, 05 May 2025 19:20:28 +0000",,,SchnittBazaar (שניטבאזר),BeerBazaar / Mivshelet Ha’Aretz,Farmhouse Ale - Saison
+beerbazaar-brewery,Nir Langer,"Mon, 05 May 2025 19:19:55 +0000",,,חתול עם תעלול,BeerBazaar / Mivshelet Ha’Aretz,Pale Ale - American
+beerbazaar-brewery,Kobi,"Mon, 05 May 2025 18:43:05 +0000",,,חתול עם תעלול,BeerBazaar / Mivshelet Ha’Aretz,Pale Ale - American
+beerbazaar-brewery,Guy Elkayam,"Mon, 05 May 2025 18:39:41 +0000",draft,,SchnittBazaar (שניטבאזר),BeerBazaar / Mivshelet Ha’Aretz,Farmhouse Ale - Saison
+beerbazaar-brewery,Kobi,"Mon, 05 May 2025 18:20:09 +0000",,,SchnittBazaar (שניטבאזר),BeerBazaar / Mivshelet Ha’Aretz,Farmhouse Ale - Saison
+beerbazaar-brewery,Guy Elkayam,"Mon, 05 May 2025 18:13:24 +0000",draft,3.75,חתול עם תעלול,BeerBazaar / Mivshelet Ha’Aretz,Pale Ale - American
+ursa,Ben Rouda,"Sat, 03 May 2025 15:35:21 +0000",can,4.0,Lumina,Siren Craft Brew,IPA - Session
+ursa,Ben Rouda,"Sat, 03 May 2025 14:42:52 +0000",can,3.5,Shesh Ahuz Kapara (שש אחוז כפרה),Herzl (הרצל),Mild - Other
+ursa,Miki Zaidel,"Fri, 02 May 2025 20:02:19 +0000",bottle,3.75,Hard Apple Cider - Dry (סיידר תפוחים אלכוהולי יבש),Hamatsesa (המתססה),Cider - Dry
+ursa,Miki Zaidel,"Fri, 02 May 2025 20:00:56 +0000",can,4.0,Foggyn’ Delicious,Schnitt Brewing Company﻿,IPA - New England / Hazy
+beerline,Ido Kessler,"Wed, 29 May 2024 14:43:04 +0000",,4.0,Liquid Cocaine,Mad Scientist,IPA - Imperial / Double
+beerline,Ido Kessler,"Wed, 29 May 2024 13:19:23 +0000",draft,4.1,Florida Weisse,Thornbridge Brewery,Sour - Fruited Berliner Weisse
+beerline,Ido Kessler,"Wed, 29 May 2024 13:18:09 +0000",draft,4.0,Hobgoblin IPA,Marston's Brewery,IPA - English
+beerline,Ido Kessler,"Wed, 29 May 2024 13:16:58 +0000",draft,4.0,Delirium Black Barrel Aged,Delirium - Huyghe Brewery,Belgian Strong Dark Ale
+beerline,Ido Kessler,"Wed, 29 May 2024 13:15:56 +0000",draft,3.3,Dry Hop'd Zwickl,Bitburger Brauerei,Kellerbier / Zwickelbier
+beerline,Ido Kessler,"Wed, 29 May 2024 13:14:12 +0000",,3.2,Th. König Zwickl,König Brauerei,Kellerbier / Zwickelbier
+beerline,Ido Kessler,"Wed, 29 May 2024 13:10:30 +0000",draft,4.4,Floris Cactus,Delirium - Huyghe Brewery,Wheat Beer - Fruited
+berlin-florentin,Mikhail Stolov,"Tue, 28 May 2024 19:05:58 +0000",draft,4.75,Guinness Draught,Guinness,Stout - Irish Dry
+berlin-florentin,Sono Burger,"Mon, 27 May 2024 17:49:19 +0000",,4.5,Hallo Ich Bin Berliner Weisse Blueberry,Mikkeller,Sour - Fruited Berliner Weisse
+berlin-florentin,Sono Burger,"Mon, 27 May 2024 16:39:54 +0000",draft,4.5,Hallo Ich Bin Berliner Weisse Blueberry,Mikkeller,Sour - Fruited Berliner Weisse
+bartov-holon,eitanr20,"Mon, 27 May 2024 11:57:48 +0000",can,4.0,Black Marble,Sullivan's Brewing Company,Stout - Irish Dry
+ursa,Aviad Attia,"Sat, 25 May 2024 18:30:49 +0000",can,,Selfish Games - West Coast Tripping,HORIZONT Brewing,IPA - American
+ursa,Danielle Yona,"Sat, 25 May 2024 18:29:25 +0000",can,,Selfish Games - West Coast Tripping,HORIZONT Brewing,IPA - American
+berlin-florentin,Mikhail Stolov,"Fri, 24 May 2024 16:08:39 +0000",draft,4.75,Guinness Draught,Guinness,Stout - Irish Dry
+berlin-florentin,Omri Gill,"Thu, 23 May 2024 18:46:17 +0000",draft,3.5,Carlsberg Luma,Israel Beer Breweries Ltd. (IBBL),Lager - IPL (India Pale Lager)
+berlin-florentin,Omri Gill,"Thu, 23 May 2024 18:30:35 +0000",draft,3.25,Beck's,Brauerei Beck,Pilsner - German
+ursa,Omri Gill,"Thu, 23 May 2024 17:47:43 +0000",can,4.0,Green Mountain,Thornbridge Brewery,IPA - Session
+beerline,Belemnite,"Thu, 23 May 2024 17:10:26 +0000",draft,3.75,Hobgoblin IPA,Marston's Brewery,IPA - English
+berlin-florentin,Omri Gill,"Thu, 23 May 2024 15:35:23 +0000",draft,3.25,Beck's,Brauerei Beck,Pilsner - German
+ursa,Omry Shapira,"Wed, 22 May 2024 19:45:25 +0000",can,4.0,Hop Opera,Mikkeller,IPA - Imperial / Double New England / Hazy
+ursa,Omry Shapira,"Wed, 22 May 2024 18:41:07 +0000",can,3.25,Scene Stealer,Siren Craft Brew,IPA - American
+ursa,Or Cohen,"Wed, 22 May 2024 18:30:51 +0000",can,3.75,Scene Stealer,Siren Craft Brew,IPA - American
+ursa,Omri Wolf,"Wed, 22 May 2024 08:18:14 +0000",can,4.25,Hop Opera,Mikkeller,IPA - Imperial / Double New England / Hazy
+bartov-holon,Ido Kessler,"Tue, 21 May 2024 20:33:13 +0000",bottle,2.75,THAIPA,Alexander (אלכסנדר),IPA - Session
+bartov-holon,Ido Kessler,"Tue, 21 May 2024 20:29:45 +0000",can,3.0,Florida Weisse,Thornbridge Brewery,Sour - Fruited Berliner Weisse
+bartov-holon,Ido Kessler,"Tue, 21 May 2024 19:51:51 +0000",bottle,2.5,Vaadat Kishut (ועדת כישות) (2023),Herzl (הרצל),IPA - American
+bartov-holon,Ido Kessler,"Tue, 21 May 2024 19:50:17 +0000",bottle,4.5,Massala,Hatch (האטצ׳),Spiced / Herbed Beer
+bartov-holon,Ido Kessler,"Tue, 21 May 2024 19:38:20 +0000",bottle,4.25,שנאפי,Hatch (האטצ׳),IPA - New England / Hazy
+ursa,Ofir Israeli,"Tue, 21 May 2024 19:32:13 +0000",can,4.0,Hop Opera,Mikkeller,IPA - Imperial / Double New England / Hazy
+ursa,Omri Wolf,"Tue, 21 May 2024 19:01:02 +0000",can,3.25,Shadow Paradise,Siren Craft Brew,Porter - Other
+ursa,Ofir Israeli,"Tue, 21 May 2024 18:40:12 +0000",,3.25,Shadow Paradise,Siren Craft Brew,Porter - Other
+ursa,Nahum Haver,"Sun, 19 May 2024 20:02:49 +0000",can,3.75,Trickster,Siren Craft Brew,IPA - English
+ursa,Nahum Haver,"Sun, 19 May 2024 19:39:05 +0000",can,3.75,Resting Brew Face,Mikkeller,IPA - Imperial / Double New England / Hazy
+ursa,Alon Szczupak,"Sat, 18 May 2024 15:43:11 +0000",draft,4.0,Neck Oil,Beavertown,IPA - Session
+beerline,Belemnite,"Fri, 17 May 2024 13:47:43 +0000",draft,4.0,Delirium Argentum,Delirium - Huyghe Brewery,IPA - Belgian
+ursa,arny_autocue,"Thu, 16 May 2024 19:01:20 +0000",draft,4.5,Pompelmocello,Siren Craft Brew,IPA - Sour
+berlin-florentin,Yana O,"Fri, 10 May 2024 15:57:04 +0000",draft,4.0,Guinness Draught,Guinness,Stout - Irish Dry
+beerline,Avichai Elgrabli,"Fri, 10 May 2024 14:34:08 +0000",draft,3.75,Florida Weisse,Thornbridge Brewery,Sour - Fruited Berliner Weisse
+beerline,Avichai Elgrabli,"Fri, 10 May 2024 14:33:42 +0000",draft,3.25,Stiegl-Radler Grapefruit,Stieglbrauerei zu Salzburg,Shandy / Radler
+beerline,Avichai Elgrabli,"Fri, 10 May 2024 14:33:10 +0000",draft,3.5,Black Marble,Sullivan's Brewing Company,Stout - Irish Dry
+ursa,Bryan L,"Thu, 09 May 2024 19:00:21 +0000",,2.75,Zirndorfer Landbier,Brauerei Zirndorf,Lager - Amber / Red
+ursa,Bryan L,"Thu, 09 May 2024 18:47:37 +0000",draft,3.25,Carlsberg Luma,Israel Beer Breweries Ltd. (IBBL),Lager - IPL (India Pale Lager)
+beerline,Yosef Dahan,"Wed, 08 May 2024 20:27:21 +0000",draft,3.5,Black Marble,Sullivan's Brewing Company,Stout - Irish Dry
+beerline,Yosef Dahan,"Wed, 08 May 2024 20:26:38 +0000",draft,3.75,Florida Weisse,Thornbridge Brewery,Sour - Fruited Berliner Weisse
+beerline,Yosef Dahan,"Wed, 08 May 2024 20:25:43 +0000",draft,3.0,Shoshana (שושנע),Kasteel Brouwerij Vanhonsebrouck,Spiced / Herbed Beer
+beerline,Yosef Dahan,"Wed, 08 May 2024 20:24:40 +0000",draft,3.25,Stiegl-Radler Grapefruit,Stieglbrauerei zu Salzburg,Shandy / Radler
+beerline,Yosef Dahan,"Wed, 08 May 2024 16:18:55 +0000",draft,4.0,Delirium Black Barrel Aged,Delirium - Huyghe Brewery,Belgian Strong Dark Ale
+berlin-florentin,Merav Tink,"Tue, 07 May 2024 17:25:25 +0000",draft,4.25,Guinness Draught,Guinness,Stout - Irish Dry
+ursa,vazy1,"Mon, 06 May 2024 21:17:15 +0000",draft,2.0,Ronen The Ugly Beer (הבירה המכוערת),Srigim (שריגים),IPA - American
+ursa,rom_gvili_1241,"Fri, 03 May 2024 21:20:34 +0000",draft,3.75,Budweiser Budvar / Czechvar Original,Budějovický Budvar,Pilsner - Czech / Bohemian
+beerline,Yosef Dahan,"Fri, 03 May 2024 19:16:48 +0000",draft,3.5,Edelweiss Snowfresh / Wheat Beer,Brau Union Österreich,Wheat Beer - Hefeweizen
+beerline,Yosef Dahan,"Fri, 03 May 2024 18:29:44 +0000",draft,3.0,Köstritzer Schwarzbier,Köstritzer Schwarzbierbrauerei,Schwarzbier
+bartov-holon,Nikolay,"Fri, 03 May 2024 16:20:54 +0000",bottle,3.5,Balance,Hatch (האטצ׳),Red Ale - American Amber / Red
+bartov-holon,Nikolay,"Fri, 03 May 2024 15:30:55 +0000",draft,3.5,Shoshana (שושנע),Kasteel Brouwerij Vanhonsebrouck,Spiced / Herbed Beer
+beerline,Slava Gladchenko,"Thu, 02 May 2024 16:48:42 +0000",,3.5,Edelweiss Snowfresh / Wheat Beer,Brau Union Österreich,Wheat Beer - Hefeweizen
+ursa,Alex Tsvetkov,"Wed, 31 May 2023 19:27:31 +0000",,4.25,Crescendo,Siren Craft Brew,Stout - Imperial / Double
+ursa,Alex Tsvetkov,"Wed, 31 May 2023 19:07:06 +0000",,3.5,Trickster,Siren Craft Brew,IPA - English
+ursa,Alex Tsvetkov,"Wed, 31 May 2023 18:50:12 +0000",,3.75,Shadow Paradise,Siren Craft Brew,Porter - Other
+ursa,Roie Gilad,"Wed, 31 May 2023 18:36:02 +0000",can,3.75,Lupuloid,Beavertown,IPA - American
+beer-station-beersheba-israel,Barel,"Wed, 03 May 2023 16:57:39 +0000",draft,3.5,Bravehop Amber IPA,Loch Lomond Brewery,IPA - American
+beer-station-beersheba-israel,Roel Henskens,"Wed, 03 May 2023 16:54:16 +0000",draft,3.0,Green (גרין),Alexander (אלכסנדר),IPA - American
+beer-station-beersheba-israel,Roel Henskens,"Wed, 03 May 2023 16:25:06 +0000",draft,3.25,Bazelet Ale (בזלת-אייל ענברי),Golan Brewery (מבשלת הגולן),Red Ale - American Amber / Red
+beer-station-beersheba-israel,Roel Henskens,"Wed, 03 May 2023 16:00:51 +0000",draft,3.5,IPA Craft Beer,HaGibor Brewery (מבשלת הגיבור),IPA - American
+beer-station-beersheba-israel,Mats Jaksland,"Tue, 24 May 2022 18:15:42 +0000",draft,3.75,Gibor Blondie,HaGibor Brewery (מבשלת הגיבור),Blonde / Golden Ale - Other
+beer-station-beersheba-israel,Mats Jaksland,"Tue, 24 May 2022 18:14:55 +0000",draft,3.5,Staropramen Premium / Ležák 12,Pivovary Staropramen,Pilsner - Czech / Bohemian
+beer-station-beersheba-israel,Alex Fux,"Mon, 13 May 2019 18:42:43 +0000",,2.5,Bacchus Kriekenbier,Kasteel Brouwerij Vanhonsebrouck,Sour - Flanders Oud Bruin
+beer-station-beersheba-israel,Tobi Schweickardt,"Thu, 10 May 2018 19:41:02 +0000",,4.0,Fruitesse,Brouwerij Liefmans,Fruit Beer
+beer-station-beersheba-israel,Tobi Schweickardt,"Thu, 10 May 2018 19:40:03 +0000",,3.25,Weizen,Primátor,Wheat Beer - Hefeweizen
 lauter,Liad Shaked,"Thu, 30 Apr 2026 21:40:44 +0000",bottle,4.3,Oude Syrah Tilquin à l'Ancienne (2021-2022),Gueuzerie Tilquin,Lambic - Fruit
 lauter,Nitai Merhav,"Thu, 30 Apr 2026 21:39:11 +0000",bottle,4.25,Kriek de Schaerbeek Tilquin - Draft Version,Gueuzerie Tilquin,Lambic - Kriek
 schnitt-brewing-company,Liad Shaked,"Thu, 30 Apr 2026 21:30:45 +0000",draft,3.8,Double Intergalactica,Schnitt Brewing Company﻿,IPA - New England / Hazy
@@ -14128,110 +14324,6 @@ beerline,Evgeny Kats,"Sun, 01 Jun 2025 13:54:59 +0000",draft,3.25,Liquid Cocaine
 beerline,Evgeny Kats,"Sun, 01 Jun 2025 13:38:59 +0000",draft,3.5,Hobgoblin IPA,Marston's Brewery,IPA - English
 beerline,Evgeny Kats,"Sun, 01 Jun 2025 13:16:38 +0000",draft,3.5,Floris Cactus,Delirium - Huyghe Brewery,Wheat Beer - Fruited
 beerline,Evgeny Kats,"Sun, 01 Jun 2025 12:48:15 +0000",draft,3.25,Green Mountain,Thornbridge Brewery,IPA - Session
-beerbazaar-brewery,Mark Litman,"Fri, 30 May 2025 10:24:02 +0000",draft,3.5,חתול עם תעלול,BeerBazaar / Mivshelet Ha’Aretz,Pale Ale - American
-beerline,Philip Greenberg,"Thu, 29 May 2025 15:59:18 +0000",draft,4.5,Delirium Red,Delirium - Huyghe Brewery,Fruit Beer
-beer-station-beersheba-israel,Archie Halikov,"Thu, 29 May 2025 13:34:17 +0000",draft,3.5,Katzra Black (קצרה כהה),Arava Brewery (מבשלת בירה ערבה),Porter - Other
-beerbazaar-brewery,Peleg Magen,"Thu, 29 May 2025 13:31:42 +0000",can,4.5,Apricot X Passionfruit X Mango X Vanilla Smoothie Sour Ale,Ārpus Brewing Co.,Sour - Smoothie / Pastry
-beerbazaar-brewery,Peleg Magen,"Thu, 29 May 2025 13:28:11 +0000",can,3.5,Lviv Stout,Pravda Brewery,Stout - Other
-beerbazaar-brewery,Peleg Magen,"Thu, 29 May 2025 13:21:42 +0000",,3.25,HOPulência 24.04 IPA Com Lúpulos Nacionais 2024 Lúpulo Do Maria,Cerveja Vadia,IPA - American
-beer-station-beersheba-israel,Archie Halikov,"Thu, 29 May 2025 13:10:54 +0000",draft,3.5,Shoshana (שושנע),Kasteel Brouwerij Vanhonsebrouck,Spiced / Herbed Beer
-beerbazaar-brewery,Peleg Magen,"Thu, 29 May 2025 13:06:57 +0000",can,3.75,עשן הזמן,BeerBazaar / Mivshelet Ha’Aretz,Lager - Smoked
-beer-station-beersheba-israel,Archie Halikov,"Thu, 29 May 2025 13:04:35 +0000",,3.25,001 [שם זמני],Arava Brewery (מבשלת בירה ערבה),IPA - Other
-berlin-florentin,Eli Smikin,"Tue, 27 May 2025 19:47:05 +0000",bottle,4.3,Mr. & Mrs. Smith,Fat Cat Brewery,"Homebrew, Cider - Herbed / Spiced / Hopped"
-berlin-florentin,Yotam Bar-natan,"Tue, 27 May 2025 18:48:34 +0000",can,3.9,Juice Shack Session NEIPA,BrewDog,Pale Ale - New England / Hazy
-berlin-florentin,Eli Smikin,"Tue, 27 May 2025 18:31:41 +0000",bottle,5.0,Jää | Ice Cuvée,Tori Jõesuu Siidri- Ja Veinitalu,Cider - Ice
-berlin-florentin,Yotam Bar-natan,"Tue, 27 May 2025 18:26:12 +0000",bottle,4.0,Mr. & Mrs. Smith,Fat Cat Brewery,"Homebrew, Cider - Herbed / Spiced / Hopped"
-berlin-florentin,Eli Smikin,"Tue, 27 May 2025 18:23:02 +0000",can,4.2,Quince Naturel,Jaanihanso,Cider - Other Fruit
-berlin-florentin,Yotam Bar-natan,"Tue, 27 May 2025 18:15:57 +0000",bottle,5.0,Jää | Ice Cuvée,Tori Jõesuu Siidri- Ja Veinitalu,Cider - Ice
-berlin-florentin,Yotam Bar-natan,"Tue, 27 May 2025 18:09:54 +0000",can,3.2,Quince Naturel,Jaanihanso,Cider - Other Fruit
-berlin-florentin,Yotam Bar-natan,"Tue, 27 May 2025 18:06:17 +0000",bottle,4.7,Pearadise,Mr. Plūme,Cider - Other Fruit
-berlin-florentin,Eli Smikin,"Tue, 27 May 2025 18:04:28 +0000",bottle,3.9,Winter Méthode Traditionnelle,Jaanihanso,Cider - Herbed / Spiced / Hopped
-berlin-florentin,Eli Smikin,"Tue, 27 May 2025 18:02:25 +0000",can,3.9,Dry Hopped Cider,Jaanihanso,Cider - Herbed / Spiced / Hopped
-berlin-florentin,Yotam Bar-natan,"Tue, 27 May 2025 17:59:39 +0000",bottle,4.2,Winter Méthode Traditionnelle,Jaanihanso,Cider - Herbed / Spiced / Hopped
-berlin-florentin,Eli Smikin,"Tue, 27 May 2025 17:59:15 +0000",,3.3,Perry 2022,Mr. Plūme,Cider - Perry / Poiré
-berlin-florentin,Yotam Bar-natan,"Tue, 27 May 2025 17:52:06 +0000",can,3.5,Dry Hopped Cider,Jaanihanso,Cider - Herbed / Spiced / Hopped
-berlin-florentin,Yotam Bar-natan,"Tue, 27 May 2025 17:48:44 +0000",bottle,3.8,Perry 2022,Mr. Plūme,Cider - Perry / Poiré
-berlin-florentin,Eli Smikin,"Tue, 27 May 2025 17:38:15 +0000",can,3.3,Rheum Naturel,Jaanihanso,Cider - Other Fruit
-berlin-florentin,Yotam Bar-natan,"Tue, 27 May 2025 17:35:07 +0000",bottle,4.0,Perry (2024; 5.9%),Tori Jõesuu Siidri- Ja Veinitalu,Cider - Perry / Poiré
-berlin-florentin,Yotam Bar-natan,"Tue, 27 May 2025 17:31:14 +0000",can,3.5,Rheum Naturel,Jaanihanso,Cider - Other Fruit
-berlin-florentin,Eli Smikin,"Tue, 27 May 2025 17:29:30 +0000",bottle,4.5,Ziema Karstsidrs,Abuls Sidra Darītava,Cider - Herbed / Spiced / Hopped
-berlin-florentin,Max N,"Tue, 27 May 2025 17:26:48 +0000",bottle,3.9,Ziema Karstsidrs,Abuls Sidra Darītava,Cider - Herbed / Spiced / Hopped
-berlin-florentin,Yotam Bar-natan,"Tue, 27 May 2025 17:25:38 +0000",bottle,4.5,Ziema Karstsidrs,Abuls Sidra Darītava,Cider - Herbed / Spiced / Hopped
-berlin-florentin,Max N,"Tue, 27 May 2025 17:22:56 +0000",bottle,3.7,Mr. Plūme Pussausais,Mr. Plūme,Cider - Traditional / Apfelwein
-berlin-florentin,Yotam Bar-natan,"Tue, 27 May 2025 17:22:08 +0000",bottle,3.9,Mr. Plūme Pussausais,Mr. Plūme,Cider - Traditional / Apfelwein
-berlin-florentin,Eli Smikin,"Tue, 27 May 2025 17:18:49 +0000",bottle,4.0,Vintage 2021,Mr. Plūme,Cider - Dry
-berlin-florentin,Max N,"Tue, 27 May 2025 17:13:52 +0000",bottle,3.7,Vintage 2021,Mr. Plūme,Cider - Dry
-berlin-florentin,Yotam Bar-natan,"Tue, 27 May 2025 17:12:14 +0000",bottle,3.7,Vintage 2021,Mr. Plūme,Cider - Dry
-berlin-florentin,Eli Smikin,"Tue, 27 May 2025 17:12:01 +0000",bottle,3.5,Poolkuiv Õunasiider Demi Sec,Tori Jõesuu Siidri- Ja Veinitalu,Cider - Traditional / Apfelwein
-berlin-florentin,Yotam Bar-natan,"Tue, 27 May 2025 17:08:23 +0000",bottle,3.7,Poolkuiv Õunasiider Demi Sec,Tori Jõesuu Siidri- Ja Veinitalu,Cider - Traditional / Apfelwein
-berlin-florentin,Max N,"Tue, 27 May 2025 17:06:57 +0000",bottle,3.6,Poolkuiv Õunasiider Demi Sec,Tori Jõesuu Siidri- Ja Veinitalu,Cider - Traditional / Apfelwein
-berlin-florentin,Yotam Bar-natan,"Tue, 27 May 2025 16:44:02 +0000",bottle,3.6,Somersby Mango & Lime,Carlsberg Group,Cider - Other Fruit
-berlin-florentin,Eli Smikin,"Tue, 27 May 2025 15:43:00 +0000",,3.7,Beck's,Brauerei Beck,Pilsner - German
-berlin-florentin,uri822,"Sun, 25 May 2025 19:56:26 +0000",draft,3.75,Budweiser Budvar / Czechvar Original,Budějovický Budvar,Pilsner - Czech / Bohemian
-berlin-florentin,uri822,"Sun, 25 May 2025 19:55:06 +0000",draft,3.25,Ronen The Ugly Beer (הבירה המכוערת),Srigim (שריגים),IPA - American
-berlin-florentin,uri822,"Sun, 25 May 2025 17:22:24 +0000",,3.5,Soundwave IPA,Siren Craft Brew,IPA - American
-ursa,Alon Szczupak,"Sat, 24 May 2025 16:15:54 +0000",draft,3.75,Soundwave IPA,Siren Craft Brew,IPA - American
-ursa,Alon Szczupak,"Sat, 24 May 2025 16:10:01 +0000",draft,4.0,Ronen The Ugly Beer (הבירה המכוערת),Srigim (שריגים),IPA - American
-beerz,daniel tkach,"Mon, 19 May 2025 20:43:03 +0000",,4.0,Lemon X Coconut X Pineapple X Cherry Smoothie Sour Ale,Ārpus Brewing Co.,Sour - Smoothie / Pastry
-beerz,daniel tkach,"Mon, 19 May 2025 20:42:36 +0000",can,4.5,Apricot X Passionfruit X Mango X Vanilla Smoothie Sour Ale,Ārpus Brewing Co.,Sour - Smoothie / Pastry
-beerz,daniel tkach,"Mon, 19 May 2025 19:59:22 +0000",can,4.0,Fruitheart Smoothie Sour Ale,Ārpus Brewing Co.,Sour - Smoothie / Pastry
-beerz,Zoe Bystrik,"Mon, 19 May 2025 17:37:14 +0000",can,4.0,Fruitheart Smoothie Sour Ale,Ārpus Brewing Co.,Sour - Smoothie / Pastry
-beerz,Zoe Bystrik,"Mon, 19 May 2025 16:47:06 +0000",can,5.0,Apricot X Passionfruit X Mango X Vanilla Smoothie Sour Ale,Ārpus Brewing Co.,Sour - Smoothie / Pastry
-beerz,Yana O,"Mon, 19 May 2025 16:42:36 +0000",draft,3.8,Barbãr Bok,Brasserie Lefebvre,Bock - Single / Traditional
-beerz,Ⓜ️axx Dee,"Mon, 19 May 2025 16:40:27 +0000",can,2.8,California Sun,Thornbridge Brewery,IPA - Session
-beerz,Zoe Bystrik,"Mon, 19 May 2025 16:26:28 +0000",draft,3.25,Gentle Bastard,HORIZONT Brewing,IPA - American
-beerz,Zoe Bystrik,"Mon, 19 May 2025 16:20:24 +0000",draft,4.25,Hazy Queen,HORIZONT Brewing,IPA - New England / Hazy
-beerz,Zoe Bystrik,"Mon, 19 May 2025 16:13:26 +0000",draft,3.75,Edelweiss Snowfresh / Wheat Beer,Brau Union Österreich,Wheat Beer - Hefeweizen
-beerz,Yana O,"Mon, 19 May 2025 16:09:29 +0000",draft,4.0,Hazy Queen,HORIZONT Brewing,IPA - New England / Hazy
-beerz,Ⓜ️axx Dee,"Mon, 19 May 2025 16:09:16 +0000",draft,4.0,Hazy Queen,HORIZONT Brewing,IPA - New England / Hazy
-beerz,Ⓜ️axx Dee,"Mon, 19 May 2025 16:08:27 +0000",draft,4.0,Gentle Bastard,HORIZONT Brewing,IPA - American
-beerz,Ⓜ️axx Dee,"Mon, 19 May 2025 16:06:40 +0000",draft,3.6,Edelweiss Snowfresh / Wheat Beer,Brau Union Österreich,Wheat Beer - Hefeweizen
-ursa,lilRaziP,"Sun, 18 May 2025 21:52:34 +0000",draft,4.0,Erdinger Weißbier / Hefe-Weizen,Erdinger Weissbräu,Wheat Beer - Hefeweizen
-berlin-florentin,uri822,"Sun, 18 May 2025 09:12:25 +0000",draft,3.25,Amber Ale (תקומה),בירה שקמה Shikma Beer,Red Ale - American Amber / Red
-berlin-florentin,uri822,"Sun, 18 May 2025 09:03:12 +0000",draft,2.5,Beck's,Brauerei Beck,Pilsner - German
-beerz,narkis,"Fri, 16 May 2025 19:19:29 +0000",can,3.75,Morning Joe,HORIZONT Brewing,Stout - Coffee
-berlin-florentin,Bilbo Sios,"Fri, 16 May 2025 17:57:22 +0000",can,3.25,Juice Shack Milkshake,BrewDog,IPA - Milkshake
-berlin-florentin,Bilbo Sios,"Fri, 16 May 2025 17:20:02 +0000",can,3.75,Broken Dream,Siren Craft Brew,Stout - Oatmeal
-berlin-florentin,Bilbo Sios,"Fri, 16 May 2025 16:36:01 +0000",can,3.5,DDH Jaipur,Thornbridge Brewery,IPA - English
-ursa,Ilya Markovsky,"Thu, 15 May 2025 22:16:08 +0000",draft,4.0,Weihenstephaner Hefeweissbier Dunkel,Bayerische Staatsbrauerei Weihenstephan,Wheat Beer - Dunkelweizen
-beerbazaar-brewery,Oren Sela,"Thu, 15 May 2025 18:42:14 +0000",draft,3.5,Bhindi IPA,BeerBazaar / Mivshelet Ha’Aretz,IPA - American
-beerbazaar-brewery,Oren Sela,"Thu, 15 May 2025 17:54:55 +0000",draft,3.25,חתול עם תעלול,BeerBazaar / Mivshelet Ha’Aretz,Pale Ale - American
-beerz,NightFish,"Thu, 15 May 2025 16:00:06 +0000",draft,3.75,Hobgoblin IPA,Marston's Brewery,IPA - English
-beerz,NightFish,"Thu, 15 May 2025 15:30:37 +0000",draft,3.75,Barbãr Bok,Brasserie Lefebvre,Bock - Single / Traditional
-berlin-florentin,uri822,"Wed, 14 May 2025 17:27:12 +0000",draft,3.75,Löwenbräu Original,Spaten-Franziskaner-Löwenbräu-Gruppe,Lager - Helles
-beerz,Beny K,"Mon, 12 May 2025 18:18:57 +0000",can,3.5,Fruitheart Smoothie Sour Ale,Ārpus Brewing Co.,Sour - Smoothie / Pastry
-beerz,Eden Dupont,"Sun, 11 May 2025 20:29:21 +0000",draft,4.5,Gentle Bastard,HORIZONT Brewing,IPA - American
-berlin-florentin,Sono Burger,"Thu, 08 May 2025 21:42:42 +0000",draft,3.5,Kasteel Rubus Framboise,Kasteel Brouwerij Vanhonsebrouck,Fruit Beer
-ursa,Max N,"Thu, 08 May 2025 20:28:37 +0000",can,3.4,Oatmeal IPA 2025,Malka (מלכה),IPA - Other
-berlin-florentin,Sono Burger,"Thu, 08 May 2025 17:39:43 +0000",draft,3.5,Pleroma Karpologi Pineapple Peach Marshmallow Créme Brulée Sour,Omnipollo,Sour - Smoothie / Pastry
-beerz,NightFish,"Thu, 08 May 2025 16:49:15 +0000",draft,3.75,Hobgoblin IPA,Marston's Brewery,IPA - English
-beerz,NightFish,"Thu, 08 May 2025 16:05:27 +0000",draft,4.0,Bacchus Frambozenbier,Kasteel Brouwerij Vanhonsebrouck,Sour - Flanders Oud Bruin
-berlin-florentin,uri822,"Wed, 07 May 2025 18:10:10 +0000",draft,3.5,Pleroma Karpologi Pineapple Peach Marshmallow Créme Brulée Sour,Omnipollo,Sour - Smoothie / Pastry
-berlin-florentin,Tiernan O'Rourke,"Wed, 07 May 2025 16:26:51 +0000",,3.75,Franziskaner Premium Weissbier Naturtrüb,Spaten-Franziskaner-Löwenbräu-Gruppe,Wheat Beer - Hefeweizen
-berlin-florentin,Tiernan O'Rourke,"Wed, 07 May 2025 16:09:23 +0000",,2.75,Shikma IPA,בירה שקמה Shikma Beer,IPA - American
-berlin-florentin,Tiernan O'Rourke,"Wed, 07 May 2025 15:28:41 +0000",,2.25,Goldstar (גולדסטאר),Tempo Beer Industries Ltd (טמפו),Lager - Vienna
-beerline,Slava Gladchenko,"Wed, 07 May 2025 14:11:03 +0000",,3.75,Münchner Weisse,Staatliches Hofbräuhaus München,Wheat Beer - Hefeweizen
-beerbazaar-brewery,Nir Langer,"Mon, 05 May 2025 20:51:54 +0000",can,3.75,FEAT. Nepo - Stardust,Funky Fluid,IPA - Triple New England / Hazy
-beerbazaar-brewery,Guy Elkayam,"Mon, 05 May 2025 19:47:22 +0000",can,3.5,FEAT. Nepo - Stardust,Funky Fluid,IPA - Triple New England / Hazy
-beerbazaar-brewery,Nir Langer,"Mon, 05 May 2025 19:43:25 +0000",can,4.0,Tutto Fatto,Birrificio WAR,IPA - Imperial / Double
-beerbazaar-brewery,Guy Elkayam,"Mon, 05 May 2025 19:41:58 +0000",can,4.25,Tutto Fatto,Birrificio WAR,IPA - Imperial / Double
-beerbazaar-brewery,Kobi,"Mon, 05 May 2025 19:41:00 +0000",,4.0,Tutto Fatto,Birrificio WAR,IPA - Imperial / Double
-beerbazaar-brewery,Nir Langer,"Mon, 05 May 2025 19:33:44 +0000",can,4.25,Juice Bomb,Sloop Brewing Co.,IPA - New England / Hazy
-beerbazaar-brewery,Guy Elkayam,"Mon, 05 May 2025 19:33:13 +0000",can,4.5,Hydra | Passion Fruit + Mango + Pink Guava,Mortalis Brewing Company,Sour - Smoothie / Pastry
-beerbazaar-brewery,Kobi,"Mon, 05 May 2025 19:32:05 +0000",can,4.0,Hydra | Passion Fruit + Mango + Pink Guava,Mortalis Brewing Company,Sour - Smoothie / Pastry
-beerbazaar-brewery,Roni Waldman,"Mon, 05 May 2025 19:27:41 +0000",can,3.5,Juice Bomb,Sloop Brewing Co.,IPA - New England / Hazy
-beerbazaar-brewery,Kobi,"Mon, 05 May 2025 19:27:34 +0000",,,Juice Bomb,Sloop Brewing Co.,IPA - New England / Hazy
-beerbazaar-brewery,Guy Elkayam,"Mon, 05 May 2025 19:24:27 +0000",can,3.5,Juice Bomb,Sloop Brewing Co.,IPA - New England / Hazy
-beerbazaar-brewery,Nir Langer,"Mon, 05 May 2025 19:20:28 +0000",,,SchnittBazaar (שניטבאזר),BeerBazaar / Mivshelet Ha’Aretz,Farmhouse Ale - Saison
-beerbazaar-brewery,Nir Langer,"Mon, 05 May 2025 19:19:55 +0000",,,חתול עם תעלול,BeerBazaar / Mivshelet Ha’Aretz,Pale Ale - American
-beerbazaar-brewery,Kobi,"Mon, 05 May 2025 18:43:05 +0000",,,חתול עם תעלול,BeerBazaar / Mivshelet Ha’Aretz,Pale Ale - American
-beerbazaar-brewery,Guy Elkayam,"Mon, 05 May 2025 18:39:41 +0000",draft,,SchnittBazaar (שניטבאזר),BeerBazaar / Mivshelet Ha’Aretz,Farmhouse Ale - Saison
-beerbazaar-brewery,Kobi,"Mon, 05 May 2025 18:20:09 +0000",,,SchnittBazaar (שניטבאזר),BeerBazaar / Mivshelet Ha’Aretz,Farmhouse Ale - Saison
-beerbazaar-brewery,Guy Elkayam,"Mon, 05 May 2025 18:13:24 +0000",draft,3.75,חתול עם תעלול,BeerBazaar / Mivshelet Ha’Aretz,Pale Ale - American
-ursa,Ben Rouda,"Sat, 03 May 2025 15:35:21 +0000",can,4.0,Lumina,Siren Craft Brew,IPA - Session
-ursa,Ben Rouda,"Sat, 03 May 2025 14:42:52 +0000",can,3.5,Shesh Ahuz Kapara (שש אחוז כפרה),Herzl (הרצל),Mild - Other
-ursa,Miki Zaidel,"Fri, 02 May 2025 20:02:19 +0000",bottle,3.75,Hard Apple Cider - Dry (סיידר תפוחים אלכוהולי יבש),Hamatsesa (המתססה),Cider - Dry
-ursa,Miki Zaidel,"Fri, 02 May 2025 20:00:56 +0000",can,4.0,Foggyn’ Delicious,Schnitt Brewing Company﻿,IPA - New England / Hazy
 ursa,Tomer Stein,"Sun, 27 Apr 2025 16:11:00 +0000",can,3.5,Black Marble,Sullivan's Brewing Company,Stout - Irish Dry
 beerbazaar-brewery,Yotam-Gilad Hefer,"Sat, 26 Apr 2025 21:44:52 +0000",,4.25,Missy (מיסי),BeerBazaar / Mivshelet Ha’Aretz,Pale Ale - American
 beerbazaar-brewery,Yotam-Gilad Hefer,"Sat, 26 Apr 2025 20:49:39 +0000",,4.0,OMG (2023 - תשפ״ג),BeerBazaar / Mivshelet Ha’Aretz,Barleywine - English
@@ -15091,61 +15183,6 @@ bartov-holon,eitanr20,"Tue, 11 Jun 2024 07:53:27 +0000",,4.0,Nosferatu,La Calave
 beerline,Belemnite,"Thu, 06 Jun 2024 15:39:42 +0000",draft,3.75,Salted Caramel Lucaria,Thornbridge Brewery,Porter - Other
 berlin-florentin,Nathan Blinder,"Tue, 04 Jun 2024 17:42:07 +0000",draft,3.75,Spontanblueberry,Mikkeller,Sour - Fruited
 beerline,Beer Opinion,"Mon, 03 Jun 2024 17:41:40 +0000",draft,4.6,Hallo Ich Bin Berliner Weisse Blueberry,Mikkeller,Sour - Fruited Berliner Weisse
-beerline,Ido Kessler,"Wed, 29 May 2024 14:43:04 +0000",,4.0,Liquid Cocaine,Mad Scientist,IPA - Imperial / Double
-beerline,Ido Kessler,"Wed, 29 May 2024 13:19:23 +0000",draft,4.1,Florida Weisse,Thornbridge Brewery,Sour - Fruited Berliner Weisse
-beerline,Ido Kessler,"Wed, 29 May 2024 13:18:09 +0000",draft,4.0,Hobgoblin IPA,Marston's Brewery,IPA - English
-beerline,Ido Kessler,"Wed, 29 May 2024 13:16:58 +0000",draft,4.0,Delirium Black Barrel Aged,Delirium - Huyghe Brewery,Belgian Strong Dark Ale
-beerline,Ido Kessler,"Wed, 29 May 2024 13:15:56 +0000",draft,3.3,Dry Hop'd Zwickl,Bitburger Brauerei,Kellerbier / Zwickelbier
-beerline,Ido Kessler,"Wed, 29 May 2024 13:14:12 +0000",,3.2,Th. König Zwickl,König Brauerei,Kellerbier / Zwickelbier
-beerline,Ido Kessler,"Wed, 29 May 2024 13:10:30 +0000",draft,4.4,Floris Cactus,Delirium - Huyghe Brewery,Wheat Beer - Fruited
-berlin-florentin,Mikhail Stolov,"Tue, 28 May 2024 19:05:58 +0000",draft,4.75,Guinness Draught,Guinness,Stout - Irish Dry
-berlin-florentin,Sono Burger,"Mon, 27 May 2024 17:49:19 +0000",,4.5,Hallo Ich Bin Berliner Weisse Blueberry,Mikkeller,Sour - Fruited Berliner Weisse
-berlin-florentin,Sono Burger,"Mon, 27 May 2024 16:39:54 +0000",draft,4.5,Hallo Ich Bin Berliner Weisse Blueberry,Mikkeller,Sour - Fruited Berliner Weisse
-bartov-holon,eitanr20,"Mon, 27 May 2024 11:57:48 +0000",can,4.0,Black Marble,Sullivan's Brewing Company,Stout - Irish Dry
-ursa,Aviad Attia,"Sat, 25 May 2024 18:30:49 +0000",can,,Selfish Games - West Coast Tripping,HORIZONT Brewing,IPA - American
-ursa,Danielle Yona,"Sat, 25 May 2024 18:29:25 +0000",can,,Selfish Games - West Coast Tripping,HORIZONT Brewing,IPA - American
-berlin-florentin,Mikhail Stolov,"Fri, 24 May 2024 16:08:39 +0000",draft,4.75,Guinness Draught,Guinness,Stout - Irish Dry
-berlin-florentin,Omri Gill,"Thu, 23 May 2024 18:46:17 +0000",draft,3.5,Carlsberg Luma,Israel Beer Breweries Ltd. (IBBL),Lager - IPL (India Pale Lager)
-berlin-florentin,Omri Gill,"Thu, 23 May 2024 18:30:35 +0000",draft,3.25,Beck's,Brauerei Beck,Pilsner - German
-ursa,Omri Gill,"Thu, 23 May 2024 17:47:43 +0000",can,4.0,Green Mountain,Thornbridge Brewery,IPA - Session
-beerline,Belemnite,"Thu, 23 May 2024 17:10:26 +0000",draft,3.75,Hobgoblin IPA,Marston's Brewery,IPA - English
-berlin-florentin,Omri Gill,"Thu, 23 May 2024 15:35:23 +0000",draft,3.25,Beck's,Brauerei Beck,Pilsner - German
-ursa,Omry Shapira,"Wed, 22 May 2024 19:45:25 +0000",can,4.0,Hop Opera,Mikkeller,IPA - Imperial / Double New England / Hazy
-ursa,Omry Shapira,"Wed, 22 May 2024 18:41:07 +0000",can,3.25,Scene Stealer,Siren Craft Brew,IPA - American
-ursa,Or Cohen,"Wed, 22 May 2024 18:30:51 +0000",can,3.75,Scene Stealer,Siren Craft Brew,IPA - American
-ursa,Omri Wolf,"Wed, 22 May 2024 08:18:14 +0000",can,4.25,Hop Opera,Mikkeller,IPA - Imperial / Double New England / Hazy
-bartov-holon,Ido Kessler,"Tue, 21 May 2024 20:33:13 +0000",bottle,2.75,THAIPA,Alexander (אלכסנדר),IPA - Session
-bartov-holon,Ido Kessler,"Tue, 21 May 2024 20:29:45 +0000",can,3.0,Florida Weisse,Thornbridge Brewery,Sour - Fruited Berliner Weisse
-bartov-holon,Ido Kessler,"Tue, 21 May 2024 19:51:51 +0000",bottle,2.5,Vaadat Kishut (ועדת כישות) (2023),Herzl (הרצל),IPA - American
-bartov-holon,Ido Kessler,"Tue, 21 May 2024 19:50:17 +0000",bottle,4.5,Massala,Hatch (האטצ׳),Spiced / Herbed Beer
-bartov-holon,Ido Kessler,"Tue, 21 May 2024 19:38:20 +0000",bottle,4.25,שנאפי,Hatch (האטצ׳),IPA - New England / Hazy
-ursa,Ofir Israeli,"Tue, 21 May 2024 19:32:13 +0000",can,4.0,Hop Opera,Mikkeller,IPA - Imperial / Double New England / Hazy
-ursa,Omri Wolf,"Tue, 21 May 2024 19:01:02 +0000",can,3.25,Shadow Paradise,Siren Craft Brew,Porter - Other
-ursa,Ofir Israeli,"Tue, 21 May 2024 18:40:12 +0000",,3.25,Shadow Paradise,Siren Craft Brew,Porter - Other
-ursa,Nahum Haver,"Sun, 19 May 2024 20:02:49 +0000",can,3.75,Trickster,Siren Craft Brew,IPA - English
-ursa,Nahum Haver,"Sun, 19 May 2024 19:39:05 +0000",can,3.75,Resting Brew Face,Mikkeller,IPA - Imperial / Double New England / Hazy
-ursa,Alon Szczupak,"Sat, 18 May 2024 15:43:11 +0000",draft,4.0,Neck Oil,Beavertown,IPA - Session
-beerline,Belemnite,"Fri, 17 May 2024 13:47:43 +0000",draft,4.0,Delirium Argentum,Delirium - Huyghe Brewery,IPA - Belgian
-ursa,arny_autocue,"Thu, 16 May 2024 19:01:20 +0000",draft,4.5,Pompelmocello,Siren Craft Brew,IPA - Sour
-berlin-florentin,Yana O,"Fri, 10 May 2024 15:57:04 +0000",draft,4.0,Guinness Draught,Guinness,Stout - Irish Dry
-beerline,Avichai Elgrabli,"Fri, 10 May 2024 14:34:08 +0000",draft,3.75,Florida Weisse,Thornbridge Brewery,Sour - Fruited Berliner Weisse
-beerline,Avichai Elgrabli,"Fri, 10 May 2024 14:33:42 +0000",draft,3.25,Stiegl-Radler Grapefruit,Stieglbrauerei zu Salzburg,Shandy / Radler
-beerline,Avichai Elgrabli,"Fri, 10 May 2024 14:33:10 +0000",draft,3.5,Black Marble,Sullivan's Brewing Company,Stout - Irish Dry
-ursa,Bryan L,"Thu, 09 May 2024 19:00:21 +0000",,2.75,Zirndorfer Landbier,Brauerei Zirndorf,Lager - Amber / Red
-ursa,Bryan L,"Thu, 09 May 2024 18:47:37 +0000",draft,3.25,Carlsberg Luma,Israel Beer Breweries Ltd. (IBBL),Lager - IPL (India Pale Lager)
-beerline,Yosef Dahan,"Wed, 08 May 2024 20:27:21 +0000",draft,3.5,Black Marble,Sullivan's Brewing Company,Stout - Irish Dry
-beerline,Yosef Dahan,"Wed, 08 May 2024 20:26:38 +0000",draft,3.75,Florida Weisse,Thornbridge Brewery,Sour - Fruited Berliner Weisse
-beerline,Yosef Dahan,"Wed, 08 May 2024 20:25:43 +0000",draft,3.0,Shoshana (שושנע),Kasteel Brouwerij Vanhonsebrouck,Spiced / Herbed Beer
-beerline,Yosef Dahan,"Wed, 08 May 2024 20:24:40 +0000",draft,3.25,Stiegl-Radler Grapefruit,Stieglbrauerei zu Salzburg,Shandy / Radler
-beerline,Yosef Dahan,"Wed, 08 May 2024 16:18:55 +0000",draft,4.0,Delirium Black Barrel Aged,Delirium - Huyghe Brewery,Belgian Strong Dark Ale
-berlin-florentin,Merav Tink,"Tue, 07 May 2024 17:25:25 +0000",draft,4.25,Guinness Draught,Guinness,Stout - Irish Dry
-ursa,vazy1,"Mon, 06 May 2024 21:17:15 +0000",draft,2.0,Ronen The Ugly Beer (הבירה המכוערת),Srigim (שריגים),IPA - American
-ursa,rom_gvili_1241,"Fri, 03 May 2024 21:20:34 +0000",draft,3.75,Budweiser Budvar / Czechvar Original,Budějovický Budvar,Pilsner - Czech / Bohemian
-beerline,Yosef Dahan,"Fri, 03 May 2024 19:16:48 +0000",draft,3.5,Edelweiss Snowfresh / Wheat Beer,Brau Union Österreich,Wheat Beer - Hefeweizen
-beerline,Yosef Dahan,"Fri, 03 May 2024 18:29:44 +0000",draft,3.0,Köstritzer Schwarzbier,Köstritzer Schwarzbierbrauerei,Schwarzbier
-bartov-holon,Nikolay,"Fri, 03 May 2024 16:20:54 +0000",bottle,3.5,Balance,Hatch (האטצ׳),Red Ale - American Amber / Red
-bartov-holon,Nikolay,"Fri, 03 May 2024 15:30:55 +0000",draft,3.5,Shoshana (שושנע),Kasteel Brouwerij Vanhonsebrouck,Spiced / Herbed Beer
-beerline,Slava Gladchenko,"Thu, 02 May 2024 16:48:42 +0000",,3.5,Edelweiss Snowfresh / Wheat Beer,Brau Union Österreich,Wheat Beer - Hefeweizen
 berlin-florentin,Mikhail Stolov,"Mon, 29 Apr 2024 18:11:21 +0000",draft,4.75,Guinness Draught,Guinness,Stout - Irish Dry
 ursa,Max N,"Sun, 28 Apr 2024 22:22:50 +0000",can,3.25,Köln Tourist,Volfas Engelman,Kölsch
 bartov-holon,eitanr20,"Thu, 25 Apr 2024 20:46:13 +0000",bottle,3.0,Sheeta IPA,Sheeta Brewery (בירה שיטה),IPA - American
@@ -15572,14 +15609,6 @@ ursa,Omri Wolf,"Sat, 03 Jun 2023 19:26:34 +0000",draft,3.75,Soundwave IPA,Siren 
 ursa,Ofir Israeli,"Sat, 03 Jun 2023 18:56:41 +0000",,3.5,Hard Apple Cider - Dry (סיידר תפוחים אלכוהולי יבש),Hamatsesa (המתססה),Cider - Dry
 ursa,Omri Wolf,"Sat, 03 Jun 2023 18:56:41 +0000",,3.5,Hard Apple Cider - Dry (סיידר תפוחים אלכוהולי יבש),Hamatsesa (המתססה),Cider - Dry
 ursa,Nir Langer,"Fri, 02 Jun 2023 21:30:00 +0000",can,3.5,Passion Flick,HORIZONT Brewing,Pale Ale - Milkshake
-ursa,Alex Tsvetkov,"Wed, 31 May 2023 19:27:31 +0000",,4.25,Crescendo,Siren Craft Brew,Stout - Imperial / Double
-ursa,Alex Tsvetkov,"Wed, 31 May 2023 19:07:06 +0000",,3.5,Trickster,Siren Craft Brew,IPA - English
-ursa,Alex Tsvetkov,"Wed, 31 May 2023 18:50:12 +0000",,3.75,Shadow Paradise,Siren Craft Brew,Porter - Other
-ursa,Roie Gilad,"Wed, 31 May 2023 18:36:02 +0000",can,3.75,Lupuloid,Beavertown,IPA - American
-beer-station-beersheba-israel,Barel,"Wed, 03 May 2023 16:57:39 +0000",draft,3.5,Bravehop Amber IPA,Loch Lomond Brewery,IPA - American
-beer-station-beersheba-israel,Roel Henskens,"Wed, 03 May 2023 16:54:16 +0000",draft,3.0,Green (גרין),Alexander (אלכסנדר),IPA - American
-beer-station-beersheba-israel,Roel Henskens,"Wed, 03 May 2023 16:25:06 +0000",draft,3.25,Bazelet Ale (בזלת-אייל ענברי),Golan Brewery (מבשלת הגולן),Red Ale - American Amber / Red
-beer-station-beersheba-israel,Roel Henskens,"Wed, 03 May 2023 16:00:51 +0000",draft,3.5,IPA Craft Beer,HaGibor Brewery (מבשלת הגיבור),IPA - American
 beer-station-beersheba-israel,Евгений Борисович,"Fri, 21 Apr 2023 13:50:12 +0000",,2.5,Krombacher Pils,Krombacher Gruppe,Pilsner - German
 beer-station-beersheba-israel,Marik Sh,"Sat, 25 Mar 2023 15:56:34 +0000",,4.0,Delirium Nocturnum,Delirium - Huyghe Brewery,Belgian Strong Dark Ale
 beer-station-beersheba-israel,raz shaked,"Mon, 13 Mar 2023 15:47:17 +0000",,,Soundwave IPA,Siren Craft Brew,IPA - American
@@ -15606,8 +15635,6 @@ beer-station-beersheba-israel,Vlad Blok,"Mon, 11 Jul 2022 18:00:57 +0000",draft,
 beer-station-beersheba-israel,Vlad Blok,"Mon, 11 Jul 2022 14:32:09 +0000",draft,4.5,Hoegaarden Wit / Blanche,Brouwerij Hoegaarden,Wheat Beer - Witbier / Blanche
 beer-station-beersheba-israel,Vlad Blok,"Mon, 11 Jul 2022 14:13:57 +0000",draft,4.0,Blanche de Bruxelles,Brasserie Lefebvre,Wheat Beer - Witbier / Blanche
 beer-station-beersheba-israel,Vlad Blok,"Sun, 10 Jul 2022 13:54:52 +0000",draft,4.25,Hobgoblin IPA,Marston's Brewery,IPA - English
-beer-station-beersheba-israel,Mats Jaksland,"Tue, 24 May 2022 18:15:42 +0000",draft,3.75,Gibor Blondie,HaGibor Brewery (מבשלת הגיבור),Blonde / Golden Ale - Other
-beer-station-beersheba-israel,Mats Jaksland,"Tue, 24 May 2022 18:14:55 +0000",draft,3.5,Staropramen Premium / Ležák 12,Pivovary Staropramen,Pilsner - Czech / Bohemian
 beer-station-beersheba-israel,Paul V,"Mon, 25 Oct 2021 15:27:55 +0000",draft,4.5,Black (בלאק),Alexander (אלכסנדר),Porter - Other
 beer-station-beersheba-israel,ksenia,"Tue, 05 Oct 2021 16:44:17 +0000",draft,4.0,Hop Guru,Shevet (שבט),IPA - American
 beer-station-beersheba-israel,ksenia,"Tue, 05 Oct 2021 16:32:34 +0000",draft,4.25,Shoshana (שושנע),Kasteel Brouwerij Vanhonsebrouck,Spiced / Herbed Beer
@@ -15628,7 +15655,6 @@ beer-station-beersheba-israel,Mikhail Braslavsky,"Mon, 02 Mar 2020 10:47:15 +000
 beer-station-beersheba-israel,Michael Embrey,"Fri, 29 Nov 2019 16:07:45 +0000",draft,4.0,O'Hara's Irish Stout,O'Hara's Brewery,Stout - Irish Dry
 beer-station-beersheba-israel,Bart Delvaux,"Sun, 28 Jul 2019 15:55:27 +0000",,,Patriot American Pale Ale,"The Dancing Camel Brewing Co., Ltd.",Pale Ale - American
 beer-station-beersheba-israel,Ken DeMars,"Tue, 11 Jun 2019 21:36:02 +0000",draft,3.5,Emek Ha'ela Belgian Triple,Srigim (שריגים),Belgian Tripel
-beer-station-beersheba-israel,Alex Fux,"Mon, 13 May 2019 18:42:43 +0000",,2.5,Bacchus Kriekenbier,Kasteel Brouwerij Vanhonsebrouck,Sour - Flanders Oud Bruin
 bartov-holon,Hagay Muzan,"Fri, 29 Mar 2019 22:48:27 +0000",,4.0,Green (גרין),Alexander (אלכסנדר),IPA - American
 beer-station-beersheba-israel,J P,"Thu, 14 Mar 2019 20:32:47 +0000",draft,3.5,Green (גרין),Alexander (אלכסנדר),IPA - American
 beer-station-beersheba-israel,Pawel,"Fri, 22 Feb 2019 17:47:12 +0000",,,Green (גרין),Alexander (אלכסנדר),IPA - American
@@ -15645,8 +15671,6 @@ beer-station-beersheba-israel,Garry Shteinberg,"Sat, 28 Jul 2018 11:13:06 +0000"
 beer-station-beersheba-israel,Garry Shteinberg,"Sat, 21 Jul 2018 11:55:09 +0000",,5.0,Pale Ale,Oak & Ash,Pale Ale - American
 beer-station-beersheba-israel,Garry Shteinberg,"Sat, 21 Jul 2018 11:53:29 +0000",,0.75,La Trappe Blond,Bierbrouwerij De Koningshoeven,Belgian Blonde
 beer-station-beersheba-israel,Alex Fux,"Fri, 13 Jul 2018 18:20:05 +0000",,3.5,Gambrinus Originál 10,Plzeňský Prazdroj,Lager - Světlé (Czech Pale)
-beer-station-beersheba-israel,Tobi Schweickardt,"Thu, 10 May 2018 19:41:02 +0000",,4.0,Fruitesse,Brouwerij Liefmans,Fruit Beer
-beer-station-beersheba-israel,Tobi Schweickardt,"Thu, 10 May 2018 19:40:03 +0000",,3.25,Weizen,Primátor,Wheat Beer - Hefeweizen
 beer-station-beersheba-israel,Alex Fux,"Fri, 16 Feb 2018 12:38:11 +0000",draft,3.0,Grolsch Premium Lager,Koninklijke Grolsch,Pilsner - Other
 beer-station-beersheba-israel,Garry Shteinberg,"Fri, 16 Feb 2018 12:36:55 +0000",draft,5.0,Zirndorfer Landbier,Brauerei Zirndorf,Lager - Amber / Red
 beer-station-beersheba-israel,Alex Fux,"Sun, 04 Feb 2018 20:07:18 +0000",draft,4.0,Tucher Bajuvator Doppelbock,Tucher Bräu,Bock - Doppelbock
