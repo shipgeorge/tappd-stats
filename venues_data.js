@@ -1,8 +1,377 @@
 // 🍺 BEER STATS DATA - Generated automatically
-// Last updated: 2026-05-03 08:10:35
-// Total records: 15691
+// Last updated: 2026-05-04 08:40:32
+// Total records: 15732
 
 const BEER_DATA = [
+  {
+    "venue": "berlin-florentin",
+    "time": "2026-05-03T21:31:57+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "Lucky Break",
+    "brewery": "BrewDog",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-03T20:21:47+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Kelly's Green Pony",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-03T20:18:42+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Barrel Aged Projekt: Ice Imperial Baltic Porter Bourbon BA",
+    "brewery": "Maryensztadt",
+    "beer_type": "Freeze-Distilled Beer"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-03T20:03:54+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Abbey Mode",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Belgian Dubbel"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-03T19:49:03+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Lupulin Nectar",
+    "brewery": "Y.Market Brewing",
+    "beer_type": "IPA - Imperial / Double New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-03T19:42:06+00:00",
+    "serving": "can",
+    "rating": 5.0,
+    "beer_name": "MANA - Raspberry, Blueberry, Cherry & Coconut",
+    "brewery": "Azvex Brewing Company",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-03T19:23:21+00:00",
+    "serving": "can",
+    "rating": 3.0,
+    "beer_name": "Wine Slow",
+    "brewery": "Teenage Brewing",
+    "beer_type": "IPA - Sour"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-03T19:05:28+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Bigfoot",
+    "brewery": "Sierra Nevada Brewing Co.",
+    "beer_type": "Barleywine - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-03T19:05:09+00:00",
+    "serving": "bottle",
+    "rating": 4.5,
+    "beer_name": "Hobgoblin Dark Stout",
+    "brewery": "Marston's Brewery",
+    "beer_type": "Stout - English"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-03T19:04:18+00:00",
+    "serving": "can",
+    "rating": 4.5,
+    "beer_name": "Omnia",
+    "brewery": "Cervesa Espiga",
+    "beer_type": "IPA - Triple New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-03T19:04:16+00:00",
+    "serving": "bottle",
+    "rating": 3.75,
+    "beer_name": "Hobgoblin Dark Stout",
+    "brewery": "Marston's Brewery",
+    "beer_type": "Stout - English"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-03T19:03:45+00:00",
+    "serving": "bottle",
+    "rating": null,
+    "beer_name": "Bigfoot",
+    "brewery": "Sierra Nevada Brewing Co.",
+    "beer_type": "Barleywine - American"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-03T18:55:53+00:00",
+    "serving": "can",
+    "rating": 4.5,
+    "beer_name": "Just Fruit (Strawberry, Raspberry, Blood Orange)",
+    "brewery": "Frequentem Brewing Co.",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-03T18:52:19+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Schnitt Happens",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-03T18:51:48+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Tea Party: Masala",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pale Ale - Other"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-03T18:51:08+00:00",
+    "serving": "draft",
+    "rating": 3.25,
+    "beer_name": "I'll Be Bock",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Bock - Single / Traditional"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-03T18:35:02+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Frenemy",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pale Ale - American"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-03T18:27:28+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Tea Party: Masala",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pale Ale - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-03T18:00:43+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Twist & Stout",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Stout - Irish Dry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-03T18:00:18+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "Budweiser Budvar / Czechvar Original",
+    "brewery": "Budějovický Budvar",
+    "beer_type": "Pilsner - Czech / Bohemian"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-03T17:59:59+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "La Chouffe Blonde",
+    "brewery": "Brasserie d'Achouffe",
+    "beer_type": "Belgian Strong Golden Ale"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-03T17:59:56+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "La Chouffe Blonde",
+    "brewery": "Brasserie d'Achouffe",
+    "beer_type": "Belgian Strong Golden Ale"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-03T17:59:28+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Budweiser Budvar / Czechvar Original",
+    "brewery": "Budějovický Budvar",
+    "beer_type": "Pilsner - Czech / Bohemian"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-03T17:58:50+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Benediktiner Hell",
+    "brewery": "Benediktiner Weissbräu",
+    "beer_type": "Lager - Helles"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-03T17:57:16+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Benediktiner Hell",
+    "brewery": "Benediktiner Weissbräu",
+    "beer_type": "Lager - Helles"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-03T17:56:40+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Twist & Stout",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Stout - Irish Dry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-03T17:29:55+00:00",
+    "serving": "bottle",
+    "rating": 3.75,
+    "beer_name": "Helles Schlenkerla Lagerbier",
+    "brewery": "Schlenkerla (\"Heller-Bräu\" Trum)",
+    "beer_type": "Lager - Helles"
+  },
+  {
+    "venue": "beerline",
+    "time": "2026-05-03T17:15:26+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "Pleroma Karpologi Pineapple Peach Marshmallow Créme Brulée Sour",
+    "brewery": "Omnipollo",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-03T17:09:02+00:00",
+    "serving": "Unknown",
+    "rating": 4.25,
+    "beer_name": "Budweiser Budvar / Czechvar DARK",
+    "brewery": "Budějovický Budvar",
+    "beer_type": "Lager - Tmavé (Czech Dark)"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-03T17:08:37+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "I'll Be Bock",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Bock - Single / Traditional"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-03T16:56:33+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "I'll Be Bock",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Bock - Single / Traditional"
+  },
+  {
+    "venue": "ursa",
+    "time": "2026-05-03T15:49:20+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "About To Stout",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Stout - Oatmeal"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-03T15:12:17+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Tea Party: Masala",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pale Ale - Other"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-03T14:20:18+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "Schnitt Happens",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-03T11:50:58+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "Inspector Hoosh Hash 2025",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-03T11:15:39+00:00",
+    "serving": "draft",
+    "rating": 3.3,
+    "beer_name": "I'll Be Bock",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Bock - Single / Traditional"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-03T10:59:04+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Schnitt Happens",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-03T09:24:48+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "I'll Be Bock",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Bock - Single / Traditional"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-03T09:24:15+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Porter & Sons Salted Caramel 2024",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Porter - Other"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-03T09:23:24+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Stoutment",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Stout - Other"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-03T09:22:27+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "Kelly's Green Pony",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
   {
     "venue": "b7-beer-house",
     "time": "2026-05-02T20:30:15+00:00",
