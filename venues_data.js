@@ -1,8 +1,170 @@
 // 🍺 BEER STATS DATA - Generated automatically
-// Last updated: 2026-05-04 08:40:32
-// Total records: 15732
+// Last updated: 2026-05-05 08:22:18
+// Total records: 15750
 
 const BEER_DATA = [
+  {
+    "venue": "lauter",
+    "time": "2026-05-04T19:56:20+00:00",
+    "serving": "can",
+    "rating": 3.8,
+    "beer_name": "Guinness Draught",
+    "brewery": "Guinness",
+    "beer_type": "Stout - Irish Dry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-04T19:41:42+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Sour 12 Passion Fruit + Guava",
+    "brewery": "Rodinný pivovar Zichovec",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-04T15:41:21+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Meet Our Friends | From Budapest: Horizont Brewing - Beyond the Horizont",
+    "brewery": "Nepo Brewing",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-04T15:40:23+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Kriek de Schaerbeek Tilquin - Draft Version",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": "Lambic - Kriek"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-04T15:38:56+00:00",
+    "serving": "draft",
+    "rating": 2.75,
+    "beer_name": "Hoppy Lager",
+    "brewery": "Isis Desert Brewery (מבשלת הנגב המערבי)",
+    "beer_type": "Lager - IPL (India Pale Lager)"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-04T15:38:28+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "I'll Be Bock",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Bock - Single / Traditional"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-04T15:37:59+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Kriek de Schaerbeek Tilquin - Draft Version",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": "Lambic - Kriek"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-04T15:36:11+00:00",
+    "serving": "draft",
+    "rating": 3.0,
+    "beer_name": "Frenemy",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pale Ale - American"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-04T15:06:27+00:00",
+    "serving": "draft",
+    "rating": 3.8,
+    "beer_name": "Kelly's Green Pony",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-04T15:05:47+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Frenemy",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pale Ale - American"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-04T15:03:52+00:00",
+    "serving": "draft",
+    "rating": 3.0,
+    "beer_name": "I'll Be Bock",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Bock - Single / Traditional"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-04T15:01:59+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Tea Party: Masala",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pale Ale - Other"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-04T10:00:02+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Tea Party: Masala",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pale Ale - Other"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-04T09:57:33+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Sessionista",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-04T09:56:49+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Frenemy",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pale Ale - American"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-04T09:41:28+00:00",
+    "serving": "Unknown",
+    "rating": 3.8,
+    "beer_name": "Frenemy",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pale Ale - American"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-04T08:51:22+00:00",
+    "serving": "Unknown",
+    "rating": 4.2,
+    "beer_name": "Kelly's Green Pony",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-04T08:47:12+00:00",
+    "serving": "Unknown",
+    "rating": 4.1,
+    "beer_name": "Stoutment",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Stout - Other"
+  },
   {
     "venue": "berlin-florentin",
     "time": "2026-05-03T21:31:57+00:00",
