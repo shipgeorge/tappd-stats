@@ -1,8 +1,260 @@
 // 🍺 BEER STATS DATA - Generated automatically
-// Last updated: 2026-05-06 08:37:53
-// Total records: 15762
+// Last updated: 2026-05-07 08:45:08
+// Total records: 15790
 
 const BEER_DATA = [
+  {
+    "venue": "ursa",
+    "time": "2026-05-07T08:34:27+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "About To Stout",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Stout - Oatmeal"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-06T20:47:06+00:00",
+    "serving": "Unknown",
+    "rating": 3.25,
+    "beer_name": "Unfiltered Lager",
+    "brewery": "Isis Desert Brewery (מבשלת הנגב המערבי)",
+    "beer_type": "Lager - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-06T20:09:56+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Springfest",
+    "brewery": "Sierra Nevada Brewing Co.",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-06T20:08:41+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Hazy Little Thing",
+    "brewery": "Sierra Nevada Brewing Co.",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-06T20:07:29+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Torpedo Extra IPA",
+    "brewery": "Sierra Nevada Brewing Co.",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-06T20:06:16+00:00",
+    "serving": "draft",
+    "rating": 3.25,
+    "beer_name": "Pale Ale",
+    "brewery": "Sierra Nevada Brewing Co.",
+    "beer_type": "Pale Ale - American"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-06T19:26:15+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "I'll Be Bock",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Bock - Single / Traditional"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-06T19:22:53+00:00",
+    "serving": "draft",
+    "rating": 3.25,
+    "beer_name": "Tea Party: Masala",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pale Ale - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-06T18:58:02+00:00",
+    "serving": "draft",
+    "rating": 3.0,
+    "beer_name": "La Trappe Quadrupel",
+    "brewery": "Bierbrouwerij De Koningshoeven",
+    "beer_type": "Belgian Quadrupel"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-06T18:56:36+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Porter & Sons Salted Caramel 2024",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Porter - Other"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-06T18:52:31+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Inspector Hoosh Hash 2025",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-06T18:44:34+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Cactus Sour",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-06T18:42:59+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "Tea Party: Masala",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pale Ale - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-06T18:27:21+00:00",
+    "serving": "bottle",
+    "rating": 5.0,
+    "beer_name": "Bigfoot (2026)",
+    "brewery": "Sierra Nevada Brewing Co.",
+    "beer_type": "Barleywine - American"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-06T18:25:11+00:00",
+    "serving": "Unknown",
+    "rating": 4.25,
+    "beer_name": "Kelly's Green Pony",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-06T18:24:50+00:00",
+    "serving": "bottle",
+    "rating": 4.5,
+    "beer_name": "Bigfoot (2026)",
+    "brewery": "Sierra Nevada Brewing Co.",
+    "beer_type": "Barleywine - American"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-06T18:20:08+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Hazy Little Thing",
+    "brewery": "Sierra Nevada Brewing Co.",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-06T18:03:29+00:00",
+    "serving": "draft",
+    "rating": 5.0,
+    "beer_name": "Torpedo Extra IPA",
+    "brewery": "Sierra Nevada Brewing Co.",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-06T18:02:56+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Pale Ale",
+    "brewery": "Sierra Nevada Brewing Co.",
+    "beer_type": "Pale Ale - American"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-06T18:02:07+00:00",
+    "serving": "bottle",
+    "rating": 2.25,
+    "beer_name": "Passiflora (פסיפלורה) - Passion Fruit Ale",
+    "brewery": "Negev Brewery (נגב)",
+    "beer_type": "Fruit Beer"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-06T17:47:26+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Unfiltered Lager",
+    "brewery": "Isis Desert Brewery (מבשלת הנגב המערבי)",
+    "beer_type": "Lager - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-06T17:40:16+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Torpedo Extra IPA",
+    "brewery": "Sierra Nevada Brewing Co.",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-06T17:39:57+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "Hazy Little Thing",
+    "brewery": "Sierra Nevada Brewing Co.",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-06T17:31:12+00:00",
+    "serving": "draft",
+    "rating": 4.5,
+    "beer_name": "Hazy Little Thing",
+    "brewery": "Sierra Nevada Brewing Co.",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-06T17:00:04+00:00",
+    "serving": "draft",
+    "rating": 5.0,
+    "beer_name": "Springfest",
+    "brewery": "Sierra Nevada Brewing Co.",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-06T16:27:28+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "Springfest",
+    "brewery": "Sierra Nevada Brewing Co.",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-06T14:49:27+00:00",
+    "serving": "Unknown",
+    "rating": 4.5,
+    "beer_name": "Wolfgang",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Lager - Vienna"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-06T14:15:34+00:00",
+    "serving": "draft",
+    "rating": 4.5,
+    "beer_name": "Twist & Stout",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Stout - Irish Dry"
+  },
   {
     "venue": "lauter",
     "time": "2026-05-05T18:52:54+00:00",
