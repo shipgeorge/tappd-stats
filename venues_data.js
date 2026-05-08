@@ -1,8 +1,458 @@
 // 🍺 BEER STATS DATA - Generated automatically
-// Last updated: 2026-05-07 08:45:08
-// Total records: 15790
+// Last updated: 2026-05-08 07:51:55
+// Total records: 15840
 
 const BEER_DATA = [
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-07T21:16:52+00:00",
+    "serving": "Unknown",
+    "rating": 3.25,
+    "beer_name": "Cactus Sour",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-07T21:03:20+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Kriek de Schaerbeek Tilquin - Draft Version",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": "Lambic - Kriek"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-07T20:56:29+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Elderflower",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pale Ale - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-07T20:39:06+00:00",
+    "serving": "draft",
+    "rating": 3.0,
+    "beer_name": "Unfiltered Lager",
+    "brewery": "Isis Desert Brewery (מבשלת הנגב המערבי)",
+    "beer_type": "Lager - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-07T20:27:16+00:00",
+    "serving": "bottle",
+    "rating": 3.7,
+    "beer_name": "קצוות",
+    "brewery": "Hamatsesa (המתססה)",
+    "beer_type": "Cider - Dry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-07T19:37:24+00:00",
+    "serving": "can",
+    "rating": 3.6,
+    "beer_name": "Aurora Borealis 15",
+    "brewery": "Rodinný pivovar Zichovec",
+    "beer_type": "IPA - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-07T19:33:37+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Snowtown",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-07T19:29:33+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Benediktiner Hell",
+    "brewery": "Benediktiner Weissbräu",
+    "beer_type": "Lager - Helles"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-07T19:27:02+00:00",
+    "serving": "can",
+    "rating": 3.6,
+    "beer_name": "Snowtown",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-07T19:25:07+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Elderflower",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pale Ale - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-07T19:23:49+00:00",
+    "serving": "can",
+    "rating": 3.6,
+    "beer_name": "Elderflower",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pale Ale - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-07T19:21:53+00:00",
+    "serving": "can",
+    "rating": 4.5,
+    "beer_name": "Torpedo Extra IPA",
+    "brewery": "Sierra Nevada Brewing Co.",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-07T19:21:22+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "רוביקון",
+    "brewery": "New Pioneer Brewing Co - חלוץ חדש",
+    "beer_type": "Brown Ale - American"
+  },
+  {
+    "venue": "beerz",
+    "time": "2026-05-07T19:17:29+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Hobgoblin IPA",
+    "brewery": "Marston's Brewery",
+    "beer_type": "IPA - English"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-07T19:17:24+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "Springfest",
+    "brewery": "Sierra Nevada Brewing Co.",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "beerz",
+    "time": "2026-05-07T19:16:46+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Hazy Queen",
+    "brewery": "HORIZONT Brewing",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-07T19:11:23+00:00",
+    "serving": "draft",
+    "rating": 3.7,
+    "beer_name": "Unfiltered Lager",
+    "brewery": "Isis Desert Brewery (מבשלת הנגב המערבי)",
+    "beer_type": "Lager - Other"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-07T19:00:48+00:00",
+    "serving": "Unknown",
+    "rating": 4.5,
+    "beer_name": "I Love the Smell of Strata In the Morning",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-07T19:00:12+00:00",
+    "serving": "Unknown",
+    "rating": 3.0,
+    "beer_name": "I'll Be Bock",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Bock - Single / Traditional"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-07T18:51:41+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "Sessionista",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-07T18:48:15+00:00",
+    "serving": "draft",
+    "rating": 3.6,
+    "beer_name": "Springfest",
+    "brewery": "Sierra Nevada Brewing Co.",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-07T18:46:18+00:00",
+    "serving": "can",
+    "rating": 3.6,
+    "beer_name": "Staropramen Premium / Ležák 12",
+    "brewery": "Pivovary Staropramen",
+    "beer_type": "Pilsner - Czech / Bohemian"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-07T18:33:45+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "Stoutment",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Stout - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-07T18:23:11+00:00",
+    "serving": "draft",
+    "rating": 4.5,
+    "beer_name": "Kriek de Schaerbeek Tilquin - Draft Version",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": "Lambic - Kriek"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-07T18:20:22+00:00",
+    "serving": "draft",
+    "rating": 3.8,
+    "beer_name": "Pale Ale",
+    "brewery": "Sierra Nevada Brewing Co.",
+    "beer_type": "Pale Ale - American"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-07T18:19:22+00:00",
+    "serving": "Unknown",
+    "rating": 3.25,
+    "beer_name": "Inspector Hoosh Hash 2025",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-07T18:15:13+00:00",
+    "serving": "draft",
+    "rating": 3.1,
+    "beer_name": "Torpedo Extra IPA",
+    "brewery": "Sierra Nevada Brewing Co.",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-07T18:14:07+00:00",
+    "serving": "draft",
+    "rating": 3.7,
+    "beer_name": "Hazy Little Thing",
+    "brewery": "Sierra Nevada Brewing Co.",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-07T18:13:37+00:00",
+    "serving": "draft",
+    "rating": 3.25,
+    "beer_name": "Torpedo Extra IPA",
+    "brewery": "Sierra Nevada Brewing Co.",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-07T18:12:27+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Hazy Little Thing",
+    "brewery": "Sierra Nevada Brewing Co.",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-07T18:04:39+00:00",
+    "serving": "bottle",
+    "rating": 4.0,
+    "beer_name": "שוער הלילה 2024 Night Porter",
+    "brewery": "New Pioneer Brewing Co - חלוץ חדש",
+    "beer_type": "Stout - Imperial / Double"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-07T17:53:42+00:00",
+    "serving": "draft",
+    "rating": 3.4,
+    "beer_name": "Unfiltered Lager",
+    "brewery": "Isis Desert Brewery (מבשלת הנגב המערבי)",
+    "beer_type": "Lager - Other"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-07T17:29:22+00:00",
+    "serving": "draft",
+    "rating": 3.25,
+    "beer_name": "Cheers Alenbeer",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - Session"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-07T17:03:14+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "Torpedo Extra IPA",
+    "brewery": "Sierra Nevada Brewing Co.",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-07T17:03:03+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "I'll Be Bock",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Bock - Single / Traditional"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-07T16:39:02+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "רוביקון",
+    "brewery": "New Pioneer Brewing Co - חלוץ חדש",
+    "beer_type": "Brown Ale - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-07T16:37:21+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "Hazy Little Thing",
+    "brewery": "Sierra Nevada Brewing Co.",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "porter-and-sons",
+    "time": "2026-05-07T16:26:49+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Pale Ale",
+    "brewery": "Sierra Nevada Brewing Co.",
+    "beer_type": "Pale Ale - American"
+  },
+  {
+    "venue": "porter-and-sons",
+    "time": "2026-05-07T16:14:22+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Tucher Pils",
+    "brewery": "Tucher Bräu",
+    "beer_type": "Pilsner - German"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-07T16:13:02+00:00",
+    "serving": "draft",
+    "rating": 3.25,
+    "beer_name": "Pale Ale",
+    "brewery": "Sierra Nevada Brewing Co.",
+    "beer_type": "Pale Ale - American"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-07T14:11:48+00:00",
+    "serving": "Unknown",
+    "rating": 3.25,
+    "beer_name": "I Love the Smell of Strata In the Morning",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-07T14:00:42+00:00",
+    "serving": "draft",
+    "rating": 4.5,
+    "beer_name": "Lazy Bee Classic",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Mead - Session / Short"
+  },
+  {
+    "venue": "berlin-florentin",
+    "time": "2026-05-07T13:37:38+00:00",
+    "serving": "can",
+    "rating": 3.2,
+    "beer_name": "Forever Brewing Sorbet Line #3",
+    "brewery": "Волинський бровар",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-07T12:51:18+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "Hoppy Ever After",
+    "brewery": "New Pioneer Brewing Co - חלוץ חדש",
+    "beer_type": "Pale Ale - New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-07T11:03:31+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Wolfgang",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Lager - Vienna"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-07T10:44:20+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Double Hazy",
+    "brewery": "BrewDog",
+    "beer_type": "IPA - Imperial / Double New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-07T09:57:52+00:00",
+    "serving": "draft",
+    "rating": 4.5,
+    "beer_name": "Stoutment",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Stout - Other"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-07T09:50:58+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Inspector Hoosh Hash 2025",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "berlin-florentin",
+    "time": "2026-05-07T09:47:49+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Orange Crush",
+    "brewery": "BrewDog",
+    "beer_type": "IPA - Fruited"
+  },
+  {
+    "venue": "berlin-florentin",
+    "time": "2026-05-07T09:45:49+00:00",
+    "serving": "can",
+    "rating": 3.1,
+    "beer_name": "Orange Crush",
+    "brewery": "BrewDog",
+    "beer_type": "IPA - Fruited"
+  },
   {
     "venue": "ursa",
     "time": "2026-05-07T08:34:27+00:00",
