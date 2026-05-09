@@ -1,8 +1,827 @@
 // 🍺 BEER STATS DATA - Generated automatically
-// Last updated: 2026-05-08 07:51:55
-// Total records: 15840
+// Last updated: 2026-05-09 08:05:57
+// Total records: 15931
 
 const BEER_DATA = [
+  {
+    "venue": "lauter",
+    "time": "2026-05-08T22:34:56+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "Buster's Cranberry Lemonade",
+    "brewery": "Oak & Ash",
+    "beer_type": "Malt Liquor"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-08T20:23:28+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "CHOPPING WOOD",
+    "brewery": "Evil Twin Brewing NYC",
+    "beer_type": "IPA - Imperial / Double New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-08T17:51:44+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "Ice Ice Bockbier",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Bock - Eisbock"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-08T17:45:24+00:00",
+    "serving": "bottle",
+    "rating": 4.0,
+    "beer_name": "Samichlaus Classic (2025)",
+    "brewery": "Schloss Eggenberg",
+    "beer_type": "Malt Liquor"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-08T17:39:01+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Ice Ice Bockbier",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Bock - Eisbock"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-08T17:19:36+00:00",
+    "serving": "can",
+    "rating": 3.25,
+    "beer_name": "Shore Leave",
+    "brewery": "BrewDog",
+    "beer_type": "Red Ale - American Amber / Red"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-08T17:17:57+00:00",
+    "serving": "bottle",
+    "rating": 3.75,
+    "beer_name": "Samichlaus Classic (2025)",
+    "brewery": "Schloss Eggenberg",
+    "beer_type": "Malt Liquor"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-08T17:00:11+00:00",
+    "serving": "bottle",
+    "rating": 4.0,
+    "beer_name": "Chimay Grande Réserve (Blue) (2025)",
+    "brewery": "Bières de Chimay",
+    "beer_type": "Belgian Strong Dark Ale"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-08T16:50:49+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Chimay Grande Réserve (Blue) (2025)",
+    "brewery": "Bières de Chimay",
+    "beer_type": "Belgian Strong Dark Ale"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-08T16:50:01+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "Chimay Grande Réserve (Blue) (2025)",
+    "brewery": "Bières de Chimay",
+    "beer_type": "Belgian Strong Dark Ale"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-08T16:48:52+00:00",
+    "serving": "bottle",
+    "rating": 4.0,
+    "beer_name": "Chimay Grande Réserve (Blue) (2025)",
+    "brewery": "Bières de Chimay",
+    "beer_type": "Belgian Strong Dark Ale"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-08T16:47:03+00:00",
+    "serving": "bottle",
+    "rating": 5.0,
+    "beer_name": "Chimay Grande Réserve (Blue) (2025)",
+    "brewery": "Bières de Chimay",
+    "beer_type": "Belgian Strong Dark Ale"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-08T16:17:06+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Jupiter",
+    "brewery": "Moersleutel Craft Brewery",
+    "beer_type": "IPA - Triple"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-08T16:14:28+00:00",
+    "serving": "draft",
+    "rating": 2.75,
+    "beer_name": "I'll Be Bock",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Bock - Single / Traditional"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-08T15:51:32+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "El Hombre",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Lager - Mexican"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-08T15:12:59+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Springfest",
+    "brewery": "Sierra Nevada Brewing Co.",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-08T14:57:19+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Weissman",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Wheat Beer - Hefeweizen"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-08T14:56:14+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Cheers Alenbeer",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - Session"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-08T14:45:33+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "האימפריה מכה שניט",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-08T14:45:11+00:00",
+    "serving": "draft",
+    "rating": 4.5,
+    "beer_name": "Springfest",
+    "brewery": "Sierra Nevada Brewing Co.",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-08T14:36:51+00:00",
+    "serving": "draft",
+    "rating": 4.5,
+    "beer_name": "Gueuze Tilquin – Draft Version",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": "Lambic - Gueuze"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-08T14:33:53+00:00",
+    "serving": "bottle",
+    "rating": 4.5,
+    "beer_name": "Open Craft 2025: Banana, Kiwi, Mango, Lime x Pineapple",
+    "brewery": "Nepo Brewing",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-08T14:26:52+00:00",
+    "serving": "draft",
+    "rating": 4.75,
+    "beer_name": "Buster's Cranberry Lemonade",
+    "brewery": "Oak & Ash",
+    "beer_type": "Malt Liquor"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-08T14:26:48+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Cheers Alenbeer",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - Session"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-08T14:26:07+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Ice Ice Bockbier",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Bock - Eisbock"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-08T14:26:00+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Oasis",
+    "brewery": "Negev Brewery (נגב)",
+    "beer_type": "Blonde / Golden Ale - Other"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-08T14:20:50+00:00",
+    "serving": "draft",
+    "rating": 3.25,
+    "beer_name": "Ice Ice Bockbier",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Bock - Eisbock"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-08T14:05:49+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "I Love the Smell of Strata In the Morning",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-08T14:05:01+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "Cheers Alenbeer",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - Session"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-08T14:05:01+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Helix",
+    "brewery": "Equilibrium Brewery",
+    "beer_type": "Pilsner - German"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-08T14:04:15+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "רוביקון",
+    "brewery": "New Pioneer Brewing Co - חלוץ חדש",
+    "beer_type": "Brown Ale - American"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-08T14:04:02+00:00",
+    "serving": "draft",
+    "rating": 3.25,
+    "beer_name": "Ice Ice Bockbier",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Bock - Eisbock"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-08T13:59:02+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Cheers Alenbeer",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - Session"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-08T13:58:32+00:00",
+    "serving": "bottle",
+    "rating": 4.0,
+    "beer_name": "Oude Airelle Sauvage Tilquin à l'Ancienne (2021-2022)",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "berlin-florentin",
+    "time": "2026-05-08T13:50:08+00:00",
+    "serving": "bottle",
+    "rating": 4.25,
+    "beer_name": "Rullquin au café du Rwanda",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": "Sour - Other"
+  },
+  {
+    "venue": "berlin-florentin",
+    "time": "2026-05-08T13:49:55+00:00",
+    "serving": "draft",
+    "rating": 5.0,
+    "beer_name": "Guinness Draught",
+    "brewery": "Guinness",
+    "beer_type": "Stout - Irish Dry"
+  },
+  {
+    "venue": "berlin-florentin",
+    "time": "2026-05-08T13:46:13+00:00",
+    "serving": "bottle",
+    "rating": 4.0,
+    "beer_name": "Rullquin au café du Rwanda",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": "Sour - Other"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-08T13:20:49+00:00",
+    "serving": "draft",
+    "rating": 5.0,
+    "beer_name": "Torpedo Extra IPA",
+    "brewery": "Sierra Nevada Brewing Co.",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "berlin-florentin",
+    "time": "2026-05-08T13:11:52+00:00",
+    "serving": "Unknown",
+    "rating": 4.75,
+    "beer_name": "Guinness Draught",
+    "brewery": "Guinness",
+    "beer_type": "Stout - Irish Dry"
+  },
+  {
+    "venue": "berlin-florentin",
+    "time": "2026-05-08T12:59:38+00:00",
+    "serving": "can",
+    "rating": 2.75,
+    "beer_name": "Naughty Lister",
+    "brewery": "BrewDog",
+    "beer_type": "Lager - Vienna"
+  },
+  {
+    "venue": "berlin-florentin",
+    "time": "2026-05-08T12:44:50+00:00",
+    "serving": "bottle",
+    "rating": 5.0,
+    "beer_name": "Oude Gueuze Tilquin à l'Ancienne (2020-2021)",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": "Lambic - Gueuze"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-08T12:44:24+00:00",
+    "serving": "draft",
+    "rating": 3.25,
+    "beer_name": "El Hombre",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Lager - Mexican"
+  },
+  {
+    "venue": "berlin-florentin",
+    "time": "2026-05-08T12:20:54+00:00",
+    "serving": "bottle",
+    "rating": 3.7,
+    "beer_name": "La Chouffe Blond / Big Chouffe (2022)",
+    "brewery": "Brasserie d'Achouffe",
+    "beer_type": "Belgian Strong Golden Ale"
+  },
+  {
+    "venue": "berlin-florentin",
+    "time": "2026-05-08T12:20:32+00:00",
+    "serving": "bottle",
+    "rating": 3.75,
+    "beer_name": "La Chouffe Blond / Big Chouffe (2022)",
+    "brewery": "Brasserie d'Achouffe",
+    "beer_type": "Belgian Strong Golden Ale"
+  },
+  {
+    "venue": "berlin-florentin",
+    "time": "2026-05-08T12:19:41+00:00",
+    "serving": "bottle",
+    "rating": 3.75,
+    "beer_name": "La Chouffe Blond / Big Chouffe (2022)",
+    "brewery": "Brasserie d'Achouffe",
+    "beer_type": "Belgian Strong Golden Ale"
+  },
+  {
+    "venue": "berlin-florentin",
+    "time": "2026-05-08T12:17:46+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "Guinness Draught",
+    "brewery": "Guinness",
+    "beer_type": "Stout - Irish Dry"
+  },
+  {
+    "venue": "berlin-florentin",
+    "time": "2026-05-08T12:17:25+00:00",
+    "serving": "bottle",
+    "rating": 4.5,
+    "beer_name": "Pescharina (Oogst 2022)",
+    "brewery": "Boerenerf",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "berlin-florentin",
+    "time": "2026-05-08T12:16:27+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "Kriekenlambiek",
+    "brewery": "Oud Beersel",
+    "beer_type": "Lambic - Kriek"
+  },
+  {
+    "venue": "berlin-florentin",
+    "time": "2026-05-08T12:14:29+00:00",
+    "serving": "Unknown",
+    "rating": 4.5,
+    "beer_name": "Pescharina (Oogst 2022)",
+    "brewery": "Boerenerf",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "berlin-florentin",
+    "time": "2026-05-08T12:01:13+00:00",
+    "serving": "Unknown",
+    "rating": 4.75,
+    "beer_name": "Guinness Draught",
+    "brewery": "Guinness",
+    "beer_type": "Stout - Irish Dry"
+  },
+  {
+    "venue": "berlin-florentin",
+    "time": "2026-05-08T11:54:19+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Speedbird OG Transatlantic IPA",
+    "brewery": "BrewDog",
+    "beer_type": "IPA - Session"
+  },
+  {
+    "venue": "berlin-florentin",
+    "time": "2026-05-08T11:39:41+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Guinness Draught",
+    "brewery": "Guinness",
+    "beer_type": "Stout - Irish Dry"
+  },
+  {
+    "venue": "berlin-florentin",
+    "time": "2026-05-08T11:28:53+00:00",
+    "serving": "draft",
+    "rating": 4.75,
+    "beer_name": "Guinness Draught",
+    "brewery": "Guinness",
+    "beer_type": "Stout - Irish Dry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-08T11:28:46+00:00",
+    "serving": "draft",
+    "rating": 2.5,
+    "beer_name": "Bitburger 0,0% alkoholfreies Pils",
+    "brewery": "Bitburger Brauerei",
+    "beer_type": "Non-Alcoholic - Lager"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-08T11:28:11+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Elderflower",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pale Ale - Other"
+  },
+  {
+    "venue": "berlin-florentin",
+    "time": "2026-05-08T11:16:40+00:00",
+    "serving": "can",
+    "rating": 4.5,
+    "beer_name": "Baby Hazy",
+    "brewery": "BrewDog",
+    "beer_type": "IPA - Session New England / Hazy"
+  },
+  {
+    "venue": "berlin-florentin",
+    "time": "2026-05-08T10:51:39+00:00",
+    "serving": "bottle",
+    "rating": 4.5,
+    "beer_name": "Loemerte Oude Cider (2023)",
+    "brewery": "Boerenerf",
+    "beer_type": "Cider - Dry"
+  },
+  {
+    "venue": "berlin-florentin",
+    "time": "2026-05-08T10:50:19+00:00",
+    "serving": "bottle",
+    "rating": 4.3,
+    "beer_name": "Loemerte Oude Cider",
+    "brewery": "Boerenerf",
+    "beer_type": "Cider - Dry"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-08T10:49:24+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Blueberry Brioche",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pale Ale - Other"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-08T10:48:26+00:00",
+    "serving": "draft",
+    "rating": 3.25,
+    "beer_name": "El Hombre",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Lager - Mexican"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-08T10:48:17+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "Ice Ice Bockbier",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Bock - Eisbock"
+  },
+  {
+    "venue": "berlin-florentin",
+    "time": "2026-05-08T10:48:10+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Guinness Draught",
+    "brewery": "Guinness",
+    "beer_type": "Stout - Irish Dry"
+  },
+  {
+    "venue": "berlin-florentin",
+    "time": "2026-05-08T10:47:43+00:00",
+    "serving": "bottle",
+    "rating": 4.3,
+    "beer_name": "Loemerte Oude Cider (2023)",
+    "brewery": "Boerenerf",
+    "beer_type": "Cider - Dry"
+  },
+  {
+    "venue": "berlin-florentin",
+    "time": "2026-05-08T10:46:16+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Guinness Draught",
+    "brewery": "Guinness",
+    "beer_type": "Stout - Irish Dry"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-08T10:45:36+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Blueberry Brioche",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pale Ale - Other"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-08T10:44:58+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Ice Ice Bockbier",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Bock - Eisbock"
+  },
+  {
+    "venue": "berlin-florentin",
+    "time": "2026-05-08T10:42:55+00:00",
+    "serving": "bottle",
+    "rating": 4.4,
+    "beer_name": "Loemerte Oude Cider (2023)",
+    "brewery": "Boerenerf",
+    "beer_type": "Cider - Dry"
+  },
+  {
+    "venue": "berlin-florentin",
+    "time": "2026-05-08T10:41:49+00:00",
+    "serving": "bottle",
+    "rating": 4.25,
+    "beer_name": "Loemerte Oude Cider (2023)",
+    "brewery": "Boerenerf",
+    "beer_type": "Cider - Dry"
+  },
+  {
+    "venue": "berlin-florentin",
+    "time": "2026-05-08T10:37:31+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Biet (2023 - Bottle)",
+    "brewery": "Boerenerf",
+    "beer_type": "Lambic - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-08T10:32:13+00:00",
+    "serving": "draft",
+    "rating": null,
+    "beer_name": "Torpedo Extra IPA",
+    "brewery": "Sierra Nevada Brewing Co.",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-08T10:29:04+00:00",
+    "serving": "Unknown",
+    "rating": 3.25,
+    "beer_name": "El Hombre",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Lager - Mexican"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-08T10:20:32+00:00",
+    "serving": "draft",
+    "rating": 2.75,
+    "beer_name": "Bitburger 0,0% alkoholfreies Pils",
+    "brewery": "Bitburger Brauerei",
+    "beer_type": "Non-Alcoholic - Lager"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-08T10:11:19+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Ice Ice Bockbier",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Bock - Eisbock"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-08T10:10:51+00:00",
+    "serving": "draft",
+    "rating": null,
+    "beer_name": "Frenemy",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pale Ale - American"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-08T10:08:37+00:00",
+    "serving": "draft",
+    "rating": 5.0,
+    "beer_name": "רוביקון",
+    "brewery": "New Pioneer Brewing Co - חלוץ חדש",
+    "beer_type": "Brown Ale - American"
+  },
+  {
+    "venue": "berlin-florentin",
+    "time": "2026-05-08T09:27:44+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Guinness Draught",
+    "brewery": "Guinness",
+    "beer_type": "Stout - Irish Dry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-08T08:52:56+00:00",
+    "serving": "can",
+    "rating": 4.5,
+    "beer_name": "White Chocolate Raspberry Snowies",
+    "brewery": "Vault City Brewing",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-08T08:49:19+00:00",
+    "serving": "can",
+    "rating": null,
+    "beer_name": "White Chocolate Raspberry Snowies",
+    "brewery": "Vault City Brewing",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-08T08:44:54+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Ta Moko",
+    "brewery": "Malka (מלכה)",
+    "beer_type": "IPA - New Zealand"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-08T08:44:30+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "רוביקון",
+    "brewery": "New Pioneer Brewing Co - חלוץ חדש",
+    "beer_type": "Brown Ale - American"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-08T08:34:54+00:00",
+    "serving": "can",
+    "rating": null,
+    "beer_name": "Nebulous Trail",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-08T08:23:29+00:00",
+    "serving": "can",
+    "rating": 4.75,
+    "beer_name": "Nebulous Trail",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-08T08:22:24+00:00",
+    "serving": "can",
+    "rating": 4.75,
+    "beer_name": "Nebulous Trail",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-08T08:19:35+00:00",
+    "serving": "draft",
+    "rating": 4.5,
+    "beer_name": "Strawberry Sundae",
+    "brewery": "Vault City Brewing",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-08T08:17:36+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Helix",
+    "brewery": "Equilibrium Brewery",
+    "beer_type": "Pilsner - German"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-08T08:17:17+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "רוביקון",
+    "brewery": "New Pioneer Brewing Co - חלוץ חדש",
+    "beer_type": "Brown Ale - American"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-08T08:15:28+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Strawberry Sundae",
+    "brewery": "Vault City Brewing",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-08T08:06:50+00:00",
+    "serving": "draft",
+    "rating": 4.5,
+    "beer_name": "Hoppy Ever After",
+    "brewery": "New Pioneer Brewing Co - חלוץ חדש",
+    "beer_type": "Pale Ale - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-08T07:59:53+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Hazy Little Thing",
+    "brewery": "Sierra Nevada Brewing Co.",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-08T07:59:14+00:00",
+    "serving": "draft",
+    "rating": 3.8,
+    "beer_name": "Springfest",
+    "brewery": "Sierra Nevada Brewing Co.",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-08T07:58:02+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Torpedo Extra IPA",
+    "brewery": "Sierra Nevada Brewing Co.",
+    "beer_type": "IPA - American"
+  },
   {
     "venue": "schnitt-brewing-company",
     "time": "2026-05-07T21:16:52+00:00",

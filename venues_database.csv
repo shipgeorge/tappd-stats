@@ -1,4 +1,95 @@
 venue,user,time,serving,data_rating,beer_name,brewery,beer_type
+lauter,Nadav Cohen,"Fri, 08 May 2026 22:34:56 +0000",,3.75,Buster's Cranberry Lemonade,Oak & Ash,Malt Liquor
+lauter,einavushlan,"Fri, 08 May 2026 20:23:28 +0000",can,4.25,CHOPPING WOOD,Evil Twin Brewing NYC,IPA - Imperial / Double New England / Hazy
+schnitt-brewing-company,David Siegel,"Fri, 08 May 2026 17:51:44 +0000",,3.5,Ice Ice Bockbier,Schnitt Brewing Company﻿,Bock - Eisbock
+lauter,Kelly Inbar,"Fri, 08 May 2026 17:45:24 +0000",bottle,4.0,Samichlaus Classic (2025),Schloss Eggenberg,Malt Liquor
+schnitt-brewing-company,Shmupi Koto,"Fri, 08 May 2026 17:39:01 +0000",,,Ice Ice Bockbier,Schnitt Brewing Company﻿,Bock - Eisbock
+lauter,einavushlan,"Fri, 08 May 2026 17:19:36 +0000",can,3.25,Shore Leave,BrewDog,Red Ale - American Amber / Red
+lauter,Nir Langer,"Fri, 08 May 2026 17:17:57 +0000",bottle,3.75,Samichlaus Classic (2025),Schloss Eggenberg,Malt Liquor
+lauter,Nir Langer,"Fri, 08 May 2026 17:00:11 +0000",bottle,4.0,Chimay Grande Réserve (Blue) (2025),Bières de Chimay,Belgian Strong Dark Ale
+lauter,einavushlan,"Fri, 08 May 2026 16:50:49 +0000",can,3.5,Chimay Grande Réserve (Blue) (2025),Bières de Chimay,Belgian Strong Dark Ale
+lauter,Elad Schitrit,"Fri, 08 May 2026 16:50:01 +0000",,3.5,Chimay Grande Réserve (Blue) (2025),Bières de Chimay,Belgian Strong Dark Ale
+lauter,Kelly Inbar,"Fri, 08 May 2026 16:48:52 +0000",bottle,4.0,Chimay Grande Réserve (Blue) (2025),Bières de Chimay,Belgian Strong Dark Ale
+lauter,UV R,"Fri, 08 May 2026 16:47:03 +0000",bottle,5.0,Chimay Grande Réserve (Blue) (2025),Bières de Chimay,Belgian Strong Dark Ale
+lauter,Elad Schitrit,"Fri, 08 May 2026 16:17:06 +0000",can,4.0,Jupiter,Moersleutel Craft Brewery,IPA - Triple
+schnitt-brewing-company,Yuval Shalom,"Fri, 08 May 2026 16:14:28 +0000",draft,2.75,I'll Be Bock,Schnitt Brewing Company﻿,Bock - Single / Traditional
+schnitt-brewing-company,Omri Gill,"Fri, 08 May 2026 15:51:32 +0000",draft,3.75,El Hombre,Schnitt Brewing Company﻿,Lager - Mexican
+lauter,Andrey Granovsky,"Fri, 08 May 2026 15:12:59 +0000",draft,3.5,Springfest,Sierra Nevada Brewing Co.,IPA - American
+schnitt-brewing-company,Женя Захарко́ва,"Fri, 08 May 2026 14:57:19 +0000",draft,3.5,Weissman,Schnitt Brewing Company﻿,Wheat Beer - Hefeweizen
+schnitt-brewing-company,Dmitry Kurkin,"Fri, 08 May 2026 14:56:14 +0000",draft,3.5,Cheers Alenbeer,Schnitt Brewing Company﻿,IPA - Session
+schnitt-brewing-company,Vladimir Kanevsky,"Fri, 08 May 2026 14:45:33 +0000",draft,4.0,האימפריה מכה שניט,Schnitt Brewing Company﻿,IPA - American
+lauter,Kelly Inbar,"Fri, 08 May 2026 14:45:11 +0000",draft,4.5,Springfest,Sierra Nevada Brewing Co.,IPA - American
+lauter,Shmupi Koto,"Fri, 08 May 2026 14:36:51 +0000",draft,4.5,Gueuze Tilquin – Draft Version,Gueuzerie Tilquin,Lambic - Gueuze
+lauter,dafi20,"Fri, 08 May 2026 14:33:53 +0000",bottle,4.5,"Open Craft 2025: Banana, Kiwi, Mango, Lime x Pineapple",Nepo Brewing,Sour - Smoothie / Pastry
+lauter,dafi20,"Fri, 08 May 2026 14:26:52 +0000",draft,4.75,Buster's Cranberry Lemonade,Oak & Ash,Malt Liquor
+schnitt-brewing-company,Andrey Granovsky,"Fri, 08 May 2026 14:26:48 +0000",draft,3.75,Cheers Alenbeer,Schnitt Brewing Company﻿,IPA - Session
+schnitt-brewing-company,Andrey Granovsky,"Fri, 08 May 2026 14:26:07 +0000",draft,3.5,Ice Ice Bockbier,Schnitt Brewing Company﻿,Bock - Eisbock
+lauter,dafi20,"Fri, 08 May 2026 14:26:00 +0000",draft,3.5,Oasis,Negev Brewery (נגב),Blonde / Golden Ale - Other
+schnitt-brewing-company,Dr Troubles,"Fri, 08 May 2026 14:20:50 +0000",draft,3.25,Ice Ice Bockbier,Schnitt Brewing Company﻿,Bock - Eisbock
+b7-beer-house,Oren Hazan,"Fri, 08 May 2026 14:05:49 +0000",draft,4.0,I Love the Smell of Strata In the Morning,Sibeeria Brewery,IPA - American
+schnitt-brewing-company,Yoav Kowalski,"Fri, 08 May 2026 14:05:01 +0000",,3.5,Cheers Alenbeer,Schnitt Brewing Company﻿,IPA - Session
+b7-beer-house,Oren Hazan,"Fri, 08 May 2026 14:05:01 +0000",draft,4.0,Helix,Equilibrium Brewery,Pilsner - German
+b7-beer-house,Oren Hazan,"Fri, 08 May 2026 14:04:15 +0000",draft,3.75,רוביקון,New Pioneer Brewing Co - חלוץ חדש,Brown Ale - American
+schnitt-brewing-company,Yoav Kowalski,"Fri, 08 May 2026 14:04:02 +0000",draft,3.25,Ice Ice Bockbier,Schnitt Brewing Company﻿,Bock - Eisbock
+schnitt-brewing-company,Vladimir Kanevsky,"Fri, 08 May 2026 13:59:02 +0000",draft,4.0,Cheers Alenbeer,Schnitt Brewing Company﻿,IPA - Session
+lauter,Elad Schitrit,"Fri, 08 May 2026 13:58:32 +0000",bottle,4.0,Oude Airelle Sauvage Tilquin à l'Ancienne (2021-2022),Gueuzerie Tilquin,Lambic - Fruit
+berlin-florentin,Nahum Haver,"Fri, 08 May 2026 13:50:08 +0000",bottle,4.25,Rullquin au café du Rwanda,Gueuzerie Tilquin,Sour - Other
+berlin-florentin,BarLahav,"Fri, 08 May 2026 13:49:55 +0000",draft,5.0,Guinness Draught,Guinness,Stout - Irish Dry
+berlin-florentin,Bilbo Sios,"Fri, 08 May 2026 13:46:13 +0000",bottle,4.0,Rullquin au café du Rwanda,Gueuzerie Tilquin,Sour - Other
+schnitt-brewing-company,Vladimir Kanevsky,"Fri, 08 May 2026 13:20:49 +0000",draft,5.0,Torpedo Extra IPA,Sierra Nevada Brewing Co.,IPA - American
+berlin-florentin,Nir Langer,"Fri, 08 May 2026 13:11:52 +0000",,4.75,Guinness Draught,Guinness,Stout - Irish Dry
+berlin-florentin,BarLahav,"Fri, 08 May 2026 12:59:38 +0000",can,2.75,Naughty Lister,BrewDog,Lager - Vienna
+berlin-florentin,BarLahav,"Fri, 08 May 2026 12:44:50 +0000",bottle,5.0,Oude Gueuze Tilquin à l'Ancienne (2020-2021),Gueuzerie Tilquin,Lambic - Gueuze
+schnitt-brewing-company,ירדן עינה,"Fri, 08 May 2026 12:44:24 +0000",draft,3.25,El Hombre,Schnitt Brewing Company﻿,Lager - Mexican
+berlin-florentin,Stas Pruchansky,"Fri, 08 May 2026 12:20:54 +0000",bottle,3.7,La Chouffe Blond / Big Chouffe (2022),Brasserie d'Achouffe,Belgian Strong Golden Ale
+berlin-florentin,Dmitry Grabak,"Fri, 08 May 2026 12:20:32 +0000",bottle,3.75,La Chouffe Blond / Big Chouffe (2022),Brasserie d'Achouffe,Belgian Strong Golden Ale
+berlin-florentin,BarLahav,"Fri, 08 May 2026 12:19:41 +0000",bottle,3.75,La Chouffe Blond / Big Chouffe (2022),Brasserie d'Achouffe,Belgian Strong Golden Ale
+berlin-florentin,Dmitry Grabak,"Fri, 08 May 2026 12:17:46 +0000",draft,4.25,Guinness Draught,Guinness,Stout - Irish Dry
+berlin-florentin,Bilbo Sios,"Fri, 08 May 2026 12:17:25 +0000",bottle,4.5,Pescharina (Oogst 2022),Boerenerf,Lambic - Fruit
+berlin-florentin,Dmitry Grabak,"Fri, 08 May 2026 12:16:27 +0000",,3.75,Kriekenlambiek,Oud Beersel,Lambic - Kriek
+berlin-florentin,Dmitry Grabak,"Fri, 08 May 2026 12:14:29 +0000",,4.5,Pescharina (Oogst 2022),Boerenerf,Lambic - Fruit
+berlin-florentin,Nir Langer,"Fri, 08 May 2026 12:01:13 +0000",,4.75,Guinness Draught,Guinness,Stout - Irish Dry
+berlin-florentin,BarLahav,"Fri, 08 May 2026 11:54:19 +0000",can,4.0,Speedbird OG Transatlantic IPA,BrewDog,IPA - Session
+berlin-florentin,Stas Pruchansky,"Fri, 08 May 2026 11:39:41 +0000",draft,4.0,Guinness Draught,Guinness,Stout - Irish Dry
+berlin-florentin,Nir Langer,"Fri, 08 May 2026 11:28:53 +0000",draft,4.75,Guinness Draught,Guinness,Stout - Irish Dry
+lauter,David Siegel,"Fri, 08 May 2026 11:28:46 +0000",draft,2.5,"Bitburger 0,0% alkoholfreies Pils",Bitburger Brauerei,Non-Alcoholic - Lager
+schnitt-brewing-company,Nir Langer,"Fri, 08 May 2026 11:28:11 +0000",,,Elderflower,Schnitt Brewing Company﻿,Pale Ale - Other
+berlin-florentin,BarLahav,"Fri, 08 May 2026 11:16:40 +0000",can,4.5,Baby Hazy,BrewDog,IPA - Session New England / Hazy
+berlin-florentin,Bilbo Sios,"Fri, 08 May 2026 10:51:39 +0000",bottle,4.5,Loemerte Oude Cider (2023),Boerenerf,Cider - Dry
+berlin-florentin,Shmupi Koto,"Fri, 08 May 2026 10:50:19 +0000",bottle,4.3,Loemerte Oude Cider,Boerenerf,Cider - Dry
+schnitt-brewing-company,Elad Schitrit,"Fri, 08 May 2026 10:49:24 +0000",can,3.5,Blueberry Brioche,Schnitt Brewing Company﻿,Pale Ale - Other
+schnitt-brewing-company,Elad Schitrit,"Fri, 08 May 2026 10:48:26 +0000",draft,3.25,El Hombre,Schnitt Brewing Company﻿,Lager - Mexican
+schnitt-brewing-company,AfekStein12,"Fri, 08 May 2026 10:48:17 +0000",,3.75,Ice Ice Bockbier,Schnitt Brewing Company﻿,Bock - Eisbock
+berlin-florentin,Shmupi Koto,"Fri, 08 May 2026 10:48:10 +0000",draft,3.5,Guinness Draught,Guinness,Stout - Irish Dry
+berlin-florentin,Nirit Agiv,"Fri, 08 May 2026 10:47:43 +0000",bottle,4.3,Loemerte Oude Cider (2023),Boerenerf,Cider - Dry
+berlin-florentin,Stas Pruchansky,"Fri, 08 May 2026 10:46:16 +0000",draft,4.0,Guinness Draught,Guinness,Stout - Irish Dry
+schnitt-brewing-company,Nir Langer,"Fri, 08 May 2026 10:45:36 +0000",,,Blueberry Brioche,Schnitt Brewing Company﻿,Pale Ale - Other
+schnitt-brewing-company,Nir Langer,"Fri, 08 May 2026 10:44:58 +0000",,,Ice Ice Bockbier,Schnitt Brewing Company﻿,Bock - Eisbock
+berlin-florentin,Stas Pruchansky,"Fri, 08 May 2026 10:42:55 +0000",bottle,4.4,Loemerte Oude Cider (2023),Boerenerf,Cider - Dry
+berlin-florentin,Dmitry Grabak,"Fri, 08 May 2026 10:41:49 +0000",bottle,4.25,Loemerte Oude Cider (2023),Boerenerf,Cider - Dry
+berlin-florentin,Dmitry Grabak,"Fri, 08 May 2026 10:37:31 +0000",,,Biet (2023 - Bottle),Boerenerf,Lambic - Other
+lauter,YanivMeir1503,"Fri, 08 May 2026 10:32:13 +0000",draft,,Torpedo Extra IPA,Sierra Nevada Brewing Co.,IPA - American
+schnitt-brewing-company,David Siegel,"Fri, 08 May 2026 10:29:04 +0000",,3.25,El Hombre,Schnitt Brewing Company﻿,Lager - Mexican
+lauter,Elad Schitrit,"Fri, 08 May 2026 10:20:32 +0000",draft,2.75,"Bitburger 0,0% alkoholfreies Pils",Bitburger Brauerei,Non-Alcoholic - Lager
+schnitt-brewing-company,Mel Vaserman,"Fri, 08 May 2026 10:11:19 +0000",draft,4.0,Ice Ice Bockbier,Schnitt Brewing Company﻿,Bock - Eisbock
+schnitt-brewing-company,YanivMeir1503,"Fri, 08 May 2026 10:10:51 +0000",draft,,Frenemy,Schnitt Brewing Company﻿,Pale Ale - American
+b7-beer-house,Dima Shleifman,"Fri, 08 May 2026 10:08:37 +0000",draft,5.0,רוביקון,New Pioneer Brewing Co - חלוץ חדש,Brown Ale - American
+berlin-florentin,Stas Pruchansky,"Fri, 08 May 2026 09:27:44 +0000",draft,4.0,Guinness Draught,Guinness,Stout - Irish Dry
+b7-beer-house,Yuval Lutski,"Fri, 08 May 2026 08:52:56 +0000",can,4.5,White Chocolate Raspberry Snowies,Vault City Brewing,Sour - Fruited
+b7-beer-house,Martin Sampson,"Fri, 08 May 2026 08:49:19 +0000",can,,White Chocolate Raspberry Snowies,Vault City Brewing,Sour - Fruited
+b7-beer-house,Elior Mizrahi,"Fri, 08 May 2026 08:44:54 +0000",draft,3.75,Ta Moko,Malka (מלכה),IPA - New Zealand
+b7-beer-house,Elior Mizrahi,"Fri, 08 May 2026 08:44:30 +0000",draft,4.0,רוביקון,New Pioneer Brewing Co - חלוץ חדש,Brown Ale - American
+b7-beer-house,Martin Sampson,"Fri, 08 May 2026 08:34:54 +0000",can,,Nebulous Trail,Sibeeria Brewery,IPA - New England / Hazy
+b7-beer-house,Yuval Lutski,"Fri, 08 May 2026 08:23:29 +0000",can,4.75,Nebulous Trail,Sibeeria Brewery,IPA - New England / Hazy
+b7-beer-house,Elior Mizrahi,"Fri, 08 May 2026 08:22:24 +0000",can,4.75,Nebulous Trail,Sibeeria Brewery,IPA - New England / Hazy
+b7-beer-house,Yaron Weiss,"Fri, 08 May 2026 08:19:35 +0000",draft,4.5,Strawberry Sundae,Vault City Brewing,Sour - Fruited
+b7-beer-house,Yuval Lutski,"Fri, 08 May 2026 08:17:36 +0000",draft,4.0,Helix,Equilibrium Brewery,Pilsner - German
+b7-beer-house,Yuval Lutski,"Fri, 08 May 2026 08:17:17 +0000",draft,4.0,רוביקון,New Pioneer Brewing Co - חלוץ חדש,Brown Ale - American
+b7-beer-house,Martin Sampson,"Fri, 08 May 2026 08:15:28 +0000",,,Strawberry Sundae,Vault City Brewing,Sour - Fruited
+b7-beer-house,Elior Mizrahi,"Fri, 08 May 2026 08:06:50 +0000",draft,4.5,Hoppy Ever After,New Pioneer Brewing Co - חלוץ חדש,Pale Ale - New England / Hazy
+lauter,גל סילברמן,"Fri, 08 May 2026 07:59:53 +0000",draft,4.0,Hazy Little Thing,Sierra Nevada Brewing Co.,IPA - New England / Hazy
+lauter,גל סילברמן,"Fri, 08 May 2026 07:59:14 +0000",draft,3.8,Springfest,Sierra Nevada Brewing Co.,IPA - American
+lauter,גל סילברמן,"Fri, 08 May 2026 07:58:02 +0000",draft,3.5,Torpedo Extra IPA,Sierra Nevada Brewing Co.,IPA - American
 schnitt-brewing-company,Elad Schitrit,"Thu, 07 May 2026 21:16:52 +0000",,3.25,Cactus Sour,Schnitt Brewing Company﻿,Sour - Fruited
 lauter,EvanLyn,"Thu, 07 May 2026 21:03:20 +0000",draft,4.0,Kriek de Schaerbeek Tilquin - Draft Version,Gueuzerie Tilquin,Lambic - Kriek
 lauter,Dr Troubles,"Thu, 07 May 2026 20:56:29 +0000",can,3.5,Elderflower,Schnitt Brewing Company﻿,Pale Ale - Other
