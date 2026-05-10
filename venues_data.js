@@ -1,8 +1,206 @@
 // 🍺 BEER STATS DATA - Generated automatically
-// Last updated: 2026-05-09 08:05:57
-// Total records: 15931
+// Last updated: 2026-05-10 08:19:16
+// Total records: 15953
 
 const BEER_DATA = [
+  {
+    "venue": "lauter",
+    "time": "2026-05-10T06:38:57+00:00",
+    "serving": "bottle",
+    "rating": 3.8,
+    "beer_name": "קצוות אגס",
+    "brewery": "Hamatsesa (המתססה)",
+    "beer_type": "Cider - Perry / Poiré"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-10T06:36:45+00:00",
+    "serving": "bottle",
+    "rating": 3.6,
+    "beer_name": "קצוות",
+    "brewery": "Hamatsesa (המתססה)",
+    "beer_type": "Cider - Dry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-09T19:36:50+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "Fata Morgana Pale Ale",
+    "brewery": "Negev Brewery (נגב)",
+    "beer_type": "Pale Ale - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-09T18:24:48+00:00",
+    "serving": "draft",
+    "rating": 4.5,
+    "beer_name": "Springfest",
+    "brewery": "Sierra Nevada Brewing Co.",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-09T18:14:17+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Benediktiner Hell",
+    "brewery": "Benediktiner Weissbräu",
+    "beer_type": "Lager - Helles"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-09T17:25:42+00:00",
+    "serving": "draft",
+    "rating": 3.4,
+    "beer_name": "Unfiltered Lager",
+    "brewery": "Isis Desert Brewery (מבשלת הנגב המערבי)",
+    "beer_type": "Lager - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-09T17:25:22+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Torpedo Extra IPA",
+    "brewery": "Sierra Nevada Brewing Co.",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-09T16:51:01+00:00",
+    "serving": "draft",
+    "rating": null,
+    "beer_name": "Unfiltered Lager",
+    "brewery": "Isis Desert Brewery (מבשלת הנגב המערבי)",
+    "beer_type": "Lager - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-09T16:42:46+00:00",
+    "serving": "draft",
+    "rating": 2.0,
+    "beer_name": "Unfiltered Lager",
+    "brewery": "Isis Desert Brewery (מבשלת הנגב המערבי)",
+    "beer_type": "Lager - Other"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-09T15:31:29+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Porter & Sons Salted Caramel 2024",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Porter - Other"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-09T15:24:01+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Stoutment",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Stout - Other"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-09T15:20:50+00:00",
+    "serving": "draft",
+    "rating": 2.25,
+    "beer_name": "Ice Ice Bockbier",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Bock - Eisbock"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-09T15:16:02+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Cheers Alenbeer",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - Session"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-09T12:40:57+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Ice Ice Bockbier",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Bock - Eisbock"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-09T12:19:12+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Cheers Alenbeer",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - Session"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-09T12:17:09+00:00",
+    "serving": "bottle",
+    "rating": 3.9,
+    "beer_name": "Samichlaus Classic (2025)",
+    "brewery": "Schloss Eggenberg",
+    "beer_type": "Malt Liquor"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-09T12:15:41+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "CHOPPING WOOD",
+    "brewery": "Evil Twin Brewing NYC",
+    "beer_type": "IPA - Imperial / Double New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-09T11:49:23+00:00",
+    "serving": "bottle",
+    "rating": 3.0,
+    "beer_name": "אדיר",
+    "brewery": "קישקשתא (Kishkashta)",
+    "beer_type": "Lager - Vienna"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-09T11:38:07+00:00",
+    "serving": "draft",
+    "rating": 3.3,
+    "beer_name": "Cheers Alenbeer",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - Session"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-09T11:36:11+00:00",
+    "serving": "can",
+    "rating": 3.3,
+    "beer_name": "Blueberry Brioche",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pale Ale - Other"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-09T11:35:08+00:00",
+    "serving": "draft",
+    "rating": 3.8,
+    "beer_name": "El Hombre",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Lager - Mexican"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-09T11:34:26+00:00",
+    "serving": "Unknown",
+    "rating": 3.4,
+    "beer_name": "Ice Ice Bockbier",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Bock - Eisbock"
+  },
   {
     "venue": "lauter",
     "time": "2026-05-08T22:34:56+00:00",
@@ -256,15 +454,6 @@ const BEER_DATA = [
     "beer_type": "IPA - American"
   },
   {
-    "venue": "schnitt-brewing-company",
-    "time": "2026-05-08T14:05:01+00:00",
-    "serving": "Unknown",
-    "rating": 3.5,
-    "beer_name": "Cheers Alenbeer",
-    "brewery": "Schnitt Brewing Company﻿",
-    "beer_type": "IPA - Session"
-  },
-  {
     "venue": "b7-beer-house",
     "time": "2026-05-08T14:05:01+00:00",
     "serving": "draft",
@@ -272,6 +461,15 @@ const BEER_DATA = [
     "beer_name": "Helix",
     "brewery": "Equilibrium Brewery",
     "beer_type": "Pilsner - German"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-08T14:05:01+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "Cheers Alenbeer",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - Session"
   },
   {
     "venue": "b7-beer-house",

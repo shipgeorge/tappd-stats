@@ -1,4 +1,26 @@
 venue,user,time,serving,data_rating,beer_name,brewery,beer_type
+lauter,גל סילברמן,"Sun, 10 May 2026 06:38:57 +0000",bottle,3.8,קצוות אגס,Hamatsesa (המתססה),Cider - Perry / Poiré
+lauter,גל סילברמן,"Sun, 10 May 2026 06:36:45 +0000",bottle,3.6,קצוות,Hamatsesa (המתססה),Cider - Dry
+b7-beer-house,itamarbeer,"Sat, 09 May 2026 19:36:50 +0000",,3.75,Fata Morgana Pale Ale,Negev Brewery (נגב),Pale Ale - Other
+lauter,Yuval Tr,"Sat, 09 May 2026 18:24:48 +0000",draft,4.5,Springfest,Sierra Nevada Brewing Co.,IPA - American
+lauter,AfekStein12,"Sat, 09 May 2026 18:14:17 +0000",draft,3.5,Benediktiner Hell,Benediktiner Weissbräu,Lager - Helles
+lauter,Omri Levy,"Sat, 09 May 2026 17:25:42 +0000",draft,3.4,Unfiltered Lager,Isis Desert Brewery (מבשלת הנגב המערבי),Lager - Other
+lauter,AfekStein12,"Sat, 09 May 2026 17:25:22 +0000",draft,3.5,Torpedo Extra IPA,Sierra Nevada Brewing Co.,IPA - American
+lauter,David Siegel,"Sat, 09 May 2026 16:51:01 +0000",draft,,Unfiltered Lager,Isis Desert Brewery (מבשלת הנגב המערבי),Lager - Other
+lauter,David Siegel,"Sat, 09 May 2026 16:42:46 +0000",draft,2.0,Unfiltered Lager,Isis Desert Brewery (מבשלת הנגב המערבי),Lager - Other
+schnitt-brewing-company,Amit 1,"Sat, 09 May 2026 15:31:29 +0000",draft,3.5,Porter & Sons Salted Caramel 2024,Schnitt Brewing Company﻿,Porter - Other
+schnitt-brewing-company,Amit 1,"Sat, 09 May 2026 15:24:01 +0000",draft,3.75,Stoutment,Schnitt Brewing Company﻿,Stout - Other
+schnitt-brewing-company,Amit 1,"Sat, 09 May 2026 15:20:50 +0000",draft,2.25,Ice Ice Bockbier,Schnitt Brewing Company﻿,Bock - Eisbock
+schnitt-brewing-company,Amit 1,"Sat, 09 May 2026 15:16:02 +0000",draft,3.5,Cheers Alenbeer,Schnitt Brewing Company﻿,IPA - Session
+schnitt-brewing-company,YanivMeir1503,"Sat, 09 May 2026 12:40:57 +0000",,,Ice Ice Bockbier,Schnitt Brewing Company﻿,Bock - Eisbock
+lauter,Eden Dupont,"Sat, 09 May 2026 12:19:12 +0000",can,4.0,Cheers Alenbeer,Schnitt Brewing Company﻿,IPA - Session
+lauter,Eden Dupont,"Sat, 09 May 2026 12:17:09 +0000",bottle,3.9,Samichlaus Classic (2025),Schloss Eggenberg,Malt Liquor
+lauter,Eden Dupont,"Sat, 09 May 2026 12:15:41 +0000",can,3.5,CHOPPING WOOD,Evil Twin Brewing NYC,IPA - Imperial / Double New England / Hazy
+lauter,Dr Troubles,"Sat, 09 May 2026 11:49:23 +0000",bottle,3.0,אדיר,קישקשתא (Kishkashta),Lager - Vienna
+schnitt-brewing-company,גל סילברמן,"Sat, 09 May 2026 11:38:07 +0000",draft,3.3,Cheers Alenbeer,Schnitt Brewing Company﻿,IPA - Session
+schnitt-brewing-company,גל סילברמן,"Sat, 09 May 2026 11:36:11 +0000",can,3.3,Blueberry Brioche,Schnitt Brewing Company﻿,Pale Ale - Other
+schnitt-brewing-company,גל סילברמן,"Sat, 09 May 2026 11:35:08 +0000",draft,3.8,El Hombre,Schnitt Brewing Company﻿,Lager - Mexican
+schnitt-brewing-company,גל סילברמן,"Sat, 09 May 2026 11:34:26 +0000",,3.4,Ice Ice Bockbier,Schnitt Brewing Company﻿,Bock - Eisbock
 lauter,Nadav Cohen,"Fri, 08 May 2026 22:34:56 +0000",,3.75,Buster's Cranberry Lemonade,Oak & Ash,Malt Liquor
 lauter,einavushlan,"Fri, 08 May 2026 20:23:28 +0000",can,4.25,CHOPPING WOOD,Evil Twin Brewing NYC,IPA - Imperial / Double New England / Hazy
 schnitt-brewing-company,David Siegel,"Fri, 08 May 2026 17:51:44 +0000",,3.5,Ice Ice Bockbier,Schnitt Brewing Company﻿,Bock - Eisbock
@@ -27,8 +49,8 @@ schnitt-brewing-company,Andrey Granovsky,"Fri, 08 May 2026 14:26:07 +0000",draft
 lauter,dafi20,"Fri, 08 May 2026 14:26:00 +0000",draft,3.5,Oasis,Negev Brewery (נגב),Blonde / Golden Ale - Other
 schnitt-brewing-company,Dr Troubles,"Fri, 08 May 2026 14:20:50 +0000",draft,3.25,Ice Ice Bockbier,Schnitt Brewing Company﻿,Bock - Eisbock
 b7-beer-house,Oren Hazan,"Fri, 08 May 2026 14:05:49 +0000",draft,4.0,I Love the Smell of Strata In the Morning,Sibeeria Brewery,IPA - American
-schnitt-brewing-company,Yoav Kowalski,"Fri, 08 May 2026 14:05:01 +0000",,3.5,Cheers Alenbeer,Schnitt Brewing Company﻿,IPA - Session
 b7-beer-house,Oren Hazan,"Fri, 08 May 2026 14:05:01 +0000",draft,4.0,Helix,Equilibrium Brewery,Pilsner - German
+schnitt-brewing-company,Yoav Kowalski,"Fri, 08 May 2026 14:05:01 +0000",,3.5,Cheers Alenbeer,Schnitt Brewing Company﻿,IPA - Session
 b7-beer-house,Oren Hazan,"Fri, 08 May 2026 14:04:15 +0000",draft,3.75,רוביקון,New Pioneer Brewing Co - חלוץ חדש,Brown Ale - American
 schnitt-brewing-company,Yoav Kowalski,"Fri, 08 May 2026 14:04:02 +0000",draft,3.25,Ice Ice Bockbier,Schnitt Brewing Company﻿,Bock - Eisbock
 schnitt-brewing-company,Vladimir Kanevsky,"Fri, 08 May 2026 13:59:02 +0000",draft,4.0,Cheers Alenbeer,Schnitt Brewing Company﻿,IPA - Session
