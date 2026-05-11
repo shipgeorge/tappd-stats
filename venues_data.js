@@ -1,8 +1,350 @@
 // 🍺 BEER STATS DATA - Generated automatically
-// Last updated: 2026-05-10 08:19:16
-// Total records: 15953
+// Last updated: 2026-05-11 09:56:34
+// Total records: 15991
 
 const BEER_DATA = [
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-10T20:09:43+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "Mango X Banana X Passionfruit X Vanilla Smoothie Sour Ale",
+    "brewery": "Ārpus Brewing Co.",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-10T19:59:39+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Willy Tonka - Tonka & Liquorice",
+    "brewery": "Moersleutel Craft Brewery",
+    "beer_type": "Stout - Imperial / Double"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-10T19:43:52+00:00",
+    "serving": "can",
+    "rating": 4.5,
+    "beer_name": "Red + White + Blue",
+    "brewery": "Mortalis Brewing Company",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-10T19:32:48+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "Sessionista",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-10T19:15:35+00:00",
+    "serving": "can",
+    "rating": 3.25,
+    "beer_name": "Elderflower",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pale Ale - Other"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-10T19:10:56+00:00",
+    "serving": "can",
+    "rating": 4.5,
+    "beer_name": "Launch",
+    "brewery": "SOMA Beer",
+    "beer_type": "IPA - Imperial / Double New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-10T18:51:56+00:00",
+    "serving": "can",
+    "rating": 4.75,
+    "beer_name": "Smoothiesh: What Did You Bring To the Party?",
+    "brewery": "Pulfer Brewery",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-10T18:48:27+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "Gueuze Tilquin – Draft Version",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": "Lambic - Gueuze"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-10T18:39:30+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Blueberry Brioche",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pale Ale - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-10T17:06:23+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Sidras Pusiau Sausas Kriaušių / Cider Semi Dry Pear",
+    "brewery": "Volfas Engelman",
+    "beer_type": "Cider - Perry / Poiré"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-10T16:57:15+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Cheers Alenbeer",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - Session"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-10T16:56:15+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Big Little Thing Hazy Imperial IPA",
+    "brewery": "Sierra Nevada Brewing Co.",
+    "beer_type": "IPA - Imperial / Double New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-10T16:47:54+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Porter & Sons Salted Caramel 2024",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Porter - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-10T16:34:30+00:00",
+    "serving": "draft",
+    "rating": 2.75,
+    "beer_name": "Hitachino Nest Yuzu Ginger Non Ale",
+    "brewery": "Kiuchi Brewery",
+    "beer_type": "Non-Alcoholic - Other Beer"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-10T16:26:53+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Torpedo Extra IPA",
+    "brewery": "Sierra Nevada Brewing Co.",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-10T16:19:59+00:00",
+    "serving": "draft",
+    "rating": 4.5,
+    "beer_name": "Pale Ale",
+    "brewery": "Sierra Nevada Brewing Co.",
+    "beer_type": "Pale Ale - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-10T16:16:59+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Springfest",
+    "brewery": "Sierra Nevada Brewing Co.",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-10T15:59:59+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Double Hazy",
+    "brewery": "BrewDog",
+    "beer_type": "IPA - Imperial / Double New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-10T15:59:09+00:00",
+    "serving": "draft",
+    "rating": 4.5,
+    "beer_name": "Springfest",
+    "brewery": "Sierra Nevada Brewing Co.",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-10T15:59:01+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Springfest",
+    "brewery": "Sierra Nevada Brewing Co.",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-10T15:57:02+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Silver Snail",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-10T15:54:17+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Cheers Alenbeer",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - Session"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-10T15:52:33+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Gueuze Tilquin – Draft Version",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": "Lambic - Gueuze"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-10T15:50:57+00:00",
+    "serving": "bottle",
+    "rating": 3.75,
+    "beer_name": "Ten Feet Tall",
+    "brewery": "White Rabbit (IL)",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-10T15:11:14+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Ice Ice Bockbier",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Bock - Eisbock"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-10T15:09:44+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "Buster's Cranberry Lemonade",
+    "brewery": "Oak & Ash",
+    "beer_type": "Malt Liquor"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-10T15:08:46+00:00",
+    "serving": "draft",
+    "rating": 3.25,
+    "beer_name": "Torpedo Extra IPA",
+    "brewery": "Sierra Nevada Brewing Co.",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-10T15:07:33+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "סיידר תפוחים אלכוהולי חצי יבש",
+    "brewery": "Hamatsesa (המתססה)",
+    "beer_type": "Cider - Traditional / Apfelwein"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-10T15:06:10+00:00",
+    "serving": "draft",
+    "rating": 3.25,
+    "beer_name": "Hobgoblin IPA",
+    "brewery": "Marston's Brewery",
+    "beer_type": "IPA - English"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-10T14:50:17+00:00",
+    "serving": "can",
+    "rating": 3.7,
+    "beer_name": "Torpedo Extra IPA",
+    "brewery": "Sierra Nevada Brewing Co.",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-10T14:49:49+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "האימפריה מכה שניט",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-10T14:21:53+00:00",
+    "serving": "draft",
+    "rating": 4.5,
+    "beer_name": "Twist & Stout",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Stout - Irish Dry"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-10T12:25:22+00:00",
+    "serving": "can",
+    "rating": 3.0,
+    "beer_name": "Kelly's Green Pony",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-10T11:08:05+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Kelly's Green Pony",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-10T11:07:22+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Ice Ice Bockbier",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Bock - Eisbock"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-10T11:05:09+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Cheers Alenbeer",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - Session"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-10T09:56:29+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "חושחש ליים",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Lager - Pale"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-10T09:09:36+00:00",
+    "serving": "draft",
+    "rating": 4.5,
+    "beer_name": "Cactus Sour",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Sour - Fruited"
+  },
   {
     "venue": "lauter",
     "time": "2026-05-10T06:38:57+00:00",
