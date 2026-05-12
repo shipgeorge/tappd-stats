@@ -1,8 +1,188 @@
 // 🍺 BEER STATS DATA - Generated automatically
-// Last updated: 2026-05-11 09:56:34
-// Total records: 15991
+// Last updated: 2026-05-12 08:50:22
+// Total records: 16011
 
 const BEER_DATA = [
+  {
+    "venue": "lauter",
+    "time": "2026-05-11T21:44:13+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "Gueuze Tilquin – Draft Version",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": "Lambic - Gueuze"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-11T21:38:44+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "Kuch Kuch",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-11T21:21:06+00:00",
+    "serving": "Unknown",
+    "rating": 2.75,
+    "beer_name": "אדיר",
+    "brewery": "קישקשתא (Kishkashta)",
+    "beer_type": "Lager - Vienna"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-11T19:42:15+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Kuch Kuch",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-11T19:38:12+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Springfest",
+    "brewery": "Sierra Nevada Brewing Co.",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-11T19:33:56+00:00",
+    "serving": "draft",
+    "rating": 3.25,
+    "beer_name": "Krombacher Weizen",
+    "brewery": "Krombacher Gruppe",
+    "beer_type": "Wheat Beer - Hefeweizen"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-11T19:28:09+00:00",
+    "serving": "draft",
+    "rating": 3.25,
+    "beer_name": "Unfiltered Lager",
+    "brewery": "Isis Desert Brewery (מבשלת הנגב המערבי)",
+    "beer_type": "Lager - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-11T19:22:37+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "אדיר",
+    "brewery": "קישקשתא (Kishkashta)",
+    "beer_type": "Lager - Vienna"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-11T19:19:48+00:00",
+    "serving": "can",
+    "rating": 3.25,
+    "beer_name": "Porter&Sons: Chocolate Orange",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Porter - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-11T18:02:03+00:00",
+    "serving": "Unknown",
+    "rating": 3.25,
+    "beer_name": "Springfest",
+    "brewery": "Sierra Nevada Brewing Co.",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-11T17:37:52+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Yes We Can - Hazy IPA: Eclipse, Galaxy, Riwaka",
+    "brewery": "Maryensztadt",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-11T17:32:21+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "Benediktiner Hell",
+    "brewery": "Benediktiner Weissbräu",
+    "beer_type": "Lager - Helles"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-11T17:16:07+00:00",
+    "serving": "can",
+    "rating": null,
+    "beer_name": "Persistence Is Utile #V",
+    "brewery": "Cloudwater Brew Co.",
+    "beer_type": "Stout - Imperial / Double Coffee"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-11T17:03:48+00:00",
+    "serving": "Unknown",
+    "rating": 3.0,
+    "beer_name": "Unfiltered Lager",
+    "brewery": "Isis Desert Brewery (מבשלת הנגב המערבי)",
+    "beer_type": "Lager - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-11T16:37:48+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Gelato XTREME: Raspberry Strawberry Bilberry & Maple Syrup",
+    "brewery": "Funky Fluid",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-11T16:10:35+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Kuch Kuch",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-11T16:01:00+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "I'll Be Bock",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Bock - Single / Traditional"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-11T15:28:56+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Lucky Break",
+    "brewery": "BrewDog",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "ursa",
+    "time": "2026-05-11T15:24:23+00:00",
+    "serving": "can",
+    "rating": null,
+    "beer_name": "Springfest",
+    "brewery": "Sierra Nevada Brewing Co.",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "berlin-florentin",
+    "time": "2026-05-11T10:06:27+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Lucky Break",
+    "brewery": "BrewDog",
+    "beer_type": "IPA - New England / Hazy"
+  },
   {
     "venue": "schnitt-brewing-company",
     "time": "2026-05-10T20:09:43+00:00",
