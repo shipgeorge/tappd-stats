@@ -1,8 +1,233 @@
 // 🍺 BEER STATS DATA - Generated automatically
-// Last updated: 2026-05-13 08:54:13
-// Total records: 16031
+// Last updated: 2026-05-14 08:47:45
+// Total records: 16056
 
 const BEER_DATA = [
+  {
+    "venue": "lauter",
+    "time": "2026-05-13T20:44:49+00:00",
+    "serving": "can",
+    "rating": 3.4,
+    "beer_name": "Blueberry Brioche",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pale Ale - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-13T20:14:50+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Twist & Stout",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Stout - Irish Dry"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-13T19:58:53+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Sessionista",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-13T19:52:05+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "I'll Be Bock",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Bock - Single / Traditional"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-13T19:41:38+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "El Hombre",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Lager - Mexican"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-13T19:38:09+00:00",
+    "serving": "draft",
+    "rating": 3.0,
+    "beer_name": "אדיר",
+    "brewery": "קישקשתא (Kishkashta)",
+    "beer_type": "Lager - Vienna"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-13T19:32:49+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Twist & Stout",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Stout - Irish Dry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-13T19:32:06+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "I'll Be Bock",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Bock - Single / Traditional"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-13T19:29:49+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "Prune Porter",
+    "brewery": "Sheeta Brewery (בירה שיטה)",
+    "beer_type": "Porter - Other"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-13T19:02:30+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Blueberry Brioche",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pale Ale - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-13T18:47:06+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Twist & Stout",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Stout - Irish Dry"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-13T17:53:15+00:00",
+    "serving": "draft",
+    "rating": 3.0,
+    "beer_name": "Sessionista",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-13T17:50:29+00:00",
+    "serving": "bottle",
+    "rating": 5.0,
+    "beer_name": "Red Knight",
+    "brewery": "Shevet (שבט)",
+    "beer_type": "Red Ale - Irish"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-13T17:18:06+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Th. König Zwickl",
+    "brewery": "König Brauerei",
+    "beer_type": "Kellerbier / Zwickelbier - Dunkel"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-13T17:14:47+00:00",
+    "serving": "draft",
+    "rating": 5.0,
+    "beer_name": "Sloth & Lion",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Stout - Imperial / Double"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-13T17:00:10+00:00",
+    "serving": "draft",
+    "rating": 2.5,
+    "beer_name": "Elderflower",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pale Ale - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-13T16:19:16+00:00",
+    "serving": "draft",
+    "rating": 5.0,
+    "beer_name": "Porter & Sons Salted Caramel 2024",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Porter - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-13T16:18:49+00:00",
+    "serving": "draft",
+    "rating": 5.0,
+    "beer_name": "Twist & Stout",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Stout - Irish Dry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-13T16:18:03+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "Porter & Sons Salted Caramel 2024",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Porter - Other"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-13T11:35:52+00:00",
+    "serving": "draft",
+    "rating": 3.25,
+    "beer_name": "Cheers Alenbeer",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - Session"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-13T11:00:13+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Kelly's Green Pony",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-13T09:56:08+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "האימפריה מכה שניט",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-13T09:34:39+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Frenemy",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pale Ale - American"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-13T09:32:54+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Kelly's Green Pony",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-13T09:30:18+00:00",
+    "serving": "draft",
+    "rating": 3.25,
+    "beer_name": "Inspector Hoosh Hash 2025",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Sour - Fruited"
+  },
   {
     "venue": "schnitt-brewing-company",
     "time": "2026-05-12T21:13:45+00:00",
