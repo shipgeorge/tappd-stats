@@ -1,8 +1,818 @@
 // 🍺 BEER STATS DATA - Generated automatically
-// Last updated: 2026-05-14 08:47:45
-// Total records: 16056
+// Last updated: 2026-05-15 09:20:09
+// Total records: 16146
 
 const BEER_DATA = [
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-15T08:59:20+00:00",
+    "serving": "draft",
+    "rating": 5.0,
+    "beer_name": "Prune Porter",
+    "brewery": "Sheeta Brewery (בירה שיטה)",
+    "beer_type": "Porter - Other"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-15T08:26:27+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Springfest",
+    "brewery": "Sierra Nevada Brewing Co.",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-15T05:33:48+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Yes We Can - Hazy IPA: Citra, Zibi",
+    "brewery": "Maryensztadt",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-15T05:24:32+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Unfiltered Lager",
+    "brewery": "Isis Desert Brewery (מבשלת הנגב המערבי)",
+    "beer_type": "Lager - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-14T21:07:06+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Arct IPA: Talus / Sabro / Książęcy / Zibi",
+    "brewery": "Lubrow Brewery",
+    "beer_type": "IPA - Cold"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-14T21:06:02+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Eclaron Pils | Galaxy / Elani",
+    "brewery": "Lubrow Brewery",
+    "beer_type": "Pilsner - Other"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-14T20:32:16+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "Golden Goose Eggs",
+    "brewery": "Vault City Brewing",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-14T20:31:20+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "STUFFD (Cosmic Space Dust)",
+    "brewery": "Vault City Brewing",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-14T20:04:04+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Golden Goose Eggs",
+    "brewery": "Vault City Brewing",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-14T19:56:42+00:00",
+    "serving": "can",
+    "rating": 4.1,
+    "beer_name": "STUFFD (Cosmic Space Dust)",
+    "brewery": "Vault City Brewing",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-14T19:51:57+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "CONGRATS! YOU ARE NOT LOOKING AT YOUR PHONE | vertikal verses series 4/5",
+    "brewery": "ATELIER VRAI",
+    "beer_type": "IPA - Triple New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-14T19:51:22+00:00",
+    "serving": "can",
+    "rating": 3.6,
+    "beer_name": "CONGRATS! YOU ARE NOT LOOKING AT YOUR PHONE | vertikal verses series 4/5",
+    "brewery": "ATELIER VRAI",
+    "beer_type": "IPA - Triple New England / Hazy"
+  },
+  {
+    "venue": "beerz",
+    "time": "2026-05-14T19:51:22+00:00",
+    "serving": "can",
+    "rating": 3.9,
+    "beer_name": "Yummy Prickly Pear, Banana, Pear & Kiwi",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-14T19:46:59+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Blueprints: Cosmic Compass",
+    "brewery": "Moersleutel Craft Brewery",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-14T19:42:07+00:00",
+    "serving": "can",
+    "rating": 3.9,
+    "beer_name": "Blueprints: Cosmic Compass",
+    "brewery": "Moersleutel Craft Brewery",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-14T19:39:18+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Tropic Turbo",
+    "brewery": "Moersleutel Craft Brewery",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-14T19:38:36+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "I'll Be Bock",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Bock - Single / Traditional"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-14T19:35:17+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Tropic Turbo",
+    "brewery": "Moersleutel Craft Brewery",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-14T19:34:24+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "Pale Ale",
+    "brewery": "Sierra Nevada Brewing Co.",
+    "beer_type": "Pale Ale - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-14T19:33:48+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "Pale Ale",
+    "brewery": "Sierra Nevada Brewing Co.",
+    "beer_type": "Pale Ale - American"
+  },
+  {
+    "venue": "beerz",
+    "time": "2026-05-14T19:31:47+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Forever Brewing Sorbet Line #2",
+    "brewery": "Волинський бровар",
+    "beer_type": "Fruit Beer"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-14T19:29:22+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Pale Ale",
+    "brewery": "Sierra Nevada Brewing Co.",
+    "beer_type": "Pale Ale - American"
+  },
+  {
+    "venue": "beerz",
+    "time": "2026-05-14T19:29:07+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Forever Brewing Black Queen",
+    "brewery": "Волинський бровар",
+    "beer_type": "Lager - Other"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-14T19:28:53+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Californication - Sabro, Citra, Idaho 7 & Lemondrop",
+    "brewery": "Maryensztadt",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "beerz",
+    "time": "2026-05-14T19:24:56+00:00",
+    "serving": "can",
+    "rating": 3.9,
+    "beer_name": "Forever Brewing Black Queen",
+    "brewery": "Волинський бровар",
+    "beer_type": "Lager - Other"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-14T19:24:30+00:00",
+    "serving": "can",
+    "rating": 3.1,
+    "beer_name": "Californication - Citra, El Dorado & Mosaic",
+    "brewery": "Maryensztadt",
+    "beer_type": "Pale Ale - New England / Hazy"
+  },
+  {
+    "venue": "beerz",
+    "time": "2026-05-14T19:24:22+00:00",
+    "serving": "can",
+    "rating": 3.7,
+    "beer_name": "Forever Brewing Sorbet Line #2",
+    "brewery": "Волинський бровар",
+    "beer_type": "Fruit Beer"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-14T19:24:22+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Yes We Can - Hazy IPA: Citra, Zibi",
+    "brewery": "Maryensztadt",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-14T19:23:56+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Гипер-Ёжик в Кибер-Тумане - Hazy IPA",
+    "brewery": "Post Apocalyptic",
+    "beer_type": "Homebrew, IPA - New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-14T19:23:49+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Yes We Can - Hazy IPA: Citra, Nelson Sauvin",
+    "brewery": "Maryensztadt",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-14T19:23:08+00:00",
+    "serving": "can",
+    "rating": 2.75,
+    "beer_name": "APA",
+    "brewery": "Maryensztadt",
+    "beer_type": "Pale Ale - American"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-14T19:18:29+00:00",
+    "serving": "can",
+    "rating": 4.1,
+    "beer_name": "Californication - Sabro / Citra / Idaho 7",
+    "brewery": "Maryensztadt",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-14T19:13:31+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Sessionista",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "beerz",
+    "time": "2026-05-14T19:09:31+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Forever Brewing Jumbo",
+    "brewery": "Волинський бровар",
+    "beer_type": "Cream Ale"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-14T19:04:53+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Yes We Can - Hazy IPA: Citra, Zibi",
+    "brewery": "Maryensztadt",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "beerz",
+    "time": "2026-05-14T19:04:39+00:00",
+    "serving": "can",
+    "rating": 3.8,
+    "beer_name": "Forever Brewing Jumbo",
+    "brewery": "Волинський бровар",
+    "beer_type": "Cream Ale"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-14T19:03:54+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Yes We Can - Rice Hazy IPA, Mosaic + El Dorado",
+    "brewery": "Maryensztadt",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-14T19:02:57+00:00",
+    "serving": "can",
+    "rating": 3.8,
+    "beer_name": "Yes We Can - Hazy IPA: Citra, Zibi",
+    "brewery": "Maryensztadt",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "beerz",
+    "time": "2026-05-14T19:02:50+00:00",
+    "serving": "bottle",
+    "rating": 3.5,
+    "beer_name": "Forever Brewing Macho",
+    "brewery": "Волинський бровар",
+    "beer_type": "Wheat Beer - Fruited"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-14T18:58:35+00:00",
+    "serving": "can",
+    "rating": 3.9,
+    "beer_name": "Yes We Can - Hazy IPA: Citra, Nelson Sauvin",
+    "brewery": "Maryensztadt",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "beerz",
+    "time": "2026-05-14T18:58:35+00:00",
+    "serving": "bottle",
+    "rating": 3.3,
+    "beer_name": "Forever Brewing Macho",
+    "brewery": "Волинський бровар",
+    "beer_type": "Wheat Beer - Fruited"
+  },
+  {
+    "venue": "beerz",
+    "time": "2026-05-14T18:55:32+00:00",
+    "serving": "bottle",
+    "rating": 3.75,
+    "beer_name": "Forever Brewing Space Travel",
+    "brewery": "Волинський бровар",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-14T18:49:14+00:00",
+    "serving": "can",
+    "rating": 3.1,
+    "beer_name": "APA",
+    "brewery": "Maryensztadt",
+    "beer_type": "Pale Ale - American"
+  },
+  {
+    "venue": "beerz",
+    "time": "2026-05-14T18:45:42+00:00",
+    "serving": "bottle",
+    "rating": 3.8,
+    "beer_name": "Forever Brewing Space Travel",
+    "brewery": "Волинський бровар",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "beerz",
+    "time": "2026-05-14T18:35:05+00:00",
+    "serving": "bottle",
+    "rating": 3.5,
+    "beer_name": "Forever Brewing Hawaii",
+    "brewery": "Волинський бровар",
+    "beer_type": ""
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-14T18:34:48+00:00",
+    "serving": "can",
+    "rating": 3.7,
+    "beer_name": "Yes We Can - Rice Hazy IPA, Mosaic + El Dorado",
+    "brewery": "Maryensztadt",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "beerz",
+    "time": "2026-05-14T18:33:21+00:00",
+    "serving": "bottle",
+    "rating": 3.5,
+    "beer_name": "Forever Brewing Hawaii",
+    "brewery": "Волинський бровар",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-14T18:25:45+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Yes We Can - Hazy IPA: Citra, Zibi",
+    "brewery": "Maryensztadt",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-14T18:25:41+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Arct IPA: Talus / Sabro / Książęcy / Zibi",
+    "brewery": "Lubrow Brewery",
+    "beer_type": "IPA - Cold"
+  },
+  {
+    "venue": "beerz",
+    "time": "2026-05-14T18:22:20+00:00",
+    "serving": "bottle",
+    "rating": 3.75,
+    "beer_name": "Forever Brewing Dominant",
+    "brewery": "Волинський бровар",
+    "beer_type": "Stout - Other"
+  },
+  {
+    "venue": "beerz",
+    "time": "2026-05-14T18:18:50+00:00",
+    "serving": "bottle",
+    "rating": 3.7,
+    "beer_name": "Forever Brewing Dominant",
+    "brewery": "Волинський бровар",
+    "beer_type": "Stout - Other"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-14T18:12:43+00:00",
+    "serving": "can",
+    "rating": 3.7,
+    "beer_name": "Lager Like It Used To Be - Bamberg Edition",
+    "brewery": "Lubrow Brewery",
+    "beer_type": "Rauchbier"
+  },
+  {
+    "venue": "beerz",
+    "time": "2026-05-14T18:10:48+00:00",
+    "serving": "bottle",
+    "rating": 3.3,
+    "beer_name": "Forever Brewing King's",
+    "brewery": "Волинський бровар",
+    "beer_type": "Lager - Vienna"
+  },
+  {
+    "venue": "beerz",
+    "time": "2026-05-14T17:50:43+00:00",
+    "serving": "can",
+    "rating": 3.7,
+    "beer_name": "Forever Brewing Cappuccino",
+    "brewery": "Волинський бровар",
+    "beer_type": "Porter - Baltic"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-14T17:40:37+00:00",
+    "serving": "bottle",
+    "rating": 3.8,
+    "beer_name": "Meet Zion (ציון) Jaffa Orange Pale Ale",
+    "brewery": "Shevet (שבט)",
+    "beer_type": "Pale Ale - Other"
+  },
+  {
+    "venue": "beerz",
+    "time": "2026-05-14T17:38:01+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "Yummy Prickly Pear, Banana, Pear & Kiwi",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-14T17:34:53+00:00",
+    "serving": "draft",
+    "rating": 4.1,
+    "beer_name": "Prune Porter",
+    "brewery": "Sheeta Brewery (בירה שיטה)",
+    "beer_type": "Porter - Other"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-14T17:21:50+00:00",
+    "serving": "draft",
+    "rating": 2.0,
+    "beer_name": "Wolfgang",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Lager - Vienna"
+  },
+  {
+    "venue": "beerz",
+    "time": "2026-05-14T17:15:23+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Pale Ale",
+    "brewery": "Sierra Nevada Brewing Co.",
+    "beer_type": "Pale Ale - American"
+  },
+  {
+    "venue": "beerz",
+    "time": "2026-05-14T17:12:32+00:00",
+    "serving": "Unknown",
+    "rating": 3.25,
+    "beer_name": "Original Tucher Nürnberger Rotbier",
+    "brewery": "Tucher Bräu",
+    "beer_type": "Lager - Rotbier"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-14T17:03:08+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Prune Porter",
+    "brewery": "Sheeta Brewery (בירה שיטה)",
+    "beer_type": "Porter - Other"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-14T16:58:33+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "El Hombre",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Lager - Mexican"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-14T16:06:59+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "רוביקון",
+    "brewery": "New Pioneer Brewing Co - חלוץ חדש",
+    "beer_type": "Brown Ale - American"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-14T16:05:48+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Pale Ale",
+    "brewery": "Sierra Nevada Brewing Co.",
+    "beer_type": "Pale Ale - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-14T15:36:59+00:00",
+    "serving": "draft",
+    "rating": 2.25,
+    "beer_name": "Unfiltered Lager",
+    "brewery": "Isis Desert Brewery (מבשלת הנגב המערבי)",
+    "beer_type": "Lager - Other"
+  },
+  {
+    "venue": "berlin-florentin",
+    "time": "2026-05-14T14:54:10+00:00",
+    "serving": "bottle",
+    "rating": 4.0,
+    "beer_name": "Chocolate Box - Mexican Hot Chocolate",
+    "brewery": "Schmulz",
+    "beer_type": "Mead - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-14T14:45:15+00:00",
+    "serving": "draft",
+    "rating": 3.1,
+    "beer_name": "Oasis",
+    "brewery": "Negev Brewery (נגב)",
+    "beer_type": "Blonde / Golden Ale - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-14T14:43:56+00:00",
+    "serving": "draft",
+    "rating": 4.2,
+    "beer_name": "Springfest",
+    "brewery": "Sierra Nevada Brewing Co.",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "berlin-florentin",
+    "time": "2026-05-14T14:43:10+00:00",
+    "serving": "bottle",
+    "rating": 3.5,
+    "beer_name": "Chocolate Box - Mexican Hot Chocolate",
+    "brewery": "Schmulz",
+    "beer_type": "Mead - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-14T14:29:54+00:00",
+    "serving": "draft",
+    "rating": 2.25,
+    "beer_name": "אדיר",
+    "brewery": "קישקשתא (Kishkashta)",
+    "beer_type": "Lager - Vienna"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-14T14:08:10+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "Yes We Can - Rice Hazy IPA, Mosaic + El Dorado",
+    "brewery": "Maryensztadt",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-14T13:52:31+00:00",
+    "serving": "draft",
+    "rating": 3.25,
+    "beer_name": "Springfest",
+    "brewery": "Sierra Nevada Brewing Co.",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-14T13:50:28+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Kuch Kuch",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-14T13:46:49+00:00",
+    "serving": "draft",
+    "rating": 3.8,
+    "beer_name": "סיידר תפוחים אלכוהולי חצי יבש",
+    "brewery": "Hamatsesa (המתססה)",
+    "beer_type": "Cider - Traditional / Apfelwein"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-14T13:38:48+00:00",
+    "serving": "draft",
+    "rating": 3.7,
+    "beer_name": "אדיר",
+    "brewery": "קישקשתא (Kishkashta)",
+    "beer_type": "Lager - Vienna"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-14T13:35:45+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Benediktiner Hell",
+    "brewery": "Benediktiner Weissbräu",
+    "beer_type": "Lager - Helles"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-14T13:32:45+00:00",
+    "serving": "draft",
+    "rating": 2.5,
+    "beer_name": "Tea Party: Masala",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pale Ale - Other"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-14T13:23:10+00:00",
+    "serving": "draft",
+    "rating": 3.25,
+    "beer_name": "Elderflower",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pale Ale - Other"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-14T13:13:09+00:00",
+    "serving": "draft",
+    "rating": 2.0,
+    "beer_name": "Wolfgang",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Lager - Vienna"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-14T13:05:57+00:00",
+    "serving": "draft",
+    "rating": 3.25,
+    "beer_name": "Sessionista",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-14T12:46:02+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "Cheers Alenbeer",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - Session"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-14T12:18:07+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Elderflower",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pale Ale - Other"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-14T10:31:06+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Inspector Hoosh Hash 2025",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-14T10:29:55+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Twist & Stout",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Stout - Irish Dry"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-14T10:28:54+00:00",
+    "serving": "draft",
+    "rating": 3.25,
+    "beer_name": "Abbey Mode",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Belgian Dubbel"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-14T10:28:27+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Frenemy",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pale Ale - American"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-14T10:28:15+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "I'll Be Bock",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Bock - Single / Traditional"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-14T10:27:29+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Weissman",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Wheat Beer - Hefeweizen"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-14T10:27:28+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "Elderflower",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pale Ale - Other"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-14T10:13:23+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Frenemy",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pale Ale - American"
+  },
   {
     "venue": "lauter",
     "time": "2026-05-13T20:44:49+00:00",
