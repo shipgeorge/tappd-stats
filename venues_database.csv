@@ -1,4 +1,40 @@
 venue,user,time,serving,data_rating,beer_name,brewery,beer_type
+lauter,Amit Carmi,"Fri, 15 May 2026 22:03:03 +0000",draft,3.25,Buster's Cranberry Lemonade,Oak & Ash,Malt Liquor
+lauter,Amit Carmi,"Fri, 15 May 2026 22:02:33 +0000",draft,3.25,Pale Ale,Sierra Nevada Brewing Co.,Pale Ale - American
+lauter,dafi20,"Fri, 15 May 2026 19:55:46 +0000",draft,3.75,סיידר תפוחים אלכוהולי חצי יבש,Hamatsesa (המתססה),Cider - Traditional / Apfelwein
+lauter,dafi20,"Fri, 15 May 2026 19:26:43 +0000",draft,3.5,Prior 8,Brouwerij St.Bernardus,Belgian Dubbel
+schnitt-brewing-company,Pavel Michailov,"Fri, 15 May 2026 19:11:14 +0000",,3.5,Twist & Stout,Schnitt Brewing Company﻿,Stout - Irish Dry
+schnitt-brewing-company,Pavel Michailov,"Fri, 15 May 2026 19:10:53 +0000",,3.5,Sessionista,Schnitt Brewing Company﻿,IPA - New England / Hazy
+schnitt-brewing-company,Pavel Michailov,"Fri, 15 May 2026 19:10:34 +0000",,3.75,Stoutment,Schnitt Brewing Company﻿,Stout - Other
+schnitt-brewing-company,Pavel Michailov,"Fri, 15 May 2026 19:10:16 +0000",,3.5,Inspector Hoosh Hash 2025,Schnitt Brewing Company﻿,Sour - Fruited
+lauter,Max N,"Fri, 15 May 2026 18:57:18 +0000",can,3.4,Lager Like It Used To Be - Vienna Edition,Lubrow Brewery,Lager - Vienna
+lauter,Stas Pruchansky,"Fri, 15 May 2026 18:55:47 +0000",can,3.8,YIN - NYC VERSION,Evil Twin Brewing NYC,Stout - Imperial / Double
+beerline,Beer Opinion,"Fri, 15 May 2026 18:54:40 +0000",can,4.1,Kuch Kuch,Schnitt Brewing Company﻿,IPA - American
+lauter,Max N,"Fri, 15 May 2026 18:46:00 +0000",can,3.7,YIN - NYC VERSION,Evil Twin Brewing NYC,Stout - Imperial / Double
+beerline,Beer Opinion,"Fri, 15 May 2026 18:16:12 +0000",can,4.1,Springfest,Sierra Nevada Brewing Co.,IPA - American
+beerz,NightFish,"Fri, 15 May 2026 18:04:18 +0000",draft,3.75,Hobgoblin IPA,Marston's Brewery,IPA - English
+beerz,NightFish,"Fri, 15 May 2026 17:56:53 +0000",draft,4.0,Hazy Queen,HORIZONT Brewing,IPA - New England / Hazy
+beerline,Beer Opinion,"Fri, 15 May 2026 17:48:25 +0000",can,4.3,Sab Kuch Milaga,Schnitt Brewing Company﻿,Lager - IPL (India Pale Lager)
+lauter,Max N,"Fri, 15 May 2026 17:48:22 +0000",can,3.5,Lager Like It Used To Be - München Edition,Lubrow Brewery,Lager - Helles
+lauter,Arad Amir,"Fri, 15 May 2026 17:28:48 +0000",bottle,3.0,Unfiltered Lager,Isis Desert Brewery (מבשלת הנגב המערבי),Lager - Other
+lauter,Max N,"Fri, 15 May 2026 17:14:04 +0000",can,3.6,Lager Like It Used To Be - Prague Edition,Lubrow Brewery,Lager - Tmavé (Czech Dark)
+lauter,Slava Gvantmakher,"Fri, 15 May 2026 17:00:09 +0000",draft,3.5,אדיר,קישקשתא (Kishkashta),Lager - Vienna
+lauter,Max N,"Fri, 15 May 2026 16:26:43 +0000",can,3.7,Lager Like It Used To Be - Bamberg Edition,Lubrow Brewery,Rauchbier
+schnitt-brewing-company,Omri Levy,"Fri, 15 May 2026 15:43:49 +0000",,3.7,Cheers Alenbeer,Schnitt Brewing Company﻿,IPA - Session
+schnitt-brewing-company,AfekStein12,"Fri, 15 May 2026 15:35:35 +0000",,3.75,Frenemy,Schnitt Brewing Company﻿,Pale Ale - American
+lauter,Tal Neumann,"Fri, 15 May 2026 15:30:47 +0000",draft,4.0,Gueuze Tilquin – Draft Version,Gueuzerie Tilquin,Lambic - Gueuze
+schnitt-brewing-company,Gabi David,"Fri, 15 May 2026 15:13:12 +0000",,3.5,Elderflower,Schnitt Brewing Company﻿,Pale Ale - Other
+schnitt-brewing-company,Gabi David,"Fri, 15 May 2026 15:12:37 +0000",,3.5,Cheers Alenbeer,Schnitt Brewing Company﻿,IPA - Session
+schnitt-brewing-company,Gabi David,"Fri, 15 May 2026 15:12:06 +0000",draft,4.25,Stoutment,Schnitt Brewing Company﻿,Stout - Other
+schnitt-brewing-company,Tal Neumann,"Fri, 15 May 2026 14:35:09 +0000",draft,4.0,Sessionista,Schnitt Brewing Company﻿,IPA - New England / Hazy
+schnitt-brewing-company,Omri Levy,"Fri, 15 May 2026 14:11:40 +0000",,3.7,האימפריה מכה שניט,Schnitt Brewing Company﻿,IPA - American
+schnitt-brewing-company,AfekStein12,"Fri, 15 May 2026 14:11:24 +0000",,3.75,האימפריה מכה שניט,Schnitt Brewing Company﻿,IPA - American
+schnitt-brewing-company,Roie Gilad,"Fri, 15 May 2026 12:25:53 +0000",draft,4.0,Stoutment,Schnitt Brewing Company﻿,Stout - Other
+schnitt-brewing-company,Roie Gilad,"Fri, 15 May 2026 11:49:01 +0000",draft,2.75,Tea Party: Masala,Schnitt Brewing Company﻿,Pale Ale - Other
+schnitt-brewing-company,Roie Gilad,"Fri, 15 May 2026 11:28:01 +0000",draft,3.25,Elderflower,Schnitt Brewing Company﻿,Pale Ale - Other
+schnitt-brewing-company,Roie Gilad,"Fri, 15 May 2026 11:25:10 +0000",draft,4.0,Wolfgang,Schnitt Brewing Company﻿,Lager - Vienna
+lauter,Aviad Attia,"Fri, 15 May 2026 10:59:13 +0000",,,I'll Be Bock,Schnitt Brewing Company﻿,Bock - Single / Traditional
+beerbazaar-brewery,Oren Sela,"Fri, 15 May 2026 10:11:07 +0000",draft,3.75,Ziggy (זיגי),BeerBazaar / Mivshelet Ha’Aretz,IPA - New England / Hazy
 b7-beer-house,Alex Fux,"Fri, 15 May 2026 08:59:20 +0000",draft,5.0,Prune Porter,Sheeta Brewery (בירה שיטה),Porter - Other
 b7-beer-house,Alex Fux,"Fri, 15 May 2026 08:26:27 +0000",draft,4.0,Springfest,Sierra Nevada Brewing Co.,IPA - American
 lauter,Eli Smikin,"Fri, 15 May 2026 05:33:48 +0000",can,4.0,"Yes We Can - Hazy IPA: Citra, Zibi",Maryensztadt,IPA - New England / Hazy
@@ -25,8 +61,8 @@ beerz,Alexander the Great ™️,"Thu, 14 May 2026 19:29:07 +0000",can,3.75,Fore
 b7-beer-house,Yuval Lutski,"Thu, 14 May 2026 19:28:53 +0000",can,4.0,"Californication - Sabro, Citra, Idaho 7 & Lemondrop",Maryensztadt,IPA - New England / Hazy
 beerz,Ilya Markovsky,"Thu, 14 May 2026 19:24:56 +0000",can,3.9,Forever Brewing Black Queen,Волинський бровар,Lager - Other
 b7-beer-house,Yotam Bar-natan,"Thu, 14 May 2026 19:24:30 +0000",can,3.1,"Californication - Citra, El Dorado & Mosaic",Maryensztadt,Pale Ale - New England / Hazy
-beerz,Ilya Markovsky,"Thu, 14 May 2026 19:24:22 +0000",can,3.7,Forever Brewing Sorbet Line #2,Волинський бровар,Fruit Beer
 lauter,UV R,"Thu, 14 May 2026 19:24:22 +0000",can,4.0,"Yes We Can - Hazy IPA: Citra, Zibi",Maryensztadt,IPA - New England / Hazy
+beerz,Ilya Markovsky,"Thu, 14 May 2026 19:24:22 +0000",can,3.7,Forever Brewing Sorbet Line #2,Волинський бровар,Fruit Beer
 lauter,UV R,"Thu, 14 May 2026 19:23:56 +0000",can,3.5,Гипер-Ёжик в Кибер-Тумане - Hazy IPA,Post Apocalyptic,"Homebrew, IPA - New England / Hazy"
 b7-beer-house,Yuval Lutski,"Thu, 14 May 2026 19:23:49 +0000",can,3.75,"Yes We Can - Hazy IPA: Citra, Nelson Sauvin",Maryensztadt,IPA - New England / Hazy
 b7-beer-house,Yuval Lutski,"Thu, 14 May 2026 19:23:08 +0000",can,2.75,APA,Maryensztadt,Pale Ale - American
@@ -38,8 +74,8 @@ beerz,Ilya Markovsky,"Thu, 14 May 2026 19:04:39 +0000",can,3.8,Forever Brewing J
 b7-beer-house,Yuval Lutski,"Thu, 14 May 2026 19:03:54 +0000",can,3.5,"Yes We Can - Rice Hazy IPA, Mosaic + El Dorado",Maryensztadt,IPA - New England / Hazy
 b7-beer-house,Yotam Bar-natan,"Thu, 14 May 2026 19:02:57 +0000",can,3.8,"Yes We Can - Hazy IPA: Citra, Zibi",Maryensztadt,IPA - New England / Hazy
 beerz,Alexander the Great ™️,"Thu, 14 May 2026 19:02:50 +0000",bottle,3.5,Forever Brewing Macho,Волинський бровар,Wheat Beer - Fruited
-b7-beer-house,Yotam Bar-natan,"Thu, 14 May 2026 18:58:35 +0000",can,3.9,"Yes We Can - Hazy IPA: Citra, Nelson Sauvin",Maryensztadt,IPA - New England / Hazy
 beerz,Ilya Markovsky,"Thu, 14 May 2026 18:58:35 +0000",bottle,3.3,Forever Brewing Macho,Волинський бровар,Wheat Beer - Fruited
+b7-beer-house,Yotam Bar-natan,"Thu, 14 May 2026 18:58:35 +0000",can,3.9,"Yes We Can - Hazy IPA: Citra, Nelson Sauvin",Maryensztadt,IPA - New England / Hazy
 beerz,Alexander the Great ™️,"Thu, 14 May 2026 18:55:32 +0000",bottle,3.75,Forever Brewing Space Travel,Волинський бровар,IPA - New England / Hazy
 b7-beer-house,Yotam Bar-natan,"Thu, 14 May 2026 18:49:14 +0000",can,3.1,APA,Maryensztadt,Pale Ale - American
 beerz,Ilya Markovsky,"Thu, 14 May 2026 18:45:42 +0000",bottle,3.8,Forever Brewing Space Travel,Волинський бровар,IPA - New England / Hazy
