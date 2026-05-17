@@ -1,4 +1,37 @@
 venue,user,time,serving,data_rating,beer_name,brewery,beer_type
+lauter,Gabi David,"Sun, 17 May 2026 05:59:14 +0000",draft,3.5,Pale Ale,Sierra Nevada Brewing Co.,Pale Ale - American
+beerz,Max N,"Sat, 16 May 2026 19:45:32 +0000",can,3.5,Forever Brewing Cappuccino,Волинський бровар,Porter - Baltic
+b7-beer-house,Instinct Basic,"Sat, 16 May 2026 19:35:04 +0000",,3.5,Snowtown,Sibeeria Brewery,IPA - New England / Hazy
+b7-beer-house,Instinct Basic,"Sat, 16 May 2026 19:34:34 +0000",draft,3.5,Photon,Equilibrium Brewery,Pale Ale - American
+b7-beer-house,Instinct Basic,"Sat, 16 May 2026 19:33:55 +0000",draft,3.5,Springfest,Sierra Nevada Brewing Co.,IPA - American
+beerz,Max N,"Sat, 16 May 2026 19:21:37 +0000",bottle,3.5,Forever Brewing Dominant,Волинський бровар,Stout - Other
+beerz,Max N,"Sat, 16 May 2026 19:17:45 +0000",can,3.4,Forever Brewing Sorbet Line #3,Волинський бровар,Sour - Smoothie / Pastry
+beerz,Max N,"Sat, 16 May 2026 18:42:07 +0000",bottle,3.3,Forever Brewing Hawaii,Волинський бровар,Sour - Fruited
+b7-beer-house,Yuval Lutski,"Sat, 16 May 2026 18:37:41 +0000",can,4.0,Ledoborec,Sibeeria Brewery,Porter - Imperial / Double Baltic
+b7-beer-house,Yuval Lutski,"Sat, 16 May 2026 18:36:57 +0000",bottle,2.5,Passiflora (פסיפלורה) - Passion Fruit Ale,Negev Brewery (נגב),Fruit Beer
+beerz,Max N,"Sat, 16 May 2026 18:02:01 +0000",can,3.2,Forever Brewing Sorbet Line #2,Волинський бровар,Fruit Beer
+lauter,Vladimir Kanevsky,"Sat, 16 May 2026 17:58:28 +0000",draft,3.5,Kuch Kuch,Schnitt Brewing Company﻿,IPA - American
+lauter,Vladimir Kanevsky,"Sat, 16 May 2026 17:57:41 +0000",draft,2.5,Unfiltered Lager,Isis Desert Brewery (מבשלת הנגב המערבי),Lager - Other
+beerz,Max N,"Sat, 16 May 2026 17:51:48 +0000",can,3.4,Forever Brewing Black Queen,Волинський бровар,Lager - Other
+beerz,Max N,"Sat, 16 May 2026 17:50:38 +0000",can,3.6,Forever Brewing Jumbo,Волинський бровар,Cream Ale
+lauter,Omri Gill,"Sat, 16 May 2026 16:38:41 +0000",draft,3.25,אדיר,קישקשתא (Kishkashta),Lager - Vienna
+lauter,Omri Gill,"Sat, 16 May 2026 16:38:25 +0000",draft,3.25,Unfiltered Lager,Isis Desert Brewery (מבשלת הנגב המערבי),Lager - Other
+lauter,Omri Gill,"Sat, 16 May 2026 16:33:44 +0000",draft,3.5,Kuch Kuch,Schnitt Brewing Company﻿,IPA - American
+lauter,Omri Levy,"Sat, 16 May 2026 16:32:16 +0000",draft,3.0,Hobgoblin IPA,Marston's Brewery,IPA - English
+schnitt-brewing-company,Itai Orr,"Sat, 16 May 2026 16:13:09 +0000",draft,3.25,Frenemy,Schnitt Brewing Company﻿,Pale Ale - American
+ursa,Alon Szczupak,"Sat, 16 May 2026 16:08:20 +0000",draft,4.0,Hobgoblin IPA,Marston's Brewery,IPA - English
+lauter,Afek Stein,"Sat, 16 May 2026 16:03:01 +0000",draft,3.5,Prior 8,Brouwerij St.Bernardus,Belgian Dubbel
+lauter,Vladimir Kanevsky,"Sat, 16 May 2026 16:01:01 +0000",draft,4.5,Pale Ale,Sierra Nevada Brewing Co.,Pale Ale - American
+b7-beer-house,Yuval Lutski,"Sat, 16 May 2026 15:49:33 +0000",can,3.0,Porter&Sons: Chocolate Orange,Schnitt Brewing Company﻿,Porter - Other
+schnitt-brewing-company,Afek Stein,"Sat, 16 May 2026 15:14:26 +0000",draft,3.75,Punk IPA,BrewDog,IPA - American
+lauter,Omri Levy,"Sat, 16 May 2026 15:13:04 +0000",draft,2.9,אדיר,קישקשתא (Kishkashta),Lager - Vienna
+b7-beer-house,Yuval Lutski,"Sat, 16 May 2026 15:04:12 +0000",can,4.5,Gemini | Blueberry + Pineapple + Glazed Donut,Mortalis Brewing Company,Sour - Smoothie / Pastry
+b7-beer-house,Yuval Lutski,"Sat, 16 May 2026 14:39:47 +0000",can,4.0,Star Light,Equilibrium Brewery,IPA - Imperial / Double New England / Hazy
+b7-beer-house,Yuval Lutski,"Sat, 16 May 2026 14:25:51 +0000",can,3.25,Blueberry Brioche,Schnitt Brewing Company﻿,Pale Ale - Other
+b7-beer-house,Yuval Lutski,"Sat, 16 May 2026 14:25:09 +0000",can,3.5,Elderflower,Schnitt Brewing Company﻿,Pale Ale - Other
+schnitt-brewing-company,moti_shatz_0409,"Sat, 16 May 2026 11:53:58 +0000",draft,3.5,Elderflower,Schnitt Brewing Company﻿,Pale Ale - Other
+schnitt-brewing-company,Amit Baitner,"Sat, 16 May 2026 10:59:29 +0000",draft,3.75,Abbey Mode,Schnitt Brewing Company﻿,Belgian Dubbel
+schnitt-brewing-company,Alon P,"Sat, 16 May 2026 10:04:20 +0000",draft,3.2,Tea Party: Masala,Schnitt Brewing Company﻿,Pale Ale - Other
 lauter,Amit Carmi,"Fri, 15 May 2026 22:03:03 +0000",draft,3.25,Buster's Cranberry Lemonade,Oak & Ash,Malt Liquor
 lauter,Amit Carmi,"Fri, 15 May 2026 22:02:33 +0000",draft,3.25,Pale Ale,Sierra Nevada Brewing Co.,Pale Ale - American
 lauter,dafi20,"Fri, 15 May 2026 19:55:46 +0000",draft,3.75,סיידר תפוחים אלכוהולי חצי יבש,Hamatsesa (המתססה),Cider - Traditional / Apfelwein

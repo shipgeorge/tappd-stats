@@ -1,8 +1,305 @@
 // 🍺 BEER STATS DATA - Generated automatically
-// Last updated: 2026-05-16 08:14:11
-// Total records: 16182
+// Last updated: 2026-05-17 08:30:29
+// Total records: 16215
 
 const BEER_DATA = [
+  {
+    "venue": "lauter",
+    "time": "2026-05-17T05:59:14+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Pale Ale",
+    "brewery": "Sierra Nevada Brewing Co.",
+    "beer_type": "Pale Ale - American"
+  },
+  {
+    "venue": "beerz",
+    "time": "2026-05-16T19:45:32+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Forever Brewing Cappuccino",
+    "brewery": "Волинський бровар",
+    "beer_type": "Porter - Baltic"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-16T19:35:04+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "Snowtown",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-16T19:34:34+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Photon",
+    "brewery": "Equilibrium Brewery",
+    "beer_type": "Pale Ale - American"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-16T19:33:55+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Springfest",
+    "brewery": "Sierra Nevada Brewing Co.",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "beerz",
+    "time": "2026-05-16T19:21:37+00:00",
+    "serving": "bottle",
+    "rating": 3.5,
+    "beer_name": "Forever Brewing Dominant",
+    "brewery": "Волинський бровар",
+    "beer_type": "Stout - Other"
+  },
+  {
+    "venue": "beerz",
+    "time": "2026-05-16T19:17:45+00:00",
+    "serving": "can",
+    "rating": 3.4,
+    "beer_name": "Forever Brewing Sorbet Line #3",
+    "brewery": "Волинський бровар",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "beerz",
+    "time": "2026-05-16T18:42:07+00:00",
+    "serving": "bottle",
+    "rating": 3.3,
+    "beer_name": "Forever Brewing Hawaii",
+    "brewery": "Волинський бровар",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-16T18:37:41+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Ledoborec",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": "Porter - Imperial / Double Baltic"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-16T18:36:57+00:00",
+    "serving": "bottle",
+    "rating": 2.5,
+    "beer_name": "Passiflora (פסיפלורה) - Passion Fruit Ale",
+    "brewery": "Negev Brewery (נגב)",
+    "beer_type": "Fruit Beer"
+  },
+  {
+    "venue": "beerz",
+    "time": "2026-05-16T18:02:01+00:00",
+    "serving": "can",
+    "rating": 3.2,
+    "beer_name": "Forever Brewing Sorbet Line #2",
+    "brewery": "Волинський бровар",
+    "beer_type": "Fruit Beer"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-16T17:58:28+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Kuch Kuch",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-16T17:57:41+00:00",
+    "serving": "draft",
+    "rating": 2.5,
+    "beer_name": "Unfiltered Lager",
+    "brewery": "Isis Desert Brewery (מבשלת הנגב המערבי)",
+    "beer_type": "Lager - Other"
+  },
+  {
+    "venue": "beerz",
+    "time": "2026-05-16T17:51:48+00:00",
+    "serving": "can",
+    "rating": 3.4,
+    "beer_name": "Forever Brewing Black Queen",
+    "brewery": "Волинський бровар",
+    "beer_type": "Lager - Other"
+  },
+  {
+    "venue": "beerz",
+    "time": "2026-05-16T17:50:38+00:00",
+    "serving": "can",
+    "rating": 3.6,
+    "beer_name": "Forever Brewing Jumbo",
+    "brewery": "Волинський бровар",
+    "beer_type": "Cream Ale"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-16T16:38:41+00:00",
+    "serving": "draft",
+    "rating": 3.25,
+    "beer_name": "אדיר",
+    "brewery": "קישקשתא (Kishkashta)",
+    "beer_type": "Lager - Vienna"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-16T16:38:25+00:00",
+    "serving": "draft",
+    "rating": 3.25,
+    "beer_name": "Unfiltered Lager",
+    "brewery": "Isis Desert Brewery (מבשלת הנגב המערבי)",
+    "beer_type": "Lager - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-16T16:33:44+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Kuch Kuch",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-16T16:32:16+00:00",
+    "serving": "draft",
+    "rating": 3.0,
+    "beer_name": "Hobgoblin IPA",
+    "brewery": "Marston's Brewery",
+    "beer_type": "IPA - English"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-16T16:13:09+00:00",
+    "serving": "draft",
+    "rating": 3.25,
+    "beer_name": "Frenemy",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pale Ale - American"
+  },
+  {
+    "venue": "ursa",
+    "time": "2026-05-16T16:08:20+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Hobgoblin IPA",
+    "brewery": "Marston's Brewery",
+    "beer_type": "IPA - English"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-16T16:03:01+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Prior 8",
+    "brewery": "Brouwerij St.Bernardus",
+    "beer_type": "Belgian Dubbel"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-16T16:01:01+00:00",
+    "serving": "draft",
+    "rating": 4.5,
+    "beer_name": "Pale Ale",
+    "brewery": "Sierra Nevada Brewing Co.",
+    "beer_type": "Pale Ale - American"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-16T15:49:33+00:00",
+    "serving": "can",
+    "rating": 3.0,
+    "beer_name": "Porter&Sons: Chocolate Orange",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Porter - Other"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-16T15:14:26+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Punk IPA",
+    "brewery": "BrewDog",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-16T15:13:04+00:00",
+    "serving": "draft",
+    "rating": 2.9,
+    "beer_name": "אדיר",
+    "brewery": "קישקשתא (Kishkashta)",
+    "beer_type": "Lager - Vienna"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-16T15:04:12+00:00",
+    "serving": "can",
+    "rating": 4.5,
+    "beer_name": "Gemini | Blueberry + Pineapple + Glazed Donut",
+    "brewery": "Mortalis Brewing Company",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-16T14:39:47+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Star Light",
+    "brewery": "Equilibrium Brewery",
+    "beer_type": "IPA - Imperial / Double New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-16T14:25:51+00:00",
+    "serving": "can",
+    "rating": 3.25,
+    "beer_name": "Blueberry Brioche",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pale Ale - Other"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-16T14:25:09+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Elderflower",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pale Ale - Other"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-16T11:53:58+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Elderflower",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pale Ale - Other"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-16T10:59:29+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Abbey Mode",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Belgian Dubbel"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-16T10:04:20+00:00",
+    "serving": "draft",
+    "rating": 3.2,
+    "beer_name": "Tea Party: Masala",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pale Ale - Other"
+  },
   {
     "venue": "lauter",
     "time": "2026-05-15T22:03:03+00:00",
