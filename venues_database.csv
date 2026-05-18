@@ -1,4 +1,28 @@
 venue,user,time,serving,data_rating,beer_name,brewery,beer_type
+lauter,Eylon Hadar,"Sun, 17 May 2026 20:10:39 +0000",draft,2.75,"Bitburger 0,0% alkoholfreies Pils",Bitburger Brauerei,Non-Alcoholic - Lager
+lauter,Eylon Hadar,"Sun, 17 May 2026 20:08:25 +0000",,3.0,אדיר,קישקשתא (Kishkashta),Lager - Vienna
+schnitt-brewing-company,Nadav Cohen,"Sun, 17 May 2026 19:47:19 +0000",,3.75,Sessionista,Schnitt Brewing Company﻿,IPA - New England / Hazy
+schnitt-brewing-company,odi paneth,"Sun, 17 May 2026 19:23:00 +0000",,,Elderflower,Schnitt Brewing Company﻿,Pale Ale - Other
+schnitt-brewing-company,alonkr,"Sun, 17 May 2026 18:53:40 +0000",draft,3.75,Tea Party: Masala,Schnitt Brewing Company﻿,Pale Ale - Other
+lauter,Nir Langer,"Sun, 17 May 2026 18:46:47 +0000",can,4.0,Eclaron Pils | Eclipse / Nectaron,Lubrow Brewery,Pilsner - Other
+schnitt-brewing-company,odi paneth,"Sun, 17 May 2026 18:23:56 +0000",draft,3.75,שאגת העצלן,Schnitt Brewing Company﻿,IPA - American
+lauter,Shmupi Koto,"Sun, 17 May 2026 17:43:07 +0000",draft,4.5,Gueuze Tilquin – Draft Version,Gueuzerie Tilquin,Lambic - Gueuze
+schnitt-brewing-company,David Siegel,"Sun, 17 May 2026 16:50:52 +0000",draft,3.75,שאגת העצלן,Schnitt Brewing Company﻿,IPA - American
+schnitt-brewing-company,Yana O,"Sun, 17 May 2026 16:26:47 +0000",,3.5,Cheers Alenbeer,Schnitt Brewing Company﻿,IPA - Session
+schnitt-brewing-company,Yana O,"Sun, 17 May 2026 16:23:56 +0000",,3.9,שאגת העצלן,Schnitt Brewing Company﻿,IPA - American
+lauter,Yana O,"Sun, 17 May 2026 15:58:05 +0000",draft,4.0,Double Intergalactica,Schnitt Brewing Company﻿,IPA - New England / Hazy
+lauter,Benjamin Rivkin,"Sun, 17 May 2026 15:50:54 +0000",draft,4.25,Porter & Sons Salted Caramel 2024,Schnitt Brewing Company﻿,Porter - Other
+schnitt-brewing-company,Nir Langer,"Sun, 17 May 2026 15:38:57 +0000",,,שאגת העצלן,Schnitt Brewing Company﻿,IPA - American
+lauter,Kelly Inbar,"Sun, 17 May 2026 15:13:01 +0000",draft,3.5,Unfiltered Lager,Isis Desert Brewery (מבשלת הנגב המערבי),Lager - Other
+schnitt-brewing-company,Alex Shtouff,"Sun, 17 May 2026 14:41:10 +0000",draft,3.75,שאגת העצלן,Schnitt Brewing Company﻿,IPA - American
+schnitt-brewing-company,Oren Gutman,"Sun, 17 May 2026 13:59:57 +0000",,4.5,Lazy Bee Classic,Schnitt Brewing Company﻿,Mead - Session / Short
+b7-beer-house,Ofer Neumann,"Sun, 17 May 2026 11:58:55 +0000",draft,4.0,Hoppy Ever After,New Pioneer Brewing Co - חלוץ חדש,Pale Ale - New England / Hazy
+schnitt-brewing-company,Nadav,"Sun, 17 May 2026 11:14:52 +0000",draft,3.5,Frenemy,Schnitt Brewing Company﻿,Pale Ale - American
+b7-beer-house,Ofer Neumann,"Sun, 17 May 2026 11:05:33 +0000",draft,4.0,Snowtown,Sibeeria Brewery,IPA - New England / Hazy
+schnitt-brewing-company,Lior Degabli,"Sun, 17 May 2026 10:16:42 +0000",,3.75,Sessionista,Schnitt Brewing Company﻿,IPA - New England / Hazy
+schnitt-brewing-company,Lior Degabli,"Sun, 17 May 2026 10:15:30 +0000",,3.25,Elderflower,Schnitt Brewing Company﻿,Pale Ale - Other
+schnitt-brewing-company,Lior Degabli,"Sun, 17 May 2026 10:12:57 +0000",,3.25,Cheers Alenbeer,Schnitt Brewing Company﻿,IPA - Session
+schnitt-brewing-company,Lior Degabli,"Sun, 17 May 2026 10:10:49 +0000",,3.5,Frenemy,Schnitt Brewing Company﻿,Pale Ale - American
 lauter,Gabi David,"Sun, 17 May 2026 05:59:14 +0000",draft,3.5,Pale Ale,Sierra Nevada Brewing Co.,Pale Ale - American
 beerz,Max N,"Sat, 16 May 2026 19:45:32 +0000",can,3.5,Forever Brewing Cappuccino,Волинський бровар,Porter - Baltic
 b7-beer-house,Instinct Basic,"Sat, 16 May 2026 19:35:04 +0000",,3.5,Snowtown,Sibeeria Brewery,IPA - New England / Hazy
@@ -94,8 +118,8 @@ beerz,Alexander the Great ™️,"Thu, 14 May 2026 19:29:07 +0000",can,3.75,Fore
 b7-beer-house,Yuval Lutski,"Thu, 14 May 2026 19:28:53 +0000",can,4.0,"Californication - Sabro, Citra, Idaho 7 & Lemondrop",Maryensztadt,IPA - New England / Hazy
 beerz,Ilya Markovsky,"Thu, 14 May 2026 19:24:56 +0000",can,3.9,Forever Brewing Black Queen,Волинський бровар,Lager - Other
 b7-beer-house,Yotam Bar-natan,"Thu, 14 May 2026 19:24:30 +0000",can,3.1,"Californication - Citra, El Dorado & Mosaic",Maryensztadt,Pale Ale - New England / Hazy
-lauter,UV R,"Thu, 14 May 2026 19:24:22 +0000",can,4.0,"Yes We Can - Hazy IPA: Citra, Zibi",Maryensztadt,IPA - New England / Hazy
 beerz,Ilya Markovsky,"Thu, 14 May 2026 19:24:22 +0000",can,3.7,Forever Brewing Sorbet Line #2,Волинський бровар,Fruit Beer
+lauter,UV R,"Thu, 14 May 2026 19:24:22 +0000",can,4.0,"Yes We Can - Hazy IPA: Citra, Zibi",Maryensztadt,IPA - New England / Hazy
 lauter,UV R,"Thu, 14 May 2026 19:23:56 +0000",can,3.5,Гипер-Ёжик в Кибер-Тумане - Hazy IPA,Post Apocalyptic,"Homebrew, IPA - New England / Hazy"
 b7-beer-house,Yuval Lutski,"Thu, 14 May 2026 19:23:49 +0000",can,3.75,"Yes We Can - Hazy IPA: Citra, Nelson Sauvin",Maryensztadt,IPA - New England / Hazy
 b7-beer-house,Yuval Lutski,"Thu, 14 May 2026 19:23:08 +0000",can,2.75,APA,Maryensztadt,Pale Ale - American
@@ -311,8 +335,8 @@ schnitt-brewing-company,Andrey Granovsky,"Fri, 08 May 2026 14:26:07 +0000",draft
 lauter,dafi20,"Fri, 08 May 2026 14:26:00 +0000",draft,3.5,Oasis,Negev Brewery (נגב),Blonde / Golden Ale - Other
 schnitt-brewing-company,Dr Troubles,"Fri, 08 May 2026 14:20:50 +0000",draft,3.25,Ice Ice Bockbier,Schnitt Brewing Company﻿,Bock - Eisbock
 b7-beer-house,Oren Hazan,"Fri, 08 May 2026 14:05:49 +0000",draft,4.0,I Love the Smell of Strata In the Morning,Sibeeria Brewery,IPA - American
-schnitt-brewing-company,Yoav Kowalski,"Fri, 08 May 2026 14:05:01 +0000",,3.5,Cheers Alenbeer,Schnitt Brewing Company﻿,IPA - Session
 b7-beer-house,Oren Hazan,"Fri, 08 May 2026 14:05:01 +0000",draft,4.0,Helix,Equilibrium Brewery,Pilsner - German
+schnitt-brewing-company,Yoav Kowalski,"Fri, 08 May 2026 14:05:01 +0000",,3.5,Cheers Alenbeer,Schnitt Brewing Company﻿,IPA - Session
 b7-beer-house,Oren Hazan,"Fri, 08 May 2026 14:04:15 +0000",draft,3.75,רוביקון,New Pioneer Brewing Co - חלוץ חדש,Brown Ale - American
 schnitt-brewing-company,Yoav Kowalski,"Fri, 08 May 2026 14:04:02 +0000",draft,3.25,Ice Ice Bockbier,Schnitt Brewing Company﻿,Bock - Eisbock
 schnitt-brewing-company,Vladimir Kanevsky,"Fri, 08 May 2026 13:59:02 +0000",draft,4.0,Cheers Alenbeer,Schnitt Brewing Company﻿,IPA - Session
