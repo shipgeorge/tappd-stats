@@ -1,8 +1,215 @@
 // 🍺 BEER STATS DATA - Generated automatically
-// Last updated: 2026-05-18 10:21:08
-// Total records: 16239
+// Last updated: 2026-05-19 09:59:45
+// Total records: 16262
 
 const BEER_DATA = [
+  {
+    "venue": "porter-and-sons",
+    "time": "2026-05-18T18:56:18+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "Pale Ale",
+    "brewery": "Sierra Nevada Brewing Co.",
+    "beer_type": "Pale Ale - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-18T18:54:08+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "Double Intergalactica",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-18T18:48:29+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Springfest",
+    "brewery": "Sierra Nevada Brewing Co.",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-18T18:33:04+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Elderflower",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pale Ale - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-18T18:31:31+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Hobgoblin IPA",
+    "brewery": "Marston's Brewery",
+    "beer_type": "IPA - English"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-18T16:09:36+00:00",
+    "serving": "draft",
+    "rating": 4.5,
+    "beer_name": "שאגת העצלן",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-18T14:39:13+00:00",
+    "serving": "draft",
+    "rating": 3.8,
+    "beer_name": "סיידר תפוחים אלכוהולי חצי יבש",
+    "brewery": "Hamatsesa (המתססה)",
+    "beer_type": "Cider - Traditional / Apfelwein"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-18T14:37:33+00:00",
+    "serving": "draft",
+    "rating": 3.6,
+    "beer_name": "El Hombre",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Lager - Mexican"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-18T14:11:44+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "DemiHydra | Circle the Wagons",
+    "brewery": "Mortalis Brewing Company",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-18T14:11:17+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "Hydra | Sangria",
+    "brewery": "Mortalis Brewing Company",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-18T14:10:47+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Fros'e Hydra Deuce",
+    "brewery": "Mortalis Brewing Company",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-18T13:37:13+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Buster's Cranberry Lemonade",
+    "brewery": "Oak & Ash",
+    "beer_type": "Malt Liquor"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-18T13:35:48+00:00",
+    "serving": "draft",
+    "rating": 3.8,
+    "beer_name": "Sessionista",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-18T13:35:42+00:00",
+    "serving": "Unknown",
+    "rating": 4.25,
+    "beer_name": "Sessionista",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-18T13:32:45+00:00",
+    "serving": "draft",
+    "rating": 3.4,
+    "beer_name": "Elderflower",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pale Ale - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-18T13:24:03+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Double Intergalactica",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-18T13:23:32+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Punk IPA",
+    "brewery": "BrewDog",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-18T13:23:16+00:00",
+    "serving": "draft",
+    "rating": 3.9,
+    "beer_name": "שאגת העצלן",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-18T13:23:11+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "הייזי שמייזי",
+    "brewery": "Herzl (הרצל)",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-18T13:22:31+00:00",
+    "serving": "draft",
+    "rating": 3.25,
+    "beer_name": "Kuch Kuch",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-18T13:21:52+00:00",
+    "serving": "draft",
+    "rating": 3.25,
+    "beer_name": "Hobgoblin IPA",
+    "brewery": "Marston's Brewery",
+    "beer_type": "IPA - English"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-18T13:18:57+00:00",
+    "serving": "can",
+    "rating": 3.25,
+    "beer_name": "Californication - Citra & PL01",
+    "brewery": "Maryensztadt",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-18T13:18:41+00:00",
+    "serving": "draft",
+    "rating": 3.2,
+    "beer_name": "Cheers Alenbeer",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - Session"
+  },
   {
     "venue": "lauter",
     "time": "2026-05-17T20:10:39+00:00",
@@ -1075,15 +1282,6 @@ const BEER_DATA = [
     "beer_type": "Pale Ale - New England / Hazy"
   },
   {
-    "venue": "beerz",
-    "time": "2026-05-14T19:24:22+00:00",
-    "serving": "can",
-    "rating": 3.7,
-    "beer_name": "Forever Brewing Sorbet Line #2",
-    "brewery": "Волинський бровар",
-    "beer_type": "Fruit Beer"
-  },
-  {
     "venue": "lauter",
     "time": "2026-05-14T19:24:22+00:00",
     "serving": "can",
@@ -1091,6 +1289,15 @@ const BEER_DATA = [
     "beer_name": "Yes We Can - Hazy IPA: Citra, Zibi",
     "brewery": "Maryensztadt",
     "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "beerz",
+    "time": "2026-05-14T19:24:22+00:00",
+    "serving": "can",
+    "rating": 3.7,
+    "beer_name": "Forever Brewing Sorbet Line #2",
+    "brewery": "Волинський бровар",
+    "beer_type": "Fruit Beer"
   },
   {
     "venue": "lauter",
