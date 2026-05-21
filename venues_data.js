@@ -1,8 +1,269 @@
 // 🍺 BEER STATS DATA - Generated automatically
-// Last updated: 2026-05-20 09:49:47
-// Total records: 16284
+// Last updated: 2026-05-21 09:57:22
+// Total records: 16313
 
 const BEER_DATA = [
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-21T09:52:07+00:00",
+    "serving": "can",
+    "rating": 3.8,
+    "beer_name": "Campanula",
+    "brewery": "Mortalis Brewing Company",
+    "beer_type": "IPA - Imperial / Double New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-21T09:42:40+00:00",
+    "serving": "can",
+    "rating": 4.4,
+    "beer_name": "Peach Silhouette",
+    "brewery": "Hudson Valley Brewery",
+    "beer_type": "IPA - Sour"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-21T09:40:13+00:00",
+    "serving": "can",
+    "rating": 4.3,
+    "beer_name": "COCO BEWARE*",
+    "brewery": "One Drop Brewing Co",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-20T20:19:57+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Guava Island 2026",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-20T20:18:15+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Frenemy",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pale Ale - American"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-20T20:16:58+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Float",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-20T19:44:39+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "שאגת העצלן",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-20T19:23:40+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "Prior 8",
+    "brewery": "Brouwerij St.Bernardus",
+    "beer_type": "Belgian Dubbel"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-20T19:22:47+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Hoppy Little Thing",
+    "brewery": "Sierra Nevada Brewing Co.",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-20T18:42:09+00:00",
+    "serving": "draft",
+    "rating": 5.0,
+    "beer_name": "אינפוזיה - פומלה, אשכולית, ליים",
+    "brewery": "New Pioneer Brewing Co - חלוץ חדש",
+    "beer_type": "IPA - Fruited"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-20T18:33:07+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Everyday Life",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": "Pilsner - Czech / Bohemian"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-20T18:28:33+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Everyday Life",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": "Pilsner - Czech / Bohemian"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-20T18:04:16+00:00",
+    "serving": "draft",
+    "rating": 4.2,
+    "beer_name": "Strawberry Sundae",
+    "brewery": "Vault City Brewing",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-20T17:58:42+00:00",
+    "serving": "draft",
+    "rating": 4.5,
+    "beer_name": "אינפוזיה - פומלה, אשכולית, ליים",
+    "brewery": "New Pioneer Brewing Co - חלוץ חדש",
+    "beer_type": "IPA - Fruited"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-20T17:38:32+00:00",
+    "serving": "draft",
+    "rating": 4.1,
+    "beer_name": "אינפוזיה - פומלה, אשכולית, ליים",
+    "brewery": "New Pioneer Brewing Co - חלוץ חדש",
+    "beer_type": "IPA - Fruited"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-20T16:52:21+00:00",
+    "serving": "draft",
+    "rating": 5.0,
+    "beer_name": "אינפוזיה - פומלה, אשכולית, ליים",
+    "brewery": "New Pioneer Brewing Co - חלוץ חדש",
+    "beer_type": "IPA - Fruited"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-20T16:12:43+00:00",
+    "serving": "draft",
+    "rating": 3.25,
+    "beer_name": "Sab Kuch Milaga",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Lager - IPL (India Pale Lager)"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-20T15:12:58+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Forever Brewing Cappuccino",
+    "brewery": "Волинський бровар",
+    "beer_type": "Porter - Baltic"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-20T14:46:51+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Elderflower",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pale Ale - Other"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-20T14:44:17+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "שאגת העצלן",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-20T14:11:38+00:00",
+    "serving": "bottle",
+    "rating": 3.5,
+    "beer_name": "ESB",
+    "brewery": "Fuller's Griffin Brewery",
+    "beer_type": "Bitter - Extra Special / Strong (ESB)"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-20T14:07:08+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "אדיר",
+    "brewery": "קישקשתא (Kishkashta)",
+    "beer_type": "Lager - Vienna"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-20T13:15:57+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "Float",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-20T13:14:37+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "שאגת העצלן",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-20T13:12:56+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "Guava Island 2026",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-20T13:10:56+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Guava Island 2026",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-20T13:10:01+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Sessionista",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-20T12:48:41+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "אינפוזיה - פומלה, אשכולית, ליים",
+    "brewery": "New Pioneer Brewing Co - חלוץ חדש",
+    "beer_type": "IPA - Fruited"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-20T12:32:22+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "Guava Island 2026",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
   {
     "venue": "schnitt-brewing-company",
     "time": "2026-05-19T21:27:59+00:00",
@@ -1345,15 +1606,6 @@ const BEER_DATA = [
     "beer_type": "IPA - Triple New England / Hazy"
   },
   {
-    "venue": "b7-beer-house",
-    "time": "2026-05-14T19:51:22+00:00",
-    "serving": "can",
-    "rating": 3.6,
-    "beer_name": "CONGRATS! YOU ARE NOT LOOKING AT YOUR PHONE | vertikal verses series 4/5",
-    "brewery": "ATELIER VRAI",
-    "beer_type": "IPA - Triple New England / Hazy"
-  },
-  {
     "venue": "beerz",
     "time": "2026-05-14T19:51:22+00:00",
     "serving": "can",
@@ -1361,6 +1613,15 @@ const BEER_DATA = [
     "beer_name": "Yummy Prickly Pear, Banana, Pear & Kiwi",
     "brewery": "Sibeeria Brewery",
     "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-14T19:51:22+00:00",
+    "serving": "can",
+    "rating": 3.6,
+    "beer_name": "CONGRATS! YOU ARE NOT LOOKING AT YOUR PHONE | vertikal verses series 4/5",
+    "brewery": "ATELIER VRAI",
+    "beer_type": "IPA - Triple New England / Hazy"
   },
   {
     "venue": "b7-beer-house",

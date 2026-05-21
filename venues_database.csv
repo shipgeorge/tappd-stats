@@ -1,4 +1,33 @@
 venue,user,time,serving,data_rating,beer_name,brewery,beer_type
+b7-beer-house,Yotam Bar-natan,"Thu, 21 May 2026 09:52:07 +0000",can,3.8,Campanula,Mortalis Brewing Company,IPA - Imperial / Double New England / Hazy
+b7-beer-house,Yotam Bar-natan,"Thu, 21 May 2026 09:42:40 +0000",can,4.4,Peach Silhouette,Hudson Valley Brewery,IPA - Sour
+b7-beer-house,Yotam Bar-natan,"Thu, 21 May 2026 09:40:13 +0000",can,4.3,COCO BEWARE*,One Drop Brewing Co,Sour - Smoothie / Pastry
+schnitt-brewing-company,Avi Shalom,"Wed, 20 May 2026 20:19:57 +0000",draft,4.0,Guava Island 2026,Schnitt Brewing Company﻿,IPA - New England / Hazy
+schnitt-brewing-company,Avi Shalom,"Wed, 20 May 2026 20:18:15 +0000",draft,3.75,Frenemy,Schnitt Brewing Company﻿,Pale Ale - American
+schnitt-brewing-company,Avi Shalom,"Wed, 20 May 2026 20:16:58 +0000",draft,3.75,Float,Schnitt Brewing Company﻿,IPA - New England / Hazy
+schnitt-brewing-company,Yonatan Bashi,"Wed, 20 May 2026 19:44:39 +0000",,,שאגת העצלן,Schnitt Brewing Company﻿,IPA - American
+lauter,yotamgo_222,"Wed, 20 May 2026 19:23:40 +0000",,3.75,Prior 8,Brouwerij St.Bernardus,Belgian Dubbel
+lauter,Tal,"Wed, 20 May 2026 19:22:47 +0000",can,3.75,Hoppy Little Thing,Sierra Nevada Brewing Co.,IPA - New England / Hazy
+b7-beer-house,Dima Shleifman,"Wed, 20 May 2026 18:42:09 +0000",draft,5.0,"אינפוזיה - פומלה, אשכולית, ליים",New Pioneer Brewing Co - חלוץ חדש,IPA - Fruited
+b7-beer-house,Martin Sampson,"Wed, 20 May 2026 18:33:07 +0000",,,Everyday Life,Sibeeria Brewery,Pilsner - Czech / Bohemian
+b7-beer-house,Martin Sampson,"Wed, 20 May 2026 18:28:33 +0000",,,Everyday Life,Sibeeria Brewery,Pilsner - Czech / Bohemian
+b7-beer-house,Yotam Bar-natan,"Wed, 20 May 2026 18:04:16 +0000",draft,4.2,Strawberry Sundae,Vault City Brewing,Sour - Fruited
+b7-beer-house,Gilad Neeman,"Wed, 20 May 2026 17:58:42 +0000",draft,4.5,"אינפוזיה - פומלה, אשכולית, ליים",New Pioneer Brewing Co - חלוץ חדש,IPA - Fruited
+b7-beer-house,Yotam Bar-natan,"Wed, 20 May 2026 17:38:32 +0000",draft,4.1,"אינפוזיה - פומלה, אשכולית, ליים",New Pioneer Brewing Co - חלוץ חדש,IPA - Fruited
+b7-beer-house,Alex Fux,"Wed, 20 May 2026 16:52:21 +0000",draft,5.0,"אינפוזיה - פומלה, אשכולית, ליים",New Pioneer Brewing Co - חלוץ חדש,IPA - Fruited
+lauter,Slava Gvantmakher,"Wed, 20 May 2026 16:12:43 +0000",draft,3.25,Sab Kuch Milaga,Schnitt Brewing Company﻿,Lager - IPL (India Pale Lager)
+lauter,Roman Lipkin,"Wed, 20 May 2026 15:12:58 +0000",can,4.0,Forever Brewing Cappuccino,Волинський бровар,Porter - Baltic
+schnitt-brewing-company,Vasa,"Wed, 20 May 2026 14:46:51 +0000",draft,3.5,Elderflower,Schnitt Brewing Company﻿,Pale Ale - Other
+schnitt-brewing-company,Slava Gvantmakher,"Wed, 20 May 2026 14:44:17 +0000",draft,3.5,שאגת העצלן,Schnitt Brewing Company﻿,IPA - American
+b7-beer-house,Yuval Lutski,"Wed, 20 May 2026 14:11:38 +0000",bottle,3.5,ESB,Fuller's Griffin Brewery,Bitter - Extra Special / Strong (ESB)
+lauter,Vasa,"Wed, 20 May 2026 14:07:08 +0000",,3.5,אדיר,קישקשתא (Kishkashta),Lager - Vienna
+schnitt-brewing-company,Tom Lahav,"Wed, 20 May 2026 13:15:57 +0000",,3.75,Float,Schnitt Brewing Company﻿,IPA - New England / Hazy
+schnitt-brewing-company,Tom Lahav,"Wed, 20 May 2026 13:14:37 +0000",,3.5,שאגת העצלן,Schnitt Brewing Company﻿,IPA - American
+schnitt-brewing-company,Tom Lahav,"Wed, 20 May 2026 13:12:56 +0000",,3.5,Guava Island 2026,Schnitt Brewing Company﻿,IPA - New England / Hazy
+schnitt-brewing-company,Nir Langer,"Wed, 20 May 2026 13:10:56 +0000",,,Guava Island 2026,Schnitt Brewing Company﻿,IPA - New England / Hazy
+schnitt-brewing-company,Tom Lahav,"Wed, 20 May 2026 13:10:01 +0000",,4.0,Sessionista,Schnitt Brewing Company﻿,IPA - New England / Hazy
+b7-beer-house,Yuval Lutski,"Wed, 20 May 2026 12:48:41 +0000",draft,4.25,"אינפוזיה - פומלה, אשכולית, ליים",New Pioneer Brewing Co - חלוץ חדש,IPA - Fruited
+schnitt-brewing-company,Vasa,"Wed, 20 May 2026 12:32:22 +0000",draft,4.25,Guava Island 2026,Schnitt Brewing Company﻿,IPA - New England / Hazy
 schnitt-brewing-company,Nate Hartman,"Tue, 19 May 2026 21:27:59 +0000",draft,4.0,Double Intergalactica,Schnitt Brewing Company﻿,IPA - New England / Hazy
 schnitt-brewing-company,May Cohen,"Tue, 19 May 2026 20:18:13 +0000",can,4.0,宇宙SENSEI (UCHU SENSEI)(-2023),UCHU BREWING,IPA - New England / Hazy
 schnitt-brewing-company,May Cohen,"Tue, 19 May 2026 20:16:09 +0000",can,4.0,Schmoojee Mango Colada,Imprint Beer Co.,Sour - Smoothie / Pastry
@@ -148,8 +177,8 @@ b7-beer-house,Yuval Lutski,"Thu, 14 May 2026 20:31:20 +0000",can,4.0,STUFFD (Cos
 b7-beer-house,Yotam Bar-natan,"Thu, 14 May 2026 20:04:04 +0000",can,4.0,Golden Goose Eggs,Vault City Brewing,Sour - Smoothie / Pastry
 b7-beer-house,Yotam Bar-natan,"Thu, 14 May 2026 19:56:42 +0000",can,4.1,STUFFD (Cosmic Space Dust),Vault City Brewing,Sour - Smoothie / Pastry
 b7-beer-house,Yuval Lutski,"Thu, 14 May 2026 19:51:57 +0000",can,4.25,CONGRATS! YOU ARE NOT LOOKING AT YOUR PHONE | vertikal verses series 4/5,ATELIER VRAI,IPA - Triple New England / Hazy
-b7-beer-house,Yotam Bar-natan,"Thu, 14 May 2026 19:51:22 +0000",can,3.6,CONGRATS! YOU ARE NOT LOOKING AT YOUR PHONE | vertikal verses series 4/5,ATELIER VRAI,IPA - Triple New England / Hazy
 beerz,Ilya Markovsky,"Thu, 14 May 2026 19:51:22 +0000",can,3.9,"Yummy Prickly Pear, Banana, Pear & Kiwi",Sibeeria Brewery,Sour - Smoothie / Pastry
+b7-beer-house,Yotam Bar-natan,"Thu, 14 May 2026 19:51:22 +0000",can,3.6,CONGRATS! YOU ARE NOT LOOKING AT YOUR PHONE | vertikal verses series 4/5,ATELIER VRAI,IPA - Triple New England / Hazy
 b7-beer-house,Yuval Lutski,"Thu, 14 May 2026 19:46:59 +0000",can,3.75,Blueprints: Cosmic Compass,Moersleutel Craft Brewery,IPA - American
 b7-beer-house,Yotam Bar-natan,"Thu, 14 May 2026 19:42:07 +0000",can,3.9,Blueprints: Cosmic Compass,Moersleutel Craft Brewery,IPA - American
 b7-beer-house,Yuval Lutski,"Thu, 14 May 2026 19:39:18 +0000",can,4.0,Tropic Turbo,Moersleutel Craft Brewery,IPA - New England / Hazy
