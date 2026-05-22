@@ -1,8 +1,233 @@
 // 🍺 BEER STATS DATA - Generated automatically
-// Last updated: 2026-05-21 09:57:22
-// Total records: 16313
+// Last updated: 2026-05-22 09:42:21
+// Total records: 16338
 
 const BEER_DATA = [
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-21T20:58:29+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Cheers Alenbeer",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - Session"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-21T20:16:34+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "אדיר",
+    "brewery": "קישקשתא (Kishkashta)",
+    "beer_type": "Lager - Vienna"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-21T20:16:05+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "Unfiltered Lager",
+    "brewery": "Isis Desert Brewery (מבשלת הנגב המערבי)",
+    "beer_type": "Lager - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-21T20:13:46+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Prior 8",
+    "brewery": "Brouwerij St.Bernardus",
+    "beer_type": "Belgian Dubbel"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-21T20:02:11+00:00",
+    "serving": "Unknown",
+    "rating": 2.0,
+    "beer_name": "Bitburger 0,0% alkoholfreies Pils",
+    "brewery": "Bitburger Brauerei",
+    "beer_type": "Non-Alcoholic - Lager"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-21T20:01:31+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "Sab Kuch Milaga",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Lager - IPL (India Pale Lager)"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-21T20:01:08+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "סיידר תפוחים אלכוהולי חצי יבש",
+    "brewery": "Hamatsesa (המתססה)",
+    "beer_type": "Cider - Traditional / Apfelwein"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-21T19:10:55+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "Guava Island 2026",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-21T18:28:02+00:00",
+    "serving": "Unknown",
+    "rating": 3.25,
+    "beer_name": "שאגת העצלן",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-21T16:08:05+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "Wit Win (situation)",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Wheat Beer - Witbier / Blanche"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-21T16:05:37+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Lager Like It Used To Be - Bamberg Edition",
+    "brewery": "Lubrow Brewery",
+    "beer_type": "Rauchbier"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-21T15:10:44+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "שאגת העצלן",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-21T14:48:45+00:00",
+    "serving": "draft",
+    "rating": 3.25,
+    "beer_name": "Guava Island 2026",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-21T13:31:19+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "שאגת העצלן",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-21T13:17:30+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "שאגת העצלן",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-21T13:10:48+00:00",
+    "serving": "Unknown",
+    "rating": 3.4,
+    "beer_name": "Wit Win (situation)",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Wheat Beer - Witbier / Blanche"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-21T13:01:01+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Float",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-21T12:53:20+00:00",
+    "serving": "can",
+    "rating": 2.5,
+    "beer_name": "Forever Brewing Black Queen",
+    "brewery": "Волинський бровар",
+    "beer_type": "Lager - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-21T12:38:05+00:00",
+    "serving": "can",
+    "rating": 2.75,
+    "beer_name": "Forever Brewing Jumbo",
+    "brewery": "Волинський бровар",
+    "beer_type": "Cream Ale"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-21T12:13:25+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Elderflower",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pale Ale - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-21T12:06:36+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Sab Kuch Milaga",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Lager - IPL (India Pale Lager)"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-21T12:03:07+00:00",
+    "serving": "draft",
+    "rating": 3.25,
+    "beer_name": "שאגת העצלן",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-21T11:48:26+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Guava Island 2026",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-21T10:41:49+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "שאגת העצלן",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-21T10:21:40+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Elderflower",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pale Ale - Other"
+  },
   {
     "venue": "b7-beer-house",
     "time": "2026-05-21T09:52:07+00:00",
@@ -1741,15 +1966,6 @@ const BEER_DATA = [
     "beer_type": "Pale Ale - New England / Hazy"
   },
   {
-    "venue": "beerz",
-    "time": "2026-05-14T19:24:22+00:00",
-    "serving": "can",
-    "rating": 3.7,
-    "beer_name": "Forever Brewing Sorbet Line #2",
-    "brewery": "Волинський бровар",
-    "beer_type": "Fruit Beer"
-  },
-  {
     "venue": "lauter",
     "time": "2026-05-14T19:24:22+00:00",
     "serving": "can",
@@ -1757,6 +1973,15 @@ const BEER_DATA = [
     "beer_name": "Yes We Can - Hazy IPA: Citra, Zibi",
     "brewery": "Maryensztadt",
     "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "beerz",
+    "time": "2026-05-14T19:24:22+00:00",
+    "serving": "can",
+    "rating": 3.7,
+    "beer_name": "Forever Brewing Sorbet Line #2",
+    "brewery": "Волинський бровар",
+    "beer_type": "Fruit Beer"
   },
   {
     "venue": "lauter",
