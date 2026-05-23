@@ -1,4 +1,82 @@
 venue,user,time,serving,data_rating,beer_name,brewery,beer_type
+lauter,Afek Stein,"Fri, 22 May 2026 20:31:25 +0000",draft,3.75,Hobgoblin IPA,Marston's Brewery,IPA - English
+lauter,Nir Langer,"Fri, 22 May 2026 20:13:20 +0000",can,3.75,IPA 90,Lubrow Brewery,IPA - Imperial / Double
+lauter,Nir Langer,"Fri, 22 May 2026 20:00:50 +0000",can,3.75,"Yes We Can - Rice Hazy IPA, Mosaic + El Dorado",Maryensztadt,IPA - New England / Hazy
+lauter,Nadav,"Fri, 22 May 2026 18:18:34 +0000",can,,"Californication - Citra, El Dorado & Mosaic",Maryensztadt,Pale Ale - New England / Hazy
+lauter,UV R,"Fri, 22 May 2026 18:02:16 +0000",bottle,,Forever Brewing Macho,Волинський бровар,Wheat Beer - Fruited
+lauter,Nadav,"Fri, 22 May 2026 17:55:11 +0000",bottle,,Forever Brewing Macho,Волинський бровар,Wheat Beer - Fruited
+schnitt-brewing-company,Alma,"Fri, 22 May 2026 17:50:01 +0000",draft,4.0,Guava Island 2026,Schnitt Brewing Company﻿,IPA - New England / Hazy
+schnitt-brewing-company,Kelly Inbar,"Fri, 22 May 2026 17:14:43 +0000",draft,4.0,Eternal Struggle,Schnitt Brewing Company﻿,Pale Ale - Other
+schnitt-brewing-company,Kelly Inbar,"Fri, 22 May 2026 17:14:23 +0000",draft,3.75,שאגת העצלן,Schnitt Brewing Company﻿,IPA - American
+lauter,Nadav,"Fri, 22 May 2026 17:11:08 +0000",can,,Maryensztadt Klasycznie IPA,Maryensztadt Klasycznie (Maryensztadt Classics),IPA - American
+lauter,Omri Gill,"Fri, 22 May 2026 16:59:40 +0000",can,3.75,Lager Like It Used To Be - Bamberg Edition,Lubrow Brewery,Rauchbier
+lauter,Nadav,"Fri, 22 May 2026 16:49:14 +0000",can,3.75,Lager Like It Used To Be - Bamberg Edition,Lubrow Brewery,Rauchbier
+lauter,Kelly Inbar,"Fri, 22 May 2026 16:47:51 +0000",can,3.75,Lager Like It Used To Be - Bamberg Edition,Lubrow Brewery,Rauchbier
+lauter,Kelly Inbar,"Fri, 22 May 2026 16:47:05 +0000",can,3.75,Lager Like It Used To Be - Prague Edition,Lubrow Brewery,Lager - Tmavé (Czech Dark)
+lauter,Kelly Inbar,"Fri, 22 May 2026 16:45:57 +0000",can,3.75,Lager Like It Used To Be - Vienna Edition,Lubrow Brewery,Lager - Vienna
+lauter,Kelly Inbar,"Fri, 22 May 2026 16:44:55 +0000",can,3.75,Lager Like It Used To Be - München Edition,Lubrow Brewery,Lager - Helles
+lauter,Nir Langer,"Fri, 22 May 2026 16:44:06 +0000",can,4.0,Lager Like It Used To Be - Bamberg Edition,Lubrow Brewery,Rauchbier
+lauter,Nadav,"Fri, 22 May 2026 16:41:48 +0000",draft,4.0,Gueuze Tilquin – Draft Version,Gueuzerie Tilquin,Lambic - Gueuze
+lauter,Nadav,"Fri, 22 May 2026 16:39:49 +0000",can,4.0,"Yes We Can - Hazy IPA: Citra, Zibi",Maryensztadt,IPA - New England / Hazy
+lauter,Nadav,"Fri, 22 May 2026 16:30:58 +0000",,,Lager Like It Used To Be - Vienna Edition,Lubrow Brewery,Lager - Vienna
+lauter,Omri Gill,"Fri, 22 May 2026 16:30:09 +0000",can,3.75,Lager Like It Used To Be - Vienna Edition,Lubrow Brewery,Lager - Vienna
+lauter,Nir Langer,"Fri, 22 May 2026 16:27:26 +0000",can,3.75,Lager Like It Used To Be - Vienna Edition,Lubrow Brewery,Lager - Vienna
+lauter,Yaron Sh,"Fri, 22 May 2026 16:25:25 +0000",can,4.0,"Yes We Can - Hazy IPA: Citra, Zibi",Maryensztadt,IPA - New England / Hazy
+lauter,Nadav,"Fri, 22 May 2026 16:24:34 +0000",can,,Lager Like It Used To Be - Prague Edition,Lubrow Brewery,Lager - Tmavé (Czech Dark)
+lauter,Omri Gill,"Fri, 22 May 2026 16:20:04 +0000",can,3.75,Lager Like It Used To Be - Prague Edition,Lubrow Brewery,Lager - Tmavé (Czech Dark)
+lauter,Nadav,"Fri, 22 May 2026 16:19:13 +0000",can,,Lager Like It Used To Be - München Edition,Lubrow Brewery,Lager - Helles
+lauter,Nir Langer,"Fri, 22 May 2026 16:18:51 +0000",can,3.75,Lager Like It Used To Be - Prague Edition,Lubrow Brewery,Lager - Tmavé (Czech Dark)
+lauter,Omri Gill,"Fri, 22 May 2026 16:11:16 +0000",can,3.75,Lager Like It Used To Be,Lubrow Brewery,Lager - Pale
+lauter,einavushlan,"Fri, 22 May 2026 16:09:45 +0000",can,3.5,"Yes We Can - Hazy IPA: Citra, Zibi",Maryensztadt,IPA - New England / Hazy
+lauter,einavushlan,"Fri, 22 May 2026 16:07:17 +0000",can,3.75,Lager Like It Used To Be - München Edition,Lubrow Brewery,Lager - Helles
+lauter,Nadav,"Fri, 22 May 2026 16:06:33 +0000",can,3.75,Forever Brewing Black Queen,Волинський бровар,Lager - Other
+lauter,Nir Langer,"Fri, 22 May 2026 16:06:18 +0000",can,3.75,Lager Like It Used To Be - München Edition,Lubrow Brewery,Lager - Helles
+lauter,Alma,"Fri, 22 May 2026 16:06:07 +0000",draft,3.5,אדיר,קישקשתא (Kishkashta),Lager - Vienna
+lauter,Nadav,"Fri, 22 May 2026 16:05:35 +0000",can,,Forever Brewing Cappuccino,Волинський бровар,Porter - Baltic
+lauter,Kelly Inbar,"Fri, 22 May 2026 16:05:31 +0000",can,3.5,"Yes We Can - Hazy IPA: Citra, Zibi",Maryensztadt,IPA - New England / Hazy
+schnitt-brewing-company,Omri Gill,"Fri, 22 May 2026 16:02:34 +0000",draft,4.0,Guava Island 2026,Schnitt Brewing Company﻿,IPA - New England / Hazy
+lauter,Nadav,"Fri, 22 May 2026 16:02:15 +0000",can,,Forever Brewing Sorbet Line #1,Волинський бровар,IPA - Fruited
+schnitt-brewing-company,Nadav,"Fri, 22 May 2026 15:59:12 +0000",draft,,Eternal Struggle,Schnitt Brewing Company﻿,Pale Ale - Other
+lauter,einavushlan,"Fri, 22 May 2026 15:57:34 +0000",can,3.0,Forever Brewing Sorbet Line #1,Волинський бровар,IPA - Fruited
+lauter,Kelly Inbar,"Fri, 22 May 2026 15:54:11 +0000",,3.75,Forever Brewing Sorbet Line #1,Волинський бровар,IPA - Fruited
+lauter,Kelly Inbar,"Fri, 22 May 2026 15:53:29 +0000",can,4.25,Forever Brewing Cappuccino,Волинський бровар,Porter - Baltic
+lauter,Kelly Inbar,"Fri, 22 May 2026 15:47:50 +0000",bottle,4.0,Forever Brewing Dominant,Волинський бровар,Stout - Other
+lauter,einavushlan,"Fri, 22 May 2026 15:38:38 +0000",,3.75,Forever Brewing Dominant,Волинський бровар,Stout - Other
+schnitt-brewing-company,Max N,"Fri, 22 May 2026 15:28:24 +0000",draft,3.7,Eternal Struggle,Schnitt Brewing Company﻿,Pale Ale - Other
+lauter,moria koren,"Fri, 22 May 2026 15:19:15 +0000",draft,4.0,Unfiltered Lager,Isis Desert Brewery (מבשלת הנגב המערבי),Lager - Other
+lauter,einavushlan,"Fri, 22 May 2026 14:59:41 +0000",can,3.5,Eternal Struggle,Schnitt Brewing Company﻿,Pale Ale - Other
+schnitt-brewing-company,UV R,"Fri, 22 May 2026 14:59:23 +0000",,4.25,Eternal Struggle,Schnitt Brewing Company﻿,Pale Ale - Other
+berlin-florentin,BarLahav,"Fri, 22 May 2026 14:58:52 +0000",draft,4.25,Stella Artois,Stella Artois,Lager - Pale
+lauter,einavushlan,"Fri, 22 May 2026 14:58:31 +0000",can,3.75,שאגת העצלן,Schnitt Brewing Company﻿,IPA - American
+lauter,einavushlan,"Fri, 22 May 2026 14:58:16 +0000",can,3.75,Guava Island 2026,Schnitt Brewing Company﻿,IPA - New England / Hazy
+schnitt-brewing-company,Max N,"Fri, 22 May 2026 14:55:41 +0000",draft,3.8,Guava Island 2026,Schnitt Brewing Company﻿,IPA - New England / Hazy
+schnitt-brewing-company,UV R,"Fri, 22 May 2026 14:55:28 +0000",draft,5.0,שאגת העצלן,Schnitt Brewing Company﻿,IPA - American
+schnitt-brewing-company,UV R,"Fri, 22 May 2026 14:54:27 +0000",,,Guava Island 2026,Schnitt Brewing Company﻿,IPA - New England / Hazy
+schnitt-brewing-company,Yaron Sh,"Fri, 22 May 2026 14:53:45 +0000",draft,4.25,Guava Island 2026,Schnitt Brewing Company﻿,IPA - New England / Hazy
+schnitt-brewing-company,Kfeer Blau,"Fri, 22 May 2026 14:50:19 +0000",draft,3.75,Stoutment,Schnitt Brewing Company﻿,Stout - Other
+lauter,Alma,"Fri, 22 May 2026 14:47:51 +0000",draft,4.0,Gueuze Tilquin – Draft Version,Gueuzerie Tilquin,Lambic - Gueuze
+lauter,Vladimir Kanevsky,"Fri, 22 May 2026 14:44:08 +0000",draft,4.5,Eternal Struggle,Schnitt Brewing Company﻿,Pale Ale - Other
+schnitt-brewing-company,Yoav Kowalski,"Fri, 22 May 2026 14:37:20 +0000",,3.25,Cactus Sour,Schnitt Brewing Company﻿,Sour - Fruited
+schnitt-brewing-company,Yoav Kowalski,"Fri, 22 May 2026 14:26:45 +0000",,3.25,Eternal Struggle,Schnitt Brewing Company﻿,Pale Ale - Other
+schnitt-brewing-company,moria koren,"Fri, 22 May 2026 14:22:05 +0000",draft,,Cheers Alenbeer,Schnitt Brewing Company﻿,IPA - Session
+schnitt-brewing-company,Yoav Kowalski,"Fri, 22 May 2026 14:15:32 +0000",,3.25,שאגת העצלן,Schnitt Brewing Company﻿,IPA - American
+schnitt-brewing-company,Yoav Kowalski,"Fri, 22 May 2026 14:12:51 +0000",,3.5,Guava Island 2026,Schnitt Brewing Company﻿,IPA - New England / Hazy
+schnitt-brewing-company,Afek Stein,"Fri, 22 May 2026 14:05:17 +0000",,3.75,Float,Schnitt Brewing Company﻿,IPA - New England / Hazy
+schnitt-brewing-company,Max N,"Fri, 22 May 2026 14:05:12 +0000",draft,3.6,שאגת העצלן,Schnitt Brewing Company﻿,IPA - American
+schnitt-brewing-company,Omri Levy,"Fri, 22 May 2026 14:05:11 +0000",,3.6,Frenemy,Schnitt Brewing Company﻿,Pale Ale - American
+lauter,UV R,"Fri, 22 May 2026 13:56:32 +0000",draft,,אדיר,קישקשתא (Kishkashta),Lager - Vienna
+schnitt-brewing-company,Nir Langer,"Fri, 22 May 2026 13:49:55 +0000",,,Eternal Struggle,Schnitt Brewing Company﻿,Pale Ale - Other
+schnitt-brewing-company,Yaniv Alal,"Fri, 22 May 2026 13:22:58 +0000",draft,4.0,שאגת העצלן,Schnitt Brewing Company﻿,IPA - American
+schnitt-brewing-company,Kfeer Blau,"Fri, 22 May 2026 13:16:03 +0000",can,3.75,Cheers Alenbeer,Schnitt Brewing Company﻿,IPA - Session
+schnitt-brewing-company,Kfeer Blau,"Fri, 22 May 2026 13:15:38 +0000",can,3.5,Eternal Struggle,Schnitt Brewing Company﻿,Pale Ale - Other
+schnitt-brewing-company,Afek Stein,"Fri, 22 May 2026 13:10:41 +0000",draft,3.5,Eternal Struggle,Schnitt Brewing Company﻿,Pale Ale - Other
+schnitt-brewing-company,Omri Gill,"Fri, 22 May 2026 13:06:43 +0000",draft,3.75,שאגת העצלן,Schnitt Brewing Company﻿,IPA - American
+schnitt-brewing-company,Omri Levy,"Fri, 22 May 2026 13:05:32 +0000",draft,3.6,Eternal Struggle,Schnitt Brewing Company﻿,Pale Ale - Other
+schnitt-brewing-company,Raz Ko,"Fri, 22 May 2026 12:57:13 +0000",draft,3.7,Frenemy,Schnitt Brewing Company﻿,Pale Ale - American
+schnitt-brewing-company,Yaniv Alal,"Fri, 22 May 2026 12:25:44 +0000",draft,4.0,Guava Island 2026,Schnitt Brewing Company﻿,IPA - New England / Hazy
+schnitt-brewing-company,Raz Ko,"Fri, 22 May 2026 12:14:23 +0000",draft,3.6,האימפריה מכה שניט,Schnitt Brewing Company﻿,IPA - American
+lauter,Yaniv Alal,"Fri, 22 May 2026 12:11:39 +0000",draft,3.5,Eternal Struggle,Schnitt Brewing Company﻿,Pale Ale - Other
+lauter,Yaniv Alal,"Fri, 22 May 2026 11:40:27 +0000",bottle,2.5,"Bitburger Drive 0,0% Alkoholfreies Pils",Bitburger Brauerei,Non-Alcoholic - Lager
 schnitt-brewing-company,Miki Zaidel,"Thu, 21 May 2026 20:58:29 +0000",draft,4.0,Cheers Alenbeer,Schnitt Brewing Company﻿,IPA - Session
 lauter,Gabi David,"Thu, 21 May 2026 20:16:34 +0000",,3.5,אדיר,קישקשתא (Kishkashta),Lager - Vienna
 lauter,Gabi David,"Thu, 21 May 2026 20:16:05 +0000",,3.5,Unfiltered Lager,Isis Desert Brewery (מבשלת הנגב המערבי),Lager - Other
