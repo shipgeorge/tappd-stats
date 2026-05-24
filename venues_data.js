@@ -1,8 +1,170 @@
 // 🍺 BEER STATS DATA - Generated automatically
-// Last updated: 2026-05-23 08:29:02
-// Total records: 16416
+// Last updated: 2026-05-24 08:41:17
+// Total records: 16434
 
 const BEER_DATA = [
+  {
+    "venue": "lauter",
+    "time": "2026-05-23T19:24:50+00:00",
+    "serving": "draft",
+    "rating": 3.0,
+    "beer_name": "Gueuze Tilquin – Draft Version",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": "Lambic - Gueuze"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-23T19:11:34+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Double Intergalactica",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-23T19:09:02+00:00",
+    "serving": "draft",
+    "rating": 4.75,
+    "beer_name": "Tea Party: Masala",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pale Ale - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-23T19:03:59+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "אדיר",
+    "brewery": "קישקשתא (Kishkashta)",
+    "beer_type": "Lager - Vienna"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-23T18:57:31+00:00",
+    "serving": "Unknown",
+    "rating": 4.25,
+    "beer_name": "I'll Be Bock",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Bock - Single / Traditional"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-23T18:54:37+00:00",
+    "serving": "draft",
+    "rating": 3.25,
+    "beer_name": "Unfiltered Lager",
+    "brewery": "Isis Desert Brewery (מבשלת הנגב המערבי)",
+    "beer_type": "Lager - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-23T17:46:45+00:00",
+    "serving": "can",
+    "rating": 2.5,
+    "beer_name": "Forever Brewing Sorbet Line #1",
+    "brewery": "Волинський бровар",
+    "beer_type": "IPA - Fruited"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-23T17:13:47+00:00",
+    "serving": "draft",
+    "rating": 2.5,
+    "beer_name": "Passiflora (פסיפלורה) - Passion Fruit Ale",
+    "brewery": "Negev Brewery (נגב)",
+    "beer_type": "Fruit Beer"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-23T16:02:38+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Passiflora (פסיפלורה) - Passion Fruit Ale",
+    "brewery": "Negev Brewery (נגב)",
+    "beer_type": "Fruit Beer"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-23T13:21:32+00:00",
+    "serving": "draft",
+    "rating": 3.9,
+    "beer_name": "Cheers Alenbeer",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - Session"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-23T12:51:30+00:00",
+    "serving": "draft",
+    "rating": 3.7,
+    "beer_name": "Guava Island 2026",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-23T12:22:36+00:00",
+    "serving": "draft",
+    "rating": 4.3,
+    "beer_name": "שאגת העצלן",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-23T12:02:18+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Float",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-23T11:54:33+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Elderflower",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pale Ale - Other"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-23T11:53:17+00:00",
+    "serving": "draft",
+    "rating": 3.9,
+    "beer_name": "שאגת העצלן",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-23T11:11:08+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "שאגת העצלן",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-23T11:00:21+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Sessionista",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-23T10:48:52+00:00",
+    "serving": "draft",
+    "rating": 3.0,
+    "beer_name": "Elderflower",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pale Ale - Other"
+  },
   {
     "venue": "lauter",
     "time": "2026-05-22T20:31:25+00:00",
@@ -2785,15 +2947,6 @@ const BEER_DATA = [
     "beer_type": "Wheat Beer - Fruited"
   },
   {
-    "venue": "b7-beer-house",
-    "time": "2026-05-14T18:58:35+00:00",
-    "serving": "can",
-    "rating": 3.9,
-    "beer_name": "Yes We Can - Hazy IPA: Citra, Nelson Sauvin",
-    "brewery": "Maryensztadt",
-    "beer_type": "IPA - New England / Hazy"
-  },
-  {
     "venue": "beerz",
     "time": "2026-05-14T18:58:35+00:00",
     "serving": "bottle",
@@ -2801,6 +2954,15 @@ const BEER_DATA = [
     "beer_name": "Forever Brewing Macho",
     "brewery": "Волинський бровар",
     "beer_type": "Wheat Beer - Fruited"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-14T18:58:35+00:00",
+    "serving": "can",
+    "rating": 3.9,
+    "beer_name": "Yes We Can - Hazy IPA: Citra, Nelson Sauvin",
+    "brewery": "Maryensztadt",
+    "beer_type": "IPA - New England / Hazy"
   },
   {
     "venue": "beerz",

@@ -1,4 +1,22 @@
 venue,user,time,serving,data_rating,beer_name,brewery,beer_type
+lauter,Yaniv Gorodetsky,"Sat, 23 May 2026 19:24:50 +0000",draft,3.0,Gueuze Tilquin – Draft Version,Gueuzerie Tilquin,Lambic - Gueuze
+lauter,Yaniv Gorodetsky,"Sat, 23 May 2026 19:11:34 +0000",draft,4.0,Double Intergalactica,Schnitt Brewing Company﻿,IPA - New England / Hazy
+lauter,Yaniv Gorodetsky,"Sat, 23 May 2026 19:09:02 +0000",draft,4.75,Tea Party: Masala,Schnitt Brewing Company﻿,Pale Ale - Other
+lauter,Yaniv Gorodetsky,"Sat, 23 May 2026 19:03:59 +0000",draft,3.5,אדיר,קישקשתא (Kishkashta),Lager - Vienna
+lauter,Yaniv Gorodetsky,"Sat, 23 May 2026 18:57:31 +0000",,4.25,I'll Be Bock,Schnitt Brewing Company﻿,Bock - Single / Traditional
+lauter,Yaniv Gorodetsky,"Sat, 23 May 2026 18:54:37 +0000",draft,3.25,Unfiltered Lager,Isis Desert Brewery (מבשלת הנגב המערבי),Lager - Other
+lauter,David Siegel,"Sat, 23 May 2026 17:46:45 +0000",can,2.5,Forever Brewing Sorbet Line #1,Волинський бровар,IPA - Fruited
+lauter,גל סילברמן,"Sat, 23 May 2026 17:13:47 +0000",draft,2.5,Passiflora (פסיפלורה) - Passion Fruit Ale,Negev Brewery (נגב),Fruit Beer
+lauter,Kelly Inbar,"Sat, 23 May 2026 16:02:38 +0000",draft,3.5,Passiflora (פסיפלורה) - Passion Fruit Ale,Negev Brewery (נגב),Fruit Beer
+schnitt-brewing-company,Ilya Yeruhimovich,"Sat, 23 May 2026 13:21:32 +0000",draft,3.9,Cheers Alenbeer,Schnitt Brewing Company﻿,IPA - Session
+schnitt-brewing-company,Eli Smikin,"Sat, 23 May 2026 12:51:30 +0000",draft,3.7,Guava Island 2026,Schnitt Brewing Company﻿,IPA - New England / Hazy
+schnitt-brewing-company,Eli Smikin,"Sat, 23 May 2026 12:22:36 +0000",draft,4.3,שאגת העצלן,Schnitt Brewing Company﻿,IPA - American
+schnitt-brewing-company,Eli Smikin,"Sat, 23 May 2026 12:02:18 +0000",draft,3.5,Float,Schnitt Brewing Company﻿,IPA - New England / Hazy
+schnitt-brewing-company,Eli Smikin,"Sat, 23 May 2026 11:54:33 +0000",draft,3.5,Elderflower,Schnitt Brewing Company﻿,Pale Ale - Other
+schnitt-brewing-company,Ilya Yeruhimovich,"Sat, 23 May 2026 11:53:17 +0000",draft,3.9,שאגת העצלן,Schnitt Brewing Company﻿,IPA - American
+schnitt-brewing-company,Ofir Dahan,"Sat, 23 May 2026 11:11:08 +0000",,,שאגת העצלן,Schnitt Brewing Company﻿,IPA - American
+schnitt-brewing-company,Ilya Yeruhimovich,"Sat, 23 May 2026 11:00:21 +0000",draft,4.0,Sessionista,Schnitt Brewing Company﻿,IPA - New England / Hazy
+schnitt-brewing-company,galgutm,"Sat, 23 May 2026 10:48:52 +0000",draft,3.0,Elderflower,Schnitt Brewing Company﻿,Pale Ale - Other
 lauter,Afek Stein,"Fri, 22 May 2026 20:31:25 +0000",draft,3.75,Hobgoblin IPA,Marston's Brewery,IPA - English
 lauter,Nir Langer,"Fri, 22 May 2026 20:13:20 +0000",can,3.75,IPA 90,Lubrow Brewery,IPA - Imperial / Double
 lauter,Nir Langer,"Fri, 22 May 2026 20:00:50 +0000",can,3.75,"Yes We Can - Rice Hazy IPA, Mosaic + El Dorado",Maryensztadt,IPA - New England / Hazy
@@ -308,8 +326,8 @@ beerz,Ilya Markovsky,"Thu, 14 May 2026 19:04:39 +0000",can,3.8,Forever Brewing J
 b7-beer-house,Yuval Lutski,"Thu, 14 May 2026 19:03:54 +0000",can,3.5,"Yes We Can - Rice Hazy IPA, Mosaic + El Dorado",Maryensztadt,IPA - New England / Hazy
 b7-beer-house,Yotam Bar-natan,"Thu, 14 May 2026 19:02:57 +0000",can,3.8,"Yes We Can - Hazy IPA: Citra, Zibi",Maryensztadt,IPA - New England / Hazy
 beerz,Alexander the Great ™️,"Thu, 14 May 2026 19:02:50 +0000",bottle,3.5,Forever Brewing Macho,Волинський бровар,Wheat Beer - Fruited
-b7-beer-house,Yotam Bar-natan,"Thu, 14 May 2026 18:58:35 +0000",can,3.9,"Yes We Can - Hazy IPA: Citra, Nelson Sauvin",Maryensztadt,IPA - New England / Hazy
 beerz,Ilya Markovsky,"Thu, 14 May 2026 18:58:35 +0000",bottle,3.3,Forever Brewing Macho,Волинський бровар,Wheat Beer - Fruited
+b7-beer-house,Yotam Bar-natan,"Thu, 14 May 2026 18:58:35 +0000",can,3.9,"Yes We Can - Hazy IPA: Citra, Nelson Sauvin",Maryensztadt,IPA - New England / Hazy
 beerz,Alexander the Great ™️,"Thu, 14 May 2026 18:55:32 +0000",bottle,3.75,Forever Brewing Space Travel,Волинський бровар,IPA - New England / Hazy
 b7-beer-house,Yotam Bar-natan,"Thu, 14 May 2026 18:49:14 +0000",can,3.1,APA,Maryensztadt,Pale Ale - American
 beerz,Ilya Markovsky,"Thu, 14 May 2026 18:45:42 +0000",bottle,3.8,Forever Brewing Space Travel,Волинський бровар,IPA - New England / Hazy
