@@ -1,4 +1,41 @@
 venue,user,time,serving,data_rating,beer_name,brewery,beer_type
+lauter,Alma,"Mon, 25 May 2026 19:32:51 +0000",draft,3.5,Th. König Zwickl,König Brauerei,Kellerbier / Zwickelbier - Dunkel
+lauter,Yaron Sh,"Mon, 25 May 2026 19:01:48 +0000",can,3.75,Vicious Crush,KCBC - Kings County Brewers Collective,Sour - Fruited Gose
+lauter,Yaron Sh,"Mon, 25 May 2026 18:49:09 +0000",can,4.25,Khinkalien,Megobrebi Brewery,Sour - Other Gose
+lauter,Yaron Sh,"Mon, 25 May 2026 18:48:31 +0000",can,4.0,Whipper Snapper,Basqueland Brewing,IPA - New England / Hazy
+lauter,Yaron Sh,"Mon, 25 May 2026 18:42:58 +0000",can,4.0,Pink Strike,RIOAZUL,IPA - Imperial / Double New England / Hazy
+schnitt-brewing-company,Ofir Dahan,"Mon, 25 May 2026 17:54:05 +0000",,,האימפריה מכה שניט,Schnitt Brewing Company﻿,IPA - American
+schnitt-brewing-company,David Siegel,"Mon, 25 May 2026 17:53:42 +0000",draft,3.75,Blueberry Brioche,Schnitt Brewing Company﻿,Pale Ale - Other
+lauter,Oren Sleepwalker,"Mon, 25 May 2026 17:36:09 +0000",draft,,Tea Party: Masala,Schnitt Brewing Company﻿,Pale Ale - Other
+lauter,Oren Sleepwalker,"Mon, 25 May 2026 17:31:23 +0000",,,Sab Kuch Milaga,Schnitt Brewing Company﻿,Lager - IPL (India Pale Lager)
+lauter,Yaron Sh,"Mon, 25 May 2026 16:51:15 +0000",draft,3.75,Sab Kuch Milaga,Schnitt Brewing Company﻿,Lager - IPL (India Pale Lager)
+schnitt-brewing-company,Shay Lapid,"Mon, 25 May 2026 15:48:39 +0000",,3.75,Stoutment,Schnitt Brewing Company﻿,Stout - Other
+lauter,David Siegel,"Mon, 25 May 2026 15:35:03 +0000",can,2.75,Forever Brewing Black Queen,Волинський бровар,Lager - Other
+schnitt-brewing-company,Ido Kessler,"Mon, 25 May 2026 15:15:30 +0000",,4.0,Eternal Struggle,Schnitt Brewing Company﻿,Pale Ale - Other
+schnitt-brewing-company,Ido Kessler,"Mon, 25 May 2026 15:14:59 +0000",,4.5,Elderflower,Schnitt Brewing Company﻿,Pale Ale - Other
+schnitt-brewing-company,Ido Kessler,"Mon, 25 May 2026 15:14:26 +0000",,3.75,Frenemy,Schnitt Brewing Company﻿,Pale Ale - American
+schnitt-brewing-company,Ido Kessler,"Mon, 25 May 2026 15:13:43 +0000",,4.0,שאגת העצלן,Schnitt Brewing Company﻿,IPA - American
+schnitt-brewing-company,Ido Kessler,"Mon, 25 May 2026 15:12:17 +0000",,4.75,Guava Island 2026,Schnitt Brewing Company﻿,IPA - New England / Hazy
+schnitt-brewing-company,Ido Kessler,"Mon, 25 May 2026 15:11:47 +0000",,3.75,Cheers Alenbeer,Schnitt Brewing Company﻿,IPA - Session
+lauter,Roie Gilad,"Mon, 25 May 2026 15:08:01 +0000",draft,4.5,Gueuze Tilquin – Draft Version,Gueuzerie Tilquin,Lambic - Gueuze
+schnitt-brewing-company,Alex Shtouff,"Mon, 25 May 2026 14:57:15 +0000",draft,4.0,Blueberry Brioche,Schnitt Brewing Company﻿,Pale Ale - Other
+schnitt-brewing-company,Yana O,"Mon, 25 May 2026 14:49:19 +0000",,4.3,Guava Island 2026,Schnitt Brewing Company﻿,IPA - New England / Hazy
+schnitt-brewing-company,Arnon Ben-dov,"Mon, 25 May 2026 14:45:59 +0000",draft,3.75,Tea Party: Masala,Schnitt Brewing Company﻿,Pale Ale - Other
+schnitt-brewing-company,Arnon Ben-dov,"Mon, 25 May 2026 14:44:53 +0000",,3.5,Elderflower,Schnitt Brewing Company﻿,Pale Ale - Other
+schnitt-brewing-company,Arnon Ben-dov,"Mon, 25 May 2026 14:42:40 +0000",,3.75,Abbey Mode,Schnitt Brewing Company﻿,Belgian Dubbel
+schnitt-brewing-company,Dor Lerner,"Mon, 25 May 2026 14:41:54 +0000",draft,,Abbey Mode,Schnitt Brewing Company﻿,Belgian Dubbel
+schnitt-brewing-company,Dor Lerner,"Mon, 25 May 2026 14:41:18 +0000",draft,,שאגת העצלן,Schnitt Brewing Company﻿,IPA - American
+schnitt-brewing-company,Dor Lerner,"Mon, 25 May 2026 14:40:57 +0000",,,Guava Island 2026,Schnitt Brewing Company﻿,IPA - New England / Hazy
+schnitt-brewing-company,Dor Lerner,"Mon, 25 May 2026 14:40:28 +0000",draft,,Cheers Alenbeer,Schnitt Brewing Company﻿,IPA - Session
+schnitt-brewing-company,Arnon Ben-dov,"Mon, 25 May 2026 14:40:11 +0000",,3.5,שאגת העצלן,Schnitt Brewing Company﻿,IPA - American
+schnitt-brewing-company,Arnon Ben-dov,"Mon, 25 May 2026 14:39:35 +0000",draft,3.5,Guava Island 2026,Schnitt Brewing Company﻿,IPA - New England / Hazy
+schnitt-brewing-company,Arnon Ben-dov,"Mon, 25 May 2026 14:38:45 +0000",draft,3.5,Cheers Alenbeer,Schnitt Brewing Company﻿,IPA - Session
+schnitt-brewing-company,Roie Gilad,"Mon, 25 May 2026 14:08:31 +0000",draft,3.25,Float,Schnitt Brewing Company﻿,IPA - New England / Hazy
+schnitt-brewing-company,Roie Gilad,"Mon, 25 May 2026 14:07:43 +0000",draft,3.75,שאגת העצלן,Schnitt Brewing Company﻿,IPA - American
+schnitt-brewing-company,Shay Lapid,"Mon, 25 May 2026 13:38:58 +0000",draft,3.75,Guava Island 2026,Schnitt Brewing Company﻿,IPA - New England / Hazy
+b7-beer-house,Nahum Haver,"Mon, 25 May 2026 13:21:06 +0000",can,4.0,Springfest,Sierra Nevada Brewing Co.,IPA - American
+b7-beer-house,Nahum Haver,"Mon, 25 May 2026 12:54:48 +0000",draft,4.0,Everyday Life,Sibeeria Brewery,Pilsner - Czech / Bohemian
+schnitt-brewing-company,Avigdor Book,"Mon, 25 May 2026 10:57:54 +0000",draft,4.25,Guava Island (גויאבה איילנד),Schnitt Brewing Company﻿,IPA - New England / Hazy
 schnitt-brewing-company,Nadav Cohen,"Sun, 24 May 2026 20:27:50 +0000",,3.75,Guava Island 2026,Schnitt Brewing Company﻿,IPA - New England / Hazy
 lauter,Daniel Lindner,"Sun, 24 May 2026 20:07:04 +0000",draft,3.25,Th. König Zwickl,König Brauerei,Kellerbier / Zwickelbier - Dunkel
 schnitt-brewing-company,Lev KL,"Sun, 24 May 2026 19:01:00 +0000",draft,4.25,שאגת העצלן,Schnitt Brewing Company﻿,IPA - American
