@@ -1,8 +1,251 @@
 // 🍺 BEER STATS DATA - Generated automatically
-// Last updated: 2026-05-26 10:12:54
-// Total records: 16488
+// Last updated: 2026-05-27 10:10:58
+// Total records: 16515
 
 const BEER_DATA = [
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-27T09:11:11+00:00",
+    "serving": "Unknown",
+    "rating": 4.2,
+    "beer_name": "האימפריה מכה שניט",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-26T20:13:28+00:00",
+    "serving": "can",
+    "rating": 3.7,
+    "beer_name": "זהב שחור",
+    "brewery": "New Pioneer Brewing Co - חלוץ חדש",
+    "beer_type": "Porter - American"
+  },
+  {
+    "venue": "porter-and-sons",
+    "time": "2026-05-26T19:37:57+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Aecht Schlenkerla Rauchbier – Märzen",
+    "brewery": "Schlenkerla (\"Heller-Bräu\" Trum)",
+    "beer_type": "Rauchbier"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-26T18:49:18+00:00",
+    "serving": "bottle",
+    "rating": 2.8,
+    "beer_name": "Forever Brewing Macho",
+    "brewery": "Волинський бровар",
+    "beer_type": "Wheat Beer - Fruited"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-26T18:42:30+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Blueberry Brioche",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pale Ale - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-26T18:27:45+00:00",
+    "serving": "can",
+    "rating": 3.8,
+    "beer_name": "Torpedo Extra IPA",
+    "brewery": "Sierra Nevada Brewing Co.",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-26T18:26:14+00:00",
+    "serving": "can",
+    "rating": 3.6,
+    "beer_name": "Big Little Thing Hazy Imperial IPA",
+    "brewery": "Sierra Nevada Brewing Co.",
+    "beer_type": "IPA - Imperial / Double New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-26T18:01:34+00:00",
+    "serving": "can",
+    "rating": 3.6,
+    "beer_name": "IPA 90",
+    "brewery": "Lubrow Brewery",
+    "beer_type": "IPA - Imperial / Double"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-26T17:53:44+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Guava Island 2026",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-26T17:53:12+00:00",
+    "serving": "bottle",
+    "rating": 4.25,
+    "beer_name": "Oude Airelle Sauvage Tilquin à l'Ancienne (2021-2022)",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": "Lambic - Fruit"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-26T17:39:33+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "אדיר",
+    "brewery": "קישקשתא (Kishkashta)",
+    "beer_type": "Lager - Vienna"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-26T17:23:31+00:00",
+    "serving": "draft",
+    "rating": 4.5,
+    "beer_name": "שאגת העצלן",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-26T16:17:40+00:00",
+    "serving": "can",
+    "rating": 3.7,
+    "beer_name": "Arct IPA Citra, Mosaic, Equanot, Chinook",
+    "brewery": "Maryensztadt",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-26T16:11:16+00:00",
+    "serving": "can",
+    "rating": 3.9,
+    "beer_name": "Arct IPA Cascade, Strata, Columbus , Centennial",
+    "brewery": "Lubrow Brewery",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-26T16:01:51+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Everyday Life",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": "Pilsner - Czech / Bohemian"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-26T15:40:50+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Twist & Stout",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Stout - Irish Dry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-26T15:23:33+00:00",
+    "serving": "Unknown",
+    "rating": 3.8,
+    "beer_name": "I'll Be Bock",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Bock - Single / Traditional"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-26T15:21:08+00:00",
+    "serving": "bottle",
+    "rating": 3.7,
+    "beer_name": "קצוות",
+    "brewery": "Hamatsesa (המתססה)",
+    "beer_type": "Cider - Dry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-26T14:50:08+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Sab Kuch Milaga",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Lager - IPL (India Pale Lager)"
+  },
+  {
+    "venue": "beerline",
+    "time": "2026-05-26T14:28:08+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Mongozo Coconut",
+    "brewery": "Mongozo",
+    "beer_type": "Fruit Beer"
+  },
+  {
+    "venue": "beerline",
+    "time": "2026-05-26T14:23:33+00:00",
+    "serving": "Unknown",
+    "rating": 5.0,
+    "beer_name": "La Trappe Quadrupel",
+    "brewery": "Bierbrouwerij De Koningshoeven",
+    "beer_type": "Belgian Quadrupel"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-26T14:06:19+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "שאגת העצלן",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-26T14:05:42+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Guava Island 2026",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-26T13:06:40+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "שאגת העצלן",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-26T12:37:44+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "Guava Island 2026",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-26T12:24:56+00:00",
+    "serving": "draft",
+    "rating": 3.8,
+    "beer_name": "Guava Island 2026",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "berlin-florentin",
+    "time": "2026-05-26T10:40:06+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Budweiser Budvar / Czechvar Original",
+    "brewery": "Budějovický Budvar",
+    "beer_type": "Pilsner - Czech / Bohemian"
+  },
   {
     "venue": "lauter",
     "time": "2026-05-25T19:32:51+00:00",

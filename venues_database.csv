@@ -1,4 +1,31 @@
 venue,user,time,serving,data_rating,beer_name,brewery,beer_type
+schnitt-brewing-company,Yana O,"Wed, 27 May 2026 09:11:11 +0000",,4.2,האימפריה מכה שניט,Schnitt Brewing Company﻿,IPA - American
+lauter,Max N,"Tue, 26 May 2026 20:13:28 +0000",can,3.7,זהב שחור,New Pioneer Brewing Co - חלוץ חדש,Porter - American
+porter-and-sons,Shmupi Koto,"Tue, 26 May 2026 19:37:57 +0000",draft,4.0,Aecht Schlenkerla Rauchbier – Märzen,"Schlenkerla (""Heller-Bräu"" Trum)",Rauchbier
+lauter,Max N,"Tue, 26 May 2026 18:49:18 +0000",bottle,2.8,Forever Brewing Macho,Волинський бровар,Wheat Beer - Fruited
+schnitt-brewing-company,Omri Gill,"Tue, 26 May 2026 18:42:30 +0000",draft,3.75,Blueberry Brioche,Schnitt Brewing Company﻿,Pale Ale - Other
+lauter,Shmupi Koto,"Tue, 26 May 2026 18:27:45 +0000",can,3.8,Torpedo Extra IPA,Sierra Nevada Brewing Co.,IPA - American
+lauter,Max N,"Tue, 26 May 2026 18:26:14 +0000",can,3.6,Big Little Thing Hazy Imperial IPA,Sierra Nevada Brewing Co.,IPA - Imperial / Double New England / Hazy
+lauter,Max N,"Tue, 26 May 2026 18:01:34 +0000",can,3.6,IPA 90,Lubrow Brewery,IPA - Imperial / Double
+schnitt-brewing-company,TheBeerJew,"Tue, 26 May 2026 17:53:44 +0000",draft,3.5,Guava Island 2026,Schnitt Brewing Company﻿,IPA - New England / Hazy
+lauter,Chen Ozer,"Tue, 26 May 2026 17:53:12 +0000",bottle,4.25,Oude Airelle Sauvage Tilquin à l'Ancienne (2021-2022),Gueuzerie Tilquin,Lambic - Fruit
+lauter,Achla Bira,"Tue, 26 May 2026 17:39:33 +0000",draft,3.75,אדיר,קישקשתא (Kishkashta),Lager - Vienna
+lauter,Vladimir Kanevsky,"Tue, 26 May 2026 17:23:31 +0000",draft,4.5,שאגת העצלן,Schnitt Brewing Company﻿,IPA - American
+lauter,Yana O,"Tue, 26 May 2026 16:17:40 +0000",can,3.7,"Arct IPA Citra, Mosaic, Equanot, Chinook",Maryensztadt,IPA - American
+lauter,Yana O,"Tue, 26 May 2026 16:11:16 +0000",can,3.9,"Arct IPA Cascade, Strata, Columbus , Centennial",Lubrow Brewery,IPA - American
+lauter,Chen Ozer,"Tue, 26 May 2026 16:01:51 +0000",can,3.75,Everyday Life,Sibeeria Brewery,Pilsner - Czech / Bohemian
+lauter,Yana O,"Tue, 26 May 2026 15:40:50 +0000",draft,4.0,Twist & Stout,Schnitt Brewing Company﻿,Stout - Irish Dry
+lauter,Yana O,"Tue, 26 May 2026 15:23:33 +0000",,3.8,I'll Be Bock,Schnitt Brewing Company﻿,Bock - Single / Traditional
+schnitt-brewing-company,Yana O,"Tue, 26 May 2026 15:21:08 +0000",bottle,3.7,קצוות,Hamatsesa (המתססה),Cider - Dry
+lauter,Omri Gill,"Tue, 26 May 2026 14:50:08 +0000",draft,3.75,Sab Kuch Milaga,Schnitt Brewing Company﻿,Lager - IPL (India Pale Lager)
+beerline,Igor Litvinov,"Tue, 26 May 2026 14:28:08 +0000",draft,4.0,Mongozo Coconut,Mongozo,Fruit Beer
+beerline,Igor Litvinov,"Tue, 26 May 2026 14:23:33 +0000",,5.0,La Trappe Quadrupel,Bierbrouwerij De Koningshoeven,Belgian Quadrupel
+schnitt-brewing-company,Gabi David,"Tue, 26 May 2026 14:06:19 +0000",draft,4.0,שאגת העצלן,Schnitt Brewing Company﻿,IPA - American
+schnitt-brewing-company,Gabi David,"Tue, 26 May 2026 14:05:42 +0000",draft,3.75,Guava Island 2026,Schnitt Brewing Company﻿,IPA - New England / Hazy
+schnitt-brewing-company,Oly Shamrik,"Tue, 26 May 2026 13:06:40 +0000",draft,4.25,שאגת העצלן,Schnitt Brewing Company﻿,IPA - American
+schnitt-brewing-company,Oly Shamrik,"Tue, 26 May 2026 12:37:44 +0000",draft,4.25,Guava Island 2026,Schnitt Brewing Company﻿,IPA - New England / Hazy
+schnitt-brewing-company,Liad Shaked,"Tue, 26 May 2026 12:24:56 +0000",draft,3.8,Guava Island 2026,Schnitt Brewing Company﻿,IPA - New England / Hazy
+berlin-florentin,Omri Gill,"Tue, 26 May 2026 10:40:06 +0000",draft,3.75,Budweiser Budvar / Czechvar Original,Budějovický Budvar,Pilsner - Czech / Bohemian
 lauter,Alma,"Mon, 25 May 2026 19:32:51 +0000",draft,3.5,Th. König Zwickl,König Brauerei,Kellerbier / Zwickelbier - Dunkel
 lauter,Yaron Sh,"Mon, 25 May 2026 19:01:48 +0000",can,3.75,Vicious Crush,KCBC - Kings County Brewers Collective,Sour - Fruited Gose
 lauter,Yaron Sh,"Mon, 25 May 2026 18:49:09 +0000",can,4.25,Khinkalien,Megobrebi Brewery,Sour - Other Gose
