@@ -1,8 +1,134 @@
 // 🍺 BEER STATS DATA - Generated automatically
-// Last updated: 2026-05-27 10:10:58
-// Total records: 16515
+// Last updated: 2026-05-28 10:18:53
+// Total records: 16529
 
 const BEER_DATA = [
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-28T09:44:33+00:00",
+    "serving": "draft",
+    "rating": 3.25,
+    "beer_name": "Guava Island 2026",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-27T23:47:09+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Th. König Zwickl",
+    "brewery": "König Brauerei",
+    "beer_type": "Kellerbier / Zwickelbier - Dunkel"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-27T23:44:51+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Elderflower",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pale Ale - Other"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-27T23:43:16+00:00",
+    "serving": "draft",
+    "rating": 3.8,
+    "beer_name": "Guava Island 2026",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-27T19:48:53+00:00",
+    "serving": "can",
+    "rating": 4.75,
+    "beer_name": "Campanula",
+    "brewery": "Mortalis Brewing Company",
+    "beer_type": "IPA - Imperial / Double New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-27T18:31:44+00:00",
+    "serving": "can",
+    "rating": 4.75,
+    "beer_name": "Everyday Life",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": "Pilsner - Czech / Bohemian"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-27T17:36:08+00:00",
+    "serving": "draft",
+    "rating": 2.5,
+    "beer_name": "Passiflora (פסיפלורה) - Passion Fruit Ale",
+    "brewery": "Negev Brewery (נגב)",
+    "beer_type": "Fruit Beer"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-27T17:35:43+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Sab Kuch Milaga",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Lager - IPL (India Pale Lager)"
+  },
+  {
+    "venue": "beerline",
+    "time": "2026-05-27T16:21:23+00:00",
+    "serving": "can",
+    "rating": 5.0,
+    "beer_name": "Passion Flick",
+    "brewery": "HORIZONT Brewing",
+    "beer_type": "Pale Ale - Milkshake"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-27T15:54:24+00:00",
+    "serving": "can",
+    "rating": 2.5,
+    "beer_name": "Forever Brewing Sorbet Line #1",
+    "brewery": "Волинський бровар",
+    "beer_type": "IPA - Fruited"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-27T15:46:05+00:00",
+    "serving": "draft",
+    "rating": 5.0,
+    "beer_name": "Twist & Stout",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Stout - Irish Dry"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-27T15:45:50+00:00",
+    "serving": "draft",
+    "rating": 5.0,
+    "beer_name": "Porter & Sons Salted Caramel 2024",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Porter - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-27T13:33:30+00:00",
+    "serving": "can",
+    "rating": null,
+    "beer_name": "Big Little Thing Hazy Imperial IPA",
+    "brewery": "Sierra Nevada Brewing Co.",
+    "beer_type": "IPA - Imperial / Double New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-27T11:57:17+00:00",
+    "serving": "Unknown",
+    "rating": 4.2,
+    "beer_name": "Guava Island 2026",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
   {
     "venue": "schnitt-brewing-company",
     "time": "2026-05-27T09:11:11+00:00",
@@ -3559,15 +3685,6 @@ const BEER_DATA = [
     "beer_type": "Pale Ale - New England / Hazy"
   },
   {
-    "venue": "beerz",
-    "time": "2026-05-14T19:24:22+00:00",
-    "serving": "can",
-    "rating": 3.7,
-    "beer_name": "Forever Brewing Sorbet Line #2",
-    "brewery": "Волинський бровар",
-    "beer_type": "Fruit Beer"
-  },
-  {
     "venue": "lauter",
     "time": "2026-05-14T19:24:22+00:00",
     "serving": "can",
@@ -3575,6 +3692,15 @@ const BEER_DATA = [
     "beer_name": "Yes We Can - Hazy IPA: Citra, Zibi",
     "brewery": "Maryensztadt",
     "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "beerz",
+    "time": "2026-05-14T19:24:22+00:00",
+    "serving": "can",
+    "rating": 3.7,
+    "beer_name": "Forever Brewing Sorbet Line #2",
+    "brewery": "Волинський бровар",
+    "beer_type": "Fruit Beer"
   },
   {
     "venue": "lauter",
@@ -3676,15 +3802,6 @@ const BEER_DATA = [
     "beer_type": "Wheat Beer - Fruited"
   },
   {
-    "venue": "beerz",
-    "time": "2026-05-14T18:58:35+00:00",
-    "serving": "bottle",
-    "rating": 3.3,
-    "beer_name": "Forever Brewing Macho",
-    "brewery": "Волинський бровар",
-    "beer_type": "Wheat Beer - Fruited"
-  },
-  {
     "venue": "b7-beer-house",
     "time": "2026-05-14T18:58:35+00:00",
     "serving": "can",
@@ -3692,6 +3809,15 @@ const BEER_DATA = [
     "beer_name": "Yes We Can - Hazy IPA: Citra, Nelson Sauvin",
     "brewery": "Maryensztadt",
     "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "beerz",
+    "time": "2026-05-14T18:58:35+00:00",
+    "serving": "bottle",
+    "rating": 3.3,
+    "beer_name": "Forever Brewing Macho",
+    "brewery": "Волинський бровар",
+    "beer_type": "Wheat Beer - Fruited"
   },
   {
     "venue": "beerz",
@@ -5512,15 +5638,6 @@ const BEER_DATA = [
     "beer_type": "IPA - American"
   },
   {
-    "venue": "schnitt-brewing-company",
-    "time": "2026-05-08T14:05:01+00:00",
-    "serving": "Unknown",
-    "rating": 3.5,
-    "beer_name": "Cheers Alenbeer",
-    "brewery": "Schnitt Brewing Company﻿",
-    "beer_type": "IPA - Session"
-  },
-  {
     "venue": "b7-beer-house",
     "time": "2026-05-08T14:05:01+00:00",
     "serving": "draft",
@@ -5528,6 +5645,15 @@ const BEER_DATA = [
     "beer_name": "Helix",
     "brewery": "Equilibrium Brewery",
     "beer_type": "Pilsner - German"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-08T14:05:01+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "Cheers Alenbeer",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - Session"
   },
   {
     "venue": "b7-beer-house",
