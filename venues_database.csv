@@ -1,4 +1,276 @@
 venue,user,time,serving,data_rating,beer_name,brewery,beer_type
+b7-beer-house,Tom Lahav,"Fri, 29 May 2026 10:07:14 +0000",can,3.5,Braggot On Steroids,Docker Brewery,Mead - Braggot
+b7-beer-house,Mikhail Stolov,"Fri, 29 May 2026 10:06:39 +0000",can,3.75,Blåbärsoppa,Sudden Death Brewing Co.,Sour - Fruited
+b7-beer-house,Alex Fux,"Fri, 29 May 2026 10:06:26 +0000",can,5.0,Royal Cookie: Neapolitan Ice Cream,Funky Fluid,Stout - Imperial / Double Pastry
+b7-beer-house,Yotam Bar-natan,"Fri, 29 May 2026 10:06:16 +0000",can,4.2,Blåbärsoppa,Sudden Death Brewing Co.,Sour - Fruited
+b7-beer-house,Mikhail Stolov,"Fri, 29 May 2026 10:06:04 +0000",can,3.75,Royal Cookie: Neapolitan Ice Cream,Funky Fluid,Stout - Imperial / Double Pastry
+b7-beer-house,Yana O,"Fri, 29 May 2026 10:05:40 +0000",can,4.2,Blåbärsoppa,Sudden Death Brewing Co.,Sour - Fruited
+b7-beer-house,Yaniv Alal,"Fri, 29 May 2026 10:05:34 +0000",can,4.0,MAKE IT FRUITY PEACH APRICOT,Evil Twin Brewing NYC,Sour - Fruited
+b7-beer-house,Dima Shleifman,"Fri, 29 May 2026 10:05:24 +0000",can,4.5,Royal Cookie: Neapolitan Ice Cream,Funky Fluid,Stout - Imperial / Double Pastry
+b7-beer-house,Alma,"Fri, 29 May 2026 10:04:38 +0000",bottle,3.75,Astrophysics,Equilibrium Brewery,IPA - New England / Hazy
+b7-beer-house,Yoav Kowalski,"Fri, 29 May 2026 10:04:12 +0000",,4.25,Royal Cookie: Neapolitan Ice Cream,Funky Fluid,Stout - Imperial / Double Pastry
+b7-beer-house,Noam Vaknin,"Fri, 29 May 2026 10:03:34 +0000",can,5.0,Hydra | Peach + Blueberry + Strawberry,Mortalis Brewing Company,Sour - Smoothie / Pastry
+b7-beer-house,Tom Lahav,"Fri, 29 May 2026 10:03:26 +0000",can,3.75,Royal Cookie: Neapolitan Ice Cream,Funky Fluid,Stout - Imperial / Double Pastry
+b7-beer-house,Yana O,"Fri, 29 May 2026 10:02:27 +0000",can,4.2,Plima - Double IPA,The Garden Brewery,IPA - Imperial / Double New England / Hazy
+b7-beer-house,Noam Vaknin,"Fri, 29 May 2026 10:02:19 +0000",can,4.5,Hydra | Passion Fruit + Tangerine + Pink Guava,Mortalis Brewing Company,Sour - Smoothie / Pastry
+b7-beer-house,Tom Lahav,"Fri, 29 May 2026 10:01:12 +0000",can,4.25,Blåbärsoppa,Sudden Death Brewing Co.,Sour - Fruited
+b7-beer-house,Yoav Kowalski,"Fri, 29 May 2026 10:00:59 +0000",,4.0,Blåbärsoppa,Sudden Death Brewing Co.,Sour - Fruited
+b7-beer-house,Ido Cohen,"Fri, 29 May 2026 10:00:01 +0000",can,3.6,Plima - Double IPA,The Garden Brewery,IPA - Imperial / Double New England / Hazy
+b7-beer-house,Alex Fux,"Fri, 29 May 2026 09:59:53 +0000",can,4.5,Prague Tap Room 2nd Anniversary,Sibeeria Brewery,IPA - Triple New England / Hazy
+b7-beer-house,Yoav Kowalski,"Fri, 29 May 2026 09:59:40 +0000",,3.25,Plima - Double IPA,The Garden Brewery,IPA - Imperial / Double New England / Hazy
+b7-beer-house,Tom Lahav,"Fri, 29 May 2026 09:58:39 +0000",can,4.0,Plima - Double IPA,The Garden Brewery,IPA - Imperial / Double New England / Hazy
+b7-beer-house,Alex Fux,"Fri, 29 May 2026 09:54:56 +0000",,4.0,Voracious Viper,Sibeeria Brewery,IPA - New England / Hazy
+b7-beer-house,Yotam Bar-natan,"Fri, 29 May 2026 09:52:39 +0000",draft,4.0,"תותים, בייבי תותים!!",New Pioneer Brewing Co - חלוץ חדש,Cider - Other
+b7-beer-house,Dima Shleifman,"Fri, 29 May 2026 09:51:26 +0000",bottle,4.5,THE GREAT NORTHERN BARREL-AGED SERIES 53 - RELEASED 10/24/25,Evil Twin Brewing NYC,Stout - Imperial / Double
+b7-beer-house,Alexander the Great ™️,"Fri, 29 May 2026 09:50:57 +0000",can,3.75,Astrophysics,Equilibrium Brewery,IPA - New England / Hazy
+b7-beer-house,Yana O,"Fri, 29 May 2026 09:50:23 +0000",can,4.0,Voracious Viper,Sibeeria Brewery,IPA - New England / Hazy
+b7-beer-house,Oren Sleepwalker,"Fri, 29 May 2026 09:49:28 +0000",can,,Cubic Prism,Equilibrium Brewery,IPA - Imperial / Double New England / Hazy
+b7-beer-house,ofir lebo,"Fri, 29 May 2026 09:48:41 +0000",can,4.25,Voracious Viper,Sibeeria Brewery,IPA - New England / Hazy
+b7-beer-house,גל סילברמן,"Fri, 29 May 2026 09:46:36 +0000",can,3.6,Astrophysics,Equilibrium Brewery,IPA - New England / Hazy
+b7-beer-house,Mikhail Stolov,"Fri, 29 May 2026 09:46:13 +0000",can,3.25,THE QUADFATHER,Evil Twin Brewing NYC,Belgian Quadrupel
+b7-beer-house,Alex Fux,"Fri, 29 May 2026 09:43:45 +0000",can,4.25,Astrophysics,Equilibrium Brewery,IPA - New England / Hazy
+b7-beer-house,Dima Shleifman,"Fri, 29 May 2026 09:41:19 +0000",can,4.25,Siren | Blackberry + Raspberry,Mortalis Brewing Company,Sour - Smoothie / Pastry
+b7-beer-house,Alexander the Great ™️,"Fri, 29 May 2026 09:39:42 +0000",bottle,4.25,Cocoa Vanilla Cardamom Sea Salt Stout 2025,Rodinný pivovar Zichovec,Stout - Imperial / Double Pastry
+b7-beer-house,Mikhail Stolov,"Fri, 29 May 2026 09:39:18 +0000",can,3.75,Voracious Viper,Sibeeria Brewery,IPA - New England / Hazy
+b7-beer-house,Yoav Kowalski,"Fri, 29 May 2026 09:38:32 +0000",draft,3.0,Velvet Panda,New Pioneer Brewing Co - חלוץ חדש,Stout - Pastry
+b7-beer-house,Yana O,"Fri, 29 May 2026 09:38:24 +0000",can,3.6,Loomis,Equilibrium Brewery,Lager - Světlé (Czech Pale)
+b7-beer-house,Alexander the Great ™️,"Fri, 29 May 2026 09:38:19 +0000",bottle,4.0,Dubai Style Chocolate Stout 2025,Rodinný pivovar Zichovec,Stout - Imperial / Double Pastry
+b7-beer-house,גל סילברמן,"Fri, 29 May 2026 09:37:37 +0000",bottle,4.8,THE GREAT NORTHERN BARREL-AGED SERIES 53 - RELEASED 10/24/25,Evil Twin Brewing NYC,Stout - Imperial / Double
+b7-beer-house,Ido Cohen,"Fri, 29 May 2026 09:37:29 +0000",can,3.8,GREENHOUSE CZECH PALE LAGER CONDITIONED ON AMERICAN OAK FOUDRE,Evil Twin Brewing NYC,Lager - Světlé (Czech Pale)
+b7-beer-house,Yoav Kowalski,"Fri, 29 May 2026 09:36:22 +0000",,4.75,Experiments In the Kitchen,Mortalis Brewing Company,Stout - Imperial / Double Pastry
+b7-beer-house,Yana O,"Fri, 29 May 2026 09:36:04 +0000",,3.8,THE QUADFATHER,Evil Twin Brewing NYC,Belgian Quadrupel
+b7-beer-house,Mikhail Stolov,"Fri, 29 May 2026 09:35:50 +0000",bottle,4.0,Dubai Style Chocolate Stout 2025,Rodinný pivovar Zichovec,Stout - Imperial / Double Pastry
+b7-beer-house,Yoav Kowalski,"Fri, 29 May 2026 09:35:21 +0000",,4.0,Cubic Prism,Equilibrium Brewery,IPA - Imperial / Double New England / Hazy
+b7-beer-house,Oren Sleepwalker,"Fri, 29 May 2026 09:35:02 +0000",can,,Hydra | Peach + Blueberry + Strawberry,Mortalis Brewing Company,Sour - Smoothie / Pastry
+b7-beer-house,Alex Fux,"Fri, 29 May 2026 09:34:50 +0000",can,5.0,Hydra | Peach + Blueberry + Strawberry,Mortalis Brewing Company,Sour - Smoothie / Pastry
+b7-beer-house,Yoav Kowalski,"Fri, 29 May 2026 09:34:22 +0000",,4.0,Night Shift Vintage 2025 / Double Chocolate Imperial Milk Porter  Aged In Bourbon Barrels,HORIZONT Brewing,Porter - Imperial / Double
+b7-beer-house,גל סילברמן,"Fri, 29 May 2026 09:34:04 +0000",can,3.7,GREENHOUSE CZECH PALE LAGER CONDITIONED ON AMERICAN OAK FOUDRE,Evil Twin Brewing NYC,Lager - Světlé (Czech Pale)
+b7-beer-house,Yoav Kowalski,"Fri, 29 May 2026 09:33:32 +0000",,3.75,They Have No Televisions But They Do Have This Dark & Toasty,Evil Twin Brewing,Stout - Oatmeal
+b7-beer-house,Alex Fux,"Fri, 29 May 2026 09:33:13 +0000",can,5.0,Hydra | Passion Fruit + Tangerine + Pink Guava,Mortalis Brewing Company,Sour - Smoothie / Pastry
+b7-beer-house,Dima Shleifman,"Fri, 29 May 2026 09:33:07 +0000",can,4.0,Hydra | Passion Fruit + Tangerine + Pink Guava,Mortalis Brewing Company,Sour - Smoothie / Pastry
+b7-beer-house,Yoav Kowalski,"Fri, 29 May 2026 09:32:55 +0000",,4.0,זה לא בירה 2,New Pioneer Brewing Co - חלוץ חדש,Mead - Other
+b7-beer-house,גל סילברמן,"Fri, 29 May 2026 09:32:50 +0000",can,3.6,Loomis,Equilibrium Brewery,Lager - Světlé (Czech Pale)
+b7-beer-house,Eli Smikin,"Fri, 29 May 2026 09:32:22 +0000",can,3.8,Field Theory,Equilibrium Brewery,IPA - American
+b7-beer-house,Alma,"Fri, 29 May 2026 09:32:15 +0000",can,3.75,GREENHOUSE CZECH PALE LAGER CONDITIONED ON AMERICAN OAK FOUDRE,Evil Twin Brewing NYC,Lager - Světlé (Czech Pale)
+b7-beer-house,Noam Vaknin,"Fri, 29 May 2026 09:32:00 +0000",can,4.5,Astrophysics,Equilibrium Brewery,IPA - New England / Hazy
+b7-beer-house,Yoav Kowalski,"Fri, 29 May 2026 09:31:57 +0000",,3.75,Voracious Viper,Sibeeria Brewery,IPA - New England / Hazy
+b7-beer-house,Mikhail Stolov,"Fri, 29 May 2026 09:31:09 +0000",bottle,4.0,Night Shift Vintage 2025 / Double Chocolate Imperial Milk Porter  Aged In Bourbon Barrels,HORIZONT Brewing,Porter - Imperial / Double
+b7-beer-house,Yoav Kowalski,"Fri, 29 May 2026 09:30:56 +0000",,4.0,Prague Tap Room 2nd Anniversary,Sibeeria Brewery,IPA - Triple New England / Hazy
+b7-beer-house,Alma,"Fri, 29 May 2026 09:30:33 +0000",can,4.25,THE GREAT NORTHERN BARREL-AGED SERIES 53 - RELEASED 10/24/25,Evil Twin Brewing NYC,Stout - Imperial / Double
+b7-beer-house,Yoav Kowalski,"Fri, 29 May 2026 09:29:49 +0000",,4.0,"Hop Elixir: Citra, Citra Hyperboost, Citra Cryo, Citra Dynaboost",Sibeeria Brewery,IPA - Session New England / Hazy
+b7-beer-house,Oren Sleepwalker,"Fri, 29 May 2026 09:29:14 +0000",can,,Prague Tap Room 2nd Anniversary,Sibeeria Brewery,IPA - Triple New England / Hazy
+b7-beer-house,Yoav Kowalski,"Fri, 29 May 2026 09:28:54 +0000",,4.25,Zima 2025,Sibeeria Brewery,Barleywine - English
+b7-beer-house,Eli Smikin,"Fri, 29 May 2026 09:28:26 +0000",can,3.8,Cubic Prism,Equilibrium Brewery,IPA - Imperial / Double New England / Hazy
+b7-beer-house,Ido Cohen,"Fri, 29 May 2026 09:27:51 +0000",can,3.8,"Hop Elixir: Citra, Citra Hyperboost, Citra Cryo, Citra Dynaboost",Sibeeria Brewery,IPA - Session New England / Hazy
+b7-beer-house,Yoav Kowalski,"Fri, 29 May 2026 09:27:42 +0000",,3.75,THE QUADFATHER,Evil Twin Brewing NYC,Belgian Quadrupel
+b7-beer-house,Yoav Kowalski,"Fri, 29 May 2026 09:26:59 +0000",draft,3.5,"תותים, בייבי תותים!!",New Pioneer Brewing Co - חלוץ חדש,Cider - Other
+lauter,Mel Vaserman,"Fri, 29 May 2026 09:26:28 +0000",bottle,3.5,פטריוט Ipa,קישקשתא (Kishkashta),IPA - American
+b7-beer-house,Alma,"Fri, 29 May 2026 09:26:14 +0000",can,4.5,Hydra | Peach + Blueberry + Strawberry,Mortalis Brewing Company,Sour - Smoothie / Pastry
+b7-beer-house,Mikhail Stolov,"Fri, 29 May 2026 09:25:53 +0000",bottle,4.5,Cocoa Vanilla Cardamom Sea Salt Stout 2025,Rodinný pivovar Zichovec,Stout - Imperial / Double Pastry
+b7-beer-house,Ido Cohen,"Fri, 29 May 2026 09:24:31 +0000",,3.9,Cubic Prism,Equilibrium Brewery,IPA - Imperial / Double New England / Hazy
+b7-beer-house,Yana O,"Fri, 29 May 2026 09:24:03 +0000",draft,3.8,"Hop Elixir: Citra, Citra Hyperboost, Citra Cryo, Citra Dynaboost",Sibeeria Brewery,IPA - Session New England / Hazy
+b7-beer-house,Ido Cohen,"Fri, 29 May 2026 09:23:16 +0000",can,3.7,They Have No Televisions But They Do Have This Dark & Toasty,Evil Twin Brewing,Stout - Oatmeal
+b7-beer-house,Eli Smikin,"Fri, 29 May 2026 09:22:29 +0000",can,3.5,They Have No Televisions But They Do Have This Dark & Toasty,Evil Twin Brewing,Stout - Oatmeal
+b7-beer-house,Alexander the Great ™️,"Fri, 29 May 2026 09:20:19 +0000",bottle,4.5,THE GREAT NORTHERN BARREL-AGED SERIES 53 - RELEASED 10/24/25,Evil Twin Brewing NYC,Stout - Imperial / Double
+b7-beer-house,Alexander the Great ™️,"Fri, 29 May 2026 09:19:32 +0000",can,3.75,GREENHOUSE CZECH PALE LAGER CONDITIONED ON AMERICAN OAK FOUDRE,Evil Twin Brewing NYC,Lager - Světlé (Czech Pale)
+b7-beer-house,Israel Shenkman,"Fri, 29 May 2026 09:19:27 +0000",can,3.75,GREENHOUSE CZECH PALE LAGER CONDITIONED ON AMERICAN OAK FOUDRE,Evil Twin Brewing NYC,Lager - Světlé (Czech Pale)
+b7-beer-house,Mikhail Stolov,"Fri, 29 May 2026 09:19:09 +0000",can,3.5,Siren | Blackberry + Raspberry,Mortalis Brewing Company,Sour - Smoothie / Pastry
+b7-beer-house,Alex Fux,"Fri, 29 May 2026 09:17:28 +0000",,,"תותים, בייבי תותים!!",New Pioneer Brewing Co - חלוץ חדש,Cider - Other
+b7-beer-house,Israel Shenkman,"Fri, 29 May 2026 09:16:57 +0000",can,4.25,Loomis,Equilibrium Brewery,Lager - Světlé (Czech Pale)
+b7-beer-house,Eli Smikin,"Fri, 29 May 2026 09:16:51 +0000",can,3.8,Astrophysics,Equilibrium Brewery,IPA - New England / Hazy
+b7-beer-house,Yotam Bar-natan,"Fri, 29 May 2026 09:16:33 +0000",can,3.8,THE QUADFATHER,Evil Twin Brewing NYC,Belgian Quadrupel
+b7-beer-house,Eli Smikin,"Fri, 29 May 2026 09:16:07 +0000",bottle,4.5,Night Shift Vintage 2025 / Double Chocolate Imperial Milk Porter  Aged In Bourbon Barrels,HORIZONT Brewing,Porter - Imperial / Double
+b7-beer-house,Ido Cohen,"Fri, 29 May 2026 09:16:03 +0000",,,"תותים, בייבי תותים!!",New Pioneer Brewing Co - חלוץ חדש,Cider - Other
+b7-beer-house,Israel Shenkman,"Fri, 29 May 2026 09:15:53 +0000",can,4.25,Field Theory,Equilibrium Brewery,IPA - American
+b7-beer-house,Alexander the Great ™️,"Fri, 29 May 2026 09:15:47 +0000",can,3.5,Loomis,Equilibrium Brewery,Lager - Světlé (Czech Pale)
+b7-beer-house,Alma,"Fri, 29 May 2026 09:15:14 +0000",,4.0,Zima 2025,Sibeeria Brewery,Barleywine - English
+b7-beer-house,Alex Fux,"Fri, 29 May 2026 09:15:04 +0000",bottle,4.5,Experiments In the Kitchen,Mortalis Brewing Company,Stout - Imperial / Double Pastry
+b7-beer-house,Tom Lahav,"Fri, 29 May 2026 09:14:51 +0000",bottle,4.75,Experiments In the Kitchen,Mortalis Brewing Company,Stout - Imperial / Double Pastry
+b7-beer-house,Yana O,"Fri, 29 May 2026 09:14:38 +0000",,,"תותים, בייבי תותים!!",New Pioneer Brewing Co - חלוץ חדש,Cider - Other
+b7-beer-house,Alma,"Fri, 29 May 2026 09:14:13 +0000",,3.75,Night Shift Vintage 2025 / Double Chocolate Imperial Milk Porter  Aged In Bourbon Barrels,HORIZONT Brewing,Porter - Imperial / Double
+b7-beer-house,Yuval Lutski,"Fri, 29 May 2026 09:14:08 +0000",draft,3.75,"תותים, בייבי תותים!!",New Pioneer Brewing Co - חלוץ חדש,Cider - Other
+b7-beer-house,Yuval Lutski,"Fri, 29 May 2026 09:13:29 +0000",can,3.75,Field Theory,Equilibrium Brewery,IPA - American
+b7-beer-house,Yuval Lutski,"Fri, 29 May 2026 09:12:51 +0000",bottle,3.5,THE GREAT NORTHERN BARREL-AGED SERIES 53 - RELEASED 10/24/25,Evil Twin Brewing NYC,Stout - Imperial / Double
+b7-beer-house,Eli Smikin,"Fri, 29 May 2026 09:12:31 +0000",bottle,4.5,Night Shift Vintage 2025 / Peanut Butter Jelly Imperial Pastry Stout Aged In Pedro Ximénez Sherry Barrels,HORIZONT Brewing,Stout - Imperial / Double Pastry
+b7-beer-house,Tom Lahav,"Fri, 29 May 2026 09:12:21 +0000",,3.5,Velvet Panda,New Pioneer Brewing Co - חלוץ חדש,Stout - Pastry
+b7-beer-house,Yuval Lutski,"Fri, 29 May 2026 09:12:14 +0000",bottle,4.5,Experiments In the Kitchen,Mortalis Brewing Company,Stout - Imperial / Double Pastry
+b7-beer-house,Noam Vaknin,"Fri, 29 May 2026 09:12:10 +0000",can,4.5,Siren | Blackberry + Raspberry,Mortalis Brewing Company,Sour - Smoothie / Pastry
+b7-beer-house,Yuval Lutski,"Fri, 29 May 2026 09:11:14 +0000",can,5.0,Hydra | Passion Fruit + Tangerine + Pink Guava,Mortalis Brewing Company,Sour - Smoothie / Pastry
+b7-beer-house,Yuval Lutski,"Fri, 29 May 2026 09:10:58 +0000",can,3.75,THE QUADFATHER,Evil Twin Brewing NYC,Belgian Quadrupel
+b7-beer-house,Yuval Lutski,"Fri, 29 May 2026 09:10:38 +0000",can,4.5,Astrophysics,Equilibrium Brewery,IPA - New England / Hazy
+b7-beer-house,Alma,"Fri, 29 May 2026 09:10:12 +0000",can,4.5,Hydra | Passion Fruit + Tangerine + Pink Guava,Mortalis Brewing Company,Sour - Smoothie / Pastry
+b7-beer-house,Ido Cohen,"Fri, 29 May 2026 09:09:52 +0000",can,3.4,Astrophysics,Equilibrium Brewery,IPA - New England / Hazy
+b7-beer-house,גל סילברמן,"Fri, 29 May 2026 09:09:39 +0000",bottle,3.8,Night Shift Vintage 2025 / Peanut Butter Jelly Imperial Pastry Stout Aged In Pedro Ximénez Sherry Barrels,HORIZONT Brewing,Stout - Imperial / Double Pastry
+b7-beer-house,Tom Lahav,"Fri, 29 May 2026 09:08:59 +0000",,4.0,זה לא בירה 2,New Pioneer Brewing Co - חלוץ חדש,Mead - Other
+b7-beer-house,Eli Smikin,"Fri, 29 May 2026 09:08:38 +0000",can,3.8,THE QUADFATHER,Evil Twin Brewing NYC,Belgian Quadrupel
+b7-beer-house,Alex Fux,"Fri, 29 May 2026 09:08:15 +0000",can,4.0,Field Theory,Equilibrium Brewery,IPA - American
+b7-beer-house,גל סילברמן,"Fri, 29 May 2026 09:07:53 +0000",bottle,4.3,Night Shift Vintage 2025 / Double Chocolate Imperial Milk Porter  Aged In Bourbon Barrels,HORIZONT Brewing,Porter - Imperial / Double
+b7-beer-house,Tom Lahav,"Fri, 29 May 2026 09:07:42 +0000",can,3.75,"תותים, בייבי תותים!!",New Pioneer Brewing Co - חלוץ חדש,Cider - Other
+b7-beer-house,Israel Shenkman,"Fri, 29 May 2026 09:06:46 +0000",,4.25,Experiments In the Kitchen,Mortalis Brewing Company,Stout - Imperial / Double Pastry
+b7-beer-house,Mikhail Stolov,"Fri, 29 May 2026 09:06:41 +0000",can,3.5,Astrophysics,Equilibrium Brewery,IPA - New England / Hazy
+b7-beer-house,Tom Lahav,"Fri, 29 May 2026 09:05:35 +0000",can,3.75,THE QUADFATHER,Evil Twin Brewing NYC,Belgian Quadrupel
+b7-beer-house,Ido Cohen,"Fri, 29 May 2026 09:05:16 +0000",can,3.6,THE QUADFATHER,Evil Twin Brewing NYC,Belgian Quadrupel
+b7-beer-house,Israel Shenkman,"Fri, 29 May 2026 09:04:46 +0000",can,4.0,Voracious Viper,Sibeeria Brewery,IPA - New England / Hazy
+b7-beer-house,גל סילברמן,"Fri, 29 May 2026 09:03:03 +0000",bottle,4.4,Zima 2025,Sibeeria Brewery,Barleywine - English
+b7-beer-house,Yuval Lutski,"Fri, 29 May 2026 09:02:59 +0000",can,5.0,Hydra | Peach + Blueberry + Strawberry,Mortalis Brewing Company,Sour - Smoothie / Pastry
+b7-beer-house,Tom Lahav,"Fri, 29 May 2026 09:02:59 +0000",can,3.75,Cubic Prism,Equilibrium Brewery,IPA - Imperial / Double New England / Hazy
+b7-beer-house,Alex Fux,"Fri, 29 May 2026 09:02:51 +0000",bottle,4.0,Night Shift Vintage 2025 / Double Chocolate Imperial Milk Porter  Aged In Bourbon Barrels,HORIZONT Brewing,Porter - Imperial / Double
+b7-beer-house,Israel Shenkman,"Fri, 29 May 2026 09:02:24 +0000",can,4.0,Astrophysics,Equilibrium Brewery,IPA - New England / Hazy
+b7-beer-house,Mikhail Stolov,"Fri, 29 May 2026 09:01:16 +0000",bottle,4.0,Stout Woodford 2025,Rodinný pivovar Zichovec,Stout - Imperial / Double
+b7-beer-house,Yana O,"Fri, 29 May 2026 09:00:53 +0000",can,4.2,Cubic Prism,Equilibrium Brewery,IPA - Imperial / Double New England / Hazy
+b7-beer-house,Tom Lahav,"Fri, 29 May 2026 09:00:33 +0000",can,3.75,They Have No Televisions But They Do Have This Dark & Toasty,Evil Twin Brewing,Stout - Oatmeal
+b7-beer-house,Eli Smikin,"Fri, 29 May 2026 08:59:42 +0000",bottle,5.0,Experiments In the Kitchen,Mortalis Brewing Company,Stout - Imperial / Double Pastry
+b7-beer-house,Alexander the Great ™️,"Fri, 29 May 2026 08:59:36 +0000",bottle,4.5,Night Shift Vintage 2025 / Double Chocolate Imperial Milk Porter  Aged In Bourbon Barrels,HORIZONT Brewing,Porter - Imperial / Double
+b7-beer-house,Alex Fux,"Fri, 29 May 2026 08:59:34 +0000",bottle,4.0,Night Shift Vintage 2025 / Peanut Butter Jelly Imperial Pastry Stout Aged In Pedro Ximénez Sherry Barrels,HORIZONT Brewing,Stout - Imperial / Double Pastry
+b7-beer-house,Alexander the Great ™️,"Fri, 29 May 2026 08:58:52 +0000",bottle,4.25,Night Shift Vintage 2025 / Peanut Butter Jelly Imperial Pastry Stout Aged In Pedro Ximénez Sherry Barrels,HORIZONT Brewing,Stout - Imperial / Double Pastry
+b7-beer-house,Yana O,"Fri, 29 May 2026 08:58:14 +0000",can,4.2,Field Theory,Equilibrium Brewery,IPA - American
+b7-beer-house,Alex Fux,"Fri, 29 May 2026 08:57:46 +0000",can,4.0,"Hop Elixir: Citra, Citra Hyperboost, Citra Cryo, Citra Dynaboost",Sibeeria Brewery,IPA - Session New England / Hazy
+b7-beer-house,Ido Cohen,"Fri, 29 May 2026 08:57:32 +0000",can,4.1,Siren | Blackberry + Raspberry,Mortalis Brewing Company,Sour - Smoothie / Pastry
+b7-beer-house,Mikhail Stolov,"Fri, 29 May 2026 08:56:42 +0000",bottle,4.5,Zima 2025,Sibeeria Brewery,Barleywine - English
+b7-beer-house,Yoav Kowalski,"Fri, 29 May 2026 08:56:31 +0000",,4.25,Night Shift Vintage 2025 / Peanut Butter Jelly Imperial Pastry Stout Aged In Pedro Ximénez Sherry Barrels,HORIZONT Brewing,Stout - Imperial / Double Pastry
+b7-beer-house,Yotam Bar-natan,"Fri, 29 May 2026 08:56:04 +0000",can,3.7,Astrophysics,Equilibrium Brewery,IPA - New England / Hazy
+b7-beer-house,Yoav Kowalski,"Fri, 29 May 2026 08:55:21 +0000",,4.25,Siren | Blackberry + Raspberry,Mortalis Brewing Company,Sour - Smoothie / Pastry
+b7-beer-house,Alexander the Great ™️,"Fri, 29 May 2026 08:54:51 +0000",bottle,4.5,Zima 2025,Sibeeria Brewery,Barleywine - English
+b7-beer-house,Tom Lahav,"Fri, 29 May 2026 08:54:45 +0000",can,4.25,Siren | Blackberry + Raspberry,Mortalis Brewing Company,Sour - Smoothie / Pastry
+b7-beer-house,Yuval Lutski,"Fri, 29 May 2026 08:53:41 +0000",can,4.5,Cubic Prism,Equilibrium Brewery,IPA - Imperial / Double New England / Hazy
+b7-beer-house,Yoav Kowalski,"Fri, 29 May 2026 08:53:38 +0000",,3.25,Loomis,Equilibrium Brewery,Lager - Světlé (Czech Pale)
+b7-beer-house,Yuval Lutski,"Fri, 29 May 2026 08:52:44 +0000",bottle,3.75,Night Shift Vintage 2025 / Double Chocolate Imperial Milk Porter  Aged In Bourbon Barrels,HORIZONT Brewing,Porter - Imperial / Double
+b7-beer-house,Mikhail Stolov,"Fri, 29 May 2026 08:52:41 +0000",bottle,4.0,Night Shift Vintage 2025 / Peanut Butter Jelly Imperial Pastry Stout Aged In Pedro Ximénez Sherry Barrels,HORIZONT Brewing,Stout - Imperial / Double Pastry
+b7-beer-house,Yoav Kowalski,"Fri, 29 May 2026 08:52:27 +0000",,4.5,Night Shift Vintage 2025 / Russian Imperial Stout Aged In Rhum And Vanilla Macadamia Rum Barrels,HORIZONT Brewing,Stout - Russian Imperial
+b7-beer-house,Yuval Lutski,"Fri, 29 May 2026 08:52:21 +0000",bottle,3.25,Night Shift Vintage 2025 / Peanut Butter Jelly Imperial Pastry Stout Aged In Pedro Ximénez Sherry Barrels,HORIZONT Brewing,Stout - Imperial / Double Pastry
+b7-beer-house,Israel Shenkman,"Fri, 29 May 2026 08:51:36 +0000",bottle,4.25,Night Shift Vintage 2025 / Peanut Butter Jelly Imperial Pastry Stout Aged In Pedro Ximénez Sherry Barrels,HORIZONT Brewing,Stout - Imperial / Double Pastry
+b7-beer-house,Yoav Kowalski,"Fri, 29 May 2026 08:50:08 +0000",,3.5,Field Theory,Equilibrium Brewery,IPA - American
+b7-beer-house,Ido Cohen,"Fri, 29 May 2026 08:49:35 +0000",draft,4.2,זה לא בירה 2,New Pioneer Brewing Co - חלוץ חדש,Mead - Other
+b7-beer-house,Eli Smikin,"Fri, 29 May 2026 08:48:42 +0000",can,4.0,Loomis,Equilibrium Brewery,Lager - Světlé (Czech Pale)
+b7-beer-house,ofir lebo,"Fri, 29 May 2026 08:48:37 +0000",can,4.25,Loomis,Equilibrium Brewery,Lager - Světlé (Czech Pale)
+b7-beer-house,Israel Shenkman,"Fri, 29 May 2026 08:48:17 +0000",bottle,4.25,Night Shift Vintage 2025 / Russian Imperial Stout Aged In Rhum And Vanilla Macadamia Rum Barrels,HORIZONT Brewing,Stout - Russian Imperial
+b7-beer-house,Tom Lahav,"Fri, 29 May 2026 08:47:54 +0000",can,4.0,Loomis,Equilibrium Brewery,Lager - Světlé (Czech Pale)
+b7-beer-house,Ziv Shwartzman,"Fri, 29 May 2026 08:47:20 +0000",draft,4.25,Love of Grapefruit And Tangerine In the Fog,Radionov,"Homebrew, IPA - New England / Hazy"
+b7-beer-house,Yana O,"Fri, 29 May 2026 08:45:22 +0000",bottle,4.2,Night Shift Vintage 2025 / Peanut Butter Jelly Imperial Pastry Stout Aged In Pedro Ximénez Sherry Barrels,HORIZONT Brewing,Stout - Imperial / Double Pastry
+b7-beer-house,Tom Lahav,"Fri, 29 May 2026 08:45:20 +0000",bottle,4.25,Zima 2025,Sibeeria Brewery,Barleywine - English
+b7-beer-house,Ido Cohen,"Fri, 29 May 2026 08:45:10 +0000",can,3.6,Field Theory,Equilibrium Brewery,IPA - American
+b7-beer-house,גל סילברמן,"Fri, 29 May 2026 08:45:08 +0000",bottle,4.2,Night Shift Vintage 2025 / Russian Imperial Stout Aged In Rhum And Vanilla Macadamia Rum Barrels,HORIZONT Brewing,Stout - Russian Imperial
+b7-beer-house,Ziv Shwartzman,"Fri, 29 May 2026 08:44:41 +0000",draft,3.75,Pilsner Pank,Radionov,"Homebrew, Pilsner - Czech / Bohemian"
+b7-beer-house,Yana O,"Fri, 29 May 2026 08:43:54 +0000",bottle,4.0,Night Shift Vintage 2025 / Russian Imperial Stout Aged In Rhum And Vanilla Macadamia Rum Barrels,HORIZONT Brewing,Stout - Russian Imperial
+b7-beer-house,גל סילברמן,"Fri, 29 May 2026 08:43:40 +0000",bottle,4.7,Experiments In the Kitchen,Mortalis Brewing Company,Stout - Imperial / Double Pastry
+b7-beer-house,Tom Lahav,"Fri, 29 May 2026 08:43:38 +0000",can,4.0,Prague Tap Room 2nd Anniversary,Sibeeria Brewery,IPA - Triple New England / Hazy
+b7-beer-house,Tom Lahav,"Fri, 29 May 2026 08:42:24 +0000",can,3.75,"Hop Elixir: Citra, Citra Hyperboost, Citra Cryo, Citra Dynaboost",Sibeeria Brewery,IPA - Session New England / Hazy
+b7-beer-house,Ziv Shwartzman,"Fri, 29 May 2026 08:42:24 +0000",draft,3.75,Prunes In Chocolate,Radionov,"Homebrew, Porter - Other"
+b7-beer-house,Ido Cohen,"Fri, 29 May 2026 08:42:17 +0000",bottle,4.0,Night Shift Vintage 2025 / Double Chocolate Imperial Milk Porter  Aged In Bourbon Barrels,HORIZONT Brewing,Porter - Imperial / Double
+b7-beer-house,Mikhail Stolov,"Fri, 29 May 2026 08:41:47 +0000",can,3.75,"Hop Elixir: Citra, Citra Hyperboost, Citra Cryo, Citra Dynaboost",Sibeeria Brewery,IPA - Session New England / Hazy
+b7-beer-house,Ido Cohen,"Fri, 29 May 2026 08:41:42 +0000",bottle,3.9,Night Shift Vintage 2025 / Peanut Butter Jelly Imperial Pastry Stout Aged In Pedro Ximénez Sherry Barrels,HORIZONT Brewing,Stout - Imperial / Double Pastry
+b7-beer-house,Eli Smikin,"Fri, 29 May 2026 08:40:46 +0000",,3.8,Voracious Viper,Sibeeria Brewery,IPA - New England / Hazy
+b7-beer-house,Tom Lahav,"Fri, 29 May 2026 08:39:52 +0000",can,3.75,Voracious Viper,Sibeeria Brewery,IPA - New England / Hazy
+b7-beer-house,Ido Cohen,"Fri, 29 May 2026 08:39:13 +0000",can,3.8,Voracious Viper,Sibeeria Brewery,IPA - New England / Hazy
+b7-beer-house,Tom Lahav,"Fri, 29 May 2026 08:38:47 +0000",can,4.0,Night Shift Vintage 2025 / Double Chocolate Imperial Milk Porter  Aged In Bourbon Barrels,HORIZONT Brewing,Porter - Imperial / Double
+b7-beer-house,Mikhail Stolov,"Fri, 29 May 2026 08:38:35 +0000",bottle,4.75,THE GREAT NORTHERN BARREL-AGED SERIES 53 - RELEASED 10/24/25,Evil Twin Brewing NYC,Stout - Imperial / Double
+b7-beer-house,גל סילברמן,"Fri, 29 May 2026 08:37:18 +0000",can,3.7,They Have No Televisions But They Do Have This Dark & Toasty,Evil Twin Brewing,Stout - Oatmeal
+b7-beer-house,Tom Lahav,"Fri, 29 May 2026 08:36:52 +0000",bottle,4.0,Night Shift Vintage 2025 / Peanut Butter Jelly Imperial Pastry Stout Aged In Pedro Ximénez Sherry Barrels,HORIZONT Brewing,Stout - Imperial / Double Pastry
+b7-beer-house,Ido Cohen,"Fri, 29 May 2026 08:36:06 +0000",bottle,4.3,THE GREAT NORTHERN BARREL-AGED SERIES 53 - RELEASED 10/24/25,Evil Twin Brewing NYC,Stout - Imperial / Double
+b7-beer-house,Eli Smikin,"Fri, 29 May 2026 08:36:04 +0000",can,4.5,Prague Tap Room 2nd Anniversary,Sibeeria Brewery,IPA - Triple New England / Hazy
+b7-beer-house,Tom Lahav,"Fri, 29 May 2026 08:35:11 +0000",bottle,4.25,Night Shift Vintage 2025 / Russian Imperial Stout Aged In Rhum And Vanilla Macadamia Rum Barrels,HORIZONT Brewing,Stout - Russian Imperial
+b7-beer-house,Mikhail Stolov,"Fri, 29 May 2026 08:35:08 +0000",bottle,4.5,Experiments In the Kitchen,Mortalis Brewing Company,Stout - Imperial / Double Pastry
+b7-beer-house,Tom Lahav,"Fri, 29 May 2026 08:33:40 +0000",can,3.5,Field Theory,Equilibrium Brewery,IPA - American
+b7-beer-house,Yotam Bar-natan,"Fri, 29 May 2026 08:33:34 +0000",bottle,4.1,Night Shift Vintage 2025 / Russian Imperial Stout Aged In Rhum And Vanilla Macadamia Rum Barrels,HORIZONT Brewing,Stout - Russian Imperial
+b7-beer-house,Alexander the Great ™️,"Fri, 29 May 2026 08:33:13 +0000",bottle,4.25,Night Shift Vintage 2025 / Russian Imperial Stout Aged In Rhum And Vanilla Macadamia Rum Barrels,HORIZONT Brewing,Stout - Russian Imperial
+b7-beer-house,Yotam Bar-natan,"Fri, 29 May 2026 08:33:11 +0000",bottle,4.7,Experiments In the Kitchen,Mortalis Brewing Company,Stout - Imperial / Double Pastry
+b7-beer-house,Ido Cohen,"Fri, 29 May 2026 08:32:52 +0000",bottle,3.9,Night Shift Vintage 2025 / Russian Imperial Stout Aged In Rhum And Vanilla Macadamia Rum Barrels,HORIZONT Brewing,Stout - Russian Imperial
+b7-beer-house,Tom Lahav,"Fri, 29 May 2026 08:32:32 +0000",can,3.5,Astrophysics,Equilibrium Brewery,IPA - New England / Hazy
+b7-beer-house,Eli Smikin,"Fri, 29 May 2026 08:32:20 +0000",,4.2,Night Shift Vintage 2025 / Russian Imperial Stout Aged In Rhum And Vanilla Macadamia Rum Barrels,HORIZONT Brewing,Stout - Russian Imperial
+b7-beer-house,ofir lebo,"Fri, 29 May 2026 08:32:16 +0000",bottle,5.0,Experiments In the Kitchen,Mortalis Brewing Company,Stout - Imperial / Double Pastry
+b7-beer-house,Yoav Kowalski,"Fri, 29 May 2026 08:32:13 +0000",,3.5,Astrophysics,Equilibrium Brewery,IPA - New England / Hazy
+b7-beer-house,Yuval Lutski,"Fri, 29 May 2026 08:31:52 +0000",can,4.25,Prague Tap Room 2nd Anniversary,Sibeeria Brewery,IPA - Triple New England / Hazy
+b7-beer-house,Tom Lahav,"Fri, 29 May 2026 08:31:35 +0000",can,4.0,Hydra | Peach + Blueberry + Strawberry,Mortalis Brewing Company,Sour - Smoothie / Pastry
+b7-beer-house,Ido Cohen,"Fri, 29 May 2026 08:31:22 +0000",bottle,4.2,Experiments In the Kitchen,Mortalis Brewing Company,Stout - Imperial / Double Pastry
+b7-beer-house,Alexander the Great ™️,"Fri, 29 May 2026 08:30:51 +0000",,3.75,They Have No Televisions But They Do Have This Dark & Toasty,Evil Twin Brewing,Stout - Oatmeal
+b7-beer-house,Yoav Kowalski,"Fri, 29 May 2026 08:30:38 +0000",,3.75,Hydra | Peach + Blueberry + Strawberry,Mortalis Brewing Company,Sour - Smoothie / Pastry
+b7-beer-house,Tom Lahav,"Fri, 29 May 2026 08:30:15 +0000",can,4.25,Hydra | Passion Fruit + Tangerine + Pink Guava,Mortalis Brewing Company,Sour - Smoothie / Pastry
+b7-beer-house,Yoav Kowalski,"Fri, 29 May 2026 08:29:56 +0000",,4.25,Hydra | Passion Fruit + Tangerine + Pink Guava,Mortalis Brewing Company,Sour - Smoothie / Pastry
+b7-beer-house,Mikhail Stolov,"Fri, 29 May 2026 08:29:53 +0000",can,4.0,Prague Tap Room 2nd Anniversary,Sibeeria Brewery,IPA - Triple New England / Hazy
+b7-beer-house,Alexander the Great ™️,"Fri, 29 May 2026 08:29:38 +0000",bottle,4.75,Experiments In the Kitchen,Mortalis Brewing Company,Stout - Imperial / Double Pastry
+b7-beer-house,Yana O,"Fri, 29 May 2026 08:28:59 +0000",can,3.8,They Have No Televisions But They Do Have This Dark & Toasty,Evil Twin Brewing,Stout - Oatmeal
+b7-beer-house,Ido Cohen,"Fri, 29 May 2026 08:28:59 +0000",can,4.1,Prague Tap Room 2nd Anniversary,Sibeeria Brewery,IPA - Triple New England / Hazy
+b7-beer-house,Ido Cohen,"Fri, 29 May 2026 08:27:15 +0000",can,3.6,GREENHOUSE CZECH PILS CONDITIONED ON AMERICAN OAK FOUDRE,Evil Twin Brewing NYC,Pilsner - Czech / Bohemian
+b7-beer-house,Eli Smikin,"Fri, 29 May 2026 08:27:08 +0000",bottle,4.3,Zima 2025,Sibeeria Brewery,Barleywine - English
+b7-beer-house,Yana O,"Fri, 29 May 2026 08:26:58 +0000",can,4.1,Astrophysics,Equilibrium Brewery,IPA - New England / Hazy
+b7-beer-house,Yuval Lutski,"Fri, 29 May 2026 08:26:54 +0000",bottle,4.0,Night Shift Vintage 2025 / Russian Imperial Stout Aged In Rhum And Vanilla Macadamia Rum Barrels,HORIZONT Brewing,Stout - Russian Imperial
+b7-beer-house,Mikhail Stolov,"Fri, 29 May 2026 08:25:23 +0000",bottle,4.25,Night Shift Vintage 2025 / Russian Imperial Stout Aged In Rhum And Vanilla Macadamia Rum Barrels,HORIZONT Brewing,Stout - Russian Imperial
+b7-beer-house,Yuval Lutski,"Fri, 29 May 2026 08:25:23 +0000",bottle,4.25,Zima 2025,Sibeeria Brewery,Barleywine - English
+b7-beer-house,ofir lebo,"Fri, 29 May 2026 08:24:41 +0000",draft,4.25,זה לא בירה 2,New Pioneer Brewing Co - חלוץ חדש,Mead - Other
+b7-beer-house,גל סילברמן,"Fri, 29 May 2026 08:24:32 +0000",can,3.9,Hydra | Peach + Blueberry + Strawberry,Mortalis Brewing Company,Sour - Smoothie / Pastry
+b7-beer-house,Ziv Shwartzman,"Fri, 29 May 2026 08:24:14 +0000",draft,3.75,Fresh 2026,I.N. Beer,"Homebrew, IPA - New England / Hazy"
+b7-beer-house,Eli Smikin,"Fri, 29 May 2026 08:23:58 +0000",can,4.1,Hydra | Peach + Blueberry + Strawberry,Mortalis Brewing Company,Sour - Smoothie / Pastry
+b7-beer-house,Eli Smikin,"Fri, 29 May 2026 08:23:07 +0000",can,4.0,Siren | Blackberry + Raspberry,Mortalis Brewing Company,Sour - Smoothie / Pastry
+b7-beer-house,Ziv Shwartzman,"Fri, 29 May 2026 08:22:54 +0000",draft,3.75,Coffee Porter,I.N. Beer,"Homebrew, Porter - Coffee"
+b7-beer-house,Yotam Bar-natan,"Fri, 29 May 2026 08:22:13 +0000",can,3.8,Field Theory,Equilibrium Brewery,IPA - American
+b7-beer-house,Yotam Bar-natan,"Fri, 29 May 2026 08:21:56 +0000",bottle,4.0,Zima 2025,Sibeeria Brewery,Barleywine - English
+b7-beer-house,Eli Smikin,"Fri, 29 May 2026 08:21:54 +0000",,3.8,"Hop Elixir: Citra, Citra Hyperboost, Citra Cryo, Citra Dynaboost",Sibeeria Brewery,IPA - Session New England / Hazy
+b7-beer-house,Ido Cohen,"Fri, 29 May 2026 08:21:45 +0000",can,4.3,Hydra | Peach + Blueberry + Strawberry,Mortalis Brewing Company,Sour - Smoothie / Pastry
+b7-beer-house,Yotam Bar-natan,"Fri, 29 May 2026 08:21:36 +0000",can,4.5,Siren | Blackberry + Raspberry,Mortalis Brewing Company,Sour - Smoothie / Pastry
+b7-beer-house,Ziv Shwartzman,"Fri, 29 May 2026 08:21:34 +0000",draft,3.0,Creamy Lime Sour Cheescake,New Pioneer Brewing Co - חלוץ חדש,Sour - Smoothie / Pastry
+b7-beer-house,גל סילברמן,"Fri, 29 May 2026 08:20:42 +0000",can,4.2,Siren | Blackberry + Raspberry,Mortalis Brewing Company,Sour - Smoothie / Pastry
+b7-beer-house,Yuval Lutski,"Fri, 29 May 2026 08:20:07 +0000",can,4.25,"Hop Elixir: Citra, Citra Hyperboost, Citra Cryo, Citra Dynaboost",Sibeeria Brewery,IPA - Session New England / Hazy
+b7-beer-house,Mikhail Stolov,"Fri, 29 May 2026 08:19:03 +0000",can,3.25,Field Theory,Equilibrium Brewery,IPA - American
+b7-beer-house,Yotam Bar-natan,"Fri, 29 May 2026 08:18:27 +0000",can,4.2,Hydra | Passion Fruit + Tangerine + Pink Guava,Mortalis Brewing Company,Sour - Smoothie / Pastry
+b7-beer-house,Ido Cohen,"Fri, 29 May 2026 08:18:24 +0000",bottle,4.3,Zima 2025,Sibeeria Brewery,Barleywine - English
+b7-beer-house,גל סילברמן,"Fri, 29 May 2026 08:18:19 +0000",can,4.5,Hydra | Passion Fruit + Tangerine + Pink Guava,Mortalis Brewing Company,Sour - Smoothie / Pastry
+b7-beer-house,Yotam Bar-natan,"Fri, 29 May 2026 08:17:03 +0000",can,4.2,Cubic Prism,Equilibrium Brewery,IPA - Imperial / Double New England / Hazy
+b7-beer-house,Ido Cohen,"Fri, 29 May 2026 08:16:57 +0000",can,3.6,Loomis,Equilibrium Brewery,Lager - Světlé (Czech Pale)
+b7-beer-house,Alexander the Great ™️,"Fri, 29 May 2026 08:15:18 +0000",can,4.0,Hydra | Peach + Blueberry + Strawberry,Mortalis Brewing Company,Sour - Smoothie / Pastry
+b7-beer-house,Yotam Bar-natan,"Fri, 29 May 2026 08:15:04 +0000",can,3.8,Loomis,Equilibrium Brewery,Lager - Světlé (Czech Pale)
+b7-beer-house,Alexander the Great ™️,"Fri, 29 May 2026 08:14:06 +0000",can,4.25,Hydra | Passion Fruit + Tangerine + Pink Guava,Mortalis Brewing Company,Sour - Smoothie / Pastry
+b7-beer-house,Yuval Lutski,"Fri, 29 May 2026 08:13:44 +0000",can,4.5,Siren | Blackberry + Raspberry,Mortalis Brewing Company,Sour - Smoothie / Pastry
+b7-beer-house,Mikhail Stolov,"Fri, 29 May 2026 08:13:33 +0000",can,4.25,Cubic Prism,Equilibrium Brewery,IPA - Imperial / Double New England / Hazy
+b7-beer-house,Yotam Bar-natan,"Fri, 29 May 2026 08:13:23 +0000",can,3.8,They Have No Televisions But They Do Have This Dark & Toasty,Evil Twin Brewing,Stout - Oatmeal
+b7-beer-house,ofir lebo,"Fri, 29 May 2026 08:13:10 +0000",can,4.5,Siren | Blackberry + Raspberry,Mortalis Brewing Company,Sour - Smoothie / Pastry
+b7-beer-house,Yuval Lutski,"Fri, 29 May 2026 08:11:57 +0000",can,4.0,They Have No Televisions But They Do Have This Dark & Toasty,Evil Twin Brewing,Stout - Oatmeal
+b7-beer-house,Alexander the Great ™️,"Fri, 29 May 2026 08:09:16 +0000",,4.25,Siren | Blackberry + Raspberry,Mortalis Brewing Company,Sour - Smoothie / Pastry
+b7-beer-house,Mikhail Stolov,"Fri, 29 May 2026 08:08:11 +0000",can,3.5,They Have No Televisions But They Do Have This Dark & Toasty,Evil Twin Brewing,Stout - Oatmeal
+b7-beer-house,גל סילברמן,"Fri, 29 May 2026 08:02:28 +0000",draft,3.8,זה לא בירה 2,New Pioneer Brewing Co - חלוץ חדש,Mead - Other
+b7-beer-house,Mikhail Stolov,"Fri, 29 May 2026 07:42:21 +0000",draft,3.5,Velvet Panda,New Pioneer Brewing Co - חלוץ חדש,Stout - Pastry
+b7-beer-house,Alexander the Great ™️,"Fri, 29 May 2026 07:28:16 +0000",,3.75,זה לא בירה 2,New Pioneer Brewing Co - חלוץ חדש,Mead - Other
+b7-beer-house,Alexander the Great ™️,"Fri, 29 May 2026 05:16:38 +0000",draft,4.0,Prunes In Chocolate,Radionov,"Homebrew, Porter - Other"
+b7-beer-house,Alexander the Great ™️,"Fri, 29 May 2026 05:00:28 +0000",draft,3.75,Fresh 2026,I.N. Beer,"Homebrew, IPA - New England / Hazy"
+b7-beer-house,Alexander the Great ™️,"Fri, 29 May 2026 04:07:55 +0000",draft,4.0,2018 תפוח בדבש (Tapoah Bidvash),Radionov,"Homebrew, Mead - Cyser"
+b7-beer-house,Orsade256,"Thu, 28 May 2026 22:07:04 +0000",,5.0,Love of Grapefruit And Tangerine In the Fog,Radionov,"Homebrew, IPA - New England / Hazy"
+b7-beer-house,Orsade256,"Thu, 28 May 2026 22:05:21 +0000",,4.75,Tirameadsu,Schmulz,Mead - Bochet
+b7-beer-house,Orsade256,"Thu, 28 May 2026 22:04:12 +0000",draft,5.0,PNW Bound,The Three-Legged Crow Brewery,"Homebrew, IPA - American"
+b7-beer-house,Orsade256,"Thu, 28 May 2026 22:01:59 +0000",draft,5.0,Hafsakat Hashmal,Merkaz Gilat Brewery,"Homebrew, Stout - Pastry"
+b7-beer-house,Orsade256,"Thu, 28 May 2026 22:01:29 +0000",draft,4.75,Two Thousand Springs,Merkaz Gilat Brewery,"Homebrew, IPA - Imperial / Double New England / Hazy"
+b7-beer-house,Orsade256,"Thu, 28 May 2026 22:00:36 +0000",draft,5.0,2018 תפוח בדבש (Tapoah Bidvash),Radionov,"Homebrew, Mead - Cyser"
+b7-beer-house,Gilad Neeman,"Thu, 28 May 2026 21:42:09 +0000",draft,4.75,זה לא בירה 2,New Pioneer Brewing Co - חלוץ חדש,Mead - Other
+b7-beer-house,Yuval Lutski,"Thu, 28 May 2026 21:12:45 +0000",draft,4.75,זה לא בירה 2,New Pioneer Brewing Co - חלוץ חדש,Mead - Other
+b7-beer-house,Yuval Lutski,"Thu, 28 May 2026 21:11:33 +0000",draft,5.0,Seek & Sour,Merkaz Gilat Brewery,"Homebrew, Sour - Fruited"
+b7-beer-house,Yuval Lutski,"Thu, 28 May 2026 21:10:26 +0000",draft,4.75,Two Thousand Springs,Merkaz Gilat Brewery,"Homebrew, IPA - Imperial / Double New England / Hazy"
+b7-beer-house,Yuval Lutski,"Thu, 28 May 2026 21:10:01 +0000",draft,5.0,Hafsakat Hashmal,Merkaz Gilat Brewery,"Homebrew, Stout - Pastry"
+b7-beer-house,Yuval Lutski,"Thu, 28 May 2026 21:09:25 +0000",draft,3.75,PNW Bound,The Three-Legged Crow Brewery,"Homebrew, IPA - American"
+b7-beer-house,Yuval Lutski,"Thu, 28 May 2026 21:09:06 +0000",draft,4.25,David’s Coffee And Cigarettes,The Three-Legged Crow Brewery,"Homebrew, Porter - Baltic"
+b7-beer-house,Yuval Lutski,"Thu, 28 May 2026 21:08:51 +0000",draft,4.0,Love of Grapefruit And Tangerine In the Fog,Radionov,"Homebrew, IPA - New England / Hazy"
+b7-beer-house,Yuval Lutski,"Thu, 28 May 2026 21:08:34 +0000",draft,4.0,Pilsner Pank,Radionov,"Homebrew, Pilsner - Czech / Bohemian"
+b7-beer-house,Yuval Lutski,"Thu, 28 May 2026 21:07:48 +0000",bottle,3.75,Tirameadsu,Schmulz,Mead - Bochet
+b7-beer-house,Yuval Lutski,"Thu, 28 May 2026 21:07:30 +0000",draft,4.25,2018 תפוח בדבש (Tapoah Bidvash),Radionov,"Homebrew, Mead - Cyser"
+b7-beer-house,Yuval Lutski,"Thu, 28 May 2026 21:07:08 +0000",draft,4.0,Fresh 2026,I.N. Beer,"Homebrew, IPA - New England / Hazy"
+ursa,Andrey Granovsky,"Thu, 28 May 2026 19:46:08 +0000",draft,4.75,Guinness Draught,Guinness,Stout - Irish Dry
+schnitt-brewing-company,David Siegel,"Thu, 28 May 2026 17:37:12 +0000",draft,4.25,Gordi,Schnitt Brewing Company﻿,Historical Beer - Grodziskie / Grätzer
+lauter,Vladimir Kanevsky,"Thu, 28 May 2026 17:24:20 +0000",draft,4.0,Sab Kuch Milaga,Schnitt Brewing Company﻿,Lager - IPL (India Pale Lager)
+schnitt-brewing-company,Alma,"Thu, 28 May 2026 16:30:06 +0000",draft,4.0,Gordi,Schnitt Brewing Company﻿,Historical Beer - Grodziskie / Grätzer
+schnitt-brewing-company,Dr Solo,"Thu, 28 May 2026 16:22:42 +0000",draft,4.1,What Was Was Was Was,Schnitt Brewing Company﻿,IPA - Other
+lauter,Dr Solo,"Thu, 28 May 2026 15:37:56 +0000",draft,3.9,Double Intergalactica,Schnitt Brewing Company﻿,IPA - New England / Hazy
+lauter,Dr Solo,"Thu, 28 May 2026 15:35:59 +0000",,3.8,Elderflower,Schnitt Brewing Company﻿,Pale Ale - Other
+schnitt-brewing-company,levlev444,"Thu, 28 May 2026 15:16:24 +0000",,3.25,Guava Island 2026,Schnitt Brewing Company﻿,IPA - New England / Hazy
+schnitt-brewing-company,levlev444,"Thu, 28 May 2026 14:58:24 +0000",,3.0,שאגת העצלן,Schnitt Brewing Company﻿,IPA - American
+schnitt-brewing-company,levlev444,"Thu, 28 May 2026 14:56:58 +0000",,3.0,Cheers Alenbeer,Schnitt Brewing Company﻿,IPA - Session
+schnitt-brewing-company,levlev444,"Thu, 28 May 2026 14:55:04 +0000",,3.25,Gordi,Schnitt Brewing Company﻿,Historical Beer - Grodziskie / Grätzer
+beerline,Mikhail Stolov,"Thu, 28 May 2026 14:36:11 +0000",draft,3.75,La Trappe Quadrupel,Bierbrouwerij De Koningshoeven,Belgian Quadrupel
+lauter,levlev444,"Thu, 28 May 2026 14:34:10 +0000",draft,3.75,Gueuze Tilquin – Draft Version,Gueuzerie Tilquin,Lambic - Gueuze
+schnitt-brewing-company,levlev444,"Thu, 28 May 2026 14:32:56 +0000",draft,3.5,Elderflower,Schnitt Brewing Company﻿,Pale Ale - Other
+schnitt-brewing-company,alexander_rutkovsky_9590,"Thu, 28 May 2026 13:52:17 +0000",draft,3.5,Cactus Sour,Schnitt Brewing Company﻿,Sour - Fruited
+schnitt-brewing-company,alexander_rutkovsky_9590,"Thu, 28 May 2026 13:37:56 +0000",draft,3.5,Porter & Sons Salted Caramel 2024,Schnitt Brewing Company﻿,Porter - Other
+schnitt-brewing-company,alexander_rutkovsky_9590,"Thu, 28 May 2026 13:35:37 +0000",draft,3.25,שאגת העצלן,Schnitt Brewing Company﻿,IPA - American
+porter-and-sons,levlev444,"Thu, 28 May 2026 13:26:15 +0000",draft,3.25,Lederer Pils,Tucher Bräu,Pilsner - German
+schnitt-brewing-company,alexander_rutkovsky_9590,"Thu, 28 May 2026 13:04:24 +0000",draft,2.75,Cheers Alenbeer,Schnitt Brewing Company﻿,IPA - Session
+schnitt-brewing-company,alexander_rutkovsky_9590,"Thu, 28 May 2026 12:40:39 +0000",can,3.75,נקטרון האלים,Schnitt Brewing Company﻿,IPA - New England / Hazy
+schnitt-brewing-company,Nadav,"Thu, 28 May 2026 12:08:12 +0000",draft,3.75,שאגת העצלן,Schnitt Brewing Company﻿,IPA - American
 schnitt-brewing-company,alexander_rutkovsky_9590,"Thu, 28 May 2026 09:44:33 +0000",draft,3.25,Guava Island 2026,Schnitt Brewing Company﻿,IPA - New England / Hazy
 lauter,גל סילברמן,"Wed, 27 May 2026 23:47:09 +0000",draft,3.5,Th. König Zwickl,König Brauerei,Kellerbier / Zwickelbier - Dunkel
 schnitt-brewing-company,גל סילברמן,"Wed, 27 May 2026 23:44:51 +0000",draft,4.0,Elderflower,Schnitt Brewing Company﻿,Pale Ale - Other
@@ -421,8 +693,8 @@ beerz,Ilya Markovsky,"Thu, 14 May 2026 19:04:39 +0000",can,3.8,Forever Brewing J
 b7-beer-house,Yuval Lutski,"Thu, 14 May 2026 19:03:54 +0000",can,3.5,"Yes We Can - Rice Hazy IPA, Mosaic + El Dorado",Maryensztadt,IPA - New England / Hazy
 b7-beer-house,Yotam Bar-natan,"Thu, 14 May 2026 19:02:57 +0000",can,3.8,"Yes We Can - Hazy IPA: Citra, Zibi",Maryensztadt,IPA - New England / Hazy
 beerz,Alexander the Great ™️,"Thu, 14 May 2026 19:02:50 +0000",bottle,3.5,Forever Brewing Macho,Волинський бровар,Wheat Beer - Fruited
-b7-beer-house,Yotam Bar-natan,"Thu, 14 May 2026 18:58:35 +0000",can,3.9,"Yes We Can - Hazy IPA: Citra, Nelson Sauvin",Maryensztadt,IPA - New England / Hazy
 beerz,Ilya Markovsky,"Thu, 14 May 2026 18:58:35 +0000",bottle,3.3,Forever Brewing Macho,Волинський бровар,Wheat Beer - Fruited
+b7-beer-house,Yotam Bar-natan,"Thu, 14 May 2026 18:58:35 +0000",can,3.9,"Yes We Can - Hazy IPA: Citra, Nelson Sauvin",Maryensztadt,IPA - New England / Hazy
 beerz,Alexander the Great ™️,"Thu, 14 May 2026 18:55:32 +0000",bottle,3.75,Forever Brewing Space Travel,Волинський бровар,IPA - New England / Hazy
 b7-beer-house,Yotam Bar-natan,"Thu, 14 May 2026 18:49:14 +0000",can,3.1,APA,Maryensztadt,Pale Ale - American
 beerz,Ilya Markovsky,"Thu, 14 May 2026 18:45:42 +0000",bottle,3.8,Forever Brewing Space Travel,Волинський бровар,IPA - New England / Hazy

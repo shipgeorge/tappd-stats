@@ -1,8 +1,2456 @@
 // 🍺 BEER STATS DATA - Generated automatically
-// Last updated: 2026-05-28 10:18:53
-// Total records: 16529
+// Last updated: 2026-05-29 10:09:08
+// Total records: 16801
 
 const BEER_DATA = [
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T10:07:14+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Braggot On Steroids",
+    "brewery": "Docker Brewery",
+    "beer_type": "Mead - Braggot"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T10:06:39+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Blåbärsoppa",
+    "brewery": "Sudden Death Brewing Co.",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T10:06:26+00:00",
+    "serving": "can",
+    "rating": 5.0,
+    "beer_name": "Royal Cookie: Neapolitan Ice Cream",
+    "brewery": "Funky Fluid",
+    "beer_type": "Stout - Imperial / Double Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T10:06:16+00:00",
+    "serving": "can",
+    "rating": 4.2,
+    "beer_name": "Blåbärsoppa",
+    "brewery": "Sudden Death Brewing Co.",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T10:06:04+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Royal Cookie: Neapolitan Ice Cream",
+    "brewery": "Funky Fluid",
+    "beer_type": "Stout - Imperial / Double Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T10:05:40+00:00",
+    "serving": "can",
+    "rating": 4.2,
+    "beer_name": "Blåbärsoppa",
+    "brewery": "Sudden Death Brewing Co.",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T10:05:34+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "MAKE IT FRUITY PEACH APRICOT",
+    "brewery": "Evil Twin Brewing NYC",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T10:05:24+00:00",
+    "serving": "can",
+    "rating": 4.5,
+    "beer_name": "Royal Cookie: Neapolitan Ice Cream",
+    "brewery": "Funky Fluid",
+    "beer_type": "Stout - Imperial / Double Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T10:04:38+00:00",
+    "serving": "bottle",
+    "rating": 3.75,
+    "beer_name": "Astrophysics",
+    "brewery": "Equilibrium Brewery",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T10:04:12+00:00",
+    "serving": "Unknown",
+    "rating": 4.25,
+    "beer_name": "Royal Cookie: Neapolitan Ice Cream",
+    "brewery": "Funky Fluid",
+    "beer_type": "Stout - Imperial / Double Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T10:03:34+00:00",
+    "serving": "can",
+    "rating": 5.0,
+    "beer_name": "Hydra | Peach + Blueberry + Strawberry",
+    "brewery": "Mortalis Brewing Company",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T10:03:26+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Royal Cookie: Neapolitan Ice Cream",
+    "brewery": "Funky Fluid",
+    "beer_type": "Stout - Imperial / Double Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T10:02:27+00:00",
+    "serving": "can",
+    "rating": 4.2,
+    "beer_name": "Plima - Double IPA",
+    "brewery": "The Garden Brewery",
+    "beer_type": "IPA - Imperial / Double New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T10:02:19+00:00",
+    "serving": "can",
+    "rating": 4.5,
+    "beer_name": "Hydra | Passion Fruit + Tangerine + Pink Guava",
+    "brewery": "Mortalis Brewing Company",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T10:01:12+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "Blåbärsoppa",
+    "brewery": "Sudden Death Brewing Co.",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T10:00:59+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Blåbärsoppa",
+    "brewery": "Sudden Death Brewing Co.",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T10:00:01+00:00",
+    "serving": "can",
+    "rating": 3.6,
+    "beer_name": "Plima - Double IPA",
+    "brewery": "The Garden Brewery",
+    "beer_type": "IPA - Imperial / Double New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T09:59:53+00:00",
+    "serving": "can",
+    "rating": 4.5,
+    "beer_name": "Prague Tap Room 2nd Anniversary",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": "IPA - Triple New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T09:59:40+00:00",
+    "serving": "Unknown",
+    "rating": 3.25,
+    "beer_name": "Plima - Double IPA",
+    "brewery": "The Garden Brewery",
+    "beer_type": "IPA - Imperial / Double New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T09:58:39+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Plima - Double IPA",
+    "brewery": "The Garden Brewery",
+    "beer_type": "IPA - Imperial / Double New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T09:54:56+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Voracious Viper",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T09:52:39+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "תותים, בייבי תותים!!",
+    "brewery": "New Pioneer Brewing Co - חלוץ חדש",
+    "beer_type": "Cider - Other"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T09:51:26+00:00",
+    "serving": "bottle",
+    "rating": 4.5,
+    "beer_name": "THE GREAT NORTHERN BARREL-AGED SERIES 53 - RELEASED 10/24/25",
+    "brewery": "Evil Twin Brewing NYC",
+    "beer_type": "Stout - Imperial / Double"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T09:50:57+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Astrophysics",
+    "brewery": "Equilibrium Brewery",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T09:50:23+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Voracious Viper",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T09:49:28+00:00",
+    "serving": "can",
+    "rating": null,
+    "beer_name": "Cubic Prism",
+    "brewery": "Equilibrium Brewery",
+    "beer_type": "IPA - Imperial / Double New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T09:48:41+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "Voracious Viper",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T09:46:36+00:00",
+    "serving": "can",
+    "rating": 3.6,
+    "beer_name": "Astrophysics",
+    "brewery": "Equilibrium Brewery",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T09:46:13+00:00",
+    "serving": "can",
+    "rating": 3.25,
+    "beer_name": "THE QUADFATHER",
+    "brewery": "Evil Twin Brewing NYC",
+    "beer_type": "Belgian Quadrupel"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T09:43:45+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "Astrophysics",
+    "brewery": "Equilibrium Brewery",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T09:41:19+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "Siren | Blackberry + Raspberry",
+    "brewery": "Mortalis Brewing Company",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T09:39:42+00:00",
+    "serving": "bottle",
+    "rating": 4.25,
+    "beer_name": "Cocoa Vanilla Cardamom Sea Salt Stout 2025",
+    "brewery": "Rodinný pivovar Zichovec",
+    "beer_type": "Stout - Imperial / Double Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T09:39:18+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Voracious Viper",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T09:38:32+00:00",
+    "serving": "draft",
+    "rating": 3.0,
+    "beer_name": "Velvet Panda",
+    "brewery": "New Pioneer Brewing Co - חלוץ חדש",
+    "beer_type": "Stout - Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T09:38:24+00:00",
+    "serving": "can",
+    "rating": 3.6,
+    "beer_name": "Loomis",
+    "brewery": "Equilibrium Brewery",
+    "beer_type": "Lager - Světlé (Czech Pale)"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T09:38:19+00:00",
+    "serving": "bottle",
+    "rating": 4.0,
+    "beer_name": "Dubai Style Chocolate Stout 2025",
+    "brewery": "Rodinný pivovar Zichovec",
+    "beer_type": "Stout - Imperial / Double Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T09:37:37+00:00",
+    "serving": "bottle",
+    "rating": 4.8,
+    "beer_name": "THE GREAT NORTHERN BARREL-AGED SERIES 53 - RELEASED 10/24/25",
+    "brewery": "Evil Twin Brewing NYC",
+    "beer_type": "Stout - Imperial / Double"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T09:37:29+00:00",
+    "serving": "can",
+    "rating": 3.8,
+    "beer_name": "GREENHOUSE CZECH PALE LAGER CONDITIONED ON AMERICAN OAK FOUDRE",
+    "brewery": "Evil Twin Brewing NYC",
+    "beer_type": "Lager - Světlé (Czech Pale)"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T09:36:22+00:00",
+    "serving": "Unknown",
+    "rating": 4.75,
+    "beer_name": "Experiments In the Kitchen",
+    "brewery": "Mortalis Brewing Company",
+    "beer_type": "Stout - Imperial / Double Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T09:36:04+00:00",
+    "serving": "Unknown",
+    "rating": 3.8,
+    "beer_name": "THE QUADFATHER",
+    "brewery": "Evil Twin Brewing NYC",
+    "beer_type": "Belgian Quadrupel"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T09:35:50+00:00",
+    "serving": "bottle",
+    "rating": 4.0,
+    "beer_name": "Dubai Style Chocolate Stout 2025",
+    "brewery": "Rodinný pivovar Zichovec",
+    "beer_type": "Stout - Imperial / Double Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T09:35:21+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Cubic Prism",
+    "brewery": "Equilibrium Brewery",
+    "beer_type": "IPA - Imperial / Double New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T09:35:02+00:00",
+    "serving": "can",
+    "rating": null,
+    "beer_name": "Hydra | Peach + Blueberry + Strawberry",
+    "brewery": "Mortalis Brewing Company",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T09:34:50+00:00",
+    "serving": "can",
+    "rating": 5.0,
+    "beer_name": "Hydra | Peach + Blueberry + Strawberry",
+    "brewery": "Mortalis Brewing Company",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T09:34:22+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Night Shift Vintage 2025 / Double Chocolate Imperial Milk Porter  Aged In Bourbon Barrels",
+    "brewery": "HORIZONT Brewing",
+    "beer_type": "Porter - Imperial / Double"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T09:34:04+00:00",
+    "serving": "can",
+    "rating": 3.7,
+    "beer_name": "GREENHOUSE CZECH PALE LAGER CONDITIONED ON AMERICAN OAK FOUDRE",
+    "brewery": "Evil Twin Brewing NYC",
+    "beer_type": "Lager - Světlé (Czech Pale)"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T09:33:32+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "They Have No Televisions But They Do Have This Dark & Toasty",
+    "brewery": "Evil Twin Brewing",
+    "beer_type": "Stout - Oatmeal"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T09:33:13+00:00",
+    "serving": "can",
+    "rating": 5.0,
+    "beer_name": "Hydra | Passion Fruit + Tangerine + Pink Guava",
+    "brewery": "Mortalis Brewing Company",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T09:33:07+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Hydra | Passion Fruit + Tangerine + Pink Guava",
+    "brewery": "Mortalis Brewing Company",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T09:32:55+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "זה לא בירה 2",
+    "brewery": "New Pioneer Brewing Co - חלוץ חדש",
+    "beer_type": "Mead - Other"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T09:32:50+00:00",
+    "serving": "can",
+    "rating": 3.6,
+    "beer_name": "Loomis",
+    "brewery": "Equilibrium Brewery",
+    "beer_type": "Lager - Světlé (Czech Pale)"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T09:32:22+00:00",
+    "serving": "can",
+    "rating": 3.8,
+    "beer_name": "Field Theory",
+    "brewery": "Equilibrium Brewery",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T09:32:15+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "GREENHOUSE CZECH PALE LAGER CONDITIONED ON AMERICAN OAK FOUDRE",
+    "brewery": "Evil Twin Brewing NYC",
+    "beer_type": "Lager - Světlé (Czech Pale)"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T09:32:00+00:00",
+    "serving": "can",
+    "rating": 4.5,
+    "beer_name": "Astrophysics",
+    "brewery": "Equilibrium Brewery",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T09:31:57+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "Voracious Viper",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T09:31:09+00:00",
+    "serving": "bottle",
+    "rating": 4.0,
+    "beer_name": "Night Shift Vintage 2025 / Double Chocolate Imperial Milk Porter  Aged In Bourbon Barrels",
+    "brewery": "HORIZONT Brewing",
+    "beer_type": "Porter - Imperial / Double"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T09:30:56+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Prague Tap Room 2nd Anniversary",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": "IPA - Triple New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T09:30:33+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "THE GREAT NORTHERN BARREL-AGED SERIES 53 - RELEASED 10/24/25",
+    "brewery": "Evil Twin Brewing NYC",
+    "beer_type": "Stout - Imperial / Double"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T09:29:49+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Hop Elixir: Citra, Citra Hyperboost, Citra Cryo, Citra Dynaboost",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": "IPA - Session New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T09:29:14+00:00",
+    "serving": "can",
+    "rating": null,
+    "beer_name": "Prague Tap Room 2nd Anniversary",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": "IPA - Triple New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T09:28:54+00:00",
+    "serving": "Unknown",
+    "rating": 4.25,
+    "beer_name": "Zima 2025",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": "Barleywine - English"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T09:28:26+00:00",
+    "serving": "can",
+    "rating": 3.8,
+    "beer_name": "Cubic Prism",
+    "brewery": "Equilibrium Brewery",
+    "beer_type": "IPA - Imperial / Double New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T09:27:51+00:00",
+    "serving": "can",
+    "rating": 3.8,
+    "beer_name": "Hop Elixir: Citra, Citra Hyperboost, Citra Cryo, Citra Dynaboost",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": "IPA - Session New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T09:27:42+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "THE QUADFATHER",
+    "brewery": "Evil Twin Brewing NYC",
+    "beer_type": "Belgian Quadrupel"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T09:26:59+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "תותים, בייבי תותים!!",
+    "brewery": "New Pioneer Brewing Co - חלוץ חדש",
+    "beer_type": "Cider - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-29T09:26:28+00:00",
+    "serving": "bottle",
+    "rating": 3.5,
+    "beer_name": "פטריוט Ipa",
+    "brewery": "קישקשתא (Kishkashta)",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T09:26:14+00:00",
+    "serving": "can",
+    "rating": 4.5,
+    "beer_name": "Hydra | Peach + Blueberry + Strawberry",
+    "brewery": "Mortalis Brewing Company",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T09:25:53+00:00",
+    "serving": "bottle",
+    "rating": 4.5,
+    "beer_name": "Cocoa Vanilla Cardamom Sea Salt Stout 2025",
+    "brewery": "Rodinný pivovar Zichovec",
+    "beer_type": "Stout - Imperial / Double Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T09:24:31+00:00",
+    "serving": "Unknown",
+    "rating": 3.9,
+    "beer_name": "Cubic Prism",
+    "brewery": "Equilibrium Brewery",
+    "beer_type": "IPA - Imperial / Double New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T09:24:03+00:00",
+    "serving": "draft",
+    "rating": 3.8,
+    "beer_name": "Hop Elixir: Citra, Citra Hyperboost, Citra Cryo, Citra Dynaboost",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": "IPA - Session New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T09:23:16+00:00",
+    "serving": "can",
+    "rating": 3.7,
+    "beer_name": "They Have No Televisions But They Do Have This Dark & Toasty",
+    "brewery": "Evil Twin Brewing",
+    "beer_type": "Stout - Oatmeal"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T09:22:29+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "They Have No Televisions But They Do Have This Dark & Toasty",
+    "brewery": "Evil Twin Brewing",
+    "beer_type": "Stout - Oatmeal"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T09:20:19+00:00",
+    "serving": "bottle",
+    "rating": 4.5,
+    "beer_name": "THE GREAT NORTHERN BARREL-AGED SERIES 53 - RELEASED 10/24/25",
+    "brewery": "Evil Twin Brewing NYC",
+    "beer_type": "Stout - Imperial / Double"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T09:19:32+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "GREENHOUSE CZECH PALE LAGER CONDITIONED ON AMERICAN OAK FOUDRE",
+    "brewery": "Evil Twin Brewing NYC",
+    "beer_type": "Lager - Světlé (Czech Pale)"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T09:19:27+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "GREENHOUSE CZECH PALE LAGER CONDITIONED ON AMERICAN OAK FOUDRE",
+    "brewery": "Evil Twin Brewing NYC",
+    "beer_type": "Lager - Světlé (Czech Pale)"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T09:19:09+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Siren | Blackberry + Raspberry",
+    "brewery": "Mortalis Brewing Company",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T09:17:28+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "תותים, בייבי תותים!!",
+    "brewery": "New Pioneer Brewing Co - חלוץ חדש",
+    "beer_type": "Cider - Other"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T09:16:57+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "Loomis",
+    "brewery": "Equilibrium Brewery",
+    "beer_type": "Lager - Světlé (Czech Pale)"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T09:16:51+00:00",
+    "serving": "can",
+    "rating": 3.8,
+    "beer_name": "Astrophysics",
+    "brewery": "Equilibrium Brewery",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T09:16:33+00:00",
+    "serving": "can",
+    "rating": 3.8,
+    "beer_name": "THE QUADFATHER",
+    "brewery": "Evil Twin Brewing NYC",
+    "beer_type": "Belgian Quadrupel"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T09:16:07+00:00",
+    "serving": "bottle",
+    "rating": 4.5,
+    "beer_name": "Night Shift Vintage 2025 / Double Chocolate Imperial Milk Porter  Aged In Bourbon Barrels",
+    "brewery": "HORIZONT Brewing",
+    "beer_type": "Porter - Imperial / Double"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T09:16:03+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "תותים, בייבי תותים!!",
+    "brewery": "New Pioneer Brewing Co - חלוץ חדש",
+    "beer_type": "Cider - Other"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T09:15:53+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "Field Theory",
+    "brewery": "Equilibrium Brewery",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T09:15:47+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Loomis",
+    "brewery": "Equilibrium Brewery",
+    "beer_type": "Lager - Světlé (Czech Pale)"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T09:15:14+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Zima 2025",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": "Barleywine - English"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T09:15:04+00:00",
+    "serving": "bottle",
+    "rating": 4.5,
+    "beer_name": "Experiments In the Kitchen",
+    "brewery": "Mortalis Brewing Company",
+    "beer_type": "Stout - Imperial / Double Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T09:14:51+00:00",
+    "serving": "bottle",
+    "rating": 4.75,
+    "beer_name": "Experiments In the Kitchen",
+    "brewery": "Mortalis Brewing Company",
+    "beer_type": "Stout - Imperial / Double Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T09:14:38+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "תותים, בייבי תותים!!",
+    "brewery": "New Pioneer Brewing Co - חלוץ חדש",
+    "beer_type": "Cider - Other"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T09:14:13+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "Night Shift Vintage 2025 / Double Chocolate Imperial Milk Porter  Aged In Bourbon Barrels",
+    "brewery": "HORIZONT Brewing",
+    "beer_type": "Porter - Imperial / Double"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T09:14:08+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "תותים, בייבי תותים!!",
+    "brewery": "New Pioneer Brewing Co - חלוץ חדש",
+    "beer_type": "Cider - Other"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T09:13:29+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Field Theory",
+    "brewery": "Equilibrium Brewery",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T09:12:51+00:00",
+    "serving": "bottle",
+    "rating": 3.5,
+    "beer_name": "THE GREAT NORTHERN BARREL-AGED SERIES 53 - RELEASED 10/24/25",
+    "brewery": "Evil Twin Brewing NYC",
+    "beer_type": "Stout - Imperial / Double"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T09:12:31+00:00",
+    "serving": "bottle",
+    "rating": 4.5,
+    "beer_name": "Night Shift Vintage 2025 / Peanut Butter Jelly Imperial Pastry Stout Aged In Pedro Ximénez Sherry Barrels",
+    "brewery": "HORIZONT Brewing",
+    "beer_type": "Stout - Imperial / Double Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T09:12:21+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "Velvet Panda",
+    "brewery": "New Pioneer Brewing Co - חלוץ חדש",
+    "beer_type": "Stout - Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T09:12:14+00:00",
+    "serving": "bottle",
+    "rating": 4.5,
+    "beer_name": "Experiments In the Kitchen",
+    "brewery": "Mortalis Brewing Company",
+    "beer_type": "Stout - Imperial / Double Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T09:12:10+00:00",
+    "serving": "can",
+    "rating": 4.5,
+    "beer_name": "Siren | Blackberry + Raspberry",
+    "brewery": "Mortalis Brewing Company",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T09:11:14+00:00",
+    "serving": "can",
+    "rating": 5.0,
+    "beer_name": "Hydra | Passion Fruit + Tangerine + Pink Guava",
+    "brewery": "Mortalis Brewing Company",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T09:10:58+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "THE QUADFATHER",
+    "brewery": "Evil Twin Brewing NYC",
+    "beer_type": "Belgian Quadrupel"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T09:10:38+00:00",
+    "serving": "can",
+    "rating": 4.5,
+    "beer_name": "Astrophysics",
+    "brewery": "Equilibrium Brewery",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T09:10:12+00:00",
+    "serving": "can",
+    "rating": 4.5,
+    "beer_name": "Hydra | Passion Fruit + Tangerine + Pink Guava",
+    "brewery": "Mortalis Brewing Company",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T09:09:52+00:00",
+    "serving": "can",
+    "rating": 3.4,
+    "beer_name": "Astrophysics",
+    "brewery": "Equilibrium Brewery",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T09:09:39+00:00",
+    "serving": "bottle",
+    "rating": 3.8,
+    "beer_name": "Night Shift Vintage 2025 / Peanut Butter Jelly Imperial Pastry Stout Aged In Pedro Ximénez Sherry Barrels",
+    "brewery": "HORIZONT Brewing",
+    "beer_type": "Stout - Imperial / Double Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T09:08:59+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "זה לא בירה 2",
+    "brewery": "New Pioneer Brewing Co - חלוץ חדש",
+    "beer_type": "Mead - Other"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T09:08:38+00:00",
+    "serving": "can",
+    "rating": 3.8,
+    "beer_name": "THE QUADFATHER",
+    "brewery": "Evil Twin Brewing NYC",
+    "beer_type": "Belgian Quadrupel"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T09:08:15+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Field Theory",
+    "brewery": "Equilibrium Brewery",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T09:07:53+00:00",
+    "serving": "bottle",
+    "rating": 4.3,
+    "beer_name": "Night Shift Vintage 2025 / Double Chocolate Imperial Milk Porter  Aged In Bourbon Barrels",
+    "brewery": "HORIZONT Brewing",
+    "beer_type": "Porter - Imperial / Double"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T09:07:42+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "תותים, בייבי תותים!!",
+    "brewery": "New Pioneer Brewing Co - חלוץ חדש",
+    "beer_type": "Cider - Other"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T09:06:46+00:00",
+    "serving": "Unknown",
+    "rating": 4.25,
+    "beer_name": "Experiments In the Kitchen",
+    "brewery": "Mortalis Brewing Company",
+    "beer_type": "Stout - Imperial / Double Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T09:06:41+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Astrophysics",
+    "brewery": "Equilibrium Brewery",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T09:05:35+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "THE QUADFATHER",
+    "brewery": "Evil Twin Brewing NYC",
+    "beer_type": "Belgian Quadrupel"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T09:05:16+00:00",
+    "serving": "can",
+    "rating": 3.6,
+    "beer_name": "THE QUADFATHER",
+    "brewery": "Evil Twin Brewing NYC",
+    "beer_type": "Belgian Quadrupel"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T09:04:46+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Voracious Viper",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T09:03:03+00:00",
+    "serving": "bottle",
+    "rating": 4.4,
+    "beer_name": "Zima 2025",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": "Barleywine - English"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T09:02:59+00:00",
+    "serving": "can",
+    "rating": 5.0,
+    "beer_name": "Hydra | Peach + Blueberry + Strawberry",
+    "brewery": "Mortalis Brewing Company",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T09:02:59+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Cubic Prism",
+    "brewery": "Equilibrium Brewery",
+    "beer_type": "IPA - Imperial / Double New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T09:02:51+00:00",
+    "serving": "bottle",
+    "rating": 4.0,
+    "beer_name": "Night Shift Vintage 2025 / Double Chocolate Imperial Milk Porter  Aged In Bourbon Barrels",
+    "brewery": "HORIZONT Brewing",
+    "beer_type": "Porter - Imperial / Double"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T09:02:24+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Astrophysics",
+    "brewery": "Equilibrium Brewery",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T09:01:16+00:00",
+    "serving": "bottle",
+    "rating": 4.0,
+    "beer_name": "Stout Woodford 2025",
+    "brewery": "Rodinný pivovar Zichovec",
+    "beer_type": "Stout - Imperial / Double"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T09:00:53+00:00",
+    "serving": "can",
+    "rating": 4.2,
+    "beer_name": "Cubic Prism",
+    "brewery": "Equilibrium Brewery",
+    "beer_type": "IPA - Imperial / Double New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T09:00:33+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "They Have No Televisions But They Do Have This Dark & Toasty",
+    "brewery": "Evil Twin Brewing",
+    "beer_type": "Stout - Oatmeal"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T08:59:42+00:00",
+    "serving": "bottle",
+    "rating": 5.0,
+    "beer_name": "Experiments In the Kitchen",
+    "brewery": "Mortalis Brewing Company",
+    "beer_type": "Stout - Imperial / Double Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T08:59:36+00:00",
+    "serving": "bottle",
+    "rating": 4.5,
+    "beer_name": "Night Shift Vintage 2025 / Double Chocolate Imperial Milk Porter  Aged In Bourbon Barrels",
+    "brewery": "HORIZONT Brewing",
+    "beer_type": "Porter - Imperial / Double"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T08:59:34+00:00",
+    "serving": "bottle",
+    "rating": 4.0,
+    "beer_name": "Night Shift Vintage 2025 / Peanut Butter Jelly Imperial Pastry Stout Aged In Pedro Ximénez Sherry Barrels",
+    "brewery": "HORIZONT Brewing",
+    "beer_type": "Stout - Imperial / Double Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T08:58:52+00:00",
+    "serving": "bottle",
+    "rating": 4.25,
+    "beer_name": "Night Shift Vintage 2025 / Peanut Butter Jelly Imperial Pastry Stout Aged In Pedro Ximénez Sherry Barrels",
+    "brewery": "HORIZONT Brewing",
+    "beer_type": "Stout - Imperial / Double Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T08:58:14+00:00",
+    "serving": "can",
+    "rating": 4.2,
+    "beer_name": "Field Theory",
+    "brewery": "Equilibrium Brewery",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T08:57:46+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Hop Elixir: Citra, Citra Hyperboost, Citra Cryo, Citra Dynaboost",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": "IPA - Session New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T08:57:32+00:00",
+    "serving": "can",
+    "rating": 4.1,
+    "beer_name": "Siren | Blackberry + Raspberry",
+    "brewery": "Mortalis Brewing Company",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T08:56:42+00:00",
+    "serving": "bottle",
+    "rating": 4.5,
+    "beer_name": "Zima 2025",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": "Barleywine - English"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T08:56:31+00:00",
+    "serving": "Unknown",
+    "rating": 4.25,
+    "beer_name": "Night Shift Vintage 2025 / Peanut Butter Jelly Imperial Pastry Stout Aged In Pedro Ximénez Sherry Barrels",
+    "brewery": "HORIZONT Brewing",
+    "beer_type": "Stout - Imperial / Double Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T08:56:04+00:00",
+    "serving": "can",
+    "rating": 3.7,
+    "beer_name": "Astrophysics",
+    "brewery": "Equilibrium Brewery",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T08:55:21+00:00",
+    "serving": "Unknown",
+    "rating": 4.25,
+    "beer_name": "Siren | Blackberry + Raspberry",
+    "brewery": "Mortalis Brewing Company",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T08:54:51+00:00",
+    "serving": "bottle",
+    "rating": 4.5,
+    "beer_name": "Zima 2025",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": "Barleywine - English"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T08:54:45+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "Siren | Blackberry + Raspberry",
+    "brewery": "Mortalis Brewing Company",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T08:53:41+00:00",
+    "serving": "can",
+    "rating": 4.5,
+    "beer_name": "Cubic Prism",
+    "brewery": "Equilibrium Brewery",
+    "beer_type": "IPA - Imperial / Double New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T08:53:38+00:00",
+    "serving": "Unknown",
+    "rating": 3.25,
+    "beer_name": "Loomis",
+    "brewery": "Equilibrium Brewery",
+    "beer_type": "Lager - Světlé (Czech Pale)"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T08:52:44+00:00",
+    "serving": "bottle",
+    "rating": 3.75,
+    "beer_name": "Night Shift Vintage 2025 / Double Chocolate Imperial Milk Porter  Aged In Bourbon Barrels",
+    "brewery": "HORIZONT Brewing",
+    "beer_type": "Porter - Imperial / Double"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T08:52:41+00:00",
+    "serving": "bottle",
+    "rating": 4.0,
+    "beer_name": "Night Shift Vintage 2025 / Peanut Butter Jelly Imperial Pastry Stout Aged In Pedro Ximénez Sherry Barrels",
+    "brewery": "HORIZONT Brewing",
+    "beer_type": "Stout - Imperial / Double Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T08:52:27+00:00",
+    "serving": "Unknown",
+    "rating": 4.5,
+    "beer_name": "Night Shift Vintage 2025 / Russian Imperial Stout Aged In Rhum And Vanilla Macadamia Rum Barrels",
+    "brewery": "HORIZONT Brewing",
+    "beer_type": "Stout - Russian Imperial"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T08:52:21+00:00",
+    "serving": "bottle",
+    "rating": 3.25,
+    "beer_name": "Night Shift Vintage 2025 / Peanut Butter Jelly Imperial Pastry Stout Aged In Pedro Ximénez Sherry Barrels",
+    "brewery": "HORIZONT Brewing",
+    "beer_type": "Stout - Imperial / Double Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T08:51:36+00:00",
+    "serving": "bottle",
+    "rating": 4.25,
+    "beer_name": "Night Shift Vintage 2025 / Peanut Butter Jelly Imperial Pastry Stout Aged In Pedro Ximénez Sherry Barrels",
+    "brewery": "HORIZONT Brewing",
+    "beer_type": "Stout - Imperial / Double Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T08:50:08+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "Field Theory",
+    "brewery": "Equilibrium Brewery",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T08:49:35+00:00",
+    "serving": "draft",
+    "rating": 4.2,
+    "beer_name": "זה לא בירה 2",
+    "brewery": "New Pioneer Brewing Co - חלוץ חדש",
+    "beer_type": "Mead - Other"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T08:48:42+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Loomis",
+    "brewery": "Equilibrium Brewery",
+    "beer_type": "Lager - Světlé (Czech Pale)"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T08:48:37+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "Loomis",
+    "brewery": "Equilibrium Brewery",
+    "beer_type": "Lager - Světlé (Czech Pale)"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T08:48:17+00:00",
+    "serving": "bottle",
+    "rating": 4.25,
+    "beer_name": "Night Shift Vintage 2025 / Russian Imperial Stout Aged In Rhum And Vanilla Macadamia Rum Barrels",
+    "brewery": "HORIZONT Brewing",
+    "beer_type": "Stout - Russian Imperial"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T08:47:54+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Loomis",
+    "brewery": "Equilibrium Brewery",
+    "beer_type": "Lager - Světlé (Czech Pale)"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T08:47:20+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "Love of Grapefruit And Tangerine In the Fog",
+    "brewery": "Radionov",
+    "beer_type": "Homebrew, IPA - New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T08:45:22+00:00",
+    "serving": "bottle",
+    "rating": 4.2,
+    "beer_name": "Night Shift Vintage 2025 / Peanut Butter Jelly Imperial Pastry Stout Aged In Pedro Ximénez Sherry Barrels",
+    "brewery": "HORIZONT Brewing",
+    "beer_type": "Stout - Imperial / Double Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T08:45:20+00:00",
+    "serving": "bottle",
+    "rating": 4.25,
+    "beer_name": "Zima 2025",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": "Barleywine - English"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T08:45:10+00:00",
+    "serving": "can",
+    "rating": 3.6,
+    "beer_name": "Field Theory",
+    "brewery": "Equilibrium Brewery",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T08:45:08+00:00",
+    "serving": "bottle",
+    "rating": 4.2,
+    "beer_name": "Night Shift Vintage 2025 / Russian Imperial Stout Aged In Rhum And Vanilla Macadamia Rum Barrels",
+    "brewery": "HORIZONT Brewing",
+    "beer_type": "Stout - Russian Imperial"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T08:44:41+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Pilsner Pank",
+    "brewery": "Radionov",
+    "beer_type": "Homebrew, Pilsner - Czech / Bohemian"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T08:43:54+00:00",
+    "serving": "bottle",
+    "rating": 4.0,
+    "beer_name": "Night Shift Vintage 2025 / Russian Imperial Stout Aged In Rhum And Vanilla Macadamia Rum Barrels",
+    "brewery": "HORIZONT Brewing",
+    "beer_type": "Stout - Russian Imperial"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T08:43:40+00:00",
+    "serving": "bottle",
+    "rating": 4.7,
+    "beer_name": "Experiments In the Kitchen",
+    "brewery": "Mortalis Brewing Company",
+    "beer_type": "Stout - Imperial / Double Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T08:43:38+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Prague Tap Room 2nd Anniversary",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": "IPA - Triple New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T08:42:24+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Hop Elixir: Citra, Citra Hyperboost, Citra Cryo, Citra Dynaboost",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": "IPA - Session New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T08:42:24+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Prunes In Chocolate",
+    "brewery": "Radionov",
+    "beer_type": "Homebrew, Porter - Other"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T08:42:17+00:00",
+    "serving": "bottle",
+    "rating": 4.0,
+    "beer_name": "Night Shift Vintage 2025 / Double Chocolate Imperial Milk Porter  Aged In Bourbon Barrels",
+    "brewery": "HORIZONT Brewing",
+    "beer_type": "Porter - Imperial / Double"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T08:41:47+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Hop Elixir: Citra, Citra Hyperboost, Citra Cryo, Citra Dynaboost",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": "IPA - Session New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T08:41:42+00:00",
+    "serving": "bottle",
+    "rating": 3.9,
+    "beer_name": "Night Shift Vintage 2025 / Peanut Butter Jelly Imperial Pastry Stout Aged In Pedro Ximénez Sherry Barrels",
+    "brewery": "HORIZONT Brewing",
+    "beer_type": "Stout - Imperial / Double Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T08:40:46+00:00",
+    "serving": "Unknown",
+    "rating": 3.8,
+    "beer_name": "Voracious Viper",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T08:39:52+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Voracious Viper",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T08:39:13+00:00",
+    "serving": "can",
+    "rating": 3.8,
+    "beer_name": "Voracious Viper",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T08:38:47+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Night Shift Vintage 2025 / Double Chocolate Imperial Milk Porter  Aged In Bourbon Barrels",
+    "brewery": "HORIZONT Brewing",
+    "beer_type": "Porter - Imperial / Double"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T08:38:35+00:00",
+    "serving": "bottle",
+    "rating": 4.75,
+    "beer_name": "THE GREAT NORTHERN BARREL-AGED SERIES 53 - RELEASED 10/24/25",
+    "brewery": "Evil Twin Brewing NYC",
+    "beer_type": "Stout - Imperial / Double"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T08:37:18+00:00",
+    "serving": "can",
+    "rating": 3.7,
+    "beer_name": "They Have No Televisions But They Do Have This Dark & Toasty",
+    "brewery": "Evil Twin Brewing",
+    "beer_type": "Stout - Oatmeal"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T08:36:52+00:00",
+    "serving": "bottle",
+    "rating": 4.0,
+    "beer_name": "Night Shift Vintage 2025 / Peanut Butter Jelly Imperial Pastry Stout Aged In Pedro Ximénez Sherry Barrels",
+    "brewery": "HORIZONT Brewing",
+    "beer_type": "Stout - Imperial / Double Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T08:36:06+00:00",
+    "serving": "bottle",
+    "rating": 4.3,
+    "beer_name": "THE GREAT NORTHERN BARREL-AGED SERIES 53 - RELEASED 10/24/25",
+    "brewery": "Evil Twin Brewing NYC",
+    "beer_type": "Stout - Imperial / Double"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T08:36:04+00:00",
+    "serving": "can",
+    "rating": 4.5,
+    "beer_name": "Prague Tap Room 2nd Anniversary",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": "IPA - Triple New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T08:35:11+00:00",
+    "serving": "bottle",
+    "rating": 4.25,
+    "beer_name": "Night Shift Vintage 2025 / Russian Imperial Stout Aged In Rhum And Vanilla Macadamia Rum Barrels",
+    "brewery": "HORIZONT Brewing",
+    "beer_type": "Stout - Russian Imperial"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T08:35:08+00:00",
+    "serving": "bottle",
+    "rating": 4.5,
+    "beer_name": "Experiments In the Kitchen",
+    "brewery": "Mortalis Brewing Company",
+    "beer_type": "Stout - Imperial / Double Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T08:33:40+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Field Theory",
+    "brewery": "Equilibrium Brewery",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T08:33:34+00:00",
+    "serving": "bottle",
+    "rating": 4.1,
+    "beer_name": "Night Shift Vintage 2025 / Russian Imperial Stout Aged In Rhum And Vanilla Macadamia Rum Barrels",
+    "brewery": "HORIZONT Brewing",
+    "beer_type": "Stout - Russian Imperial"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T08:33:13+00:00",
+    "serving": "bottle",
+    "rating": 4.25,
+    "beer_name": "Night Shift Vintage 2025 / Russian Imperial Stout Aged In Rhum And Vanilla Macadamia Rum Barrels",
+    "brewery": "HORIZONT Brewing",
+    "beer_type": "Stout - Russian Imperial"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T08:33:11+00:00",
+    "serving": "bottle",
+    "rating": 4.7,
+    "beer_name": "Experiments In the Kitchen",
+    "brewery": "Mortalis Brewing Company",
+    "beer_type": "Stout - Imperial / Double Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T08:32:52+00:00",
+    "serving": "bottle",
+    "rating": 3.9,
+    "beer_name": "Night Shift Vintage 2025 / Russian Imperial Stout Aged In Rhum And Vanilla Macadamia Rum Barrels",
+    "brewery": "HORIZONT Brewing",
+    "beer_type": "Stout - Russian Imperial"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T08:32:32+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Astrophysics",
+    "brewery": "Equilibrium Brewery",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T08:32:20+00:00",
+    "serving": "Unknown",
+    "rating": 4.2,
+    "beer_name": "Night Shift Vintage 2025 / Russian Imperial Stout Aged In Rhum And Vanilla Macadamia Rum Barrels",
+    "brewery": "HORIZONT Brewing",
+    "beer_type": "Stout - Russian Imperial"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T08:32:16+00:00",
+    "serving": "bottle",
+    "rating": 5.0,
+    "beer_name": "Experiments In the Kitchen",
+    "brewery": "Mortalis Brewing Company",
+    "beer_type": "Stout - Imperial / Double Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T08:32:13+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "Astrophysics",
+    "brewery": "Equilibrium Brewery",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T08:31:52+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "Prague Tap Room 2nd Anniversary",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": "IPA - Triple New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T08:31:35+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Hydra | Peach + Blueberry + Strawberry",
+    "brewery": "Mortalis Brewing Company",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T08:31:22+00:00",
+    "serving": "bottle",
+    "rating": 4.2,
+    "beer_name": "Experiments In the Kitchen",
+    "brewery": "Mortalis Brewing Company",
+    "beer_type": "Stout - Imperial / Double Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T08:30:51+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "They Have No Televisions But They Do Have This Dark & Toasty",
+    "brewery": "Evil Twin Brewing",
+    "beer_type": "Stout - Oatmeal"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T08:30:38+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "Hydra | Peach + Blueberry + Strawberry",
+    "brewery": "Mortalis Brewing Company",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T08:30:15+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "Hydra | Passion Fruit + Tangerine + Pink Guava",
+    "brewery": "Mortalis Brewing Company",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T08:29:56+00:00",
+    "serving": "Unknown",
+    "rating": 4.25,
+    "beer_name": "Hydra | Passion Fruit + Tangerine + Pink Guava",
+    "brewery": "Mortalis Brewing Company",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T08:29:53+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Prague Tap Room 2nd Anniversary",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": "IPA - Triple New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T08:29:38+00:00",
+    "serving": "bottle",
+    "rating": 4.75,
+    "beer_name": "Experiments In the Kitchen",
+    "brewery": "Mortalis Brewing Company",
+    "beer_type": "Stout - Imperial / Double Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T08:28:59+00:00",
+    "serving": "can",
+    "rating": 3.8,
+    "beer_name": "They Have No Televisions But They Do Have This Dark & Toasty",
+    "brewery": "Evil Twin Brewing",
+    "beer_type": "Stout - Oatmeal"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T08:28:59+00:00",
+    "serving": "can",
+    "rating": 4.1,
+    "beer_name": "Prague Tap Room 2nd Anniversary",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": "IPA - Triple New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T08:27:15+00:00",
+    "serving": "can",
+    "rating": 3.6,
+    "beer_name": "GREENHOUSE CZECH PILS CONDITIONED ON AMERICAN OAK FOUDRE",
+    "brewery": "Evil Twin Brewing NYC",
+    "beer_type": "Pilsner - Czech / Bohemian"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T08:27:08+00:00",
+    "serving": "bottle",
+    "rating": 4.3,
+    "beer_name": "Zima 2025",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": "Barleywine - English"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T08:26:58+00:00",
+    "serving": "can",
+    "rating": 4.1,
+    "beer_name": "Astrophysics",
+    "brewery": "Equilibrium Brewery",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T08:26:54+00:00",
+    "serving": "bottle",
+    "rating": 4.0,
+    "beer_name": "Night Shift Vintage 2025 / Russian Imperial Stout Aged In Rhum And Vanilla Macadamia Rum Barrels",
+    "brewery": "HORIZONT Brewing",
+    "beer_type": "Stout - Russian Imperial"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T08:25:23+00:00",
+    "serving": "bottle",
+    "rating": 4.25,
+    "beer_name": "Night Shift Vintage 2025 / Russian Imperial Stout Aged In Rhum And Vanilla Macadamia Rum Barrels",
+    "brewery": "HORIZONT Brewing",
+    "beer_type": "Stout - Russian Imperial"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T08:25:23+00:00",
+    "serving": "bottle",
+    "rating": 4.25,
+    "beer_name": "Zima 2025",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": "Barleywine - English"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T08:24:41+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "זה לא בירה 2",
+    "brewery": "New Pioneer Brewing Co - חלוץ חדש",
+    "beer_type": "Mead - Other"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T08:24:32+00:00",
+    "serving": "can",
+    "rating": 3.9,
+    "beer_name": "Hydra | Peach + Blueberry + Strawberry",
+    "brewery": "Mortalis Brewing Company",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T08:24:14+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Fresh 2026",
+    "brewery": "I.N. Beer",
+    "beer_type": "Homebrew, IPA - New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T08:23:58+00:00",
+    "serving": "can",
+    "rating": 4.1,
+    "beer_name": "Hydra | Peach + Blueberry + Strawberry",
+    "brewery": "Mortalis Brewing Company",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T08:23:07+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Siren | Blackberry + Raspberry",
+    "brewery": "Mortalis Brewing Company",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T08:22:54+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Coffee Porter",
+    "brewery": "I.N. Beer",
+    "beer_type": "Homebrew, Porter - Coffee"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T08:22:13+00:00",
+    "serving": "can",
+    "rating": 3.8,
+    "beer_name": "Field Theory",
+    "brewery": "Equilibrium Brewery",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T08:21:56+00:00",
+    "serving": "bottle",
+    "rating": 4.0,
+    "beer_name": "Zima 2025",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": "Barleywine - English"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T08:21:54+00:00",
+    "serving": "Unknown",
+    "rating": 3.8,
+    "beer_name": "Hop Elixir: Citra, Citra Hyperboost, Citra Cryo, Citra Dynaboost",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": "IPA - Session New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T08:21:45+00:00",
+    "serving": "can",
+    "rating": 4.3,
+    "beer_name": "Hydra | Peach + Blueberry + Strawberry",
+    "brewery": "Mortalis Brewing Company",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T08:21:36+00:00",
+    "serving": "can",
+    "rating": 4.5,
+    "beer_name": "Siren | Blackberry + Raspberry",
+    "brewery": "Mortalis Brewing Company",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T08:21:34+00:00",
+    "serving": "draft",
+    "rating": 3.0,
+    "beer_name": "Creamy Lime Sour Cheescake",
+    "brewery": "New Pioneer Brewing Co - חלוץ חדש",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T08:20:42+00:00",
+    "serving": "can",
+    "rating": 4.2,
+    "beer_name": "Siren | Blackberry + Raspberry",
+    "brewery": "Mortalis Brewing Company",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T08:20:07+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "Hop Elixir: Citra, Citra Hyperboost, Citra Cryo, Citra Dynaboost",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": "IPA - Session New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T08:19:03+00:00",
+    "serving": "can",
+    "rating": 3.25,
+    "beer_name": "Field Theory",
+    "brewery": "Equilibrium Brewery",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T08:18:27+00:00",
+    "serving": "can",
+    "rating": 4.2,
+    "beer_name": "Hydra | Passion Fruit + Tangerine + Pink Guava",
+    "brewery": "Mortalis Brewing Company",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T08:18:24+00:00",
+    "serving": "bottle",
+    "rating": 4.3,
+    "beer_name": "Zima 2025",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": "Barleywine - English"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T08:18:19+00:00",
+    "serving": "can",
+    "rating": 4.5,
+    "beer_name": "Hydra | Passion Fruit + Tangerine + Pink Guava",
+    "brewery": "Mortalis Brewing Company",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T08:17:03+00:00",
+    "serving": "can",
+    "rating": 4.2,
+    "beer_name": "Cubic Prism",
+    "brewery": "Equilibrium Brewery",
+    "beer_type": "IPA - Imperial / Double New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T08:16:57+00:00",
+    "serving": "can",
+    "rating": 3.6,
+    "beer_name": "Loomis",
+    "brewery": "Equilibrium Brewery",
+    "beer_type": "Lager - Světlé (Czech Pale)"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T08:15:18+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Hydra | Peach + Blueberry + Strawberry",
+    "brewery": "Mortalis Brewing Company",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T08:15:04+00:00",
+    "serving": "can",
+    "rating": 3.8,
+    "beer_name": "Loomis",
+    "brewery": "Equilibrium Brewery",
+    "beer_type": "Lager - Světlé (Czech Pale)"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T08:14:06+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "Hydra | Passion Fruit + Tangerine + Pink Guava",
+    "brewery": "Mortalis Brewing Company",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T08:13:44+00:00",
+    "serving": "can",
+    "rating": 4.5,
+    "beer_name": "Siren | Blackberry + Raspberry",
+    "brewery": "Mortalis Brewing Company",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T08:13:33+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "Cubic Prism",
+    "brewery": "Equilibrium Brewery",
+    "beer_type": "IPA - Imperial / Double New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T08:13:23+00:00",
+    "serving": "can",
+    "rating": 3.8,
+    "beer_name": "They Have No Televisions But They Do Have This Dark & Toasty",
+    "brewery": "Evil Twin Brewing",
+    "beer_type": "Stout - Oatmeal"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T08:13:10+00:00",
+    "serving": "can",
+    "rating": 4.5,
+    "beer_name": "Siren | Blackberry + Raspberry",
+    "brewery": "Mortalis Brewing Company",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T08:11:57+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "They Have No Televisions But They Do Have This Dark & Toasty",
+    "brewery": "Evil Twin Brewing",
+    "beer_type": "Stout - Oatmeal"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T08:09:16+00:00",
+    "serving": "Unknown",
+    "rating": 4.25,
+    "beer_name": "Siren | Blackberry + Raspberry",
+    "brewery": "Mortalis Brewing Company",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T08:08:11+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "They Have No Televisions But They Do Have This Dark & Toasty",
+    "brewery": "Evil Twin Brewing",
+    "beer_type": "Stout - Oatmeal"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T08:02:28+00:00",
+    "serving": "draft",
+    "rating": 3.8,
+    "beer_name": "זה לא בירה 2",
+    "brewery": "New Pioneer Brewing Co - חלוץ חדש",
+    "beer_type": "Mead - Other"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T07:42:21+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Velvet Panda",
+    "brewery": "New Pioneer Brewing Co - חלוץ חדש",
+    "beer_type": "Stout - Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T07:28:16+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "זה לא בירה 2",
+    "brewery": "New Pioneer Brewing Co - חלוץ חדש",
+    "beer_type": "Mead - Other"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T05:16:38+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Prunes In Chocolate",
+    "brewery": "Radionov",
+    "beer_type": "Homebrew, Porter - Other"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T05:00:28+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Fresh 2026",
+    "brewery": "I.N. Beer",
+    "beer_type": "Homebrew, IPA - New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T04:07:55+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "2018 תפוח בדבש (Tapoah Bidvash)",
+    "brewery": "Radionov",
+    "beer_type": "Homebrew, Mead - Cyser"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-28T22:07:04+00:00",
+    "serving": "Unknown",
+    "rating": 5.0,
+    "beer_name": "Love of Grapefruit And Tangerine In the Fog",
+    "brewery": "Radionov",
+    "beer_type": "Homebrew, IPA - New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-28T22:05:21+00:00",
+    "serving": "Unknown",
+    "rating": 4.75,
+    "beer_name": "Tirameadsu",
+    "brewery": "Schmulz",
+    "beer_type": "Mead - Bochet"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-28T22:04:12+00:00",
+    "serving": "draft",
+    "rating": 5.0,
+    "beer_name": "PNW Bound",
+    "brewery": "The Three-Legged Crow Brewery",
+    "beer_type": "Homebrew, IPA - American"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-28T22:01:59+00:00",
+    "serving": "draft",
+    "rating": 5.0,
+    "beer_name": "Hafsakat Hashmal",
+    "brewery": "Merkaz Gilat Brewery",
+    "beer_type": "Homebrew, Stout - Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-28T22:01:29+00:00",
+    "serving": "draft",
+    "rating": 4.75,
+    "beer_name": "Two Thousand Springs",
+    "brewery": "Merkaz Gilat Brewery",
+    "beer_type": "Homebrew, IPA - Imperial / Double New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-28T22:00:36+00:00",
+    "serving": "draft",
+    "rating": 5.0,
+    "beer_name": "2018 תפוח בדבש (Tapoah Bidvash)",
+    "brewery": "Radionov",
+    "beer_type": "Homebrew, Mead - Cyser"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-28T21:42:09+00:00",
+    "serving": "draft",
+    "rating": 4.75,
+    "beer_name": "זה לא בירה 2",
+    "brewery": "New Pioneer Brewing Co - חלוץ חדש",
+    "beer_type": "Mead - Other"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-28T21:12:45+00:00",
+    "serving": "draft",
+    "rating": 4.75,
+    "beer_name": "זה לא בירה 2",
+    "brewery": "New Pioneer Brewing Co - חלוץ חדש",
+    "beer_type": "Mead - Other"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-28T21:11:33+00:00",
+    "serving": "draft",
+    "rating": 5.0,
+    "beer_name": "Seek & Sour",
+    "brewery": "Merkaz Gilat Brewery",
+    "beer_type": "Homebrew, Sour - Fruited"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-28T21:10:26+00:00",
+    "serving": "draft",
+    "rating": 4.75,
+    "beer_name": "Two Thousand Springs",
+    "brewery": "Merkaz Gilat Brewery",
+    "beer_type": "Homebrew, IPA - Imperial / Double New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-28T21:10:01+00:00",
+    "serving": "draft",
+    "rating": 5.0,
+    "beer_name": "Hafsakat Hashmal",
+    "brewery": "Merkaz Gilat Brewery",
+    "beer_type": "Homebrew, Stout - Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-28T21:09:25+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "PNW Bound",
+    "brewery": "The Three-Legged Crow Brewery",
+    "beer_type": "Homebrew, IPA - American"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-28T21:09:06+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "David’s Coffee And Cigarettes",
+    "brewery": "The Three-Legged Crow Brewery",
+    "beer_type": "Homebrew, Porter - Baltic"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-28T21:08:51+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Love of Grapefruit And Tangerine In the Fog",
+    "brewery": "Radionov",
+    "beer_type": "Homebrew, IPA - New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-28T21:08:34+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Pilsner Pank",
+    "brewery": "Radionov",
+    "beer_type": "Homebrew, Pilsner - Czech / Bohemian"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-28T21:07:48+00:00",
+    "serving": "bottle",
+    "rating": 3.75,
+    "beer_name": "Tirameadsu",
+    "brewery": "Schmulz",
+    "beer_type": "Mead - Bochet"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-28T21:07:30+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "2018 תפוח בדבש (Tapoah Bidvash)",
+    "brewery": "Radionov",
+    "beer_type": "Homebrew, Mead - Cyser"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-28T21:07:08+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Fresh 2026",
+    "brewery": "I.N. Beer",
+    "beer_type": "Homebrew, IPA - New England / Hazy"
+  },
+  {
+    "venue": "ursa",
+    "time": "2026-05-28T19:46:08+00:00",
+    "serving": "draft",
+    "rating": 4.75,
+    "beer_name": "Guinness Draught",
+    "brewery": "Guinness",
+    "beer_type": "Stout - Irish Dry"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-28T17:37:12+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "Gordi",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Historical Beer - Grodziskie / Grätzer"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-28T17:24:20+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Sab Kuch Milaga",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Lager - IPL (India Pale Lager)"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-28T16:30:06+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Gordi",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Historical Beer - Grodziskie / Grätzer"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-28T16:22:42+00:00",
+    "serving": "draft",
+    "rating": 4.1,
+    "beer_name": "What Was Was Was Was",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-28T15:37:56+00:00",
+    "serving": "draft",
+    "rating": 3.9,
+    "beer_name": "Double Intergalactica",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-28T15:35:59+00:00",
+    "serving": "Unknown",
+    "rating": 3.8,
+    "beer_name": "Elderflower",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pale Ale - Other"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-28T15:16:24+00:00",
+    "serving": "Unknown",
+    "rating": 3.25,
+    "beer_name": "Guava Island 2026",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-28T14:58:24+00:00",
+    "serving": "Unknown",
+    "rating": 3.0,
+    "beer_name": "שאגת העצלן",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-28T14:56:58+00:00",
+    "serving": "Unknown",
+    "rating": 3.0,
+    "beer_name": "Cheers Alenbeer",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - Session"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-28T14:55:04+00:00",
+    "serving": "Unknown",
+    "rating": 3.25,
+    "beer_name": "Gordi",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Historical Beer - Grodziskie / Grätzer"
+  },
+  {
+    "venue": "beerline",
+    "time": "2026-05-28T14:36:11+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "La Trappe Quadrupel",
+    "brewery": "Bierbrouwerij De Koningshoeven",
+    "beer_type": "Belgian Quadrupel"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-28T14:34:10+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Gueuze Tilquin – Draft Version",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": "Lambic - Gueuze"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-28T14:32:56+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Elderflower",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pale Ale - Other"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-28T13:52:17+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Cactus Sour",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-28T13:37:56+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Porter & Sons Salted Caramel 2024",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Porter - Other"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-28T13:35:37+00:00",
+    "serving": "draft",
+    "rating": 3.25,
+    "beer_name": "שאגת העצלן",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "porter-and-sons",
+    "time": "2026-05-28T13:26:15+00:00",
+    "serving": "draft",
+    "rating": 3.25,
+    "beer_name": "Lederer Pils",
+    "brewery": "Tucher Bräu",
+    "beer_type": "Pilsner - German"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-28T13:04:24+00:00",
+    "serving": "draft",
+    "rating": 2.75,
+    "beer_name": "Cheers Alenbeer",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - Session"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-28T12:40:39+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "נקטרון האלים",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-28T12:08:12+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "שאגת העצלן",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - American"
+  },
   {
     "venue": "schnitt-brewing-company",
     "time": "2026-05-28T09:44:33+00:00",
@@ -3802,15 +6250,6 @@ const BEER_DATA = [
     "beer_type": "Wheat Beer - Fruited"
   },
   {
-    "venue": "b7-beer-house",
-    "time": "2026-05-14T18:58:35+00:00",
-    "serving": "can",
-    "rating": 3.9,
-    "beer_name": "Yes We Can - Hazy IPA: Citra, Nelson Sauvin",
-    "brewery": "Maryensztadt",
-    "beer_type": "IPA - New England / Hazy"
-  },
-  {
     "venue": "beerz",
     "time": "2026-05-14T18:58:35+00:00",
     "serving": "bottle",
@@ -3818,6 +6257,15 @@ const BEER_DATA = [
     "beer_name": "Forever Brewing Macho",
     "brewery": "Волинський бровар",
     "beer_type": "Wheat Beer - Fruited"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-14T18:58:35+00:00",
+    "serving": "can",
+    "rating": 3.9,
+    "beer_name": "Yes We Can - Hazy IPA: Citra, Nelson Sauvin",
+    "brewery": "Maryensztadt",
+    "beer_type": "IPA - New England / Hazy"
   },
   {
     "venue": "beerz",
