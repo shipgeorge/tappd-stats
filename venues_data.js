@@ -1,8 +1,170 @@
 // 🍺 BEER STATS DATA - Generated automatically
-// Last updated: 2026-05-30 08:37:16
-// Total records: 16932
+// Last updated: 2026-05-31 08:57:39
+// Total records: 16950
 
 const BEER_DATA = [
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-31T06:24:03+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Hazy Queen",
+    "brewery": "HORIZONT Brewing",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-31T06:23:41+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "תסביך המנגו, האפגני והשוקולד",
+    "brewery": "New Pioneer Brewing Co - חלוץ חדש",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-30T19:51:45+00:00",
+    "serving": "can",
+    "rating": 3.25,
+    "beer_name": "Elderflower",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pale Ale - Other"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-30T18:08:03+00:00",
+    "serving": "can",
+    "rating": 4.2,
+    "beer_name": "Out of Order: Sith Sauce",
+    "brewery": "RaR Brewing",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "beerz",
+    "time": "2026-05-30T17:38:49+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Hobgoblin IPA",
+    "brewery": "Marston's Brewery",
+    "beer_type": "IPA - English"
+  },
+  {
+    "venue": "beerz",
+    "time": "2026-05-30T17:32:52+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Hazy Queen",
+    "brewery": "HORIZONT Brewing",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-30T17:21:13+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "Punk IPA",
+    "brewery": "BrewDog",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-30T15:40:14+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "7 Years Sour",
+    "brewery": "Vault City Brewing",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-30T15:38:40+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "7 Years Sour",
+    "brewery": "Vault City Brewing",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-30T14:50:52+00:00",
+    "serving": "can",
+    "rating": 4.2,
+    "beer_name": "Blåbärsoppa",
+    "brewery": "Sudden Death Brewing Co.",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-30T14:22:04+00:00",
+    "serving": "draft",
+    "rating": null,
+    "beer_name": "Porter&Sons: Chocolate Orange",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Porter - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-30T14:20:49+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Elderflower",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pale Ale - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-30T14:19:48+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Hard Pear Cider (סיידר אגסים אלכוהולי חצי יבש)",
+    "brewery": "Hamatsesa (המתססה)",
+    "beer_type": "Cider - Perry / Poiré"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-30T14:05:17+00:00",
+    "serving": "can",
+    "rating": 3.25,
+    "beer_name": "Blueberry Brioche",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pale Ale - Other"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-30T09:51:21+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Cactus Sour",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-30T09:45:35+00:00",
+    "serving": "Unknown",
+    "rating": 4.4,
+    "beer_name": "נקטרון האלים",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-30T08:52:06+00:00",
+    "serving": "can",
+    "rating": 4.5,
+    "beer_name": "Blåbärsoppa",
+    "brewery": "Sudden Death Brewing Co.",
+    "beer_type": "Sour - Fruited"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-30T08:49:29+00:00",
+    "serving": "draft",
+    "rating": 3.8,
+    "beer_name": "תסביך המנגו, האפגני והשוקולד",
+    "brewery": "New Pioneer Brewing Co - חלוץ חדש",
+    "beer_type": "Sour - Smoothie / Pastry"
+  },
   {
     "venue": "schnitt-brewing-company",
     "time": "2026-05-29T23:09:00+00:00",
@@ -7177,15 +7339,6 @@ const BEER_DATA = [
     "beer_type": "IPA - Triple New England / Hazy"
   },
   {
-    "venue": "b7-beer-house",
-    "time": "2026-05-14T19:51:22+00:00",
-    "serving": "can",
-    "rating": 3.6,
-    "beer_name": "CONGRATS! YOU ARE NOT LOOKING AT YOUR PHONE | vertikal verses series 4/5",
-    "brewery": "ATELIER VRAI",
-    "beer_type": "IPA - Triple New England / Hazy"
-  },
-  {
     "venue": "beerz",
     "time": "2026-05-14T19:51:22+00:00",
     "serving": "can",
@@ -7193,6 +7346,15 @@ const BEER_DATA = [
     "beer_name": "Yummy Prickly Pear, Banana, Pear & Kiwi",
     "brewery": "Sibeeria Brewery",
     "beer_type": "Sour - Smoothie / Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-14T19:51:22+00:00",
+    "serving": "can",
+    "rating": 3.6,
+    "beer_name": "CONGRATS! YOU ARE NOT LOOKING AT YOUR PHONE | vertikal verses series 4/5",
+    "brewery": "ATELIER VRAI",
+    "beer_type": "IPA - Triple New England / Hazy"
   },
   {
     "venue": "b7-beer-house",
@@ -7312,15 +7474,6 @@ const BEER_DATA = [
     "beer_type": "Pale Ale - New England / Hazy"
   },
   {
-    "venue": "beerz",
-    "time": "2026-05-14T19:24:22+00:00",
-    "serving": "can",
-    "rating": 3.7,
-    "beer_name": "Forever Brewing Sorbet Line #2",
-    "brewery": "Волинський бровар",
-    "beer_type": "Fruit Beer"
-  },
-  {
     "venue": "lauter",
     "time": "2026-05-14T19:24:22+00:00",
     "serving": "can",
@@ -7328,6 +7481,15 @@ const BEER_DATA = [
     "beer_name": "Yes We Can - Hazy IPA: Citra, Zibi",
     "brewery": "Maryensztadt",
     "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "beerz",
+    "time": "2026-05-14T19:24:22+00:00",
+    "serving": "can",
+    "rating": 3.7,
+    "beer_name": "Forever Brewing Sorbet Line #2",
+    "brewery": "Волинський бровар",
+    "beer_type": "Fruit Beer"
   },
   {
     "venue": "lauter",

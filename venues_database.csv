@@ -1,4 +1,22 @@
 venue,user,time,serving,data_rating,beer_name,brewery,beer_type
+b7-beer-house,Yuval Lutski,"Sun, 31 May 2026 06:24:03 +0000",draft,4.0,Hazy Queen,HORIZONT Brewing,IPA - New England / Hazy
+b7-beer-house,Yuval Lutski,"Sun, 31 May 2026 06:23:41 +0000",draft,3.75,"תסביך המנגו, האפגני והשוקולד",New Pioneer Brewing Co - חלוץ חדש,Sour - Smoothie / Pastry
+schnitt-brewing-company,Brandon Amaltov,"Sat, 30 May 2026 19:51:45 +0000",can,3.25,Elderflower,Schnitt Brewing Company﻿,Pale Ale - Other
+b7-beer-house,Eli Smikin,"Sat, 30 May 2026 18:08:03 +0000",can,4.2,Out of Order: Sith Sauce,RaR Brewing,Sour - Smoothie / Pastry
+beerz,NightFish,"Sat, 30 May 2026 17:38:49 +0000",draft,3.75,Hobgoblin IPA,Marston's Brewery,IPA - English
+beerz,NightFish,"Sat, 30 May 2026 17:32:52 +0000",draft,4.0,Hazy Queen,HORIZONT Brewing,IPA - New England / Hazy
+lauter,Tal Idel,"Sat, 30 May 2026 17:21:13 +0000",can,4.25,Punk IPA,BrewDog,IPA - American
+b7-beer-house,Israel Shenkman,"Sat, 30 May 2026 15:40:14 +0000",can,4.25,7 Years Sour,Vault City Brewing,Sour - Smoothie / Pastry
+b7-beer-house,Eli Smikin,"Sat, 30 May 2026 15:38:40 +0000",,4.0,7 Years Sour,Vault City Brewing,Sour - Smoothie / Pastry
+b7-beer-house,Eli Smikin,"Sat, 30 May 2026 14:50:52 +0000",can,4.2,Blåbärsoppa,Sudden Death Brewing Co.,Sour - Fruited
+lauter,Kelly Inbar,"Sat, 30 May 2026 14:22:04 +0000",draft,,Porter&Sons: Chocolate Orange,Schnitt Brewing Company﻿,Porter - Other
+lauter,Kelly Inbar,"Sat, 30 May 2026 14:20:49 +0000",draft,3.5,Elderflower,Schnitt Brewing Company﻿,Pale Ale - Other
+lauter,Kelly Inbar,"Sat, 30 May 2026 14:19:48 +0000",draft,3.5,Hard Pear Cider (סיידר אגסים אלכוהולי חצי יבש),Hamatsesa (המתססה),Cider - Perry / Poiré
+schnitt-brewing-company,Josh Kraer,"Sat, 30 May 2026 14:05:17 +0000",can,3.25,Blueberry Brioche,Schnitt Brewing Company﻿,Pale Ale - Other
+schnitt-brewing-company,Josh Kraer,"Sat, 30 May 2026 09:51:21 +0000",draft,3.75,Cactus Sour,Schnitt Brewing Company﻿,Sour - Fruited
+schnitt-brewing-company,Ilya Yeruhimovich,"Sat, 30 May 2026 09:45:35 +0000",,4.4,נקטרון האלים,Schnitt Brewing Company﻿,IPA - New England / Hazy
+b7-beer-house,Yuval Lutski,"Sat, 30 May 2026 08:52:06 +0000",can,4.5,Blåbärsoppa,Sudden Death Brewing Co.,Sour - Fruited
+b7-beer-house,Yotam Bar-natan,"Sat, 30 May 2026 08:49:29 +0000",draft,3.8,"תסביך המנגו, האפגני והשוקולד",New Pioneer Brewing Co - חלוץ חדש,Sour - Smoothie / Pastry
 schnitt-brewing-company,David Siegel,"Fri, 29 May 2026 23:09:00 +0000",draft,4.0,Guava Island 2026,Schnitt Brewing Company﻿,IPA - New England / Hazy
 lauter,Raz Ko,"Fri, 29 May 2026 20:22:21 +0000",draft,3.5,Gueuze Tilquin – Draft Version,Gueuzerie Tilquin,Lambic - Gueuze
 b7-beer-house,Ziv Shwartzman,"Fri, 29 May 2026 19:02:00 +0000",can,4.0,7 Years Sour,Vault City Brewing,Sour - Smoothie / Pastry
@@ -796,8 +814,8 @@ b7-beer-house,Yuval Lutski,"Thu, 14 May 2026 20:31:20 +0000",can,4.0,STUFFD (Cos
 b7-beer-house,Yotam Bar-natan,"Thu, 14 May 2026 20:04:04 +0000",can,4.0,Golden Goose Eggs,Vault City Brewing,Sour - Smoothie / Pastry
 b7-beer-house,Yotam Bar-natan,"Thu, 14 May 2026 19:56:42 +0000",can,4.1,STUFFD (Cosmic Space Dust),Vault City Brewing,Sour - Smoothie / Pastry
 b7-beer-house,Yuval Lutski,"Thu, 14 May 2026 19:51:57 +0000",can,4.25,CONGRATS! YOU ARE NOT LOOKING AT YOUR PHONE | vertikal verses series 4/5,ATELIER VRAI,IPA - Triple New England / Hazy
-b7-beer-house,Yotam Bar-natan,"Thu, 14 May 2026 19:51:22 +0000",can,3.6,CONGRATS! YOU ARE NOT LOOKING AT YOUR PHONE | vertikal verses series 4/5,ATELIER VRAI,IPA - Triple New England / Hazy
 beerz,Ilya Markovsky,"Thu, 14 May 2026 19:51:22 +0000",can,3.9,"Yummy Prickly Pear, Banana, Pear & Kiwi",Sibeeria Brewery,Sour - Smoothie / Pastry
+b7-beer-house,Yotam Bar-natan,"Thu, 14 May 2026 19:51:22 +0000",can,3.6,CONGRATS! YOU ARE NOT LOOKING AT YOUR PHONE | vertikal verses series 4/5,ATELIER VRAI,IPA - Triple New England / Hazy
 b7-beer-house,Yuval Lutski,"Thu, 14 May 2026 19:46:59 +0000",can,3.75,Blueprints: Cosmic Compass,Moersleutel Craft Brewery,IPA - American
 b7-beer-house,Yotam Bar-natan,"Thu, 14 May 2026 19:42:07 +0000",can,3.9,Blueprints: Cosmic Compass,Moersleutel Craft Brewery,IPA - American
 b7-beer-house,Yuval Lutski,"Thu, 14 May 2026 19:39:18 +0000",can,4.0,Tropic Turbo,Moersleutel Craft Brewery,IPA - New England / Hazy
@@ -811,8 +829,8 @@ beerz,Alexander the Great ™️,"Thu, 14 May 2026 19:29:07 +0000",can,3.75,Fore
 b7-beer-house,Yuval Lutski,"Thu, 14 May 2026 19:28:53 +0000",can,4.0,"Californication - Sabro, Citra, Idaho 7 & Lemondrop",Maryensztadt,IPA - New England / Hazy
 beerz,Ilya Markovsky,"Thu, 14 May 2026 19:24:56 +0000",can,3.9,Forever Brewing Black Queen,Волинський бровар,Lager - Other
 b7-beer-house,Yotam Bar-natan,"Thu, 14 May 2026 19:24:30 +0000",can,3.1,"Californication - Citra, El Dorado & Mosaic",Maryensztadt,Pale Ale - New England / Hazy
-beerz,Ilya Markovsky,"Thu, 14 May 2026 19:24:22 +0000",can,3.7,Forever Brewing Sorbet Line #2,Волинський бровар,Fruit Beer
 lauter,UV R,"Thu, 14 May 2026 19:24:22 +0000",can,4.0,"Yes We Can - Hazy IPA: Citra, Zibi",Maryensztadt,IPA - New England / Hazy
+beerz,Ilya Markovsky,"Thu, 14 May 2026 19:24:22 +0000",can,3.7,Forever Brewing Sorbet Line #2,Волинський бровар,Fruit Beer
 lauter,UV R,"Thu, 14 May 2026 19:23:56 +0000",can,3.5,Гипер-Ёжик в Кибер-Тумане - Hazy IPA,Post Apocalyptic,"Homebrew, IPA - New England / Hazy"
 b7-beer-house,Yuval Lutski,"Thu, 14 May 2026 19:23:49 +0000",can,3.75,"Yes We Can - Hazy IPA: Citra, Nelson Sauvin",Maryensztadt,IPA - New England / Hazy
 b7-beer-house,Yuval Lutski,"Thu, 14 May 2026 19:23:08 +0000",can,2.75,APA,Maryensztadt,Pale Ale - American
