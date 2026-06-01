@@ -1,4 +1,29 @@
 venue,user,time,serving,data_rating,beer_name,brewery,beer_type
+schnitt-brewing-company,Kelly Inbar,"Sun, 31 May 2026 20:59:59 +0000",draft,3.5,Blueberry Brioche,Schnitt Brewing Company﻿,Pale Ale - Other
+b7-beer-house,Yaniv Alal,"Sun, 31 May 2026 18:22:41 +0000",can,4.0,Voracious Viper,Sibeeria Brewery,IPA - New England / Hazy
+lauter,Nativ Kapach,"Sun, 31 May 2026 18:11:55 +0000",draft,4.5,Tea Party: Masala,Schnitt Brewing Company﻿,Pale Ale - Other
+lauter,Shmupi Koto,"Sun, 31 May 2026 17:49:16 +0000",bottle,4.7,Oude Gueuze Tilquin à l'ancienne - Cuvée Arthur (2022-2023),Gueuzerie Tilquin,Lambic - Gueuze
+b7-beer-house,Yaniv Alal,"Sun, 31 May 2026 17:42:20 +0000",bottle,4.5,Night Shift Vintage 2025 / Peanut Butter Jelly Imperial Pastry Stout Aged In Pedro Ximénez Sherry Barrels,HORIZONT Brewing,Stout - Imperial / Double Pastry
+b7-beer-house,Yaniv Alal,"Sun, 31 May 2026 17:38:50 +0000",can,4.25,Prague Tap Room 2nd Anniversary,Sibeeria Brewery,IPA - Triple New England / Hazy
+lauter,Nadav,"Sun, 31 May 2026 16:27:23 +0000",,,I'll Be Bock,Schnitt Brewing Company﻿,Bock - Single / Traditional
+lauter,Nadav,"Sun, 31 May 2026 16:26:35 +0000",,,Porter&Sons: Chocolate Orange,Schnitt Brewing Company﻿,Porter - Other
+lauter,Nadav,"Sun, 31 May 2026 16:25:17 +0000",,3.75,Sab Kuch Milaga,Schnitt Brewing Company﻿,Lager - IPL (India Pale Lager)
+lauter,Nadav,"Sun, 31 May 2026 16:24:05 +0000",,,אדיר,קישקשתא (Kishkashta),Lager - Vienna
+lauter,Yana O,"Sun, 31 May 2026 15:56:32 +0000",draft,3.5,Passiflora (פסיפלורה) - Passion Fruit Ale,Negev Brewery (נגב),Fruit Beer
+lauter,Yana O,"Sun, 31 May 2026 15:53:59 +0000",draft,3.7,Elderflower,Schnitt Brewing Company﻿,Pale Ale - Other
+lauter,UV R,"Sun, 31 May 2026 15:39:02 +0000",,,Forever Brewing Cappuccino,Волинський бровар,Porter - Baltic
+schnitt-brewing-company,Nadav,"Sun, 31 May 2026 15:35:40 +0000",draft,4.0,Gordi,Schnitt Brewing Company﻿,Historical Beer - Grodziskie / Grätzer
+schnitt-brewing-company,Yana O,"Sun, 31 May 2026 15:26:20 +0000",,4.1,נקטרון האלים,Schnitt Brewing Company﻿,IPA - New England / Hazy
+lauter,Shai Friling,"Sun, 31 May 2026 14:39:45 +0000",,4.0,Porter&Sons: Chocolate Orange,Schnitt Brewing Company﻿,Porter - Other
+lauter,Shai Friling,"Sun, 31 May 2026 14:28:38 +0000",draft,3.75,Double Intergalactica,Schnitt Brewing Company﻿,IPA - New England / Hazy
+lauter,Shai Friling,"Sun, 31 May 2026 14:27:20 +0000",draft,3.5,אדיר,קישקשתא (Kishkashta),Lager - Vienna
+schnitt-brewing-company,Oren Gutman,"Sun, 31 May 2026 14:18:03 +0000",draft,3.75,Gordi,Schnitt Brewing Company﻿,Historical Beer - Grodziskie / Grätzer
+schnitt-brewing-company,Shai Friling,"Sun, 31 May 2026 14:04:17 +0000",,3.75,Elderflower,Schnitt Brewing Company﻿,Pale Ale - Other
+schnitt-brewing-company,Shai Friling,"Sun, 31 May 2026 14:00:20 +0000",,,שאגת העצלן,Schnitt Brewing Company﻿,IPA - American
+schnitt-brewing-company,Shai Friling,"Sun, 31 May 2026 13:58:24 +0000",,3.5,Guava Island 2026,Schnitt Brewing Company﻿,IPA - New England / Hazy
+schnitt-brewing-company,Shai Friling,"Sun, 31 May 2026 13:56:54 +0000",,3.25,Cheers Alenbeer,Schnitt Brewing Company﻿,IPA - Session
+schnitt-brewing-company,Vasa,"Sun, 31 May 2026 11:45:45 +0000",draft,3.5,Frenemy,Schnitt Brewing Company﻿,Pale Ale - American
+schnitt-brewing-company,Vasa,"Sun, 31 May 2026 10:20:00 +0000",,3.75,שאגת העצלן,Schnitt Brewing Company﻿,IPA - American
 b7-beer-house,Yuval Lutski,"Sun, 31 May 2026 06:24:03 +0000",draft,4.0,Hazy Queen,HORIZONT Brewing,IPA - New England / Hazy
 b7-beer-house,Yuval Lutski,"Sun, 31 May 2026 06:23:41 +0000",draft,3.75,"תסביך המנגו, האפגני והשוקולד",New Pioneer Brewing Co - חלוץ חדש,Sour - Smoothie / Pastry
 schnitt-brewing-company,Brandon Amaltov,"Sat, 30 May 2026 19:51:45 +0000",can,3.25,Elderflower,Schnitt Brewing Company﻿,Pale Ale - Other
@@ -337,14 +362,14 @@ b7-beer-house,Tom Lahav,"Fri, 29 May 2026 08:30:15 +0000",can,4.25,Hydra | Passi
 b7-beer-house,Yoav Kowalski,"Fri, 29 May 2026 08:29:56 +0000",,4.25,Hydra | Passion Fruit + Tangerine + Pink Guava,Mortalis Brewing Company,Sour - Smoothie / Pastry
 b7-beer-house,Mikhail Stolov,"Fri, 29 May 2026 08:29:53 +0000",can,4.0,Prague Tap Room 2nd Anniversary,Sibeeria Brewery,IPA - Triple New England / Hazy
 b7-beer-house,Alexander the Great ™️,"Fri, 29 May 2026 08:29:38 +0000",bottle,4.75,Experiments In the Kitchen,Mortalis Brewing Company,Stout - Imperial / Double Pastry
-b7-beer-house,Yana O,"Fri, 29 May 2026 08:28:59 +0000",can,3.8,They Have No Televisions But They Do Have This Dark & Toasty,Evil Twin Brewing,Stout - Oatmeal
 b7-beer-house,Ido Cohen,"Fri, 29 May 2026 08:28:59 +0000",can,4.1,Prague Tap Room 2nd Anniversary,Sibeeria Brewery,IPA - Triple New England / Hazy
+b7-beer-house,Yana O,"Fri, 29 May 2026 08:28:59 +0000",can,3.8,They Have No Televisions But They Do Have This Dark & Toasty,Evil Twin Brewing,Stout - Oatmeal
 b7-beer-house,Ido Cohen,"Fri, 29 May 2026 08:27:15 +0000",can,3.6,GREENHOUSE CZECH PILS CONDITIONED ON AMERICAN OAK FOUDRE,Evil Twin Brewing NYC,Pilsner - Czech / Bohemian
 b7-beer-house,Eli Smikin,"Fri, 29 May 2026 08:27:08 +0000",bottle,4.3,Zima 2025,Sibeeria Brewery,Barleywine - English
 b7-beer-house,Yana O,"Fri, 29 May 2026 08:26:58 +0000",can,4.1,Astrophysics,Equilibrium Brewery,IPA - New England / Hazy
 b7-beer-house,Yuval Lutski,"Fri, 29 May 2026 08:26:54 +0000",bottle,4.0,Night Shift Vintage 2025 / Russian Imperial Stout Aged In Rhum And Vanilla Macadamia Rum Barrels,HORIZONT Brewing,Stout - Russian Imperial
-b7-beer-house,Mikhail Stolov,"Fri, 29 May 2026 08:25:23 +0000",bottle,4.25,Night Shift Vintage 2025 / Russian Imperial Stout Aged In Rhum And Vanilla Macadamia Rum Barrels,HORIZONT Brewing,Stout - Russian Imperial
 b7-beer-house,Yuval Lutski,"Fri, 29 May 2026 08:25:23 +0000",bottle,4.25,Zima 2025,Sibeeria Brewery,Barleywine - English
+b7-beer-house,Mikhail Stolov,"Fri, 29 May 2026 08:25:23 +0000",bottle,4.25,Night Shift Vintage 2025 / Russian Imperial Stout Aged In Rhum And Vanilla Macadamia Rum Barrels,HORIZONT Brewing,Stout - Russian Imperial
 b7-beer-house,ofir lebo,"Fri, 29 May 2026 08:24:41 +0000",draft,4.25,זה לא בירה 2,New Pioneer Brewing Co - חלוץ חדש,Mead - Other
 b7-beer-house,גל סילברמן,"Fri, 29 May 2026 08:24:32 +0000",can,3.9,Hydra | Peach + Blueberry + Strawberry,Mortalis Brewing Company,Sour - Smoothie / Pastry
 b7-beer-house,Ziv Shwartzman,"Fri, 29 May 2026 08:24:14 +0000",draft,3.75,Fresh 2026,I.N. Beer,"Homebrew, IPA - New England / Hazy"
@@ -16949,3 +16974,4 @@ beer-station-beersheba-israel,Garry Shteinberg,"Fri, 18 Aug 2017 11:38:11 +0000"
 beer-station-beersheba-israel,Garry Shteinberg,"Fri, 18 Aug 2017 11:33:59 +0000",draft,4.5,O'Hara's Irish Stout,O'Hara's Brewery,Stout - Irish Dry
 beer-station-beersheba-israel,Omer Basha,"Sun, 02 Jul 2017 17:37:54 +0000",,1.0,Zirndorfer Kellerbier - Naturtrüb,Brauerei Zirndorf,Kellerbier / Zwickelbier
 beer-station-beersheba-israel,Ohad Bar,"Sun, 02 Jul 2017 17:37:46 +0000",,2.5,Zirndorfer Kellerbier - Naturtrüb,Brauerei Zirndorf,Kellerbier / Zwickelbier
+schnitt-brewing-company,Sahar Baruch,"Mon, 01 Jun 2026 10:02:56 +0000",draft,3.5,Eternal Struggle,Schnitt Brewing Company﻿,Pale Ale - Other

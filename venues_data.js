@@ -1,8 +1,233 @@
 // 🍺 BEER STATS DATA - Generated automatically
-// Last updated: 2026-05-31 08:57:39
-// Total records: 16950
+// Last updated: 2026-06-01 11:50:50
+// Total records: 16976
 
 const BEER_DATA = [
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-31T20:59:59+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Blueberry Brioche",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pale Ale - Other"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-31T18:22:41+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Voracious Viper",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-31T18:11:55+00:00",
+    "serving": "draft",
+    "rating": 4.5,
+    "beer_name": "Tea Party: Masala",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pale Ale - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-31T17:49:16+00:00",
+    "serving": "bottle",
+    "rating": 4.7,
+    "beer_name": "Oude Gueuze Tilquin à l'ancienne - Cuvée Arthur (2022-2023)",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": "Lambic - Gueuze"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-31T17:42:20+00:00",
+    "serving": "bottle",
+    "rating": 4.5,
+    "beer_name": "Night Shift Vintage 2025 / Peanut Butter Jelly Imperial Pastry Stout Aged In Pedro Ximénez Sherry Barrels",
+    "brewery": "HORIZONT Brewing",
+    "beer_type": "Stout - Imperial / Double Pastry"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-31T17:38:50+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "Prague Tap Room 2nd Anniversary",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": "IPA - Triple New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-31T16:27:23+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "I'll Be Bock",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Bock - Single / Traditional"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-31T16:26:35+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Porter&Sons: Chocolate Orange",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Porter - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-31T16:25:17+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "Sab Kuch Milaga",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Lager - IPL (India Pale Lager)"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-31T16:24:05+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "אדיר",
+    "brewery": "קישקשתא (Kishkashta)",
+    "beer_type": "Lager - Vienna"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-31T15:56:32+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Passiflora (פסיפלורה) - Passion Fruit Ale",
+    "brewery": "Negev Brewery (נגב)",
+    "beer_type": "Fruit Beer"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-31T15:53:59+00:00",
+    "serving": "draft",
+    "rating": 3.7,
+    "beer_name": "Elderflower",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pale Ale - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-31T15:39:02+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Forever Brewing Cappuccino",
+    "brewery": "Волинський бровар",
+    "beer_type": "Porter - Baltic"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-31T15:35:40+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Gordi",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Historical Beer - Grodziskie / Grätzer"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-31T15:26:20+00:00",
+    "serving": "Unknown",
+    "rating": 4.1,
+    "beer_name": "נקטרון האלים",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-31T14:39:45+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Porter&Sons: Chocolate Orange",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Porter - Other"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-31T14:28:38+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Double Intergalactica",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-05-31T14:27:20+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "אדיר",
+    "brewery": "קישקשתא (Kishkashta)",
+    "beer_type": "Lager - Vienna"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-31T14:18:03+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Gordi",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Historical Beer - Grodziskie / Grätzer"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-31T14:04:17+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "Elderflower",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pale Ale - Other"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-31T14:00:20+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "שאגת העצלן",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - American"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-31T13:58:24+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "Guava Island 2026",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - New England / Hazy"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-31T13:56:54+00:00",
+    "serving": "Unknown",
+    "rating": 3.25,
+    "beer_name": "Cheers Alenbeer",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - Session"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-31T11:45:45+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Frenemy",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pale Ale - American"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-31T10:20:00+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "שאגת העצלן",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - American"
+  },
   {
     "venue": "b7-beer-house",
     "time": "2026-05-31T06:24:03+00:00",
@@ -3049,19 +3274,19 @@ const BEER_DATA = [
     "venue": "b7-beer-house",
     "time": "2026-05-29T08:28:59+00:00",
     "serving": "can",
-    "rating": 3.8,
-    "beer_name": "They Have No Televisions But They Do Have This Dark & Toasty",
-    "brewery": "Evil Twin Brewing",
-    "beer_type": "Stout - Oatmeal"
+    "rating": 4.1,
+    "beer_name": "Prague Tap Room 2nd Anniversary",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": "IPA - Triple New England / Hazy"
   },
   {
     "venue": "b7-beer-house",
     "time": "2026-05-29T08:28:59+00:00",
     "serving": "can",
-    "rating": 4.1,
-    "beer_name": "Prague Tap Room 2nd Anniversary",
-    "brewery": "Sibeeria Brewery",
-    "beer_type": "IPA - Triple New England / Hazy"
+    "rating": 3.8,
+    "beer_name": "They Have No Televisions But They Do Have This Dark & Toasty",
+    "brewery": "Evil Twin Brewing",
+    "beer_type": "Stout - Oatmeal"
   },
   {
     "venue": "b7-beer-house",
@@ -3104,18 +3329,18 @@ const BEER_DATA = [
     "time": "2026-05-29T08:25:23+00:00",
     "serving": "bottle",
     "rating": 4.25,
-    "beer_name": "Night Shift Vintage 2025 / Russian Imperial Stout Aged In Rhum And Vanilla Macadamia Rum Barrels",
-    "brewery": "HORIZONT Brewing",
-    "beer_type": "Stout - Russian Imperial"
+    "beer_name": "Zima 2025",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": "Barleywine - English"
   },
   {
     "venue": "b7-beer-house",
     "time": "2026-05-29T08:25:23+00:00",
     "serving": "bottle",
     "rating": 4.25,
-    "beer_name": "Zima 2025",
-    "brewery": "Sibeeria Brewery",
-    "beer_type": "Barleywine - English"
+    "beer_name": "Night Shift Vintage 2025 / Russian Imperial Stout Aged In Rhum And Vanilla Macadamia Rum Barrels",
+    "brewery": "HORIZONT Brewing",
+    "beer_type": "Stout - Russian Imperial"
   },
   {
     "venue": "b7-beer-house",
@@ -152552,6 +152777,15 @@ const BEER_DATA = [
     "beer_name": "Zirndorfer Kellerbier - Naturtrüb",
     "brewery": "Brauerei Zirndorf",
     "beer_type": "Kellerbier / Zwickelbier"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-06-01T10:02:56+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Eternal Struggle",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "Pale Ale - Other"
   }
 ];
 
