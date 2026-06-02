@@ -328,8 +328,8 @@ b7-beer-house,Ziv Shwartzman,"Fri, 29 May 2026 08:44:41 +0000",draft,3.75,Pilsne
 b7-beer-house,Yana O,"Fri, 29 May 2026 08:43:54 +0000",bottle,4.0,Night Shift Vintage 2025 / Russian Imperial Stout Aged In Rhum And Vanilla Macadamia Rum Barrels,HORIZONT Brewing,Stout - Russian Imperial
 b7-beer-house,גל סילברמן,"Fri, 29 May 2026 08:43:40 +0000",bottle,4.7,Experiments In the Kitchen,Mortalis Brewing Company,Stout - Imperial / Double Pastry
 b7-beer-house,Tom Lahav,"Fri, 29 May 2026 08:43:38 +0000",can,4.0,Prague Tap Room 2nd Anniversary,Sibeeria Brewery,IPA - Triple New England / Hazy
-b7-beer-house,Ziv Shwartzman,"Fri, 29 May 2026 08:42:24 +0000",draft,3.75,Prunes In Chocolate,Radionov,"Homebrew, Porter - Other"
 b7-beer-house,Tom Lahav,"Fri, 29 May 2026 08:42:24 +0000",can,3.75,"Hop Elixir: Citra, Citra Hyperboost, Citra Cryo, Citra Dynaboost",Sibeeria Brewery,IPA - Session New England / Hazy
+b7-beer-house,Ziv Shwartzman,"Fri, 29 May 2026 08:42:24 +0000",draft,3.75,Prunes In Chocolate,Radionov,"Homebrew, Porter - Other"
 b7-beer-house,Ido Cohen,"Fri, 29 May 2026 08:42:17 +0000",bottle,4.0,Night Shift Vintage 2025 / Double Chocolate Imperial Milk Porter  Aged In Bourbon Barrels,HORIZONT Brewing,Porter - Imperial / Double
 b7-beer-house,Mikhail Stolov,"Fri, 29 May 2026 08:41:47 +0000",can,3.75,"Hop Elixir: Citra, Citra Hyperboost, Citra Cryo, Citra Dynaboost",Sibeeria Brewery,IPA - Session New England / Hazy
 b7-beer-house,Ido Cohen,"Fri, 29 May 2026 08:41:42 +0000",bottle,3.9,Night Shift Vintage 2025 / Peanut Butter Jelly Imperial Pastry Stout Aged In Pedro Ximénez Sherry Barrels,HORIZONT Brewing,Stout - Imperial / Double Pastry
@@ -1071,8 +1071,8 @@ schnitt-brewing-company,Andrey Granovsky,"Fri, 08 May 2026 14:26:07 +0000",draft
 lauter,dafi20,"Fri, 08 May 2026 14:26:00 +0000",draft,3.5,Oasis,Negev Brewery (נגב),Blonde / Golden Ale - Other
 schnitt-brewing-company,Dr Troubles,"Fri, 08 May 2026 14:20:50 +0000",draft,3.25,Ice Ice Bockbier,Schnitt Brewing Company﻿,Bock - Eisbock
 b7-beer-house,Oren Hazan,"Fri, 08 May 2026 14:05:49 +0000",draft,4.0,I Love the Smell of Strata In the Morning,Sibeeria Brewery,IPA - American
-b7-beer-house,Oren Hazan,"Fri, 08 May 2026 14:05:01 +0000",draft,4.0,Helix,Equilibrium Brewery,Pilsner - German
 schnitt-brewing-company,Yoav Kowalski,"Fri, 08 May 2026 14:05:01 +0000",,3.5,Cheers Alenbeer,Schnitt Brewing Company﻿,IPA - Session
+b7-beer-house,Oren Hazan,"Fri, 08 May 2026 14:05:01 +0000",draft,4.0,Helix,Equilibrium Brewery,Pilsner - German
 b7-beer-house,Oren Hazan,"Fri, 08 May 2026 14:04:15 +0000",draft,3.75,רוביקון,New Pioneer Brewing Co - חלוץ חדש,Brown Ale - American
 schnitt-brewing-company,Yoav Kowalski,"Fri, 08 May 2026 14:04:02 +0000",draft,3.25,Ice Ice Bockbier,Schnitt Brewing Company﻿,Bock - Eisbock
 schnitt-brewing-company,Vladimir Kanevsky,"Fri, 08 May 2026 13:59:02 +0000",draft,4.0,Cheers Alenbeer,Schnitt Brewing Company﻿,IPA - Session
@@ -16975,3 +16975,12 @@ beer-station-beersheba-israel,Garry Shteinberg,"Fri, 18 Aug 2017 11:33:59 +0000"
 beer-station-beersheba-israel,Omer Basha,"Sun, 02 Jul 2017 17:37:54 +0000",,1.0,Zirndorfer Kellerbier - Naturtrüb,Brauerei Zirndorf,Kellerbier / Zwickelbier
 beer-station-beersheba-israel,Ohad Bar,"Sun, 02 Jul 2017 17:37:46 +0000",,2.5,Zirndorfer Kellerbier - Naturtrüb,Brauerei Zirndorf,Kellerbier / Zwickelbier
 schnitt-brewing-company,Sahar Baruch,"Mon, 01 Jun 2026 10:02:56 +0000",draft,3.5,Eternal Struggle,Schnitt Brewing Company﻿,Pale Ale - Other
+schnitt-brewing-company,Kfeer Blau,"Mon, 01 Jun 2026 19:41:56 +0000",draft,3.5,Frenemy,Schnitt Brewing Company﻿,Pale Ale - American
+schnitt-brewing-company,Kfeer Blau,"Mon, 01 Jun 2026 19:22:15 +0000",draft,3.75,Guava Island (גויאבה איילנד),Schnitt Brewing Company﻿,IPA - New England / Hazy
+schnitt-brewing-company,Kfeer Blau,"Mon, 01 Jun 2026 17:46:18 +0000",draft,3.75,Twist & Stout,Schnitt Brewing Company﻿,Stout - Irish Dry
+schnitt-brewing-company,Kfeer Blau,"Mon, 01 Jun 2026 16:54:54 +0000",draft,3.75,נקטרון האלים,Schnitt Brewing Company﻿,IPA - New England / Hazy
+lauter,Yaniv Gorodetsky,"Mon, 01 Jun 2026 17:28:39 +0000",draft,4.0,Elderflower,Schnitt Brewing Company﻿,Pale Ale - Other
+lauter,Yaniv Gorodetsky,"Mon, 01 Jun 2026 17:27:48 +0000",,2.75,Passiflora (פסיפלורה) - Passion Fruit Ale,Negev Brewery (נגב),Fruit Beer
+lauter,ori shuster,"Mon, 01 Jun 2026 17:08:51 +0000",draft,4.25,Pêche Jaune Tilquin - Draft Version,Gueuzerie Tilquin,Lambic - Fruit
+lauter,Yaniv Gorodetsky,"Mon, 01 Jun 2026 16:31:09 +0000",draft,4.0,Prior 8,Brouwerij St.Bernardus,Belgian Dubbel
+lauter,Yaniv Gorodetsky,"Mon, 01 Jun 2026 16:24:08 +0000",draft,3.5,Porter&Sons: Chocolate Orange,Schnitt Brewing Company﻿,Porter - Other
