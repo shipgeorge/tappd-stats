@@ -328,8 +328,8 @@ b7-beer-house,Ziv Shwartzman,"Fri, 29 May 2026 08:44:41 +0000",draft,3.75,Pilsne
 b7-beer-house,Yana O,"Fri, 29 May 2026 08:43:54 +0000",bottle,4.0,Night Shift Vintage 2025 / Russian Imperial Stout Aged In Rhum And Vanilla Macadamia Rum Barrels,HORIZONT Brewing,Stout - Russian Imperial
 b7-beer-house,גל סילברמן,"Fri, 29 May 2026 08:43:40 +0000",bottle,4.7,Experiments In the Kitchen,Mortalis Brewing Company,Stout - Imperial / Double Pastry
 b7-beer-house,Tom Lahav,"Fri, 29 May 2026 08:43:38 +0000",can,4.0,Prague Tap Room 2nd Anniversary,Sibeeria Brewery,IPA - Triple New England / Hazy
-b7-beer-house,Tom Lahav,"Fri, 29 May 2026 08:42:24 +0000",can,3.75,"Hop Elixir: Citra, Citra Hyperboost, Citra Cryo, Citra Dynaboost",Sibeeria Brewery,IPA - Session New England / Hazy
 b7-beer-house,Ziv Shwartzman,"Fri, 29 May 2026 08:42:24 +0000",draft,3.75,Prunes In Chocolate,Radionov,"Homebrew, Porter - Other"
+b7-beer-house,Tom Lahav,"Fri, 29 May 2026 08:42:24 +0000",can,3.75,"Hop Elixir: Citra, Citra Hyperboost, Citra Cryo, Citra Dynaboost",Sibeeria Brewery,IPA - Session New England / Hazy
 b7-beer-house,Ido Cohen,"Fri, 29 May 2026 08:42:17 +0000",bottle,4.0,Night Shift Vintage 2025 / Double Chocolate Imperial Milk Porter  Aged In Bourbon Barrels,HORIZONT Brewing,Porter - Imperial / Double
 b7-beer-house,Mikhail Stolov,"Fri, 29 May 2026 08:41:47 +0000",can,3.75,"Hop Elixir: Citra, Citra Hyperboost, Citra Cryo, Citra Dynaboost",Sibeeria Brewery,IPA - Session New England / Hazy
 b7-beer-house,Ido Cohen,"Fri, 29 May 2026 08:41:42 +0000",bottle,3.9,Night Shift Vintage 2025 / Peanut Butter Jelly Imperial Pastry Stout Aged In Pedro Ximénez Sherry Barrels,HORIZONT Brewing,Stout - Imperial / Double Pastry
@@ -1071,8 +1071,8 @@ schnitt-brewing-company,Andrey Granovsky,"Fri, 08 May 2026 14:26:07 +0000",draft
 lauter,dafi20,"Fri, 08 May 2026 14:26:00 +0000",draft,3.5,Oasis,Negev Brewery (נגב),Blonde / Golden Ale - Other
 schnitt-brewing-company,Dr Troubles,"Fri, 08 May 2026 14:20:50 +0000",draft,3.25,Ice Ice Bockbier,Schnitt Brewing Company﻿,Bock - Eisbock
 b7-beer-house,Oren Hazan,"Fri, 08 May 2026 14:05:49 +0000",draft,4.0,I Love the Smell of Strata In the Morning,Sibeeria Brewery,IPA - American
-schnitt-brewing-company,Yoav Kowalski,"Fri, 08 May 2026 14:05:01 +0000",,3.5,Cheers Alenbeer,Schnitt Brewing Company﻿,IPA - Session
 b7-beer-house,Oren Hazan,"Fri, 08 May 2026 14:05:01 +0000",draft,4.0,Helix,Equilibrium Brewery,Pilsner - German
+schnitt-brewing-company,Yoav Kowalski,"Fri, 08 May 2026 14:05:01 +0000",,3.5,Cheers Alenbeer,Schnitt Brewing Company﻿,IPA - Session
 b7-beer-house,Oren Hazan,"Fri, 08 May 2026 14:04:15 +0000",draft,3.75,רוביקון,New Pioneer Brewing Co - חלוץ חדש,Brown Ale - American
 schnitt-brewing-company,Yoav Kowalski,"Fri, 08 May 2026 14:04:02 +0000",draft,3.25,Ice Ice Bockbier,Schnitt Brewing Company﻿,Bock - Eisbock
 schnitt-brewing-company,Vladimir Kanevsky,"Fri, 08 May 2026 13:59:02 +0000",draft,4.0,Cheers Alenbeer,Schnitt Brewing Company﻿,IPA - Session
@@ -17191,3 +17191,26 @@ lauter,Yaron Sh,"Fri, 05 Jun 2026 13:52:13 +0000",can,4.0,Springfest,Sierra Neva
 lauter,Tomer Brisker,"Fri, 05 Jun 2026 10:21:39 +0000",,,Sloth & Lion,Schnitt Brewing Company﻿,Stout - Imperial / Double
 lauter,Tomer Brisker,"Fri, 05 Jun 2026 10:20:44 +0000",draft,,Porter&Sons: Chocolate Orange,Schnitt Brewing Company﻿,Porter - Other
 lauter,Tomer Brisker,"Fri, 05 Jun 2026 10:20:19 +0000",draft,3.5,סיידר תפוחים אלכוהולי חצי יבש,Hamatsesa (המתססה),Cider - Traditional / Apfelwein
+schnitt-brewing-company,DanNadav,"Sat, 06 Jun 2026 19:36:32 +0000",draft,3.0,Jaffa IPA,Schnitt Brewing Company﻿,IPA - American
+schnitt-brewing-company,DanNadav,"Sat, 06 Jun 2026 18:51:35 +0000",draft,4.0,Wit Win (situation),Schnitt Brewing Company﻿,Wheat Beer - Witbier / Blanche
+lauter,Hadar Ben-Yoav,"Sat, 06 Jun 2026 20:14:26 +0000",draft,4.5,IPA Craft Beer,HaGibor Brewery (מבשלת הגיבור),IPA - American
+lauter,Михаил Веселов,"Sat, 06 Jun 2026 20:03:13 +0000",draft,5.0,Twist & Stout,Schnitt Brewing Company﻿,Stout - Irish Dry
+lauter,Михаил Веселов,"Sat, 06 Jun 2026 20:02:34 +0000",draft,5.0,Porter&Sons: Chocolate Orange,Schnitt Brewing Company﻿,Porter - Other
+lauter,Hadar Ben-Yoav,"Sat, 06 Jun 2026 18:29:10 +0000",can,3.0,ששון,BeerBazaar / Mivshelet Ha’Aretz,IPA - Other
+lauter,ParkerAsaf,"Sat, 06 Jun 2026 18:23:53 +0000",can,3.5,Elderflower,Schnitt Brewing Company﻿,Pale Ale - Other
+lauter,ParkerAsaf,"Sat, 06 Jun 2026 18:21:57 +0000",can,3.75,HOPE,Schnitt Brewing Company﻿,IPA - New England / Hazy
+lauter,Hadar Ben-Yoav,"Sat, 06 Jun 2026 17:58:12 +0000",draft,2.5,Pale Ale,Sierra Nevada Brewing Co.,Pale Ale - American
+lauter,Hadar Ben-Yoav,"Sat, 06 Jun 2026 17:53:47 +0000",draft,4.0,Elderflower,Schnitt Brewing Company﻿,Pale Ale - Other
+lauter,Hadar Ben-Yoav,"Sat, 06 Jun 2026 17:45:51 +0000",draft,3.25,Prior 8,Brouwerij St.Bernardus,Belgian Dubbel
+lauter,Hadar Ben-Yoav,"Sat, 06 Jun 2026 17:42:03 +0000",draft,3.0,Tea Party: Masala,Schnitt Brewing Company﻿,Pale Ale - Other
+lauter,Hadar Ben-Yoav,"Sat, 06 Jun 2026 17:36:32 +0000",draft,4.0,La Trappe Quadrupel,Bierbrouwerij De Koningshoeven,Belgian Quadrupel
+lauter,Hadar Ben-Yoav,"Sat, 06 Jun 2026 17:34:50 +0000",can,3.5,הרמוניה,BeerBazaar / Mivshelet Ha’Aretz,IPA - American
+lauter,Afek Stein,"Sat, 06 Jun 2026 17:13:05 +0000",,3.5,Th. König Zwickl,König Brauerei,Kellerbier / Zwickelbier - Dunkel
+lauter,Omri Levy,"Sat, 06 Jun 2026 17:07:57 +0000",draft,4.3,Pêche Jaune Tilquin - Draft Version,Gueuzerie Tilquin,Lambic - Fruit
+lauter,NeriyaBeerlowitz,"Sat, 06 Jun 2026 16:34:11 +0000",can,3.25,"Yes We Can - Hazy IPA: Citra, Zibi",Maryensztadt,IPA - New England / Hazy
+lauter,NeriyaBeerlowitz,"Sat, 06 Jun 2026 16:33:42 +0000",draft,2.5,Blueberry Brioche,Schnitt Brewing Company﻿,Pale Ale - Other
+lauter,NeriyaBeerlowitz,"Sat, 06 Jun 2026 16:32:56 +0000",draft,4.0,Pêche Jaune Tilquin - Draft Version,Gueuzerie Tilquin,Lambic - Fruit
+lauter,Omri Levy,"Sat, 06 Jun 2026 16:18:35 +0000",,3.4,Th. König Zwickl,König Brauerei,Kellerbier / Zwickelbier - Dunkel
+porter-and-sons,Omri Gill,"Sat, 06 Jun 2026 14:14:06 +0000",bottle,4.5,Courvoisier VSOP Cognac,Courvoisier,Spirit - Cognac
+beerz,Kfeer Blau,"Sat, 06 Jun 2026 16:59:47 +0000",can,3.5,Journey 1100,HORIZONT Brewing,Pilsner - American
+beerline,nahman_vizi_148,"Sat, 06 Jun 2026 16:18:04 +0000",draft,2.75,Cēsu Premium Bohemian,Cēsu Alus,Lager - Tmavé (Czech Dark)
