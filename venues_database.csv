@@ -328,8 +328,8 @@ b7-beer-house,Ziv Shwartzman,"Fri, 29 May 2026 08:44:41 +0000",draft,3.75,Pilsne
 b7-beer-house,Yana O,"Fri, 29 May 2026 08:43:54 +0000",bottle,4.0,Night Shift Vintage 2025 / Russian Imperial Stout Aged In Rhum And Vanilla Macadamia Rum Barrels,HORIZONT Brewing,Stout - Russian Imperial
 b7-beer-house,גל סילברמן,"Fri, 29 May 2026 08:43:40 +0000",bottle,4.7,Experiments In the Kitchen,Mortalis Brewing Company,Stout - Imperial / Double Pastry
 b7-beer-house,Tom Lahav,"Fri, 29 May 2026 08:43:38 +0000",can,4.0,Prague Tap Room 2nd Anniversary,Sibeeria Brewery,IPA - Triple New England / Hazy
-b7-beer-house,Tom Lahav,"Fri, 29 May 2026 08:42:24 +0000",can,3.75,"Hop Elixir: Citra, Citra Hyperboost, Citra Cryo, Citra Dynaboost",Sibeeria Brewery,IPA - Session New England / Hazy
 b7-beer-house,Ziv Shwartzman,"Fri, 29 May 2026 08:42:24 +0000",draft,3.75,Prunes In Chocolate,Radionov,"Homebrew, Porter - Other"
+b7-beer-house,Tom Lahav,"Fri, 29 May 2026 08:42:24 +0000",can,3.75,"Hop Elixir: Citra, Citra Hyperboost, Citra Cryo, Citra Dynaboost",Sibeeria Brewery,IPA - Session New England / Hazy
 b7-beer-house,Ido Cohen,"Fri, 29 May 2026 08:42:17 +0000",bottle,4.0,Night Shift Vintage 2025 / Double Chocolate Imperial Milk Porter  Aged In Bourbon Barrels,HORIZONT Brewing,Porter - Imperial / Double
 b7-beer-house,Mikhail Stolov,"Fri, 29 May 2026 08:41:47 +0000",can,3.75,"Hop Elixir: Citra, Citra Hyperboost, Citra Cryo, Citra Dynaboost",Sibeeria Brewery,IPA - Session New England / Hazy
 b7-beer-house,Ido Cohen,"Fri, 29 May 2026 08:41:42 +0000",bottle,3.9,Night Shift Vintage 2025 / Peanut Butter Jelly Imperial Pastry Stout Aged In Pedro Ximénez Sherry Barrels,HORIZONT Brewing,Stout - Imperial / Double Pastry
@@ -1071,8 +1071,8 @@ schnitt-brewing-company,Andrey Granovsky,"Fri, 08 May 2026 14:26:07 +0000",draft
 lauter,dafi20,"Fri, 08 May 2026 14:26:00 +0000",draft,3.5,Oasis,Negev Brewery (נגב),Blonde / Golden Ale - Other
 schnitt-brewing-company,Dr Troubles,"Fri, 08 May 2026 14:20:50 +0000",draft,3.25,Ice Ice Bockbier,Schnitt Brewing Company﻿,Bock - Eisbock
 b7-beer-house,Oren Hazan,"Fri, 08 May 2026 14:05:49 +0000",draft,4.0,I Love the Smell of Strata In the Morning,Sibeeria Brewery,IPA - American
-schnitt-brewing-company,Yoav Kowalski,"Fri, 08 May 2026 14:05:01 +0000",,3.5,Cheers Alenbeer,Schnitt Brewing Company﻿,IPA - Session
 b7-beer-house,Oren Hazan,"Fri, 08 May 2026 14:05:01 +0000",draft,4.0,Helix,Equilibrium Brewery,Pilsner - German
+schnitt-brewing-company,Yoav Kowalski,"Fri, 08 May 2026 14:05:01 +0000",,3.5,Cheers Alenbeer,Schnitt Brewing Company﻿,IPA - Session
 b7-beer-house,Oren Hazan,"Fri, 08 May 2026 14:04:15 +0000",draft,3.75,רוביקון,New Pioneer Brewing Co - חלוץ חדש,Brown Ale - American
 schnitt-brewing-company,Yoav Kowalski,"Fri, 08 May 2026 14:04:02 +0000",draft,3.25,Ice Ice Bockbier,Schnitt Brewing Company﻿,Bock - Eisbock
 schnitt-brewing-company,Vladimir Kanevsky,"Fri, 08 May 2026 13:59:02 +0000",draft,4.0,Cheers Alenbeer,Schnitt Brewing Company﻿,IPA - Session
@@ -17467,3 +17467,29 @@ schnitt-brewing-company,Yaniv Alal,"Sat, 13 Jun 2026 09:47:01 +0000",draft,4.5,A
 berlin-florentin,BarLahav,"Sat, 13 Jun 2026 14:42:46 +0000",draft,3.0,Hobgoblin IPA,Marston's Brewery,IPA - English
 beerline,Andrey Lurie,"Sat, 13 Jun 2026 18:30:58 +0000",,4.75,Cēsu Premium Bohemian,Cēsu Alus,Lager - Tmavé (Czech Dark)
 beerline,nahman_vizi_148,"Sat, 13 Jun 2026 17:24:20 +0000",draft,3.5,Mongozo Coconut,Mongozo,Fruit Beer
+lauter,Lee Ker,"Sun, 14 Jun 2026 20:11:02 +0000",,,Vedett Extra Pilsner,Duvel Moortgat,Pilsner - Other
+lauter,Lee Ker,"Sun, 14 Jun 2026 20:10:36 +0000",,,I'll Be Bock,Schnitt Brewing Company﻿,Bock - Single / Traditional
+lauter,drinking_park,"Sun, 14 Jun 2026 20:10:30 +0000",draft,3.75,Vedett Extra Pilsner,Duvel Moortgat,Pilsner - Other
+lauter,drinking_park,"Sun, 14 Jun 2026 20:05:06 +0000",,4.0,I'll Be Bock,Schnitt Brewing Company﻿,Bock - Single / Traditional
+lauter,drinking_park,"Sun, 14 Jun 2026 20:04:14 +0000",draft,3.5,Luigi,Schnitt Brewing Company﻿,Pilsner - Italian
+lauter,Lee Ker,"Sun, 14 Jun 2026 20:03:57 +0000",,,Luigi,Schnitt Brewing Company﻿,Pilsner - Italian
+lauter,Vladislav Shumkin,"Sun, 14 Jun 2026 17:51:23 +0000",bottle,4.0,Pecheresse,Brouwerij Lindemans,Lambic - Fruit
+lauter,Олька Алхименко,"Sun, 14 Jun 2026 17:51:04 +0000",can,4.0,Mad Cow,HORIZONT Brewing,Stout - Milk / Sweet
+lauter,Vladislav Shumkin,"Sun, 14 Jun 2026 17:49:37 +0000",,3.0,Budweiser Budvar / Czechvar Original,Budějovický Budvar,Pilsner - Czech / Bohemian
+lauter,Vladislav Shumkin,"Sun, 14 Jun 2026 16:43:42 +0000",,4.0,I'll Be Bock,Schnitt Brewing Company﻿,Bock - Single / Traditional
+lauter,Олька Алхименко,"Sun, 14 Jun 2026 16:24:26 +0000",draft,3.25,Twist & Stout,Schnitt Brewing Company﻿,Stout - Irish Dry
+schnitt-brewing-company,Nathan Lachow,"Mon, 15 Jun 2026 10:09:42 +0000",draft,3.0,Cactus Sour,Schnitt Brewing Company﻿,Sour - Fruited
+schnitt-brewing-company,Sahar Baruch,"Mon, 15 Jun 2026 10:08:11 +0000",draft,2.75,Attali's Goes Med,Schnitt Brewing Company﻿,IPA - Session New England / Hazy
+schnitt-brewing-company,Yevgeny Gindin,"Mon, 15 Jun 2026 09:48:13 +0000",draft,3.5,Attali's Goes Med,Schnitt Brewing Company﻿,IPA - Session New England / Hazy
+schnitt-brewing-company,Yevgeny Gindin,"Mon, 15 Jun 2026 09:47:52 +0000",draft,4.0,Float,Schnitt Brewing Company﻿,IPA - New England / Hazy
+schnitt-brewing-company,Yevgeny Gindin,"Mon, 15 Jun 2026 09:30:20 +0000",draft,4.0,Guava Island 2026,Schnitt Brewing Company﻿,IPA - New England / Hazy
+schnitt-brewing-company,Yevgeny Gindin,"Mon, 15 Jun 2026 09:26:58 +0000",,3.5,Cheers Alenbeer,Schnitt Brewing Company﻿,IPA - Session
+schnitt-brewing-company,Yevgeny Gindin,"Mon, 15 Jun 2026 09:19:20 +0000",draft,3.75,נקטרון האלים,Schnitt Brewing Company﻿,IPA - New England / Hazy
+schnitt-brewing-company,Lee Ker,"Sun, 14 Jun 2026 20:51:46 +0000",draft,4.25,Gordi,Schnitt Brewing Company﻿,Historical Beer - Grodziskie / Grätzer
+schnitt-brewing-company,drinking_park,"Sun, 14 Jun 2026 20:51:34 +0000",draft,3.75,Gordi,Schnitt Brewing Company﻿,Historical Beer - Grodziskie / Grätzer
+schnitt-brewing-company,Yana O,"Sun, 14 Jun 2026 19:46:55 +0000",,3.75,Eternal Struggle,Schnitt Brewing Company﻿,Pale Ale - Other
+schnitt-brewing-company,Gabi David,"Sun, 14 Jun 2026 14:37:18 +0000",draft,3.75,Day Shift,Schnitt Brewing Company﻿,IPA - Session
+schnitt-brewing-company,Gabi David,"Sun, 14 Jun 2026 14:36:54 +0000",draft,4.0,Porter&Sons: Chocolate Orange,Schnitt Brewing Company﻿,Porter - Other
+schnitt-brewing-company,Gabi David,"Sun, 14 Jun 2026 14:36:32 +0000",draft,4.0,Eternal Struggle,Schnitt Brewing Company﻿,Pale Ale - Other
+schnitt-brewing-company,Gabi David,"Sun, 14 Jun 2026 14:35:56 +0000",draft,3.75,Attali's Goes Med,Schnitt Brewing Company﻿,IPA - Session New England / Hazy
+schnitt-brewing-company,Gabi David,"Sun, 14 Jun 2026 14:33:44 +0000",draft,3.5,Kashmir,Schnitt Brewing Company﻿,Lager - IPL (India Pale Lager)
