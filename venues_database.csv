@@ -328,8 +328,8 @@ b7-beer-house,Ziv Shwartzman,"Fri, 29 May 2026 08:44:41 +0000",draft,3.75,Pilsne
 b7-beer-house,Yana O,"Fri, 29 May 2026 08:43:54 +0000",bottle,4.0,Night Shift Vintage 2025 / Russian Imperial Stout Aged In Rhum And Vanilla Macadamia Rum Barrels,HORIZONT Brewing,Stout - Russian Imperial
 b7-beer-house,גל סילברמן,"Fri, 29 May 2026 08:43:40 +0000",bottle,4.7,Experiments In the Kitchen,Mortalis Brewing Company,Stout - Imperial / Double Pastry
 b7-beer-house,Tom Lahav,"Fri, 29 May 2026 08:43:38 +0000",can,4.0,Prague Tap Room 2nd Anniversary,Sibeeria Brewery,IPA - Triple New England / Hazy
-b7-beer-house,Ziv Shwartzman,"Fri, 29 May 2026 08:42:24 +0000",draft,3.75,Prunes In Chocolate,Radionov,"Homebrew, Porter - Other"
 b7-beer-house,Tom Lahav,"Fri, 29 May 2026 08:42:24 +0000",can,3.75,"Hop Elixir: Citra, Citra Hyperboost, Citra Cryo, Citra Dynaboost",Sibeeria Brewery,IPA - Session New England / Hazy
+b7-beer-house,Ziv Shwartzman,"Fri, 29 May 2026 08:42:24 +0000",draft,3.75,Prunes In Chocolate,Radionov,"Homebrew, Porter - Other"
 b7-beer-house,Ido Cohen,"Fri, 29 May 2026 08:42:17 +0000",bottle,4.0,Night Shift Vintage 2025 / Double Chocolate Imperial Milk Porter  Aged In Bourbon Barrels,HORIZONT Brewing,Porter - Imperial / Double
 b7-beer-house,Mikhail Stolov,"Fri, 29 May 2026 08:41:47 +0000",can,3.75,"Hop Elixir: Citra, Citra Hyperboost, Citra Cryo, Citra Dynaboost",Sibeeria Brewery,IPA - Session New England / Hazy
 b7-beer-house,Ido Cohen,"Fri, 29 May 2026 08:41:42 +0000",bottle,3.9,Night Shift Vintage 2025 / Peanut Butter Jelly Imperial Pastry Stout Aged In Pedro Ximénez Sherry Barrels,HORIZONT Brewing,Stout - Imperial / Double Pastry
@@ -1071,8 +1071,8 @@ schnitt-brewing-company,Andrey Granovsky,"Fri, 08 May 2026 14:26:07 +0000",draft
 lauter,dafi20,"Fri, 08 May 2026 14:26:00 +0000",draft,3.5,Oasis,Negev Brewery (נגב),Blonde / Golden Ale - Other
 schnitt-brewing-company,Dr Troubles,"Fri, 08 May 2026 14:20:50 +0000",draft,3.25,Ice Ice Bockbier,Schnitt Brewing Company﻿,Bock - Eisbock
 b7-beer-house,Oren Hazan,"Fri, 08 May 2026 14:05:49 +0000",draft,4.0,I Love the Smell of Strata In the Morning,Sibeeria Brewery,IPA - American
-b7-beer-house,Oren Hazan,"Fri, 08 May 2026 14:05:01 +0000",draft,4.0,Helix,Equilibrium Brewery,Pilsner - German
 schnitt-brewing-company,Yoav Kowalski,"Fri, 08 May 2026 14:05:01 +0000",,3.5,Cheers Alenbeer,Schnitt Brewing Company﻿,IPA - Session
+b7-beer-house,Oren Hazan,"Fri, 08 May 2026 14:05:01 +0000",draft,4.0,Helix,Equilibrium Brewery,Pilsner - German
 b7-beer-house,Oren Hazan,"Fri, 08 May 2026 14:04:15 +0000",draft,3.75,רוביקון,New Pioneer Brewing Co - חלוץ חדש,Brown Ale - American
 schnitt-brewing-company,Yoav Kowalski,"Fri, 08 May 2026 14:04:02 +0000",draft,3.25,Ice Ice Bockbier,Schnitt Brewing Company﻿,Bock - Eisbock
 schnitt-brewing-company,Vladimir Kanevsky,"Fri, 08 May 2026 13:59:02 +0000",draft,4.0,Cheers Alenbeer,Schnitt Brewing Company﻿,IPA - Session
@@ -17493,3 +17493,134 @@ schnitt-brewing-company,Gabi David,"Sun, 14 Jun 2026 14:36:54 +0000",draft,4.0,P
 schnitt-brewing-company,Gabi David,"Sun, 14 Jun 2026 14:36:32 +0000",draft,4.0,Eternal Struggle,Schnitt Brewing Company﻿,Pale Ale - Other
 schnitt-brewing-company,Gabi David,"Sun, 14 Jun 2026 14:35:56 +0000",draft,3.75,Attali's Goes Med,Schnitt Brewing Company﻿,IPA - Session New England / Hazy
 schnitt-brewing-company,Gabi David,"Sun, 14 Jun 2026 14:33:44 +0000",draft,3.5,Kashmir,Schnitt Brewing Company﻿,Lager - IPL (India Pale Lager)
+b7-beer-house,Yuval Mor,"Mon, 15 Jun 2026 22:31:31 +0000",can,3.75,Juicy Lucy 15,Pivovar ZICHOVEC,IPA - New England / Hazy
+b7-beer-house,Yuval Mor,"Mon, 15 Jun 2026 22:29:37 +0000",draft,3.5,eMCee,Equilibrium Brewery,IPA - New England / Hazy
+b7-beer-house,Dima Shleifman,"Mon, 15 Jun 2026 19:27:39 +0000",can,3.75,Lager הוצא מהקשרו,HaGibor Brewery (מבשלת הגיבור),Lager - Mexican
+schnitt-brewing-company,Nir Langer,"Tue, 16 Jun 2026 08:50:59 +0000",,,Tropic Like It's Hot,Schnitt Brewing Company﻿,IPA - New England / Hazy
+schnitt-brewing-company,Nir Langer,"Tue, 16 Jun 2026 08:50:21 +0000",,,Smokey Rosemary,Schnitt Brewing Company﻿,Historical Beer - Grodziskie / Grätzer
+schnitt-brewing-company,Nir Langer,"Tue, 16 Jun 2026 08:49:42 +0000",,,C of Hops,Schnitt Brewing Company﻿,IPA - American
+schnitt-brewing-company,Andrey Granovsky,"Mon, 15 Jun 2026 17:59:59 +0000",draft,3.75,Day Shift,Schnitt Brewing Company﻿,IPA - Session
+schnitt-brewing-company,Andrey Granovsky,"Mon, 15 Jun 2026 17:59:37 +0000",draft,3.75,Eternal Struggle,Schnitt Brewing Company﻿,Pale Ale - Other
+schnitt-brewing-company,Yosef Dahan,"Mon, 15 Jun 2026 17:47:40 +0000",draft,3.5,עכשיו מעונן 2024 It’s Cloudy Now,Schnitt Brewing Company﻿,IPA - New England / Hazy
+schnitt-brewing-company,Yosef Dahan,"Mon, 15 Jun 2026 17:46:24 +0000",draft,3.0,Attali's Goes Med,Schnitt Brewing Company﻿,IPA - Session New England / Hazy
+schnitt-brewing-company,Andrey Granovsky,"Mon, 15 Jun 2026 16:33:15 +0000",draft,3.75,HOPE,Schnitt Brewing Company﻿,IPA - New England / Hazy
+schnitt-brewing-company,Mikhail Stolov,"Mon, 15 Jun 2026 15:58:44 +0000",draft,3.25,HOPE,Schnitt Brewing Company﻿,IPA - New England / Hazy
+schnitt-brewing-company,Arthur Neaman,"Mon, 15 Jun 2026 15:17:35 +0000",bottle,4.5,Flora Speziaal,Schneeeule,Sour - Berliner Weisse
+schnitt-brewing-company,Instinct Basic,"Mon, 15 Jun 2026 15:14:14 +0000",draft,4.0,עכשיו מעונן 2024 It’s Cloudy Now,Schnitt Brewing Company﻿,IPA - New England / Hazy
+schnitt-brewing-company,Arthur Neaman,"Mon, 15 Jun 2026 14:49:32 +0000",bottle,4.5,Whiskey Porter Barrel Aged 2018,Schneeeule,Porter - Baltic
+schnitt-brewing-company,אהרן פרנס,"Mon, 15 Jun 2026 14:40:53 +0000",bottle,4.25,Pflaumetraum,Schneeeule,Sour - Berliner Weisse
+schnitt-brewing-company,Oren Gutman,"Mon, 15 Jun 2026 14:11:13 +0000",draft,3.75,Kashmir,Schnitt Brewing Company﻿,Lager - IPL (India Pale Lager)
+schnitt-brewing-company,Mikhail Stolov,"Mon, 15 Jun 2026 13:53:58 +0000",draft,2.25,Day Shift,Schnitt Brewing Company﻿,IPA - Session
+schnitt-brewing-company,Mikhail Stolov,"Mon, 15 Jun 2026 13:46:50 +0000",draft,3.0,Eternal Struggle,Schnitt Brewing Company﻿,Pale Ale - Other
+schnitt-brewing-company,Mikhail Stolov,"Mon, 15 Jun 2026 13:38:27 +0000",draft,2.0,Kashmir,Schnitt Brewing Company﻿,Lager - IPL (India Pale Lager)
+schnitt-brewing-company,Mikhail Stolov,"Mon, 15 Jun 2026 13:30:52 +0000",draft,3.5,Guava Island 2026,Schnitt Brewing Company﻿,IPA - New England / Hazy
+schnitt-brewing-company,Arthur Neaman,"Mon, 15 Jun 2026 13:29:35 +0000",draft,3.75,HOPE,Schnitt Brewing Company﻿,IPA - New England / Hazy
+schnitt-brewing-company,Arthur Neaman,"Mon, 15 Jun 2026 13:28:19 +0000",draft,3.75,Eternal Struggle,Schnitt Brewing Company﻿,Pale Ale - Other
+schnitt-brewing-company,Mikhail Stolov,"Mon, 15 Jun 2026 13:24:31 +0000",draft,3.5,Attali's Goes Med,Schnitt Brewing Company﻿,IPA - Session New England / Hazy
+schnitt-brewing-company,Arthur Neaman,"Mon, 15 Jun 2026 13:11:08 +0000",draft,3.5,Kashmir,Schnitt Brewing Company﻿,Lager - IPL (India Pale Lager)
+schnitt-brewing-company,Arthur Neaman,"Mon, 15 Jun 2026 13:10:07 +0000",draft,4.0,Attali's Goes Med,Schnitt Brewing Company﻿,IPA - Session New England / Hazy
+schnitt-brewing-company,אהרן פרנס,"Mon, 15 Jun 2026 13:07:55 +0000",draft,4.25,Attali's Goes Med,Schnitt Brewing Company﻿,IPA - Session New England / Hazy
+schnitt-brewing-company,Arthur Neaman,"Mon, 15 Jun 2026 13:04:39 +0000",draft,3.5,Guava Island 2026,Schnitt Brewing Company﻿,IPA - New England / Hazy
+lauter,Arthur Neaman,"Mon, 15 Jun 2026 19:20:49 +0000",can,3.75,Soukouss Agathe,Daddy Brew,Sour - Fruited
+lauter,Arthur Neaman,"Mon, 15 Jun 2026 19:19:56 +0000",can,3.5,Resplendent Quetzal,Beer Fontaine,Stout - Russian Imperial
+lauter,Arthur Neaman,"Mon, 15 Jun 2026 19:18:54 +0000",can,4.0,Out of Order: Dog Days of Summer,RaR Brewing,Sour - Smoothie / Pastry
+lauter,Arthur Neaman,"Mon, 15 Jun 2026 19:17:51 +0000",can,3.5,Hapukurk,Tuletorn Brewing,Sour - Tomato / Vegetable Gose
+lauter,אהרן פרנס,"Mon, 15 Jun 2026 18:33:14 +0000",can,4.25,Hapukurk,Tuletorn Brewing,Sour - Tomato / Vegetable Gose
+lauter,georgeship,"Mon, 15 Jun 2026 17:38:49 +0000",can,4.5,Void Spawn,HORIZONT Brewing,IPA - New England / Hazy
+lauter,Shmupi Koto,"Mon, 15 Jun 2026 17:07:51 +0000",bottle,4.0,Dead Aureate,Seven Island Brewery,Stout - Imperial / Double Pastry
+lauter,Tal,"Mon, 15 Jun 2026 16:45:46 +0000",bottle,4.25,Muscabella (2023),Boerenerf,Lambic - Other
+lauter,adi_zadik_2741,"Mon, 15 Jun 2026 16:45:03 +0000",bottle,4.5,Muscabella (2023),Boerenerf,Lambic - Other
+lauter,Tal,"Mon, 15 Jun 2026 16:44:45 +0000",bottle,4.5,Oude Geuze Vieille - Barrel Selection Demi-Muids (2021),Oud Beersel,Lambic - Gueuze
+lauter,NeriyaBeerlowitz,"Mon, 15 Jun 2026 16:13:13 +0000",can,4.5,Void Spawn,HORIZONT Brewing,IPA - New England / Hazy
+lauter,adi_zadik_2741,"Mon, 15 Jun 2026 16:05:53 +0000",bottle,4.25,Oude Geuze Vieille - Barrel Selection Demi-Muids (2021),Oud Beersel,Lambic - Gueuze
+lauter,NeriyaBeerlowitz,"Mon, 15 Jun 2026 15:59:26 +0000",can,3.5,Hop Me Baby,HORIZONT Brewing,IPA - Other
+lauter,georgeship,"Mon, 15 Jun 2026 15:56:49 +0000",bottle,5.0,Dead Aureate,Seven Island Brewery,Stout - Imperial / Double Pastry
+lauter,Tal,"Mon, 15 Jun 2026 15:55:46 +0000",can,4.5,Resplendent Quetzal,Beer Fontaine,Stout - Russian Imperial
+lauter,NeriyaBeerlowitz,"Mon, 15 Jun 2026 15:55:07 +0000",bottle,5.0,Dead Aureate,Seven Island Brewery,Stout - Imperial / Double Pastry
+lauter,Yosef Dahan,"Mon, 15 Jun 2026 15:54:43 +0000",bottle,4.5,Dead Aureate,Seven Island Brewery,Stout - Imperial / Double Pastry
+lauter,NeriyaBeerlowitz,"Mon, 15 Jun 2026 15:54:43 +0000",can,5.0,Out of Order: Dog Days of Summer,RaR Brewing,Sour - Smoothie / Pastry
+lauter,Yaron Sh,"Mon, 15 Jun 2026 15:54:02 +0000",can,4.25,Out of Order: Dog Days of Summer,RaR Brewing,Sour - Smoothie / Pastry
+lauter,georgeship,"Mon, 15 Jun 2026 15:53:40 +0000",can,4.75,Out of Order: Dog Days of Summer,RaR Brewing,Sour - Smoothie / Pastry
+lauter,NeriyaBeerlowitz,"Mon, 15 Jun 2026 15:53:39 +0000",can,3.0,Resplendent Quetzal,Beer Fontaine,Stout - Russian Imperial
+lauter,NeriyaBeerlowitz,"Mon, 15 Jun 2026 15:53:10 +0000",can,3.25,Soukouss Agathe,Daddy Brew,Sour - Fruited
+lauter,Yaron Sh,"Mon, 15 Jun 2026 15:53:04 +0000",bottle,4.0,Dead Aureate,Seven Island Brewery,Stout - Imperial / Double Pastry
+lauter,Mikhail Stolov,"Mon, 15 Jun 2026 15:52:58 +0000",can,4.5,Out of Order: Dog Days of Summer,RaR Brewing,Sour - Smoothie / Pastry
+lauter,NeriyaBeerlowitz,"Mon, 15 Jun 2026 15:52:42 +0000",can,2.5,Hapukurk,Tuletorn Brewing,Sour - Tomato / Vegetable Gose
+lauter,אהרן פרנס,"Mon, 15 Jun 2026 15:52:05 +0000",bottle,5.0,Dead Aureate,Seven Island Brewery,Stout - Imperial / Double Pastry
+lauter,אהרן פרנס,"Mon, 15 Jun 2026 15:51:13 +0000",can,4.5,Out of Order: Dog Days of Summer,RaR Brewing,Sour - Smoothie / Pastry
+lauter,Yaron Sh,"Mon, 15 Jun 2026 15:51:05 +0000",can,4.0,Resplendent Quetzal,Beer Fontaine,Stout - Russian Imperial
+lauter,Kobi,"Mon, 15 Jun 2026 15:50:00 +0000",,4.5,Dead Aureate,Seven Island Brewery,Stout - Imperial / Double Pastry
+lauter,Yosef Dahan,"Mon, 15 Jun 2026 15:48:53 +0000",can,3.0,Resplendent Quetzal,Beer Fontaine,Stout - Russian Imperial
+lauter,Mikhail Stolov,"Mon, 15 Jun 2026 15:48:50 +0000",can,4.25,Resplendent Quetzal,Beer Fontaine,Stout - Russian Imperial
+lauter,georgeship,"Mon, 15 Jun 2026 15:48:32 +0000",can,3.0,Resplendent Quetzal,Beer Fontaine,Stout - Russian Imperial
+lauter,אהרן פרנס,"Mon, 15 Jun 2026 15:48:30 +0000",can,4.0,Resplendent Quetzal,Beer Fontaine,Stout - Russian Imperial
+lauter,Tal,"Mon, 15 Jun 2026 15:47:45 +0000",can,3.75,Soukouss Agathe,Daddy Brew,Sour - Fruited
+lauter,Mikhail Stolov,"Mon, 15 Jun 2026 15:47:42 +0000",bottle,4.75,Dead Aureate,Seven Island Brewery,Stout - Imperial / Double Pastry
+lauter,Yaron Sh,"Mon, 15 Jun 2026 15:46:10 +0000",can,4.0,Soukouss Agathe,Daddy Brew,Sour - Fruited
+lauter,Mikhail Stolov,"Mon, 15 Jun 2026 15:45:44 +0000",can,2.5,Soukouss Agathe,Daddy Brew,Sour - Fruited
+lauter,Yosef Dahan,"Mon, 15 Jun 2026 15:45:22 +0000",can,3.25,Soukouss Agathe,Daddy Brew,Sour - Fruited
+lauter,Yaron Sh,"Mon, 15 Jun 2026 15:45:21 +0000",can,4.0,Hapukurk,Tuletorn Brewing,Sour - Tomato / Vegetable Gose
+lauter,Tal,"Mon, 15 Jun 2026 15:44:44 +0000",can,4.0,Hapukurk,Tuletorn Brewing,Sour - Tomato / Vegetable Gose
+lauter,georgeship,"Mon, 15 Jun 2026 15:44:37 +0000",can,3.25,Hapukurk,Tuletorn Brewing,Sour - Tomato / Vegetable Gose
+lauter,אהרן פרנס,"Mon, 15 Jun 2026 15:44:18 +0000",can,3.25,Soukouss Agathe,Daddy Brew,Sour - Fruited
+lauter,Kobi,"Mon, 15 Jun 2026 15:44:00 +0000",,4.2,Out of Order: Dog Days of Summer,RaR Brewing,Sour - Smoothie / Pastry
+lauter,Kobi,"Mon, 15 Jun 2026 15:43:00 +0000",,4.0,Resplendent Quetzal,Beer Fontaine,Stout - Russian Imperial
+lauter,Yosef Dahan,"Mon, 15 Jun 2026 15:42:54 +0000",can,4.0,Hapukurk,Tuletorn Brewing,Sour - Tomato / Vegetable Gose
+lauter,Kobi,"Mon, 15 Jun 2026 15:42:00 +0000",,4.2,Hapukurk,Tuletorn Brewing,Sour - Tomato / Vegetable Gose
+lauter,Yaron Sh,"Mon, 15 Jun 2026 15:36:22 +0000",draft,4.0,Ta Moko,Malka (מלכה),IPA - New Zealand
+lauter,georgeship,"Mon, 15 Jun 2026 15:34:30 +0000",bottle,4.75,Musik zur Entspannung,Schneeeule,IPA - Sour
+lauter,NeriyaBeerlowitz,"Mon, 15 Jun 2026 15:33:13 +0000",bottle,5.0,Musik zur Entspannung,Schneeeule,IPA - Sour
+lauter,Yosef Dahan,"Mon, 15 Jun 2026 15:31:21 +0000",bottle,3.75,Musik zur Entspannung,Schneeeule,IPA - Sour
+lauter,Kobi,"Mon, 15 Jun 2026 15:30:00 +0000",,4.5,Musik zur Entspannung,Schneeeule,IPA - Sour
+lauter,אהרן פרנס,"Mon, 15 Jun 2026 15:29:07 +0000",bottle,4.25,Musik zur Entspannung,Schneeeule,IPA - Sour
+lauter,adi_zadik_2741,"Mon, 15 Jun 2026 15:28:46 +0000",bottle,4.5,Musik zur Entspannung,Schneeeule,IPA - Sour
+lauter,Tal,"Mon, 15 Jun 2026 15:25:57 +0000",bottle,4.25,Flora Speziaal,Schneeeule,Sour - Berliner Weisse
+lauter,georgeship,"Mon, 15 Jun 2026 15:22:52 +0000",bottle,5.0,Flora Speziaal,Schneeeule,Sour - Berliner Weisse
+lauter,NeriyaBeerlowitz,"Mon, 15 Jun 2026 15:22:51 +0000",bottle,5.0,Flora Speziaal,Schneeeule,Sour - Berliner Weisse
+lauter,NeriyaBeerlowitz,"Mon, 15 Jun 2026 15:22:28 +0000",bottle,4.0,Meltion,Schneeeule,Sour - Berliner Weisse
+lauter,Yosef Dahan,"Mon, 15 Jun 2026 15:21:38 +0000",bottle,4.5,Flora Speziaal,Schneeeule,Sour - Berliner Weisse
+lauter,Shmupi Koto,"Mon, 15 Jun 2026 15:21:23 +0000",bottle,4.1,Flora Speziaal,Schneeeule,Sour - Berliner Weisse
+lauter,Yaron Sh,"Mon, 15 Jun 2026 15:18:33 +0000",bottle,5.0,Flora Speziaal,Schneeeule,Sour - Berliner Weisse
+lauter,Mikhail Stolov,"Mon, 15 Jun 2026 15:15:57 +0000",bottle,4.5,Flora Speziaal,Schneeeule,Sour - Berliner Weisse
+lauter,אהרן פרנס,"Mon, 15 Jun 2026 15:15:56 +0000",bottle,4.75,Flora (2020),Schneeeule,Wild Ale - Other
+lauter,adi_zadik_2741,"Mon, 15 Jun 2026 15:14:59 +0000",bottle,4.25,Flora Speziaal,Schneeeule,Sour - Berliner Weisse
+lauter,Shmupi Koto,"Mon, 15 Jun 2026 15:14:50 +0000",bottle,4.1,Meltion,Schneeeule,Sour - Berliner Weisse
+lauter,Shmupi Koto,"Mon, 15 Jun 2026 15:14:30 +0000",bottle,3.9,Whiskey Porter Barrel Aged 2018,Schneeeule,Porter - Baltic
+lauter,Shmupi Koto,"Mon, 15 Jun 2026 15:14:05 +0000",bottle,4.1,Pflaumetraum,Schneeeule,Sour - Berliner Weisse
+lauter,Kobi,"Mon, 15 Jun 2026 15:13:00 +0000",,4.7,Flora Speziaal,Schneeeule,Sour - Berliner Weisse
+lauter,Tal,"Mon, 15 Jun 2026 15:09:29 +0000",bottle,4.5,Meltion,Schneeeule,Sour - Berliner Weisse
+lauter,georgeship,"Mon, 15 Jun 2026 15:08:13 +0000",bottle,4.5,Meltion,Schneeeule,Sour - Berliner Weisse
+lauter,Yaron Sh,"Mon, 15 Jun 2026 15:04:22 +0000",bottle,4.5,Meltion,Schneeeule,Sour - Berliner Weisse
+lauter,NeriyaBeerlowitz,"Mon, 15 Jun 2026 15:02:46 +0000",bottle,5.0,Whiskey Porter Barrel Aged 2018,Schneeeule,Porter - Baltic
+lauter,oriel38,"Mon, 15 Jun 2026 15:02:44 +0000",bottle,4.75,Meltion,Schneeeule,Sour - Berliner Weisse
+lauter,Yosef Dahan,"Mon, 15 Jun 2026 15:02:31 +0000",bottle,4.0,Meltion,Schneeeule,Sour - Berliner Weisse
+lauter,Arthur Neaman,"Mon, 15 Jun 2026 15:01:39 +0000",bottle,4.5,Meltion,Schneeeule,Sour - Berliner Weisse
+lauter,Mikhail Stolov,"Mon, 15 Jun 2026 15:00:44 +0000",bottle,3.75,Meltion,Schneeeule,Sour - Berliner Weisse
+lauter,אהרן פרנס,"Mon, 15 Jun 2026 14:59:26 +0000",bottle,4.5,Meltion,Schneeeule,Sour - Berliner Weisse
+lauter,adi_zadik_2741,"Mon, 15 Jun 2026 14:59:10 +0000",bottle,4.75,Meltion,Schneeeule,Sour - Berliner Weisse
+lauter,אהרן פרנס,"Mon, 15 Jun 2026 14:51:38 +0000",bottle,4.5,Whiskey Porter Barrel Aged 2018,Schneeeule,Porter - Baltic
+lauter,Tal,"Mon, 15 Jun 2026 14:51:07 +0000",bottle,4.5,Whiskey Porter Barrel Aged 2018,Schneeeule,Porter - Baltic
+lauter,Arthur Neaman,"Mon, 15 Jun 2026 14:51:00 +0000",draft,3.75,Sab Kuch Milaga,Schnitt Brewing Company﻿,Lager - IPL (India Pale Lager)
+lauter,georgeship,"Mon, 15 Jun 2026 14:50:40 +0000",bottle,5.0,Whiskey Porter Barrel Aged 2018,Schneeeule,Porter - Baltic
+lauter,adi_zadik_2741,"Mon, 15 Jun 2026 14:50:26 +0000",bottle,4.25,Whiskey Porter (2018),Schneeeule,Porter - Other
+lauter,Yosef Dahan,"Mon, 15 Jun 2026 14:50:20 +0000",bottle,4.0,Whiskey Porter Barrel Aged 2018,Schneeeule,Porter - Baltic
+lauter,Yaron Sh,"Mon, 15 Jun 2026 14:48:02 +0000",bottle,4.0,Whiskey Porter Barrel Aged 2018,Schneeeule,Porter - Baltic
+lauter,Mikhail Stolov,"Mon, 15 Jun 2026 14:46:57 +0000",bottle,4.25,Whiskey Porter Barrel Aged 2018,Schneeeule,Porter - Baltic
+lauter,oriel38,"Mon, 15 Jun 2026 14:43:54 +0000",bottle,4.25,Pflaumetraum,Schneeeule,Sour - Berliner Weisse
+lauter,Kobi,"Mon, 15 Jun 2026 14:41:00 +0000",,4.5,Meltion,Schneeeule,Sour - Berliner Weisse
+lauter,Kobi,"Mon, 15 Jun 2026 14:40:00 +0000",,4.4,Whiskey Porter Barrel Aged 2018,Schneeeule,Porter - Baltic
+lauter,NeriyaBeerlowitz,"Mon, 15 Jun 2026 14:39:08 +0000",bottle,4.0,Pflaumetraum,Schneeeule,Sour - Berliner Weisse
+lauter,Tal,"Mon, 15 Jun 2026 14:38:28 +0000",bottle,4.5,Pflaumetraum,Schneeeule,Sour - Berliner Weisse
+lauter,Kobi,"Mon, 15 Jun 2026 14:38:00 +0000",,4.2,Pflaumetraum,Schneeeule,Sour - Berliner Weisse
+lauter,adi_zadik_2741,"Mon, 15 Jun 2026 14:37:28 +0000",bottle,4.5,Pflaumetraum,Schneeeule,Sour - Berliner Weisse
+lauter,georgeship,"Mon, 15 Jun 2026 14:36:53 +0000",bottle,4.5,Pflaumetraum,Schneeeule,Sour - Berliner Weisse
+lauter,Arthur Neaman,"Mon, 15 Jun 2026 14:34:23 +0000",bottle,3.75,Pflaumetraum,Schneeeule,Sour - Berliner Weisse
+lauter,Yosef Dahan,"Mon, 15 Jun 2026 14:32:21 +0000",bottle,3.75,Pflaumetraum,Schneeeule,Sour - Berliner Weisse
+lauter,Tal,"Mon, 15 Jun 2026 14:31:26 +0000",draft,3.75,Blueberry Brioche,Schnitt Brewing Company﻿,Pale Ale - Other
+lauter,Mikhail Stolov,"Mon, 15 Jun 2026 14:30:23 +0000",bottle,3.5,Pflaumetraum,Schneeeule,Sour - Berliner Weisse
+lauter,Yosef Dahan,"Mon, 15 Jun 2026 14:28:43 +0000",draft,3.5,Blueberry Brioche,Schnitt Brewing Company﻿,Pale Ale - Other
+lauter,adi_zadik_2741,"Mon, 15 Jun 2026 14:20:42 +0000",can,3.25,Pilot #53 Hopfen 1019,BrewDog Deutschland,Red Ale - Other
+lauter,Yosef Dahan,"Mon, 15 Jun 2026 14:14:39 +0000",draft,4.0,Pêche Jaune Tilquin - Draft Version,Gueuzerie Tilquin,Lambic - Fruit
+lauter,oriel38,"Mon, 15 Jun 2026 13:51:17 +0000",draft,4.5,Pêche Jaune Tilquin - Draft Version,Gueuzerie Tilquin,Lambic - Fruit
+lauter,Arthur Neaman,"Mon, 15 Jun 2026 13:50:48 +0000",draft,4.75,Pêche Jaune Tilquin - Draft Version,Gueuzerie Tilquin,Lambic - Fruit
+beerline,Dan A,"Mon, 15 Jun 2026 17:42:14 +0000",draft,,Mongozo Coconut,Mongozo,Fruit Beer
