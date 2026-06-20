@@ -328,8 +328,8 @@ b7-beer-house,Ziv Shwartzman,"Fri, 29 May 2026 08:44:41 +0000",draft,3.75,Pilsne
 b7-beer-house,Yana O,"Fri, 29 May 2026 08:43:54 +0000",bottle,4.0,Night Shift Vintage 2025 / Russian Imperial Stout Aged In Rhum And Vanilla Macadamia Rum Barrels,HORIZONT Brewing,Stout - Russian Imperial
 b7-beer-house,גל סילברמן,"Fri, 29 May 2026 08:43:40 +0000",bottle,4.7,Experiments In the Kitchen,Mortalis Brewing Company,Stout - Imperial / Double Pastry
 b7-beer-house,Tom Lahav,"Fri, 29 May 2026 08:43:38 +0000",can,4.0,Prague Tap Room 2nd Anniversary,Sibeeria Brewery,IPA - Triple New England / Hazy
-b7-beer-house,Ziv Shwartzman,"Fri, 29 May 2026 08:42:24 +0000",draft,3.75,Prunes In Chocolate,Radionov,"Homebrew, Porter - Other"
 b7-beer-house,Tom Lahav,"Fri, 29 May 2026 08:42:24 +0000",can,3.75,"Hop Elixir: Citra, Citra Hyperboost, Citra Cryo, Citra Dynaboost",Sibeeria Brewery,IPA - Session New England / Hazy
+b7-beer-house,Ziv Shwartzman,"Fri, 29 May 2026 08:42:24 +0000",draft,3.75,Prunes In Chocolate,Radionov,"Homebrew, Porter - Other"
 b7-beer-house,Ido Cohen,"Fri, 29 May 2026 08:42:17 +0000",bottle,4.0,Night Shift Vintage 2025 / Double Chocolate Imperial Milk Porter  Aged In Bourbon Barrels,HORIZONT Brewing,Porter - Imperial / Double
 b7-beer-house,Mikhail Stolov,"Fri, 29 May 2026 08:41:47 +0000",can,3.75,"Hop Elixir: Citra, Citra Hyperboost, Citra Cryo, Citra Dynaboost",Sibeeria Brewery,IPA - Session New England / Hazy
 b7-beer-house,Ido Cohen,"Fri, 29 May 2026 08:41:42 +0000",bottle,3.9,Night Shift Vintage 2025 / Peanut Butter Jelly Imperial Pastry Stout Aged In Pedro Ximénez Sherry Barrels,HORIZONT Brewing,Stout - Imperial / Double Pastry
@@ -1071,8 +1071,8 @@ schnitt-brewing-company,Andrey Granovsky,"Fri, 08 May 2026 14:26:07 +0000",draft
 lauter,dafi20,"Fri, 08 May 2026 14:26:00 +0000",draft,3.5,Oasis,Negev Brewery (נגב),Blonde / Golden Ale - Other
 schnitt-brewing-company,Dr Troubles,"Fri, 08 May 2026 14:20:50 +0000",draft,3.25,Ice Ice Bockbier,Schnitt Brewing Company﻿,Bock - Eisbock
 b7-beer-house,Oren Hazan,"Fri, 08 May 2026 14:05:49 +0000",draft,4.0,I Love the Smell of Strata In the Morning,Sibeeria Brewery,IPA - American
-b7-beer-house,Oren Hazan,"Fri, 08 May 2026 14:05:01 +0000",draft,4.0,Helix,Equilibrium Brewery,Pilsner - German
 schnitt-brewing-company,Yoav Kowalski,"Fri, 08 May 2026 14:05:01 +0000",,3.5,Cheers Alenbeer,Schnitt Brewing Company﻿,IPA - Session
+b7-beer-house,Oren Hazan,"Fri, 08 May 2026 14:05:01 +0000",draft,4.0,Helix,Equilibrium Brewery,Pilsner - German
 b7-beer-house,Oren Hazan,"Fri, 08 May 2026 14:04:15 +0000",draft,3.75,רוביקון,New Pioneer Brewing Co - חלוץ חדש,Brown Ale - American
 schnitt-brewing-company,Yoav Kowalski,"Fri, 08 May 2026 14:04:02 +0000",draft,3.25,Ice Ice Bockbier,Schnitt Brewing Company﻿,Bock - Eisbock
 schnitt-brewing-company,Vladimir Kanevsky,"Fri, 08 May 2026 13:59:02 +0000",draft,4.0,Cheers Alenbeer,Schnitt Brewing Company﻿,IPA - Session
@@ -17725,3 +17725,61 @@ b7-beer-house,Joseph,"Thu, 18 Jun 2026 19:31:33 +0000",can,4.25,Pineapple X Red 
 b7-beer-house,Natalia Ya,"Thu, 18 Jun 2026 19:29:05 +0000",can,4.5,Mango X Pineapple X Banana Extra Ice Cream Smoothie Sour Ale,Ārpus Brewing Co.,Sour - Smoothie / Pastry
 b7-beer-house,Martin Sampson,"Thu, 18 Jun 2026 18:01:48 +0000",can,,Ārpus X Pinta Baltic Porter,Ārpus Brewing Co.,Porter - Baltic
 beerbazaar-brewery,Oren Sela,"Fri, 19 Jun 2026 10:00:27 +0000",draft,3.75,Bhindi IPA,BeerBazaar / Mivshelet Ha’Aretz,IPA - American
+schnitt-brewing-company,Afek Stein,"Fri, 19 Jun 2026 13:21:31 +0000",,3.5,Attali's Goes Med,Schnitt Brewing Company﻿,IPA - Session New England / Hazy
+schnitt-brewing-company,Omri Levy,"Fri, 19 Jun 2026 13:08:09 +0000",,3.6,Attali's Goes Med,Schnitt Brewing Company﻿,IPA - Session New England / Hazy
+schnitt-brewing-company,Yaron Sh,"Fri, 19 Jun 2026 13:00:48 +0000",draft,4.0,Smokey Rosemary,Schnitt Brewing Company﻿,Historical Beer - Grodziskie / Grätzer
+schnitt-brewing-company,Oren Sleepwalker,"Fri, 19 Jun 2026 12:56:36 +0000",bottle,,CHATRI IPA,Full Moon Brewworks,IPA - Session
+schnitt-brewing-company,Oren Sleepwalker,"Fri, 19 Jun 2026 12:20:40 +0000",,,Blueberry Brioche,Schnitt Brewing Company﻿,Pale Ale - Other
+b7-beer-house,Natalia Ya,"Fri, 19 Jun 2026 12:53:28 +0000",can,5.0,Hydra | Peach + Peach + Peach,Mortalis Brewing Company,Sour - Smoothie / Pastry
+b7-beer-house,Natalia Ya,"Fri, 19 Jun 2026 12:51:49 +0000",can,4.75,Hydra | Passion Fruit + Tangerine + Pink Guava,Mortalis Brewing Company,Sour - Smoothie / Pastry
+b7-beer-house,Yuval Lutski,"Fri, 19 Jun 2026 12:23:22 +0000",can,4.0,Hydra | Peach + Peach + Peach,Mortalis Brewing Company,Sour - Smoothie / Pastry
+b7-beer-house,Yuval Lutski,"Fri, 19 Jun 2026 12:22:18 +0000",can,4.0,Winter Affair Gossip: Vogelsang,Pivovar ZICHOVEC,Sour - Smoothie / Pastry
+b7-beer-house,Joseph,"Fri, 19 Jun 2026 11:47:20 +0000",,4.5,Winter Affair Gossip: Vogelsang,Pivovar ZICHOVEC,Sour - Smoothie / Pastry
+b7-beer-house,Joseph,"Fri, 19 Jun 2026 11:33:36 +0000",can,4.25,Hydra | Peach + Peach + Peach,Mortalis Brewing Company,Sour - Smoothie / Pastry
+b7-beer-house,Maxim Shain,"Fri, 19 Jun 2026 11:31:03 +0000",,3.75,Robin 12,Pivovar ZICHOVEC,Pale Ale - American
+b7-beer-house,Joseph,"Fri, 19 Jun 2026 11:20:52 +0000",,4.5,Hydra | Passion Fruit + Tangerine + Pink Guava,Mortalis Brewing Company,Sour - Smoothie / Pastry
+b7-beer-house,Joseph,"Fri, 19 Jun 2026 11:12:22 +0000",can,4.25,Siren | Blackberry + Raspberry,Mortalis Brewing Company,Sour - Smoothie / Pastry
+b7-beer-house,Mark Markov,"Fri, 19 Jun 2026 11:06:08 +0000",can,4.75,Hydra | Peach + Blueberry + Strawberry,Mortalis Brewing Company,Sour - Smoothie / Pastry
+b7-beer-house,Maxim Y,"Fri, 19 Jun 2026 11:04:17 +0000",can,4.75,Hydra | Peach + Blueberry + Strawberry,Mortalis Brewing Company,Sour - Smoothie / Pastry
+porter-and-sons,Adam Berelowitz,"Fri, 19 Jun 2026 18:33:53 +0000",draft,4.25,Tucher Pils,Tucher Bräu,Pilsner - German
+porter-and-sons,Arbel Teitelbaum,"Fri, 19 Jun 2026 18:02:47 +0000",draft,4.5,Lazy Bee Hibiscus And Raspberries,Schnitt Brewing Company﻿,Mead - Session / Short
+ursa,Amit Ben Hain,"Fri, 19 Jun 2026 19:19:32 +0000",can,4.25,Shoreline,Nepo Brewing,IPA - American
+lauter,גל סילברמן,"Fri, 19 Jun 2026 21:52:20 +0000",can,3.6,Black Oat 20,Pivovar ZICHOVEC,Stout - Imperial / Double Oatmeal
+lauter,גל סילברמן,"Fri, 19 Jun 2026 21:50:32 +0000",draft,3.2,Green (גרין),Alexander (אלכסנדר),IPA - American
+lauter,גל סילברמן,"Fri, 19 Jun 2026 21:49:41 +0000",draft,3.0,Tucher Kellerbier,Tucher Bräu,Kellerbier / Zwickelbier
+lauter,גל סילברמן,"Fri, 19 Jun 2026 21:48:50 +0000",draft,2.5,Blonde (בלונד),Alexander (אלכסנדר),Blonde / Golden Ale - Other
+lauter,einavushlan,"Fri, 19 Jun 2026 20:25:02 +0000",can,4.5,Maple X Coffee X Chocolate X Peanut Butter Imperial Stout,Ārpus Brewing Co.,Stout - Imperial / Double Pastry
+lauter,Nir Langer,"Fri, 19 Jun 2026 20:05:59 +0000",can,4.25,Maple X Coffee X Chocolate X Peanut Butter Imperial Stout,Ārpus Brewing Co.,Stout - Imperial / Double Pastry
+lauter,Stas Pruchansky,"Fri, 19 Jun 2026 19:58:16 +0000",can,4.3,Pineapple X Red Currant X Peach X Red Grapes X Almond Smoothie Sour Ale,Ārpus Brewing Co.,Sour - Smoothie / Pastry
+lauter,Adam Berelowitz,"Fri, 19 Jun 2026 19:21:47 +0000",can,4.25,Maple X Coffee X Chocolate X Peanut Butter Imperial Stout,Ārpus Brewing Co.,Stout - Imperial / Double Pastry
+lauter,Adam Berelowitz,"Fri, 19 Jun 2026 18:48:31 +0000",can,4.5,8 Year Anniversary Tropical Smoothie Sour Ale,Ārpus Brewing Co.,Sour - Smoothie / Pastry
+lauter,einavushlan,"Fri, 19 Jun 2026 18:48:01 +0000",can,5.0,8 Year Anniversary Tropical Smoothie Sour Ale,Ārpus Brewing Co.,Sour - Smoothie / Pastry
+lauter,Nir Langer,"Fri, 19 Jun 2026 18:47:27 +0000",can,3.5,SAYPLAY Cold IPA - Low Carb,Full Moon Brewworks,IPA - Cold
+lauter,Nir Langer,"Fri, 19 Jun 2026 18:39:51 +0000",can,4.0,8 Year Anniversary Tropical Smoothie Sour Ale,Ārpus Brewing Co.,Sour - Smoothie / Pastry
+lauter,Stas Pruchansky,"Fri, 19 Jun 2026 18:29:42 +0000",,3.8,Porter&Sons: Chocolate Orange,Schnitt Brewing Company﻿,Porter - Other
+lauter,Stas Pruchansky,"Fri, 19 Jun 2026 18:25:34 +0000",,3.7,Blueberry Brioche,Schnitt Brewing Company﻿,Pale Ale - Other
+lauter,Nir Langer,"Fri, 19 Jun 2026 18:23:01 +0000",can,4.0,TDH Mosaic X Superdelic DIPA,Ārpus Brewing Co.,IPA - Imperial / Double New England / Hazy
+lauter,Stas Pruchansky,"Fri, 19 Jun 2026 18:22:58 +0000",,3.6,El Hombre,Schnitt Brewing Company﻿,Lager - Mexican
+lauter,Stas Pruchansky,"Fri, 19 Jun 2026 18:18:59 +0000",,3.7,Elderflower,Schnitt Brewing Company﻿,Pale Ale - Other
+lauter,Stas Pruchansky,"Fri, 19 Jun 2026 18:15:52 +0000",,3.8,פטריוט Ipa,קישקשתא (Kishkashta),IPA - American
+lauter,Nir Langer,"Fri, 19 Jun 2026 18:13:55 +0000",can,3.5,Red Sour,Lubrow Brewery,Sour - Fruited
+lauter,Nir Langer,"Fri, 19 Jun 2026 17:56:55 +0000",can,4.25,Ārpus X Pinta Baltic Porter,Ārpus Brewing Co.,Porter - Baltic
+lauter,einavushlan,"Fri, 19 Jun 2026 17:56:43 +0000",can,4.0,Black Oat 20,Pivovar ZICHOVEC,Stout - Imperial / Double Oatmeal
+lauter,einavushlan,"Fri, 19 Jun 2026 17:54:42 +0000",can,3.5,Sour Strawberry And Guava 12,Pivovar ZICHOVEC,Sour - Fruited
+lauter,Arthur Neaman,"Fri, 19 Jun 2026 17:53:46 +0000",can,3.5,זהב שחור,New Pioneer Brewing Co - חלוץ חדש,Porter - American
+lauter,Adam Berelowitz,"Fri, 19 Jun 2026 17:53:31 +0000",can,4.0,Ārpus X Pinta Baltic Porter,Ārpus Brewing Co.,Porter - Baltic
+lauter,Nir Langer,"Fri, 19 Jun 2026 17:48:55 +0000",can,4.25,Black Oat 20,Pivovar ZICHOVEC,Stout - Imperial / Double Oatmeal
+lauter,Kelly Inbar,"Fri, 19 Jun 2026 17:48:31 +0000",can,4.0,Pineapple X Red Currant X Peach X Red Grapes X Almond Smoothie Sour Ale,Ārpus Brewing Co.,Sour - Smoothie / Pastry
+lauter,Nir Langer,"Fri, 19 Jun 2026 17:48:23 +0000",can,4.0,Pineapple X Red Currant X Peach X Red Grapes X Almond Smoothie Sour Ale,Ārpus Brewing Co.,Sour - Smoothie / Pastry
+lauter,Kelly Inbar,"Fri, 19 Jun 2026 17:45:29 +0000",can,4.25,Black Oat 20,Pivovar ZICHOVEC,Stout - Imperial / Double Oatmeal
+lauter,Adam Berelowitz,"Fri, 19 Jun 2026 17:37:20 +0000",can,3.75,Black Oat 20,Pivovar ZICHOVEC,Stout - Imperial / Double Oatmeal
+lauter,Adam Berelowitz,"Fri, 19 Jun 2026 17:36:26 +0000",can,3.75,Sour Strawberry And Guava 12,Pivovar ZICHOVEC,Sour - Fruited
+lauter,Kelly Inbar,"Fri, 19 Jun 2026 17:34:12 +0000",can,4.0,Sour Strawberry And Guava 12,Pivovar ZICHOVEC,Sour - Fruited
+lauter,Nir Langer,"Fri, 19 Jun 2026 17:34:10 +0000",can,3.75,Sour Strawberry And Guava 12,Pivovar ZICHOVEC,Sour - Fruited
+lauter,Kelly Inbar,"Fri, 19 Jun 2026 17:30:22 +0000",can,3.75,Robin 12,Pivovar ZICHOVEC,Pale Ale - American
+lauter,Adam Berelowitz,"Fri, 19 Jun 2026 17:28:53 +0000",can,4.0,Robin 12,Pivovar ZICHOVEC,Pale Ale - American
+lauter,Nir Langer,"Fri, 19 Jun 2026 17:28:47 +0000",can,4.0,Robin 12,Pivovar ZICHOVEC,Pale Ale - American
+lauter,Ori Pemper,"Fri, 19 Jun 2026 13:52:02 +0000",draft,4.0,Abricot Tilquin - Draft Version,Gueuzerie Tilquin,Lambic - Fruit
+lauter,Yaron Sh,"Fri, 19 Jun 2026 12:58:07 +0000",bottle,3.75,CHATRI IPA,Full Moon Brewworks,IPA - Session
+lauter,Oren Sleepwalker,"Fri, 19 Jun 2026 12:29:39 +0000",,,Abricot Tilquin - Draft Version,Gueuzerie Tilquin,Lambic - Fruit
+lauter,Slava Gvantmakher,"Fri, 19 Jun 2026 11:30:41 +0000",draft,3.25,Luigi,Schnitt Brewing Company﻿,Pilsner - Italian
