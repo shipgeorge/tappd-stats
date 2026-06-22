@@ -328,8 +328,8 @@ b7-beer-house,Ziv Shwartzman,"Fri, 29 May 2026 08:44:41 +0000",draft,3.75,Pilsne
 b7-beer-house,Yana O,"Fri, 29 May 2026 08:43:54 +0000",bottle,4.0,Night Shift Vintage 2025 / Russian Imperial Stout Aged In Rhum And Vanilla Macadamia Rum Barrels,HORIZONT Brewing,Stout - Russian Imperial
 b7-beer-house,גל סילברמן,"Fri, 29 May 2026 08:43:40 +0000",bottle,4.7,Experiments In the Kitchen,Mortalis Brewing Company,Stout - Imperial / Double Pastry
 b7-beer-house,Tom Lahav,"Fri, 29 May 2026 08:43:38 +0000",can,4.0,Prague Tap Room 2nd Anniversary,Sibeeria Brewery,IPA - Triple New England / Hazy
-b7-beer-house,Ziv Shwartzman,"Fri, 29 May 2026 08:42:24 +0000",draft,3.75,Prunes In Chocolate,Radionov,"Homebrew, Porter - Other"
 b7-beer-house,Tom Lahav,"Fri, 29 May 2026 08:42:24 +0000",can,3.75,"Hop Elixir: Citra, Citra Hyperboost, Citra Cryo, Citra Dynaboost",Sibeeria Brewery,IPA - Session New England / Hazy
+b7-beer-house,Ziv Shwartzman,"Fri, 29 May 2026 08:42:24 +0000",draft,3.75,Prunes In Chocolate,Radionov,"Homebrew, Porter - Other"
 b7-beer-house,Ido Cohen,"Fri, 29 May 2026 08:42:17 +0000",bottle,4.0,Night Shift Vintage 2025 / Double Chocolate Imperial Milk Porter  Aged In Bourbon Barrels,HORIZONT Brewing,Porter - Imperial / Double
 b7-beer-house,Mikhail Stolov,"Fri, 29 May 2026 08:41:47 +0000",can,3.75,"Hop Elixir: Citra, Citra Hyperboost, Citra Cryo, Citra Dynaboost",Sibeeria Brewery,IPA - Session New England / Hazy
 b7-beer-house,Ido Cohen,"Fri, 29 May 2026 08:41:42 +0000",bottle,3.9,Night Shift Vintage 2025 / Peanut Butter Jelly Imperial Pastry Stout Aged In Pedro Ximénez Sherry Barrels,HORIZONT Brewing,Stout - Imperial / Double Pastry
@@ -1071,8 +1071,8 @@ schnitt-brewing-company,Andrey Granovsky,"Fri, 08 May 2026 14:26:07 +0000",draft
 lauter,dafi20,"Fri, 08 May 2026 14:26:00 +0000",draft,3.5,Oasis,Negev Brewery (נגב),Blonde / Golden Ale - Other
 schnitt-brewing-company,Dr Troubles,"Fri, 08 May 2026 14:20:50 +0000",draft,3.25,Ice Ice Bockbier,Schnitt Brewing Company﻿,Bock - Eisbock
 b7-beer-house,Oren Hazan,"Fri, 08 May 2026 14:05:49 +0000",draft,4.0,I Love the Smell of Strata In the Morning,Sibeeria Brewery,IPA - American
-b7-beer-house,Oren Hazan,"Fri, 08 May 2026 14:05:01 +0000",draft,4.0,Helix,Equilibrium Brewery,Pilsner - German
 schnitt-brewing-company,Yoav Kowalski,"Fri, 08 May 2026 14:05:01 +0000",,3.5,Cheers Alenbeer,Schnitt Brewing Company﻿,IPA - Session
+b7-beer-house,Oren Hazan,"Fri, 08 May 2026 14:05:01 +0000",draft,4.0,Helix,Equilibrium Brewery,Pilsner - German
 b7-beer-house,Oren Hazan,"Fri, 08 May 2026 14:04:15 +0000",draft,3.75,רוביקון,New Pioneer Brewing Co - חלוץ חדש,Brown Ale - American
 schnitt-brewing-company,Yoav Kowalski,"Fri, 08 May 2026 14:04:02 +0000",draft,3.25,Ice Ice Bockbier,Schnitt Brewing Company﻿,Bock - Eisbock
 schnitt-brewing-company,Vladimir Kanevsky,"Fri, 08 May 2026 13:59:02 +0000",draft,4.0,Cheers Alenbeer,Schnitt Brewing Company﻿,IPA - Session
@@ -17810,3 +17810,29 @@ lauter,Omri Levy,"Sat, 20 Jun 2026 16:05:47 +0000",draft,3.4,Tucher Kellerbier,T
 beerz,Ilya Markovsky,"Sat, 20 Jun 2026 19:37:34 +0000",can,3.9,Sour Strawberry And Guava 12,Pivovar ZICHOVEC,Sour - Fruited
 beer-station-beersheba-israel,AlxR11,"Sat, 20 Jun 2026 16:23:57 +0000",,5.0,Lidski bread kvass (Квас Лидский Хлебный),Lidskae Piva (Лідскае Піва),Kvass
 beer-station-beersheba-israel,Evgeniy Rovner,"Sat, 20 Jun 2026 16:11:10 +0000",draft,3.5,Pivni Babicka,Konrad Brauereischänke,Lager - Other
+lauter,Lee Ker,"Sun, 21 Jun 2026 19:40:12 +0000",can,,Maple X Coffee X Chocolate X Peanut Butter Imperial Stout,Ārpus Brewing Co.,Stout - Imperial / Double Pastry
+lauter,drinking_park,"Sun, 21 Jun 2026 19:40:12 +0000",bottle,,Forever Brewing King's,Волинський бровар,Lager - Vienna
+lauter,drinking_park,"Sun, 21 Jun 2026 19:38:48 +0000",can,,Maple X Coffee X Chocolate X Peanut Butter Imperial Stout,Ārpus Brewing Co.,Stout - Imperial / Double Pastry
+lauter,Lee Ker,"Sun, 21 Jun 2026 19:37:26 +0000",bottle,,Forever Brewing King's,Волинський бровар,Lager - Vienna
+lauter,drinking_park,"Sun, 21 Jun 2026 19:05:33 +0000",bottle,3.5,Helles Schlenkerla Lagerbier,"Schlenkerla (""Heller-Bräu"" Trum)",Lager - Helles
+lauter,Lee Ker,"Sun, 21 Jun 2026 18:44:40 +0000",can,,Lager Like It Used To Be - München Edition,Lubrow Brewery,Lager - Helles
+lauter,Lee Ker,"Sun, 21 Jun 2026 18:43:33 +0000",bottle,,Helles Schlenkerla Lagerbier,"Schlenkerla (""Heller-Bräu"" Trum)",Lager - Helles
+lauter,drinking_park,"Sun, 21 Jun 2026 18:42:44 +0000",can,3.75,Lager Like It Used To Be - München Edition,Lubrow Brewery,Lager - Helles
+lauter,Yaniv Alal,"Sun, 21 Jun 2026 15:32:13 +0000",draft,4.0,פטריוט Ipa,קישקשתא (Kishkashta),IPA - American
+lauter,Yaniv Alal,"Sun, 21 Jun 2026 15:12:45 +0000",draft,3.5,El Hombre,Schnitt Brewing Company﻿,Lager - Mexican
+schnitt-brewing-company,Marcelo Bez,"Mon, 22 Jun 2026 12:02:09 +0000",draft,3.75,C of Hops,Schnitt Brewing Company﻿,IPA - American
+schnitt-brewing-company,Josh Link,"Sun, 21 Jun 2026 19:31:36 +0000",,3.75,Porter & Sons Salted Caramel 2024,Schnitt Brewing Company﻿,Porter - Other
+schnitt-brewing-company,Josh Link,"Sun, 21 Jun 2026 18:38:10 +0000",,3.75,Porter & Sons Salted Caramel 2024,Schnitt Brewing Company﻿,Porter - Other
+schnitt-brewing-company,drinking_park,"Sun, 21 Jun 2026 17:52:26 +0000",draft,,Orange  Blossom,Schnitt Brewing Company﻿,Pale Ale - Other
+schnitt-brewing-company,drinking_park,"Sun, 21 Jun 2026 17:51:39 +0000",draft,4.0,Twist & Stout,Schnitt Brewing Company﻿,Stout - Irish Dry
+schnitt-brewing-company,Lee Ker,"Sun, 21 Jun 2026 17:51:09 +0000",,,Orange  Blossom,Schnitt Brewing Company﻿,Pale Ale - Other
+schnitt-brewing-company,Lee Ker,"Sun, 21 Jun 2026 17:50:01 +0000",,,Twist & Stout,Schnitt Brewing Company﻿,Stout - Irish Dry
+schnitt-brewing-company,drinking_park,"Sun, 21 Jun 2026 17:41:54 +0000",draft,3.75,Gordi,Schnitt Brewing Company﻿,Historical Beer - Grodziskie / Grätzer
+schnitt-brewing-company,Shai Friling,"Sun, 21 Jun 2026 17:31:46 +0000",,3.5,Kashmir,Schnitt Brewing Company﻿,Lager - IPL (India Pale Lager)
+schnitt-brewing-company,Lee Ker,"Sun, 21 Jun 2026 17:08:49 +0000",draft,4.25,Gordi,Schnitt Brewing Company﻿,Historical Beer - Grodziskie / Grätzer
+schnitt-brewing-company,Lee Ker,"Sun, 21 Jun 2026 17:07:48 +0000",,,Smokey Rosemary,Schnitt Brewing Company﻿,Historical Beer - Grodziskie / Grätzer
+schnitt-brewing-company,drinking_park,"Sun, 21 Jun 2026 17:06:12 +0000",draft,4.0,Smokey Rosemary,Schnitt Brewing Company﻿,Historical Beer - Grodziskie / Grätzer
+schnitt-brewing-company,drinking_park,"Sun, 21 Jun 2026 17:05:10 +0000",,4.0,Smokey Rosemary,Schnitt Brewing Company﻿,Historical Beer - Grodziskie / Grätzer
+schnitt-brewing-company,fselfws,"Sun, 21 Jun 2026 14:48:13 +0000",draft,4.5,C of Hops,Schnitt Brewing Company﻿,IPA - American
+porter-and-sons,Shmupi Koto,"Sun, 21 Jun 2026 18:49:43 +0000",bottle,4.8,Mamouche (2024),Brasserie Cantillon,Lambic - Other
+porter-and-sons,Shmupi Koto,"Sun, 21 Jun 2026 18:24:08 +0000",draft,4.0,Aecht Schlenkerla Rauchbier – Märzen,"Schlenkerla (""Heller-Bräu"" Trum)",Rauchbier
