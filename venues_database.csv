@@ -328,8 +328,8 @@ b7-beer-house,Ziv Shwartzman,"Fri, 29 May 2026 08:44:41 +0000",draft,3.75,Pilsne
 b7-beer-house,Yana O,"Fri, 29 May 2026 08:43:54 +0000",bottle,4.0,Night Shift Vintage 2025 / Russian Imperial Stout Aged In Rhum And Vanilla Macadamia Rum Barrels,HORIZONT Brewing,Stout - Russian Imperial
 b7-beer-house,גל סילברמן,"Fri, 29 May 2026 08:43:40 +0000",bottle,4.7,Experiments In the Kitchen,Mortalis Brewing Company,Stout - Imperial / Double Pastry
 b7-beer-house,Tom Lahav,"Fri, 29 May 2026 08:43:38 +0000",can,4.0,Prague Tap Room 2nd Anniversary,Sibeeria Brewery,IPA - Triple New England / Hazy
-b7-beer-house,Tom Lahav,"Fri, 29 May 2026 08:42:24 +0000",can,3.75,"Hop Elixir: Citra, Citra Hyperboost, Citra Cryo, Citra Dynaboost",Sibeeria Brewery,IPA - Session New England / Hazy
 b7-beer-house,Ziv Shwartzman,"Fri, 29 May 2026 08:42:24 +0000",draft,3.75,Prunes In Chocolate,Radionov,"Homebrew, Porter - Other"
+b7-beer-house,Tom Lahav,"Fri, 29 May 2026 08:42:24 +0000",can,3.75,"Hop Elixir: Citra, Citra Hyperboost, Citra Cryo, Citra Dynaboost",Sibeeria Brewery,IPA - Session New England / Hazy
 b7-beer-house,Ido Cohen,"Fri, 29 May 2026 08:42:17 +0000",bottle,4.0,Night Shift Vintage 2025 / Double Chocolate Imperial Milk Porter  Aged In Bourbon Barrels,HORIZONT Brewing,Porter - Imperial / Double
 b7-beer-house,Mikhail Stolov,"Fri, 29 May 2026 08:41:47 +0000",can,3.75,"Hop Elixir: Citra, Citra Hyperboost, Citra Cryo, Citra Dynaboost",Sibeeria Brewery,IPA - Session New England / Hazy
 b7-beer-house,Ido Cohen,"Fri, 29 May 2026 08:41:42 +0000",bottle,3.9,Night Shift Vintage 2025 / Peanut Butter Jelly Imperial Pastry Stout Aged In Pedro Ximénez Sherry Barrels,HORIZONT Brewing,Stout - Imperial / Double Pastry
@@ -1071,8 +1071,8 @@ schnitt-brewing-company,Andrey Granovsky,"Fri, 08 May 2026 14:26:07 +0000",draft
 lauter,dafi20,"Fri, 08 May 2026 14:26:00 +0000",draft,3.5,Oasis,Negev Brewery (נגב),Blonde / Golden Ale - Other
 schnitt-brewing-company,Dr Troubles,"Fri, 08 May 2026 14:20:50 +0000",draft,3.25,Ice Ice Bockbier,Schnitt Brewing Company﻿,Bock - Eisbock
 b7-beer-house,Oren Hazan,"Fri, 08 May 2026 14:05:49 +0000",draft,4.0,I Love the Smell of Strata In the Morning,Sibeeria Brewery,IPA - American
-schnitt-brewing-company,Yoav Kowalski,"Fri, 08 May 2026 14:05:01 +0000",,3.5,Cheers Alenbeer,Schnitt Brewing Company﻿,IPA - Session
 b7-beer-house,Oren Hazan,"Fri, 08 May 2026 14:05:01 +0000",draft,4.0,Helix,Equilibrium Brewery,Pilsner - German
+schnitt-brewing-company,Yoav Kowalski,"Fri, 08 May 2026 14:05:01 +0000",,3.5,Cheers Alenbeer,Schnitt Brewing Company﻿,IPA - Session
 b7-beer-house,Oren Hazan,"Fri, 08 May 2026 14:04:15 +0000",draft,3.75,רוביקון,New Pioneer Brewing Co - חלוץ חדש,Brown Ale - American
 schnitt-brewing-company,Yoav Kowalski,"Fri, 08 May 2026 14:04:02 +0000",draft,3.25,Ice Ice Bockbier,Schnitt Brewing Company﻿,Bock - Eisbock
 schnitt-brewing-company,Vladimir Kanevsky,"Fri, 08 May 2026 13:59:02 +0000",draft,4.0,Cheers Alenbeer,Schnitt Brewing Company﻿,IPA - Session
@@ -17836,3 +17836,28 @@ schnitt-brewing-company,drinking_park,"Sun, 21 Jun 2026 17:05:10 +0000",,4.0,Smo
 schnitt-brewing-company,fselfws,"Sun, 21 Jun 2026 14:48:13 +0000",draft,4.5,C of Hops,Schnitt Brewing Company﻿,IPA - American
 porter-and-sons,Shmupi Koto,"Sun, 21 Jun 2026 18:49:43 +0000",bottle,4.8,Mamouche (2024),Brasserie Cantillon,Lambic - Other
 porter-and-sons,Shmupi Koto,"Sun, 21 Jun 2026 18:24:08 +0000",draft,4.0,Aecht Schlenkerla Rauchbier – Märzen,"Schlenkerla (""Heller-Bräu"" Trum)",Rauchbier
+schnitt-brewing-company,Nate Hartman,"Mon, 22 Jun 2026 18:54:31 +0000",draft,4.0,Weissman,Schnitt Brewing Company﻿,Wheat Beer - Hefeweizen
+schnitt-brewing-company,barak luzon,"Mon, 22 Jun 2026 18:14:07 +0000",draft,3.75,Attali's Goes Med,Schnitt Brewing Company﻿,IPA - Session New England / Hazy
+schnitt-brewing-company,Nate Hartman,"Mon, 22 Jun 2026 17:59:51 +0000",,,Luigi,Schnitt Brewing Company﻿,Pilsner - Italian
+schnitt-brewing-company,Vladimir Kanevsky,"Mon, 22 Jun 2026 17:28:34 +0000",draft,3.75,C of Hops,Schnitt Brewing Company﻿,IPA - American
+schnitt-brewing-company,Peleg Magen,"Mon, 22 Jun 2026 17:28:05 +0000",can,3.5,Journey 1100,HORIZONT Brewing,Pilsner - American
+lauter,Alma,"Mon, 22 Jun 2026 23:05:12 +0000",bottle,4.5,Pinot Meunier Tilquin sur marc (2021-2022),Gueuzerie Tilquin,Lambic - Fruit
+lauter,Liad Shaked,"Mon, 22 Jun 2026 22:40:27 +0000",bottle,4.5,Pinot Meunier Tilquin sur marc (2021-2022),Gueuzerie Tilquin,Lambic - Fruit
+lauter,Alma,"Mon, 22 Jun 2026 22:35:47 +0000",draft,3.0,Tucher Kellerbier,Tucher Bräu,Kellerbier / Zwickelbier
+lauter,Alma,"Mon, 22 Jun 2026 22:33:53 +0000",bottle,4.25,Pinot Gris (2023),Boerenerf,Lambic - Fruit
+lauter,Alma,"Mon, 22 Jun 2026 22:31:18 +0000",can,3.5,Void Spawn,HORIZONT Brewing,IPA - New England / Hazy
+lauter,Alma,"Mon, 22 Jun 2026 22:28:57 +0000",bottle,4.5,Saint Lamvinus (2024),Brasserie Cantillon,Lambic - Fruit
+lauter,Peleg Magen,"Mon, 22 Jun 2026 19:14:26 +0000",draft,3.5,Blueberry Brioche,Schnitt Brewing Company﻿,Pale Ale - Other
+lauter,Liad Shaked,"Mon, 22 Jun 2026 19:10:49 +0000",bottle,3.7,קצוות אגס,Hamatsesa (המתססה),Cider - Perry / Poiré
+lauter,Peleg Magen,"Mon, 22 Jun 2026 18:43:01 +0000",,3.75,Abricot Tilquin - Draft Version,Gueuzerie Tilquin,Lambic - Fruit
+lauter,Liad Shaked,"Mon, 22 Jun 2026 18:27:12 +0000",draft,3.3,Blueberry Brioche,Schnitt Brewing Company﻿,Pale Ale - Other
+lauter,Liad Shaked,"Mon, 22 Jun 2026 18:26:11 +0000",draft,4.5,Abricot Tilquin - Draft Version,Gueuzerie Tilquin,Lambic - Fruit
+lauter,Dan G,"Mon, 22 Jun 2026 18:26:10 +0000",draft,4.5,Abricot Tilquin - Draft Version,Gueuzerie Tilquin,Lambic - Fruit
+lauter,EvanLyn,"Mon, 22 Jun 2026 18:25:36 +0000",bottle,4.5,Saint Lamvinus (2024),Brasserie Cantillon,Lambic - Fruit
+lauter,Liad Shaked,"Mon, 22 Jun 2026 18:25:02 +0000",bottle,4.8,Saint Lamvinus (2024),Brasserie Cantillon,Lambic - Fruit
+lauter,igal_mazor,"Mon, 22 Jun 2026 17:22:00 +0000",draft,3.5,Blueberry Brioche,Schnitt Brewing Company﻿,Pale Ale - Other
+lauter,EvanLyn,"Mon, 22 Jun 2026 16:46:54 +0000",draft,3.25,Blueberry Brioche,Schnitt Brewing Company﻿,Pale Ale - Other
+lauter,EvanLyn,"Mon, 22 Jun 2026 16:40:56 +0000",bottle,4.25,Abricot Tilquin - Draft Version,Gueuzerie Tilquin,Lambic - Fruit
+lauter,Vladimir Kanevsky,"Mon, 22 Jun 2026 16:35:36 +0000",draft,3.5,Th. König Zwickl,König Brauerei,Kellerbier / Zwickelbier - Dunkel
+lauter,Leon,"Mon, 22 Jun 2026 13:51:42 +0000",draft,4.0,Abricot Tilquin - Draft Version,Gueuzerie Tilquin,Lambic - Fruit
+ursa,Danielle Yona,"Mon, 22 Jun 2026 20:06:55 +0000",can,,Hazy Day,Greene King,IPA - Session New England / Hazy
