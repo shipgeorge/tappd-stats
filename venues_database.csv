@@ -328,8 +328,8 @@ b7-beer-house,Ziv Shwartzman,"Fri, 29 May 2026 08:44:41 +0000",draft,3.75,Pilsne
 b7-beer-house,Yana O,"Fri, 29 May 2026 08:43:54 +0000",bottle,4.0,Night Shift Vintage 2025 / Russian Imperial Stout Aged In Rhum And Vanilla Macadamia Rum Barrels,HORIZONT Brewing,Stout - Russian Imperial
 b7-beer-house,גל סילברמן,"Fri, 29 May 2026 08:43:40 +0000",bottle,4.7,Experiments In the Kitchen,Mortalis Brewing Company,Stout - Imperial / Double Pastry
 b7-beer-house,Tom Lahav,"Fri, 29 May 2026 08:43:38 +0000",can,4.0,Prague Tap Room 2nd Anniversary,Sibeeria Brewery,IPA - Triple New England / Hazy
-b7-beer-house,Tom Lahav,"Fri, 29 May 2026 08:42:24 +0000",can,3.75,"Hop Elixir: Citra, Citra Hyperboost, Citra Cryo, Citra Dynaboost",Sibeeria Brewery,IPA - Session New England / Hazy
 b7-beer-house,Ziv Shwartzman,"Fri, 29 May 2026 08:42:24 +0000",draft,3.75,Prunes In Chocolate,Radionov,"Homebrew, Porter - Other"
+b7-beer-house,Tom Lahav,"Fri, 29 May 2026 08:42:24 +0000",can,3.75,"Hop Elixir: Citra, Citra Hyperboost, Citra Cryo, Citra Dynaboost",Sibeeria Brewery,IPA - Session New England / Hazy
 b7-beer-house,Ido Cohen,"Fri, 29 May 2026 08:42:17 +0000",bottle,4.0,Night Shift Vintage 2025 / Double Chocolate Imperial Milk Porter  Aged In Bourbon Barrels,HORIZONT Brewing,Porter - Imperial / Double
 b7-beer-house,Mikhail Stolov,"Fri, 29 May 2026 08:41:47 +0000",can,3.75,"Hop Elixir: Citra, Citra Hyperboost, Citra Cryo, Citra Dynaboost",Sibeeria Brewery,IPA - Session New England / Hazy
 b7-beer-house,Ido Cohen,"Fri, 29 May 2026 08:41:42 +0000",bottle,3.9,Night Shift Vintage 2025 / Peanut Butter Jelly Imperial Pastry Stout Aged In Pedro Ximénez Sherry Barrels,HORIZONT Brewing,Stout - Imperial / Double Pastry
@@ -1071,8 +1071,8 @@ schnitt-brewing-company,Andrey Granovsky,"Fri, 08 May 2026 14:26:07 +0000",draft
 lauter,dafi20,"Fri, 08 May 2026 14:26:00 +0000",draft,3.5,Oasis,Negev Brewery (נגב),Blonde / Golden Ale - Other
 schnitt-brewing-company,Dr Troubles,"Fri, 08 May 2026 14:20:50 +0000",draft,3.25,Ice Ice Bockbier,Schnitt Brewing Company﻿,Bock - Eisbock
 b7-beer-house,Oren Hazan,"Fri, 08 May 2026 14:05:49 +0000",draft,4.0,I Love the Smell of Strata In the Morning,Sibeeria Brewery,IPA - American
-schnitt-brewing-company,Yoav Kowalski,"Fri, 08 May 2026 14:05:01 +0000",,3.5,Cheers Alenbeer,Schnitt Brewing Company﻿,IPA - Session
 b7-beer-house,Oren Hazan,"Fri, 08 May 2026 14:05:01 +0000",draft,4.0,Helix,Equilibrium Brewery,Pilsner - German
+schnitt-brewing-company,Yoav Kowalski,"Fri, 08 May 2026 14:05:01 +0000",,3.5,Cheers Alenbeer,Schnitt Brewing Company﻿,IPA - Session
 b7-beer-house,Oren Hazan,"Fri, 08 May 2026 14:04:15 +0000",draft,3.75,רוביקון,New Pioneer Brewing Co - חלוץ חדש,Brown Ale - American
 schnitt-brewing-company,Yoav Kowalski,"Fri, 08 May 2026 14:04:02 +0000",draft,3.25,Ice Ice Bockbier,Schnitt Brewing Company﻿,Bock - Eisbock
 schnitt-brewing-company,Vladimir Kanevsky,"Fri, 08 May 2026 13:59:02 +0000",draft,4.0,Cheers Alenbeer,Schnitt Brewing Company﻿,IPA - Session
@@ -17979,3 +17979,29 @@ berlin-florentin,Alexander the Great ™️,"Tue, 23 Jun 2026 16:47:39 +0000",ca
 berlin-florentin,Yana O,"Tue, 23 Jun 2026 16:47:35 +0000",can,3.75,Saldus Sidras Desertinių Obuolių,Vilkmerges Alus,Cider - Sweet
 berlin-florentin,BarLahav,"Tue, 23 Jun 2026 16:47:30 +0000",can,2.5,Saldus Sidras Desertinių Obuolių,Vilkmerges Alus,Cider - Sweet
 berlin-florentin,Yana O,"Tue, 23 Jun 2026 15:57:57 +0000",draft,3.75,Weihenstephaner Hefeweissbier Dunkel,Bayerische Staatsbrauerei Weihenstephan,Wheat Beer - Dunkelweizen
+schnitt-brewing-company,avremi,"Wed, 24 Jun 2026 14:31:17 +0000",draft,4.5,Twist & Stout,Schnitt Brewing Company﻿,Stout - Irish Dry
+lauter,Amit Carmi,"Wed, 24 Jun 2026 17:51:39 +0000",can,5.0,Pineapple X Red Currant X Peach X Red Grapes X Almond Smoothie Sour Ale,Ārpus Brewing Co.,Sour - Smoothie / Pastry
+lauter,Niv Gellert,"Wed, 24 Jun 2026 17:50:56 +0000",draft,3.5,Pineapple X Red Currant X Peach X Red Grapes X Almond Smoothie Sour Ale,Ārpus Brewing Co.,Sour - Smoothie / Pastry
+lauter,Niv Gellert,"Wed, 24 Jun 2026 17:47:46 +0000",draft,3.5,Strong Brown Ale,Midbar Brewery,Brown Ale - Other
+lauter,Amit Carmi,"Wed, 24 Jun 2026 17:47:28 +0000",draft,3.75,Strong Brown Ale,Midbar Brewery,Brown Ale - Other
+lauter,Slava Gvantmakher,"Wed, 24 Jun 2026 16:11:24 +0000",draft,3.5,Kuch Kuch,Schnitt Brewing Company﻿,IPA - American
+lauter,Shay Lapid,"Wed, 24 Jun 2026 13:04:59 +0000",draft,3.5,IPA Citra & Simcoe,Midbar Brewery,
+lauter,Shay Lapid,"Wed, 24 Jun 2026 13:03:59 +0000",draft,4.0,Kuch Kuch,Schnitt Brewing Company﻿,IPA - American
+lauter,Eylon Hadar,"Wed, 24 Jun 2026 10:42:52 +0000",can,3.5,Eternal Struggle,Schnitt Brewing Company﻿,
+lauter,Ofir Nakar,"Wed, 24 Jun 2026 10:23:22 +0000",draft,3.75,IPA Citra & Simcoe,Midbar Brewery,
+b7-beer-house,Yotam Bar-natan,"Wed, 24 Jun 2026 18:56:31 +0000",can,4.6,Xtremely Stoopid,Vault City Brewing,Sour - Smoothie / Pastry
+b7-beer-house,Yuval Lutski,"Wed, 24 Jun 2026 14:24:58 +0000",can,3.75,Sidras Pusiau Sausas Kriaušių / Cider Semi Dry Pear,Volfas Engelman,Cider - Perry / Poiré
+b7-beer-house,Yuval Lutski,"Wed, 24 Jun 2026 13:17:08 +0000",can,3.5,Extravagant (繁花落锦),Wild West Brewing (美西),
+b7-beer-house,Yuval Lutski,"Wed, 24 Jun 2026 13:15:55 +0000",can,4.25,Big Nectaron Vibes,Other Half Brewing Co.,
+b7-beer-house,alexander_vaginsky_4548,"Wed, 24 Jun 2026 12:15:02 +0000",,4.0,Extravagant (繁花落锦),Wild West Brewing (美西),
+b7-beer-house,Yotam Bar-natan,"Wed, 24 Jun 2026 12:14:10 +0000",can,3.3,Extravagant (繁花落锦),Wild West Brewing (美西),
+b7-beer-house,alexander_vaginsky_4548,"Wed, 24 Jun 2026 11:56:24 +0000",can,3.75,Big Nectaron Vibes,Other Half Brewing Co.,
+b7-beer-house,Yotam Bar-natan,"Wed, 24 Jun 2026 11:55:06 +0000",can,3.7,Big Nectaron Vibes,Other Half Brewing Co.,
+b7-beer-house,Yuval Lutski,"Wed, 24 Jun 2026 11:46:53 +0000",can,4.25,Passiflora,VERTERE,IPA - New England / Hazy
+b7-beer-house,alexander_vaginsky_4548,"Wed, 24 Jun 2026 11:46:33 +0000",can,4.25,Passiflora,VERTERE,IPA - New England / Hazy
+b7-beer-house,Yotam Bar-natan,"Wed, 24 Jun 2026 11:45:19 +0000",can,3.8,Passiflora,VERTERE,IPA - New England / Hazy
+b7-beer-house,Yotam Bar-natan,"Wed, 24 Jun 2026 11:15:44 +0000",draft,4.2,Strawberry Sundae,Vault City Brewing,Sour - Fruited
+berlin-florentin,BarLahav,"Wed, 24 Jun 2026 12:01:49 +0000",can,1.0,Ārpus X Celestial Beerworks QDH Peacharine X Citra X Rakau X Strata TIPA,Ārpus Brewing Co.,IPA - Triple New England / Hazy
+berlin-florentin,BarLahav,"Wed, 24 Jun 2026 11:04:35 +0000",draft,4.0,1664 Blanc,Brasseries Kronenbourg,Wheat Beer - Witbier / Blanche
+beerline,Iliyan Stoyanov,"Wed, 24 Jun 2026 18:09:36 +0000",draft,2.5,Red,Alexander (אלכסנדר),Fruit Beer
+beerbazaar-brewery,Yaron,"Wed, 24 Jun 2026 10:24:56 +0000",draft,3.0,Icons,BeerBazaar / Mivshelet Ha’Aretz,Lager - American
