@@ -328,8 +328,8 @@ b7-beer-house,Ziv Shwartzman,"Fri, 29 May 2026 08:44:41 +0000",draft,3.75,Pilsne
 b7-beer-house,Yana O,"Fri, 29 May 2026 08:43:54 +0000",bottle,4.0,Night Shift Vintage 2025 / Russian Imperial Stout Aged In Rhum And Vanilla Macadamia Rum Barrels,HORIZONT Brewing,Stout - Russian Imperial
 b7-beer-house,גל סילברמן,"Fri, 29 May 2026 08:43:40 +0000",bottle,4.7,Experiments In the Kitchen,Mortalis Brewing Company,Stout - Imperial / Double Pastry
 b7-beer-house,Tom Lahav,"Fri, 29 May 2026 08:43:38 +0000",can,4.0,Prague Tap Room 2nd Anniversary,Sibeeria Brewery,IPA - Triple New England / Hazy
-b7-beer-house,Tom Lahav,"Fri, 29 May 2026 08:42:24 +0000",can,3.75,"Hop Elixir: Citra, Citra Hyperboost, Citra Cryo, Citra Dynaboost",Sibeeria Brewery,IPA - Session New England / Hazy
 b7-beer-house,Ziv Shwartzman,"Fri, 29 May 2026 08:42:24 +0000",draft,3.75,Prunes In Chocolate,Radionov,"Homebrew, Porter - Other"
+b7-beer-house,Tom Lahav,"Fri, 29 May 2026 08:42:24 +0000",can,3.75,"Hop Elixir: Citra, Citra Hyperboost, Citra Cryo, Citra Dynaboost",Sibeeria Brewery,IPA - Session New England / Hazy
 b7-beer-house,Ido Cohen,"Fri, 29 May 2026 08:42:17 +0000",bottle,4.0,Night Shift Vintage 2025 / Double Chocolate Imperial Milk Porter  Aged In Bourbon Barrels,HORIZONT Brewing,Porter - Imperial / Double
 b7-beer-house,Mikhail Stolov,"Fri, 29 May 2026 08:41:47 +0000",can,3.75,"Hop Elixir: Citra, Citra Hyperboost, Citra Cryo, Citra Dynaboost",Sibeeria Brewery,IPA - Session New England / Hazy
 b7-beer-house,Ido Cohen,"Fri, 29 May 2026 08:41:42 +0000",bottle,3.9,Night Shift Vintage 2025 / Peanut Butter Jelly Imperial Pastry Stout Aged In Pedro Ximénez Sherry Barrels,HORIZONT Brewing,Stout - Imperial / Double Pastry
@@ -1071,8 +1071,8 @@ schnitt-brewing-company,Andrey Granovsky,"Fri, 08 May 2026 14:26:07 +0000",draft
 lauter,dafi20,"Fri, 08 May 2026 14:26:00 +0000",draft,3.5,Oasis,Negev Brewery (נגב),Blonde / Golden Ale - Other
 schnitt-brewing-company,Dr Troubles,"Fri, 08 May 2026 14:20:50 +0000",draft,3.25,Ice Ice Bockbier,Schnitt Brewing Company﻿,Bock - Eisbock
 b7-beer-house,Oren Hazan,"Fri, 08 May 2026 14:05:49 +0000",draft,4.0,I Love the Smell of Strata In the Morning,Sibeeria Brewery,IPA - American
-schnitt-brewing-company,Yoav Kowalski,"Fri, 08 May 2026 14:05:01 +0000",,3.5,Cheers Alenbeer,Schnitt Brewing Company﻿,IPA - Session
 b7-beer-house,Oren Hazan,"Fri, 08 May 2026 14:05:01 +0000",draft,4.0,Helix,Equilibrium Brewery,Pilsner - German
+schnitt-brewing-company,Yoav Kowalski,"Fri, 08 May 2026 14:05:01 +0000",,3.5,Cheers Alenbeer,Schnitt Brewing Company﻿,IPA - Session
 b7-beer-house,Oren Hazan,"Fri, 08 May 2026 14:04:15 +0000",draft,3.75,רוביקון,New Pioneer Brewing Co - חלוץ חדש,Brown Ale - American
 schnitt-brewing-company,Yoav Kowalski,"Fri, 08 May 2026 14:04:02 +0000",draft,3.25,Ice Ice Bockbier,Schnitt Brewing Company﻿,Bock - Eisbock
 schnitt-brewing-company,Vladimir Kanevsky,"Fri, 08 May 2026 13:59:02 +0000",draft,4.0,Cheers Alenbeer,Schnitt Brewing Company﻿,IPA - Session
@@ -18043,3 +18043,65 @@ lauter,Ido Meir,"Thu, 25 Jun 2026 13:58:48 +0000",,3.75,Strong Brown Ale,Midbar 
 ursa,Aviad Attia,"Thu, 25 Jun 2026 17:02:49 +0000",can,,Hazy Day,Greene King,IPA - Session New England / Hazy
 beerz,NightFish,"Thu, 25 Jun 2026 18:23:01 +0000",draft,3.75,Hobgoblin IPA,Marston's Brewery,IPA - English
 beerz,NightFish,"Thu, 25 Jun 2026 18:05:58 +0000",draft,3.75,Nectar of Happiness 17,Pivovar ZICHOVEC,IPA - New England / Hazy
+schnitt-brewing-company,Nadav Cohen,"Fri, 26 Jun 2026 21:30:02 +0000",,3.75,Attali's Goes Med,Schnitt Brewing Company﻿,IPA - Session New England / Hazy
+schnitt-brewing-company,Cormac Mc Donnell,"Fri, 26 Jun 2026 20:48:12 +0000",,3.5,Eternal Struggle,Schnitt Brewing Company﻿,Pale Ale - Other
+schnitt-brewing-company,Cormac Mc Donnell,"Fri, 26 Jun 2026 19:57:59 +0000",,3.5,El Hombre,Schnitt Brewing Company﻿,Lager - Mexican
+schnitt-brewing-company,Cormac Mc Donnell,"Fri, 26 Jun 2026 19:20:13 +0000",,3.5,C of Hops,Schnitt Brewing Company﻿,IPA - American
+schnitt-brewing-company,Cormac Mc Donnell,"Fri, 26 Jun 2026 18:53:55 +0000",,3.5,Orange  Blossom,Schnitt Brewing Company﻿,Pale Ale - Other
+schnitt-brewing-company,Ilya Yeruhimovich,"Fri, 26 Jun 2026 17:03:49 +0000",draft,3.8,Jaffa IPA,Schnitt Brewing Company﻿,IPA - American
+schnitt-brewing-company,Adi Levi,"Fri, 26 Jun 2026 15:28:34 +0000",,4.0,Smokey Rosemary,Schnitt Brewing Company﻿,Historical Beer - Grodziskie / Grätzer
+schnitt-brewing-company,Adi Levi,"Fri, 26 Jun 2026 15:28:09 +0000",,3.75,Attali's Goes Med,Schnitt Brewing Company﻿,IPA - Session New England / Hazy
+schnitt-brewing-company,Adi Levi,"Fri, 26 Jun 2026 15:27:20 +0000",,3.75,Guava Island 2026,Schnitt Brewing Company﻿,IPA - New England / Hazy
+schnitt-brewing-company,Adi Levi,"Fri, 26 Jun 2026 15:26:55 +0000",,3.75,C of Hops,Schnitt Brewing Company﻿,IPA - American
+schnitt-brewing-company,Afek Stein,"Fri, 26 Jun 2026 15:01:23 +0000",,3.75,C of Hops,Schnitt Brewing Company﻿,IPA - American
+schnitt-brewing-company,Josh Kraer,"Fri, 26 Jun 2026 14:23:53 +0000",draft,3.75,Guava Island 2026,Schnitt Brewing Company﻿,IPA - New England / Hazy
+schnitt-brewing-company,Ilya Yeruhimovich,"Fri, 26 Jun 2026 14:14:58 +0000",can,3.7,Mosaic Ale 12,Pivovar ZICHOVEC,Pale Ale - American
+schnitt-brewing-company,Afek Stein,"Fri, 26 Jun 2026 14:12:37 +0000",,3.5,Beta Czech (בטא צ'כי),Schnitt Brewing Company﻿,Pilsner - Czech / Bohemian
+schnitt-brewing-company,Ilya Yeruhimovich,"Fri, 26 Jun 2026 13:37:11 +0000",draft,3.8,Day Shift,Schnitt Brewing Company﻿,IPA - Session
+lauter,Liad Shaked,"Fri, 26 Jun 2026 22:58:43 +0000",can,3.0,SAYPLAY Cold IPA - Low Carb,Full Moon Brewworks,IPA - Cold
+lauter,EvanLyn,"Fri, 26 Jun 2026 22:50:23 +0000",bottle,4.25,Grand Cru Bruocsella Lambic Bio,Brasserie Cantillon,Lambic - Traditional
+lauter,Liad Shaked,"Fri, 26 Jun 2026 22:49:51 +0000",bottle,4.6,Grand Cru Bruocsella Lambic Bio,Brasserie Cantillon,Lambic - Traditional
+lauter,Liad Shaked,"Fri, 26 Jun 2026 22:45:26 +0000",draft,3.6,Date Porter,Midbar Brewery,Porter - Other
+lauter,Liad Shaked,"Fri, 26 Jun 2026 22:44:59 +0000",draft,3.8,Wheat Beer,Midbar Brewery,Wheat Beer - Other
+lauter,Liad Shaked,"Fri, 26 Jun 2026 22:44:20 +0000",can,3.3,Fin Fin IPA - SUMMERLAY,Full Moon Brewworks,IPA - American
+lauter,Liad Shaked,"Fri, 26 Jun 2026 22:43:37 +0000",can,2.7,MANGOMELO Fruit Ale - SUMMERLAY,Full Moon Brewworks,Fruit Beer
+lauter,Liad Shaked,"Fri, 26 Jun 2026 22:42:55 +0000",bottle,4.9,3 Fonteinen Wijnbergperzik (season 22|23) Blend No. 26,Brouwerij 3 Fonteinen,Lambic - Fruit
+lauter,Eden Dupont,"Fri, 26 Jun 2026 20:56:16 +0000",draft,5.0,Buster's Cranberry Lemonade,Oak & Ash,Malt Liquor
+lauter,Eden Dupont,"Fri, 26 Jun 2026 20:54:37 +0000",draft,4.0,El Hombre,Schnitt Brewing Company﻿,Lager - Mexican
+lauter,Eden Dupont,"Fri, 26 Jun 2026 20:53:46 +0000",draft,4.5,Blueberry Brioche,Schnitt Brewing Company﻿,Pale Ale - Other
+lauter,Eden Dupont,"Fri, 26 Jun 2026 20:51:58 +0000",draft,3.0,Tucher Kellerbier,Tucher Bräu,Kellerbier / Zwickelbier
+lauter,Liad Shaked,"Fri, 26 Jun 2026 20:46:00 +0000",bottle,3.7,Wannabe Pale Ale,Dupontshtein,"Homebrew, Pale Ale - American"
+lauter,EvanLyn,"Fri, 26 Jun 2026 20:45:46 +0000",bottle,3.75,Wannabe Pale Ale,Dupontshtein,"Homebrew, Pale Ale - American"
+lauter,Cormac Mc Donnell,"Fri, 26 Jun 2026 20:19:31 +0000",,3.5,Pale Ale,Sierra Nevada Brewing Co.,Pale Ale - American
+lauter,EvanLyn,"Fri, 26 Jun 2026 19:53:11 +0000",bottle,4.75,3 Fonteinen Wijnbergperzik (season 22|23) Blend No. 26,Brouwerij 3 Fonteinen,Lambic - Fruit
+lauter,Elad Schitrit,"Fri, 26 Jun 2026 18:08:50 +0000",can,3.25,Fin Fin IPA - SUMMERLAY,Full Moon Brewworks,IPA - American
+lauter,Elad Schitrit,"Fri, 26 Jun 2026 18:07:31 +0000",can,2.75,MANGOMELO Fruit Ale - SUMMERLAY,Full Moon Brewworks,Fruit Beer
+lauter,EvanLyn,"Fri, 26 Jun 2026 18:07:17 +0000",can,3.25,MANGOMELO Fruit Ale - SUMMERLAY,Full Moon Brewworks,Fruit Beer
+lauter,EvanLyn,"Fri, 26 Jun 2026 17:19:23 +0000",draft,3.75,Wheat Beer,Midbar Brewery,Wheat Beer - Other
+lauter,EvanLyn,"Fri, 26 Jun 2026 17:11:33 +0000",draft,3.5,Date Porter,Midbar Brewery,Porter - Other
+lauter,גל סילברמן,"Fri, 26 Jun 2026 16:10:27 +0000",draft,3.8,Pomegranate Sour,Midbar Brewery,Sour - Fruited
+lauter,גל סילברמן,"Fri, 26 Jun 2026 16:08:52 +0000",draft,3.4,IPA Citra & Simcoe,Midbar Brewery,IPA - Other
+lauter,גל סילברמן,"Fri, 26 Jun 2026 16:06:25 +0000",draft,3.5,Strong Brown Ale,Midbar Brewery,Brown Ale - Other
+lauter,גל סילברמן,"Fri, 26 Jun 2026 16:04:38 +0000",draft,3.3,Date Porter,Midbar Brewery,Porter - Other
+lauter,גל סילברמן,"Fri, 26 Jun 2026 16:03:22 +0000",draft,2.9,Wheat Beer,Midbar Brewery,Wheat Beer - Other
+lauter,Ilya Yeruhimovich,"Fri, 26 Jun 2026 15:15:20 +0000",draft,4.1,Abricot Tilquin - Draft Version,Gueuzerie Tilquin,Lambic - Fruit
+lauter,Josh Kraer,"Fri, 26 Jun 2026 14:58:20 +0000",draft,3.5,Buster's Cranberry Lemonade,Oak & Ash,Malt Liquor
+lauter,Aviad Attia,"Fri, 26 Jun 2026 14:13:21 +0000",,,Wheat Beer,Midbar Brewery,Wheat Beer - Other
+lauter,Aviad Attia,"Fri, 26 Jun 2026 14:13:13 +0000",,,Strong Brown Ale,Midbar Brewery,Brown Ale - Other
+lauter,Aviad Attia,"Fri, 26 Jun 2026 14:13:00 +0000",draft,,Date Porter,Midbar Brewery,Porter - Other
+lauter,Aviad Attia,"Fri, 26 Jun 2026 14:12:50 +0000",,,El Hombre,Schnitt Brewing Company﻿,Lager - Mexican
+lauter,Yoav Kowalski,"Fri, 26 Jun 2026 14:04:32 +0000",draft,3.5,Pomegranate Sour,Midbar Brewery,Sour - Fruited
+lauter,Yoav Kowalski,"Fri, 26 Jun 2026 14:02:42 +0000",draft,3.25,Wheat Beer,Midbar Brewery,Wheat Beer - Other
+lauter,Yoav Kowalski,"Fri, 26 Jun 2026 14:02:03 +0000",draft,3.0,Strong Brown Ale,Midbar Brewery,Brown Ale - Other
+lauter,Yoav Kowalski,"Fri, 26 Jun 2026 13:59:17 +0000",draft,3.5,Date Porter,Midbar Brewery,Porter - Other
+lauter,Shai Friling,"Fri, 26 Jun 2026 11:47:10 +0000",draft,3.5,Date Porter,Midbar Brewery,Porter - Other
+lauter,Shai Friling,"Fri, 26 Jun 2026 11:36:12 +0000",draft,3.0,Strong Brown Ale,Midbar Brewery,Brown Ale - Other
+lauter,Shai Friling,"Fri, 26 Jun 2026 11:28:45 +0000",draft,3.75,Pomegranate Sour,Midbar Brewery,Sour - Fruited
+lauter,Shai Friling,"Fri, 26 Jun 2026 11:28:02 +0000",draft,3.5,Wheat Beer,Midbar Brewery,Wheat Beer - Other
+lauter,Danielle Yona,"Fri, 26 Jun 2026 10:23:45 +0000",,,Date Porter,Midbar Brewery,Porter - Other
+lauter,Danielle Yona,"Fri, 26 Jun 2026 10:23:30 +0000",,,Strong Brown Ale,Midbar Brewery,Brown Ale - Other
+lauter,Danielle Yona,"Fri, 26 Jun 2026 10:23:06 +0000",draft,,Pomegranate Sour,Midbar Brewery,Sour - Fruited
+lauter,Danielle Yona,"Fri, 26 Jun 2026 10:22:49 +0000",,,Wheat Beer,Midbar Brewery,Wheat Beer - Other
+lauter,Danielle Yona,"Fri, 26 Jun 2026 10:20:18 +0000",draft,,El Hombre,Schnitt Brewing Company﻿,Lager - Mexican
+ursa,Aviad Attia,"Fri, 26 Jun 2026 14:14:30 +0000",,,Pomegranate Sour,Midbar Brewery,Sour - Fruited
+beerline,Philip Greenberg,"Fri, 26 Jun 2026 19:27:05 +0000",draft,4.75,Delirium Red,Delirium - Huyghe Brewery,Fruit Beer
