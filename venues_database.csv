@@ -328,8 +328,8 @@ b7-beer-house,Ziv Shwartzman,"Fri, 29 May 2026 08:44:41 +0000",draft,3.75,Pilsne
 b7-beer-house,Yana O,"Fri, 29 May 2026 08:43:54 +0000",bottle,4.0,Night Shift Vintage 2025 / Russian Imperial Stout Aged In Rhum And Vanilla Macadamia Rum Barrels,HORIZONT Brewing,Stout - Russian Imperial
 b7-beer-house,גל סילברמן,"Fri, 29 May 2026 08:43:40 +0000",bottle,4.7,Experiments In the Kitchen,Mortalis Brewing Company,Stout - Imperial / Double Pastry
 b7-beer-house,Tom Lahav,"Fri, 29 May 2026 08:43:38 +0000",can,4.0,Prague Tap Room 2nd Anniversary,Sibeeria Brewery,IPA - Triple New England / Hazy
-b7-beer-house,Tom Lahav,"Fri, 29 May 2026 08:42:24 +0000",can,3.75,"Hop Elixir: Citra, Citra Hyperboost, Citra Cryo, Citra Dynaboost",Sibeeria Brewery,IPA - Session New England / Hazy
 b7-beer-house,Ziv Shwartzman,"Fri, 29 May 2026 08:42:24 +0000",draft,3.75,Prunes In Chocolate,Radionov,"Homebrew, Porter - Other"
+b7-beer-house,Tom Lahav,"Fri, 29 May 2026 08:42:24 +0000",can,3.75,"Hop Elixir: Citra, Citra Hyperboost, Citra Cryo, Citra Dynaboost",Sibeeria Brewery,IPA - Session New England / Hazy
 b7-beer-house,Ido Cohen,"Fri, 29 May 2026 08:42:17 +0000",bottle,4.0,Night Shift Vintage 2025 / Double Chocolate Imperial Milk Porter  Aged In Bourbon Barrels,HORIZONT Brewing,Porter - Imperial / Double
 b7-beer-house,Mikhail Stolov,"Fri, 29 May 2026 08:41:47 +0000",can,3.75,"Hop Elixir: Citra, Citra Hyperboost, Citra Cryo, Citra Dynaboost",Sibeeria Brewery,IPA - Session New England / Hazy
 b7-beer-house,Ido Cohen,"Fri, 29 May 2026 08:41:42 +0000",bottle,3.9,Night Shift Vintage 2025 / Peanut Butter Jelly Imperial Pastry Stout Aged In Pedro Ximénez Sherry Barrels,HORIZONT Brewing,Stout - Imperial / Double Pastry
@@ -1071,8 +1071,8 @@ schnitt-brewing-company,Andrey Granovsky,"Fri, 08 May 2026 14:26:07 +0000",draft
 lauter,dafi20,"Fri, 08 May 2026 14:26:00 +0000",draft,3.5,Oasis,Negev Brewery (נגב),Blonde / Golden Ale - Other
 schnitt-brewing-company,Dr Troubles,"Fri, 08 May 2026 14:20:50 +0000",draft,3.25,Ice Ice Bockbier,Schnitt Brewing Company﻿,Bock - Eisbock
 b7-beer-house,Oren Hazan,"Fri, 08 May 2026 14:05:49 +0000",draft,4.0,I Love the Smell of Strata In the Morning,Sibeeria Brewery,IPA - American
-schnitt-brewing-company,Yoav Kowalski,"Fri, 08 May 2026 14:05:01 +0000",,3.5,Cheers Alenbeer,Schnitt Brewing Company﻿,IPA - Session
 b7-beer-house,Oren Hazan,"Fri, 08 May 2026 14:05:01 +0000",draft,4.0,Helix,Equilibrium Brewery,Pilsner - German
+schnitt-brewing-company,Yoav Kowalski,"Fri, 08 May 2026 14:05:01 +0000",,3.5,Cheers Alenbeer,Schnitt Brewing Company﻿,IPA - Session
 b7-beer-house,Oren Hazan,"Fri, 08 May 2026 14:04:15 +0000",draft,3.75,רוביקון,New Pioneer Brewing Co - חלוץ חדש,Brown Ale - American
 schnitt-brewing-company,Yoav Kowalski,"Fri, 08 May 2026 14:04:02 +0000",draft,3.25,Ice Ice Bockbier,Schnitt Brewing Company﻿,Bock - Eisbock
 schnitt-brewing-company,Vladimir Kanevsky,"Fri, 08 May 2026 13:59:02 +0000",draft,4.0,Cheers Alenbeer,Schnitt Brewing Company﻿,IPA - Session
@@ -18200,3 +18200,43 @@ lauter,Tal,"Wed, 01 Jul 2026 16:57:07 +0000",draft,4.25,Abricot Tilquin - Draft 
 lauter,adi_zadik_2741,"Wed, 01 Jul 2026 16:57:00 +0000",bottle,2.5,Bigfoot (2026),Sierra Nevada Brewing Co.,Barleywine - American
 lauter,adi_zadik_2741,"Wed, 01 Jul 2026 16:34:34 +0000",draft,4.0,Abricot Tilquin - Draft Version,Gueuzerie Tilquin,Lambic - Fruit
 lauter,galgutm,"Wed, 01 Jul 2026 15:45:28 +0000",draft,3.25,Orange  Blossom,Schnitt Brewing Company﻿,Pale Ale - Other
+b7-beer-house,Dima Shleifman,"Fri, 03 Jul 2026 08:53:41 +0000",can,3.75,HAZY SUPERDELIC New Zealand Hazy IPA,NOZIB Special Brews,IPA - New Zealand
+b7-beer-house,Israel Shenkman,"Fri, 03 Jul 2026 08:53:21 +0000",can,4.0,HAZY SUPERDELIC New Zealand Hazy IPA,NOZIB Special Brews,IPA - New Zealand
+b7-beer-house,Alex Fux,"Fri, 03 Jul 2026 08:51:13 +0000",can,4.0,HAZY SUPERDELIC New Zealand Hazy IPA,NOZIB Special Brews,IPA - New Zealand
+b7-beer-house,Yotam Bar-natan,"Thu, 02 Jul 2026 14:25:11 +0000",can,5.0,DemiHydra | Strawberry + Kiwi + Watermelon,Mortalis Brewing Company,Sour - Fruited
+lauter,Ori Pemper,"Thu, 02 Jul 2026 20:50:25 +0000",draft,3.75,Porter&Sons: Chocolate Orange,Schnitt Brewing Company﻿,Porter - Other
+lauter,Shmupi Koto,"Thu, 02 Jul 2026 20:26:10 +0000",bottle,4.8,Oude Riesling Tilquin à l'Ancienne (2021-2022),Gueuzerie Tilquin,Lambic - Fruit
+lauter,Shmupi Koto,"Thu, 02 Jul 2026 20:25:02 +0000",,3.8,Torpedo Extra IPA,Sierra Nevada Brewing Co.,IPA - American
+lauter,oriel38,"Thu, 02 Jul 2026 20:20:58 +0000",bottle,4.75,Oude Riesling Tilquin à l'Ancienne (2020-2021),Gueuzerie Tilquin,Lambic - Fruit
+lauter,Ori Pemper,"Thu, 02 Jul 2026 20:06:03 +0000",,3.0,Blueberry Brioche,Schnitt Brewing Company﻿,Pale Ale - Other
+lauter,Stas Pruchansky,"Thu, 02 Jul 2026 19:52:39 +0000",can,3.4,Fin Fin IPA - SUMMERLAY,Full Moon Brewworks,IPA - American
+lauter,Dr Troubles,"Thu, 02 Jul 2026 19:48:27 +0000",can,3.0,MANGOMELO Fruit Ale - SUMMERLAY,Full Moon Brewworks,Fruit Beer
+lauter,Max N,"Thu, 02 Jul 2026 19:42:26 +0000",can,3.5,Fin Fin IPA - SUMMERLAY,Full Moon Brewworks,IPA - American
+lauter,Stas Pruchansky,"Thu, 02 Jul 2026 19:19:13 +0000",can,3.3,MANGOMELO Fruit Ale - SUMMERLAY,Full Moon Brewworks,Fruit Beer
+lauter,Max N,"Thu, 02 Jul 2026 19:16:47 +0000",can,3.2,MANGOMELO Fruit Ale - SUMMERLAY,Full Moon Brewworks,Fruit Beer
+lauter,Max N,"Thu, 02 Jul 2026 18:40:05 +0000",can,4.5,Pineapple X Red Currant X Peach X Red Grapes X Almond Smoothie Sour Ale,Ārpus Brewing Co.,Sour - Smoothie / Pastry
+lauter,Max N,"Thu, 02 Jul 2026 18:23:55 +0000",draft,3.6,El Hombre,Schnitt Brewing Company﻿,Lager - Mexican
+lauter,Vasa,"Thu, 02 Jul 2026 15:38:12 +0000",draft,,Tucher Kellerbier,Tucher Bräu,Kellerbier / Zwickelbier
+schnitt-brewing-company,oriel38,"Thu, 02 Jul 2026 21:28:17 +0000",draft,3.75,Attali's Goes Med,Schnitt Brewing Company﻿,IPA - Session New England / Hazy
+schnitt-brewing-company,oriel38,"Thu, 02 Jul 2026 21:06:51 +0000",draft,3.5,Blueberry Brioche,Schnitt Brewing Company﻿,Pale Ale - Other
+schnitt-brewing-company,Ori Pemper,"Thu, 02 Jul 2026 20:55:01 +0000",,4.0,HOPE,Schnitt Brewing Company﻿,IPA - New England / Hazy
+schnitt-brewing-company,Ori Pemper,"Thu, 02 Jul 2026 19:23:11 +0000",draft,3.75,Guava Island 2026,Schnitt Brewing Company﻿,IPA - New England / Hazy
+schnitt-brewing-company,Nate Hartman,"Thu, 02 Jul 2026 19:06:47 +0000",draft,4.0,Weissman,Schnitt Brewing Company﻿,Wheat Beer - Hefeweizen
+schnitt-brewing-company,Dr Troubles,"Thu, 02 Jul 2026 18:53:51 +0000",,3.5,Mangolorian (2026),Schnitt Brewing Company﻿,IPA - New England / Hazy
+schnitt-brewing-company,Michael Bunin,"Thu, 02 Jul 2026 18:37:29 +0000",draft,3.75,Hadar הדר,Schnitt Brewing Company﻿,Wheat Beer - Witbier / Blanche
+schnitt-brewing-company,Michael Bunin,"Thu, 02 Jul 2026 18:36:53 +0000",draft,3.5,Jaffa IPA,Schnitt Brewing Company﻿,IPA - American
+schnitt-brewing-company,Nate Hartman,"Thu, 02 Jul 2026 18:22:19 +0000",draft,3.75,Kashmir,Schnitt Brewing Company﻿,Lager - IPL (India Pale Lager)
+schnitt-brewing-company,Nate Hartman,"Thu, 02 Jul 2026 18:11:21 +0000",draft,3.75,Beta Czech (בטא צ'כי),Schnitt Brewing Company﻿,Pilsner - Czech / Bohemian
+schnitt-brewing-company,Nate Hartman,"Thu, 02 Jul 2026 18:06:21 +0000",draft,3.75,Beta Czech (בטא צ'כי),Schnitt Brewing Company﻿,Pilsner - Czech / Bohemian
+schnitt-brewing-company,Or Harpaz,"Thu, 02 Jul 2026 17:11:38 +0000",draft,3.75,Attali's Goes Med,Schnitt Brewing Company﻿,IPA - Session New England / Hazy
+schnitt-brewing-company,Vasa,"Thu, 02 Jul 2026 14:47:27 +0000",draft,3.25,Orange  Blossom,Schnitt Brewing Company﻿,Pale Ale - Other
+schnitt-brewing-company,Miki Zaidel,"Thu, 02 Jul 2026 14:17:52 +0000",draft,4.25,Attali's Goes Med,Schnitt Brewing Company﻿,IPA - Session New England / Hazy
+schnitt-brewing-company,Vasa,"Thu, 02 Jul 2026 13:51:58 +0000",draft,4.0,Attali's Goes Med,Schnitt Brewing Company﻿,IPA - Session New England / Hazy
+schnitt-brewing-company,Vasa,"Thu, 02 Jul 2026 12:58:31 +0000",draft,3.5,Kashmir,Schnitt Brewing Company﻿,Lager - IPL (India Pale Lager)
+schnitt-brewing-company,Vasa,"Thu, 02 Jul 2026 12:30:36 +0000",draft,3.75,Mangolorian (2026),Schnitt Brewing Company﻿,IPA - New England / Hazy
+schnitt-brewing-company,odi paneth,"Thu, 02 Jul 2026 11:07:06 +0000",draft,3.75,HOPE,Schnitt Brewing Company﻿,IPA - New England / Hazy
+schnitt-brewing-company,Leon,"Thu, 02 Jul 2026 10:53:46 +0000",draft,3.5,C of Hops,Schnitt Brewing Company﻿,IPA - American
+schnitt-brewing-company,Aryeh Genger,"Thu, 02 Jul 2026 10:43:48 +0000",,4.0,Smokey Rosemary,Schnitt Brewing Company﻿,Historical Beer - Grodziskie / Grätzer
+schnitt-brewing-company,Aryeh Genger,"Thu, 02 Jul 2026 10:22:39 +0000",,3.75,עכשיו מעונן 2024 It’s Cloudy Now,Schnitt Brewing Company﻿,IPA - New England / Hazy
+beerbazaar-brewery,Oren Sela,"Thu, 02 Jul 2026 15:44:45 +0000",draft,3.5,Black Jack,BeerBazaar / Mivshelet Ha’Aretz,Stout - Other
+beerline,oneclick228,"Thu, 02 Jul 2026 13:46:46 +0000",,4.0,La Trappe Quadrupel,Bierbrouwerij De Koningshoeven,Belgian Quadrupel
