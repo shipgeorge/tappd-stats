@@ -328,8 +328,8 @@ b7-beer-house,Ziv Shwartzman,"Fri, 29 May 2026 08:44:41 +0000",draft,3.75,Pilsne
 b7-beer-house,Yana O,"Fri, 29 May 2026 08:43:54 +0000",bottle,4.0,Night Shift Vintage 2025 / Russian Imperial Stout Aged In Rhum And Vanilla Macadamia Rum Barrels,HORIZONT Brewing,Stout - Russian Imperial
 b7-beer-house,גל סילברמן,"Fri, 29 May 2026 08:43:40 +0000",bottle,4.7,Experiments In the Kitchen,Mortalis Brewing Company,Stout - Imperial / Double Pastry
 b7-beer-house,Tom Lahav,"Fri, 29 May 2026 08:43:38 +0000",can,4.0,Prague Tap Room 2nd Anniversary,Sibeeria Brewery,IPA - Triple New England / Hazy
-b7-beer-house,Tom Lahav,"Fri, 29 May 2026 08:42:24 +0000",can,3.75,"Hop Elixir: Citra, Citra Hyperboost, Citra Cryo, Citra Dynaboost",Sibeeria Brewery,IPA - Session New England / Hazy
 b7-beer-house,Ziv Shwartzman,"Fri, 29 May 2026 08:42:24 +0000",draft,3.75,Prunes In Chocolate,Radionov,"Homebrew, Porter - Other"
+b7-beer-house,Tom Lahav,"Fri, 29 May 2026 08:42:24 +0000",can,3.75,"Hop Elixir: Citra, Citra Hyperboost, Citra Cryo, Citra Dynaboost",Sibeeria Brewery,IPA - Session New England / Hazy
 b7-beer-house,Ido Cohen,"Fri, 29 May 2026 08:42:17 +0000",bottle,4.0,Night Shift Vintage 2025 / Double Chocolate Imperial Milk Porter  Aged In Bourbon Barrels,HORIZONT Brewing,Porter - Imperial / Double
 b7-beer-house,Mikhail Stolov,"Fri, 29 May 2026 08:41:47 +0000",can,3.75,"Hop Elixir: Citra, Citra Hyperboost, Citra Cryo, Citra Dynaboost",Sibeeria Brewery,IPA - Session New England / Hazy
 b7-beer-house,Ido Cohen,"Fri, 29 May 2026 08:41:42 +0000",bottle,3.9,Night Shift Vintage 2025 / Peanut Butter Jelly Imperial Pastry Stout Aged In Pedro Ximénez Sherry Barrels,HORIZONT Brewing,Stout - Imperial / Double Pastry
@@ -1071,8 +1071,8 @@ schnitt-brewing-company,Andrey Granovsky,"Fri, 08 May 2026 14:26:07 +0000",draft
 lauter,dafi20,"Fri, 08 May 2026 14:26:00 +0000",draft,3.5,Oasis,Negev Brewery (נגב),Blonde / Golden Ale - Other
 schnitt-brewing-company,Dr Troubles,"Fri, 08 May 2026 14:20:50 +0000",draft,3.25,Ice Ice Bockbier,Schnitt Brewing Company﻿,Bock - Eisbock
 b7-beer-house,Oren Hazan,"Fri, 08 May 2026 14:05:49 +0000",draft,4.0,I Love the Smell of Strata In the Morning,Sibeeria Brewery,IPA - American
-schnitt-brewing-company,Yoav Kowalski,"Fri, 08 May 2026 14:05:01 +0000",,3.5,Cheers Alenbeer,Schnitt Brewing Company﻿,IPA - Session
 b7-beer-house,Oren Hazan,"Fri, 08 May 2026 14:05:01 +0000",draft,4.0,Helix,Equilibrium Brewery,Pilsner - German
+schnitt-brewing-company,Yoav Kowalski,"Fri, 08 May 2026 14:05:01 +0000",,3.5,Cheers Alenbeer,Schnitt Brewing Company﻿,IPA - Session
 b7-beer-house,Oren Hazan,"Fri, 08 May 2026 14:04:15 +0000",draft,3.75,רוביקון,New Pioneer Brewing Co - חלוץ חדש,Brown Ale - American
 schnitt-brewing-company,Yoav Kowalski,"Fri, 08 May 2026 14:04:02 +0000",draft,3.25,Ice Ice Bockbier,Schnitt Brewing Company﻿,Bock - Eisbock
 schnitt-brewing-company,Vladimir Kanevsky,"Fri, 08 May 2026 13:59:02 +0000",draft,4.0,Cheers Alenbeer,Schnitt Brewing Company﻿,IPA - Session
@@ -18646,3 +18646,28 @@ porter-and-sons,Yana O,"Thu, 09 Jul 2026 17:06:13 +0000",,4.0,Loral Compass,Schn
 berlin-florentin,Marina Sundström,"Thu, 09 Jul 2026 15:46:44 +0000",draft,4.0,Carlsberg Luma,Israel Beer Breweries Ltd. (IBBL),
 beerline,Slava Gladchenko,"Thu, 09 Jul 2026 11:12:15 +0000",bottle,4.0,Faraway Friends (Cellar Series),Põhjala,
 beerline,Slava Gladchenko,"Thu, 09 Jul 2026 11:00:12 +0000",draft,4.5,Pleroma Karpologi Pineapple Peach Marshmallow Créme Brulée Sour,Omnipollo,
+lauter,Liad Shaked,"Fri, 10 Jul 2026 19:58:00 +0000",draft,4.0,Pomegranate Sour,Midbar Brewery,
+lauter,David Siegel,"Fri, 10 Jul 2026 18:45:25 +0000",draft,3.75,486,Herzl (הרצל),
+lauter,Gadi Hirsch,"Fri, 10 Jul 2026 16:54:46 +0000",can,3.75,Juicy Lucy 15,Pivovar ZICHOVEC,
+lauter,Nir Langer,"Fri, 10 Jul 2026 16:33:20 +0000",bottle,3.5,CHATRI IPA,Full Moon Brewworks,
+lauter,levlev444,"Fri, 10 Jul 2026 16:28:53 +0000",draft,3.5,Prior 8,Brouwerij St.Bernardus,
+lauter,Nir Langer,"Fri, 10 Jul 2026 16:27:32 +0000",bottle,3.5,CHALAWAN Pale Ale,Full Moon Brewworks,
+lauter,levlev444,"Fri, 10 Jul 2026 15:18:32 +0000",bottle,4.25,Muscabella (2023),Boerenerf,
+lauter,Yoav Kowalski,"Fri, 10 Jul 2026 15:07:08 +0000",draft,3.0,IPA Citra & Simcoe,Midbar Brewery,
+schnitt-brewing-company,David Siegel,"Fri, 10 Jul 2026 19:49:01 +0000",draft,3.5,C of Hops,Schnitt Brewing Company﻿,
+schnitt-brewing-company,Gadi Hirsch,"Fri, 10 Jul 2026 16:52:44 +0000",draft,3.75,Attali's Goes Med,Schnitt Brewing Company﻿,
+schnitt-brewing-company,Gadi Hirsch,"Fri, 10 Jul 2026 16:52:01 +0000",draft,4.0,Loral Compass,Schnitt Brewing Company﻿,
+schnitt-brewing-company,Afek Stein,"Fri, 10 Jul 2026 16:38:02 +0000",,3.5,Hop 4ward,Schnitt Brewing Company﻿,
+schnitt-brewing-company,Afek Stein,"Fri, 10 Jul 2026 15:48:43 +0000",,3.75,Loral Compass,Schnitt Brewing Company﻿,
+schnitt-brewing-company,Yoav Kowalski,"Fri, 10 Jul 2026 15:45:42 +0000",draft,3.75,Hopsy Dazy,Schnitt Brewing Company﻿,
+schnitt-brewing-company,Yoav Kowalski,"Fri, 10 Jul 2026 15:45:17 +0000",draft,3.75,C of Hops,Schnitt Brewing Company﻿,
+schnitt-brewing-company,Yoav Kowalski,"Fri, 10 Jul 2026 15:44:47 +0000",draft,3.5,Loral Compass,Schnitt Brewing Company﻿,
+schnitt-brewing-company,Yoav Kowalski,"Fri, 10 Jul 2026 15:44:11 +0000",draft,3.25,Mangolorian (2026),Schnitt Brewing Company﻿,
+schnitt-brewing-company,Afek Stein,"Fri, 10 Jul 2026 15:15:25 +0000",,3.75,Hopsy Dazy,Schnitt Brewing Company﻿,
+schnitt-brewing-company,levlev444,"Fri, 10 Jul 2026 13:25:39 +0000",draft,4.0,Loral Compass,Schnitt Brewing Company﻿,
+schnitt-brewing-company,Alexander the Great ™️,"Fri, 10 Jul 2026 13:23:18 +0000",draft,3.75,Hopsy Dazy,Schnitt Brewing Company﻿,
+schnitt-brewing-company,Alexander the Great ™️,"Fri, 10 Jul 2026 13:17:43 +0000",draft,3.75,Loral Compass,Schnitt Brewing Company﻿,
+schnitt-brewing-company,Alexander the Great ™️,"Fri, 10 Jul 2026 13:13:40 +0000",draft,3.75,Mangolorian (2026),Schnitt Brewing Company﻿,
+schnitt-brewing-company,Alexander the Great ™️,"Fri, 10 Jul 2026 13:10:30 +0000",draft,3.5,Kashmir,Schnitt Brewing Company﻿,
+schnitt-brewing-company,Robert Giterman,"Fri, 10 Jul 2026 12:03:13 +0000",,3.5,Hop 4ward,Schnitt Brewing Company﻿,
+schnitt-brewing-company,Aviad Attia,"Fri, 10 Jul 2026 11:45:16 +0000",,,Day Shift,Schnitt Brewing Company﻿,
