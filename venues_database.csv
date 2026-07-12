@@ -328,8 +328,8 @@ b7-beer-house,Ziv Shwartzman,"Fri, 29 May 2026 08:44:41 +0000",draft,3.75,Pilsne
 b7-beer-house,Yana O,"Fri, 29 May 2026 08:43:54 +0000",bottle,4.0,Night Shift Vintage 2025 / Russian Imperial Stout Aged In Rhum And Vanilla Macadamia Rum Barrels,HORIZONT Brewing,Stout - Russian Imperial
 b7-beer-house,גל סילברמן,"Fri, 29 May 2026 08:43:40 +0000",bottle,4.7,Experiments In the Kitchen,Mortalis Brewing Company,Stout - Imperial / Double Pastry
 b7-beer-house,Tom Lahav,"Fri, 29 May 2026 08:43:38 +0000",can,4.0,Prague Tap Room 2nd Anniversary,Sibeeria Brewery,IPA - Triple New England / Hazy
-b7-beer-house,Ziv Shwartzman,"Fri, 29 May 2026 08:42:24 +0000",draft,3.75,Prunes In Chocolate,Radionov,"Homebrew, Porter - Other"
 b7-beer-house,Tom Lahav,"Fri, 29 May 2026 08:42:24 +0000",can,3.75,"Hop Elixir: Citra, Citra Hyperboost, Citra Cryo, Citra Dynaboost",Sibeeria Brewery,IPA - Session New England / Hazy
+b7-beer-house,Ziv Shwartzman,"Fri, 29 May 2026 08:42:24 +0000",draft,3.75,Prunes In Chocolate,Radionov,"Homebrew, Porter - Other"
 b7-beer-house,Ido Cohen,"Fri, 29 May 2026 08:42:17 +0000",bottle,4.0,Night Shift Vintage 2025 / Double Chocolate Imperial Milk Porter  Aged In Bourbon Barrels,HORIZONT Brewing,Porter - Imperial / Double
 b7-beer-house,Mikhail Stolov,"Fri, 29 May 2026 08:41:47 +0000",can,3.75,"Hop Elixir: Citra, Citra Hyperboost, Citra Cryo, Citra Dynaboost",Sibeeria Brewery,IPA - Session New England / Hazy
 b7-beer-house,Ido Cohen,"Fri, 29 May 2026 08:41:42 +0000",bottle,3.9,Night Shift Vintage 2025 / Peanut Butter Jelly Imperial Pastry Stout Aged In Pedro Ximénez Sherry Barrels,HORIZONT Brewing,Stout - Imperial / Double Pastry
@@ -1071,8 +1071,8 @@ schnitt-brewing-company,Andrey Granovsky,"Fri, 08 May 2026 14:26:07 +0000",draft
 lauter,dafi20,"Fri, 08 May 2026 14:26:00 +0000",draft,3.5,Oasis,Negev Brewery (נגב),Blonde / Golden Ale - Other
 schnitt-brewing-company,Dr Troubles,"Fri, 08 May 2026 14:20:50 +0000",draft,3.25,Ice Ice Bockbier,Schnitt Brewing Company﻿,Bock - Eisbock
 b7-beer-house,Oren Hazan,"Fri, 08 May 2026 14:05:49 +0000",draft,4.0,I Love the Smell of Strata In the Morning,Sibeeria Brewery,IPA - American
-b7-beer-house,Oren Hazan,"Fri, 08 May 2026 14:05:01 +0000",draft,4.0,Helix,Equilibrium Brewery,Pilsner - German
 schnitt-brewing-company,Yoav Kowalski,"Fri, 08 May 2026 14:05:01 +0000",,3.5,Cheers Alenbeer,Schnitt Brewing Company﻿,IPA - Session
+b7-beer-house,Oren Hazan,"Fri, 08 May 2026 14:05:01 +0000",draft,4.0,Helix,Equilibrium Brewery,Pilsner - German
 b7-beer-house,Oren Hazan,"Fri, 08 May 2026 14:04:15 +0000",draft,3.75,רוביקון,New Pioneer Brewing Co - חלוץ חדש,Brown Ale - American
 schnitt-brewing-company,Yoav Kowalski,"Fri, 08 May 2026 14:04:02 +0000",draft,3.25,Ice Ice Bockbier,Schnitt Brewing Company﻿,Bock - Eisbock
 schnitt-brewing-company,Vladimir Kanevsky,"Fri, 08 May 2026 13:59:02 +0000",draft,4.0,Cheers Alenbeer,Schnitt Brewing Company﻿,IPA - Session
@@ -18671,3 +18671,16 @@ schnitt-brewing-company,Alexander the Great ™️,"Fri, 10 Jul 2026 13:13:40 +0
 schnitt-brewing-company,Alexander the Great ™️,"Fri, 10 Jul 2026 13:10:30 +0000",draft,3.5,Kashmir,Schnitt Brewing Company﻿,
 schnitt-brewing-company,Robert Giterman,"Fri, 10 Jul 2026 12:03:13 +0000",,3.5,Hop 4ward,Schnitt Brewing Company﻿,
 schnitt-brewing-company,Aviad Attia,"Fri, 10 Jul 2026 11:45:16 +0000",,,Day Shift,Schnitt Brewing Company﻿,
+lauter,Guy Azene,"Sat, 11 Jul 2026 19:59:21 +0000",can,4.3,8 Year Anniversary Tropical Smoothie Sour Ale,Ārpus Brewing Co.,
+lauter,Elad Schitrit,"Sat, 11 Jul 2026 19:57:35 +0000",bottle,3.75,Wild Berry Imperial Stout - Bourbon Barrel Aged,Vocation Brewery,
+lauter,Guy Azene,"Sat, 11 Jul 2026 19:28:23 +0000",can,4.2,TDH Nectaron X Motueka X Citra DIPA,Ārpus Brewing Co.,
+lauter,Michael Malkin,"Sat, 11 Jul 2026 19:10:47 +0000",draft,4.5,Pomegranate Sour,Midbar Brewery,
+lauter,David Siegel,"Sat, 11 Jul 2026 19:07:33 +0000",draft,4.0,Pomegranate Sour,Midbar Brewery,
+lauter,TheOnlyMagicalNoob,"Sat, 11 Jul 2026 18:52:18 +0000",can,4.0,Pineapple X Red Currant X Peach X Red Grapes X Almond Smoothie Sour Ale,Ārpus Brewing Co.,
+lauter,Elad Schitrit,"Sat, 11 Jul 2026 18:07:50 +0000",draft,3.75,486,Herzl (הרצל),
+lauter,TheOnlyMagicalNoob,"Sat, 11 Jul 2026 18:04:24 +0000",draft,3.5,Pomegranate Sour,Midbar Brewery,
+porter-and-sons,Dennis Kreinovich,"Sat, 11 Jul 2026 13:39:27 +0000",draft,4.0,Rosé de Gambrinus,Brasserie Cantillon,
+porter-and-sons,Dennis Kreinovich,"Sat, 11 Jul 2026 13:37:31 +0000",draft,3.75,Oude Gueuze Tilquin à l'Ancienne,Gueuzerie Tilquin,
+porter-and-sons,Dennis Kreinovich,"Sat, 11 Jul 2026 12:41:00 +0000",draft,3.75,Pleroma Karpologi Pineapple Peach Marshmallow Créme Brulée Sour,Omnipollo,
+berlin-florentin,Nadav Cohen,"Sat, 11 Jul 2026 22:26:12 +0000",,3.5,NEIPA,Volfas Engelman,
+berlin-florentin,Nadav Cohen,"Sat, 11 Jul 2026 22:25:21 +0000",,3.75,Juice Shack Session NEIPA,BrewDog,
