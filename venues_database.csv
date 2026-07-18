@@ -328,8 +328,8 @@ b7-beer-house,Ziv Shwartzman,"Fri, 29 May 2026 08:44:41 +0000",draft,3.75,Pilsne
 b7-beer-house,Yana O,"Fri, 29 May 2026 08:43:54 +0000",bottle,4.0,Night Shift Vintage 2025 / Russian Imperial Stout Aged In Rhum And Vanilla Macadamia Rum Barrels,HORIZONT Brewing,Stout - Russian Imperial
 b7-beer-house,גל סילברמן,"Fri, 29 May 2026 08:43:40 +0000",bottle,4.7,Experiments In the Kitchen,Mortalis Brewing Company,Stout - Imperial / Double Pastry
 b7-beer-house,Tom Lahav,"Fri, 29 May 2026 08:43:38 +0000",can,4.0,Prague Tap Room 2nd Anniversary,Sibeeria Brewery,IPA - Triple New England / Hazy
-b7-beer-house,Tom Lahav,"Fri, 29 May 2026 08:42:24 +0000",can,3.75,"Hop Elixir: Citra, Citra Hyperboost, Citra Cryo, Citra Dynaboost",Sibeeria Brewery,IPA - Session New England / Hazy
 b7-beer-house,Ziv Shwartzman,"Fri, 29 May 2026 08:42:24 +0000",draft,3.75,Prunes In Chocolate,Radionov,"Homebrew, Porter - Other"
+b7-beer-house,Tom Lahav,"Fri, 29 May 2026 08:42:24 +0000",can,3.75,"Hop Elixir: Citra, Citra Hyperboost, Citra Cryo, Citra Dynaboost",Sibeeria Brewery,IPA - Session New England / Hazy
 b7-beer-house,Ido Cohen,"Fri, 29 May 2026 08:42:17 +0000",bottle,4.0,Night Shift Vintage 2025 / Double Chocolate Imperial Milk Porter  Aged In Bourbon Barrels,HORIZONT Brewing,Porter - Imperial / Double
 b7-beer-house,Mikhail Stolov,"Fri, 29 May 2026 08:41:47 +0000",can,3.75,"Hop Elixir: Citra, Citra Hyperboost, Citra Cryo, Citra Dynaboost",Sibeeria Brewery,IPA - Session New England / Hazy
 b7-beer-house,Ido Cohen,"Fri, 29 May 2026 08:41:42 +0000",bottle,3.9,Night Shift Vintage 2025 / Peanut Butter Jelly Imperial Pastry Stout Aged In Pedro Ximénez Sherry Barrels,HORIZONT Brewing,Stout - Imperial / Double Pastry
@@ -1071,8 +1071,8 @@ schnitt-brewing-company,Andrey Granovsky,"Fri, 08 May 2026 14:26:07 +0000",draft
 lauter,dafi20,"Fri, 08 May 2026 14:26:00 +0000",draft,3.5,Oasis,Negev Brewery (נגב),Blonde / Golden Ale - Other
 schnitt-brewing-company,Dr Troubles,"Fri, 08 May 2026 14:20:50 +0000",draft,3.25,Ice Ice Bockbier,Schnitt Brewing Company﻿,Bock - Eisbock
 b7-beer-house,Oren Hazan,"Fri, 08 May 2026 14:05:49 +0000",draft,4.0,I Love the Smell of Strata In the Morning,Sibeeria Brewery,IPA - American
-schnitt-brewing-company,Yoav Kowalski,"Fri, 08 May 2026 14:05:01 +0000",,3.5,Cheers Alenbeer,Schnitt Brewing Company﻿,IPA - Session
 b7-beer-house,Oren Hazan,"Fri, 08 May 2026 14:05:01 +0000",draft,4.0,Helix,Equilibrium Brewery,Pilsner - German
+schnitt-brewing-company,Yoav Kowalski,"Fri, 08 May 2026 14:05:01 +0000",,3.5,Cheers Alenbeer,Schnitt Brewing Company﻿,IPA - Session
 b7-beer-house,Oren Hazan,"Fri, 08 May 2026 14:04:15 +0000",draft,3.75,רוביקון,New Pioneer Brewing Co - חלוץ חדש,Brown Ale - American
 schnitt-brewing-company,Yoav Kowalski,"Fri, 08 May 2026 14:04:02 +0000",draft,3.25,Ice Ice Bockbier,Schnitt Brewing Company﻿,Bock - Eisbock
 schnitt-brewing-company,Vladimir Kanevsky,"Fri, 08 May 2026 13:59:02 +0000",draft,4.0,Cheers Alenbeer,Schnitt Brewing Company﻿,IPA - Session
@@ -18828,3 +18828,37 @@ lauter,Eylon,"Thu, 16 Jul 2026 15:30:12 +0000",draft,3.5,486,Herzl (הרצל),
 lauter,Kelly Inbar,"Thu, 16 Jul 2026 14:51:14 +0000",draft,4.0,486,Herzl (הרצל),
 lauter,גל סילברמן,"Thu, 16 Jul 2026 09:40:01 +0000",draft,3.4,486,Herzl (הרצל),
 beerline,Philip Greenberg,"Thu, 16 Jul 2026 15:47:21 +0000",draft,4.75,Delirium Red,Delirium - Huyghe Brewery,
+b7-beer-house,Eugene Solo,"Fri, 17 Jul 2026 16:02:21 +0000",,3.5,Cerdos Voladores Session IPA,Barcelona Beer Company,
+b7-beer-house,Yotam Bar-natan,"Fri, 17 Jul 2026 09:53:58 +0000",can,3.4,אם המבשלות,BeerBazaar / Mivshelet Ha’Aretz,
+lauter,Omri Gill,"Fri, 17 Jul 2026 22:31:53 +0000",draft,4.0,Luigi,Schnitt Brewing Company﻿,
+lauter,Yaron Sh,"Fri, 17 Jul 2026 16:28:13 +0000",draft,4.0,HOPE,Schnitt Brewing Company﻿,
+lauter,Adam Berelowitz,"Fri, 17 Jul 2026 15:55:17 +0000",can,4.0,Mosaic Ale 12,Pivovar ZICHOVEC,
+lauter,David Siegel,"Fri, 17 Jul 2026 15:53:29 +0000",can,4.5,Mango X Pineapple X Banana Extra Ice Cream Smoothie Sour Ale,Ārpus Brewing Co.,
+lauter,Shai Friling,"Fri, 17 Jul 2026 15:18:58 +0000",draft,3.5,486,Herzl (הרצל),
+lauter,Cormac Mc Donnell,"Fri, 17 Jul 2026 14:58:47 +0000",,3.5,Blueberry Brioche,Schnitt Brewing Company﻿,
+lauter,Omri Gill,"Fri, 17 Jul 2026 14:58:09 +0000",draft,3.75,486,Herzl (הרצל),
+lauter,Alon Ziv,"Fri, 17 Jul 2026 14:57:58 +0000",bottle,4.25,Noa Pecan Mud Cake Stout,Omnipollo,
+lauter,Yaron Sh,"Fri, 17 Jul 2026 14:51:39 +0000",can,4.5,Orange Creamsicle,Vault City Brewing,
+lauter,Adam Berelowitz,"Fri, 17 Jul 2026 14:46:04 +0000",can,3.75,"Yes We Can - Hazy IPA: Citra, Nelson Sauvin",Maryensztadt,
+lauter,Adam Berelowitz,"Fri, 17 Jul 2026 14:40:11 +0000",can,4.0,Orange Creamsicle,Vault City Brewing,
+lauter,Yaron Sh,"Fri, 17 Jul 2026 14:02:53 +0000",,4.25,Mango X Pineapple X Banana Extra Ice Cream Smoothie Sour Ale,Ārpus Brewing Co.,
+lauter,Kelly Inbar,"Fri, 17 Jul 2026 13:39:39 +0000",can,3.25,Cerdos Voladores IPA,Barcelona Beer Company,
+lauter,Yaron Sh,"Fri, 17 Jul 2026 13:29:35 +0000",can,4.0,Cerdos Voladores IPA,Barcelona Beer Company,
+porter-and-sons,Omri Gill,"Fri, 17 Jul 2026 22:33:29 +0000",,3.25,Guinness Draught,Guinness,
+porter-and-sons,Omri Gill,"Fri, 17 Jul 2026 22:31:10 +0000",draft,4.0,Tucher Pils,Tucher Bräu,
+porter-and-sons,NoamCH,"Fri, 17 Jul 2026 09:02:23 +0000",draft,3.5,Twist & Stout,Schnitt Brewing Company﻿,
+berlin-florentin,Amit Ben Haim,"Fri, 17 Jul 2026 21:39:05 +0000",can,3.75,Cerdos Voladores Session IPA,Barcelona Beer Company,
+schnitt-brewing-company,Greg,"Sat, 18 Jul 2026 07:59:27 +0000",draft,3.5,C of Hops,Schnitt Brewing Company﻿,
+schnitt-brewing-company,Omri Gill,"Fri, 17 Jul 2026 22:32:26 +0000",draft,4.0,Mangolorian (2026),Schnitt Brewing Company﻿,
+schnitt-brewing-company,Kelly Inbar,"Fri, 17 Jul 2026 15:49:45 +0000",draft,4.25,Loral Compass,Schnitt Brewing Company﻿,
+schnitt-brewing-company,Shai Friling,"Fri, 17 Jul 2026 15:00:25 +0000",,3.75,Mangolorian (2026),Schnitt Brewing Company﻿,
+schnitt-brewing-company,Shai Friling,"Fri, 17 Jul 2026 14:59:27 +0000",,3.75,Loral Compass,Schnitt Brewing Company﻿,
+schnitt-brewing-company,Alon Ziv,"Fri, 17 Jul 2026 14:51:22 +0000",draft,4.25,Hopsy Dazy,Schnitt Brewing Company﻿,
+schnitt-brewing-company,Cormac Mc Donnell,"Fri, 17 Jul 2026 14:44:17 +0000",,3.5,Mangolorian (2026),Schnitt Brewing Company﻿,
+schnitt-brewing-company,Greg,"Fri, 17 Jul 2026 13:46:18 +0000",draft,3.5,Mangolorian (2026),Schnitt Brewing Company﻿,
+schnitt-brewing-company,Greg,"Fri, 17 Jul 2026 12:37:41 +0000",draft,3.5,Tea Party: Lemon Verbena,Schnitt Brewing Company﻿,
+schnitt-brewing-company,Slava Gvantmakher,"Fri, 17 Jul 2026 12:19:56 +0000",draft,4.0,Guava Island 2026,Schnitt Brewing Company﻿,
+schnitt-brewing-company,Greg,"Fri, 17 Jul 2026 11:48:28 +0000",draft,4.0,Loral Compass,Schnitt Brewing Company﻿,
+schnitt-brewing-company,Oly Shamrik,"Fri, 17 Jul 2026 11:44:53 +0000",draft,4.5,Loral Compass,Schnitt Brewing Company﻿,
+schnitt-brewing-company,Mel Vaserman,"Fri, 17 Jul 2026 09:59:13 +0000",draft,3.75,Loral Compass,Schnitt Brewing Company﻿,
+ursa,Max N,"Fri, 17 Jul 2026 19:46:51 +0000",can,3.6,Hoppy Little Thing,Sierra Nevada Brewing Co.,
