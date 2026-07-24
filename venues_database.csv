@@ -328,8 +328,8 @@ b7-beer-house,Ziv Shwartzman,"Fri, 29 May 2026 08:44:41 +0000",draft,3.75,Pilsne
 b7-beer-house,Yana O,"Fri, 29 May 2026 08:43:54 +0000",bottle,4.0,Night Shift Vintage 2025 / Russian Imperial Stout Aged In Rhum And Vanilla Macadamia Rum Barrels,HORIZONT Brewing,Stout - Russian Imperial
 b7-beer-house,גל סילברמן,"Fri, 29 May 2026 08:43:40 +0000",bottle,4.7,Experiments In the Kitchen,Mortalis Brewing Company,Stout - Imperial / Double Pastry
 b7-beer-house,Tom Lahav,"Fri, 29 May 2026 08:43:38 +0000",can,4.0,Prague Tap Room 2nd Anniversary,Sibeeria Brewery,IPA - Triple New England / Hazy
-b7-beer-house,Tom Lahav,"Fri, 29 May 2026 08:42:24 +0000",can,3.75,"Hop Elixir: Citra, Citra Hyperboost, Citra Cryo, Citra Dynaboost",Sibeeria Brewery,IPA - Session New England / Hazy
 b7-beer-house,Ziv Shwartzman,"Fri, 29 May 2026 08:42:24 +0000",draft,3.75,Prunes In Chocolate,Radionov,"Homebrew, Porter - Other"
+b7-beer-house,Tom Lahav,"Fri, 29 May 2026 08:42:24 +0000",can,3.75,"Hop Elixir: Citra, Citra Hyperboost, Citra Cryo, Citra Dynaboost",Sibeeria Brewery,IPA - Session New England / Hazy
 b7-beer-house,Ido Cohen,"Fri, 29 May 2026 08:42:17 +0000",bottle,4.0,Night Shift Vintage 2025 / Double Chocolate Imperial Milk Porter  Aged In Bourbon Barrels,HORIZONT Brewing,Porter - Imperial / Double
 b7-beer-house,Mikhail Stolov,"Fri, 29 May 2026 08:41:47 +0000",can,3.75,"Hop Elixir: Citra, Citra Hyperboost, Citra Cryo, Citra Dynaboost",Sibeeria Brewery,IPA - Session New England / Hazy
 b7-beer-house,Ido Cohen,"Fri, 29 May 2026 08:41:42 +0000",bottle,3.9,Night Shift Vintage 2025 / Peanut Butter Jelly Imperial Pastry Stout Aged In Pedro Ximénez Sherry Barrels,HORIZONT Brewing,Stout - Imperial / Double Pastry
@@ -1071,8 +1071,8 @@ schnitt-brewing-company,Andrey Granovsky,"Fri, 08 May 2026 14:26:07 +0000",draft
 lauter,dafi20,"Fri, 08 May 2026 14:26:00 +0000",draft,3.5,Oasis,Negev Brewery (נגב),Blonde / Golden Ale - Other
 schnitt-brewing-company,Dr Troubles,"Fri, 08 May 2026 14:20:50 +0000",draft,3.25,Ice Ice Bockbier,Schnitt Brewing Company﻿,Bock - Eisbock
 b7-beer-house,Oren Hazan,"Fri, 08 May 2026 14:05:49 +0000",draft,4.0,I Love the Smell of Strata In the Morning,Sibeeria Brewery,IPA - American
-schnitt-brewing-company,Yoav Kowalski,"Fri, 08 May 2026 14:05:01 +0000",,3.5,Cheers Alenbeer,Schnitt Brewing Company﻿,IPA - Session
 b7-beer-house,Oren Hazan,"Fri, 08 May 2026 14:05:01 +0000",draft,4.0,Helix,Equilibrium Brewery,Pilsner - German
+schnitt-brewing-company,Yoav Kowalski,"Fri, 08 May 2026 14:05:01 +0000",,3.5,Cheers Alenbeer,Schnitt Brewing Company﻿,IPA - Session
 b7-beer-house,Oren Hazan,"Fri, 08 May 2026 14:04:15 +0000",draft,3.75,רוביקון,New Pioneer Brewing Co - חלוץ חדש,Brown Ale - American
 schnitt-brewing-company,Yoav Kowalski,"Fri, 08 May 2026 14:04:02 +0000",draft,3.25,Ice Ice Bockbier,Schnitt Brewing Company﻿,Bock - Eisbock
 schnitt-brewing-company,Vladimir Kanevsky,"Fri, 08 May 2026 13:59:02 +0000",draft,4.0,Cheers Alenbeer,Schnitt Brewing Company﻿,IPA - Session
@@ -19185,3 +19185,65 @@ lauter,Ido Meir,"Wed, 22 Jul 2026 21:38:55 +0000",draft,4.0,Floris Cactus,Deliri
 lauter,Shmupi Koto,"Wed, 22 Jul 2026 17:14:11 +0000",bottle,4.8,Oude Roussanne Tilquin à l'Ancienne (2021-2022),Gueuzerie Tilquin,
 schnitt-brewing-company,ori shuster,"Wed, 22 Jul 2026 10:03:06 +0000",draft,3.5,Loral Compass,Schnitt Brewing Company﻿,
 b7-beer-house,Yuval Lutski,"Wed, 22 Jul 2026 13:17:49 +0000",can,4.5,PTSD,New Pioneer Brewing Co - חלוץ חדש,
+b7-beer-house,Israel Shenkman,"Fri, 24 Jul 2026 08:25:40 +0000",can,4.25,Sunset Passion Fruited Sour,Untitled Art,
+b7-beer-house,Yotam Bar-natan,"Fri, 24 Jul 2026 08:14:59 +0000",can,4.2,Sunset Passion Fruited Sour,Untitled Art,
+b7-beer-house,Dima Shleifman,"Thu, 23 Jul 2026 19:18:25 +0000",can,3.5,Sour Strawberry And Guava 12,Pivovar ZICHOVEC,
+b7-beer-house,Dima Shleifman,"Thu, 23 Jul 2026 19:02:18 +0000",can,3.5,Hopsy Dazy,Schnitt Brewing Company﻿,
+b7-beer-house,Dima Shleifman,"Thu, 23 Jul 2026 18:13:12 +0000",draft,5.0,PTSD,New Pioneer Brewing Co - חלוץ חדש,
+schnitt-brewing-company,Nadav Cohen,"Thu, 23 Jul 2026 22:23:06 +0000",,4.0,Loral Compass,Schnitt Brewing Company﻿,
+schnitt-brewing-company,Yael Hochberg Yanai,"Thu, 23 Jul 2026 21:46:09 +0000",draft,4.5,Punk IPA,BrewDog,
+schnitt-brewing-company,Itay shalom Kaplan,"Thu, 23 Jul 2026 21:36:06 +0000",draft,3.75,Guava Island 2026,Schnitt Brewing Company﻿,
+schnitt-brewing-company,Assaf Levanon,"Thu, 23 Jul 2026 21:21:59 +0000",draft,,Loral Compass,Schnitt Brewing Company﻿,
+schnitt-brewing-company,Max N,"Thu, 23 Jul 2026 20:29:55 +0000",draft,3.5,C of Hops,Schnitt Brewing Company﻿,
+schnitt-brewing-company,Yael Hochberg Yanai,"Thu, 23 Jul 2026 20:19:18 +0000",draft,5.0,What the Helles?!,Schnitt Brewing Company﻿,
+schnitt-brewing-company,Tomer David,"Thu, 23 Jul 2026 17:08:08 +0000",bottle,4.5,Night Shift Vintage 2024 - Triticale Wine Aged In Gemenc Whiskey & Tennessee Whiskey Barrels,HORIZONT Brewing,
+schnitt-brewing-company,Gabi David,"Thu, 23 Jul 2026 17:06:10 +0000",bottle,4.25,Night Shift Vintage 2024 - Triticale Wine Aged In Gemenc Whiskey & Tennessee Whiskey Barrels,HORIZONT Brewing,
+schnitt-brewing-company,Dennis Prokopiev,"Thu, 23 Jul 2026 16:57:34 +0000",can,3.1,Triple Hazy Jane,BrewDog,
+schnitt-brewing-company,alexander_rutkovsky_9590,"Thu, 23 Jul 2026 16:41:03 +0000",can,3.5,Robin 12,Pivovar ZICHOVEC,
+schnitt-brewing-company,Dennis Prokopiev,"Thu, 23 Jul 2026 16:36:35 +0000",can,3.7,Robin 12,Pivovar ZICHOVEC,
+schnitt-brewing-company,alexander_rutkovsky_9590,"Thu, 23 Jul 2026 16:28:01 +0000",can,3.75,Mosaic Ale 12,Pivovar ZICHOVEC,
+schnitt-brewing-company,Dennis Prokopiev,"Thu, 23 Jul 2026 16:26:08 +0000",can,3.4,Mosaic Ale 12,Pivovar ZICHOVEC,
+schnitt-brewing-company,Dennis Prokopiev,"Thu, 23 Jul 2026 15:48:11 +0000",draft,3.3,Twist & Stout,Schnitt Brewing Company﻿,
+schnitt-brewing-company,Dennis Prokopiev,"Thu, 23 Jul 2026 15:45:18 +0000",draft,2.5,Who Is Dunkelman?,Schnitt Brewing Company﻿,
+schnitt-brewing-company,Gabi David,"Thu, 23 Jul 2026 15:01:15 +0000",,3.75,Loral Compass,Schnitt Brewing Company﻿,
+schnitt-brewing-company,Gabi David,"Thu, 23 Jul 2026 14:58:39 +0000",draft,4.0,Mangolorian (2026),Schnitt Brewing Company﻿,
+schnitt-brewing-company,Dennis Prokopiev,"Thu, 23 Jul 2026 14:54:53 +0000",draft,3.2,Kashmir,Schnitt Brewing Company﻿,
+schnitt-brewing-company,Afek Stein,"Thu, 23 Jul 2026 14:53:24 +0000",draft,3.5,What the Helles?!,Schnitt Brewing Company﻿,
+schnitt-brewing-company,Dennis Prokopiev,"Thu, 23 Jul 2026 14:47:51 +0000",draft,3.6,What the Helles?!,Schnitt Brewing Company﻿,
+schnitt-brewing-company,Dennis Prokopiev,"Thu, 23 Jul 2026 14:18:12 +0000",draft,3.4,Hop 4ward,Schnitt Brewing Company﻿,
+schnitt-brewing-company,Dennis Prokopiev,"Thu, 23 Jul 2026 13:52:52 +0000",draft,3.6,Loral Compass,Schnitt Brewing Company﻿,
+schnitt-brewing-company,Dennis Prokopiev,"Thu, 23 Jul 2026 13:51:46 +0000",draft,3.3,Mangolorian (2026),Schnitt Brewing Company﻿,
+schnitt-brewing-company,Dennis Prokopiev,"Thu, 23 Jul 2026 13:49:02 +0000",draft,3.0,C of Hops,Schnitt Brewing Company﻿,
+schnitt-brewing-company,levlev444,"Thu, 23 Jul 2026 13:41:57 +0000",draft,3.5,Easy Ride,Schnitt Brewing Company﻿,
+schnitt-brewing-company,alexander_rutkovsky_9590,"Thu, 23 Jul 2026 13:11:38 +0000",draft,4.0,Loral Compass,Schnitt Brewing Company﻿,
+lauter,Eli Smikin,"Fri, 24 Jul 2026 04:47:28 +0000",,3.2,La Mujer De Verde,Little Rain Brewing Company,
+lauter,Eli Smikin,"Fri, 24 Jul 2026 04:34:23 +0000",can,4.2,Pepper Keeper,Selfmade Brewery,
+lauter,Eran Keller,"Thu, 23 Jul 2026 20:53:12 +0000",can,4.0,Hazy Jane Guava,BrewDog,
+lauter,Max N,"Thu, 23 Jul 2026 19:14:40 +0000",draft,3.3,Strong Brown Ale,Midbar Brewery,
+lauter,Eli Smikin,"Thu, 23 Jul 2026 18:36:33 +0000",,3.4,Warm Me,Broken City Brewing,
+lauter,Eli Smikin,"Thu, 23 Jul 2026 18:24:51 +0000",can,3.2,Gemini | Blueberry + Pineapple + Glazed Donut,Mortalis Brewing Company,
+lauter,Tamir Mitnitski,"Thu, 23 Jul 2026 17:58:31 +0000",bottle,3.5,מכת חושך,Oak & Ash,
+lauter,Tamir Mitnitski,"Thu, 23 Jul 2026 17:55:41 +0000",can,3.25,BUSSABA Ex-Weisse,Full Moon Brewworks,
+lauter,Eli Smikin,"Thu, 23 Jul 2026 17:34:47 +0000",can,4.5,Hydra | Passion Fruit + Pineapple + Coconut,Mortalis Brewing Company,
+lauter,Eli Smikin,"Thu, 23 Jul 2026 16:51:49 +0000",,4.0,Tonka Black Forest Gateau,Vault City Brewing,
+lauter,Ido Cohen,"Thu, 23 Jul 2026 16:42:23 +0000",can,3.8,Tonka Black Forest Gateau,Vault City Brewing,
+lauter,Ido Cohen,"Thu, 23 Jul 2026 16:37:06 +0000",can,4.1,Gelato XTREME: Rose,Funky Fluid,
+lauter,Lee Ker,"Thu, 23 Jul 2026 16:32:05 +0000",,,Bock,Alexander (אלכסנדר),
+lauter,Lee Ker,"Thu, 23 Jul 2026 16:30:07 +0000",bottle,4.5,Hobgoblin Dark Stout,Marston's Brewery,
+lauter,Lee Ker,"Thu, 23 Jul 2026 16:21:59 +0000",,,Barcelona Cerdos Voladores/Premium Lager,Barcelona Beer Company,
+lauter,Ido Cohen,"Thu, 23 Jul 2026 16:21:37 +0000",,4.3,Gelato XTREME: Sole,Funky Fluid,
+lauter,Ido Cohen,"Thu, 23 Jul 2026 16:10:49 +0000",can,4.1,Pepper Keeper,Selfmade Brewery,
+lauter,Gal Granit,"Thu, 23 Jul 2026 16:06:48 +0000",bottle,4.25,Disko (Cellar Series),Põhjala,
+lauter,Gabi David,"Thu, 23 Jul 2026 15:56:52 +0000",,3.0,Barcelona Cerdos Voladores/Premium Lager,Barcelona Beer Company,
+lauter,Gabi David,"Thu, 23 Jul 2026 15:56:30 +0000",,3.0,Bock,Alexander (אלכסנדר),
+lauter,Eli Smikin,"Thu, 23 Jul 2026 15:56:28 +0000",can,3.6,Double Life,Blackout Brewing,
+lauter,Gabi David,"Thu, 23 Jul 2026 15:56:05 +0000",draft,3.25,Strong Brown Ale,Midbar Brewery,
+lauter,Lee Ker,"Thu, 23 Jul 2026 15:49:34 +0000",,,Punk IPA,BrewDog,
+lauter,Ido Cohen,"Thu, 23 Jul 2026 15:49:11 +0000",can,3.6,La Mujer De Verde,Little Rain Brewing Company,
+lauter,Lee Ker,"Thu, 23 Jul 2026 15:44:52 +0000",,,Who Is Dunkelman?,Schnitt Brewing Company﻿,
+lauter,Ido Cohen,"Thu, 23 Jul 2026 15:42:22 +0000",can,3.8,Double Life,Blackout Brewing,
+lauter,Ido Cohen,"Thu, 23 Jul 2026 13:58:07 +0000",draft,3.1,Passiflora (פסיפלורה) - Passion Fruit Ale,Negev Brewery (נגב),
+lauter,levlev444,"Thu, 23 Jul 2026 13:49:53 +0000",bottle,3.5,3 Fonteinen Oude Geuze Cuvée Armand & Gaston (season 22|23) Blend No. 6,Brouwerij 3 Fonteinen,
+lauter,Eli Smikin,"Thu, 23 Jul 2026 13:46:49 +0000",,3.4,Löwenbräu Märzen,Spaten-Franziskaner-Löwenbräu-Gruppe,
+lauter,Eden Dupont,"Thu, 23 Jul 2026 13:08:49 +0000",draft,3.5,Hopsy Dazy,Schnitt Brewing Company﻿,
+lauter,Eden Dupont,"Thu, 23 Jul 2026 13:06:56 +0000",draft,4.0,Loral Compass,Schnitt Brewing Company﻿,
