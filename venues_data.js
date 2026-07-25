@@ -1,6 +1,6 @@
 // 🍺 BEER STATS DATA - Generated automatically
-// Last updated: 2026-07-24 08:37:54
-// Total records: 19248
+// Last updated: 2026-07-25 08:18:52
+// Total records: 19270
 
 const BEER_DATA = [
   {
@@ -2967,20 +2967,20 @@ const BEER_DATA = [
   {
     "venue": "b7-beer-house",
     "time": "2026-05-29T08:42:24+00:00",
-    "serving": "draft",
-    "rating": 3.75,
-    "beer_name": "Prunes In Chocolate",
-    "brewery": "Radionov",
-    "beer_type": "Homebrew, Porter - Other"
-  },
-  {
-    "venue": "b7-beer-house",
-    "time": "2026-05-29T08:42:24+00:00",
     "serving": "can",
     "rating": 3.75,
     "beer_name": "Hop Elixir: Citra, Citra Hyperboost, Citra Cryo, Citra Dynaboost",
     "brewery": "Sibeeria Brewery",
     "beer_type": "IPA - Session New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T08:42:24+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Prunes In Chocolate",
+    "brewery": "Radionov",
+    "beer_type": "Homebrew, Porter - Other"
   },
   {
     "venue": "b7-beer-house",
@@ -9652,15 +9652,6 @@ const BEER_DATA = [
     "beer_type": "IPA - American"
   },
   {
-    "venue": "b7-beer-house",
-    "time": "2026-05-08T14:05:01+00:00",
-    "serving": "draft",
-    "rating": 4.0,
-    "beer_name": "Helix",
-    "brewery": "Equilibrium Brewery",
-    "beer_type": "Pilsner - German"
-  },
-  {
     "venue": "schnitt-brewing-company",
     "time": "2026-05-08T14:05:01+00:00",
     "serving": "Unknown",
@@ -9668,6 +9659,15 @@ const BEER_DATA = [
     "beer_name": "Cheers Alenbeer",
     "brewery": "Schnitt Brewing Company﻿",
     "beer_type": "IPA - Session"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-08T14:05:01+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Helix",
+    "brewery": "Equilibrium Brewery",
+    "beer_type": "Pilsner - German"
   },
   {
     "venue": "b7-beer-house",
@@ -173233,6 +173233,204 @@ const BEER_DATA = [
     "rating": 4.0,
     "beer_name": "Loral Compass",
     "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-07-24T15:04:48+00:00",
+    "serving": "draft",
+    "rating": 4.5,
+    "beer_name": "PTSD",
+    "brewery": "New Pioneer Brewing Co - חלוץ חדש",
+    "beer_type": ""
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-07-24T09:29:59+00:00",
+    "serving": "Unknown",
+    "rating": 4.25,
+    "beer_name": "LOL",
+    "brewery": "Evil Twin Brewing NYC",
+    "beer_type": ""
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-07-24T09:21:33+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "PTSD",
+    "brewery": "New Pioneer Brewing Co - חלוץ חדש",
+    "beer_type": ""
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-07-24T08:58:57+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "Photon",
+    "brewery": "Equilibrium Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-07-24T18:49:30+00:00",
+    "serving": "bottle",
+    "rating": 4.25,
+    "beer_name": "Bigfoot (2026)",
+    "brewery": "Sierra Nevada Brewing Co.",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-07-24T16:57:45+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Tales From Canada",
+    "brewery": "HORIZONT Brewing",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-07-24T15:58:52+00:00",
+    "serving": "bottle",
+    "rating": 4.0,
+    "beer_name": "Classic Gueuze (2024)",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-07-24T14:41:31+00:00",
+    "serving": "bottle",
+    "rating": 3.5,
+    "beer_name": "Negus (ነጋሲ)",
+    "brewery": "Habesha Breweries",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-07-24T14:20:13+00:00",
+    "serving": "Unknown",
+    "rating": 3.0,
+    "beer_name": "Strong Brown Ale",
+    "brewery": "Midbar Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-07-24T12:55:30+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Mosaic Ale 12",
+    "brewery": "Pivovar ZICHOVEC",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-07-24T20:58:14+00:00",
+    "serving": "draft",
+    "rating": 3.25,
+    "beer_name": "Loral Compass",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-07-24T15:20:52+00:00",
+    "serving": "draft",
+    "rating": 3.25,
+    "beer_name": "Who Is Dunkelman?",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-07-24T14:26:30+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Loral Compass",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-07-24T14:05:28+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Easy Ride",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-07-24T13:08:57+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Loral Compass",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-07-24T12:27:51+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "What the Helles?!",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "beerz",
+    "time": "2026-07-24T18:39:37+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Hobgoblin IPA",
+    "brewery": "Marston's Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "beerz",
+    "time": "2026-07-24T18:23:11+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Hazy Queen",
+    "brewery": "HORIZONT Brewing",
+    "beer_type": ""
+  },
+  {
+    "venue": "beerbazaar-brewery",
+    "time": "2026-07-24T11:41:30+00:00",
+    "serving": "bottle",
+    "rating": 3.5,
+    "beer_name": "בירת קפה - קוסטה ריקה",
+    "brewery": "Srigim (שריגים)",
+    "beer_type": ""
+  },
+  {
+    "venue": "beerbazaar-brewery",
+    "time": "2026-07-24T11:40:50+00:00",
+    "serving": "bottle",
+    "rating": 3.25,
+    "beer_name": "בירת קפה - קולומביה",
+    "brewery": "Srigim (שריגים)",
+    "beer_type": ""
+  },
+  {
+    "venue": "beerline",
+    "time": "2026-07-24T17:45:59+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Gentle Bastard",
+    "brewery": "HORIZONT Brewing",
+    "beer_type": ""
+  },
+  {
+    "venue": "beerline",
+    "time": "2026-07-24T16:49:48+00:00",
+    "serving": "draft",
+    "rating": 4.75,
+    "beer_name": "Shade.",
+    "brewery": "Moon Lark Brewery",
     "beer_type": ""
   }
 ];
