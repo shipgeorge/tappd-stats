@@ -1,6 +1,6 @@
 // 🍺 BEER STATS DATA - Generated automatically
-// Last updated: 2026-07-25 08:18:52
-// Total records: 19270
+// Last updated: 2026-07-26 08:36:38
+// Total records: 19284
 
 const BEER_DATA = [
   {
@@ -2967,20 +2967,20 @@ const BEER_DATA = [
   {
     "venue": "b7-beer-house",
     "time": "2026-05-29T08:42:24+00:00",
-    "serving": "can",
-    "rating": 3.75,
-    "beer_name": "Hop Elixir: Citra, Citra Hyperboost, Citra Cryo, Citra Dynaboost",
-    "brewery": "Sibeeria Brewery",
-    "beer_type": "IPA - Session New England / Hazy"
-  },
-  {
-    "venue": "b7-beer-house",
-    "time": "2026-05-29T08:42:24+00:00",
     "serving": "draft",
     "rating": 3.75,
     "beer_name": "Prunes In Chocolate",
     "brewery": "Radionov",
     "beer_type": "Homebrew, Porter - Other"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T08:42:24+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Hop Elixir: Citra, Citra Hyperboost, Citra Cryo, Citra Dynaboost",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": "IPA - Session New England / Hazy"
   },
   {
     "venue": "b7-beer-house",
@@ -9652,15 +9652,6 @@ const BEER_DATA = [
     "beer_type": "IPA - American"
   },
   {
-    "venue": "schnitt-brewing-company",
-    "time": "2026-05-08T14:05:01+00:00",
-    "serving": "Unknown",
-    "rating": 3.5,
-    "beer_name": "Cheers Alenbeer",
-    "brewery": "Schnitt Brewing Company﻿",
-    "beer_type": "IPA - Session"
-  },
-  {
     "venue": "b7-beer-house",
     "time": "2026-05-08T14:05:01+00:00",
     "serving": "draft",
@@ -9668,6 +9659,15 @@ const BEER_DATA = [
     "beer_name": "Helix",
     "brewery": "Equilibrium Brewery",
     "beer_type": "Pilsner - German"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-08T14:05:01+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "Cheers Alenbeer",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - Session"
   },
   {
     "venue": "b7-beer-house",
@@ -173431,6 +173431,132 @@ const BEER_DATA = [
     "rating": 4.75,
     "beer_name": "Shade.",
     "brewery": "Moon Lark Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-07-25T12:47:20+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Fata Morgana Pale Ale",
+    "brewery": "Negev Brewery (נגב)",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-07-25T21:02:40+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Löwenbräu Märzen",
+    "brewery": "Spaten-Franziskaner-Löwenbräu-Gruppe",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-07-25T21:02:17+00:00",
+    "serving": "draft",
+    "rating": 3.25,
+    "beer_name": "Barcelona Cerdos Voladores/Premium Lager",
+    "brewery": "Barcelona Beer Company",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-07-25T19:16:30+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Löwenbräu Märzen",
+    "brewery": "Spaten-Franziskaner-Löwenbräu-Gruppe",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-07-25T19:14:50+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Barcelona Cerdos Voladores/Premium Lager",
+    "brewery": "Barcelona Beer Company",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-07-25T17:55:06+00:00",
+    "serving": "draft",
+    "rating": 3.25,
+    "beer_name": "Barcelona Cerdos Voladores/Premium Lager",
+    "brewery": "Barcelona Beer Company",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-07-25T17:55:06+00:00",
+    "serving": "draft",
+    "rating": 2.6,
+    "beer_name": "Löwenbräu Märzen",
+    "brewery": "Spaten-Franziskaner-Löwenbräu-Gruppe",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-07-25T15:43:51+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "זהב שחור",
+    "brewery": "New Pioneer Brewing Co - חלוץ חדש",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-07-25T15:34:44+00:00",
+    "serving": "draft",
+    "rating": 3.25,
+    "beer_name": "Löwenbräu Märzen",
+    "brewery": "Spaten-Franziskaner-Löwenbräu-Gruppe",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-07-25T15:32:49+00:00",
+    "serving": "draft",
+    "rating": 3.25,
+    "beer_name": "Barcelona Cerdos Voladores/Premium Lager",
+    "brewery": "Barcelona Beer Company",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-07-25T14:04:30+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "What the Helles?!",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-07-25T13:59:54+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "What Was Was",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-07-25T11:34:11+00:00",
+    "serving": "draft",
+    "rating": 3.2,
+    "beer_name": "Kashmir",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-07-25T10:46:36+00:00",
+    "serving": "draft",
+    "rating": 3.8,
+    "beer_name": "Loral Compass",
+    "brewery": "Schnitt Brewing Company﻿",
     "beer_type": ""
   }
 ];
