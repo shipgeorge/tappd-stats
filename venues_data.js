@@ -1,6 +1,6 @@
 // 🍺 BEER STATS DATA - Generated automatically
-// Last updated: 2026-07-26 08:36:38
-// Total records: 19284
+// Last updated: 2026-07-27 10:05:13
+// Total records: 19421
 
 const BEER_DATA = [
   {
@@ -2967,20 +2967,20 @@ const BEER_DATA = [
   {
     "venue": "b7-beer-house",
     "time": "2026-05-29T08:42:24+00:00",
-    "serving": "draft",
-    "rating": 3.75,
-    "beer_name": "Prunes In Chocolate",
-    "brewery": "Radionov",
-    "beer_type": "Homebrew, Porter - Other"
-  },
-  {
-    "venue": "b7-beer-house",
-    "time": "2026-05-29T08:42:24+00:00",
     "serving": "can",
     "rating": 3.75,
     "beer_name": "Hop Elixir: Citra, Citra Hyperboost, Citra Cryo, Citra Dynaboost",
     "brewery": "Sibeeria Brewery",
     "beer_type": "IPA - Session New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T08:42:24+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Prunes In Chocolate",
+    "brewery": "Radionov",
+    "beer_type": "Homebrew, Porter - Other"
   },
   {
     "venue": "b7-beer-house",
@@ -9652,15 +9652,6 @@ const BEER_DATA = [
     "beer_type": "IPA - American"
   },
   {
-    "venue": "b7-beer-house",
-    "time": "2026-05-08T14:05:01+00:00",
-    "serving": "draft",
-    "rating": 4.0,
-    "beer_name": "Helix",
-    "brewery": "Equilibrium Brewery",
-    "beer_type": "Pilsner - German"
-  },
-  {
     "venue": "schnitt-brewing-company",
     "time": "2026-05-08T14:05:01+00:00",
     "serving": "Unknown",
@@ -9668,6 +9659,15 @@ const BEER_DATA = [
     "beer_name": "Cheers Alenbeer",
     "brewery": "Schnitt Brewing Company﻿",
     "beer_type": "IPA - Session"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-08T14:05:01+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Helix",
+    "brewery": "Equilibrium Brewery",
+    "beer_type": "Pilsner - German"
   },
   {
     "venue": "b7-beer-house",
@@ -173557,6 +173557,1239 @@ const BEER_DATA = [
     "rating": 3.8,
     "beer_name": "Loral Compass",
     "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-07-26T20:16:48+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Alt Neuland",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-07-26T20:16:01+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Who Is Dunkelman?",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-07-26T20:15:41+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Who Is Dunkelman?",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-07-26T20:14:46+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "Alt Neuland",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-07-26T19:20:39+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Mangolorian (2026)",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-07-26T18:42:53+00:00",
+    "serving": "draft",
+    "rating": 3.9,
+    "beer_name": "Paleraiser",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-07-26T17:38:11+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Alt Neuland",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-07-26T17:36:59+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Wit Win (situation)",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-07-26T17:36:57+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Wit Win (situation)",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-07-26T17:32:51+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "Alt Neuland",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-07-26T16:47:10+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "What the Helles?!",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-07-26T16:47:05+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "What the Helles?!",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-07-26T16:41:08+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Paleraiser",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-07-26T16:25:45+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Paleraiser",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-07-26T15:21:10+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "Who Is Dunkelman?",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-07-26T13:45:47+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "אם המבשלות",
+    "brewery": "BeerBazaar / Mivshelet Ha’Aretz",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-07-27T09:40:28+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Zombie Milk  Blue Rasberry Ice Cream",
+    "brewery": "Beer Zombies Brewing Co.",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-07-27T08:57:36+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Wondrous Pils",
+    "brewery": "Wondrous Brewing Company",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-07-27T08:54:15+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "Zombie Milk  Blue Rasberry Ice Cream",
+    "brewery": "Beer Zombies Brewing Co.",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-07-27T04:45:24+00:00",
+    "serving": "Unknown",
+    "rating": 4.25,
+    "beer_name": "Oude Gueuze Tilquin à l'ancienne - Cuvée Paul (2022-2023)",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-07-27T04:43:50+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "Zombie Milk  Blue Rasberry Ice Cream",
+    "brewery": "Beer Zombies Brewing Co.",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-07-26T21:01:07+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Sphere of Eternity",
+    "brewery": "Tenma Beer Project",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-07-26T20:59:13+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "Zombie Milk  Blue Rasberry Ice Cream",
+    "brewery": "Beer Zombies Brewing Co.",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-07-26T20:58:23+00:00",
+    "serving": "can",
+    "rating": 4.5,
+    "beer_name": "Dark Watchers",
+    "brewery": "Alvarado Street Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-07-26T20:57:34+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Advanced Dankology",
+    "brewery": "Shred Beer Company",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-07-26T20:56:47+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "High Hopes B2 (2026)",
+    "brewery": "Human People",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-07-26T20:55:58+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "ResinXS",
+    "brewery": "Alvarado Street Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-07-26T20:55:02+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Sea Sea Top",
+    "brewery": "Humble Sea Brewing Co.",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-07-26T20:54:26+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Wondrous Pils",
+    "brewery": "Wondrous Brewing Company",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-07-26T20:50:32+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Off the Hook",
+    "brewery": "Original Pattern Brewing Company",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-07-26T19:55:58+00:00",
+    "serving": "bottle",
+    "rating": 4.0,
+    "beer_name": "Oude Gueuze Tilquin à l'ancienne - Cuvée Paul (2022-2023)",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-07-26T19:54:20+00:00",
+    "serving": "Unknown",
+    "rating": 4.2,
+    "beer_name": "Oude Gueuze Tilquin à l'ancienne - Cuvée Paul (2022-2023)",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-07-26T19:53:54+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "Zombie Milk  Blue Rasberry Ice Cream",
+    "brewery": "Beer Zombies Brewing Co.",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-07-26T19:52:03+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Zombie Milk  Blue Rasberry Ice Cream",
+    "brewery": "Beer Zombies Brewing Co.",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-07-26T19:49:46+00:00",
+    "serving": "Unknown",
+    "rating": 4.1,
+    "beer_name": "Sphere of Eternity",
+    "brewery": "Tenma Beer Project",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-07-26T19:49:11+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Off the Hook",
+    "brewery": "Original Pattern Brewing Company",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-07-26T19:48:40+00:00",
+    "serving": "Unknown",
+    "rating": 4.2,
+    "beer_name": "Advanced Dankology",
+    "brewery": "Shred Beer Company",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-07-26T19:48:02+00:00",
+    "serving": "Unknown",
+    "rating": 4.2,
+    "beer_name": "ResinXS",
+    "brewery": "Alvarado Street Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-07-26T19:46:41+00:00",
+    "serving": "Unknown",
+    "rating": 4.2,
+    "beer_name": "High Hopes B2 (2026)",
+    "brewery": "Human People",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-07-26T19:46:01+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Pivots And Dials",
+    "brewery": "Sante Adairius Rustic Ales",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-07-26T19:45:04+00:00",
+    "serving": "Unknown",
+    "rating": 4.2,
+    "beer_name": "Sea Sea Top",
+    "brewery": "Humble Sea Brewing Co.",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-07-26T19:44:14+00:00",
+    "serving": "Unknown",
+    "rating": 4.3,
+    "beer_name": "Diamonds & Gasoline",
+    "brewery": "Cellarmaker Brewing Company",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-07-26T19:43:37+00:00",
+    "serving": "Unknown",
+    "rating": 4.5,
+    "beer_name": "Dark Watchers",
+    "brewery": "Alvarado Street Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-07-26T19:42:57+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Wondrous Pils",
+    "brewery": "Wondrous Brewing Company",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-07-26T19:42:04+00:00",
+    "serving": "Unknown",
+    "rating": 3.9,
+    "beer_name": "Wondrous Pils",
+    "brewery": "Wondrous Brewing Company",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-07-26T19:38:23+00:00",
+    "serving": "Unknown",
+    "rating": 4.2,
+    "beer_name": "Reveries Of... Nelson Sauvin 2026",
+    "brewery": "Factory Brewing",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-07-26T19:15:09+00:00",
+    "serving": "bottle",
+    "rating": 4.6,
+    "beer_name": "Oude Gueuze Tilquin à l'ancienne - Cuvée Paul (2022-2023)",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-07-26T18:57:48+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "Zombie Hwhip: Double Blueberry, Double Cherry",
+    "brewery": "Beer Zombies Brewing Co.",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-07-26T18:56:13+00:00",
+    "serving": "Unknown",
+    "rating": 4.25,
+    "beer_name": "Zombie Hwhip: Double Blueberry, Double Cherry",
+    "brewery": "Beer Zombies Brewing Co.",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-07-26T18:55:08+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Zombie Milk  Blue Rasberry Ice Cream",
+    "brewery": "Beer Zombies Brewing Co.",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-07-26T18:54:46+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "Zombie Milk 2026",
+    "brewery": "Beer Zombies Brewing Co.",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-07-26T18:54:19+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Dark Watchers",
+    "brewery": "Alvarado Street Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-07-26T18:54:00+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Zombie Milk  Blue Rasberry Ice Cream",
+    "brewery": "Beer Zombies Brewing Co.",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-07-26T18:51:38+00:00",
+    "serving": "can",
+    "rating": 4.5,
+    "beer_name": "Zombie Hwhip: Double Blueberry, Double Cherry",
+    "brewery": "Beer Zombies Brewing Co.",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-07-26T18:46:59+00:00",
+    "serving": "can",
+    "rating": 4.5,
+    "beer_name": "Dark Watchers",
+    "brewery": "Alvarado Street Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-07-26T18:43:54+00:00",
+    "serving": "Unknown",
+    "rating": 4.5,
+    "beer_name": "Dark Watchers",
+    "brewery": "Alvarado Street Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-07-26T18:42:58+00:00",
+    "serving": "can",
+    "rating": 4.5,
+    "beer_name": "Dark Watchers",
+    "brewery": "Alvarado Street Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-07-26T18:42:16+00:00",
+    "serving": "can",
+    "rating": 4.2,
+    "beer_name": "Dark Watchers",
+    "brewery": "Alvarado Street Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-07-26T18:42:08+00:00",
+    "serving": "can",
+    "rating": 4.5,
+    "beer_name": "Dark Watchers",
+    "brewery": "Alvarado Street Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-07-26T18:39:50+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "Dark Watchers",
+    "brewery": "Alvarado Street Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-07-26T18:37:01+00:00",
+    "serving": "can",
+    "rating": 4.1,
+    "beer_name": "Advanced Dankology",
+    "brewery": "Shred Beer Company",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-07-26T18:36:00+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Advanced Dankology",
+    "brewery": "Shred Beer Company",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-07-26T18:35:29+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Advanced Dankology",
+    "brewery": "Shred Beer Company",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-07-26T18:35:05+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Advanced Dankology",
+    "brewery": "Shred Beer Company",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-07-26T18:34:00+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "Advanced Dankology",
+    "brewery": "Shred Beer Company",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-07-26T18:33:05+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Advanced Dankology",
+    "brewery": "Shred Beer Company",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-07-26T18:32:26+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Advanced Dankology",
+    "brewery": "Shred Beer Company",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-07-26T18:27:04+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "High Hopes B2 (2026)",
+    "brewery": "Human People",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-07-26T18:26:14+00:00",
+    "serving": "Unknown",
+    "rating": 4.5,
+    "beer_name": "High Hopes B2 (2026)",
+    "brewery": "Human People",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-07-26T18:26:11+00:00",
+    "serving": "can",
+    "rating": 4.5,
+    "beer_name": "High Hopes B2 (2026)",
+    "brewery": "Human People",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-07-26T18:26:06+00:00",
+    "serving": "can",
+    "rating": 4.5,
+    "beer_name": "High Hopes B2 (2026)",
+    "brewery": "Human People",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-07-26T18:25:58+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "High Hopes B2 (2026)",
+    "brewery": "Human People",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-07-26T18:24:52+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Strong Brown Ale",
+    "brewery": "Midbar Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-07-26T18:23:30+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "High Hopes B2 (2026)",
+    "brewery": "Human People",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-07-26T18:15:44+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "ResinXS",
+    "brewery": "Alvarado Street Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-07-26T18:14:51+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "ResinXS",
+    "brewery": "Alvarado Street Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-07-26T18:14:43+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "ResinXS",
+    "brewery": "Alvarado Street Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-07-26T18:14:16+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "ResinXS",
+    "brewery": "Alvarado Street Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-07-26T18:14:13+00:00",
+    "serving": "can",
+    "rating": 3.6,
+    "beer_name": "ResinXS",
+    "brewery": "Alvarado Street Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-07-26T18:12:29+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "ResinXS",
+    "brewery": "Alvarado Street Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-07-26T18:11:03+00:00",
+    "serving": "can",
+    "rating": 3.0,
+    "beer_name": "ResinXS",
+    "brewery": "Alvarado Street Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-07-26T18:09:31+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "Sea Sea Top",
+    "brewery": "Humble Sea Brewing Co.",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-07-26T18:08:11+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "Sea Sea Top",
+    "brewery": "Humble Sea Brewing Co.",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-07-26T18:07:43+00:00",
+    "serving": "can",
+    "rating": 3.7,
+    "beer_name": "Sea Sea Top",
+    "brewery": "Humble Sea Brewing Co.",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-07-26T18:06:57+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "Sea Sea Top",
+    "brewery": "Humble Sea Brewing Co.",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-07-26T18:06:46+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Sea Sea Top",
+    "brewery": "Humble Sea Brewing Co.",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-07-26T18:06:35+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Sea Sea Top",
+    "brewery": "Humble Sea Brewing Co.",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-07-26T18:04:51+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Sea Sea Top",
+    "brewery": "Humble Sea Brewing Co.",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-07-26T18:00:24+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Diamonds & Gasoline",
+    "brewery": "Cellarmaker Brewing Company",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-07-26T17:59:46+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "Off the Hook",
+    "brewery": "Original Pattern Brewing Company",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-07-26T17:59:15+00:00",
+    "serving": "can",
+    "rating": 4.1,
+    "beer_name": "Off the Hook",
+    "brewery": "Original Pattern Brewing Company",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-07-26T17:59:05+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Off the Hook",
+    "brewery": "Original Pattern Brewing Company",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-07-26T17:58:59+00:00",
+    "serving": "Unknown",
+    "rating": 4.25,
+    "beer_name": "Off the Hook",
+    "brewery": "Original Pattern Brewing Company",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-07-26T17:58:41+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Off the Hook",
+    "brewery": "Original Pattern Brewing Company",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-07-26T17:58:10+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Pivots And Dials",
+    "brewery": "Sante Adairius Rustic Ales",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-07-26T17:57:45+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Off the Hook",
+    "brewery": "Original Pattern Brewing Company",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-07-26T17:57:07+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Off the Hook",
+    "brewery": "Original Pattern Brewing Company",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-07-26T17:54:18+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Sphere of Eternity",
+    "brewery": "Tenma Beer Project",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-07-26T17:53:16+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Sphere of Eternity",
+    "brewery": "Tenma Beer Project",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-07-26T17:52:15+00:00",
+    "serving": "Unknown",
+    "rating": 4.25,
+    "beer_name": "Sphere of Eternity",
+    "brewery": "Tenma Beer Project",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-07-26T17:52:11+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "Sphere of Eternity",
+    "brewery": "Tenma Beer Project",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-07-26T17:51:58+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Reveries Of... Nelson Sauvin 2026",
+    "brewery": "Factory Brewing",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-07-26T17:51:39+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Sphere of Eternity",
+    "brewery": "Tenma Beer Project",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-07-26T17:51:14+00:00",
+    "serving": "bottle",
+    "rating": 4.2,
+    "beer_name": "Sphere of Eternity",
+    "brewery": "Tenma Beer Project",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-07-26T17:50:40+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Sphere of Eternity",
+    "brewery": "Tenma Beer Project",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-07-26T17:49:23+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Pivots And Dials",
+    "brewery": "Sante Adairius Rustic Ales",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-07-26T17:45:24+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Pivots And Dials",
+    "brewery": "Sante Adairius Rustic Ales",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-07-26T17:43:52+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Pivots And Dials",
+    "brewery": "Sante Adairius Rustic Ales",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-07-26T17:42:54+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Pivots And Dials",
+    "brewery": "Sante Adairius Rustic Ales",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-07-26T17:42:40+00:00",
+    "serving": "can",
+    "rating": null,
+    "beer_name": "Pivots And Dials",
+    "brewery": "Sante Adairius Rustic Ales",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-07-26T17:42:08+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Pivots And Dials",
+    "brewery": "Sante Adairius Rustic Ales",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-07-26T17:40:57+00:00",
+    "serving": "bottle",
+    "rating": 3.0,
+    "beer_name": "Dog Disco - Unfiltered American IPA",
+    "brewery": "Sante Adairius Rustic Ales",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-07-26T17:39:37+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Diamonds & Gasoline",
+    "brewery": "Cellarmaker Brewing Company",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-07-26T17:37:48+00:00",
+    "serving": "Unknown",
+    "rating": 4.25,
+    "beer_name": "Diamonds & Gasoline",
+    "brewery": "Cellarmaker Brewing Company",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-07-26T17:37:37+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Diamonds & Gasoline",
+    "brewery": "Cellarmaker Brewing Company",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-07-26T17:37:35+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Diamonds & Gasoline",
+    "brewery": "Cellarmaker Brewing Company",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-07-26T17:37:20+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Diamonds & Gasoline",
+    "brewery": "Cellarmaker Brewing Company",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-07-26T17:36:26+00:00",
+    "serving": "can",
+    "rating": 4.2,
+    "beer_name": "Diamonds & Gasoline",
+    "brewery": "Cellarmaker Brewing Company",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-07-26T17:35:12+00:00",
+    "serving": "can",
+    "rating": 3.25,
+    "beer_name": "Diamonds & Gasoline",
+    "brewery": "Cellarmaker Brewing Company",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-07-26T17:32:31+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Wondrous Hell Lagerbier",
+    "brewery": "Wondrous Brewing Company",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-07-26T17:32:13+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Reveries Of... Nelson Sauvin 2026",
+    "brewery": "Factory Brewing",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-07-26T17:31:49+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Wondrous Hell Lagerbier",
+    "brewery": "Wondrous Brewing Company",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-07-26T17:31:17+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Wondrous Hell Lagerbier",
+    "brewery": "Wondrous Brewing Company",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-07-26T17:30:52+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Wondrous Hell Lagerbier",
+    "brewery": "Wondrous Brewing Company",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-07-26T17:30:31+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Wondrous Pils",
+    "brewery": "Wondrous Brewing Company",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-07-26T17:30:27+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "Wondrous Hell Lagerbier",
+    "brewery": "Wondrous Brewing Company",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-07-26T17:24:34+00:00",
+    "serving": "bottle",
+    "rating": 3.5,
+    "beer_name": "Reveries Of... Nelson Sauvin 2026",
+    "brewery": "Factory Brewing",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-07-26T17:23:41+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Reveries Of... Nelson Sauvin",
+    "brewery": "Factory Brewing",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-07-26T17:23:16+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Reveries Of... Nelson Sauvin 2026",
+    "brewery": "Factory Brewing",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-07-26T17:22:18+00:00",
+    "serving": "can",
+    "rating": 3.9,
+    "beer_name": "Reveries Of... Nelson Sauvin 2026",
+    "brewery": "Factory Brewing",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-07-26T17:21:43+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "Reveries Of... Nelson Sauvin 2026",
+    "brewery": "Factory Brewing",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-07-26T17:18:43+00:00",
+    "serving": "can",
+    "rating": 3.0,
+    "beer_name": "Reveries Of... Nelson Sauvin 2026",
+    "brewery": "Factory Brewing",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-07-26T17:09:22+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "HOPE",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-07-26T16:57:34+00:00",
+    "serving": "draft",
+    "rating": 3.0,
+    "beer_name": "Strong Brown Ale",
+    "brewery": "Midbar Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-07-26T15:09:36+00:00",
+    "serving": "draft",
+    "rating": 3.25,
+    "beer_name": "Löwenbräu Märzen",
+    "brewery": "Spaten-Franziskaner-Löwenbräu-Gruppe",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-07-26T14:21:31+00:00",
+    "serving": "draft",
+    "rating": 3.0,
+    "beer_name": "Löwenbräu Märzen",
+    "brewery": "Spaten-Franziskaner-Löwenbräu-Gruppe",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-07-26T14:04:55+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Strong Brown Ale",
+    "brewery": "Midbar Brewery",
     "beer_type": ""
   }
 ];
