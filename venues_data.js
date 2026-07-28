@@ -1,6 +1,6 @@
 // 🍺 BEER STATS DATA - Generated automatically
-// Last updated: 2026-07-27 10:05:13
-// Total records: 19421
+// Last updated: 2026-07-28 08:47:56
+// Total records: 19460
 
 const BEER_DATA = [
   {
@@ -2967,20 +2967,20 @@ const BEER_DATA = [
   {
     "venue": "b7-beer-house",
     "time": "2026-05-29T08:42:24+00:00",
-    "serving": "can",
-    "rating": 3.75,
-    "beer_name": "Hop Elixir: Citra, Citra Hyperboost, Citra Cryo, Citra Dynaboost",
-    "brewery": "Sibeeria Brewery",
-    "beer_type": "IPA - Session New England / Hazy"
-  },
-  {
-    "venue": "b7-beer-house",
-    "time": "2026-05-29T08:42:24+00:00",
     "serving": "draft",
     "rating": 3.75,
     "beer_name": "Prunes In Chocolate",
     "brewery": "Radionov",
     "beer_type": "Homebrew, Porter - Other"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T08:42:24+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Hop Elixir: Citra, Citra Hyperboost, Citra Cryo, Citra Dynaboost",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": "IPA - Session New England / Hazy"
   },
   {
     "venue": "b7-beer-house",
@@ -9652,15 +9652,6 @@ const BEER_DATA = [
     "beer_type": "IPA - American"
   },
   {
-    "venue": "schnitt-brewing-company",
-    "time": "2026-05-08T14:05:01+00:00",
-    "serving": "Unknown",
-    "rating": 3.5,
-    "beer_name": "Cheers Alenbeer",
-    "brewery": "Schnitt Brewing Company﻿",
-    "beer_type": "IPA - Session"
-  },
-  {
     "venue": "b7-beer-house",
     "time": "2026-05-08T14:05:01+00:00",
     "serving": "draft",
@@ -9668,6 +9659,15 @@ const BEER_DATA = [
     "beer_name": "Helix",
     "brewery": "Equilibrium Brewery",
     "beer_type": "Pilsner - German"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-08T14:05:01+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "Cheers Alenbeer",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - Session"
   },
   {
     "venue": "b7-beer-house",
@@ -174790,6 +174790,357 @@ const BEER_DATA = [
     "rating": 4.0,
     "beer_name": "Strong Brown Ale",
     "brewery": "Midbar Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-07-27T10:34:20+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "PTSD",
+    "brewery": "New Pioneer Brewing Co - חלוץ חדש",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-07-27T20:45:53+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Blessing",
+    "brewery": "FIRST Craft Beer",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-07-27T20:44:06+00:00",
+    "serving": "can",
+    "rating": 4.5,
+    "beer_name": "Hydra | Passion Fruit + Mango + Peach",
+    "brewery": "Mortalis Brewing Company",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-07-27T19:40:36+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "It's Coming Home (Final Eight - England)",
+    "brewery": "Funky Fluid",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-07-27T19:19:11+00:00",
+    "serving": "can",
+    "rating": 4.75,
+    "beer_name": "Master Blaster",
+    "brewery": "Pulfer Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-07-27T18:55:51+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Easy Ride",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-07-27T18:54:09+00:00",
+    "serving": "draft",
+    "rating": 3.25,
+    "beer_name": "Kashmir",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-07-27T18:53:10+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Loral Compass",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-07-27T18:37:44+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Mangolorian (2026)",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-07-27T16:48:24+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "Twist & Stout",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-07-27T16:47:29+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Wit Win (situation)",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-07-27T16:44:25+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Hop 4ward",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-07-27T16:02:52+00:00",
+    "serving": "Unknown",
+    "rating": 3.25,
+    "beer_name": "Wit Win (situation)",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-07-27T14:59:31+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Guava Island 2026",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-07-27T14:29:54+00:00",
+    "serving": "Unknown",
+    "rating": 3.25,
+    "beer_name": "What the Helles?!",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-07-27T14:23:55+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "אם המבשלות",
+    "brewery": "BeerBazaar / Mivshelet Ha’Aretz",
+    "beer_type": ""
+  },
+  {
+    "venue": "beerz",
+    "time": "2026-07-27T18:46:24+00:00",
+    "serving": "can",
+    "rating": 4.4,
+    "beer_name": "Maple X Coffee X Chocolate X Peanut Butter Imperial Stout",
+    "brewery": "Ārpus Brewing Co.",
+    "beer_type": ""
+  },
+  {
+    "venue": "beerz",
+    "time": "2026-07-27T18:46:02+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "Maple X Coffee X Chocolate X Peanut Butter Imperial Stout",
+    "brewery": "Ārpus Brewing Co.",
+    "beer_type": ""
+  },
+  {
+    "venue": "beerz",
+    "time": "2026-07-27T18:24:58+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Ārpus X Pinta Baltic Porter",
+    "brewery": "Ārpus Brewing Co.",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-07-27T18:51:27+00:00",
+    "serving": "draft",
+    "rating": 3.25,
+    "beer_name": "Löwenbräu Märzen",
+    "brewery": "Spaten-Franziskaner-Löwenbräu-Gruppe",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-07-27T18:49:59+00:00",
+    "serving": "draft",
+    "rating": 2.25,
+    "beer_name": "Guava Island (גויאבה איילנד)",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-07-27T18:49:01+00:00",
+    "serving": "draft",
+    "rating": 3.25,
+    "beer_name": "Easy Ride",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-07-27T18:46:14+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Strong Brown Ale",
+    "brewery": "Midbar Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-07-27T18:45:27+00:00",
+    "serving": "draft",
+    "rating": 3.0,
+    "beer_name": "Th. König Zwickl",
+    "brewery": "König Brauerei",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-07-27T18:44:44+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Hopsy Dazy",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-07-27T18:43:21+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Who Is Dunkelman?",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-07-27T18:41:03+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Tea Party: Lemon Verbena",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-07-27T18:39:51+00:00",
+    "serving": "draft",
+    "rating": 3.0,
+    "beer_name": "IPA",
+    "brewery": "מלכת העמק",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-07-27T18:38:52+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Floris Cactus",
+    "brewery": "Delirium - Huyghe Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-07-27T18:36:55+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Fata Morgana Pale Ale",
+    "brewery": "Negev Brewery (נגב)",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-07-27T18:36:01+00:00",
+    "serving": "draft",
+    "rating": 3.0,
+    "beer_name": "Passiflora (פסיפלורה) - Passion Fruit Ale",
+    "brewery": "Negev Brewery (נגב)",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-07-27T18:35:02+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Cerdos Voladores Session IPA",
+    "brewery": "Barcelona Beer Company",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-07-27T18:34:10+00:00",
+    "serving": "draft",
+    "rating": 2.75,
+    "beer_name": "Barcelona Cerdos Voladores/Premium Lager",
+    "brewery": "Barcelona Beer Company",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-07-27T18:19:02+00:00",
+    "serving": "draft",
+    "rating": 3.25,
+    "beer_name": "Oasis",
+    "brewery": "Negev Brewery (נגב)",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-07-27T18:10:42+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "HOPE",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-07-27T18:09:38+00:00",
+    "serving": "draft",
+    "rating": 3.25,
+    "beer_name": "Löwenbräu Märzen",
+    "brewery": "Spaten-Franziskaner-Löwenbräu-Gruppe",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-07-27T17:43:43+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "HOPE",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-07-27T17:22:33+00:00",
+    "serving": "draft",
+    "rating": 3.25,
+    "beer_name": "Löwenbräu Märzen",
+    "brewery": "Spaten-Franziskaner-Löwenbräu-Gruppe",
+    "beer_type": ""
+  },
+  {
+    "venue": "beerbazaar-brewery",
+    "time": "2026-07-27T17:06:29+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "California",
+    "brewery": "BeerBazaar / Mivshelet Ha’Aretz",
     "beer_type": ""
   }
 ];
