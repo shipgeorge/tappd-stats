@@ -1,6 +1,6 @@
 // 🍺 BEER STATS DATA - Generated automatically
-// Last updated: 2026-07-28 08:47:56
-// Total records: 19460
+// Last updated: 2026-07-29 08:52:07
+// Total records: 19472
 
 const BEER_DATA = [
   {
@@ -2967,20 +2967,20 @@ const BEER_DATA = [
   {
     "venue": "b7-beer-house",
     "time": "2026-05-29T08:42:24+00:00",
-    "serving": "draft",
-    "rating": 3.75,
-    "beer_name": "Prunes In Chocolate",
-    "brewery": "Radionov",
-    "beer_type": "Homebrew, Porter - Other"
-  },
-  {
-    "venue": "b7-beer-house",
-    "time": "2026-05-29T08:42:24+00:00",
     "serving": "can",
     "rating": 3.75,
     "beer_name": "Hop Elixir: Citra, Citra Hyperboost, Citra Cryo, Citra Dynaboost",
     "brewery": "Sibeeria Brewery",
     "beer_type": "IPA - Session New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T08:42:24+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Prunes In Chocolate",
+    "brewery": "Radionov",
+    "beer_type": "Homebrew, Porter - Other"
   },
   {
     "venue": "b7-beer-house",
@@ -9652,15 +9652,6 @@ const BEER_DATA = [
     "beer_type": "IPA - American"
   },
   {
-    "venue": "b7-beer-house",
-    "time": "2026-05-08T14:05:01+00:00",
-    "serving": "draft",
-    "rating": 4.0,
-    "beer_name": "Helix",
-    "brewery": "Equilibrium Brewery",
-    "beer_type": "Pilsner - German"
-  },
-  {
     "venue": "schnitt-brewing-company",
     "time": "2026-05-08T14:05:01+00:00",
     "serving": "Unknown",
@@ -9668,6 +9659,15 @@ const BEER_DATA = [
     "beer_name": "Cheers Alenbeer",
     "brewery": "Schnitt Brewing Company﻿",
     "beer_type": "IPA - Session"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-08T14:05:01+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Helix",
+    "brewery": "Equilibrium Brewery",
+    "beer_type": "Pilsner - German"
   },
   {
     "venue": "b7-beer-house",
@@ -175140,6 +175140,114 @@ const BEER_DATA = [
     "serving": "draft",
     "rating": 3.5,
     "beer_name": "California",
+    "brewery": "BeerBazaar / Mivshelet Ha’Aretz",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-07-28T18:47:26+00:00",
+    "serving": "draft",
+    "rating": 3.0,
+    "beer_name": "Paleraiser",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-07-28T13:38:17+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Easy Ride",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-07-28T13:05:25+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Mangolorian (2026)",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-07-28T18:55:09+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Barcelona Cerdos Voladores/Premium Lager",
+    "brewery": "Barcelona Beer Company",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-07-28T18:51:50+00:00",
+    "serving": "Unknown",
+    "rating": 2.25,
+    "beer_name": "Fata Morgana Pale Ale",
+    "brewery": "Negev Brewery (נגב)",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-07-28T18:09:03+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Who Is Dunkelman?",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-07-28T17:48:52+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "HOPE",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-07-28T17:27:26+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Mexico 70 2025",
+    "brewery": "Herzl (הרצל)",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-07-28T16:08:26+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "סיידר תפוחים אלכוהולי חצי יבש",
+    "brewery": "Hamatsesa (המתססה)",
+    "beer_type": ""
+  },
+  {
+    "venue": "beerbazaar-brewery",
+    "time": "2026-07-28T18:58:44+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "California",
+    "brewery": "BeerBazaar / Mivshelet Ha’Aretz",
+    "beer_type": ""
+  },
+  {
+    "venue": "beerbazaar-brewery",
+    "time": "2026-07-28T11:13:58+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "California",
+    "brewery": "BeerBazaar / Mivshelet Ha’Aretz",
+    "beer_type": ""
+  },
+  {
+    "venue": "beerbazaar-brewery",
+    "time": "2026-07-28T11:10:40+00:00",
+    "serving": "Unknown",
+    "rating": 3.0,
+    "beer_name": "אם המבשלות",
     "brewery": "BeerBazaar / Mivshelet Ha’Aretz",
     "beer_type": ""
   }
