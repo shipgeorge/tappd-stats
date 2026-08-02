@@ -1,6 +1,6 @@
 // 🍺 BEER STATS DATA - Generated automatically
-// Last updated: 2026-08-01 08:32:03
-// Total records: 20024
+// Last updated: 2026-08-02 08:34:13
+// Total records: 20212
 
 const BEER_DATA = [
   {
@@ -2967,20 +2967,20 @@ const BEER_DATA = [
   {
     "venue": "b7-beer-house",
     "time": "2026-05-29T08:42:24+00:00",
-    "serving": "draft",
-    "rating": 3.75,
-    "beer_name": "Prunes In Chocolate",
-    "brewery": "Radionov",
-    "beer_type": "Homebrew, Porter - Other"
-  },
-  {
-    "venue": "b7-beer-house",
-    "time": "2026-05-29T08:42:24+00:00",
     "serving": "can",
     "rating": 3.75,
     "beer_name": "Hop Elixir: Citra, Citra Hyperboost, Citra Cryo, Citra Dynaboost",
     "brewery": "Sibeeria Brewery",
     "beer_type": "IPA - Session New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T08:42:24+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Prunes In Chocolate",
+    "brewery": "Radionov",
+    "beer_type": "Homebrew, Porter - Other"
   },
   {
     "venue": "b7-beer-house",
@@ -9652,15 +9652,6 @@ const BEER_DATA = [
     "beer_type": "IPA - American"
   },
   {
-    "venue": "b7-beer-house",
-    "time": "2026-05-08T14:05:01+00:00",
-    "serving": "draft",
-    "rating": 4.0,
-    "beer_name": "Helix",
-    "brewery": "Equilibrium Brewery",
-    "beer_type": "Pilsner - German"
-  },
-  {
     "venue": "schnitt-brewing-company",
     "time": "2026-05-08T14:05:01+00:00",
     "serving": "Unknown",
@@ -9668,6 +9659,15 @@ const BEER_DATA = [
     "beer_name": "Cheers Alenbeer",
     "brewery": "Schnitt Brewing Company﻿",
     "beer_type": "IPA - Session"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-08T14:05:01+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Helix",
+    "brewery": "Equilibrium Brewery",
+    "beer_type": "Pilsner - German"
   },
   {
     "venue": "b7-beer-house",
@@ -180216,6 +180216,1698 @@ const BEER_DATA = [
     "serving": "Unknown",
     "rating": 4.0,
     "beer_name": "Nath (2025) - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-08-01T19:40:14+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "Four Hopsmen",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-08-01T16:25:44+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Mangolorian (2026)",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-08-01T16:09:57+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "What Was Was",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-08-01T14:42:09+00:00",
+    "serving": "draft",
+    "rating": 3.25,
+    "beer_name": "Easy Ride",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-08-01T10:46:29+00:00",
+    "serving": "bottle",
+    "rating": 4.5,
+    "beer_name": "Sloth & Lion",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-08-01T12:55:17+00:00",
+    "serving": "draft",
+    "rating": 4.5,
+    "beer_name": "PTSD",
+    "brewery": "New Pioneer Brewing Co - חלוץ חדש",
+    "beer_type": ""
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-08-01T12:54:30+00:00",
+    "serving": "draft",
+    "rating": 4.5,
+    "beer_name": "עבודה עברית",
+    "brewery": "New Pioneer Brewing Co - חלוץ חדש",
+    "beer_type": ""
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-08-01T12:53:07+00:00",
+    "serving": "draft",
+    "rating": 4.5,
+    "beer_name": "ארצי מולדתי 2026",
+    "brewery": "New Pioneer Brewing Co - חלוץ חדש",
+    "beer_type": ""
+  },
+  {
+    "venue": "berlin-florentin",
+    "time": "2026-08-01T11:25:36+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "Clockwork",
+    "brewery": "BrewDog",
+    "beer_type": ""
+  },
+  {
+    "venue": "porter-and-sons",
+    "time": "2026-08-01T12:34:23+00:00",
+    "serving": "bottle",
+    "rating": 5.0,
+    "beer_name": "In Plenty",
+    "brewery": "Omnipollo",
+    "beer_type": ""
+  },
+  {
+    "venue": "porter-and-sons",
+    "time": "2026-08-01T12:25:19+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Rosé de Gambrinus",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": ""
+  },
+  {
+    "venue": "porter-and-sons",
+    "time": "2026-08-01T12:20:52+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Meerts Tilquin à la Kriek de Schaerbeek",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": ""
+  },
+  {
+    "venue": "porter-and-sons",
+    "time": "2026-08-01T12:06:46+00:00",
+    "serving": "draft",
+    "rating": 3.0,
+    "beer_name": "Duvel 6,66%",
+    "brewery": "Duvel Moortgat",
+    "beer_type": ""
+  },
+  {
+    "venue": "porter-and-sons",
+    "time": "2026-08-01T11:40:12+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "India Pale Ale",
+    "brewery": "Tennent's Caledonian Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "porter-and-sons",
+    "time": "2026-08-01T11:37:47+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Twist & Stout",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "porter-and-sons",
+    "time": "2026-08-01T11:35:19+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "הפילס שבחדר the Pils In the Room",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "beerline",
+    "time": "2026-08-01T14:41:44+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Pleroma Karpologi Pineapple Peach Marshmallow Créme Brulée Sour",
+    "brewery": "Omnipollo",
+    "beer_type": ""
+  },
+  {
+    "venue": "beerline",
+    "time": "2026-08-01T14:11:21+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Shade.",
+    "brewery": "Moon Lark Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-01T21:18:33+00:00",
+    "serving": "Unknown",
+    "rating": 4.75,
+    "beer_name": "Fou Foune 2024 - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-01T21:17:43+00:00",
+    "serving": "Unknown",
+    "rating": 4.75,
+    "beer_name": "Rosé De Gambrinus 2024 - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-01T21:16:58+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Nath (2025) - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-01T20:42:45+00:00",
+    "serving": "Unknown",
+    "rating": 4.5,
+    "beer_name": "Experimental Fruit Series #6 - Framboise Cassis Rhubarbe Tilquin - Draft Version",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-01T20:41:24+00:00",
+    "serving": "Unknown",
+    "rating": 4.25,
+    "beer_name": "Sang Bleu 2025 - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-01T20:28:31+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Clémentine Tilquin - Draft Version",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-01T19:52:13+00:00",
+    "serving": "draft",
+    "rating": 4.5,
+    "beer_name": "HOPE",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-01T19:34:46+00:00",
+    "serving": "draft",
+    "rating": 4.7,
+    "beer_name": "Fou Foune 2024 - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-01T19:34:26+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Who Is Dunkelman?",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-01T19:30:55+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "Gewürztraminer (Tap Version) (2023)",
+    "brewery": "Boerenerf",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-01T19:29:23+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Who Is Dunkelman?",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-01T19:27:35+00:00",
+    "serving": "draft",
+    "rating": 4.6,
+    "beer_name": "Riesling (2024 - Tap Version)",
+    "brewery": "Boerenerf",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-01T19:22:48+00:00",
+    "serving": "draft",
+    "rating": 5.0,
+    "beer_name": "HOPE",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-01T19:22:17+00:00",
+    "serving": "draft",
+    "rating": 4.6,
+    "beer_name": "Gewürztraminer (Tap Version) (2023)",
+    "brewery": "Boerenerf",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-01T19:21:25+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "HOPE",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-01T19:19:18+00:00",
+    "serving": "Unknown",
+    "rating": 4.75,
+    "beer_name": "Fou Foune 2024 - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-01T19:18:01+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Fou Foune 2024 - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-01T19:15:13+00:00",
+    "serving": "draft",
+    "rating": 4.3,
+    "beer_name": "Sang Bleu 2025 - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-01T19:14:32+00:00",
+    "serving": "draft",
+    "rating": 4.3,
+    "beer_name": "Nath (2025) - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-01T19:14:31+00:00",
+    "serving": "draft",
+    "rating": null,
+    "beer_name": "Fou Foune 2024 - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-01T19:14:02+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Porter&Sons: Chocolate Orange",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-01T19:10:35+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "Gewürztraminer (Tap Version) (2023)",
+    "brewery": "Boerenerf",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-01T19:09:23+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Riesling (2024 - Tap Version)",
+    "brewery": "Boerenerf",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-01T19:08:24+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Sang Bleu 2025 - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-01T19:07:28+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Riesling (2024 - Tap Version)",
+    "brewery": "Boerenerf",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-01T19:07:27+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "Nath (2025) - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-01T19:07:07+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Gewürztraminer (Tap Version) (2023)",
+    "brewery": "Boerenerf",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-01T19:06:38+00:00",
+    "serving": "draft",
+    "rating": null,
+    "beer_name": "Sang Bleu 2025 - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-01T19:01:37+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Hop Squad 2026",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-01T18:57:12+00:00",
+    "serving": "draft",
+    "rating": null,
+    "beer_name": "Riesling (2024 - Tap Version)",
+    "brewery": "Boerenerf",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-01T18:56:58+00:00",
+    "serving": "draft",
+    "rating": 4.5,
+    "beer_name": "Experimental Fruit Series #6 - Framboise Cassis Rhubarbe Tilquin - Draft Version",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-01T18:56:34+00:00",
+    "serving": "draft",
+    "rating": 4.3,
+    "beer_name": "Experimental Fruit Series #6 - Framboise Cassis Rhubarbe Tilquin - Draft Version",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-01T18:56:17+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Gewürztraminer (Tap Version) (2023)",
+    "brewery": "Boerenerf",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-01T18:56:00+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Gewürztraminer (Tap Version) (2023)",
+    "brewery": "Boerenerf",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-01T18:53:20+00:00",
+    "serving": "draft",
+    "rating": 4.75,
+    "beer_name": "Rosé De Gambrinus 2024 - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-01T18:52:24+00:00",
+    "serving": "draft",
+    "rating": 4.5,
+    "beer_name": "Rosé De Gambrinus 2024 - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-01T18:50:45+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "Kriekenlambiek (2025)",
+    "brewery": "Oud Beersel",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-01T18:50:40+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Kriekenlambiek (2025)",
+    "brewery": "Oud Beersel",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-01T18:49:59+00:00",
+    "serving": "draft",
+    "rating": 4.5,
+    "beer_name": "Fou Foune 2024 - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-01T18:49:39+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "Riesling (2024 - Tap Version)",
+    "brewery": "Boerenerf",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-01T18:49:13+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "Sang Bleu 2025 - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-01T18:48:53+00:00",
+    "serving": "draft",
+    "rating": 4.5,
+    "beer_name": "Rosé De Gambrinus 2024 - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-01T18:48:48+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "Clémentine Tilquin - Draft Version",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-01T18:48:08+00:00",
+    "serving": "Unknown",
+    "rating": 3.3,
+    "beer_name": "Kriekenlambiek (2025)",
+    "brewery": "Oud Beersel",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-01T18:45:35+00:00",
+    "serving": "draft",
+    "rating": 4.75,
+    "beer_name": "Experimental Fruit Series #6 - Framboise Cassis Rhubarbe Tilquin - Draft Version",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-01T18:44:41+00:00",
+    "serving": "draft",
+    "rating": 4.4,
+    "beer_name": "Clémentine Tilquin - Draft Version",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-01T18:44:22+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Abricot-Rhubarbe Tilquin - Draft Version",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-01T18:44:21+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Nath (2025) - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-01T18:43:22+00:00",
+    "serving": "Unknown",
+    "rating": 4.2,
+    "beer_name": "Abricot-Rhubarbe Tilquin - Draft Version",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-01T18:41:54+00:00",
+    "serving": "draft",
+    "rating": 4.75,
+    "beer_name": "Fou Foune 2024 - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-01T18:39:07+00:00",
+    "serving": "draft",
+    "rating": null,
+    "beer_name": "Experimental Fruit Series #6 - Framboise Cassis Rhubarbe Tilquin - Draft Version",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-01T18:38:17+00:00",
+    "serving": "draft",
+    "rating": 4.5,
+    "beer_name": "Fou Foune 2024 - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-01T18:37:42+00:00",
+    "serving": "draft",
+    "rating": 4.5,
+    "beer_name": "Fou Foune 2024 - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-01T18:37:10+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "Kriekenlambiek (2025)",
+    "brewery": "Oud Beersel",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-01T18:36:32+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Abricot-Rhubarbe Tilquin - Draft Version",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-01T18:35:37+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "Riesling (2024 - Tap Version)",
+    "brewery": "Boerenerf",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-01T18:35:26+00:00",
+    "serving": "draft",
+    "rating": 4.5,
+    "beer_name": "Riesling (2024 - Tap Version)",
+    "brewery": "Boerenerf",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-01T18:35:07+00:00",
+    "serving": "draft",
+    "rating": 4.5,
+    "beer_name": "Gewürztraminer (Tap Version) (2023)",
+    "brewery": "Boerenerf",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-01T18:35:01+00:00",
+    "serving": "draft",
+    "rating": 5.0,
+    "beer_name": "Gewürztraminer (Tap Version) (2023)",
+    "brewery": "Boerenerf",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-01T18:34:22+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "Rosé De Gambrinus 2024 - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-01T18:33:00+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Rosé De Gambrinus 2024 - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-01T18:32:15+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Kriekenlambiek (2025)",
+    "brewery": "Oud Beersel",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-01T18:32:06+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Rosé De Gambrinus 2024 - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-01T18:30:26+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Riesling (2024 - Tap Version)",
+    "brewery": "Boerenerf",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-01T18:26:35+00:00",
+    "serving": "draft",
+    "rating": null,
+    "beer_name": "Kriekenlambiek (2025)",
+    "brewery": "Oud Beersel",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-01T18:25:58+00:00",
+    "serving": "draft",
+    "rating": 4.5,
+    "beer_name": "Gewürztraminer (Tap Version) (2023)",
+    "brewery": "Boerenerf",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-01T18:23:07+00:00",
+    "serving": "draft",
+    "rating": 4.8,
+    "beer_name": "Fou Foune 2024 - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-01T18:22:45+00:00",
+    "serving": "draft",
+    "rating": 4.5,
+    "beer_name": "Riesling (2024 - Tap Version)",
+    "brewery": "Boerenerf",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-01T18:22:25+00:00",
+    "serving": "draft",
+    "rating": 4.3,
+    "beer_name": "Gewürztraminer (Tap Version) (2023)",
+    "brewery": "Boerenerf",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-01T18:22:07+00:00",
+    "serving": "draft",
+    "rating": 4.3,
+    "beer_name": "Sang Bleu 2025 - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-01T18:21:52+00:00",
+    "serving": "draft",
+    "rating": 4.5,
+    "beer_name": "Nath (2025) - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-01T18:21:34+00:00",
+    "serving": "draft",
+    "rating": 4.4,
+    "beer_name": "Experimental Fruit Series #6 - Framboise Cassis Rhubarbe Tilquin - Draft Version",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-01T18:21:19+00:00",
+    "serving": "draft",
+    "rating": 4.3,
+    "beer_name": "Rosé De Gambrinus 2024 - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-01T18:21:13+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Clémentine Tilquin - Draft Version",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-01T18:20:58+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Kriekenlambiek (2025)",
+    "brewery": "Oud Beersel",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-01T18:20:41+00:00",
+    "serving": "draft",
+    "rating": 4.3,
+    "beer_name": "Clémentine Tilquin - Draft Version",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-01T18:20:21+00:00",
+    "serving": "draft",
+    "rating": 4.4,
+    "beer_name": "Abricot-Rhubarbe Tilquin - Draft Version",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-01T18:19:36+00:00",
+    "serving": "draft",
+    "rating": null,
+    "beer_name": "Nath (2025) - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-01T18:18:11+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Abricot-Rhubarbe Tilquin - Draft Version",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-01T18:16:24+00:00",
+    "serving": "draft",
+    "rating": null,
+    "beer_name": "Clémentine Tilquin - Draft Version",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-01T18:15:06+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "Sang Bleu 2025 - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-01T18:13:34+00:00",
+    "serving": "draft",
+    "rating": null,
+    "beer_name": "Abricot-Rhubarbe Tilquin - Draft Version",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-01T18:05:45+00:00",
+    "serving": "draft",
+    "rating": 4.5,
+    "beer_name": "Sang Bleu 2025 - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-01T18:05:13+00:00",
+    "serving": "draft",
+    "rating": 5.0,
+    "beer_name": "Nath (2025) - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-01T18:04:57+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Rosé De Gambrinus 2024 - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-01T18:01:05+00:00",
+    "serving": "draft",
+    "rating": 4.5,
+    "beer_name": "Sang Bleu 2025 - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-01T18:00:29+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Nath (2025) - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-01T17:59:40+00:00",
+    "serving": "draft",
+    "rating": 4.5,
+    "beer_name": "Rosé De Gambrinus 2024 - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-01T17:56:14+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Double Intergalactica",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-01T17:54:33+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "Fou Foune 2024 - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-01T17:52:15+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "Nath (2025) - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-01T17:48:58+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "Nath (2025) - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-01T17:48:21+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Experimental Fruit Series #6 - Framboise Cassis Rhubarbe Tilquin - Draft Version",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-01T17:47:12+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "Hazy Day",
+    "brewery": "Greene King",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-01T17:46:01+00:00",
+    "serving": "draft",
+    "rating": null,
+    "beer_name": "Experimental Fruit Series #6 - Framboise Cassis Rhubarbe Tilquin - Draft Version",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-01T17:45:44+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "Experimental Fruit Series #6 - Framboise Cassis Rhubarbe Tilquin - Draft Version",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-01T17:44:46+00:00",
+    "serving": "draft",
+    "rating": null,
+    "beer_name": "Rosé De Gambrinus 2024 - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-01T17:39:08+00:00",
+    "serving": "draft",
+    "rating": 4.5,
+    "beer_name": "Fou Foune 2024 - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-01T17:38:25+00:00",
+    "serving": "draft",
+    "rating": 4.5,
+    "beer_name": "Rosé De Gambrinus 2024 - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-01T17:30:07+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Kriekenlambiek (2025)",
+    "brewery": "Oud Beersel",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-01T17:30:05+00:00",
+    "serving": "draft",
+    "rating": 4.5,
+    "beer_name": "Experimental Fruit Series #6 - Framboise Cassis Rhubarbe Tilquin - Draft Version",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-01T17:29:59+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Experimental Fruit Series #6 - Framboise Cassis Rhubarbe Tilquin - Draft Version",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-01T17:27:41+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Sang Bleu 2025 - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-01T17:27:18+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Hop Me Baby",
+    "brewery": "HORIZONT Brewing",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-01T17:25:12+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "Rosé De Gambrinus 2024 - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-01T17:24:08+00:00",
+    "serving": "draft",
+    "rating": 3.0,
+    "beer_name": "Kriekenlambiek (2025)",
+    "brewery": "Oud Beersel",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-01T17:24:06+00:00",
+    "serving": "Unknown",
+    "rating": 3.0,
+    "beer_name": "Kriekenlambiek (2025)",
+    "brewery": "Oud Beersel",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-01T17:22:06+00:00",
+    "serving": "draft",
+    "rating": null,
+    "beer_name": "Clémentine Tilquin - Draft Version",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-01T17:21:13+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Clémentine Tilquin - Draft Version",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-01T17:21:08+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Clémentine Tilquin - Draft Version",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-01T17:20:29+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Abricot-Rhubarbe Tilquin - Draft Version",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-01T17:20:04+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Abricot-Rhubarbe Tilquin - Draft Version",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-01T17:19:49+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "Kriekenlambiek (2025)",
+    "brewery": "Oud Beersel",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-01T17:18:36+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "HOPE",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-01T17:17:48+00:00",
+    "serving": "draft",
+    "rating": 4.5,
+    "beer_name": "Riesling (2024 - Tap Version)",
+    "brewery": "Boerenerf",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-01T17:13:52+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "Nath (2025) - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-01T17:13:34+00:00",
+    "serving": "draft",
+    "rating": 4.5,
+    "beer_name": "Fou Foune 2024 - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-01T17:11:58+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Clémentine Tilquin - Draft Version",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-01T17:08:50+00:00",
+    "serving": "draft",
+    "rating": null,
+    "beer_name": "Abricot-Rhubarbe Tilquin - Draft Version",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-01T17:08:43+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Abricot-Rhubarbe Tilquin - Draft Version",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-01T17:07:29+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "HOPE",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-01T17:02:46+00:00",
+    "serving": "draft",
+    "rating": 4.75,
+    "beer_name": "Gewürztraminer (Tap Version) (2023)",
+    "brewery": "Boerenerf",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-01T16:59:17+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Photon",
+    "brewery": "Equilibrium Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-01T16:52:41+00:00",
+    "serving": "bottle",
+    "rating": 4.5,
+    "beer_name": "Fou Foune 2024 - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-01T16:50:13+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "Who Is Dunkelman?",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-01T16:49:33+00:00",
+    "serving": "Unknown",
+    "rating": 4.25,
+    "beer_name": "C of Hops",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-01T16:48:56+00:00",
+    "serving": "draft",
+    "rating": 4.5,
+    "beer_name": "Gewürztraminer (Tap Version) (2023)",
+    "brewery": "Boerenerf",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-01T16:44:36+00:00",
+    "serving": "draft",
+    "rating": 4.5,
+    "beer_name": "Riesling (2024 - Tap Version)",
+    "brewery": "Boerenerf",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-01T16:40:22+00:00",
+    "serving": "draft",
+    "rating": null,
+    "beer_name": "Fou Foune 2024 - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-01T16:40:06+00:00",
+    "serving": "draft",
+    "rating": null,
+    "beer_name": "Riesling (2024 - Tap Version)",
+    "brewery": "Boerenerf",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-01T16:39:56+00:00",
+    "serving": "draft",
+    "rating": 4.5,
+    "beer_name": "Fou Foune 2024 - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-01T16:39:47+00:00",
+    "serving": "draft",
+    "rating": null,
+    "beer_name": "Gewürztraminer (Tap Version) (2023)",
+    "brewery": "Boerenerf",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-01T16:39:40+00:00",
+    "serving": "draft",
+    "rating": 4.5,
+    "beer_name": "Gewürztraminer (Tap Version) (2023)",
+    "brewery": "Boerenerf",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-01T16:37:27+00:00",
+    "serving": "draft",
+    "rating": 4.5,
+    "beer_name": "Kriekenlambiek (2025)",
+    "brewery": "Oud Beersel",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-01T16:35:48+00:00",
+    "serving": "draft",
+    "rating": 4.5,
+    "beer_name": "Fou Foune 2024 - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-01T16:34:06+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "Sang Bleu 2025 - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-01T16:26:52+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "Riesling (2024 - Tap Version)",
+    "brewery": "Boerenerf",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-01T16:24:35+00:00",
+    "serving": "draft",
+    "rating": null,
+    "beer_name": "Fou Foune 2024 - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-01T16:23:03+00:00",
+    "serving": "draft",
+    "rating": null,
+    "beer_name": "Riesling (2024 - Tap Version)",
+    "brewery": "Boerenerf",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-01T16:22:16+00:00",
+    "serving": "draft",
+    "rating": null,
+    "beer_name": "Sang Bleu 2025 - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-01T16:21:41+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "Clémentine Tilquin - Draft Version",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-01T16:21:18+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "Gewürztraminer (Tap Version) (2023)",
+    "brewery": "Boerenerf",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-01T16:21:02+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Riesling (2024 - Tap Version)",
+    "brewery": "Boerenerf",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-01T16:18:42+00:00",
+    "serving": "draft",
+    "rating": 4.5,
+    "beer_name": "Nath (2025) - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-01T16:17:43+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "Sang Bleu 2025 - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-01T16:10:45+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Nath (2025) - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-01T16:10:07+00:00",
+    "serving": "draft",
+    "rating": null,
+    "beer_name": "Experimental Fruit Series #6 - Framboise Cassis Rhubarbe Tilquin - Draft Version",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-01T16:09:24+00:00",
+    "serving": "draft",
+    "rating": null,
+    "beer_name": "Rosé De Gambrinus 2024 - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-01T16:04:24+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "Abricot-Rhubarbe Tilquin - Draft Version",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-01T16:02:05+00:00",
+    "serving": "draft",
+    "rating": null,
+    "beer_name": "Gewürztraminer (Tap Version) (2023)",
+    "brewery": "Boerenerf",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-01T16:01:40+00:00",
+    "serving": "draft",
+    "rating": null,
+    "beer_name": "Rosé De Gambrinus 2024 - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-01T16:01:01+00:00",
+    "serving": "draft",
+    "rating": null,
+    "beer_name": "Kriekenlambiek (2025)",
+    "brewery": "Oud Beersel",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-01T16:00:51+00:00",
+    "serving": "draft",
+    "rating": null,
+    "beer_name": "Sang Bleu 2025 - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-01T16:00:44+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Clémentine Tilquin - Draft Version",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-01T16:00:30+00:00",
+    "serving": "draft",
+    "rating": 4.5,
+    "beer_name": "Experimental Fruit Series #6 - Framboise Cassis Rhubarbe Tilquin - Draft Version",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-01T16:00:27+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Abricot-Rhubarbe Tilquin - Draft Version",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-01T15:59:40+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "Gewürztraminer (Tap Version) (2023)",
+    "brewery": "Boerenerf",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-01T15:58:14+00:00",
+    "serving": "draft",
+    "rating": 4.5,
+    "beer_name": "Rosé De Gambrinus 2024 - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-01T15:54:20+00:00",
+    "serving": "can",
+    "rating": 4.75,
+    "beer_name": "DemiHydra | Strawberry + Kiwi + Watermelon",
+    "brewery": "Mortalis Brewing Company",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-01T15:33:22+00:00",
+    "serving": "Unknown",
+    "rating": 4.25,
+    "beer_name": "Riesling (2024 - Tap Version)",
+    "brewery": "Boerenerf",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-01T15:31:26+00:00",
+    "serving": "draft",
+    "rating": null,
+    "beer_name": "Nath (2025) - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-01T15:30:50+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Kriekenlambiek (2025)",
+    "brewery": "Oud Beersel",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-01T15:29:57+00:00",
+    "serving": "draft",
+    "rating": null,
+    "beer_name": "Experimental Fruit Series #6 - Framboise Cassis Rhubarbe Tilquin - Draft Version",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-01T15:29:37+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "Nath (2025) - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-01T15:29:34+00:00",
+    "serving": "Unknown",
+    "rating": 4.25,
+    "beer_name": "Gewürztraminer (Tap Version) (2023)",
+    "brewery": "Boerenerf",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-01T15:28:45+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Sang Bleu 2025 - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-01T15:22:24+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Kriekenlambiek (2025)",
+    "brewery": "Oud Beersel",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-01T15:20:39+00:00",
+    "serving": "draft",
+    "rating": 4.5,
+    "beer_name": "Clémentine Tilquin - Draft Version",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-01T15:15:33+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "Abricot-Rhubarbe Tilquin - Draft Version",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-01T14:21:24+00:00",
+    "serving": "Unknown",
+    "rating": 4.25,
+    "beer_name": "Sang Bleu 2025 - Draft Version",
     "brewery": "Brasserie Cantillon",
     "beer_type": ""
   }
