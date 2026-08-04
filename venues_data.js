@@ -1,6 +1,6 @@
 // 🍺 BEER STATS DATA - Generated automatically
-// Last updated: 2026-08-03 10:00:35
-// Total records: 20244
+// Last updated: 2026-08-04 08:50:09
+// Total records: 20252
 
 const BEER_DATA = [
   {
@@ -2967,20 +2967,20 @@ const BEER_DATA = [
   {
     "venue": "b7-beer-house",
     "time": "2026-05-29T08:42:24+00:00",
-    "serving": "draft",
-    "rating": 3.75,
-    "beer_name": "Prunes In Chocolate",
-    "brewery": "Radionov",
-    "beer_type": "Homebrew, Porter - Other"
-  },
-  {
-    "venue": "b7-beer-house",
-    "time": "2026-05-29T08:42:24+00:00",
     "serving": "can",
     "rating": 3.75,
     "beer_name": "Hop Elixir: Citra, Citra Hyperboost, Citra Cryo, Citra Dynaboost",
     "brewery": "Sibeeria Brewery",
     "beer_type": "IPA - Session New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T08:42:24+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Prunes In Chocolate",
+    "brewery": "Radionov",
+    "beer_type": "Homebrew, Porter - Other"
   },
   {
     "venue": "b7-beer-house",
@@ -9652,15 +9652,6 @@ const BEER_DATA = [
     "beer_type": "IPA - American"
   },
   {
-    "venue": "b7-beer-house",
-    "time": "2026-05-08T14:05:01+00:00",
-    "serving": "draft",
-    "rating": 4.0,
-    "beer_name": "Helix",
-    "brewery": "Equilibrium Brewery",
-    "beer_type": "Pilsner - German"
-  },
-  {
     "venue": "schnitt-brewing-company",
     "time": "2026-05-08T14:05:01+00:00",
     "serving": "Unknown",
@@ -9668,6 +9659,15 @@ const BEER_DATA = [
     "beer_name": "Cheers Alenbeer",
     "brewery": "Schnitt Brewing Company﻿",
     "beer_type": "IPA - Session"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-08T14:05:01+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Helix",
+    "brewery": "Equilibrium Brewery",
+    "beer_type": "Pilsner - German"
   },
   {
     "venue": "b7-beer-house",
@@ -182197,6 +182197,78 @@ const BEER_DATA = [
     "rating": 4.0,
     "beer_name": "La Trappe Quadrupel",
     "brewery": "Bierbrouwerij De Koningshoeven",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-08-03T09:59:58+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Easy Ride",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-03T21:04:36+00:00",
+    "serving": "draft",
+    "rating": 4.8,
+    "beer_name": "Fou Foune 2024 - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-03T21:04:17+00:00",
+    "serving": "draft",
+    "rating": 4.8,
+    "beer_name": "Fou Foune 2024 - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-03T18:40:10+00:00",
+    "serving": "bottle",
+    "rating": 4.25,
+    "beer_name": "Chimay Première (Red)",
+    "brewery": "Bières de Chimay",
+    "beer_type": ""
+  },
+  {
+    "venue": "berlin-florentin",
+    "time": "2026-08-03T15:22:18+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Hobgoblin IPA",
+    "brewery": "Marston's Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "beerline",
+    "time": "2026-08-03T16:57:50+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Delirium Nocturnum",
+    "brewery": "Delirium - Huyghe Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "beerline",
+    "time": "2026-08-03T16:36:42+00:00",
+    "serving": "draft",
+    "rating": 2.25,
+    "beer_name": "Krušovice Royal Pale Lager / Imperial 5.0%",
+    "brewery": "Heineken Česká Republika",
+    "beer_type": ""
+  },
+  {
+    "venue": "beerline",
+    "time": "2026-08-03T16:34:59+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Shade.",
+    "brewery": "Moon Lark Brewery",
     "beer_type": ""
   }
 ];
