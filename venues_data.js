@@ -1,6 +1,6 @@
 // 🍺 BEER STATS DATA - Generated automatically
-// Last updated: 2026-08-04 08:50:09
-// Total records: 20252
+// Last updated: 2026-08-05 08:47:49
+// Total records: 20287
 
 const BEER_DATA = [
   {
@@ -2967,20 +2967,20 @@ const BEER_DATA = [
   {
     "venue": "b7-beer-house",
     "time": "2026-05-29T08:42:24+00:00",
-    "serving": "can",
-    "rating": 3.75,
-    "beer_name": "Hop Elixir: Citra, Citra Hyperboost, Citra Cryo, Citra Dynaboost",
-    "brewery": "Sibeeria Brewery",
-    "beer_type": "IPA - Session New England / Hazy"
-  },
-  {
-    "venue": "b7-beer-house",
-    "time": "2026-05-29T08:42:24+00:00",
     "serving": "draft",
     "rating": 3.75,
     "beer_name": "Prunes In Chocolate",
     "brewery": "Radionov",
     "beer_type": "Homebrew, Porter - Other"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T08:42:24+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Hop Elixir: Citra, Citra Hyperboost, Citra Cryo, Citra Dynaboost",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": "IPA - Session New England / Hazy"
   },
   {
     "venue": "b7-beer-house",
@@ -9652,15 +9652,6 @@ const BEER_DATA = [
     "beer_type": "IPA - American"
   },
   {
-    "venue": "schnitt-brewing-company",
-    "time": "2026-05-08T14:05:01+00:00",
-    "serving": "Unknown",
-    "rating": 3.5,
-    "beer_name": "Cheers Alenbeer",
-    "brewery": "Schnitt Brewing Company﻿",
-    "beer_type": "IPA - Session"
-  },
-  {
     "venue": "b7-beer-house",
     "time": "2026-05-08T14:05:01+00:00",
     "serving": "draft",
@@ -9668,6 +9659,15 @@ const BEER_DATA = [
     "beer_name": "Helix",
     "brewery": "Equilibrium Brewery",
     "beer_type": "Pilsner - German"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-08T14:05:01+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "Cheers Alenbeer",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - Session"
   },
   {
     "venue": "b7-beer-house",
@@ -182269,6 +182269,321 @@ const BEER_DATA = [
     "rating": 3.75,
     "beer_name": "Shade.",
     "brewery": "Moon Lark Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-08-04T19:17:44+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Hydra | Peach + Peach + Peach",
+    "brewery": "Mortalis Brewing Company",
+    "beer_type": ""
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-08-04T19:00:03+00:00",
+    "serving": "can",
+    "rating": 4.8,
+    "beer_name": "Rainbow Eyes: Peach Mango",
+    "brewery": "Hop Hooligans",
+    "beer_type": ""
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-08-04T18:49:13+00:00",
+    "serving": "can",
+    "rating": 3.8,
+    "beer_name": "Pastry Factory: Pistachio Gelato",
+    "brewery": "Moersleutel Craft Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-08-04T18:35:27+00:00",
+    "serving": "can",
+    "rating": 4.4,
+    "beer_name": "Space Doom Vacuum (2026)",
+    "brewery": "Sudden Death Brewing Co.",
+    "beer_type": ""
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-08-04T18:19:38+00:00",
+    "serving": "can",
+    "rating": 4.2,
+    "beer_name": "Pastry Factory: Golden Syrup Bacon Pancakes",
+    "brewery": "Moersleutel Craft Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-08-04T18:15:57+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "Bistro Raspberry Crumble",
+    "brewery": "Energy City Brewing",
+    "beer_type": ""
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-08-04T18:12:34+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Bistro Raspberry Crumble",
+    "brewery": "Energy City Brewing",
+    "beer_type": ""
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-08-04T17:59:37+00:00",
+    "serving": "can",
+    "rating": 4.5,
+    "beer_name": "PB&J Mixtape",
+    "brewery": "Xül Beer Company",
+    "beer_type": ""
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-08-04T17:35:32+00:00",
+    "serving": "can",
+    "rating": 4.1,
+    "beer_name": "Hydra | Key Lime + Raspberry + Cherry",
+    "brewery": "Mortalis Brewing Company",
+    "beer_type": ""
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-08-04T17:34:33+00:00",
+    "serving": "can",
+    "rating": 4.3,
+    "beer_name": "Even More Hydra",
+    "brewery": "Mortalis Brewing Company",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-08-04T22:12:45+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Day Shift",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-08-04T22:12:22+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Guava Island 2026",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-08-04T22:12:03+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Orange  Blossom",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-08-04T22:11:41+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Mangolorian (2026)",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-08-04T22:11:26+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Kashmir",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-08-04T22:11:02+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Attali's Goes Med",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-08-04T22:10:41+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "אם המבשלות",
+    "brewery": "BeerBazaar / Mivshelet Ha’Aretz",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-08-04T19:27:56+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Personal Plague",
+    "brewery": "RaR Brewing",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-08-04T19:22:14+00:00",
+    "serving": "draft",
+    "rating": 2.0,
+    "beer_name": "Wit Win (situation)",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-08-04T19:08:04+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "What the Helles?!",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-08-04T09:41:36+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Lazy Bee Hibiscus And Raspberries",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-08-04T09:04:51+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "Kashmir",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-04T22:13:26+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "La Trappe Quadrupel",
+    "brewery": "Bierbrouwerij De Koningshoeven",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-04T21:16:17+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Arct IPA",
+    "brewery": "Lubrow Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-04T21:03:56+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Arct IPA Cascade, Strata, Columbus , Centennial",
+    "brewery": "Lubrow Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-04T20:57:00+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Hazy Day",
+    "brewery": "Greene King",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-04T20:49:15+00:00",
+    "serving": "Unknown",
+    "rating": 4.25,
+    "beer_name": "Barrel Aged Lunar Lycan (2024)",
+    "brewery": "Omnipollo",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-04T20:22:42+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "Meet Our Friends | From Slovakia: Cierny Kamen - Mountain of Fruits",
+    "brewery": "Nepo Brewing",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-04T20:10:17+00:00",
+    "serving": "Unknown",
+    "rating": 4.25,
+    "beer_name": "Pastry Factory: Millionaires Shortbread",
+    "brewery": "Moersleutel Craft Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-04T19:58:27+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "Hydra | Peach + Blueberry + Strawberry",
+    "brewery": "Mortalis Brewing Company",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-04T19:28:49+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "DemiHydra | Strawberry + Kiwi + Watermelon",
+    "brewery": "Mortalis Brewing Company",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-04T16:58:14+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Hydra | Secret Machine",
+    "brewery": "Mortalis Brewing Company",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-04T16:26:11+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "8 Year Anniversary Tropical Smoothie Sour Ale",
+    "brewery": "Ārpus Brewing Co.",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-04T14:01:48+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "HOPE",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "beer-station-beersheba-israel",
+    "time": "2026-08-04T13:46:57+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Staropramen Premium / Ležák 12",
+    "brewery": "Pivovary Staropramen",
     "beer_type": ""
   }
 ];
