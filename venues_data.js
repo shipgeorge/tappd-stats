@@ -1,6 +1,6 @@
 // 🍺 BEER STATS DATA - Generated automatically
-// Last updated: 2026-08-06 08:48:59
-// Total records: 20307
+// Last updated: 2026-08-07 07:35:59
+// Total records: 20383
 
 const BEER_DATA = [
   {
@@ -2967,20 +2967,20 @@ const BEER_DATA = [
   {
     "venue": "b7-beer-house",
     "time": "2026-05-29T08:42:24+00:00",
-    "serving": "can",
-    "rating": 3.75,
-    "beer_name": "Hop Elixir: Citra, Citra Hyperboost, Citra Cryo, Citra Dynaboost",
-    "brewery": "Sibeeria Brewery",
-    "beer_type": "IPA - Session New England / Hazy"
-  },
-  {
-    "venue": "b7-beer-house",
-    "time": "2026-05-29T08:42:24+00:00",
     "serving": "draft",
     "rating": 3.75,
     "beer_name": "Prunes In Chocolate",
     "brewery": "Radionov",
     "beer_type": "Homebrew, Porter - Other"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T08:42:24+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Hop Elixir: Citra, Citra Hyperboost, Citra Cryo, Citra Dynaboost",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": "IPA - Session New England / Hazy"
   },
   {
     "venue": "b7-beer-house",
@@ -9652,15 +9652,6 @@ const BEER_DATA = [
     "beer_type": "IPA - American"
   },
   {
-    "venue": "schnitt-brewing-company",
-    "time": "2026-05-08T14:05:01+00:00",
-    "serving": "Unknown",
-    "rating": 3.5,
-    "beer_name": "Cheers Alenbeer",
-    "brewery": "Schnitt Brewing Company﻿",
-    "beer_type": "IPA - Session"
-  },
-  {
     "venue": "b7-beer-house",
     "time": "2026-05-08T14:05:01+00:00",
     "serving": "draft",
@@ -9668,6 +9659,15 @@ const BEER_DATA = [
     "beer_name": "Helix",
     "brewery": "Equilibrium Brewery",
     "beer_type": "Pilsner - German"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-08T14:05:01+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "Cheers Alenbeer",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - Session"
   },
   {
     "venue": "b7-beer-house",
@@ -182764,6 +182764,690 @@ const BEER_DATA = [
     "rating": 3.25,
     "beer_name": "Barcelona Cerdos Voladores/Premium Lager",
     "brewery": "Barcelona Beer Company",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-08-07T05:36:20+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Loral Compass",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-08-06T21:12:41+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Kelly's Green Pony",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-08-06T19:27:07+00:00",
+    "serving": "Unknown",
+    "rating": 0.5,
+    "beer_name": "תמד חמד Duo Mead",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-08-06T19:25:28+00:00",
+    "serving": "Unknown",
+    "rating": 2.25,
+    "beer_name": "Twist & Stout",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-08-06T19:20:20+00:00",
+    "serving": "Unknown",
+    "rating": 1.75,
+    "beer_name": "What the Helles?!",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-08-06T19:19:25+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "Paleraiser",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-08-06T15:05:28+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Mangolorian (2026)",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-08-06T14:49:13+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Kashmir",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-08-06T14:24:40+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Four Hopsmen",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-08-06T13:28:49+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Paleraiser",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-08-06T11:34:04+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Four Hopsmen",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-08-06T10:08:52+00:00",
+    "serving": "draft",
+    "rating": 3.25,
+    "beer_name": "Twist & Stout",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-08-06T09:08:22+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Twist & Stout",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-08-06T08:48:55+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Four Hopsmen",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "porter-and-sons",
+    "time": "2026-08-06T18:23:22+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "India Pale Ale",
+    "brewery": "Tennent's Caledonian Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-06T22:40:40+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Hoppy Wheat (חיטה)",
+    "brewery": "Malka (מלכה)",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-06T22:40:15+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Fruitesse",
+    "brewery": "Brouwerij Liefmans",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-06T20:21:34+00:00",
+    "serving": "draft",
+    "rating": 4.5,
+    "beer_name": "Clémentine Tilquin - Draft Version",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-06T19:03:26+00:00",
+    "serving": "draft",
+    "rating": 4.6,
+    "beer_name": "Nath (2025) - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-06T19:02:15+00:00",
+    "serving": "can",
+    "rating": 3.6,
+    "beer_name": "Wonders - Banana, Strawberries & Coconut",
+    "brewery": "Magic Road",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-06T19:01:16+00:00",
+    "serving": "Unknown",
+    "rating": 4.5,
+    "beer_name": "Gelato XTREME: Blueberry Raspberry Banana S'mores Milkshake Schmoojee",
+    "brewery": "Funky Fluid",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-06T18:44:44+00:00",
+    "serving": "can",
+    "rating": 4.5,
+    "beer_name": "Gelato XTREME: Blueberry Raspberry Banana S'mores Milkshake Schmoojee",
+    "brewery": "Funky Fluid",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-06T18:34:03+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "Wonders - Banana, Strawberries & Coconut",
+    "brewery": "Magic Road",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-06T18:23:07+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Wonders - Banana, Strawberries & Coconut",
+    "brewery": "Magic Road",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-06T17:53:07+00:00",
+    "serving": "can",
+    "rating": 4.5,
+    "beer_name": "Penalty Hero",
+    "brewery": "HORIZONT Brewing",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-06T17:34:25+00:00",
+    "serving": "can",
+    "rating": 4.75,
+    "beer_name": "Gemini | Blueberry + Pineapple + Glazed Donut",
+    "brewery": "Mortalis Brewing Company",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-06T16:54:30+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "Kuch Kuch",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-06T16:52:03+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "eMCee",
+    "brewery": "Equilibrium Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-06T16:32:28+00:00",
+    "serving": "draft",
+    "rating": 4.5,
+    "beer_name": "Riesling (2024 - Tap Version)",
+    "brewery": "Boerenerf",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-06T16:30:33+00:00",
+    "serving": "draft",
+    "rating": 4.5,
+    "beer_name": "Gewürztraminer (Tap Version) (2023)",
+    "brewery": "Boerenerf",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-06T15:45:30+00:00",
+    "serving": "draft",
+    "rating": 4.5,
+    "beer_name": "Nath (2025) - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-06T15:44:08+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "Experimental Fruit Series #6 - Framboise Cassis Rhubarbe Tilquin - Draft Version",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-06T15:42:41+00:00",
+    "serving": "Unknown",
+    "rating": 4.25,
+    "beer_name": "Rosé De Gambrinus 2024 - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-06T15:41:08+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "Clémentine Tilquin - Draft Version",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-06T15:24:31+00:00",
+    "serving": "draft",
+    "rating": 3.0,
+    "beer_name": "Day Shift",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-08-06T22:00:47+00:00",
+    "serving": "can",
+    "rating": 3.0,
+    "beer_name": "Buckie Bomb",
+    "brewery": "Vault City Brewing",
+    "beer_type": ""
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-08-06T21:59:03+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Lemon Lime Mango Habanero Sour",
+    "brewery": "OneTwo",
+    "beer_type": ""
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-08-06T21:21:27+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "Buckie Bomb",
+    "brewery": "Vault City Brewing",
+    "beer_type": ""
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-08-06T21:20:37+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Lemon Lime Mango Habanero Sour",
+    "brewery": "OneTwo",
+    "beer_type": ""
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-08-06T21:19:45+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "Yummy Raspberry, Blackberry & Vanilla",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-08-06T21:19:01+00:00",
+    "serving": "can",
+    "rating": 4.5,
+    "beer_name": "Yummy Pineapple, Papaya & Coconut",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-08-06T21:17:30+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Nebulous Trail",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-08-06T19:59:00+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "LOL",
+    "brewery": "Evil Twin Brewing NYC",
+    "beer_type": ""
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-08-06T19:45:27+00:00",
+    "serving": "can",
+    "rating": 3.25,
+    "beer_name": "Yummy Pineapple, Papaya & Coconut",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-08-06T19:36:23+00:00",
+    "serving": "Unknown",
+    "rating": 4.5,
+    "beer_name": "Yummy Pineapple, Papaya & Coconut",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-08-06T19:17:00+00:00",
+    "serving": "can",
+    "rating": 4.2,
+    "beer_name": "Yummy Raspberry, Blackberry & Vanilla",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-08-06T19:12:34+00:00",
+    "serving": "can",
+    "rating": 4.1,
+    "beer_name": "Corner of George St. and Shawmut Road",
+    "brewery": "Evil Twin Brewing NYC",
+    "beer_type": ""
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-08-06T19:02:55+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Mango Little Thing",
+    "brewery": "Sierra Nevada Brewing Co.",
+    "beer_type": ""
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-08-06T18:44:12+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Ledoborec",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-08-06T18:33:24+00:00",
+    "serving": "draft",
+    "rating": 4.1,
+    "beer_name": "LOL",
+    "brewery": "Tired Hands Brewing Company",
+    "beer_type": ""
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-08-06T18:30:34+00:00",
+    "serving": "draft",
+    "rating": 3.2,
+    "beer_name": "זהב שחור",
+    "brewery": "New Pioneer Brewing Co - חלוץ חדש",
+    "beer_type": ""
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-08-06T18:29:36+00:00",
+    "serving": "draft",
+    "rating": 3.8,
+    "beer_name": "Nebulous Trail",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-08-06T18:29:25+00:00",
+    "serving": "draft",
+    "rating": 3.25,
+    "beer_name": "ארצי מולדתי 2026",
+    "brewery": "New Pioneer Brewing Co - חלוץ חדש",
+    "beer_type": ""
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-08-06T18:28:05+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Photon",
+    "brewery": "Equilibrium Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-08-06T18:27:03+00:00",
+    "serving": "draft",
+    "rating": 3.2,
+    "beer_name": "ארצי מולדתי 2026",
+    "brewery": "New Pioneer Brewing Co - חלוץ חדש",
+    "beer_type": ""
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-08-06T18:21:20+00:00",
+    "serving": "can",
+    "rating": 4.2,
+    "beer_name": "HOW ABOUT ONE OF YOUR EVIL-TWIN-TYPE LONG BEER NAMES?",
+    "brewery": "Evil Twin Brewing NYC",
+    "beer_type": ""
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-08-06T18:07:30+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "Yummy Pineapple, Papaya & Coconut",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-08-06T17:59:38+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Corner of George St. and Shawmut Road",
+    "brewery": "Evil Twin Brewing NYC",
+    "beer_type": ""
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-08-06T17:58:32+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Corner of George St. and Shawmut Road",
+    "brewery": "Evil Twin Brewing NYC",
+    "beer_type": ""
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-08-06T17:57:13+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Nebulous Trail",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-08-06T17:43:20+00:00",
+    "serving": "can",
+    "rating": 4.5,
+    "beer_name": "Black Marble",
+    "brewery": "Sullivan's Brewing Company",
+    "beer_type": ""
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-08-06T17:34:19+00:00",
+    "serving": "draft",
+    "rating": null,
+    "beer_name": "Earl Grey Tea Infused Lambic",
+    "brewery": "Oud Beersel",
+    "beer_type": ""
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-08-06T17:31:03+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Lemon Lime Mango Habanero Sour",
+    "brewery": "OneTwo",
+    "beer_type": ""
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-08-06T17:29:57+00:00",
+    "serving": "draft",
+    "rating": 3.25,
+    "beer_name": "Everyday Life",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-08-06T17:15:08+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Photon",
+    "brewery": "Equilibrium Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-08-06T17:14:01+00:00",
+    "serving": "can",
+    "rating": 3.7,
+    "beer_name": "Buckie Bomb",
+    "brewery": "Vault City Brewing",
+    "beer_type": ""
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-08-06T17:06:31+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "LOL",
+    "brewery": "Evil Twin Brewing NYC",
+    "beer_type": ""
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-08-06T16:56:28+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Shadowfarer",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-08-06T16:52:43+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Nebulous Trail",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-08-06T16:36:02+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "LOL",
+    "brewery": "Evil Twin Brewing NYC",
+    "beer_type": ""
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-08-06T16:33:09+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "LOL",
+    "brewery": "Evil Twin Brewing NYC",
+    "beer_type": ""
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-08-06T16:32:31+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Nebulous Trail",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-08-06T16:06:59+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Buster's Cranberry Lemonade",
+    "brewery": "Oak & Ash",
+    "beer_type": ""
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-08-06T16:04:17+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Nebulous Trail",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-08-06T15:46:34+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "Nebulous Trail",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-08-06T15:14:20+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "LOL",
+    "brewery": "Tired Hands Brewing Company",
     "beer_type": ""
   }
 ];
