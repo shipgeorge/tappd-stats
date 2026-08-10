@@ -1,6 +1,6 @@
 // 🍺 BEER STATS DATA - Generated automatically
-// Last updated: 2026-08-09 07:07:09
-// Total records: 20674
+// Last updated: 2026-08-10 07:55:42
+// Total records: 20703
 
 const BEER_DATA = [
   {
@@ -2967,20 +2967,20 @@ const BEER_DATA = [
   {
     "venue": "b7-beer-house",
     "time": "2026-05-29T08:42:24+00:00",
-    "serving": "draft",
-    "rating": 3.75,
-    "beer_name": "Prunes In Chocolate",
-    "brewery": "Radionov",
-    "beer_type": "Homebrew, Porter - Other"
-  },
-  {
-    "venue": "b7-beer-house",
-    "time": "2026-05-29T08:42:24+00:00",
     "serving": "can",
     "rating": 3.75,
     "beer_name": "Hop Elixir: Citra, Citra Hyperboost, Citra Cryo, Citra Dynaboost",
     "brewery": "Sibeeria Brewery",
     "beer_type": "IPA - Session New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T08:42:24+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Prunes In Chocolate",
+    "brewery": "Radionov",
+    "beer_type": "Homebrew, Porter - Other"
   },
   {
     "venue": "b7-beer-house",
@@ -9652,15 +9652,6 @@ const BEER_DATA = [
     "beer_type": "IPA - American"
   },
   {
-    "venue": "b7-beer-house",
-    "time": "2026-05-08T14:05:01+00:00",
-    "serving": "draft",
-    "rating": 4.0,
-    "beer_name": "Helix",
-    "brewery": "Equilibrium Brewery",
-    "beer_type": "Pilsner - German"
-  },
-  {
     "venue": "schnitt-brewing-company",
     "time": "2026-05-08T14:05:01+00:00",
     "serving": "Unknown",
@@ -9668,6 +9659,15 @@ const BEER_DATA = [
     "beer_name": "Cheers Alenbeer",
     "brewery": "Schnitt Brewing Company﻿",
     "beer_type": "IPA - Session"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-08T14:05:01+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Helix",
+    "brewery": "Equilibrium Brewery",
+    "beer_type": "Pilsner - German"
   },
   {
     "venue": "b7-beer-house",
@@ -186067,6 +186067,267 @@ const BEER_DATA = [
     "rating": 3.75,
     "beer_name": "Hobgoblin IPA",
     "brewery": "Marston's Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-08-09T16:37:24+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Nebulous Trail",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-08-09T18:03:22+00:00",
+    "serving": "draft",
+    "rating": 2.5,
+    "beer_name": "Four Hopsmen",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-08-09T18:02:53+00:00",
+    "serving": "draft",
+    "rating": 2.5,
+    "beer_name": "Hop 4ward",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-08-09T18:01:43+00:00",
+    "serving": "draft",
+    "rating": 2.5,
+    "beer_name": "Kelly's Green Pony",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-08-09T18:00:44+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Twist & Stout",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-08-09T17:58:25+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Schnitt Happens",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-08-09T17:58:22+00:00",
+    "serving": "draft",
+    "rating": 2.5,
+    "beer_name": "Paleraiser",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-08-09T17:57:15+00:00",
+    "serving": "draft",
+    "rating": 2.5,
+    "beer_name": "Schnitt Happens",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-08-09T17:56:45+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Paleraiser",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-08-09T17:55:08+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Session Yellow Haze",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-08-09T17:54:12+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Four Hopsmen",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-08-09T17:53:20+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Session Yellow Haze",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-08-09T17:52:12+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Hop 4ward",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-08-09T16:47:39+00:00",
+    "serving": "draft",
+    "rating": 3.25,
+    "beer_name": "Schnitt Happens",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-08-09T15:46:00+00:00",
+    "serving": "Unknown",
+    "rating": 4.25,
+    "beer_name": "Who Is Dunkelman?",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-08-09T15:44:46+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "Session Yellow Haze",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-08-09T13:06:49+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Schnitt Happens",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-08-09T13:02:53+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "Session Yellow Haze",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-08-09T12:58:33+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Session Yellow Haze",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-08-09T12:42:35+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Session Yellow Haze",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-10T00:08:46+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Abricot-Rhubarbe Tilquin - Draft Version",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-09T19:44:06+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Gewürztraminer (Tap Version) (2023)",
+    "brewery": "Boerenerf",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-09T19:40:56+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Fruitesse",
+    "brewery": "Brouwerij Liefmans",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-09T19:36:29+00:00",
+    "serving": "draft",
+    "rating": 3.25,
+    "beer_name": "Session IPA (2026)",
+    "brewery": "Shapiro (שפירא)",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-09T17:03:37+00:00",
+    "serving": "draft",
+    "rating": 2.75,
+    "beer_name": "Session IPA (2026)",
+    "brewery": "Shapiro (שפירא)",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-09T15:50:04+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "Rosé De Gambrinus 2024 - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-09T15:30:51+00:00",
+    "serving": "bottle",
+    "rating": 4.5,
+    "beer_name": "3 Fonteinen Oude Geuze Cuvée Armand & Gaston (season 22|23) Blend No. 6",
+    "brewery": "Brouwerij 3 Fonteinen",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-09T12:41:16+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Shesh Ahuz Kapara (שש אחוז כפרה)",
+    "brewery": "Herzl (הרצל)",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-09T12:40:13+00:00",
+    "serving": "draft",
+    "rating": 3.0,
+    "beer_name": "Hoppy Wheat (חיטה)",
+    "brewery": "Malka (מלכה)",
     "beer_type": ""
   }
 ];
