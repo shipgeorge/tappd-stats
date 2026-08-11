@@ -1,6 +1,6 @@
 // 🍺 BEER STATS DATA - Generated automatically
-// Last updated: 2026-08-10 07:55:42
-// Total records: 20703
+// Last updated: 2026-08-11 07:19:48
+// Total records: 20739
 
 const BEER_DATA = [
   {
@@ -2967,20 +2967,20 @@ const BEER_DATA = [
   {
     "venue": "b7-beer-house",
     "time": "2026-05-29T08:42:24+00:00",
-    "serving": "can",
-    "rating": 3.75,
-    "beer_name": "Hop Elixir: Citra, Citra Hyperboost, Citra Cryo, Citra Dynaboost",
-    "brewery": "Sibeeria Brewery",
-    "beer_type": "IPA - Session New England / Hazy"
-  },
-  {
-    "venue": "b7-beer-house",
-    "time": "2026-05-29T08:42:24+00:00",
     "serving": "draft",
     "rating": 3.75,
     "beer_name": "Prunes In Chocolate",
     "brewery": "Radionov",
     "beer_type": "Homebrew, Porter - Other"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T08:42:24+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Hop Elixir: Citra, Citra Hyperboost, Citra Cryo, Citra Dynaboost",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": "IPA - Session New England / Hazy"
   },
   {
     "venue": "b7-beer-house",
@@ -9652,15 +9652,6 @@ const BEER_DATA = [
     "beer_type": "IPA - American"
   },
   {
-    "venue": "schnitt-brewing-company",
-    "time": "2026-05-08T14:05:01+00:00",
-    "serving": "Unknown",
-    "rating": 3.5,
-    "beer_name": "Cheers Alenbeer",
-    "brewery": "Schnitt Brewing Company﻿",
-    "beer_type": "IPA - Session"
-  },
-  {
     "venue": "b7-beer-house",
     "time": "2026-05-08T14:05:01+00:00",
     "serving": "draft",
@@ -9668,6 +9659,15 @@ const BEER_DATA = [
     "beer_name": "Helix",
     "brewery": "Equilibrium Brewery",
     "beer_type": "Pilsner - German"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-08T14:05:01+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "Cheers Alenbeer",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - Session"
   },
   {
     "venue": "b7-beer-house",
@@ -186328,6 +186328,330 @@ const BEER_DATA = [
     "rating": 3.0,
     "beer_name": "Hoppy Wheat (חיטה)",
     "brewery": "Malka (מלכה)",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-10T20:05:20+00:00",
+    "serving": "bottle",
+    "rating": 4.5,
+    "beer_name": "Ginnungagap",
+    "brewery": "Schmulz",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-10T20:02:45+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Session IPA (2026)",
+    "brewery": "Shapiro (שפירא)",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-10T14:32:33+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Session IPA (2026)",
+    "brewery": "Shapiro (שפירא)",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-10T14:06:28+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Gewürztraminer (Tap Version) (2023)",
+    "brewery": "Boerenerf",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-10T14:05:22+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Nath (2025) - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-10T14:02:16+00:00",
+    "serving": "Unknown",
+    "rating": 4.5,
+    "beer_name": "Rosé De Gambrinus 2024 - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-10T14:01:15+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Abricot-Rhubarbe Tilquin - Draft Version",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": ""
+  },
+  {
+    "venue": "porter-and-sons",
+    "time": "2026-08-10T17:31:39+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Tucher Pils",
+    "brewery": "Tucher Bräu",
+    "beer_type": ""
+  },
+  {
+    "venue": "porter-and-sons",
+    "time": "2026-08-10T17:31:03+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Guinness Draught",
+    "brewery": "Guinness",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-08-10T19:33:37+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Session Yellow Haze",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-08-10T19:15:08+00:00",
+    "serving": "draft",
+    "rating": 3.25,
+    "beer_name": "Schnitt Happens",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-08-10T18:50:35+00:00",
+    "serving": "draft",
+    "rating": 3.25,
+    "beer_name": "Kelly's Green Pony",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-08-10T18:48:02+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "Paleraiser",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-08-10T18:43:48+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Four Hopsmen",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-08-10T17:34:53+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Session Yellow Haze",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-08-10T17:31:38+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Four Hopsmen",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-08-10T17:03:20+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Wit Win (situation)",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-08-10T16:14:06+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Attali's Goes Med",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-08-10T15:39:53+00:00",
+    "serving": "draft",
+    "rating": 3.25,
+    "beer_name": "Blueberry Brioche",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-08-10T14:01:44+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Session Yellow Haze",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-08-10T19:19:37+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Green (גרין)",
+    "brewery": "Alexander (אלכסנדר)",
+    "beer_type": ""
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-08-10T14:54:00+00:00",
+    "serving": "can",
+    "rating": null,
+    "beer_name": "Voracious Viper",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-08-10T14:52:17+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Hop Elixir: Citra, Citra Hyperboost, Citra Cryo, Citra Dynaboost",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-08-10T14:50:34+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Thiolized Motueka",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-08-10T14:49:18+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Thiolized Nelson Sauvin",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-08-10T14:47:50+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "Promise Everything",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-08-10T14:46:55+00:00",
+    "serving": "can",
+    "rating": 4.5,
+    "beer_name": "Lupus Salictarius (Mortalis Version)",
+    "brewery": "Mortalis Brewing Company",
+    "beer_type": ""
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-08-10T14:46:09+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Cubic Prism",
+    "brewery": "Equilibrium Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-08-10T14:45:16+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Stellar Observations",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-08-10T14:44:25+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "THE SOUR IPA IS DEAD, LONG LIVE THE SOUR IPA! - SPECIAL EDITION",
+    "brewery": "Evil Twin Brewing NYC",
+    "beer_type": ""
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-08-10T14:42:33+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Fresh Krush 15 2025",
+    "brewery": "Pivovar ZICHOVEC",
+    "beer_type": ""
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-08-10T14:41:34+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Winter Affair Gossip: SOMA",
+    "brewery": "Pivovar ZICHOVEC",
+    "beer_type": ""
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-08-10T12:48:47+00:00",
+    "serving": "can",
+    "rating": 3.25,
+    "beer_name": "Single Beeri (סינגל בארי)",
+    "brewery": "BeerBazaar / Mivshelet Ha’Aretz",
+    "beer_type": ""
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-08-10T12:47:42+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "ISN’T BROOKLYN A LITTLE SKETCHY? WHY WOULD YOU LIVE THERE?",
+    "brewery": "Evil Twin Brewing NYC",
+    "beer_type": ""
+  },
+  {
+    "venue": "beerline",
+    "time": "2026-08-10T10:13:21+00:00",
+    "serving": "bottle",
+    "rating": 4.5,
+    "beer_name": "Faraway Friends (Cellar Series)",
+    "brewery": "Põhjala",
+    "beer_type": ""
+  },
+  {
+    "venue": "beerline",
+    "time": "2026-08-10T10:10:38+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "Floris Cactus",
+    "brewery": "Delirium - Huyghe Brewery",
     "beer_type": ""
   }
 ];
