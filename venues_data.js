@@ -1,6 +1,6 @@
 // 🍺 BEER STATS DATA - Generated automatically
-// Last updated: 2026-08-12 07:43:37
-// Total records: 20756
+// Last updated: 2026-08-13 07:45:43
+// Total records: 20775
 
 const BEER_DATA = [
   {
@@ -2967,20 +2967,20 @@ const BEER_DATA = [
   {
     "venue": "b7-beer-house",
     "time": "2026-05-29T08:42:24+00:00",
-    "serving": "can",
-    "rating": 3.75,
-    "beer_name": "Hop Elixir: Citra, Citra Hyperboost, Citra Cryo, Citra Dynaboost",
-    "brewery": "Sibeeria Brewery",
-    "beer_type": "IPA - Session New England / Hazy"
-  },
-  {
-    "venue": "b7-beer-house",
-    "time": "2026-05-29T08:42:24+00:00",
     "serving": "draft",
     "rating": 3.75,
     "beer_name": "Prunes In Chocolate",
     "brewery": "Radionov",
     "beer_type": "Homebrew, Porter - Other"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T08:42:24+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Hop Elixir: Citra, Citra Hyperboost, Citra Cryo, Citra Dynaboost",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": "IPA - Session New England / Hazy"
   },
   {
     "venue": "b7-beer-house",
@@ -9652,15 +9652,6 @@ const BEER_DATA = [
     "beer_type": "IPA - American"
   },
   {
-    "venue": "schnitt-brewing-company",
-    "time": "2026-05-08T14:05:01+00:00",
-    "serving": "Unknown",
-    "rating": 3.5,
-    "beer_name": "Cheers Alenbeer",
-    "brewery": "Schnitt Brewing Company﻿",
-    "beer_type": "IPA - Session"
-  },
-  {
     "venue": "b7-beer-house",
     "time": "2026-05-08T14:05:01+00:00",
     "serving": "draft",
@@ -9668,6 +9659,15 @@ const BEER_DATA = [
     "beer_name": "Helix",
     "brewery": "Equilibrium Brewery",
     "beer_type": "Pilsner - German"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-08T14:05:01+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "Cheers Alenbeer",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - Session"
   },
   {
     "venue": "b7-beer-house",
@@ -186805,6 +186805,177 @@ const BEER_DATA = [
     "rating": 3.75,
     "beer_name": "Paleraiser",
     "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-08-12T19:07:56+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Shadowfarer",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-08-12T18:21:16+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "ISN’T BROOKLYN A LITTLE SKETCHY? WHY WOULD YOU LIVE THERE?",
+    "brewery": "Evil Twin Brewing NYC",
+    "beer_type": ""
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-08-12T18:18:06+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "ISN’T BROOKLYN A LITTLE SKETCHY? WHY WOULD YOU LIVE THERE?",
+    "brewery": "Evil Twin Brewing NYC",
+    "beer_type": ""
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-08-12T14:06:50+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Star Light - 2026",
+    "brewery": "Equilibrium Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-08-12T11:31:31+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "ISN’T BROOKLYN A LITTLE SKETCHY? WHY WOULD YOU LIVE THERE?",
+    "brewery": "Evil Twin Brewing NYC",
+    "beer_type": ""
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-08-12T08:47:47+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "Earl Grey Tea Infused Lambic",
+    "brewery": "Oud Beersel",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-08-12T18:10:55+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "Guava Island 2026",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-08-12T18:10:20+00:00",
+    "serving": "Unknown",
+    "rating": 3.0,
+    "beer_name": "Schnitt Happens",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-08-12T17:22:57+00:00",
+    "serving": "Unknown",
+    "rating": 4.25,
+    "beer_name": "Four Hopsmen",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-08-12T15:07:41+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "It Is What It Is",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-12T18:04:02+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Gueuze Tilquin – Draft Version",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-12T17:53:35+00:00",
+    "serving": "draft",
+    "rating": 3.25,
+    "beer_name": "Oak & Ash Amber (אש אמבר)",
+    "brewery": "Oak & Ash",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-12T17:34:46+00:00",
+    "serving": "bottle",
+    "rating": 3.75,
+    "beer_name": "Chimay Première (Red)",
+    "brewery": "Bières de Chimay",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-12T17:22:42+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Star Light",
+    "brewery": "Equilibrium Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-12T17:22:10+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Tucher Pils",
+    "brewery": "Tucher Bräu",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-12T16:39:00+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "Paleraiser",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "berlin-florentin",
+    "time": "2026-08-12T19:37:40+00:00",
+    "serving": "bottle",
+    "rating": 2.0,
+    "beer_name": "Lvivske 1715 (Львівське 1715)",
+    "brewery": "Carlsberg Ukraine",
+    "beer_type": ""
+  },
+  {
+    "venue": "berlin-florentin",
+    "time": "2026-08-12T18:03:41+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Carlsberg Luma",
+    "brewery": "Israel Beer Breweries Ltd. (IBBL)",
+    "beer_type": ""
+  },
+  {
+    "venue": "beerline",
+    "time": "2026-08-12T10:03:46+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Pale Ale",
+    "brewery": "Sierra Nevada Brewing Co.",
     "beer_type": ""
   }
 ];
