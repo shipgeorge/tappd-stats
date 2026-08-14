@@ -1,6 +1,6 @@
 // 🍺 BEER STATS DATA - Generated automatically
-// Last updated: 2026-08-13 07:45:43
-// Total records: 20775
+// Last updated: 2026-08-14 07:43:40
+// Total records: 20821
 
 const BEER_DATA = [
   {
@@ -2967,20 +2967,20 @@ const BEER_DATA = [
   {
     "venue": "b7-beer-house",
     "time": "2026-05-29T08:42:24+00:00",
-    "serving": "draft",
-    "rating": 3.75,
-    "beer_name": "Prunes In Chocolate",
-    "brewery": "Radionov",
-    "beer_type": "Homebrew, Porter - Other"
-  },
-  {
-    "venue": "b7-beer-house",
-    "time": "2026-05-29T08:42:24+00:00",
     "serving": "can",
     "rating": 3.75,
     "beer_name": "Hop Elixir: Citra, Citra Hyperboost, Citra Cryo, Citra Dynaboost",
     "brewery": "Sibeeria Brewery",
     "beer_type": "IPA - Session New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T08:42:24+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Prunes In Chocolate",
+    "brewery": "Radionov",
+    "beer_type": "Homebrew, Porter - Other"
   },
   {
     "venue": "b7-beer-house",
@@ -9652,15 +9652,6 @@ const BEER_DATA = [
     "beer_type": "IPA - American"
   },
   {
-    "venue": "b7-beer-house",
-    "time": "2026-05-08T14:05:01+00:00",
-    "serving": "draft",
-    "rating": 4.0,
-    "beer_name": "Helix",
-    "brewery": "Equilibrium Brewery",
-    "beer_type": "Pilsner - German"
-  },
-  {
     "venue": "schnitt-brewing-company",
     "time": "2026-05-08T14:05:01+00:00",
     "serving": "Unknown",
@@ -9668,6 +9659,15 @@ const BEER_DATA = [
     "beer_name": "Cheers Alenbeer",
     "brewery": "Schnitt Brewing Company﻿",
     "beer_type": "IPA - Session"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-08T14:05:01+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Helix",
+    "brewery": "Equilibrium Brewery",
+    "beer_type": "Pilsner - German"
   },
   {
     "venue": "b7-beer-house",
@@ -186976,6 +186976,420 @@ const BEER_DATA = [
     "rating": 3.75,
     "beer_name": "Pale Ale",
     "brewery": "Sierra Nevada Brewing Co.",
+    "beer_type": ""
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-08-13T18:02:03+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Yummy Raspberry, Blackberry & Vanilla",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-08-13T18:00:34+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Yummy Raspberry, Blackberry & Vanilla",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-08-13T17:57:48+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Ledoborec",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-08-13T17:57:05+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "Ledoborec",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-08-13T17:44:21+00:00",
+    "serving": "can",
+    "rating": 3.25,
+    "beer_name": "Gemini | Blueberry + Pineapple + Glazed Donut",
+    "brewery": "Mortalis Brewing Company",
+    "beer_type": ""
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-08-13T17:40:51+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Yummy Pineapple, Papaya & Coconut",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-08-13T17:38:35+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Yummy Pineapple, Papaya & Coconut",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-08-13T17:36:50+00:00",
+    "serving": "Unknown",
+    "rating": 4.25,
+    "beer_name": "Yummy Blackcurrant, Prunes & Tonka",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-08-13T17:19:03+00:00",
+    "serving": "can",
+    "rating": 3.6,
+    "beer_name": "Mediterranean Porter",
+    "brewery": "Sheeta Brewery (בירה שיטה)",
+    "beer_type": ""
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-08-13T15:05:52+00:00",
+    "serving": "can",
+    "rating": 3.8,
+    "beer_name": "Beauty - Tangerine, Calamansi, Vanilla",
+    "brewery": "Magic Road",
+    "beer_type": ""
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-08-13T13:11:39+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Cherry Wood Infused Lambic",
+    "brewery": "Oud Beersel",
+    "beer_type": ""
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-08-13T12:42:15+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "ISN’T BROOKLYN A LITTLE SKETCHY? WHY WOULD YOU LIVE THERE?",
+    "brewery": "Evil Twin Brewing NYC",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-08-13T21:01:46+00:00",
+    "serving": "can",
+    "rating": 3.0,
+    "beer_name": "Hazy Day",
+    "brewery": "Greene King",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-08-13T19:53:03+00:00",
+    "serving": "draft",
+    "rating": 3.25,
+    "beer_name": "Session IPA (2026)",
+    "brewery": "Shapiro (שפירא)",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-08-13T19:42:38+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "Session Yellow Haze",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-08-13T18:42:07+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Tea Party: Masala",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-08-13T14:28:06+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "Guava Island 2026",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-08-13T12:36:33+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Four Hopsmen",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-08-13T10:28:09+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Let's Get Tropical",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-08-13T10:24:51+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Hopangan",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-08-13T10:24:09+00:00",
+    "serving": "can",
+    "rating": null,
+    "beer_name": "חוה",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-13T23:36:56+00:00",
+    "serving": "draft",
+    "rating": 4.5,
+    "beer_name": "Gewürztraminer (Tap Version) (2023)",
+    "brewery": "Boerenerf",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-13T19:28:09+00:00",
+    "serving": "draft",
+    "rating": 4.5,
+    "beer_name": "Kriekenlambiek (2025)",
+    "brewery": "Oud Beersel",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-13T19:07:14+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Kriekenlambiek (2025)",
+    "brewery": "Oud Beersel",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-13T19:03:44+00:00",
+    "serving": "bottle",
+    "rating": 4.0,
+    "beer_name": "Aecht Schlenkerla Rauchbier – Märzen",
+    "brewery": "Schlenkerla (\"Heller-Bräu\" Trum)",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-13T18:28:22+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Kriekenlambiek (2025)",
+    "brewery": "Oud Beersel",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-13T17:28:07+00:00",
+    "serving": "draft",
+    "rating": 4.5,
+    "beer_name": "Aecht Schlenkerla Rauchbier – Märzen",
+    "brewery": "Schlenkerla (\"Heller-Bräu\" Trum)",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-13T17:06:26+00:00",
+    "serving": "bottle",
+    "rating": 5.0,
+    "beer_name": "Oude Quetsche Tilquin à l’Ancienne (2023-2024)",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-13T16:42:34+00:00",
+    "serving": "draft",
+    "rating": 3.6,
+    "beer_name": "Hadar הדר",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-13T16:38:02+00:00",
+    "serving": "draft",
+    "rating": 4.2,
+    "beer_name": "Session Yellow Haze",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-13T16:22:52+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Schnitt Happens",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-13T16:18:49+00:00",
+    "serving": "draft",
+    "rating": 3.8,
+    "beer_name": "Paleraiser",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-13T15:51:01+00:00",
+    "serving": "can",
+    "rating": 3.2,
+    "beer_name": "Oak & Ash Amber (אש אמבר)",
+    "brewery": "Oak & Ash",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-13T15:44:23+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Mango Little Thing",
+    "brewery": "Sierra Nevada Brewing Co.",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-13T15:39:23+00:00",
+    "serving": "can",
+    "rating": 3.6,
+    "beer_name": "שנה טובה כפרה",
+    "brewery": "Herzl (הרצל)",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-13T15:24:30+00:00",
+    "serving": "bottle",
+    "rating": 4.0,
+    "beer_name": "Delirium Nocturnum",
+    "brewery": "Delirium - Huyghe Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-13T15:17:22+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Let's Get Tropical",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-13T15:03:34+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Fruitesse",
+    "brewery": "Brouwerij Liefmans",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-13T14:55:33+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "חוה",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-13T14:50:41+00:00",
+    "serving": "can",
+    "rating": 4.3,
+    "beer_name": "Hopangan",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-13T14:39:42+00:00",
+    "serving": "draft",
+    "rating": 4.2,
+    "beer_name": "Session IPA (2026)",
+    "brewery": "Shapiro (שפירא)",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-13T14:24:20+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Hopangan",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-13T13:55:27+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "Sang Bleu 2025 - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": ""
+  },
+  {
+    "venue": "porter-and-sons",
+    "time": "2026-08-13T19:34:33+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Aecht Schlenkerla Rauchbier – Märzen",
+    "brewery": "Schlenkerla (\"Heller-Bräu\" Trum)",
+    "beer_type": ""
+  },
+  {
+    "venue": "beerline",
+    "time": "2026-08-13T13:10:08+00:00",
+    "serving": "can",
+    "rating": 3.25,
+    "beer_name": "Citra Little Thing",
+    "brewery": "Sierra Nevada Brewing Co.",
+    "beer_type": ""
+  },
+  {
+    "venue": "beerbazaar-brewery",
+    "time": "2026-08-13T19:54:03+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Wheatney (וויטני)",
+    "brewery": "BeerBazaar / Mivshelet Ha’Aretz",
     "beer_type": ""
   }
 ];

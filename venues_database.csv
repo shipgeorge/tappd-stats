@@ -328,8 +328,8 @@ b7-beer-house,Ziv Shwartzman,"Fri, 29 May 2026 08:44:41 +0000",draft,3.75,Pilsne
 b7-beer-house,Yana O,"Fri, 29 May 2026 08:43:54 +0000",bottle,4.0,Night Shift Vintage 2025 / Russian Imperial Stout Aged In Rhum And Vanilla Macadamia Rum Barrels,HORIZONT Brewing,Stout - Russian Imperial
 b7-beer-house,גל סילברמן,"Fri, 29 May 2026 08:43:40 +0000",bottle,4.7,Experiments In the Kitchen,Mortalis Brewing Company,Stout - Imperial / Double Pastry
 b7-beer-house,Tom Lahav,"Fri, 29 May 2026 08:43:38 +0000",can,4.0,Prague Tap Room 2nd Anniversary,Sibeeria Brewery,IPA - Triple New England / Hazy
-b7-beer-house,Ziv Shwartzman,"Fri, 29 May 2026 08:42:24 +0000",draft,3.75,Prunes In Chocolate,Radionov,"Homebrew, Porter - Other"
 b7-beer-house,Tom Lahav,"Fri, 29 May 2026 08:42:24 +0000",can,3.75,"Hop Elixir: Citra, Citra Hyperboost, Citra Cryo, Citra Dynaboost",Sibeeria Brewery,IPA - Session New England / Hazy
+b7-beer-house,Ziv Shwartzman,"Fri, 29 May 2026 08:42:24 +0000",draft,3.75,Prunes In Chocolate,Radionov,"Homebrew, Porter - Other"
 b7-beer-house,Ido Cohen,"Fri, 29 May 2026 08:42:17 +0000",bottle,4.0,Night Shift Vintage 2025 / Double Chocolate Imperial Milk Porter  Aged In Bourbon Barrels,HORIZONT Brewing,Porter - Imperial / Double
 b7-beer-house,Mikhail Stolov,"Fri, 29 May 2026 08:41:47 +0000",can,3.75,"Hop Elixir: Citra, Citra Hyperboost, Citra Cryo, Citra Dynaboost",Sibeeria Brewery,IPA - Session New England / Hazy
 b7-beer-house,Ido Cohen,"Fri, 29 May 2026 08:41:42 +0000",bottle,3.9,Night Shift Vintage 2025 / Peanut Butter Jelly Imperial Pastry Stout Aged In Pedro Ximénez Sherry Barrels,HORIZONT Brewing,Stout - Imperial / Double Pastry
@@ -1071,8 +1071,8 @@ schnitt-brewing-company,Andrey Granovsky,"Fri, 08 May 2026 14:26:07 +0000",draft
 lauter,dafi20,"Fri, 08 May 2026 14:26:00 +0000",draft,3.5,Oasis,Negev Brewery (נגב),Blonde / Golden Ale - Other
 schnitt-brewing-company,Dr Troubles,"Fri, 08 May 2026 14:20:50 +0000",draft,3.25,Ice Ice Bockbier,Schnitt Brewing Company﻿,Bock - Eisbock
 b7-beer-house,Oren Hazan,"Fri, 08 May 2026 14:05:49 +0000",draft,4.0,I Love the Smell of Strata In the Morning,Sibeeria Brewery,IPA - American
-b7-beer-house,Oren Hazan,"Fri, 08 May 2026 14:05:01 +0000",draft,4.0,Helix,Equilibrium Brewery,Pilsner - German
 schnitt-brewing-company,Yoav Kowalski,"Fri, 08 May 2026 14:05:01 +0000",,3.5,Cheers Alenbeer,Schnitt Brewing Company﻿,IPA - Session
+b7-beer-house,Oren Hazan,"Fri, 08 May 2026 14:05:01 +0000",draft,4.0,Helix,Equilibrium Brewery,Pilsner - German
 b7-beer-house,Oren Hazan,"Fri, 08 May 2026 14:04:15 +0000",draft,3.75,רוביקון,New Pioneer Brewing Co - חלוץ חדש,Brown Ale - American
 schnitt-brewing-company,Yoav Kowalski,"Fri, 08 May 2026 14:04:02 +0000",draft,3.25,Ice Ice Bockbier,Schnitt Brewing Company﻿,Bock - Eisbock
 schnitt-brewing-company,Vladimir Kanevsky,"Fri, 08 May 2026 13:59:02 +0000",draft,4.0,Cheers Alenbeer,Schnitt Brewing Company﻿,IPA - Session
@@ -20774,3 +20774,49 @@ lauter,Raz Ko,"Wed, 12 Aug 2026 16:39:00 +0000",,3.5,Paleraiser,Schnitt Brewing 
 berlin-florentin,Alex Sindalovsky,"Wed, 12 Aug 2026 19:37:40 +0000",bottle,2.0,Lvivske 1715 (Львівське 1715),Carlsberg Ukraine,
 berlin-florentin,BarLahav,"Wed, 12 Aug 2026 18:03:41 +0000",draft,4.0,Carlsberg Luma,Israel Beer Breweries Ltd. (IBBL),
 beerline,Slava Gladchenko,"Wed, 12 Aug 2026 10:03:46 +0000",draft,3.75,Pale Ale,Sierra Nevada Brewing Co.,
+b7-beer-house,TheOnlyMagicalNoob,"Thu, 13 Aug 2026 18:02:03 +0000",can,4.0,"Yummy Raspberry, Blackberry & Vanilla",Sibeeria Brewery,
+b7-beer-house,Chinese Uncle,"Thu, 13 Aug 2026 18:00:34 +0000",can,4.0,"Yummy Raspberry, Blackberry & Vanilla",Sibeeria Brewery,
+b7-beer-house,TheOnlyMagicalNoob,"Thu, 13 Aug 2026 17:57:48 +0000",can,3.75,Ledoborec,Sibeeria Brewery,
+b7-beer-house,Chinese Uncle,"Thu, 13 Aug 2026 17:57:05 +0000",,3.5,Ledoborec,Sibeeria Brewery,
+b7-beer-house,Chinese Uncle,"Thu, 13 Aug 2026 17:44:21 +0000",can,3.25,Gemini | Blueberry + Pineapple + Glazed Donut,Mortalis Brewing Company,
+b7-beer-house,Chinese Uncle,"Thu, 13 Aug 2026 17:40:51 +0000",can,4.0,"Yummy Pineapple, Papaya & Coconut",Sibeeria Brewery,
+b7-beer-house,TheOnlyMagicalNoob,"Thu, 13 Aug 2026 17:38:35 +0000",can,4.0,"Yummy Pineapple, Papaya & Coconut",Sibeeria Brewery,
+b7-beer-house,Chinese Uncle,"Thu, 13 Aug 2026 17:36:50 +0000",,4.25,"Yummy Blackcurrant, Prunes & Tonka",Sibeeria Brewery,
+b7-beer-house,Yotam Bar-natan,"Thu, 13 Aug 2026 17:19:03 +0000",can,3.6,Mediterranean Porter,Sheeta Brewery (בירה שיטה),
+b7-beer-house,Yotam Bar-natan,"Thu, 13 Aug 2026 15:05:52 +0000",can,3.8,"Beauty - Tangerine, Calamansi, Vanilla",Magic Road,
+b7-beer-house,Raz Hechter,"Thu, 13 Aug 2026 13:11:39 +0000",draft,4.0,Cherry Wood Infused Lambic,Oud Beersel,
+b7-beer-house,Raz Hechter,"Thu, 13 Aug 2026 12:42:15 +0000",draft,3.5,ISN’T BROOKLYN A LITTLE SKETCHY? WHY WOULD YOU LIVE THERE?,Evil Twin Brewing NYC,
+schnitt-brewing-company,Dr Troubles,"Thu, 13 Aug 2026 21:01:46 +0000",can,3.0,Hazy Day,Greene King,
+schnitt-brewing-company,Dr Troubles,"Thu, 13 Aug 2026 19:53:03 +0000",draft,3.25,Session IPA (2026),Shapiro (שפירא),
+schnitt-brewing-company,Dr Troubles,"Thu, 13 Aug 2026 19:42:38 +0000",,3.5,Session Yellow Haze,Schnitt Brewing Company﻿,
+schnitt-brewing-company,Yael Hochberg Yanai,"Thu, 13 Aug 2026 18:42:07 +0000",can,4.0,Tea Party: Masala,Schnitt Brewing Company﻿,
+schnitt-brewing-company,Yana O,"Thu, 13 Aug 2026 14:28:06 +0000",draft,4.25,Guava Island 2026,Schnitt Brewing Company﻿,
+schnitt-brewing-company,Nadav,"Thu, 13 Aug 2026 12:36:33 +0000",draft,4.0,Four Hopsmen,Schnitt Brewing Company﻿,
+schnitt-brewing-company,Nir Langer,"Thu, 13 Aug 2026 10:28:09 +0000",,,Let's Get Tropical,Schnitt Brewing Company﻿,
+schnitt-brewing-company,Nir Langer,"Thu, 13 Aug 2026 10:24:51 +0000",,,Hopangan,Schnitt Brewing Company﻿,
+schnitt-brewing-company,Nir Langer,"Thu, 13 Aug 2026 10:24:09 +0000",can,,חוה,Schnitt Brewing Company﻿,
+lauter,Leon,"Thu, 13 Aug 2026 23:36:56 +0000",draft,4.5,Gewürztraminer (Tap Version) (2023),Boerenerf,
+lauter,Eli Smikin,"Thu, 13 Aug 2026 19:28:09 +0000",draft,4.5,Kriekenlambiek (2025),Oud Beersel,
+lauter,Dr Troubles,"Thu, 13 Aug 2026 19:07:14 +0000",,4.0,Kriekenlambiek (2025),Oud Beersel,
+lauter,Shmupi Koto,"Thu, 13 Aug 2026 19:03:44 +0000",bottle,4.0,Aecht Schlenkerla Rauchbier – Märzen,"Schlenkerla (""Heller-Bräu"" Trum)",
+lauter,Shmupi Koto,"Thu, 13 Aug 2026 18:28:22 +0000",draft,4.0,Kriekenlambiek (2025),Oud Beersel,
+lauter,Eli Smikin,"Thu, 13 Aug 2026 17:28:07 +0000",draft,4.5,Aecht Schlenkerla Rauchbier – Märzen,"Schlenkerla (""Heller-Bräu"" Trum)",
+lauter,Eli Smikin,"Thu, 13 Aug 2026 17:06:26 +0000",bottle,5.0,Oude Quetsche Tilquin à l’Ancienne (2023-2024),Gueuzerie Tilquin,
+lauter,Eli Smikin,"Thu, 13 Aug 2026 16:42:34 +0000",draft,3.6,Hadar הדר,Schnitt Brewing Company﻿,
+lauter,Eli Smikin,"Thu, 13 Aug 2026 16:38:02 +0000",draft,4.2,Session Yellow Haze,Schnitt Brewing Company﻿,
+lauter,Eli Smikin,"Thu, 13 Aug 2026 16:22:52 +0000",draft,3.5,Schnitt Happens,Schnitt Brewing Company﻿,
+lauter,Eli Smikin,"Thu, 13 Aug 2026 16:18:49 +0000",draft,3.8,Paleraiser,Schnitt Brewing Company﻿,
+lauter,Eli Smikin,"Thu, 13 Aug 2026 15:51:01 +0000",can,3.2,Oak & Ash Amber (אש אמבר),Oak & Ash,
+lauter,Eli Smikin,"Thu, 13 Aug 2026 15:44:23 +0000",can,4.0,Mango Little Thing,Sierra Nevada Brewing Co.,
+lauter,Eli Smikin,"Thu, 13 Aug 2026 15:39:23 +0000",can,3.6,שנה טובה כפרה,Herzl (הרצל),
+lauter,Yana O,"Thu, 13 Aug 2026 15:24:30 +0000",bottle,4.0,Delirium Nocturnum,Delirium - Huyghe Brewery,
+lauter,Eli Smikin,"Thu, 13 Aug 2026 15:17:22 +0000",can,4.0,Let's Get Tropical,Schnitt Brewing Company﻿,
+lauter,Benjamin Rivkin,"Thu, 13 Aug 2026 15:03:34 +0000",draft,4.0,Fruitesse,Brouwerij Liefmans,
+lauter,Eli Smikin,"Thu, 13 Aug 2026 14:55:33 +0000",can,3.5,חוה,Schnitt Brewing Company﻿,
+lauter,Eli Smikin,"Thu, 13 Aug 2026 14:50:41 +0000",can,4.3,Hopangan,Schnitt Brewing Company﻿,
+lauter,Eli Smikin,"Thu, 13 Aug 2026 14:39:42 +0000",draft,4.2,Session IPA (2026),Shapiro (שפירא),
+lauter,Yanai Ben- Alon,"Thu, 13 Aug 2026 14:24:20 +0000",can,3.75,Hopangan,Schnitt Brewing Company﻿,
+lauter,Leon,"Thu, 13 Aug 2026 13:55:27 +0000",draft,4.25,Sang Bleu 2025 - Draft Version,Brasserie Cantillon,
+porter-and-sons,Shmupi Koto,"Thu, 13 Aug 2026 19:34:33 +0000",draft,4.0,Aecht Schlenkerla Rauchbier – Märzen,"Schlenkerla (""Heller-Bräu"" Trum)",
+beerline,Slava Gladchenko,"Thu, 13 Aug 2026 13:10:08 +0000",can,3.25,Citra Little Thing,Sierra Nevada Brewing Co.,
+beerbazaar-brewery,berenike,"Thu, 13 Aug 2026 19:54:03 +0000",draft,4.0,Wheatney (וויטני),BeerBazaar / Mivshelet Ha’Aretz,
