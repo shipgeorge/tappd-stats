@@ -1,6 +1,6 @@
 // 🍺 BEER STATS DATA - Generated automatically
-// Last updated: 2026-08-15 06:51:20
-// Total records: 20852
+// Last updated: 2026-08-16 06:52:33
+// Total records: 20877
 
 const BEER_DATA = [
   {
@@ -2967,20 +2967,20 @@ const BEER_DATA = [
   {
     "venue": "b7-beer-house",
     "time": "2026-05-29T08:42:24+00:00",
-    "serving": "draft",
-    "rating": 3.75,
-    "beer_name": "Prunes In Chocolate",
-    "brewery": "Radionov",
-    "beer_type": "Homebrew, Porter - Other"
-  },
-  {
-    "venue": "b7-beer-house",
-    "time": "2026-05-29T08:42:24+00:00",
     "serving": "can",
     "rating": 3.75,
     "beer_name": "Hop Elixir: Citra, Citra Hyperboost, Citra Cryo, Citra Dynaboost",
     "brewery": "Sibeeria Brewery",
     "beer_type": "IPA - Session New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T08:42:24+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Prunes In Chocolate",
+    "brewery": "Radionov",
+    "beer_type": "Homebrew, Porter - Other"
   },
   {
     "venue": "b7-beer-house",
@@ -9652,15 +9652,6 @@ const BEER_DATA = [
     "beer_type": "IPA - American"
   },
   {
-    "venue": "b7-beer-house",
-    "time": "2026-05-08T14:05:01+00:00",
-    "serving": "draft",
-    "rating": 4.0,
-    "beer_name": "Helix",
-    "brewery": "Equilibrium Brewery",
-    "beer_type": "Pilsner - German"
-  },
-  {
     "venue": "schnitt-brewing-company",
     "time": "2026-05-08T14:05:01+00:00",
     "serving": "Unknown",
@@ -9668,6 +9659,15 @@ const BEER_DATA = [
     "beer_name": "Cheers Alenbeer",
     "brewery": "Schnitt Brewing Company﻿",
     "beer_type": "IPA - Session"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-08T14:05:01+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Helix",
+    "brewery": "Equilibrium Brewery",
+    "beer_type": "Pilsner - German"
   },
   {
     "venue": "b7-beer-house",
@@ -187669,6 +187669,231 @@ const BEER_DATA = [
     "rating": null,
     "beer_name": "Oak & Ash Amber (אש אמבר)",
     "brewery": "Oak & Ash",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-08-15T11:55:59+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Paleraiser",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-08-15T09:33:37+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Session Yellow Haze",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-08-15T09:13:31+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Kelly's Green Pony",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-08-15T18:37:17+00:00",
+    "serving": "can",
+    "rating": 4.75,
+    "beer_name": "Nebulous Trail",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-08-15T17:45:42+00:00",
+    "serving": "can",
+    "rating": 4.1,
+    "beer_name": "69 - Popihn",
+    "brewery": "Tipsip Brewing",
+    "beer_type": ""
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-08-15T17:41:41+00:00",
+    "serving": "bottle",
+    "rating": null,
+    "beer_name": "Every Plague Doctor Likes a Peanut Butter And Chocolate Milk Porter #Mar24",
+    "brewery": "Post Apocalyptic",
+    "beer_type": ""
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-08-15T17:29:50+00:00",
+    "serving": "bottle",
+    "rating": 4.0,
+    "beer_name": "Frankenator #May26",
+    "brewery": "Post Apocalyptic",
+    "beer_type": ""
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-08-15T17:05:01+00:00",
+    "serving": "bottle",
+    "rating": 3.8,
+    "beer_name": "Cherry Bomb 2.0 #Oct25",
+    "brewery": "Post Apocalyptic",
+    "beer_type": ""
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-08-15T17:01:52+00:00",
+    "serving": "bottle",
+    "rating": 4.0,
+    "beer_name": "SMASH // Citra IPA // MAY26",
+    "brewery": "Post Apocalyptic",
+    "beer_type": ""
+  },
+  {
+    "venue": "berlin-florentin",
+    "time": "2026-08-15T12:17:28+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Guinness Draught",
+    "brewery": "Guinness",
+    "beer_type": ""
+  },
+  {
+    "venue": "berlin-florentin",
+    "time": "2026-08-15T11:55:37+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Guinness Draught",
+    "brewery": "Guinness",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-15T19:49:48+00:00",
+    "serving": "can",
+    "rating": 3.7,
+    "beer_name": "TDH Nectaron X Motueka X Citra DIPA",
+    "brewery": "Ārpus Brewing Co.",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-15T19:27:41+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "Trail Pass IPA",
+    "brewery": "Sierra Nevada Brewing Co.",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-15T17:09:02+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Hopangan",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-15T16:08:54+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Session IPA (2026)",
+    "brewery": "Shapiro (שפירא)",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-15T16:04:17+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Session Yellow Haze",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-15T15:56:37+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Let's Get Tropical",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-15T15:46:48+00:00",
+    "serving": "bottle",
+    "rating": 4.0,
+    "beer_name": "Pie in the Sky",
+    "brewery": "OverWorks",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-15T15:24:05+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "חוה",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-15T15:14:23+00:00",
+    "serving": "draft",
+    "rating": 3.25,
+    "beer_name": "Barcelona Cerdos Voladores/Premium Lager",
+    "brewery": "Barcelona Beer Company",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-15T15:13:38+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Session IPA (2026)",
+    "brewery": "Shapiro (שפירא)",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-15T15:11:56+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Easy Ride",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-15T15:11:22+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Oak & Ash Amber (אש אמבר)",
+    "brewery": "Oak & Ash",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-15T15:10:14+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Let's Get Tropical",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-15T11:57:04+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "סיידר תפוחים אלכוהולי חצי יבש",
+    "brewery": "Hamatsesa (המתססה)",
     "beer_type": ""
   }
 ];
