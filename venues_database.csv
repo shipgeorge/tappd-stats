@@ -328,8 +328,8 @@ b7-beer-house,Ziv Shwartzman,"Fri, 29 May 2026 08:44:41 +0000",draft,3.75,Pilsne
 b7-beer-house,Yana O,"Fri, 29 May 2026 08:43:54 +0000",bottle,4.0,Night Shift Vintage 2025 / Russian Imperial Stout Aged In Rhum And Vanilla Macadamia Rum Barrels,HORIZONT Brewing,Stout - Russian Imperial
 b7-beer-house,גל סילברמן,"Fri, 29 May 2026 08:43:40 +0000",bottle,4.7,Experiments In the Kitchen,Mortalis Brewing Company,Stout - Imperial / Double Pastry
 b7-beer-house,Tom Lahav,"Fri, 29 May 2026 08:43:38 +0000",can,4.0,Prague Tap Room 2nd Anniversary,Sibeeria Brewery,IPA - Triple New England / Hazy
-b7-beer-house,Tom Lahav,"Fri, 29 May 2026 08:42:24 +0000",can,3.75,"Hop Elixir: Citra, Citra Hyperboost, Citra Cryo, Citra Dynaboost",Sibeeria Brewery,IPA - Session New England / Hazy
 b7-beer-house,Ziv Shwartzman,"Fri, 29 May 2026 08:42:24 +0000",draft,3.75,Prunes In Chocolate,Radionov,"Homebrew, Porter - Other"
+b7-beer-house,Tom Lahav,"Fri, 29 May 2026 08:42:24 +0000",can,3.75,"Hop Elixir: Citra, Citra Hyperboost, Citra Cryo, Citra Dynaboost",Sibeeria Brewery,IPA - Session New England / Hazy
 b7-beer-house,Ido Cohen,"Fri, 29 May 2026 08:42:17 +0000",bottle,4.0,Night Shift Vintage 2025 / Double Chocolate Imperial Milk Porter  Aged In Bourbon Barrels,HORIZONT Brewing,Porter - Imperial / Double
 b7-beer-house,Mikhail Stolov,"Fri, 29 May 2026 08:41:47 +0000",can,3.75,"Hop Elixir: Citra, Citra Hyperboost, Citra Cryo, Citra Dynaboost",Sibeeria Brewery,IPA - Session New England / Hazy
 b7-beer-house,Ido Cohen,"Fri, 29 May 2026 08:41:42 +0000",bottle,3.9,Night Shift Vintage 2025 / Peanut Butter Jelly Imperial Pastry Stout Aged In Pedro Ximénez Sherry Barrels,HORIZONT Brewing,Stout - Imperial / Double Pastry
@@ -1071,8 +1071,8 @@ schnitt-brewing-company,Andrey Granovsky,"Fri, 08 May 2026 14:26:07 +0000",draft
 lauter,dafi20,"Fri, 08 May 2026 14:26:00 +0000",draft,3.5,Oasis,Negev Brewery (נגב),Blonde / Golden Ale - Other
 schnitt-brewing-company,Dr Troubles,"Fri, 08 May 2026 14:20:50 +0000",draft,3.25,Ice Ice Bockbier,Schnitt Brewing Company﻿,Bock - Eisbock
 b7-beer-house,Oren Hazan,"Fri, 08 May 2026 14:05:49 +0000",draft,4.0,I Love the Smell of Strata In the Morning,Sibeeria Brewery,IPA - American
-schnitt-brewing-company,Yoav Kowalski,"Fri, 08 May 2026 14:05:01 +0000",,3.5,Cheers Alenbeer,Schnitt Brewing Company﻿,IPA - Session
 b7-beer-house,Oren Hazan,"Fri, 08 May 2026 14:05:01 +0000",draft,4.0,Helix,Equilibrium Brewery,Pilsner - German
+schnitt-brewing-company,Yoav Kowalski,"Fri, 08 May 2026 14:05:01 +0000",,3.5,Cheers Alenbeer,Schnitt Brewing Company﻿,IPA - Session
 b7-beer-house,Oren Hazan,"Fri, 08 May 2026 14:04:15 +0000",draft,3.75,רוביקון,New Pioneer Brewing Co - חלוץ חדש,Brown Ale - American
 schnitt-brewing-company,Yoav Kowalski,"Fri, 08 May 2026 14:04:02 +0000",draft,3.25,Ice Ice Bockbier,Schnitt Brewing Company﻿,Bock - Eisbock
 schnitt-brewing-company,Vladimir Kanevsky,"Fri, 08 May 2026 13:59:02 +0000",draft,4.0,Cheers Alenbeer,Schnitt Brewing Company﻿,IPA - Session
@@ -20876,3 +20876,72 @@ lauter,Kelly Inbar,"Sat, 15 Aug 2026 15:11:56 +0000",draft,3.75,Easy Ride,Schnit
 lauter,Kelly Inbar,"Sat, 15 Aug 2026 15:11:22 +0000",draft,3.5,Oak & Ash Amber (אש אמבר),Oak & Ash,
 lauter,Kelly Inbar,"Sat, 15 Aug 2026 15:10:14 +0000",draft,3.75,Let's Get Tropical,Schnitt Brewing Company﻿,
 lauter,Miki Zaidel,"Sat, 15 Aug 2026 11:57:04 +0000",draft,4.0,סיידר תפוחים אלכוהולי חצי יבש,Hamatsesa (המתססה),
+b7-beer-house,Yuval Lutski,"Sun, 16 Aug 2026 11:19:28 +0000",draft,3.0,Mediterranean Porter,Sheeta Brewery (בירה שיטה),
+porter-and-sons,Omri Gill,"Sun, 16 Aug 2026 16:25:39 +0000",draft,4.0,Lazy Bee Hibiscus And Raspberries,Schnitt Brewing Company﻿,
+schnitt-brewing-company,drinking_park,"Sun, 16 Aug 2026 20:34:34 +0000",draft,4.0,Twist & Stout,Schnitt Brewing Company﻿,
+schnitt-brewing-company,drinking_park,"Sun, 16 Aug 2026 20:33:39 +0000",draft,3.75,Who Is Dunkelman?,Schnitt Brewing Company﻿,
+schnitt-brewing-company,Lee Ker,"Sun, 16 Aug 2026 20:31:21 +0000",,,Who Is Dunkelman?,Schnitt Brewing Company﻿,
+schnitt-brewing-company,Lee Ker,"Sun, 16 Aug 2026 20:29:42 +0000",,,Twist & Stout,Schnitt Brewing Company﻿,
+schnitt-brewing-company,Roman Gokhman,"Sun, 16 Aug 2026 17:47:26 +0000",draft,4.5,Kelly's Green Pony,Schnitt Brewing Company﻿,
+schnitt-brewing-company,drinking_park,"Sun, 16 Aug 2026 16:44:44 +0000",draft,3.75,הפילס שבחדר the Pils In the Room,Schnitt Brewing Company﻿,
+schnitt-brewing-company,drinking_park,"Sun, 16 Aug 2026 16:38:14 +0000",draft,3.5,Alt Neuland,Schnitt Brewing Company﻿,
+schnitt-brewing-company,Lee Ker,"Sun, 16 Aug 2026 16:37:26 +0000",draft,4.25,Alt Neuland,Schnitt Brewing Company﻿,
+schnitt-brewing-company,Julius,"Sun, 16 Aug 2026 14:43:08 +0000",,4.5,Schnitt Happens,Schnitt Brewing Company﻿,
+schnitt-brewing-company,Roman Gokhman,"Sun, 16 Aug 2026 14:16:22 +0000",draft,4.25,Yellow Haze,Schnitt Brewing Company﻿,
+schnitt-brewing-company,Julius,"Sun, 16 Aug 2026 14:13:29 +0000",,3.75,הפילס שבחדר the Pils In the Room,Schnitt Brewing Company﻿,
+schnitt-brewing-company,Roman Gokhman,"Sun, 16 Aug 2026 14:09:06 +0000",draft,3.5,Why Like This,Schnitt Brewing Company﻿,
+schnitt-brewing-company,Roman Gokhman,"Sun, 16 Aug 2026 14:04:50 +0000",,3.75,Weissman,Schnitt Brewing Company﻿,
+schnitt-brewing-company,Afek Stein,"Sun, 16 Aug 2026 12:08:05 +0000",,3.75,Paleraiser,Schnitt Brewing Company﻿,
+schnitt-brewing-company,Omri Levy,"Sun, 16 Aug 2026 11:44:39 +0000",draft,3.5,Session Yellow Haze,Schnitt Brewing Company﻿,
+schnitt-brewing-company,Roman Gokhman,"Sun, 16 Aug 2026 09:21:13 +0000",draft,3.75,Paleraiser,Schnitt Brewing Company﻿,
+schnitt-brewing-company,Roman Gokhman,"Sun, 16 Aug 2026 09:19:42 +0000",,3.25,In the Little,Schnitt Brewing Company﻿,
+lauter,ParkerAsaf,"Sun, 16 Aug 2026 19:52:21 +0000",can,4.75,Quimera Escarlate,Captain Brew,
+lauter,Ori Pemper,"Sun, 16 Aug 2026 19:45:07 +0000",draft,4.0,Gueuze Tilquin – Draft Version,Gueuzerie Tilquin,
+lauter,TheOnlyMagicalNoob,"Sun, 16 Aug 2026 19:45:06 +0000",draft,3.25,Session IPA (2026),Shapiro (שפירא),
+lauter,Kobi,"Sun, 16 Aug 2026 19:34:48 +0000",,4.4,Quimera Escarlate,Captain Brew,
+lauter,Ori Pemper,"Sun, 16 Aug 2026 19:33:52 +0000",,3.75,Hard Pear Cider (סיידר אגסים אלכוהולי חצי יבש),Hamatsesa (המתססה),
+lauter,TheOnlyMagicalNoob,"Sun, 16 Aug 2026 19:33:28 +0000",can,4.0,Quimera Escarlate,Captain Brew,
+lauter,drinking_park,"Sun, 16 Aug 2026 19:30:06 +0000",draft,4.0,Maredsous Triple / Tripel,Abbaye de Maredsous,
+lauter,drinking_park,"Sun, 16 Aug 2026 19:28:31 +0000",draft,4.25,Prior 8,Brouwerij St.Bernardus,
+lauter,ParkerAsaf,"Sun, 16 Aug 2026 19:27:55 +0000",can,4.0,SACHERTORTE,Brewlok Brewery,
+lauter,Lee Ker,"Sun, 16 Aug 2026 19:27:53 +0000",can,,חוה,Schnitt Brewing Company﻿,
+lauter,NeriyaBeerlowitz,"Sun, 16 Aug 2026 19:26:55 +0000",can,3.0,SACHERTORTE,Brewlok Brewery,
+lauter,drinking_park,"Sun, 16 Aug 2026 19:26:32 +0000",can,3.0,Cold Beer Peach,BrewDog,
+lauter,georgeship,"Sun, 16 Aug 2026 19:26:02 +0000",can,3.75,SACHERTORTE,Brewlok Brewery,
+lauter,Kobi,"Sun, 16 Aug 2026 19:26:00 +0000",,4.0,SACHERTORTE,Brewlok Brewery,
+lauter,Lee Ker,"Sun, 16 Aug 2026 19:25:38 +0000",,,Cold Beer Peach,BrewDog,
+lauter,TheOnlyMagicalNoob,"Sun, 16 Aug 2026 19:25:11 +0000",can,4.0,SACHERTORTE,Brewlok Brewery,
+lauter,drinking_park,"Sun, 16 Aug 2026 19:23:24 +0000",can,3.5,חוה,Schnitt Brewing Company﻿,
+lauter,Lee Ker,"Sun, 16 Aug 2026 19:21:28 +0000",,,Prior 8,Brouwerij St.Bernardus,
+lauter,Lee Ker,"Sun, 16 Aug 2026 19:20:33 +0000",draft,,Maredsous Triple / Tripel,Abbaye de Maredsous,
+lauter,ParkerAsaf,"Sun, 16 Aug 2026 19:18:26 +0000",can,4.25,Fire Hazard,Selfmade Brewery,
+lauter,georgeship,"Sun, 16 Aug 2026 19:17:20 +0000",can,3.75,Fire Hazard,Selfmade Brewery,
+lauter,NeriyaBeerlowitz,"Sun, 16 Aug 2026 19:17:09 +0000",can,4.0,Fire Hazard,Selfmade Brewery,
+lauter,TheOnlyMagicalNoob,"Sun, 16 Aug 2026 19:15:56 +0000",can,3.5,Fire Hazard,Selfmade Brewery,
+lauter,Kobi,"Sun, 16 Aug 2026 19:14:40 +0000",,4.0,Fire Hazard,Selfmade Brewery,
+lauter,Kobi,"Sun, 16 Aug 2026 19:12:15 +0000",,4.0,Serotonin: Strawberry & Guava ( Серотонин Клубника/Гуава),Big Pot,
+lauter,Smadar Tapiro,"Sun, 16 Aug 2026 19:11:18 +0000",can,4.0,Serotonin: Strawberry & Guava ( Серотонин Клубника/Гуава),Big Pot,
+lauter,ParkerAsaf,"Sun, 16 Aug 2026 19:10:44 +0000",can,4.75,Serotonin: Strawberry & Guava ( Серотонин Клубника/Гуава),Big Pot,
+lauter,NeriyaBeerlowitz,"Sun, 16 Aug 2026 19:10:31 +0000",can,4.0,Serotonin: Strawberry & Guava ( Серотонин Клубника/Гуава),Big Pot,
+lauter,georgeship,"Sun, 16 Aug 2026 19:09:47 +0000",can,4.0,Serotonin: Strawberry & Guava ( Серотонин Клубника/Гуава),Big Pot,
+lauter,TheOnlyMagicalNoob,"Sun, 16 Aug 2026 19:08:36 +0000",can,4.25,Serotonin: Strawberry & Guava ( Серотонин Клубника/Гуава),Big Pot,
+lauter,TheOnlyMagicalNoob,"Sun, 16 Aug 2026 19:05:42 +0000",can,4.0,BLONGÖRFLOM,INTERSTELLAR BREWERY,
+lauter,ParkerAsaf,"Sun, 16 Aug 2026 19:03:53 +0000",can,4.0,BLONGÖRFLOM,INTERSTELLAR BREWERY,
+lauter,georgeship,"Sun, 16 Aug 2026 19:03:30 +0000",can,3.25,BLONGÖRFLOM,INTERSTELLAR BREWERY,
+lauter,Kobi,"Sun, 16 Aug 2026 19:00:52 +0000",,4.0,BLONGÖRFLOM,INTERSTELLAR BREWERY,
+lauter,NeriyaBeerlowitz,"Sun, 16 Aug 2026 18:59:00 +0000",can,2.5,Tomato Gose,Fire Bat Brewing Co.,
+lauter,TheOnlyMagicalNoob,"Sun, 16 Aug 2026 18:57:05 +0000",can,3.25,Tomato Gose,Fire Bat Brewing Co.,
+lauter,georgeship,"Sun, 16 Aug 2026 18:55:46 +0000",can,2.0,Tomato Gose,Fire Bat Brewing Co.,
+lauter,ParkerAsaf,"Sun, 16 Aug 2026 18:55:30 +0000",can,3.75,Tomato Gose,Fire Bat Brewing Co.,
+lauter,Kobi,"Sun, 16 Aug 2026 18:53:55 +0000",,3.5,Tomato Gose,Fire Bat Brewing Co.,
+lauter,ParkerAsaf,"Sun, 16 Aug 2026 18:53:28 +0000",can,4.75,BLUES IN THE SHADOWS,One Drop Brewing Co,
+lauter,Kobi,"Sun, 16 Aug 2026 18:51:56 +0000",,4.5,BLUES IN THE SHADOWS,One Drop Brewing Co,
+lauter,georgeship,"Sun, 16 Aug 2026 18:51:22 +0000",can,4.5,BLUES IN THE SHADOWS,One Drop Brewing Co,
+lauter,TheOnlyMagicalNoob,"Sun, 16 Aug 2026 18:50:34 +0000",can,3.75,BLUES IN THE SHADOWS,One Drop Brewing Co,
+lauter,ParkerAsaf,"Sun, 16 Aug 2026 18:49:49 +0000",can,3.75,Belgian Cake,Basqueland Brewing,
+lauter,TheOnlyMagicalNoob,"Sun, 16 Aug 2026 18:46:32 +0000",can,3.25,Belgian Cake,Basqueland Brewing,
+lauter,georgeship,"Sun, 16 Aug 2026 18:44:53 +0000",can,1.5,Belgian Cake,Basqueland Brewing,
+lauter,Kobi,"Sun, 16 Aug 2026 18:43:21 +0000",,3.4,Belgian Cake,Basqueland Brewing,
+lauter,NeriyaBeerlowitz,"Sun, 16 Aug 2026 18:39:52 +0000",can,2.75,Chemicals,Stepping Stone Brewing Company,
+lauter,georgeship,"Sun, 16 Aug 2026 18:39:26 +0000",can,2.75,Chemicals,Stepping Stone Brewing Company,
+lauter,ParkerAsaf,"Sun, 16 Aug 2026 18:39:12 +0000",can,4.25,Chemicals,Stepping Stone Brewing Company,

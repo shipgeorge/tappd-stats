@@ -1,6 +1,6 @@
 // 🍺 BEER STATS DATA - Generated automatically
-// Last updated: 2026-08-16 06:52:33
-// Total records: 20877
+// Last updated: 2026-08-17 07:09:15
+// Total records: 20946
 
 const BEER_DATA = [
   {
@@ -2967,20 +2967,20 @@ const BEER_DATA = [
   {
     "venue": "b7-beer-house",
     "time": "2026-05-29T08:42:24+00:00",
-    "serving": "can",
-    "rating": 3.75,
-    "beer_name": "Hop Elixir: Citra, Citra Hyperboost, Citra Cryo, Citra Dynaboost",
-    "brewery": "Sibeeria Brewery",
-    "beer_type": "IPA - Session New England / Hazy"
-  },
-  {
-    "venue": "b7-beer-house",
-    "time": "2026-05-29T08:42:24+00:00",
     "serving": "draft",
     "rating": 3.75,
     "beer_name": "Prunes In Chocolate",
     "brewery": "Radionov",
     "beer_type": "Homebrew, Porter - Other"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T08:42:24+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Hop Elixir: Citra, Citra Hyperboost, Citra Cryo, Citra Dynaboost",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": "IPA - Session New England / Hazy"
   },
   {
     "venue": "b7-beer-house",
@@ -9652,15 +9652,6 @@ const BEER_DATA = [
     "beer_type": "IPA - American"
   },
   {
-    "venue": "schnitt-brewing-company",
-    "time": "2026-05-08T14:05:01+00:00",
-    "serving": "Unknown",
-    "rating": 3.5,
-    "beer_name": "Cheers Alenbeer",
-    "brewery": "Schnitt Brewing Company﻿",
-    "beer_type": "IPA - Session"
-  },
-  {
     "venue": "b7-beer-house",
     "time": "2026-05-08T14:05:01+00:00",
     "serving": "draft",
@@ -9668,6 +9659,15 @@ const BEER_DATA = [
     "beer_name": "Helix",
     "brewery": "Equilibrium Brewery",
     "beer_type": "Pilsner - German"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-08T14:05:01+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "Cheers Alenbeer",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - Session"
   },
   {
     "venue": "b7-beer-house",
@@ -187894,6 +187894,627 @@ const BEER_DATA = [
     "rating": 4.0,
     "beer_name": "סיידר תפוחים אלכוהולי חצי יבש",
     "brewery": "Hamatsesa (המתססה)",
+    "beer_type": ""
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-08-16T11:19:28+00:00",
+    "serving": "draft",
+    "rating": 3.0,
+    "beer_name": "Mediterranean Porter",
+    "brewery": "Sheeta Brewery (בירה שיטה)",
+    "beer_type": ""
+  },
+  {
+    "venue": "porter-and-sons",
+    "time": "2026-08-16T16:25:39+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Lazy Bee Hibiscus And Raspberries",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-08-16T20:34:34+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Twist & Stout",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-08-16T20:33:39+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Who Is Dunkelman?",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-08-16T20:31:21+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Who Is Dunkelman?",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-08-16T20:29:42+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Twist & Stout",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-08-16T17:47:26+00:00",
+    "serving": "draft",
+    "rating": 4.5,
+    "beer_name": "Kelly's Green Pony",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-08-16T16:44:44+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "הפילס שבחדר the Pils In the Room",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-08-16T16:38:14+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Alt Neuland",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-08-16T16:37:26+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "Alt Neuland",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-08-16T14:43:08+00:00",
+    "serving": "Unknown",
+    "rating": 4.5,
+    "beer_name": "Schnitt Happens",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-08-16T14:16:22+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "Yellow Haze",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-08-16T14:13:29+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "הפילס שבחדר the Pils In the Room",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-08-16T14:09:06+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Why Like This",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-08-16T14:04:50+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "Weissman",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-08-16T12:08:05+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "Paleraiser",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-08-16T11:44:39+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Session Yellow Haze",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-08-16T09:21:13+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Paleraiser",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-08-16T09:19:42+00:00",
+    "serving": "Unknown",
+    "rating": 3.25,
+    "beer_name": "In the Little",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-16T19:52:21+00:00",
+    "serving": "can",
+    "rating": 4.75,
+    "beer_name": "Quimera Escarlate",
+    "brewery": "Captain Brew",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-16T19:45:07+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Gueuze Tilquin – Draft Version",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-16T19:45:06+00:00",
+    "serving": "draft",
+    "rating": 3.25,
+    "beer_name": "Session IPA (2026)",
+    "brewery": "Shapiro (שפירא)",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-16T19:34:48+00:00",
+    "serving": "Unknown",
+    "rating": 4.4,
+    "beer_name": "Quimera Escarlate",
+    "brewery": "Captain Brew",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-16T19:33:52+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "Hard Pear Cider (סיידר אגסים אלכוהולי חצי יבש)",
+    "brewery": "Hamatsesa (המתססה)",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-16T19:33:28+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Quimera Escarlate",
+    "brewery": "Captain Brew",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-16T19:30:06+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Maredsous Triple / Tripel",
+    "brewery": "Abbaye de Maredsous",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-16T19:28:31+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "Prior 8",
+    "brewery": "Brouwerij St.Bernardus",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-16T19:27:55+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "SACHERTORTE",
+    "brewery": "Brewlok Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-16T19:27:53+00:00",
+    "serving": "can",
+    "rating": null,
+    "beer_name": "חוה",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-16T19:26:55+00:00",
+    "serving": "can",
+    "rating": 3.0,
+    "beer_name": "SACHERTORTE",
+    "brewery": "Brewlok Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-16T19:26:32+00:00",
+    "serving": "can",
+    "rating": 3.0,
+    "beer_name": "Cold Beer Peach",
+    "brewery": "BrewDog",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-16T19:26:02+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "SACHERTORTE",
+    "brewery": "Brewlok Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-16T19:26:00+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "SACHERTORTE",
+    "brewery": "Brewlok Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-16T19:25:38+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Cold Beer Peach",
+    "brewery": "BrewDog",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-16T19:25:11+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "SACHERTORTE",
+    "brewery": "Brewlok Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-16T19:23:24+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "חוה",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-16T19:21:28+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Prior 8",
+    "brewery": "Brouwerij St.Bernardus",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-16T19:20:33+00:00",
+    "serving": "draft",
+    "rating": null,
+    "beer_name": "Maredsous Triple / Tripel",
+    "brewery": "Abbaye de Maredsous",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-16T19:18:26+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "Fire Hazard",
+    "brewery": "Selfmade Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-16T19:17:20+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Fire Hazard",
+    "brewery": "Selfmade Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-16T19:17:09+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Fire Hazard",
+    "brewery": "Selfmade Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-16T19:15:56+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Fire Hazard",
+    "brewery": "Selfmade Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-16T19:14:40+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Fire Hazard",
+    "brewery": "Selfmade Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-16T19:12:15+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Serotonin: Strawberry & Guava ( Серотонин Клубника/Гуава)",
+    "brewery": "Big Pot",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-16T19:11:18+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Serotonin: Strawberry & Guava ( Серотонин Клубника/Гуава)",
+    "brewery": "Big Pot",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-16T19:10:44+00:00",
+    "serving": "can",
+    "rating": 4.75,
+    "beer_name": "Serotonin: Strawberry & Guava ( Серотонин Клубника/Гуава)",
+    "brewery": "Big Pot",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-16T19:10:31+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Serotonin: Strawberry & Guava ( Серотонин Клубника/Гуава)",
+    "brewery": "Big Pot",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-16T19:09:47+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Serotonin: Strawberry & Guava ( Серотонин Клубника/Гуава)",
+    "brewery": "Big Pot",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-16T19:08:36+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "Serotonin: Strawberry & Guava ( Серотонин Клубника/Гуава)",
+    "brewery": "Big Pot",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-16T19:05:42+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "BLONGÖRFLOM",
+    "brewery": "INTERSTELLAR BREWERY",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-16T19:03:53+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "BLONGÖRFLOM",
+    "brewery": "INTERSTELLAR BREWERY",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-16T19:03:30+00:00",
+    "serving": "can",
+    "rating": 3.25,
+    "beer_name": "BLONGÖRFLOM",
+    "brewery": "INTERSTELLAR BREWERY",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-16T19:00:52+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "BLONGÖRFLOM",
+    "brewery": "INTERSTELLAR BREWERY",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-16T18:59:00+00:00",
+    "serving": "can",
+    "rating": 2.5,
+    "beer_name": "Tomato Gose",
+    "brewery": "Fire Bat Brewing Co.",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-16T18:57:05+00:00",
+    "serving": "can",
+    "rating": 3.25,
+    "beer_name": "Tomato Gose",
+    "brewery": "Fire Bat Brewing Co.",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-16T18:55:46+00:00",
+    "serving": "can",
+    "rating": 2.0,
+    "beer_name": "Tomato Gose",
+    "brewery": "Fire Bat Brewing Co.",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-16T18:55:30+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Tomato Gose",
+    "brewery": "Fire Bat Brewing Co.",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-16T18:53:55+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "Tomato Gose",
+    "brewery": "Fire Bat Brewing Co.",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-16T18:53:28+00:00",
+    "serving": "can",
+    "rating": 4.75,
+    "beer_name": "BLUES IN THE SHADOWS",
+    "brewery": "One Drop Brewing Co",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-16T18:51:56+00:00",
+    "serving": "Unknown",
+    "rating": 4.5,
+    "beer_name": "BLUES IN THE SHADOWS",
+    "brewery": "One Drop Brewing Co",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-16T18:51:22+00:00",
+    "serving": "can",
+    "rating": 4.5,
+    "beer_name": "BLUES IN THE SHADOWS",
+    "brewery": "One Drop Brewing Co",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-16T18:50:34+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "BLUES IN THE SHADOWS",
+    "brewery": "One Drop Brewing Co",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-16T18:49:49+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Belgian Cake",
+    "brewery": "Basqueland Brewing",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-16T18:46:32+00:00",
+    "serving": "can",
+    "rating": 3.25,
+    "beer_name": "Belgian Cake",
+    "brewery": "Basqueland Brewing",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-16T18:44:53+00:00",
+    "serving": "can",
+    "rating": 1.5,
+    "beer_name": "Belgian Cake",
+    "brewery": "Basqueland Brewing",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-16T18:43:21+00:00",
+    "serving": "Unknown",
+    "rating": 3.4,
+    "beer_name": "Belgian Cake",
+    "brewery": "Basqueland Brewing",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-16T18:39:52+00:00",
+    "serving": "can",
+    "rating": 2.75,
+    "beer_name": "Chemicals",
+    "brewery": "Stepping Stone Brewing Company",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-16T18:39:26+00:00",
+    "serving": "can",
+    "rating": 2.75,
+    "beer_name": "Chemicals",
+    "brewery": "Stepping Stone Brewing Company",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-16T18:39:12+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "Chemicals",
+    "brewery": "Stepping Stone Brewing Company",
     "beer_type": ""
   }
 ];
