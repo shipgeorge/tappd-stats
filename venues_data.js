@@ -1,6 +1,6 @@
 // 🍺 BEER STATS DATA - Generated automatically
-// Last updated: 2026-08-17 07:09:15
-// Total records: 20946
+// Last updated: 2026-08-18 06:55:44
+// Total records: 20960
 
 const BEER_DATA = [
   {
@@ -2967,20 +2967,20 @@ const BEER_DATA = [
   {
     "venue": "b7-beer-house",
     "time": "2026-05-29T08:42:24+00:00",
-    "serving": "draft",
-    "rating": 3.75,
-    "beer_name": "Prunes In Chocolate",
-    "brewery": "Radionov",
-    "beer_type": "Homebrew, Porter - Other"
-  },
-  {
-    "venue": "b7-beer-house",
-    "time": "2026-05-29T08:42:24+00:00",
     "serving": "can",
     "rating": 3.75,
     "beer_name": "Hop Elixir: Citra, Citra Hyperboost, Citra Cryo, Citra Dynaboost",
     "brewery": "Sibeeria Brewery",
     "beer_type": "IPA - Session New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T08:42:24+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Prunes In Chocolate",
+    "brewery": "Radionov",
+    "beer_type": "Homebrew, Porter - Other"
   },
   {
     "venue": "b7-beer-house",
@@ -9652,15 +9652,6 @@ const BEER_DATA = [
     "beer_type": "IPA - American"
   },
   {
-    "venue": "b7-beer-house",
-    "time": "2026-05-08T14:05:01+00:00",
-    "serving": "draft",
-    "rating": 4.0,
-    "beer_name": "Helix",
-    "brewery": "Equilibrium Brewery",
-    "beer_type": "Pilsner - German"
-  },
-  {
     "venue": "schnitt-brewing-company",
     "time": "2026-05-08T14:05:01+00:00",
     "serving": "Unknown",
@@ -9668,6 +9659,15 @@ const BEER_DATA = [
     "beer_name": "Cheers Alenbeer",
     "brewery": "Schnitt Brewing Company﻿",
     "beer_type": "IPA - Session"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-08T14:05:01+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Helix",
+    "brewery": "Equilibrium Brewery",
+    "beer_type": "Pilsner - German"
   },
   {
     "venue": "b7-beer-house",
@@ -188515,6 +188515,132 @@ const BEER_DATA = [
     "rating": 4.25,
     "beer_name": "Chemicals",
     "brewery": "Stepping Stone Brewing Company",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-17T20:08:49+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "Let's Get Tropical",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-17T15:51:29+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "Kasteel Rouge",
+    "brewery": "Kasteel Brouwerij Vanhonsebrouck",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-17T15:39:26+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "חוה",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-17T15:08:33+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Let's Get Tropical",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-08-17T20:09:27+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "Session Yellow Haze",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-08-17T16:45:06+00:00",
+    "serving": "draft",
+    "rating": 4.5,
+    "beer_name": "Four Hopsmen",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-08-17T16:43:35+00:00",
+    "serving": "Unknown",
+    "rating": 4.25,
+    "beer_name": "Schnitt Happens",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-08-17T09:46:09+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Kelly's Green Pony",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-08-17T21:19:40+00:00",
+    "serving": "can",
+    "rating": 5.0,
+    "beer_name": "THIS KIHOSKH NEEDS AN EVEN EVEN MORE MORE MUCH MUCH BIGGER BIGGER BEER SELECTION",
+    "brewery": "Evil Twin Brewing NYC",
+    "beer_type": ""
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-08-17T19:24:27+00:00",
+    "serving": "can",
+    "rating": 4.75,
+    "beer_name": "DUMB FRUIT 1",
+    "brewery": "Evil Twin Brewing NYC",
+    "beer_type": ""
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-08-17T18:59:00+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "PTSD",
+    "brewery": "New Pioneer Brewing Co - חלוץ חדש",
+    "beer_type": ""
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-08-17T18:58:11+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Grapefruit Lollihop",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-08-17T18:57:33+00:00",
+    "serving": "can",
+    "rating": 4.5,
+    "beer_name": "THIS KIHOSKH NEEDS AN EVEN EVEN MORE MORE MUCH MUCH BIGGER BIGGER BEER SELECTION",
+    "brewery": "Evil Twin Brewing NYC",
+    "beer_type": ""
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-08-17T18:34:40+00:00",
+    "serving": "Unknown",
+    "rating": 4.75,
+    "beer_name": "MAKE IT FRUITY BLUEBERRY CONCORD GRAPE",
+    "brewery": "Evil Twin Brewing NYC",
     "beer_type": ""
   }
 ];
