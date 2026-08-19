@@ -1,6 +1,6 @@
 // 🍺 BEER STATS DATA - Generated automatically
-// Last updated: 2026-08-18 06:55:44
-// Total records: 20960
+// Last updated: 2026-08-19 06:56:41
+// Total records: 21028
 
 const BEER_DATA = [
   {
@@ -2967,20 +2967,20 @@ const BEER_DATA = [
   {
     "venue": "b7-beer-house",
     "time": "2026-05-29T08:42:24+00:00",
-    "serving": "can",
-    "rating": 3.75,
-    "beer_name": "Hop Elixir: Citra, Citra Hyperboost, Citra Cryo, Citra Dynaboost",
-    "brewery": "Sibeeria Brewery",
-    "beer_type": "IPA - Session New England / Hazy"
-  },
-  {
-    "venue": "b7-beer-house",
-    "time": "2026-05-29T08:42:24+00:00",
     "serving": "draft",
     "rating": 3.75,
     "beer_name": "Prunes In Chocolate",
     "brewery": "Radionov",
     "beer_type": "Homebrew, Porter - Other"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T08:42:24+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Hop Elixir: Citra, Citra Hyperboost, Citra Cryo, Citra Dynaboost",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": "IPA - Session New England / Hazy"
   },
   {
     "venue": "b7-beer-house",
@@ -9652,15 +9652,6 @@ const BEER_DATA = [
     "beer_type": "IPA - American"
   },
   {
-    "venue": "schnitt-brewing-company",
-    "time": "2026-05-08T14:05:01+00:00",
-    "serving": "Unknown",
-    "rating": 3.5,
-    "beer_name": "Cheers Alenbeer",
-    "brewery": "Schnitt Brewing Company﻿",
-    "beer_type": "IPA - Session"
-  },
-  {
     "venue": "b7-beer-house",
     "time": "2026-05-08T14:05:01+00:00",
     "serving": "draft",
@@ -9668,6 +9659,15 @@ const BEER_DATA = [
     "beer_name": "Helix",
     "brewery": "Equilibrium Brewery",
     "beer_type": "Pilsner - German"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-08T14:05:01+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "Cheers Alenbeer",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - Session"
   },
   {
     "venue": "b7-beer-house",
@@ -188641,6 +188641,618 @@ const BEER_DATA = [
     "rating": 4.75,
     "beer_name": "MAKE IT FRUITY BLUEBERRY CONCORD GRAPE",
     "brewery": "Evil Twin Brewing NYC",
+    "beer_type": ""
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-08-18T17:34:42+00:00",
+    "serving": "can",
+    "rating": 4.75,
+    "beer_name": "Hydra | Key Lime + Raspberry + Cherry",
+    "brewery": "Mortalis Brewing Company",
+    "beer_type": ""
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-08-18T16:42:35+00:00",
+    "serving": "Unknown",
+    "rating": 4.75,
+    "beer_name": "Hoppy Ever After",
+    "brewery": "New Pioneer Brewing Co - חלוץ חדש",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-08-18T23:37:07+00:00",
+    "serving": "draft",
+    "rating": 3.7,
+    "beer_name": "Schnitt Happens",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-08-18T23:36:13+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Four Hopsmen",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-08-18T20:54:01+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Lazy Bee Hibiscus And Raspberries",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-08-18T19:27:23+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Slow And Steady",
+    "brewery": "Alexander (אלכסנדר)",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-08-18T18:02:00+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Slow And Steady",
+    "brewery": "Alexander (אלכסנדר)",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-08-18T16:12:46+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Slow And Steady",
+    "brewery": "Alexander (אלכסנדר)",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-08-18T15:22:41+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "Schnitt Happens",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-08-18T14:37:49+00:00",
+    "serving": "draft",
+    "rating": 4.5,
+    "beer_name": "Why Like This",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-08-18T14:25:41+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Slow And Steady",
+    "brewery": "Alexander (אלכסנדר)",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-08-18T14:14:49+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Easy Ride",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-08-18T14:14:12+00:00",
+    "serving": "draft",
+    "rating": 4.5,
+    "beer_name": "Weissman",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-08-18T14:01:55+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Slow And Steady",
+    "brewery": "Alexander (אלכסנדר)",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-08-18T14:00:54+00:00",
+    "serving": "draft",
+    "rating": null,
+    "beer_name": "Slow And Steady",
+    "brewery": "Alexander (אלכסנדר)",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-08-18T13:38:43+00:00",
+    "serving": "draft",
+    "rating": 4.5,
+    "beer_name": "Twist & Stout",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-08-18T13:27:01+00:00",
+    "serving": "Unknown",
+    "rating": 4.5,
+    "beer_name": "Session Yellow Haze",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-08-18T09:49:00+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Easy Ride",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "berlin-florentin",
+    "time": "2026-08-18T21:03:13+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Budweiser Budvar / Czechvar Original",
+    "brewery": "Budějovický Budvar",
+    "beer_type": ""
+  },
+  {
+    "venue": "beerline",
+    "time": "2026-08-18T16:54:40+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Pale Ale",
+    "brewery": "Sierra Nevada Brewing Co.",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-18T23:33:35+00:00",
+    "serving": "can",
+    "rating": 3.7,
+    "beer_name": "Mango Little Thing",
+    "brewery": "Sierra Nevada Brewing Co.",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-18T23:28:05+00:00",
+    "serving": "bottle",
+    "rating": 2.8,
+    "beer_name": "בירת קפה - קולומביה",
+    "brewery": "Srigim (שריגים)",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-18T23:26:26+00:00",
+    "serving": "draft",
+    "rating": 3.0,
+    "beer_name": "Let's Get Tropical",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-18T23:25:34+00:00",
+    "serving": "can",
+    "rating": 3.7,
+    "beer_name": "Salsatropical",
+    "brewery": "Hop Hooligans",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-18T23:24:22+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Fata Morgana Lager (פאטה מורגנה)",
+    "brewery": "Negev Brewery (נגב)",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-18T23:22:22+00:00",
+    "serving": "draft",
+    "rating": 3.4,
+    "beer_name": "Slow And Steady",
+    "brewery": "Alexander (אלכסנדר)",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-18T21:06:33+00:00",
+    "serving": "bottle",
+    "rating": 3.75,
+    "beer_name": "3 Fonteinen Schaarbeekse Kriek Oogst 2020 (season 20|21) Blend No. 61",
+    "brewery": "Brouwerij 3 Fonteinen",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-18T20:57:13+00:00",
+    "serving": "bottle",
+    "rating": 4.0,
+    "beer_name": "Oude Pinot Gris Tilquin à l'Ancienne (2021-2022)",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-18T20:40:10+00:00",
+    "serving": "bottle",
+    "rating": 3.75,
+    "beer_name": "Riesling (Bottle Version) (2023)",
+    "brewery": "Boerenerf",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-18T20:37:55+00:00",
+    "serving": "bottle",
+    "rating": 3.5,
+    "beer_name": "Fou' Foune",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-18T20:33:39+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Bourbon Barrel Aged - Imperial Coffee Stout",
+    "brewery": "Vocation Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-18T20:25:22+00:00",
+    "serving": "bottle",
+    "rating": 4.0,
+    "beer_name": "Fou' Foune",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-18T20:21:13+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Mango Little Thing",
+    "brewery": "Sierra Nevada Brewing Co.",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-18T20:21:03+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Mango Little Thing",
+    "brewery": "Sierra Nevada Brewing Co.",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-18T20:16:18+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "Oak & Ash Amber (אש אמבר)",
+    "brewery": "Oak & Ash",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-18T20:14:01+00:00",
+    "serving": "bottle",
+    "rating": 4.0,
+    "beer_name": "Rabarber (2022)",
+    "brewery": "Boerenerf",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-18T19:54:42+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Fata Morgana Lager (פאטה מורגנה)",
+    "brewery": "Negev Brewery (נגב)",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-18T19:47:55+00:00",
+    "serving": "bottle",
+    "rating": 2.75,
+    "beer_name": "בירת קפה - קולומביה",
+    "brewery": "Srigim (שריגים)",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-18T19:40:53+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "Paleraiser",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-18T19:39:40+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "Hard Pear Cider (סיידר אגסים אלכוהולי חצי יבש)",
+    "brewery": "Hamatsesa (המתססה)",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-18T19:09:33+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Who Is Dunkelman?",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-18T19:05:36+00:00",
+    "serving": "bottle",
+    "rating": 3.75,
+    "beer_name": "Gueuze Tilquin – Draft Version",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-18T18:58:48+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Salsatropical",
+    "brewery": "Hop Hooligans",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-18T18:56:13+00:00",
+    "serving": "bottle",
+    "rating": 3.75,
+    "beer_name": "Riesling (Oogst 2022)",
+    "brewery": "Boerenerf",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-18T18:45:17+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "Paleraiser",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-18T18:39:34+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Irish Gold",
+    "brewery": "Sullivan's Brewing Company",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-18T18:39:10+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Salsatropical",
+    "brewery": "Hop Hooligans",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-18T18:34:42+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Salsatropical",
+    "brewery": "Hop Hooligans",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-18T18:16:13+00:00",
+    "serving": "Unknown",
+    "rating": 3.0,
+    "beer_name": "Maltings Irish Ale",
+    "brewery": "Sullivan's Brewing Company",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-18T17:59:39+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Fata Morgana Lager (פאטה מורגנה)",
+    "brewery": "Negev Brewery (נגב)",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-18T17:51:06+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Tea Party: Lemon Verbena",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-18T17:50:26+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Let's Get Tropical",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-18T17:34:35+00:00",
+    "serving": "bottle",
+    "rating": 3.75,
+    "beer_name": "Saint Lamvinus",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-18T17:20:32+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Slow And Steady",
+    "brewery": "Alexander (אלכסנדר)",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-18T17:17:01+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Elderflower",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-18T17:16:35+00:00",
+    "serving": "draft",
+    "rating": 3.25,
+    "beer_name": "Slow And Steady",
+    "brewery": "Alexander (אלכסנדר)",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-18T17:14:09+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Yellow Haze",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-18T17:08:09+00:00",
+    "serving": "draft",
+    "rating": 3.3,
+    "beer_name": "Slow And Steady",
+    "brewery": "Alexander (אלכסנדר)",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-18T16:59:25+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Hard Pear Cider (סיידר אגסים אלכוהולי חצי יבש)",
+    "brewery": "Hamatsesa (המתססה)",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-18T16:45:12+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Californication - Sabro, Citra, Idaho 7 & Lemondrop",
+    "brewery": "Maryensztadt",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-18T16:45:03+00:00",
+    "serving": "Unknown",
+    "rating": 2.75,
+    "beer_name": "Californication - Sabro, Citra, Idaho 7 & Lemondrop",
+    "brewery": "Maryensztadt",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-18T16:10:49+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "Journey 1100",
+    "brewery": "HORIZONT Brewing",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-18T16:10:05+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Journey 1100",
+    "brewery": "HORIZONT Brewing",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-18T15:56:50+00:00",
+    "serving": "draft",
+    "rating": 2.0,
+    "beer_name": "Slow And Steady",
+    "brewery": "Alexander (אלכסנדר)",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-18T15:56:34+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Let's Get Tropical",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-18T15:50:33+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Session Yellow Haze",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-18T15:46:40+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "Session IPA (2026)",
+    "brewery": "Shapiro (שפירא)",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-18T15:45:48+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Slow And Steady",
+    "brewery": "Alexander (אלכסנדר)",
     "beer_type": ""
   }
 ];
