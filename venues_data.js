@@ -1,6 +1,6 @@
 // 🍺 BEER STATS DATA - Generated automatically
-// Last updated: 2026-08-23 06:53:23
-// Total records: 21180
+// Last updated: 2026-08-24 07:13:30
+// Total records: 21409
 
 const BEER_DATA = [
   {
@@ -2967,20 +2967,20 @@ const BEER_DATA = [
   {
     "venue": "b7-beer-house",
     "time": "2026-05-29T08:42:24+00:00",
-    "serving": "draft",
-    "rating": 3.75,
-    "beer_name": "Prunes In Chocolate",
-    "brewery": "Radionov",
-    "beer_type": "Homebrew, Porter - Other"
-  },
-  {
-    "venue": "b7-beer-house",
-    "time": "2026-05-29T08:42:24+00:00",
     "serving": "can",
     "rating": 3.75,
     "beer_name": "Hop Elixir: Citra, Citra Hyperboost, Citra Cryo, Citra Dynaboost",
     "brewery": "Sibeeria Brewery",
     "beer_type": "IPA - Session New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T08:42:24+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Prunes In Chocolate",
+    "brewery": "Radionov",
+    "beer_type": "Homebrew, Porter - Other"
   },
   {
     "venue": "b7-beer-house",
@@ -9652,15 +9652,6 @@ const BEER_DATA = [
     "beer_type": "IPA - American"
   },
   {
-    "venue": "b7-beer-house",
-    "time": "2026-05-08T14:05:01+00:00",
-    "serving": "draft",
-    "rating": 4.0,
-    "beer_name": "Helix",
-    "brewery": "Equilibrium Brewery",
-    "beer_type": "Pilsner - German"
-  },
-  {
     "venue": "schnitt-brewing-company",
     "time": "2026-05-08T14:05:01+00:00",
     "serving": "Unknown",
@@ -9668,6 +9659,15 @@ const BEER_DATA = [
     "beer_name": "Cheers Alenbeer",
     "brewery": "Schnitt Brewing Company﻿",
     "beer_type": "IPA - Session"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-08T14:05:01+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Helix",
+    "brewery": "Equilibrium Brewery",
+    "beer_type": "Pilsner - German"
   },
   {
     "venue": "b7-beer-house",
@@ -190621,6 +190621,2067 @@ const BEER_DATA = [
     "rating": 4.75,
     "beer_name": "Benediktiner Weissbier Alkoholfrei",
     "brewery": "Benediktiner Weissbräu",
+    "beer_type": ""
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-08-23T13:37:46+00:00",
+    "serving": "bottle",
+    "rating": 3.8,
+    "beer_name": "Hard Pear Cider (סיידר אגסים אלכוהולי חצי יבש)",
+    "brewery": "Hamatsesa (המתססה)",
+    "beer_type": ""
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-08-23T13:04:24+00:00",
+    "serving": "can",
+    "rating": 3.9,
+    "beer_name": "SAY EVEN MORE",
+    "brewery": "Evil Twin Brewing NYC",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-08-23T19:52:30+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Hopangan",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-08-23T15:52:48+00:00",
+    "serving": "draft",
+    "rating": 3.25,
+    "beer_name": "Hopangan",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-08-23T15:52:13+00:00",
+    "serving": "draft",
+    "rating": 3.0,
+    "beer_name": "שאגת העצלן",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-08-23T15:36:38+00:00",
+    "serving": "draft",
+    "rating": 3.0,
+    "beer_name": "Paleraiser",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-08-23T15:35:47+00:00",
+    "serving": "Unknown",
+    "rating": 3.25,
+    "beer_name": "שיקוי",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-08-23T14:21:40+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "שיקוי",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-08-23T13:43:17+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "Hopangan",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-08-23T13:42:55+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "Schnitt Happens",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-08-23T13:42:25+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "שיקוי",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-08-23T12:41:05+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Session Yellow Haze",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-08-23T12:28:41+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "שיקוי",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-08-23T12:23:11+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Kelly's Green Pony",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-23T22:13:26+00:00",
+    "serving": "can",
+    "rating": 4.1,
+    "beer_name": "LOL",
+    "brewery": "Evil Twin Brewing NYC",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-23T19:47:55+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Un Bolero De Soledad",
+    "brewery": "Captain Brew",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-23T19:46:05+00:00",
+    "serving": "bottle",
+    "rating": 4.75,
+    "beer_name": "Un Bolero De Soledad",
+    "brewery": "Captain Brew",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-23T19:45:43+00:00",
+    "serving": "Unknown",
+    "rating": 4.2,
+    "beer_name": "Un Bolero De Soledad",
+    "brewery": "Captain Brew",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-23T19:44:30+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "Un Bolero De Soledad",
+    "brewery": "Captain Brew",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-23T19:44:23+00:00",
+    "serving": "Unknown",
+    "rating": 4.5,
+    "beer_name": "Un Bolero De Soledad",
+    "brewery": "Captain Brew",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-23T19:44:15+00:00",
+    "serving": "Unknown",
+    "rating": 4.5,
+    "beer_name": "Un Bolero De Soledad",
+    "brewery": "Captain Brew",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-23T19:43:36+00:00",
+    "serving": "Unknown",
+    "rating": 4.5,
+    "beer_name": "Un Bolero De Soledad",
+    "brewery": "Captain Brew",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-23T19:39:33+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Abbaye de Saint Bon-Chien Grand Cru (2021) - Rasteau",
+    "brewery": "Brasserie des Franches-Montagnes (BFM)",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-23T19:37:36+00:00",
+    "serving": "bottle",
+    "rating": 4.5,
+    "beer_name": "Abbaye de Saint Bon-Chien Grand Cru (2021) - Rasteau",
+    "brewery": "Brasserie des Franches-Montagnes (BFM)",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-23T19:37:31+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Abbaye de Saint Bon-Chien Grand Cru (2021) - Rasteau",
+    "brewery": "Brasserie des Franches-Montagnes (BFM)",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-23T19:36:42+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "Abbaye de Saint Bon-Chien Grand Cru (2021) - Rasteau",
+    "brewery": "Brasserie des Franches-Montagnes (BFM)",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-23T19:36:15+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Abbaye de Saint Bon-Chien Grand Cru (2021) - Rasteau",
+    "brewery": "Brasserie des Franches-Montagnes (BFM)",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-23T19:36:08+00:00",
+    "serving": "bottle",
+    "rating": 4.25,
+    "beer_name": "Abbaye de Saint Bon-Chien Grand Cru (2021) - Rasteau",
+    "brewery": "Brasserie des Franches-Montagnes (BFM)",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-23T19:35:32+00:00",
+    "serving": "bottle",
+    "rating": 4.5,
+    "beer_name": "Abbaye de Saint Bon-Chien Grand Cru (2021) - Rasteau",
+    "brewery": "Brasserie des Franches-Montagnes (BFM)",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-23T19:34:43+00:00",
+    "serving": "Unknown",
+    "rating": 4.4,
+    "beer_name": "Abbaye de Saint Bon-Chien Grand Cru (2021) - Rasteau",
+    "brewery": "Brasserie des Franches-Montagnes (BFM)",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-23T19:30:18+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Indulgence 29",
+    "brewery": "Moersleutel Craft Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-23T19:29:39+00:00",
+    "serving": "bottle",
+    "rating": 4.5,
+    "beer_name": "Indulgence 29",
+    "brewery": "Moersleutel Craft Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-23T19:29:21+00:00",
+    "serving": "bottle",
+    "rating": 4.5,
+    "beer_name": "Indulgence 29",
+    "brewery": "Moersleutel Craft Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-23T19:28:32+00:00",
+    "serving": "Unknown",
+    "rating": 5.0,
+    "beer_name": "Indulgence 29",
+    "brewery": "Moersleutel Craft Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-23T19:28:20+00:00",
+    "serving": "bottle",
+    "rating": 4.25,
+    "beer_name": "BIND",
+    "brewery": "Anchorage Brewing Company",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-23T19:27:27+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Indulgence 29",
+    "brewery": "Moersleutel Craft Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-23T19:26:46+00:00",
+    "serving": "bottle",
+    "rating": 4.25,
+    "beer_name": "Indulgence 29",
+    "brewery": "Moersleutel Craft Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-23T19:25:59+00:00",
+    "serving": "Unknown",
+    "rating": 4.5,
+    "beer_name": "Indulgence 29",
+    "brewery": "Moersleutel Craft Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-23T19:17:26+00:00",
+    "serving": "bottle",
+    "rating": 4.0,
+    "beer_name": "BIND",
+    "brewery": "Anchorage Brewing Company",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-23T19:16:44+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "BIND",
+    "brewery": "Anchorage Brewing Company",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-23T19:15:38+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "BIND",
+    "brewery": "Anchorage Brewing Company",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-23T19:15:20+00:00",
+    "serving": "bottle",
+    "rating": 4.5,
+    "beer_name": "BIND",
+    "brewery": "Anchorage Brewing Company",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-23T19:14:06+00:00",
+    "serving": "Unknown",
+    "rating": 4.5,
+    "beer_name": "BIND",
+    "brewery": "Anchorage Brewing Company",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-23T19:13:42+00:00",
+    "serving": "Unknown",
+    "rating": 4.5,
+    "beer_name": "Choco-Loco Double Chocolate Cupcake Pastry Stout",
+    "brewery": "Fine Balance Brewing",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-23T19:13:01+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Choco-Loco Double Chocolate Cupcake Pastry Stout",
+    "brewery": "Fine Balance Brewing",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-23T19:11:40+00:00",
+    "serving": "Unknown",
+    "rating": 3.9,
+    "beer_name": "Choco-Loco Double Chocolate Cupcake Pastry Stout",
+    "brewery": "Fine Balance Brewing",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-23T19:10:53+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Choco-Loco Double Chocolate Cupcake Pastry Stout",
+    "brewery": "Fine Balance Brewing",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-23T19:10:17+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Choco-Loco Double Chocolate Cupcake Pastry Stout",
+    "brewery": "Fine Balance Brewing",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-23T19:09:29+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "Choco-Loco Double Chocolate Cupcake Pastry Stout",
+    "brewery": "Fine Balance Brewing",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-23T19:08:01+00:00",
+    "serving": "Unknown",
+    "rating": 4.2,
+    "beer_name": "Choco-Loco Double Chocolate Cupcake Pastry Stout",
+    "brewery": "Fine Balance Brewing",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-23T19:07:24+00:00",
+    "serving": "can",
+    "rating": 4.5,
+    "beer_name": "Choco-Loco Double Chocolate Cupcake Pastry Stout",
+    "brewery": "Fine Balance Brewing",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-23T19:02:14+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Ybyrá Uru'ku",
+    "brewery": "ZalaZ",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-23T19:02:04+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "Ybyrá Uru'ku",
+    "brewery": "ZalaZ",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-23T19:00:50+00:00",
+    "serving": "bottle",
+    "rating": 4.25,
+    "beer_name": "Ybyrá Uru'ku",
+    "brewery": "ZalaZ",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-23T18:59:56+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Ybyrá Uru'ku",
+    "brewery": "ZalaZ",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-23T18:59:41+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Ybyrá Uru'ku",
+    "brewery": "ZalaZ",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-23T18:59:09+00:00",
+    "serving": "bottle",
+    "rating": 4.0,
+    "beer_name": "Ybyrá Uru'ku",
+    "brewery": "ZalaZ",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-23T18:59:04+00:00",
+    "serving": "bottle",
+    "rating": 4.5,
+    "beer_name": "Ybyrá Uru'ku",
+    "brewery": "ZalaZ",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-23T18:58:30+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Ybyrá Uru'ku",
+    "brewery": "ZalaZ",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-23T18:57:22+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Leviathan Breath aged on Cacao Nibs And Vanilla",
+    "brewery": "ISM Brewing",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-23T18:50:08+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Leviathan Breath",
+    "brewery": "ISM Brewing",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-23T18:49:01+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Leviathan Breath",
+    "brewery": "ISM Brewing",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-23T18:48:48+00:00",
+    "serving": "Unknown",
+    "rating": 4.5,
+    "beer_name": "Leviathan Breath",
+    "brewery": "ISM Brewing",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-23T18:48:32+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Leviathan Breath",
+    "brewery": "ISM Brewing",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-23T18:48:03+00:00",
+    "serving": "Unknown",
+    "rating": 4.2,
+    "beer_name": "Leviathan Breath",
+    "brewery": "ISM Brewing",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-23T18:48:00+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Leviathan Breath aged on Cacao Nibs And Vanilla",
+    "brewery": "ISM Brewing",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-23T18:47:51+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "5 Candles - Collab EAP",
+    "brewery": "Los Forajidos Brewing Co.",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-23T18:46:07+00:00",
+    "serving": "can",
+    "rating": 4.5,
+    "beer_name": "5 Candles - Collab EAP",
+    "brewery": "Los Forajidos Brewing Co.",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-23T18:43:45+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "5 Candles - Collab EAP",
+    "brewery": "Los Forajidos Brewing Co.",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-23T18:42:27+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "5 Candles - Collab EAP",
+    "brewery": "Los Forajidos Brewing Co.",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-23T18:42:25+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "5 Candles - Collab EAP",
+    "brewery": "Los Forajidos Brewing Co.",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-23T18:42:11+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "5 Candles - Collab EAP",
+    "brewery": "Los Forajidos Brewing Co.",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-23T18:41:17+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "5 Candles - Collab EAP",
+    "brewery": "Los Forajidos Brewing Co.",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-23T18:40:09+00:00",
+    "serving": "Unknown",
+    "rating": 4.5,
+    "beer_name": "5 Candles - Collab EAP",
+    "brewery": "Los Forajidos Brewing Co.",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-23T18:39:20+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "On the Horizon",
+    "brewery": "Range Brewing",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-23T18:37:07+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "On the Horizon",
+    "brewery": "Range Brewing",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-23T18:37:00+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "On the Horizon",
+    "brewery": "Range Brewing",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-23T18:35:07+00:00",
+    "serving": "Unknown",
+    "rating": 4.5,
+    "beer_name": "On the Horizon",
+    "brewery": "Range Brewing",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-23T18:34:57+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "On the Horizon",
+    "brewery": "Range Brewing",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-23T18:34:06+00:00",
+    "serving": "Unknown",
+    "rating": 3.8,
+    "beer_name": "On the Horizon",
+    "brewery": "Range Brewing",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-23T18:34:02+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "On the Horizon",
+    "brewery": "Range Brewing",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-23T18:28:37+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Dark Sour: Blackberry + Blueberry",
+    "brewery": "Field House Brewing Co.",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-23T18:28:29+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Dark Sour: Blackberry + Blueberry",
+    "brewery": "Field House Brewing Co.",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-23T18:28:28+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Dark Sour: Blackberry + Blueberry",
+    "brewery": "Field House Brewing Co.",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-23T18:28:28+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Dark Sour: Blackberry + Blueberry",
+    "brewery": "Field House Brewing Co.",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-23T18:28:24+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "Dark Sour: Blackberry + Blueberry",
+    "brewery": "Field House Brewing Co.",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-23T18:28:00+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Dark Sour: Blackberry + Blueberry",
+    "brewery": "Field House Brewing Co.",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-23T18:26:57+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Dark Sour: Blackberry + Blueberry",
+    "brewery": "Field House Brewing Co.",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-23T18:26:43+00:00",
+    "serving": "Unknown",
+    "rating": 3.9,
+    "beer_name": "Dark Sour: Blackberry + Blueberry",
+    "brewery": "Field House Brewing Co.",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-23T18:23:35+00:00",
+    "serving": "Unknown",
+    "rating": 3.25,
+    "beer_name": "STRAWPONOK",
+    "brewery": "INTERSTELLAR BREWERY",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-23T18:22:53+00:00",
+    "serving": "can",
+    "rating": 2.5,
+    "beer_name": "FLÖNGBLORK!",
+    "brewery": "INTERSTELLAR BREWERY",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-23T18:22:24+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "FLÖNGBLORK!",
+    "brewery": "INTERSTELLAR BREWERY",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-23T18:21:42+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "FLÖNGBLORK!",
+    "brewery": "INTERSTELLAR BREWERY",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-23T18:21:10+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "FLÖNGBLORK!",
+    "brewery": "INTERSTELLAR BREWERY",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-23T18:20:58+00:00",
+    "serving": "Unknown",
+    "rating": 4.1,
+    "beer_name": "FLÖNGBLORK!",
+    "brewery": "INTERSTELLAR BREWERY",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-23T18:20:46+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "FLÖNGBLORK!",
+    "brewery": "INTERSTELLAR BREWERY",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-23T18:20:01+00:00",
+    "serving": "Unknown",
+    "rating": 4.2,
+    "beer_name": "FLÖNGBLORK!",
+    "brewery": "INTERSTELLAR BREWERY",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-23T18:19:22+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Black Gold Vanilla",
+    "brewery": "The Drowned Lands Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-23T18:17:23+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Black Gold Vanilla",
+    "brewery": "The Drowned Lands Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-23T18:15:54+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Black Gold",
+    "brewery": "The Drowned Lands Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-23T18:14:45+00:00",
+    "serving": "Unknown",
+    "rating": 4.25,
+    "beer_name": "Black Gold",
+    "brewery": "The Drowned Lands Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-23T18:14:36+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Black Gold Vanilla",
+    "brewery": "The Drowned Lands Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-23T18:14:32+00:00",
+    "serving": "Unknown",
+    "rating": 5.0,
+    "beer_name": "Black Gold Vanilla",
+    "brewery": "The Drowned Lands Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-23T18:12:49+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Gelato Sourpuss: Portokalopita",
+    "brewery": "Hop Hooligans",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-23T18:12:12+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "Black Gold Vanilla",
+    "brewery": "The Drowned Lands Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-23T18:11:12+00:00",
+    "serving": "Unknown",
+    "rating": 4.2,
+    "beer_name": "Gelato Sourpuss: Portokalopita",
+    "brewery": "Hop Hooligans",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-23T18:11:00+00:00",
+    "serving": "Unknown",
+    "rating": 3.8,
+    "beer_name": "Gelato Sourpuss: Portokalopita",
+    "brewery": "Hop Hooligans",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-23T18:10:54+00:00",
+    "serving": "Unknown",
+    "rating": 4.2,
+    "beer_name": "Black Gold Vanilla",
+    "brewery": "The Drowned Lands Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-23T18:10:32+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Gelato Sourpuss: Portokalopita",
+    "brewery": "Hop Hooligans",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-23T18:08:18+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "Gelato Sourpuss: Portokalopita",
+    "brewery": "Hop Hooligans",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-23T18:08:04+00:00",
+    "serving": "can",
+    "rating": 2.5,
+    "beer_name": "Gelato Sourpuss: Portokalopita",
+    "brewery": "Hop Hooligans",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-23T18:07:45+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "Gelato Sourpuss: Portokalopita",
+    "brewery": "Hop Hooligans",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-23T18:07:25+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "Gelato Sourpuss: Portokalopita",
+    "brewery": "Hop Hooligans",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-23T18:06:36+00:00",
+    "serving": "can",
+    "rating": 3.25,
+    "beer_name": "Haze",
+    "brewery": "Tree House Brewing Company",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-23T18:03:50+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "Haze",
+    "brewery": "Tree House Brewing Company",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-23T18:03:43+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Haze",
+    "brewery": "Tree House Brewing Company",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-23T18:03:21+00:00",
+    "serving": "can",
+    "rating": 4.5,
+    "beer_name": "Triple Hazy Jane",
+    "brewery": "BrewDog",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-23T18:03:15+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Haze",
+    "brewery": "Tree House Brewing Company",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-23T18:03:05+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Haze",
+    "brewery": "Tree House Brewing Company",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-23T18:03:00+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Haze",
+    "brewery": "Tree House Brewing Company",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-23T18:02:41+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Haze",
+    "brewery": "Tree House Brewing Company",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-23T18:01:24+00:00",
+    "serving": "Unknown",
+    "rating": 3.0,
+    "beer_name": "Dual Ascension",
+    "brewery": "Seven Island Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-23T18:00:13+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Haze",
+    "brewery": "Tree House Brewing Company",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-23T17:59:24+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Dual Ascension",
+    "brewery": "Seven Island Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-23T17:59:15+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "Dual Ascension",
+    "brewery": "Seven Island Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-23T17:59:10+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Dual Ascension",
+    "brewery": "Seven Island Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-23T17:58:45+00:00",
+    "serving": "Unknown",
+    "rating": 3.25,
+    "beer_name": "Dual Ascension",
+    "brewery": "Seven Island Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-23T17:56:23+00:00",
+    "serving": "can",
+    "rating": 3.25,
+    "beer_name": "Dual Ascension",
+    "brewery": "Seven Island Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-23T17:56:21+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Dual Ascension",
+    "brewery": "Seven Island Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-23T17:55:55+00:00",
+    "serving": "Unknown",
+    "rating": 3.9,
+    "beer_name": "Dual Ascension",
+    "brewery": "Seven Island Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-23T17:52:14+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Deu Samba na Feira - Morango, Laranja e Pêssego",
+    "brewery": "Locals Only Brewing Co.",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-23T17:52:00+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Deu Samba na Feira - Morango, Laranja e Pêssego",
+    "brewery": "Locals Only Brewing Co.",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-23T17:51:40+00:00",
+    "serving": "Unknown",
+    "rating": 4.25,
+    "beer_name": "Deu Samba na Feira - Morango, Laranja e Pêssego",
+    "brewery": "Locals Only Brewing Co.",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-23T17:51:34+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Deu Samba na Feira - Morango, Laranja e Pêssego",
+    "brewery": "Locals Only Brewing Co.",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-23T17:51:06+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Deu Samba na Feira - Morango, Laranja e Pêssego",
+    "brewery": "Locals Only Brewing Co.",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-23T17:50:37+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Deu Samba na Feira - Morango, Laranja e Pêssego",
+    "brewery": "Locals Only Brewing Co.",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-23T17:50:33+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Deu Samba na Feira - Morango, Laranja e Pêssego",
+    "brewery": "Locals Only Brewing Co.",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-23T17:49:04+00:00",
+    "serving": "Unknown",
+    "rating": 4.1,
+    "beer_name": "Deu Samba na Feira - Morango, Laranja e Pêssego",
+    "brewery": "Locals Only Brewing Co.",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-23T17:45:43+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "Chinook",
+    "brewery": "Bracket Brewing",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-23T17:44:48+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Chinook",
+    "brewery": "Bracket Brewing",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-23T17:44:37+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Chinook",
+    "brewery": "Bracket Brewing",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-23T17:44:28+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Chinook",
+    "brewery": "Bracket Brewing",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-23T17:44:25+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Chinook",
+    "brewery": "Bracket Brewing",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-23T17:43:45+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Chinook",
+    "brewery": "Bracket Brewing",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-23T17:43:06+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Chinook",
+    "brewery": "Bracket Brewing",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-23T17:42:58+00:00",
+    "serving": "Unknown",
+    "rating": 4.2,
+    "beer_name": "Bat Dude",
+    "brewery": "Dude Brewing",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-23T17:42:20+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Chinook",
+    "brewery": "Bracket Brewing",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-23T17:39:02+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Bat Dude (2026)",
+    "brewery": "Dude Brewing",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-23T17:38:27+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "Bat Dude (2026)",
+    "brewery": "Dude Brewing",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-23T17:37:42+00:00",
+    "serving": "Unknown",
+    "rating": 4.25,
+    "beer_name": "Bat Dude (2026)",
+    "brewery": "Dude Brewing",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-23T17:37:25+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Bat Dude",
+    "brewery": "Dude Brewing",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-23T17:37:17+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Bat Dude (2026)",
+    "brewery": "Dude Brewing",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-23T17:37:10+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Bat Dude (2026)",
+    "brewery": "Dude Brewing",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-23T17:36:04+00:00",
+    "serving": "Unknown",
+    "rating": 4.2,
+    "beer_name": "Bat Dude (2026)",
+    "brewery": "Dude Brewing",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-23T17:34:30+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "50k Euros",
+    "brewery": "ULTIMA",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-23T17:32:56+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "50k Euros",
+    "brewery": "ULTIMA",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-23T17:31:51+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "50k Euros",
+    "brewery": "ULTIMA",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-23T17:31:36+00:00",
+    "serving": "Unknown",
+    "rating": 4.5,
+    "beer_name": "50k Euros",
+    "brewery": "ULTIMA",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-23T17:31:15+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "50k Euros",
+    "brewery": "ULTIMA",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-23T17:31:08+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "50k Euros",
+    "brewery": "ULTIMA",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-23T17:30:48+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Emperor Julius",
+    "brewery": "Tree House Brewing Company",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-23T17:28:22+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Emperor Julius",
+    "brewery": "Tree House Brewing Company",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-23T17:27:52+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Emperor Julius",
+    "brewery": "Tree House Brewing Company",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-23T17:27:42+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "Emperor Julius",
+    "brewery": "Tree House Brewing Company",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-23T17:25:39+00:00",
+    "serving": "can",
+    "rating": 3.25,
+    "beer_name": "Raspberry Sour",
+    "brewery": "île Sauvage Brewing Company",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-23T17:25:16+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "Emperor Julius",
+    "brewery": "Tree House Brewing Company",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-23T17:25:08+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "Emperor Julius",
+    "brewery": "Tree House Brewing Company",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-23T17:24:59+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Emperor Julius",
+    "brewery": "Tree House Brewing Company",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-23T17:24:42+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Tropical Acid Pool Party",
+    "brewery": "Garage Project",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-23T17:23:41+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Emperor Julius",
+    "brewery": "Tree House Brewing Company",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-23T17:23:14+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "New Frontier",
+    "brewery": "Kicks Brewing",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-23T17:22:26+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Raspberry Sour",
+    "brewery": "île Sauvage Brewing Company",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-23T17:22:00+00:00",
+    "serving": "can",
+    "rating": 3.25,
+    "beer_name": "ROBBIE",
+    "brewery": "Main Squeeze Brewing",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-23T17:20:10+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Raspberry Sour",
+    "brewery": "île Sauvage Brewing Company",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-23T17:19:50+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "Raspberry Sour",
+    "brewery": "île Sauvage Brewing Company",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-23T17:19:42+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Raspberry Sour",
+    "brewery": "île Sauvage Brewing Company",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-23T17:19:41+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "Raspberry Sour",
+    "brewery": "île Sauvage Brewing Company",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-23T17:19:20+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "Raspberry Sour",
+    "brewery": "île Sauvage Brewing Company",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-23T17:17:39+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Raspberry Sour",
+    "brewery": "île Sauvage Brewing Company",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-23T17:15:40+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Tropical Acid Pool Party",
+    "brewery": "Garage Project",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-23T17:15:27+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Tropical Acid Pool Party",
+    "brewery": "Garage Project",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-23T17:15:25+00:00",
+    "serving": "can",
+    "rating": 3.0,
+    "beer_name": "Tropical Acid Pool Party",
+    "brewery": "Garage Project",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-23T17:15:01+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Tropical Acid Pool Party",
+    "brewery": "Garage Project",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-23T17:14:38+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Tropical Acid Pool Party",
+    "brewery": "Garage Project",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-23T17:14:34+00:00",
+    "serving": "Unknown",
+    "rating": 3.9,
+    "beer_name": "Tropical Acid Pool Party",
+    "brewery": "Garage Project",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-23T17:14:11+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Tropical Acid Pool Party",
+    "brewery": "Garage Project",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-23T17:13:46+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Tropical Acid Pool Party",
+    "brewery": "Garage Project",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-23T17:10:39+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "New Frontier",
+    "brewery": "Kicks Brewing",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-23T17:10:31+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "New Frontier",
+    "brewery": "Kicks Brewing",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-23T17:09:27+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "New Frontier",
+    "brewery": "Kicks Brewing",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-23T17:09:23+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "New Frontier",
+    "brewery": "Kicks Brewing",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-23T17:09:04+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "New Frontier",
+    "brewery": "Kicks Brewing",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-23T17:09:02+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "New Frontier",
+    "brewery": "Kicks Brewing",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-23T17:09:01+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "New Frontier",
+    "brewery": "Kicks Brewing",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-23T17:08:59+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "New Frontier",
+    "brewery": "Kicks Brewing",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-23T17:08:35+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "New Frontier",
+    "brewery": "Kicks Brewing",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-23T17:06:48+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "ROBBIE",
+    "brewery": "Main Squeeze Brewing",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-23T17:06:35+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "ROBBIE",
+    "brewery": "Main Squeeze Brewing",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-23T17:06:32+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "ROBBIE",
+    "brewery": "Main Squeeze Brewing",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-23T17:06:18+00:00",
+    "serving": "can",
+    "rating": 3.8,
+    "beer_name": "Wicked Kiss",
+    "brewery": "Tilt Brewing Lab",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-23T17:05:36+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "ROBBIE",
+    "brewery": "Main Squeeze Brewing",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-23T17:05:27+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "ROBBIE",
+    "brewery": "Main Squeeze Brewing",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-23T17:05:27+00:00",
+    "serving": "can",
+    "rating": 3.8,
+    "beer_name": "Torpedo Extra IPA",
+    "brewery": "Sierra Nevada Brewing Co.",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-23T17:05:24+00:00",
+    "serving": "can",
+    "rating": 3.25,
+    "beer_name": "ROBBIE",
+    "brewery": "Main Squeeze Brewing",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-23T17:05:08+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "ROBBIE",
+    "brewery": "Main Squeeze Brewing",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-23T17:05:08+00:00",
+    "serving": "can",
+    "rating": 3.6,
+    "beer_name": "ROBBIE",
+    "brewery": "Main Squeeze Brewing",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-23T17:05:00+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "ROBBIE",
+    "brewery": "Main Squeeze Brewing",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-23T16:56:25+00:00",
+    "serving": "can",
+    "rating": 3.4,
+    "beer_name": "Keep Breathing",
+    "brewery": "Birrificio Wild Raccoon",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-23T16:53:22+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Slow And Steady",
+    "brewery": "Alexander (אלכסנדר)",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-23T16:52:46+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "שיקוי",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-23T16:51:11+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Easy Ride",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-23T16:44:03+00:00",
+    "serving": "can",
+    "rating": 3.0,
+    "beer_name": "Blonde IPA",
+    "brewery": "Guinness",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-23T16:38:49+00:00",
+    "serving": "draft",
+    "rating": 2.5,
+    "beer_name": "Strong Brown Ale",
+    "brewery": "Midbar Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-23T16:38:48+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Paleraiser",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-23T16:10:07+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Fata Morgana Lager (פאטה מורגנה)",
+    "brewery": "Negev Brewery (נגב)",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-23T15:02:13+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Slow And Steady",
+    "brewery": "Alexander (אלכסנדר)",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-23T14:58:27+00:00",
+    "serving": "draft",
+    "rating": 3.0,
+    "beer_name": "Shesh Ahuz Kapara (שש אחוז כפרה)",
+    "brewery": "Herzl (הרצל)",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-23T14:42:17+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Session IPA (2026)",
+    "brewery": "Shapiro (שפירא)",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-23T14:41:56+00:00",
+    "serving": "draft",
+    "rating": null,
+    "beer_name": "Slow And Steady",
+    "brewery": "Alexander (אלכסנדר)",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-23T14:41:43+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "Slow And Steady",
+    "brewery": "Alexander (אלכסנדר)",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-23T14:41:36+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Easy Ride",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-23T14:41:29+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "Easy Ride",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-23T14:41:13+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "Let's Get Tropical",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-23T14:40:55+00:00",
+    "serving": "Unknown",
+    "rating": 3.0,
+    "beer_name": "Fata Morgana Lager (פאטה מורגנה)",
+    "brewery": "Negev Brewery (נגב)",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-23T14:40:49+00:00",
+    "serving": "draft",
+    "rating": null,
+    "beer_name": "Let's Get Tropical",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-23T14:40:06+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Fata Morgana Lager (פאטה מורגנה)",
+    "brewery": "Negev Brewery (נגב)",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-23T14:20:32+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Slow And Steady",
+    "brewery": "Alexander (אלכסנדר)",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-23T14:19:36+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Slow And Steady",
+    "brewery": "Alexander (אלכסנדר)",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-23T10:30:37+00:00",
+    "serving": "draft",
+    "rating": 2.75,
+    "beer_name": "Session IPA (2026)",
+    "brewery": "Shapiro (שפירא)",
     "beer_type": ""
   }
 ];
