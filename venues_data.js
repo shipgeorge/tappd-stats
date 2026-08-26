@@ -1,6 +1,6 @@
 // 🍺 BEER STATS DATA - Generated automatically
-// Last updated: 2026-08-25 07:00:05
-// Total records: 21459
+// Last updated: 2026-08-26 07:00:45
+// Total records: 21496
 
 const BEER_DATA = [
   {
@@ -2967,20 +2967,20 @@ const BEER_DATA = [
   {
     "venue": "b7-beer-house",
     "time": "2026-05-29T08:42:24+00:00",
-    "serving": "draft",
-    "rating": 3.75,
-    "beer_name": "Prunes In Chocolate",
-    "brewery": "Radionov",
-    "beer_type": "Homebrew, Porter - Other"
-  },
-  {
-    "venue": "b7-beer-house",
-    "time": "2026-05-29T08:42:24+00:00",
     "serving": "can",
     "rating": 3.75,
     "beer_name": "Hop Elixir: Citra, Citra Hyperboost, Citra Cryo, Citra Dynaboost",
     "brewery": "Sibeeria Brewery",
     "beer_type": "IPA - Session New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T08:42:24+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Prunes In Chocolate",
+    "brewery": "Radionov",
+    "beer_type": "Homebrew, Porter - Other"
   },
   {
     "venue": "b7-beer-house",
@@ -9652,15 +9652,6 @@ const BEER_DATA = [
     "beer_type": "IPA - American"
   },
   {
-    "venue": "b7-beer-house",
-    "time": "2026-05-08T14:05:01+00:00",
-    "serving": "draft",
-    "rating": 4.0,
-    "beer_name": "Helix",
-    "brewery": "Equilibrium Brewery",
-    "beer_type": "Pilsner - German"
-  },
-  {
     "venue": "schnitt-brewing-company",
     "time": "2026-05-08T14:05:01+00:00",
     "serving": "Unknown",
@@ -9668,6 +9659,15 @@ const BEER_DATA = [
     "beer_name": "Cheers Alenbeer",
     "brewery": "Schnitt Brewing Company﻿",
     "beer_type": "IPA - Session"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-08T14:05:01+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Helix",
+    "brewery": "Equilibrium Brewery",
+    "beer_type": "Pilsner - German"
   },
   {
     "venue": "b7-beer-house",
@@ -193132,6 +193132,339 @@ const BEER_DATA = [
     "rating": 4.0,
     "beer_name": "שיקוי",
     "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-08-25T21:37:05+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Zesty Zebra",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-08-25T20:16:45+00:00",
+    "serving": "can",
+    "rating": 3.25,
+    "beer_name": "Blood Orange Gose",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-08-25T19:56:12+00:00",
+    "serving": "can",
+    "rating": 3.8,
+    "beer_name": "Blood Orange Gose",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-08-25T18:41:38+00:00",
+    "serving": "can",
+    "rating": 4.75,
+    "beer_name": "Zesty Zebra",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-08-25T17:20:42+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "חוה",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-08-25T16:47:43+00:00",
+    "serving": "draft",
+    "rating": 5.0,
+    "beer_name": "Hoppy Ever After",
+    "brewery": "New Pioneer Brewing Co - חלוץ חדש",
+    "beer_type": ""
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-08-25T16:19:26+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Mediterranean Porter",
+    "brewery": "Sheeta Brewery (בירה שיטה)",
+    "beer_type": ""
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-08-25T15:55:24+00:00",
+    "serving": "draft",
+    "rating": 4.75,
+    "beer_name": "Hoppy Ever After",
+    "brewery": "New Pioneer Brewing Co - חלוץ חדש",
+    "beer_type": ""
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-08-25T15:48:35+00:00",
+    "serving": "Unknown",
+    "rating": 4.5,
+    "beer_name": "Hoppy Ever After",
+    "brewery": "New Pioneer Brewing Co - חלוץ חדש",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-08-25T16:04:08+00:00",
+    "serving": "draft",
+    "rating": 3.7,
+    "beer_name": "Attali's Goes Med",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-08-25T16:01:27+00:00",
+    "serving": "can",
+    "rating": null,
+    "beer_name": "LOL",
+    "brewery": "Evil Twin Brewing NYC",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-08-25T14:57:13+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "הפילס שבחדר the Pils In the Room",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-08-25T12:48:27+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Muuumbai",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-08-25T12:28:33+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Hopangan",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-08-25T12:00:24+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Hopangan",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-08-25T11:55:44+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "שאגת העצלן",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-25T22:10:31+00:00",
+    "serving": "Unknown",
+    "rating": 3.0,
+    "beer_name": "Barcelona Cerdos Voladores/Premium Lager",
+    "brewery": "Barcelona Beer Company",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-25T22:06:00+00:00",
+    "serving": "Unknown",
+    "rating": 2.75,
+    "beer_name": "Easy Ride",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-25T22:03:22+00:00",
+    "serving": "Unknown",
+    "rating": 3.0,
+    "beer_name": "אם המבשלות",
+    "brewery": "BeerBazaar / Mivshelet Ha’Aretz",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-25T21:52:49+00:00",
+    "serving": "Unknown",
+    "rating": 3.25,
+    "beer_name": "Hopangan",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-25T19:47:18+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Easy Ride",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-25T19:46:10+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Kopparberg Strawberry & Lime",
+    "brewery": "Kopparbergs Bryggeri",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-25T19:39:43+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Hopangan",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-25T19:33:52+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "שיקוי",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-25T19:05:45+00:00",
+    "serving": "bottle",
+    "rating": 4.0,
+    "beer_name": "Night Shift Vintage 2024 - Russian Imperial Stout Aged in Bourbon Barrels with Chocolate & Coffee",
+    "brewery": "HORIZONT Brewing",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-25T19:04:07+00:00",
+    "serving": "bottle",
+    "rating": 4.75,
+    "beer_name": "Night Shift Vintage 2024 - Russian Imperial Stout Aged in Bourbon Barrels with Chocolate & Coffee",
+    "brewery": "HORIZONT Brewing",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-25T18:22:07+00:00",
+    "serving": "bottle",
+    "rating": 3.25,
+    "beer_name": "Chimay Première (Red)",
+    "brewery": "Bières de Chimay",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-25T17:57:08+00:00",
+    "serving": "draft",
+    "rating": 3.0,
+    "beer_name": "Strong Brown Ale",
+    "brewery": "Midbar Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-25T16:33:03+00:00",
+    "serving": "can",
+    "rating": null,
+    "beer_name": "LOL",
+    "brewery": "Evil Twin Brewing NYC",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-25T14:11:02+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "Nebulous Trail",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-25T14:06:06+00:00",
+    "serving": "Unknown",
+    "rating": 4.75,
+    "beer_name": "Quetsche Tilquin – Draft Version",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-25T11:07:46+00:00",
+    "serving": "can",
+    "rating": 4.2,
+    "beer_name": "חוה",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-25T11:06:34+00:00",
+    "serving": "draft",
+    "rating": 3.1,
+    "beer_name": "שיקוי",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-25T11:05:26+00:00",
+    "serving": "draft",
+    "rating": 3.7,
+    "beer_name": "Hopangan",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "beerline",
+    "time": "2026-08-25T15:31:45+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Dark Fruit",
+    "brewery": "Magners Irish Cider",
+    "beer_type": ""
+  },
+  {
+    "venue": "beerline",
+    "time": "2026-08-25T15:30:56+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Bacchus Frambozenbier",
+    "brewery": "Kasteel Brouwerij Vanhonsebrouck",
+    "beer_type": ""
+  },
+  {
+    "venue": "beerline",
+    "time": "2026-08-25T15:30:17+00:00",
+    "serving": "draft",
+    "rating": 3.0,
+    "beer_name": "Original Cider (Irish) By Sainsbury's",
+    "brewery": "Magners Irish Cider",
     "beer_type": ""
   }
 ];
