@@ -1,6 +1,6 @@
 // 🍺 BEER STATS DATA - Generated automatically
-// Last updated: 2026-08-28 18:31:30
-// Total records: 21574
+// Last updated: 2026-08-29 12:36:40
+// Total records: 21593
 
 const BEER_DATA = [
   {
@@ -2967,20 +2967,20 @@ const BEER_DATA = [
   {
     "venue": "b7-beer-house",
     "time": "2026-05-29T08:42:24+00:00",
-    "serving": "can",
-    "rating": 3.75,
-    "beer_name": "Hop Elixir: Citra, Citra Hyperboost, Citra Cryo, Citra Dynaboost",
-    "brewery": "Sibeeria Brewery",
-    "beer_type": "IPA - Session New England / Hazy"
-  },
-  {
-    "venue": "b7-beer-house",
-    "time": "2026-05-29T08:42:24+00:00",
     "serving": "draft",
     "rating": 3.75,
     "beer_name": "Prunes In Chocolate",
     "brewery": "Radionov",
     "beer_type": "Homebrew, Porter - Other"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T08:42:24+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Hop Elixir: Citra, Citra Hyperboost, Citra Cryo, Citra Dynaboost",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": "IPA - Session New England / Hazy"
   },
   {
     "venue": "b7-beer-house",
@@ -9652,15 +9652,6 @@ const BEER_DATA = [
     "beer_type": "IPA - American"
   },
   {
-    "venue": "schnitt-brewing-company",
-    "time": "2026-05-08T14:05:01+00:00",
-    "serving": "Unknown",
-    "rating": 3.5,
-    "beer_name": "Cheers Alenbeer",
-    "brewery": "Schnitt Brewing Company﻿",
-    "beer_type": "IPA - Session"
-  },
-  {
     "venue": "b7-beer-house",
     "time": "2026-05-08T14:05:01+00:00",
     "serving": "draft",
@@ -9668,6 +9659,15 @@ const BEER_DATA = [
     "beer_name": "Helix",
     "brewery": "Equilibrium Brewery",
     "beer_type": "Pilsner - German"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-08T14:05:01+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "Cheers Alenbeer",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - Session"
   },
   {
     "venue": "b7-beer-house",
@@ -194167,6 +194167,177 @@ const BEER_DATA = [
     "rating": 3.75,
     "beer_name": "בירה חפר",
     "brewery": "BeerBazaar / Mivshelet Ha’Aretz",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-08-29T04:35:39+00:00",
+    "serving": "draft",
+    "rating": null,
+    "beer_name": "Hopangan",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-08-29T04:35:10+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "שאגת העצלן",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-08-28T20:51:55+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "נקטרון האלים",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-08-28T19:54:38+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "שיקוי",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "berlin-florentin",
+    "time": "2026-08-28T19:53:37+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Guinness Draught",
+    "brewery": "Guinness",
+    "beer_type": ""
+  },
+  {
+    "venue": "berlin-florentin",
+    "time": "2026-08-28T18:56:42+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Guinness Draught",
+    "brewery": "Guinness",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-28T21:28:31+00:00",
+    "serving": "bottle",
+    "rating": 4.0,
+    "beer_name": "Oude Gueuze Tilquin à l'ancienne - Cuvée Jean-François 1759 (2021-2022)",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-28T21:06:34+00:00",
+    "serving": "bottle",
+    "rating": 4.0,
+    "beer_name": "Oude Gueuze Tilquin à l'ancienne - Cuvée Jean-François 1759 (2021-2022)",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-28T20:56:27+00:00",
+    "serving": "bottle",
+    "rating": 4.0,
+    "beer_name": "Classic Gueuze (2024)",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-28T20:49:35+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Classic Gueuze (2024)",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-28T20:34:10+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Hazy Day",
+    "brewery": "Greene King",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-28T20:30:23+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Hopangan",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-28T19:52:22+00:00",
+    "serving": "draft",
+    "rating": 4.5,
+    "beer_name": "Quetsche Tilquin – Draft Version",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-28T19:50:45+00:00",
+    "serving": "can",
+    "rating": 4.5,
+    "beer_name": "THIS KIHOSKH NEEDS AN EVEN EVEN MORE MORE MUCH MUCH BIGGER BIGGER BEER SELECTION",
+    "brewery": "Evil Twin Brewing NYC",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-28T19:50:18+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "El Hombre",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-28T19:20:46+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Chouffe Cherry",
+    "brewery": "Brasserie d'Achouffe",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-28T19:08:08+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Yummy Pineapple, Papaya & Coconut",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-28T18:41:27+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "THIS KIHOSKH NEEDS AN EVEN EVEN MORE MORE MUCH MUCH BIGGER BIGGER BEER SELECTION",
+    "brewery": "Evil Twin Brewing NYC",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-28T18:35:35+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Selfish Games - Skybreaker",
+    "brewery": "HORIZONT Brewing",
     "beer_type": ""
   }
 ];
