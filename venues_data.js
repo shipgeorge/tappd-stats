@@ -1,6 +1,6 @@
 // 🍺 BEER STATS DATA - Generated automatically
-// Last updated: 2026-08-29 12:36:40
-// Total records: 21593
+// Last updated: 2026-08-30 11:46:06
+// Total records: 21608
 
 const BEER_DATA = [
   {
@@ -2967,20 +2967,20 @@ const BEER_DATA = [
   {
     "venue": "b7-beer-house",
     "time": "2026-05-29T08:42:24+00:00",
-    "serving": "draft",
-    "rating": 3.75,
-    "beer_name": "Prunes In Chocolate",
-    "brewery": "Radionov",
-    "beer_type": "Homebrew, Porter - Other"
-  },
-  {
-    "venue": "b7-beer-house",
-    "time": "2026-05-29T08:42:24+00:00",
     "serving": "can",
     "rating": 3.75,
     "beer_name": "Hop Elixir: Citra, Citra Hyperboost, Citra Cryo, Citra Dynaboost",
     "brewery": "Sibeeria Brewery",
     "beer_type": "IPA - Session New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T08:42:24+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Prunes In Chocolate",
+    "brewery": "Radionov",
+    "beer_type": "Homebrew, Porter - Other"
   },
   {
     "venue": "b7-beer-house",
@@ -9652,15 +9652,6 @@ const BEER_DATA = [
     "beer_type": "IPA - American"
   },
   {
-    "venue": "b7-beer-house",
-    "time": "2026-05-08T14:05:01+00:00",
-    "serving": "draft",
-    "rating": 4.0,
-    "beer_name": "Helix",
-    "brewery": "Equilibrium Brewery",
-    "beer_type": "Pilsner - German"
-  },
-  {
     "venue": "schnitt-brewing-company",
     "time": "2026-05-08T14:05:01+00:00",
     "serving": "Unknown",
@@ -9668,6 +9659,15 @@ const BEER_DATA = [
     "beer_name": "Cheers Alenbeer",
     "brewery": "Schnitt Brewing Company﻿",
     "beer_type": "IPA - Session"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-08T14:05:01+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Helix",
+    "brewery": "Equilibrium Brewery",
+    "beer_type": "Pilsner - German"
   },
   {
     "venue": "b7-beer-house",
@@ -194338,6 +194338,141 @@ const BEER_DATA = [
     "rating": 3.75,
     "beer_name": "Selfish Games - Skybreaker",
     "brewery": "HORIZONT Brewing",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-08-29T12:52:46+00:00",
+    "serving": "Unknown",
+    "rating": 3.8,
+    "beer_name": "שיקוי",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-29T19:51:23+00:00",
+    "serving": "can",
+    "rating": 3.25,
+    "beer_name": "Photon",
+    "brewery": "Equilibrium Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-29T19:21:02+00:00",
+    "serving": "draft",
+    "rating": 3.7,
+    "beer_name": "Hopangan",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-29T18:24:57+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Yummy Raspberry, Blackberry & Vanilla",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-29T18:22:01+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "California IPA",
+    "brewery": "Sierra Nevada Brewing Co.",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-29T18:21:54+00:00",
+    "serving": "can",
+    "rating": 3.7,
+    "beer_name": "Yummy Raspberry, Blackberry & Vanilla",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-29T18:20:26+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Maredsous Triple / Tripel",
+    "brewery": "Abbaye de Maredsous",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-29T18:19:42+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "Yummy Pineapple, Papaya & Coconut",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-29T18:18:24+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Yummy Pineapple, Papaya & Coconut",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-29T18:17:37+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "California IPA",
+    "brewery": "Sierra Nevada Brewing Co.",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-29T18:02:49+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Single Beeri (סינגל בארי)",
+    "brewery": "BeerBazaar / Mivshelet Ha’Aretz",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-29T17:28:26+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "Yummy Pineapple, Papaya & Coconut",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-29T16:51:44+00:00",
+    "serving": "can",
+    "rating": 3.25,
+    "beer_name": "Hopangan",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-29T16:14:27+00:00",
+    "serving": "can",
+    "rating": 3.25,
+    "beer_name": "Volfas Engelman Pink Lager",
+    "brewery": "Volfas Engelman",
+    "beer_type": ""
+  },
+  {
+    "venue": "porter-and-sons",
+    "time": "2026-08-29T16:12:54+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Pale Ale",
+    "brewery": "Sierra Nevada Brewing Co.",
     "beer_type": ""
   }
 ];
