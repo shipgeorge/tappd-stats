@@ -1,6 +1,6 @@
 // 🍺 BEER STATS DATA - Generated automatically
-// Last updated: 2026-08-30 11:46:06
-// Total records: 21608
+// Last updated: 2026-08-31 13:25:53
+// Total records: 21650
 
 const BEER_DATA = [
   {
@@ -2967,20 +2967,20 @@ const BEER_DATA = [
   {
     "venue": "b7-beer-house",
     "time": "2026-05-29T08:42:24+00:00",
-    "serving": "can",
-    "rating": 3.75,
-    "beer_name": "Hop Elixir: Citra, Citra Hyperboost, Citra Cryo, Citra Dynaboost",
-    "brewery": "Sibeeria Brewery",
-    "beer_type": "IPA - Session New England / Hazy"
-  },
-  {
-    "venue": "b7-beer-house",
-    "time": "2026-05-29T08:42:24+00:00",
     "serving": "draft",
     "rating": 3.75,
     "beer_name": "Prunes In Chocolate",
     "brewery": "Radionov",
     "beer_type": "Homebrew, Porter - Other"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T08:42:24+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Hop Elixir: Citra, Citra Hyperboost, Citra Cryo, Citra Dynaboost",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": "IPA - Session New England / Hazy"
   },
   {
     "venue": "b7-beer-house",
@@ -9652,15 +9652,6 @@ const BEER_DATA = [
     "beer_type": "IPA - American"
   },
   {
-    "venue": "schnitt-brewing-company",
-    "time": "2026-05-08T14:05:01+00:00",
-    "serving": "Unknown",
-    "rating": 3.5,
-    "beer_name": "Cheers Alenbeer",
-    "brewery": "Schnitt Brewing Company﻿",
-    "beer_type": "IPA - Session"
-  },
-  {
     "venue": "b7-beer-house",
     "time": "2026-05-08T14:05:01+00:00",
     "serving": "draft",
@@ -9668,6 +9659,15 @@ const BEER_DATA = [
     "beer_name": "Helix",
     "brewery": "Equilibrium Brewery",
     "beer_type": "Pilsner - German"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-08T14:05:01+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "Cheers Alenbeer",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - Session"
   },
   {
     "venue": "b7-beer-house",
@@ -194471,6 +194471,384 @@ const BEER_DATA = [
     "time": "2026-08-29T16:12:54+00:00",
     "serving": "Unknown",
     "rating": 4.0,
+    "beer_name": "Pale Ale",
+    "brewery": "Sierra Nevada Brewing Co.",
+    "beer_type": ""
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-08-30T19:34:34+00:00",
+    "serving": "can",
+    "rating": 4.5,
+    "beer_name": "Even More Hydra",
+    "brewery": "Mortalis Brewing Company",
+    "beer_type": ""
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-08-30T17:04:56+00:00",
+    "serving": "draft",
+    "rating": 5.0,
+    "beer_name": "PTSD",
+    "brewery": "New Pioneer Brewing Co - חלוץ חדש",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-08-30T18:11:48+00:00",
+    "serving": "draft",
+    "rating": 3.25,
+    "beer_name": "שיקוי",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-08-30T17:53:46+00:00",
+    "serving": "draft",
+    "rating": 2.75,
+    "beer_name": "Hopangan",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-08-30T17:30:47+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "Budweiser Budvar / Czechvar DARK",
+    "brewery": "Budějovický Budvar",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-08-30T16:57:44+00:00",
+    "serving": "Unknown",
+    "rating": 4.25,
+    "beer_name": "Budweiser Budvar / Czechvar DARK",
+    "brewery": "Budějovický Budvar",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-08-30T16:49:24+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "הפילס שבחדר the Pils In the Room",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-08-30T16:48:24+00:00",
+    "serving": "Unknown",
+    "rating": 3.25,
+    "beer_name": "שיקוי",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-08-30T15:02:54+00:00",
+    "serving": "Unknown",
+    "rating": 4.25,
+    "beer_name": "נקטרון האלים",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-08-30T13:51:46+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "הפילס שבחדר the Pils In the Room",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "beerz",
+    "time": "2026-08-30T20:39:03+00:00",
+    "serving": "bottle",
+    "rating": 3.8,
+    "beer_name": "3 Fonteinen Zenne y Frontera (season 22|23) Blend No. 67",
+    "brewery": "Brouwerij 3 Fonteinen",
+    "beer_type": ""
+  },
+  {
+    "venue": "beerz",
+    "time": "2026-08-30T20:35:13+00:00",
+    "serving": "bottle",
+    "rating": 4.7,
+    "beer_name": "3 Fonteinen Zenne y Frontera (season 22|23) Blend No. 67",
+    "brewery": "Brouwerij 3 Fonteinen",
+    "beer_type": ""
+  },
+  {
+    "venue": "beerz",
+    "time": "2026-08-30T20:34:16+00:00",
+    "serving": "bottle",
+    "rating": 4.7,
+    "beer_name": "3 Fonteinen Zenne y Frontera (season 22|23) Blend No. 67",
+    "brewery": "Brouwerij 3 Fonteinen",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-30T20:14:49+00:00",
+    "serving": "bottle",
+    "rating": 3.75,
+    "beer_name": "Mc Chouffe",
+    "brewery": "Brasserie d'Achouffe",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-30T20:14:33+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Hitachino Nest Red Rice Ale",
+    "brewery": "Kiuchi Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-30T20:13:54+00:00",
+    "serving": "bottle",
+    "rating": 4.0,
+    "beer_name": "Hitachino Nest Red Rice Ale",
+    "brewery": "Kiuchi Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-30T20:13:09+00:00",
+    "serving": "bottle",
+    "rating": null,
+    "beer_name": "Mc Chouffe",
+    "brewery": "Brasserie d'Achouffe",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-30T19:59:58+00:00",
+    "serving": "bottle",
+    "rating": 4.25,
+    "beer_name": "Saint Lamvinus",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-30T18:47:11+00:00",
+    "serving": "bottle",
+    "rating": 3.75,
+    "beer_name": "Aecht Schlenkerla Eiche – Doppelbock",
+    "brewery": "Schlenkerla (\"Heller-Bräu\" Trum)",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-30T18:46:01+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Ledoborec",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-30T18:45:33+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Ledoborec",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-30T18:43:33+00:00",
+    "serving": "bottle",
+    "rating": 4.75,
+    "beer_name": "Aecht Schlenkerla Eiche – Doppelbock",
+    "brewery": "Schlenkerla (\"Heller-Bräu\" Trum)",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-30T17:45:37+00:00",
+    "serving": "can",
+    "rating": 3.0,
+    "beer_name": "Volfas Engelman Pink Lager",
+    "brewery": "Volfas Engelman",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-30T17:43:49+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "אם המבשלות",
+    "brewery": "BeerBazaar / Mivshelet Ha’Aretz",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-30T17:43:28+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "Shadowfarer",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-30T17:43:12+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Bock",
+    "brewery": "Alexander (אלכסנדר)",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-30T17:42:08+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Shadowfarer",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-30T17:41:33+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Bock",
+    "brewery": "Alexander (אלכסנדר)",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-30T17:41:01+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "אם המבשלות",
+    "brewery": "BeerBazaar / Mivshelet Ha’Aretz",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-30T15:42:13+00:00",
+    "serving": "Unknown",
+    "rating": 3.2,
+    "beer_name": "Cerdos Voladores Session IPA",
+    "brewery": "Barcelona Beer Company",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-30T15:38:09+00:00",
+    "serving": "draft",
+    "rating": 3.3,
+    "beer_name": "Easy Ride",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-30T15:31:14+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "אם המבשלות",
+    "brewery": "BeerBazaar / Mivshelet Ha’Aretz",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-30T15:23:15+00:00",
+    "serving": "draft",
+    "rating": 3.8,
+    "beer_name": "נקטרון האלים",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-30T15:22:34+00:00",
+    "serving": "draft",
+    "rating": 3.3,
+    "beer_name": "Hopangan",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-30T15:16:45+00:00",
+    "serving": "Unknown",
+    "rating": 3.7,
+    "beer_name": "Easy Ride",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-30T15:16:04+00:00",
+    "serving": "draft",
+    "rating": 3.1,
+    "beer_name": "Cerdos Voladores Session IPA",
+    "brewery": "Barcelona Beer Company",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-30T15:15:12+00:00",
+    "serving": "draft",
+    "rating": 3.3,
+    "beer_name": "אם המבשלות",
+    "brewery": "BeerBazaar / Mivshelet Ha’Aretz",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-30T15:13:36+00:00",
+    "serving": "Unknown",
+    "rating": 3.6,
+    "beer_name": "אם המבשלות",
+    "brewery": "BeerBazaar / Mivshelet Ha’Aretz",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-30T15:10:09+00:00",
+    "serving": "draft",
+    "rating": 3.3,
+    "beer_name": "Elvis Juice 5.1%",
+    "brewery": "BrewDog",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-30T14:15:08+00:00",
+    "serving": "draft",
+    "rating": 3.6,
+    "beer_name": "Easy Ride",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-08-30T13:33:33+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Cerdos Voladores Session IPA",
+    "brewery": "Barcelona Beer Company",
+    "beer_type": ""
+  },
+  {
+    "venue": "beerline",
+    "time": "2026-08-30T17:08:15+00:00",
+    "serving": "draft",
+    "rating": 3.75,
     "beer_name": "Pale Ale",
     "brewery": "Sierra Nevada Brewing Co.",
     "beer_type": ""
