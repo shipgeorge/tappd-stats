@@ -328,8 +328,8 @@ b7-beer-house,Ziv Shwartzman,"Fri, 29 May 2026 08:44:41 +0000",draft,3.75,Pilsne
 b7-beer-house,Yana O,"Fri, 29 May 2026 08:43:54 +0000",bottle,4.0,Night Shift Vintage 2025 / Russian Imperial Stout Aged In Rhum And Vanilla Macadamia Rum Barrels,HORIZONT Brewing,Stout - Russian Imperial
 b7-beer-house,גל סילברמן,"Fri, 29 May 2026 08:43:40 +0000",bottle,4.7,Experiments In the Kitchen,Mortalis Brewing Company,Stout - Imperial / Double Pastry
 b7-beer-house,Tom Lahav,"Fri, 29 May 2026 08:43:38 +0000",can,4.0,Prague Tap Room 2nd Anniversary,Sibeeria Brewery,IPA - Triple New England / Hazy
-b7-beer-house,Ziv Shwartzman,"Fri, 29 May 2026 08:42:24 +0000",draft,3.75,Prunes In Chocolate,Radionov,"Homebrew, Porter - Other"
 b7-beer-house,Tom Lahav,"Fri, 29 May 2026 08:42:24 +0000",can,3.75,"Hop Elixir: Citra, Citra Hyperboost, Citra Cryo, Citra Dynaboost",Sibeeria Brewery,IPA - Session New England / Hazy
+b7-beer-house,Ziv Shwartzman,"Fri, 29 May 2026 08:42:24 +0000",draft,3.75,Prunes In Chocolate,Radionov,"Homebrew, Porter - Other"
 b7-beer-house,Ido Cohen,"Fri, 29 May 2026 08:42:17 +0000",bottle,4.0,Night Shift Vintage 2025 / Double Chocolate Imperial Milk Porter  Aged In Bourbon Barrels,HORIZONT Brewing,Porter - Imperial / Double
 b7-beer-house,Mikhail Stolov,"Fri, 29 May 2026 08:41:47 +0000",can,3.75,"Hop Elixir: Citra, Citra Hyperboost, Citra Cryo, Citra Dynaboost",Sibeeria Brewery,IPA - Session New England / Hazy
 b7-beer-house,Ido Cohen,"Fri, 29 May 2026 08:41:42 +0000",bottle,3.9,Night Shift Vintage 2025 / Peanut Butter Jelly Imperial Pastry Stout Aged In Pedro Ximénez Sherry Barrels,HORIZONT Brewing,Stout - Imperial / Double Pastry
@@ -1071,8 +1071,8 @@ schnitt-brewing-company,Andrey Granovsky,"Fri, 08 May 2026 14:26:07 +0000",draft
 lauter,dafi20,"Fri, 08 May 2026 14:26:00 +0000",draft,3.5,Oasis,Negev Brewery (נגב),Blonde / Golden Ale - Other
 schnitt-brewing-company,Dr Troubles,"Fri, 08 May 2026 14:20:50 +0000",draft,3.25,Ice Ice Bockbier,Schnitt Brewing Company﻿,Bock - Eisbock
 b7-beer-house,Oren Hazan,"Fri, 08 May 2026 14:05:49 +0000",draft,4.0,I Love the Smell of Strata In the Morning,Sibeeria Brewery,IPA - American
-b7-beer-house,Oren Hazan,"Fri, 08 May 2026 14:05:01 +0000",draft,4.0,Helix,Equilibrium Brewery,Pilsner - German
 schnitt-brewing-company,Yoav Kowalski,"Fri, 08 May 2026 14:05:01 +0000",,3.5,Cheers Alenbeer,Schnitt Brewing Company﻿,IPA - Session
+b7-beer-house,Oren Hazan,"Fri, 08 May 2026 14:05:01 +0000",draft,4.0,Helix,Equilibrium Brewery,Pilsner - German
 b7-beer-house,Oren Hazan,"Fri, 08 May 2026 14:04:15 +0000",draft,3.75,רוביקון,New Pioneer Brewing Co - חלוץ חדש,Brown Ale - American
 schnitt-brewing-company,Yoav Kowalski,"Fri, 08 May 2026 14:04:02 +0000",draft,3.25,Ice Ice Bockbier,Schnitt Brewing Company﻿,Bock - Eisbock
 schnitt-brewing-company,Vladimir Kanevsky,"Fri, 08 May 2026 13:59:02 +0000",draft,4.0,Cheers Alenbeer,Schnitt Brewing Company﻿,IPA - Session
@@ -21649,3 +21649,21 @@ lauter,Dmitry Grabak,"Sun, 30 Aug 2026 15:10:09 +0000",draft,3.3,Elvis Juice 5.1
 lauter,Dmitry Grabak,"Sun, 30 Aug 2026 14:15:08 +0000",draft,3.6,Easy Ride,Schnitt Brewing Company﻿,
 lauter,Ido Kessler,"Sun, 30 Aug 2026 13:33:33 +0000",draft,3.75,Cerdos Voladores Session IPA,Barcelona Beer Company,
 beerline,Slava Gladchenko,"Sun, 30 Aug 2026 17:08:15 +0000",draft,3.75,Pale Ale,Sierra Nevada Brewing Co.,
+b7-beer-house,Yotam Bar-natan,"Mon, 31 Aug 2026 17:40:53 +0000",can,3.8,Mammut Mosaic,Mammut,
+b7-beer-house,Yotam Bar-natan,"Mon, 31 Aug 2026 17:33:06 +0000",can,3.7,Pilsner Limited Edition,Mammut,
+b7-beer-house,Alex Fux,"Mon, 31 Aug 2026 15:04:03 +0000",can,3.5,HOPSTER Session IPA,Volfas Engelman,
+b7-beer-house,Alex Fux,"Mon, 31 Aug 2026 14:42:01 +0000",can,3.0,Volfas Engelman Pink Lager,Volfas Engelman,
+lauter,Nir Langer,"Mon, 31 Aug 2026 19:53:11 +0000",can,4.25,ISN’T BROOKLYN A LITTLE SKETCHY? WHY WOULD YOU LIVE THERE?,Evil Twin Brewing NYC,
+lauter,Nir Langer,"Mon, 31 Aug 2026 17:46:00 +0000",can,4.25,LOL,Evil Twin Brewing NYC,
+lauter,Nir Langer,"Mon, 31 Aug 2026 16:45:36 +0000",can,3.0,Volfas Engelman Pink Lager,Volfas Engelman,
+lauter,UV R,"Mon, 31 Aug 2026 16:22:31 +0000",can,3.75,אהבה חזקה,BeerBazaar / Mivshelet Ha’Aretz,
+schnitt-brewing-company,Adam Appel,"Mon, 31 Aug 2026 14:17:07 +0000",draft,3.0,שאגת העצלן,Schnitt Brewing Company﻿,
+schnitt-brewing-company,noam_garaway,"Mon, 31 Aug 2026 14:13:32 +0000",draft,4.0,Twist & Stout,Schnitt Brewing Company﻿,
+schnitt-brewing-company,noam_garaway,"Mon, 31 Aug 2026 14:10:53 +0000",draft,4.0,Kelly's Green Pony,Schnitt Brewing Company﻿,
+schnitt-brewing-company,noam_garaway,"Mon, 31 Aug 2026 14:07:27 +0000",draft,3.75,שיקוי,Schnitt Brewing Company﻿,
+schnitt-brewing-company,noam_garaway,"Mon, 31 Aug 2026 13:59:09 +0000",draft,3.25,Yellow Haze,Schnitt Brewing Company﻿,
+berlin-florentin,Avichai Elgrabli,"Mon, 31 Aug 2026 16:08:10 +0000",draft,2.75,Löwenbräu Märzen,Spaten-Franziskaner-Löwenbräu-Gruppe,
+berlin-florentin,Avichai Elgrabli,"Mon, 31 Aug 2026 16:04:35 +0000",draft,3.0,Erdinger Weißbier / Hefe-Weizen,Erdinger Weissbräu,
+berlin-florentin,Avichai Elgrabli,"Mon, 31 Aug 2026 15:45:05 +0000",draft,2.5,Fruitesse,Brouwerij Liefmans,
+beerbazaar-brewery,Oren Sela,"Mon, 31 Aug 2026 18:02:35 +0000",draft,3.0,Black Jack,BeerBazaar / Mivshelet Ha’Aretz,
+beerbazaar-brewery,Oren Sela,"Mon, 31 Aug 2026 17:04:37 +0000",draft,3.75,בירה חפר,BeerBazaar / Mivshelet Ha’Aretz,
