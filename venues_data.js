@@ -1,6 +1,6 @@
 // 🍺 BEER STATS DATA - Generated automatically
-// Last updated: 2026-09-01 11:31:39
-// Total records: 21668
+// Last updated: 2026-09-02 11:06:50
+// Total records: 21707
 
 const BEER_DATA = [
   {
@@ -2967,20 +2967,20 @@ const BEER_DATA = [
   {
     "venue": "b7-beer-house",
     "time": "2026-05-29T08:42:24+00:00",
-    "serving": "can",
-    "rating": 3.75,
-    "beer_name": "Hop Elixir: Citra, Citra Hyperboost, Citra Cryo, Citra Dynaboost",
-    "brewery": "Sibeeria Brewery",
-    "beer_type": "IPA - Session New England / Hazy"
-  },
-  {
-    "venue": "b7-beer-house",
-    "time": "2026-05-29T08:42:24+00:00",
     "serving": "draft",
     "rating": 3.75,
     "beer_name": "Prunes In Chocolate",
     "brewery": "Radionov",
     "beer_type": "Homebrew, Porter - Other"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T08:42:24+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Hop Elixir: Citra, Citra Hyperboost, Citra Cryo, Citra Dynaboost",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": "IPA - Session New England / Hazy"
   },
   {
     "venue": "b7-beer-house",
@@ -9652,15 +9652,6 @@ const BEER_DATA = [
     "beer_type": "IPA - American"
   },
   {
-    "venue": "schnitt-brewing-company",
-    "time": "2026-05-08T14:05:01+00:00",
-    "serving": "Unknown",
-    "rating": 3.5,
-    "beer_name": "Cheers Alenbeer",
-    "brewery": "Schnitt Brewing Company﻿",
-    "beer_type": "IPA - Session"
-  },
-  {
     "venue": "b7-beer-house",
     "time": "2026-05-08T14:05:01+00:00",
     "serving": "draft",
@@ -9668,6 +9659,15 @@ const BEER_DATA = [
     "beer_name": "Helix",
     "brewery": "Equilibrium Brewery",
     "beer_type": "Pilsner - German"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-08T14:05:01+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "Cheers Alenbeer",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - Session"
   },
   {
     "venue": "b7-beer-house",
@@ -195013,6 +195013,357 @@ const BEER_DATA = [
     "rating": 3.75,
     "beer_name": "בירה חפר",
     "brewery": "BeerBazaar / Mivshelet Ha’Aretz",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-09-01T18:54:44+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "האימפריה מכה שניט",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-09-01T17:28:44+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Schnitt Happens",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-09-01T15:20:10+00:00",
+    "serving": "draft",
+    "rating": 4.5,
+    "beer_name": "נקטרון האלים",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-09-01T15:04:45+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Slow And Steady",
+    "brewery": "Alexander (אלכסנדר)",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-09-01T14:46:33+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "שאגת העצלן",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-09-01T14:41:10+00:00",
+    "serving": "draft",
+    "rating": 3.3,
+    "beer_name": "שיקוי",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-02T06:43:44+00:00",
+    "serving": "bottle",
+    "rating": 4.2,
+    "beer_name": "Oude Geuze Boon à l'Ancienne - VAT 79 Mono Blend",
+    "brewery": "Brouwerij Boon",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-02T06:42:52+00:00",
+    "serving": "bottle",
+    "rating": 4.0,
+    "beer_name": "Oude Geuze Boon à l'Ancienne - Vat 122 Mono Blend",
+    "brewery": "Brouwerij Boon",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-02T06:41:58+00:00",
+    "serving": "bottle",
+    "rating": 4.2,
+    "beer_name": "Oude Geuze (2017)",
+    "brewery": "Brouwerij 3 Fonteinen",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-01T21:48:15+00:00",
+    "serving": "draft",
+    "rating": 3.2,
+    "beer_name": "Cerdos Voladores Session IPA",
+    "brewery": "Barcelona Beer Company",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-01T19:58:17+00:00",
+    "serving": "bottle",
+    "rating": 4.2,
+    "beer_name": "Oude Geuze Boon à l'Ancienne - Vat 16 Mono Blend",
+    "brewery": "Brouwerij Boon",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-01T19:56:15+00:00",
+    "serving": "bottle",
+    "rating": 4.8,
+    "beer_name": "Oude Geuze Boon Black Label Edition N°8",
+    "brewery": "Brouwerij Boon",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-01T19:46:25+00:00",
+    "serving": "bottle",
+    "rating": 4.5,
+    "beer_name": "Oude Gueuze Tilquin à l'ancienne - Cuvée Jean-François 1759 (2021-2022)",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-01T19:43:53+00:00",
+    "serving": "Unknown",
+    "rating": 4.1,
+    "beer_name": "3 Fonteinen Oude Geuze Vintage 2014",
+    "brewery": "Brouwerij 3 Fonteinen",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-01T19:41:33+00:00",
+    "serving": "bottle",
+    "rating": 4.1,
+    "beer_name": "3 Fonteinen Oude Geuze Golden Blend",
+    "brewery": "Brouwerij 3 Fonteinen",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-01T19:40:16+00:00",
+    "serving": "bottle",
+    "rating": 3.6,
+    "beer_name": "Oude Geuze Boon Black Label Edition N°8",
+    "brewery": "Brouwerij Boon",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-01T19:39:28+00:00",
+    "serving": "bottle",
+    "rating": 4.2,
+    "beer_name": "Gueuze Loerik",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-01T19:34:51+00:00",
+    "serving": "bottle",
+    "rating": 4.3,
+    "beer_name": "3 Fonteinen Oude Geuze (season 17|18) Blend No. 92",
+    "brewery": "Brouwerij 3 Fonteinen",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-01T19:33:16+00:00",
+    "serving": "bottle",
+    "rating": 4.3,
+    "beer_name": "Oude Gueuze Tilquin à L'ancienne (2022-2023)",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-01T19:30:16+00:00",
+    "serving": "bottle",
+    "rating": 4.0,
+    "beer_name": "3 Fonteinen Oude Geuze Cuvée Armand & Gaston (season 22|23) Blend No. 6",
+    "brewery": "Brouwerij 3 Fonteinen",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-01T19:27:59+00:00",
+    "serving": "Unknown",
+    "rating": 4.4,
+    "beer_name": "Gueuze Tilquin 40-60",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-01T19:25:53+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "3 Fonteinen Oude Geuze Cuvée Armand & Gaston (season 18|19) Blend No. 13",
+    "brewery": "Brouwerij 3 Fonteinen",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-01T19:23:23+00:00",
+    "serving": "bottle",
+    "rating": 3.9,
+    "beer_name": "Gueuze Girardin 1882 Black Label",
+    "brewery": "Brouwerij Girardin",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-01T19:22:05+00:00",
+    "serving": "draft",
+    "rating": 3.8,
+    "beer_name": "Oude Geuze (Vieille) (2016)",
+    "brewery": "Oud Beersel",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-01T19:20:18+00:00",
+    "serving": "bottle",
+    "rating": 4.2,
+    "beer_name": "Oude Gueuze Cuvée René (2017)",
+    "brewery": "Brouwerij Lindemans",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-01T18:59:39+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Yummy Pineapple, Papaya & Coconut",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-01T18:08:52+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "Paleraiser",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-01T17:06:37+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "LOL",
+    "brewery": "Evil Twin Brewing NYC",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-01T16:58:32+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "Hazy Little Thing",
+    "brewery": "Sierra Nevada Brewing Co.",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-01T16:53:18+00:00",
+    "serving": "bottle",
+    "rating": 3.8,
+    "beer_name": "Slow And Steady",
+    "brewery": "Alexander (אלכסנדר)",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-01T16:51:43+00:00",
+    "serving": "can",
+    "rating": 3.1,
+    "beer_name": "Arct IPA Citra, Mosaic, Equanot, Chinook",
+    "brewery": "Maryensztadt",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-01T16:50:51+00:00",
+    "serving": "can",
+    "rating": 2.8,
+    "beer_name": "Arct IPA Cascade, Strata, Columbus , Centennial",
+    "brewery": "Lubrow Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-01T16:50:09+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "ISN’T BROOKLYN A LITTLE SKETCHY? WHY WOULD YOU LIVE THERE?",
+    "brewery": "Evil Twin Brewing NYC",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-01T16:34:24+00:00",
+    "serving": "draft",
+    "rating": 3.25,
+    "beer_name": "שיקוי",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-01T16:13:57+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Hopangan",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-01T16:10:34+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Hopangan",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-01T16:02:59+00:00",
+    "serving": "draft",
+    "rating": 4.5,
+    "beer_name": "Quetsche Tilquin – Draft Version",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-01T15:31:50+00:00",
+    "serving": "draft",
+    "rating": 3.25,
+    "beer_name": "Elvis Juice 5.1%",
+    "brewery": "BrewDog",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-01T15:19:43+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "Kasteel Rouge",
+    "brewery": "Kasteel Brouwerij Vanhonsebrouck",
     "beer_type": ""
   }
 ];
