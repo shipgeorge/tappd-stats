@@ -328,8 +328,8 @@ b7-beer-house,Ziv Shwartzman,"Fri, 29 May 2026 08:44:41 +0000",draft,3.75,Pilsne
 b7-beer-house,Yana O,"Fri, 29 May 2026 08:43:54 +0000",bottle,4.0,Night Shift Vintage 2025 / Russian Imperial Stout Aged In Rhum And Vanilla Macadamia Rum Barrels,HORIZONT Brewing,Stout - Russian Imperial
 b7-beer-house,גל סילברמן,"Fri, 29 May 2026 08:43:40 +0000",bottle,4.7,Experiments In the Kitchen,Mortalis Brewing Company,Stout - Imperial / Double Pastry
 b7-beer-house,Tom Lahav,"Fri, 29 May 2026 08:43:38 +0000",can,4.0,Prague Tap Room 2nd Anniversary,Sibeeria Brewery,IPA - Triple New England / Hazy
-b7-beer-house,Ziv Shwartzman,"Fri, 29 May 2026 08:42:24 +0000",draft,3.75,Prunes In Chocolate,Radionov,"Homebrew, Porter - Other"
 b7-beer-house,Tom Lahav,"Fri, 29 May 2026 08:42:24 +0000",can,3.75,"Hop Elixir: Citra, Citra Hyperboost, Citra Cryo, Citra Dynaboost",Sibeeria Brewery,IPA - Session New England / Hazy
+b7-beer-house,Ziv Shwartzman,"Fri, 29 May 2026 08:42:24 +0000",draft,3.75,Prunes In Chocolate,Radionov,"Homebrew, Porter - Other"
 b7-beer-house,Ido Cohen,"Fri, 29 May 2026 08:42:17 +0000",bottle,4.0,Night Shift Vintage 2025 / Double Chocolate Imperial Milk Porter  Aged In Bourbon Barrels,HORIZONT Brewing,Porter - Imperial / Double
 b7-beer-house,Mikhail Stolov,"Fri, 29 May 2026 08:41:47 +0000",can,3.75,"Hop Elixir: Citra, Citra Hyperboost, Citra Cryo, Citra Dynaboost",Sibeeria Brewery,IPA - Session New England / Hazy
 b7-beer-house,Ido Cohen,"Fri, 29 May 2026 08:41:42 +0000",bottle,3.9,Night Shift Vintage 2025 / Peanut Butter Jelly Imperial Pastry Stout Aged In Pedro Ximénez Sherry Barrels,HORIZONT Brewing,Stout - Imperial / Double Pastry
@@ -1071,8 +1071,8 @@ schnitt-brewing-company,Andrey Granovsky,"Fri, 08 May 2026 14:26:07 +0000",draft
 lauter,dafi20,"Fri, 08 May 2026 14:26:00 +0000",draft,3.5,Oasis,Negev Brewery (נגב),Blonde / Golden Ale - Other
 schnitt-brewing-company,Dr Troubles,"Fri, 08 May 2026 14:20:50 +0000",draft,3.25,Ice Ice Bockbier,Schnitt Brewing Company﻿,Bock - Eisbock
 b7-beer-house,Oren Hazan,"Fri, 08 May 2026 14:05:49 +0000",draft,4.0,I Love the Smell of Strata In the Morning,Sibeeria Brewery,IPA - American
-b7-beer-house,Oren Hazan,"Fri, 08 May 2026 14:05:01 +0000",draft,4.0,Helix,Equilibrium Brewery,Pilsner - German
 schnitt-brewing-company,Yoav Kowalski,"Fri, 08 May 2026 14:05:01 +0000",,3.5,Cheers Alenbeer,Schnitt Brewing Company﻿,IPA - Session
+b7-beer-house,Oren Hazan,"Fri, 08 May 2026 14:05:01 +0000",draft,4.0,Helix,Equilibrium Brewery,Pilsner - German
 b7-beer-house,Oren Hazan,"Fri, 08 May 2026 14:04:15 +0000",draft,3.75,רוביקון,New Pioneer Brewing Co - חלוץ חדש,Brown Ale - American
 schnitt-brewing-company,Yoav Kowalski,"Fri, 08 May 2026 14:04:02 +0000",draft,3.25,Ice Ice Bockbier,Schnitt Brewing Company﻿,Bock - Eisbock
 schnitt-brewing-company,Vladimir Kanevsky,"Fri, 08 May 2026 13:59:02 +0000",draft,4.0,Cheers Alenbeer,Schnitt Brewing Company﻿,IPA - Session
@@ -21706,3 +21706,20 @@ lauter,Tal,"Tue, 01 Sep 2026 16:10:34 +0000",draft,3.75,Hopangan,Schnitt Brewing
 lauter,Yotam Bar-natan,"Tue, 01 Sep 2026 16:02:59 +0000",draft,4.5,Quetsche Tilquin – Draft Version,Gueuzerie Tilquin,
 lauter,David Siegel,"Tue, 01 Sep 2026 15:31:50 +0000",draft,3.25,Elvis Juice 5.1%,BrewDog,
 lauter,Yana O,"Tue, 01 Sep 2026 15:19:43 +0000",draft,4.25,Kasteel Rouge,Kasteel Brouwerij Vanhonsebrouck,
+schnitt-brewing-company,Amit Lwow,"Thu, 03 Sep 2026 10:05:55 +0000",,3.5,Weissman,Schnitt Brewing Company﻿,
+schnitt-brewing-company,Miki Zaidel,"Thu, 03 Sep 2026 10:03:26 +0000",draft,4.25,נקטרון האלים,Schnitt Brewing Company﻿,
+schnitt-brewing-company,alexander_rutkovsky_9590,"Thu, 03 Sep 2026 09:17:47 +0000",draft,3.5,Let's Get Tropical,Schnitt Brewing Company﻿,
+schnitt-brewing-company,Itai Orr,"Wed, 02 Sep 2026 19:48:26 +0000",draft,4.0,נקטרון האלים,Schnitt Brewing Company﻿,
+schnitt-brewing-company,Itai Orr,"Wed, 02 Sep 2026 19:47:12 +0000",draft,3.75,Kelly's Green Pony,Schnitt Brewing Company﻿,
+lauter,Amit Ran,"Thu, 03 Sep 2026 08:34:29 +0000",draft,,Easy Ride,Schnitt Brewing Company﻿,
+lauter,nahamand,"Wed, 02 Sep 2026 19:29:13 +0000",can,4.5,10 Years: Arrival,Moersleutel Craft Brewery,
+lauter,Shayduk,"Wed, 02 Sep 2026 19:28:43 +0000",can,4.25,10 Years: Arrival,Moersleutel Craft Brewery,
+lauter,Zachi,"Wed, 02 Sep 2026 19:28:14 +0000",can,4.25,10 Years: Arrival,Moersleutel Craft Brewery,
+lauter,Shayduk,"Wed, 02 Sep 2026 19:03:39 +0000",can,4.25,10 Years: Recovery,Moersleutel Craft Brewery,
+lauter,nahamand,"Wed, 02 Sep 2026 19:03:09 +0000",can,4.5,10 Years: Recovery,Moersleutel Craft Brewery,
+lauter,Zachi,"Wed, 02 Sep 2026 19:02:42 +0000",can,4.25,10 Years: Recovery,Moersleutel Craft Brewery,
+lauter,Zachi,"Wed, 02 Sep 2026 18:50:46 +0000",can,3.75,Малина-Малинааа,Black Cat Brewery,
+lauter,nahamand,"Wed, 02 Sep 2026 18:38:49 +0000",can,3.75,Трип: Санкт-Петербург,Coma Brewery,
+lauter,Zachi,"Wed, 02 Sep 2026 18:37:11 +0000",can,3.75,Трип: Санкт-Петербург,Coma Brewery,
+lauter,nahamand,"Wed, 02 Sep 2026 18:20:45 +0000",can,4.0,За Всех Собак | For All the Dogs,Black Cat Brewery,
+lauter,Zachi,"Wed, 02 Sep 2026 18:19:52 +0000",can,4.25,За Всех Собак | For All the Dogs,Black Cat Brewery,

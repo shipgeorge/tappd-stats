@@ -1,6 +1,6 @@
 // 🍺 BEER STATS DATA - Generated automatically
-// Last updated: 2026-09-02 11:06:50
-// Total records: 21707
+// Last updated: 2026-09-03 11:03:40
+// Total records: 21724
 
 const BEER_DATA = [
   {
@@ -2967,20 +2967,20 @@ const BEER_DATA = [
   {
     "venue": "b7-beer-house",
     "time": "2026-05-29T08:42:24+00:00",
-    "serving": "draft",
-    "rating": 3.75,
-    "beer_name": "Prunes In Chocolate",
-    "brewery": "Radionov",
-    "beer_type": "Homebrew, Porter - Other"
-  },
-  {
-    "venue": "b7-beer-house",
-    "time": "2026-05-29T08:42:24+00:00",
     "serving": "can",
     "rating": 3.75,
     "beer_name": "Hop Elixir: Citra, Citra Hyperboost, Citra Cryo, Citra Dynaboost",
     "brewery": "Sibeeria Brewery",
     "beer_type": "IPA - Session New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T08:42:24+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Prunes In Chocolate",
+    "brewery": "Radionov",
+    "beer_type": "Homebrew, Porter - Other"
   },
   {
     "venue": "b7-beer-house",
@@ -9652,15 +9652,6 @@ const BEER_DATA = [
     "beer_type": "IPA - American"
   },
   {
-    "venue": "b7-beer-house",
-    "time": "2026-05-08T14:05:01+00:00",
-    "serving": "draft",
-    "rating": 4.0,
-    "beer_name": "Helix",
-    "brewery": "Equilibrium Brewery",
-    "beer_type": "Pilsner - German"
-  },
-  {
     "venue": "schnitt-brewing-company",
     "time": "2026-05-08T14:05:01+00:00",
     "serving": "Unknown",
@@ -9668,6 +9659,15 @@ const BEER_DATA = [
     "beer_name": "Cheers Alenbeer",
     "brewery": "Schnitt Brewing Company﻿",
     "beer_type": "IPA - Session"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-08T14:05:01+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Helix",
+    "brewery": "Equilibrium Brewery",
+    "beer_type": "Pilsner - German"
   },
   {
     "venue": "b7-beer-house",
@@ -195364,6 +195364,159 @@ const BEER_DATA = [
     "rating": 4.25,
     "beer_name": "Kasteel Rouge",
     "brewery": "Kasteel Brouwerij Vanhonsebrouck",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-09-03T10:05:55+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "Weissman",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-09-03T10:03:26+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "נקטרון האלים",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-09-03T09:17:47+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Let's Get Tropical",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-09-02T19:48:26+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "נקטרון האלים",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-09-02T19:47:12+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Kelly's Green Pony",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-03T08:34:29+00:00",
+    "serving": "draft",
+    "rating": null,
+    "beer_name": "Easy Ride",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-02T19:29:13+00:00",
+    "serving": "can",
+    "rating": 4.5,
+    "beer_name": "10 Years: Arrival",
+    "brewery": "Moersleutel Craft Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-02T19:28:43+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "10 Years: Arrival",
+    "brewery": "Moersleutel Craft Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-02T19:28:14+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "10 Years: Arrival",
+    "brewery": "Moersleutel Craft Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-02T19:03:39+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "10 Years: Recovery",
+    "brewery": "Moersleutel Craft Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-02T19:03:09+00:00",
+    "serving": "can",
+    "rating": 4.5,
+    "beer_name": "10 Years: Recovery",
+    "brewery": "Moersleutel Craft Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-02T19:02:42+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "10 Years: Recovery",
+    "brewery": "Moersleutel Craft Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-02T18:50:46+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Малина-Малинааа",
+    "brewery": "Black Cat Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-02T18:38:49+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Трип: Санкт-Петербург",
+    "brewery": "Coma Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-02T18:37:11+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Трип: Санкт-Петербург",
+    "brewery": "Coma Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-02T18:20:45+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "За Всех Собак | For All the Dogs",
+    "brewery": "Black Cat Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-02T18:19:52+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "За Всех Собак | For All the Dogs",
+    "brewery": "Black Cat Brewery",
     "beer_type": ""
   }
 ];
