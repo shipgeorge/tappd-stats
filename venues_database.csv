@@ -328,8 +328,8 @@ b7-beer-house,Ziv Shwartzman,"Fri, 29 May 2026 08:44:41 +0000",draft,3.75,Pilsne
 b7-beer-house,Yana O,"Fri, 29 May 2026 08:43:54 +0000",bottle,4.0,Night Shift Vintage 2025 / Russian Imperial Stout Aged In Rhum And Vanilla Macadamia Rum Barrels,HORIZONT Brewing,Stout - Russian Imperial
 b7-beer-house,גל סילברמן,"Fri, 29 May 2026 08:43:40 +0000",bottle,4.7,Experiments In the Kitchen,Mortalis Brewing Company,Stout - Imperial / Double Pastry
 b7-beer-house,Tom Lahav,"Fri, 29 May 2026 08:43:38 +0000",can,4.0,Prague Tap Room 2nd Anniversary,Sibeeria Brewery,IPA - Triple New England / Hazy
-b7-beer-house,Tom Lahav,"Fri, 29 May 2026 08:42:24 +0000",can,3.75,"Hop Elixir: Citra, Citra Hyperboost, Citra Cryo, Citra Dynaboost",Sibeeria Brewery,IPA - Session New England / Hazy
 b7-beer-house,Ziv Shwartzman,"Fri, 29 May 2026 08:42:24 +0000",draft,3.75,Prunes In Chocolate,Radionov,"Homebrew, Porter - Other"
+b7-beer-house,Tom Lahav,"Fri, 29 May 2026 08:42:24 +0000",can,3.75,"Hop Elixir: Citra, Citra Hyperboost, Citra Cryo, Citra Dynaboost",Sibeeria Brewery,IPA - Session New England / Hazy
 b7-beer-house,Ido Cohen,"Fri, 29 May 2026 08:42:17 +0000",bottle,4.0,Night Shift Vintage 2025 / Double Chocolate Imperial Milk Porter  Aged In Bourbon Barrels,HORIZONT Brewing,Porter - Imperial / Double
 b7-beer-house,Mikhail Stolov,"Fri, 29 May 2026 08:41:47 +0000",can,3.75,"Hop Elixir: Citra, Citra Hyperboost, Citra Cryo, Citra Dynaboost",Sibeeria Brewery,IPA - Session New England / Hazy
 b7-beer-house,Ido Cohen,"Fri, 29 May 2026 08:41:42 +0000",bottle,3.9,Night Shift Vintage 2025 / Peanut Butter Jelly Imperial Pastry Stout Aged In Pedro Ximénez Sherry Barrels,HORIZONT Brewing,Stout - Imperial / Double Pastry
@@ -1071,8 +1071,8 @@ schnitt-brewing-company,Andrey Granovsky,"Fri, 08 May 2026 14:26:07 +0000",draft
 lauter,dafi20,"Fri, 08 May 2026 14:26:00 +0000",draft,3.5,Oasis,Negev Brewery (נגב),Blonde / Golden Ale - Other
 schnitt-brewing-company,Dr Troubles,"Fri, 08 May 2026 14:20:50 +0000",draft,3.25,Ice Ice Bockbier,Schnitt Brewing Company﻿,Bock - Eisbock
 b7-beer-house,Oren Hazan,"Fri, 08 May 2026 14:05:49 +0000",draft,4.0,I Love the Smell of Strata In the Morning,Sibeeria Brewery,IPA - American
-schnitt-brewing-company,Yoav Kowalski,"Fri, 08 May 2026 14:05:01 +0000",,3.5,Cheers Alenbeer,Schnitt Brewing Company﻿,IPA - Session
 b7-beer-house,Oren Hazan,"Fri, 08 May 2026 14:05:01 +0000",draft,4.0,Helix,Equilibrium Brewery,Pilsner - German
+schnitt-brewing-company,Yoav Kowalski,"Fri, 08 May 2026 14:05:01 +0000",,3.5,Cheers Alenbeer,Schnitt Brewing Company﻿,IPA - Session
 b7-beer-house,Oren Hazan,"Fri, 08 May 2026 14:04:15 +0000",draft,3.75,רוביקון,New Pioneer Brewing Co - חלוץ חדש,Brown Ale - American
 schnitt-brewing-company,Yoav Kowalski,"Fri, 08 May 2026 14:04:02 +0000",draft,3.25,Ice Ice Bockbier,Schnitt Brewing Company﻿,Bock - Eisbock
 schnitt-brewing-company,Vladimir Kanevsky,"Fri, 08 May 2026 13:59:02 +0000",draft,4.0,Cheers Alenbeer,Schnitt Brewing Company﻿,IPA - Session
@@ -21723,3 +21723,55 @@ lauter,nahamand,"Wed, 02 Sep 2026 18:38:49 +0000",can,3.75,Трип: Санкт-
 lauter,Zachi,"Wed, 02 Sep 2026 18:37:11 +0000",can,3.75,Трип: Санкт-Петербург,Coma Brewery,
 lauter,nahamand,"Wed, 02 Sep 2026 18:20:45 +0000",can,4.0,За Всех Собак | For All the Dogs,Black Cat Brewery,
 lauter,Zachi,"Wed, 02 Sep 2026 18:19:52 +0000",can,4.25,За Всех Собак | For All the Dogs,Black Cat Brewery,
+b7-beer-house,Eli Smikin,"Thu, 03 Sep 2026 16:03:55 +0000",,4.0,MAKE IT FRUITY BLUEBERRY CONCORD GRAPE,Evil Twin Brewing NYC,
+b7-beer-house,Eli Smikin,"Thu, 03 Sep 2026 14:54:16 +0000",can,4.2,Impeached,ill will brewing,
+b7-beer-house,Yotam Bar-natan,"Thu, 03 Sep 2026 14:51:33 +0000",can,4.2,Impeached,ill will brewing,
+b7-beer-house,Eli Smikin,"Thu, 03 Sep 2026 14:39:18 +0000",can,4.3,Grape X Red Currant X Strawberry X Peanut Butter Fruited Gose,Ārpus Brewing Co.,
+b7-beer-house,Yotam Bar-natan,"Thu, 03 Sep 2026 14:32:56 +0000",can,4.4,Grape X Red Currant X Strawberry X Peanut Butter Fruited Gose,Ārpus Brewing Co.,
+schnitt-brewing-company,Aviad Attia,"Fri, 04 Sep 2026 10:52:27 +0000",,,Hopangan,Schnitt Brewing Company﻿,
+schnitt-brewing-company,Aviad Attia,"Fri, 04 Sep 2026 10:52:18 +0000",,,שאגת העצלן,Schnitt Brewing Company﻿,
+schnitt-brewing-company,Aviad Attia,"Fri, 04 Sep 2026 10:50:47 +0000",,,Life Gose On,Schnitt Brewing Company﻿,
+schnitt-brewing-company,Aviad Attia,"Fri, 04 Sep 2026 10:50:35 +0000",,,שיקוי,Schnitt Brewing Company﻿,
+schnitt-brewing-company,Eylon,"Fri, 04 Sep 2026 10:14:45 +0000",,3.5,Let's Get Tropical,Schnitt Brewing Company﻿,
+schnitt-brewing-company,Eylon,"Fri, 04 Sep 2026 10:08:33 +0000",,3.5,שאגת העצלן,Schnitt Brewing Company﻿,
+schnitt-brewing-company,Eylon,"Fri, 04 Sep 2026 10:03:37 +0000",,3.25,שיקוי,Schnitt Brewing Company﻿,
+schnitt-brewing-company,German Syomov,"Fri, 04 Sep 2026 05:16:45 +0000",draft,4.0,Paleraiser,Schnitt Brewing Company﻿,
+schnitt-brewing-company,German Syomov,"Fri, 04 Sep 2026 05:15:57 +0000",,3.75,Schnitt Happens,Schnitt Brewing Company﻿,
+schnitt-brewing-company,Elad Schitrit,"Thu, 03 Sep 2026 22:27:04 +0000",draft,3.25,Life Gose On,Schnitt Brewing Company﻿,
+schnitt-brewing-company,Dr Troubles,"Thu, 03 Sep 2026 20:13:05 +0000",,3.5,Life Gose On,Schnitt Brewing Company﻿,
+schnitt-brewing-company,levlev444,"Thu, 03 Sep 2026 19:38:29 +0000",,3.25,שיקוי,Schnitt Brewing Company﻿,
+schnitt-brewing-company,levlev444,"Thu, 03 Sep 2026 19:36:43 +0000",,3.0,Let's Get Tropical,Schnitt Brewing Company﻿,
+schnitt-brewing-company,Nir Langer,"Thu, 03 Sep 2026 17:48:19 +0000",,,Life Gose On,Schnitt Brewing Company﻿,
+schnitt-brewing-company,German Syomov,"Thu, 03 Sep 2026 17:30:48 +0000",draft,3.75,האימפריה מכה שניט,Schnitt Brewing Company﻿,
+schnitt-brewing-company,levlev444,"Thu, 03 Sep 2026 14:31:59 +0000",draft,3.25,שאגת העצלן,Schnitt Brewing Company﻿,
+schnitt-brewing-company,Dennis Prokopiev,"Thu, 03 Sep 2026 14:18:12 +0000",draft,3.4,האימפריה מכה שניט,Schnitt Brewing Company﻿,
+schnitt-brewing-company,Dennis Prokopiev,"Thu, 03 Sep 2026 14:16:51 +0000",draft,3.8,שאגת העצלן,Schnitt Brewing Company﻿,
+schnitt-brewing-company,Alex Shtouff,"Thu, 03 Sep 2026 14:15:29 +0000",draft,4.0,Life Gose On,Schnitt Brewing Company﻿,
+schnitt-brewing-company,Vasa,"Thu, 03 Sep 2026 14:08:41 +0000",draft,4.0,Hopangan,Schnitt Brewing Company﻿,
+schnitt-brewing-company,Vasa,"Thu, 03 Sep 2026 14:08:15 +0000",draft,3.75,Life Gose On,Schnitt Brewing Company﻿,
+schnitt-brewing-company,Dennis Prokopiev,"Thu, 03 Sep 2026 13:47:02 +0000",draft,3.4,נקטרון האלים,Schnitt Brewing Company﻿,
+schnitt-brewing-company,Dennis Prokopiev,"Thu, 03 Sep 2026 13:45:49 +0000",draft,3.3,שיקוי,Schnitt Brewing Company﻿,
+schnitt-brewing-company,Dennis Prokopiev,"Thu, 03 Sep 2026 13:26:29 +0000",draft,3.7,Life Gose On,Schnitt Brewing Company﻿,
+schnitt-brewing-company,alexander_rutkovsky_9590,"Thu, 03 Sep 2026 13:12:23 +0000",draft,3.5,In the Little,Schnitt Brewing Company﻿,
+schnitt-brewing-company,alexander_rutkovsky_9590,"Thu, 03 Sep 2026 13:10:45 +0000",draft,3.5,Life Gose On,Schnitt Brewing Company﻿,
+schnitt-brewing-company,Miki Zaidel,"Thu, 03 Sep 2026 11:23:40 +0000",,4.0,Let's Get Tropical,Schnitt Brewing Company﻿,
+schnitt-brewing-company,Miki Zaidel,"Thu, 03 Sep 2026 11:22:48 +0000",,4.0,Hopangan,Schnitt Brewing Company﻿,
+schnitt-brewing-company,Miki Zaidel,"Thu, 03 Sep 2026 11:20:11 +0000",,4.0,Life Gose On,Schnitt Brewing Company﻿,
+schnitt-brewing-company,Miki Zaidel,"Thu, 03 Sep 2026 11:19:27 +0000",,4.0,שיקוי,Schnitt Brewing Company﻿,
+lauter,Eylon,"Fri, 04 Sep 2026 09:52:33 +0000",can,4.0,Bell Ringer,Black Tide Brewing,
+lauter,Elad Schitrit,"Thu, 03 Sep 2026 21:47:18 +0000",can,4.25,"No Pity, No Pain, No Fear",Birrificio Wild Raccoon,
+lauter,Nir Langer,"Thu, 03 Sep 2026 21:28:20 +0000",,,בירהל'ה,Malka (מלכה),
+lauter,Nir Langer,"Thu, 03 Sep 2026 21:05:12 +0000",can,4.0,"Yummy Raspberry, Blackberry & Vanilla",Sibeeria Brewery,
+lauter,Dr Troubles,"Thu, 03 Sep 2026 21:00:47 +0000",can,3.25,Mad Cow,HORIZONT Brewing,
+lauter,Elad Schitrit,"Thu, 03 Sep 2026 20:58:56 +0000",can,4.0,"Yummy Pineapple, Papaya & Coconut",Sibeeria Brewery,
+lauter,Elad Schitrit,"Thu, 03 Sep 2026 20:44:44 +0000",can,3.25,Shadowfarer,Sibeeria Brewery,
+lauter,Nir Langer,"Thu, 03 Sep 2026 20:20:48 +0000",can,3.75,"Arct IPA: Citra, Mosaic, Equanot, Chinook",Lubrow Brewery,
+lauter,Nir Langer,"Thu, 03 Sep 2026 19:53:33 +0000",can,,Hoppy Lager (לאגר),Malka (מלכה),
+lauter,Dr Troubles,"Thu, 03 Sep 2026 19:23:25 +0000",draft,3.5,שיקוי,Schnitt Brewing Company﻿,
+lauter,Shmupi Koto,"Thu, 03 Sep 2026 18:48:55 +0000",draft,4.7,Quetsche Tilquin – Draft Version,Gueuzerie Tilquin,
+lauter,Amit Lwow,"Thu, 03 Sep 2026 13:46:52 +0000",draft,3.5,Bock,Alexander (אלכסנדר),
+berlin-florentin,Eylon Hadar,"Fri, 04 Sep 2026 10:34:51 +0000",,3.0,Fruitesse,Brouwerij Liefmans,
+berlin-florentin,Eylon Hadar,"Fri, 04 Sep 2026 09:57:26 +0000",draft,3.25,Beck's,Brauerei Beck,
+berlin-florentin,Yanai Ben- Alon,"Fri, 04 Sep 2026 09:53:49 +0000",draft,3.25,Beck's,Brauerei Beck,
+beerz,Taïr Avni,"Thu, 03 Sep 2026 17:13:21 +0000",draft,4.0,Double Gentle Bastard (2026 Edition),HORIZONT Brewing,
+beerline,I A,"Thu, 03 Sep 2026 15:46:12 +0000",draft,3.75,Pleroma Karpologi Pineapple Peach Marshmallow Créme Brulée Sour,Omnipollo,
