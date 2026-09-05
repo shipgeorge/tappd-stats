@@ -1,6 +1,6 @@
 // 🍺 BEER STATS DATA - Generated automatically
-// Last updated: 2026-09-04 11:04:49
-// Total records: 21776
+// Last updated: 2026-09-05 10:26:49
+// Total records: 21814
 
 const BEER_DATA = [
   {
@@ -2967,20 +2967,20 @@ const BEER_DATA = [
   {
     "venue": "b7-beer-house",
     "time": "2026-05-29T08:42:24+00:00",
-    "serving": "draft",
-    "rating": 3.75,
-    "beer_name": "Prunes In Chocolate",
-    "brewery": "Radionov",
-    "beer_type": "Homebrew, Porter - Other"
-  },
-  {
-    "venue": "b7-beer-house",
-    "time": "2026-05-29T08:42:24+00:00",
     "serving": "can",
     "rating": 3.75,
     "beer_name": "Hop Elixir: Citra, Citra Hyperboost, Citra Cryo, Citra Dynaboost",
     "brewery": "Sibeeria Brewery",
     "beer_type": "IPA - Session New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T08:42:24+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Prunes In Chocolate",
+    "brewery": "Radionov",
+    "beer_type": "Homebrew, Porter - Other"
   },
   {
     "venue": "b7-beer-house",
@@ -9652,15 +9652,6 @@ const BEER_DATA = [
     "beer_type": "IPA - American"
   },
   {
-    "venue": "b7-beer-house",
-    "time": "2026-05-08T14:05:01+00:00",
-    "serving": "draft",
-    "rating": 4.0,
-    "beer_name": "Helix",
-    "brewery": "Equilibrium Brewery",
-    "beer_type": "Pilsner - German"
-  },
-  {
     "venue": "schnitt-brewing-company",
     "time": "2026-05-08T14:05:01+00:00",
     "serving": "Unknown",
@@ -9668,6 +9659,15 @@ const BEER_DATA = [
     "beer_name": "Cheers Alenbeer",
     "brewery": "Schnitt Brewing Company﻿",
     "beer_type": "IPA - Session"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-08T14:05:01+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Helix",
+    "brewery": "Equilibrium Brewery",
+    "beer_type": "Pilsner - German"
   },
   {
     "venue": "b7-beer-house",
@@ -195985,6 +195985,348 @@ const BEER_DATA = [
     "rating": 3.75,
     "beer_name": "Pleroma Karpologi Pineapple Peach Marshmallow Créme Brulée Sour",
     "brewery": "Omnipollo",
+    "beer_type": ""
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-09-04T15:08:11+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Lollihop",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-09-04T15:00:13+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Möbius",
+    "brewery": "Equilibrium Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-09-04T14:59:02+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Lazy Bee Classic",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-09-04T21:45:55+00:00",
+    "serving": "can",
+    "rating": 5.0,
+    "beer_name": "חוה",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-09-04T17:00:49+00:00",
+    "serving": "draft",
+    "rating": 3.25,
+    "beer_name": "Life Gose On",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-09-04T17:00:15+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Let's Get Tropical",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-09-04T15:52:37+00:00",
+    "serving": "draft",
+    "rating": 3.6,
+    "beer_name": "Let's Get Tropical",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-09-04T15:49:04+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "Let's Get Tropical",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-09-04T15:26:21+00:00",
+    "serving": "Unknown",
+    "rating": 3.4,
+    "beer_name": "Life Gose On",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-09-04T15:25:17+00:00",
+    "serving": "draft",
+    "rating": 3.25,
+    "beer_name": "Why Like This",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-09-04T14:55:01+00:00",
+    "serving": "Unknown",
+    "rating": 3.25,
+    "beer_name": "Life Gose On",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-09-04T14:48:06+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Life Gose On",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-09-04T14:30:53+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Hopangan",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-09-04T14:23:57+00:00",
+    "serving": "draft",
+    "rating": 3.25,
+    "beer_name": "Life Gose On",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-09-04T14:23:43+00:00",
+    "serving": "Unknown",
+    "rating": 3.6,
+    "beer_name": "שיקוי",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-09-04T14:20:37+00:00",
+    "serving": "draft",
+    "rating": 3.25,
+    "beer_name": "שיקוי",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-09-04T14:02:54+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "Life Gose On",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-09-04T13:56:43+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "Life Gose On",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-09-04T13:50:32+00:00",
+    "serving": "Unknown",
+    "rating": 3.0,
+    "beer_name": "שיקוי",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-09-04T13:40:41+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "Hopangan",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-09-04T13:34:37+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Let's Get Tropical",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-09-04T13:32:21+00:00",
+    "serving": "draft",
+    "rating": 3.25,
+    "beer_name": "Hopangan",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-09-04T13:30:46+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "Life Gose On",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-09-04T13:29:37+00:00",
+    "serving": "Unknown",
+    "rating": 3.25,
+    "beer_name": "שיקוי",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-04T17:04:58+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "Elvis Juice 5.1%",
+    "brewery": "BrewDog",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-04T17:02:12+00:00",
+    "serving": "draft",
+    "rating": 2.5,
+    "beer_name": "Paleraiser",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-04T16:55:03+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "אם המבשלות",
+    "brewery": "BeerBazaar / Mivshelet Ha’Aretz",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-04T16:49:31+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Hopangan",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-04T16:42:47+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "Hazy Little Thing",
+    "brewery": "Sierra Nevada Brewing Co.",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-04T16:36:24+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "שיקוי",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-04T14:30:13+00:00",
+    "serving": "draft",
+    "rating": 4.75,
+    "beer_name": "Quetsche Tilquin – Draft Version",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-04T14:21:05+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Hopangan",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-04T14:11:35+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "Stout",
+    "brewery": "Tennent's Caledonian Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-04T13:52:35+00:00",
+    "serving": "Unknown",
+    "rating": 3.25,
+    "beer_name": "Elvis Juice 5.1%",
+    "brewery": "BrewDog",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-04T11:37:17+00:00",
+    "serving": "Unknown",
+    "rating": 4.2,
+    "beer_name": "Cerberus",
+    "brewery": "Mortalis Brewing Company",
+    "beer_type": ""
+  },
+  {
+    "venue": "ursa",
+    "time": "2026-09-04T21:18:20+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Penalty Hero",
+    "brewery": "HORIZONT Brewing",
+    "beer_type": ""
+  },
+  {
+    "venue": "ursa",
+    "time": "2026-09-04T21:17:25+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Penalty Hero",
+    "brewery": "HORIZONT Brewing",
+    "beer_type": ""
+  },
+  {
+    "venue": "beerline",
+    "time": "2026-09-04T17:07:25+00:00",
+    "serving": "draft",
+    "rating": 4.75,
+    "beer_name": "Delirium Red",
+    "brewery": "Delirium - Huyghe Brewery",
     "beer_type": ""
   }
 ];
