@@ -1,6 +1,6 @@
 // 🍺 BEER STATS DATA - Generated automatically
-// Last updated: 2026-09-05 10:26:49
-// Total records: 21814
+// Last updated: 2026-09-06 10:45:33
+// Total records: 21828
 
 const BEER_DATA = [
   {
@@ -2967,20 +2967,20 @@ const BEER_DATA = [
   {
     "venue": "b7-beer-house",
     "time": "2026-05-29T08:42:24+00:00",
-    "serving": "can",
-    "rating": 3.75,
-    "beer_name": "Hop Elixir: Citra, Citra Hyperboost, Citra Cryo, Citra Dynaboost",
-    "brewery": "Sibeeria Brewery",
-    "beer_type": "IPA - Session New England / Hazy"
-  },
-  {
-    "venue": "b7-beer-house",
-    "time": "2026-05-29T08:42:24+00:00",
     "serving": "draft",
     "rating": 3.75,
     "beer_name": "Prunes In Chocolate",
     "brewery": "Radionov",
     "beer_type": "Homebrew, Porter - Other"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T08:42:24+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Hop Elixir: Citra, Citra Hyperboost, Citra Cryo, Citra Dynaboost",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": "IPA - Session New England / Hazy"
   },
   {
     "venue": "b7-beer-house",
@@ -9652,15 +9652,6 @@ const BEER_DATA = [
     "beer_type": "IPA - American"
   },
   {
-    "venue": "schnitt-brewing-company",
-    "time": "2026-05-08T14:05:01+00:00",
-    "serving": "Unknown",
-    "rating": 3.5,
-    "beer_name": "Cheers Alenbeer",
-    "brewery": "Schnitt Brewing Company﻿",
-    "beer_type": "IPA - Session"
-  },
-  {
     "venue": "b7-beer-house",
     "time": "2026-05-08T14:05:01+00:00",
     "serving": "draft",
@@ -9668,6 +9659,15 @@ const BEER_DATA = [
     "beer_name": "Helix",
     "brewery": "Equilibrium Brewery",
     "beer_type": "Pilsner - German"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-08T14:05:01+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "Cheers Alenbeer",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - Session"
   },
   {
     "venue": "b7-beer-house",
@@ -196327,6 +196327,132 @@ const BEER_DATA = [
     "rating": 4.75,
     "beer_name": "Delirium Red",
     "brewery": "Delirium - Huyghe Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-09-06T09:28:56+00:00",
+    "serving": "Unknown",
+    "rating": 4.2,
+    "beer_name": "Life Gose On",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-09-05T21:05:14+00:00",
+    "serving": "Unknown",
+    "rating": 3.25,
+    "beer_name": "Hopangan",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-09-05T21:00:06+00:00",
+    "serving": "Unknown",
+    "rating": 3.0,
+    "beer_name": "Life Gose On",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-09-05T18:10:12+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Life Gose On",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-09-05T10:41:19+00:00",
+    "serving": "draft",
+    "rating": 3.0,
+    "beer_name": "Let's Get Tropical",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "porter-and-sons",
+    "time": "2026-09-05T14:57:20+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "Twist & Stout",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-05T20:57:47+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Mc Chouffe",
+    "brewery": "Brasserie d'Achouffe",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-05T18:36:08+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "Penalty Hero",
+    "brewery": "HORIZONT Brewing",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-05T18:07:13+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Hazy Little Thing",
+    "brewery": "Sierra Nevada Brewing Co.",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-05T17:16:59+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Campanula",
+    "brewery": "Mortalis Brewing Company",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-05T16:50:12+00:00",
+    "serving": "bottle",
+    "rating": 4.25,
+    "beer_name": "Oude Pêche Jaune Tilquin à l'Ancienne (2022-2023)",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-05T15:40:56+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "Stout",
+    "brewery": "Tennent's Caledonian Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-05T14:20:11+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "Hokey Religion",
+    "brewery": "Emperor's Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "beerline",
+    "time": "2026-09-05T18:42:50+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Mongozo Coconut",
+    "brewery": "Mongozo",
     "beer_type": ""
   }
 ];
