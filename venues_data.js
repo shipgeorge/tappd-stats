@@ -1,6 +1,6 @@
 // 🍺 BEER STATS DATA - Generated automatically
-// Last updated: 2026-09-08 11:05:07
-// Total records: 21863
+// Last updated: 2026-09-09 11:09:52
+// Total records: 21958
 
 const BEER_DATA = [
   {
@@ -2967,20 +2967,20 @@ const BEER_DATA = [
   {
     "venue": "b7-beer-house",
     "time": "2026-05-29T08:42:24+00:00",
-    "serving": "draft",
-    "rating": 3.75,
-    "beer_name": "Prunes In Chocolate",
-    "brewery": "Radionov",
-    "beer_type": "Homebrew, Porter - Other"
-  },
-  {
-    "venue": "b7-beer-house",
-    "time": "2026-05-29T08:42:24+00:00",
     "serving": "can",
     "rating": 3.75,
     "beer_name": "Hop Elixir: Citra, Citra Hyperboost, Citra Cryo, Citra Dynaboost",
     "brewery": "Sibeeria Brewery",
     "beer_type": "IPA - Session New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T08:42:24+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Prunes In Chocolate",
+    "brewery": "Radionov",
+    "beer_type": "Homebrew, Porter - Other"
   },
   {
     "venue": "b7-beer-house",
@@ -9652,15 +9652,6 @@ const BEER_DATA = [
     "beer_type": "IPA - American"
   },
   {
-    "venue": "b7-beer-house",
-    "time": "2026-05-08T14:05:01+00:00",
-    "serving": "draft",
-    "rating": 4.0,
-    "beer_name": "Helix",
-    "brewery": "Equilibrium Brewery",
-    "beer_type": "Pilsner - German"
-  },
-  {
     "venue": "schnitt-brewing-company",
     "time": "2026-05-08T14:05:01+00:00",
     "serving": "Unknown",
@@ -9668,6 +9659,15 @@ const BEER_DATA = [
     "beer_name": "Cheers Alenbeer",
     "brewery": "Schnitt Brewing Company﻿",
     "beer_type": "IPA - Session"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-08T14:05:01+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Helix",
+    "brewery": "Equilibrium Brewery",
+    "beer_type": "Pilsner - German"
   },
   {
     "venue": "b7-beer-house",
@@ -196768,6 +196768,861 @@ const BEER_DATA = [
     "rating": 3.75,
     "beer_name": "India Pale Ale",
     "brewery": "Tennent's Caledonian Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-09-08T15:44:36+00:00",
+    "serving": "draft",
+    "rating": null,
+    "beer_name": "Slow And Steady",
+    "brewery": "Alexander (אלכסנדר)",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-09-08T15:42:44+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "שאגת העצלן",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-09-08T15:42:18+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Life Gose On",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-09-08T15:42:00+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "שיקוי",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-08T20:01:42+00:00",
+    "serving": "can",
+    "rating": 4.1,
+    "beer_name": "THIS KIHOSKH NEEDS AN EVEN EVEN MORE MORE MUCH MUCH BIGGER BIGGER BEER SELECTION",
+    "brewery": "Evil Twin Brewing NYC",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-08T19:28:44+00:00",
+    "serving": "can",
+    "rating": 3.8,
+    "beer_name": "Nebulous Trail",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-08T19:17:10+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "אם המבשלות",
+    "brewery": "BeerBazaar / Mivshelet Ha’Aretz",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-08T19:16:44+00:00",
+    "serving": "draft",
+    "rating": null,
+    "beer_name": "Easy Ride",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-08T19:16:30+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Elvis Juice 5.1%",
+    "brewery": "BrewDog",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-08T19:16:16+00:00",
+    "serving": "draft",
+    "rating": null,
+    "beer_name": "Bitburger 0,0% alkoholfreies Pils",
+    "brewery": "Bitburger Brauerei",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-08T18:53:06+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "MAKE IT FRUITY BLUEBERRY CONCORD GRAPE",
+    "brewery": "Evil Twin Brewing NYC",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-08T18:46:35+00:00",
+    "serving": "can",
+    "rating": 3.9,
+    "beer_name": "MAKE IT FRUITY BLUEBERRY CONCORD GRAPE",
+    "brewery": "Evil Twin Brewing NYC",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-08T18:21:40+00:00",
+    "serving": "can",
+    "rating": 3.8,
+    "beer_name": "LOL",
+    "brewery": "Evil Twin Brewing NYC",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-08T18:16:04+00:00",
+    "serving": "can",
+    "rating": 3.6,
+    "beer_name": "LOL",
+    "brewery": "Evil Twin Brewing NYC",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-08T17:58:45+00:00",
+    "serving": "can",
+    "rating": 4.5,
+    "beer_name": "Volfas Engelman Pink Lager",
+    "brewery": "Volfas Engelman",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-08T17:46:35+00:00",
+    "serving": "can",
+    "rating": 5.0,
+    "beer_name": "Hydra | Peach + Peach + Peach",
+    "brewery": "Mortalis Brewing Company",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-08T17:45:47+00:00",
+    "serving": "can",
+    "rating": 4.3,
+    "beer_name": "Hydra | Peach + Peach + Peach",
+    "brewery": "Mortalis Brewing Company",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-08T17:45:19+00:00",
+    "serving": "can",
+    "rating": 4.1,
+    "beer_name": "Hydra | Peach + Peach + Peach",
+    "brewery": "Mortalis Brewing Company",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-08T17:39:38+00:00",
+    "serving": "can",
+    "rating": 3.7,
+    "beer_name": "Volfas Engelman Pink Lager",
+    "brewery": "Volfas Engelman",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-08T17:28:03+00:00",
+    "serving": "can",
+    "rating": 3.4,
+    "beer_name": "HOPSTER Session IPA",
+    "brewery": "Volfas Engelman",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-08T17:27:43+00:00",
+    "serving": "draft",
+    "rating": null,
+    "beer_name": "Bitburger 0,0% alkoholfreies Pils",
+    "brewery": "Bitburger Brauerei",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-08T17:27:24+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Elvis Juice 5.1%",
+    "brewery": "BrewDog",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-08T17:27:06+00:00",
+    "serving": "draft",
+    "rating": null,
+    "beer_name": "Easy Ride",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-08T17:16:42+00:00",
+    "serving": "can",
+    "rating": 3.7,
+    "beer_name": "HOPSTER Session IPA",
+    "brewery": "Volfas Engelman",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-08T17:08:10+00:00",
+    "serving": "can",
+    "rating": 3.1,
+    "beer_name": "Volfas Engelman Pink Lager",
+    "brewery": "Volfas Engelman",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-08T17:06:38+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Penalty Hero",
+    "brewery": "HORIZONT Brewing",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-08T16:55:23+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Paleraiser",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-08T16:47:36+00:00",
+    "serving": "bottle",
+    "rating": 4.6,
+    "beer_name": "Classic Gueuze (2024)",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-08T16:46:12+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "Corner of George St. and Shawmut Road",
+    "brewery": "Evil Twin Brewing NYC",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-08T15:59:36+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "אם המבשלות",
+    "brewery": "BeerBazaar / Mivshelet Ha’Aretz",
+    "beer_type": ""
+  },
+  {
+    "venue": "porter-and-sons",
+    "time": "2026-09-08T18:22:50+00:00",
+    "serving": "draft",
+    "rating": 2.0,
+    "beer_name": "Caledonia IPA",
+    "brewery": "Tennent's Caledonian Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "porter-and-sons",
+    "time": "2026-09-08T18:07:57+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "La Trappe Quadrupel",
+    "brewery": "Bierbrouwerij de Koningshoeven",
+    "beer_type": ""
+  },
+  {
+    "venue": "porter-and-sons",
+    "time": "2026-09-08T17:48:01+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Hoegaarden Wit / Blanche",
+    "brewery": "Brouwerij Hoegaarden",
+    "beer_type": ""
+  },
+  {
+    "venue": "porter-and-sons",
+    "time": "2026-09-08T17:43:08+00:00",
+    "serving": "draft",
+    "rating": null,
+    "beer_name": "Guinness Draught",
+    "brewery": "Guinness",
+    "beer_type": ""
+  },
+  {
+    "venue": "porter-and-sons",
+    "time": "2026-09-08T17:42:20+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "NEIPA",
+    "brewery": "Volfas Engelman",
+    "beer_type": ""
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-09-08T22:38:28+00:00",
+    "serving": "draft",
+    "rating": 4.75,
+    "beer_name": "DemiHydra | Strawberry + Kiwi + Watermelon",
+    "brewery": "Mortalis Brewing Company",
+    "beer_type": ""
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-09-08T22:05:00+00:00",
+    "serving": "can",
+    "rating": 3.0,
+    "beer_name": "עלמה 2003 חיטה",
+    "brewery": "HaGibor Brewery (מבשלת הגיבור)",
+    "beer_type": ""
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-09-08T19:21:20+00:00",
+    "serving": "can",
+    "rating": 5.0,
+    "beer_name": "Ля Томатина Тайская",
+    "brewery": "Rewort Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-09-08T19:12:26+00:00",
+    "serving": "can",
+    "rating": 5.0,
+    "beer_name": "Ля Томатина Тайская",
+    "brewery": "Rewort Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-09-08T19:12:15+00:00",
+    "serving": "can",
+    "rating": 4.5,
+    "beer_name": "Ля Томатина Тайская",
+    "brewery": "Rewort Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-09-08T19:06:05+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "64 - Cerisepelette",
+    "brewery": "Tipsip Brewing",
+    "beer_type": ""
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-09-08T18:57:32+00:00",
+    "serving": "bottle",
+    "rating": 4.0,
+    "beer_name": "Xylocopa Cinnamon",
+    "brewery": "Goren's Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-09-08T18:56:55+00:00",
+    "serving": "bottle",
+    "rating": 4.5,
+    "beer_name": "Xylocopa Cinnamon",
+    "brewery": "Goren's Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-09-08T18:52:29+00:00",
+    "serving": "bottle",
+    "rating": 4.0,
+    "beer_name": "Xylocopa Cinnamon",
+    "brewery": "Goren's Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-09-08T18:50:03+00:00",
+    "serving": "bottle",
+    "rating": 3.0,
+    "beer_name": "Metheglin (Colombian Coffee)",
+    "brewery": "Mead in Israel",
+    "beer_type": ""
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-09-08T18:44:32+00:00",
+    "serving": "bottle",
+    "rating": 3.4,
+    "beer_name": "Metheglin (Colombian Coffee)",
+    "brewery": "Mead in Israel",
+    "beer_type": ""
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-09-08T18:43:03+00:00",
+    "serving": "bottle",
+    "rating": 4.5,
+    "beer_name": "Liberty 5th Anniversary (2026)",
+    "brewery": "PINTA Barrel Brewing",
+    "beer_type": ""
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-09-08T18:40:04+00:00",
+    "serving": "bottle",
+    "rating": 4.25,
+    "beer_name": "Liberty 5th Anniversary (2026)",
+    "brewery": "PINTA Barrel Brewing",
+    "beer_type": ""
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-09-08T18:37:25+00:00",
+    "serving": "bottle",
+    "rating": 2.5,
+    "beer_name": "Necessary Evil Single Malt English Whisky",
+    "brewery": "Thornbridge Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-09-08T18:37:14+00:00",
+    "serving": "bottle",
+    "rating": 4.25,
+    "beer_name": "Necessary Evil Single Malt English Whisky",
+    "brewery": "Thornbridge Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-09-08T18:36:21+00:00",
+    "serving": "bottle",
+    "rating": 4.1,
+    "beer_name": "Liberty 5th Anniversary (2026)",
+    "brewery": "PINTA Barrel Brewing",
+    "beer_type": ""
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-09-08T18:32:52+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "Cocobänger",
+    "brewery": "Põhjala",
+    "beer_type": ""
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-09-08T18:30:01+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Familiar Field",
+    "brewery": "The Old Familiar",
+    "beer_type": ""
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-09-08T18:26:30+00:00",
+    "serving": "can",
+    "rating": 2.75,
+    "beer_name": "Familiar Field",
+    "brewery": "The Old Familiar",
+    "beer_type": ""
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-09-08T18:24:08+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Familiar Field",
+    "brewery": "The Old Familiar",
+    "beer_type": ""
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-09-08T18:17:12+00:00",
+    "serving": "can",
+    "rating": 5.0,
+    "beer_name": "Mango X Grape X Pineapple X Banana X Ice Cream Smoothie Sour Ale",
+    "brewery": "Ārpus Brewing Co.",
+    "beer_type": ""
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-09-08T18:16:57+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Mango X Grape X Pineapple X Banana X Ice Cream Smoothie Sour Ale",
+    "brewery": "Ārpus Brewing Co.",
+    "beer_type": ""
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-09-08T18:15:56+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Confection (Vanilla, Chocolate, & Strawberry)",
+    "brewery": "Millpond Brewing",
+    "beer_type": ""
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-09-08T18:14:51+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Mango X Grape X Pineapple X Banana X Ice Cream Smoothie Sour Ale",
+    "brewery": "Ārpus Brewing Co.",
+    "beer_type": ""
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-09-08T18:12:59+00:00",
+    "serving": "can",
+    "rating": 4.5,
+    "beer_name": "Can of Whoop-Ass – FULLY LOADED",
+    "brewery": "Sudden Death Brewing Co.",
+    "beer_type": ""
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-09-08T18:12:41+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Can of Whoop-Ass – FULLY LOADED",
+    "brewery": "Sudden Death Brewing Co.",
+    "beer_type": ""
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-09-08T18:12:37+00:00",
+    "serving": "can",
+    "rating": 3.8,
+    "beer_name": "Confection (Vanilla, Chocolate, & Strawberry)",
+    "brewery": "Millpond Brewing",
+    "beer_type": ""
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-09-08T18:10:07+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Can of Whoop-Ass – FULLY LOADED",
+    "brewery": "Sudden Death Brewing Co.",
+    "beer_type": ""
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-09-08T18:08:19+00:00",
+    "serving": "can",
+    "rating": 4.5,
+    "beer_name": "Флаффик смузи: розовая гуава, клубника, черная смородина",
+    "brewery": "Black Cat Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-09-08T18:07:55+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Флаффик смузи: розовая гуава, клубника, черная смородина",
+    "brewery": "Black Cat Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-09-08T18:06:19+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Флаффик смузи: розовая гуава, клубника, черная смородина",
+    "brewery": "Black Cat Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-09-08T18:06:08+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "Culture Code: Pastila Cranberry | Культурный Код: Клюквенная Пастила",
+    "brewery": "Black Cat Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-09-08T18:03:33+00:00",
+    "serving": "can",
+    "rating": 4.7,
+    "beer_name": "Culture Code: Pastila Cranberry | Культурный Код: Клюквенная Пастила",
+    "brewery": "Black Cat Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-09-08T18:01:12+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "64 - Cerisepelette",
+    "brewery": "Tipsip Brewing",
+    "beer_type": ""
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-09-08T18:00:31+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "64 - Cerisepelette",
+    "brewery": "Tipsip Brewing",
+    "beer_type": ""
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-09-08T18:00:20+00:00",
+    "serving": "can",
+    "rating": 3.8,
+    "beer_name": "64 - Cerisepelette",
+    "brewery": "Tipsip Brewing",
+    "beer_type": ""
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-09-08T17:57:44+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "LEAF ME ALONE",
+    "brewery": "Evil Twin Brewing NYC",
+    "beer_type": ""
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-09-08T17:55:23+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "LEAF ME ALONE",
+    "brewery": "Evil Twin Brewing NYC",
+    "beer_type": ""
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-09-08T17:55:16+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "Трип: Санкт-Петербург",
+    "brewery": "Coma Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-09-08T17:54:12+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Трип: Санкт-Петербург",
+    "brewery": "Coma Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-09-08T17:53:43+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Трип: Санкт-Петербург",
+    "brewery": "Coma Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-09-08T17:53:12+00:00",
+    "serving": "can",
+    "rating": 3.9,
+    "beer_name": "LEAF ME ALONE",
+    "brewery": "Evil Twin Brewing NYC",
+    "beer_type": ""
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-09-08T17:48:07+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Echoes of Collapse",
+    "brewery": "Sudden Death Brewing Co.",
+    "beer_type": ""
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-09-08T17:47:53+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "Echoes of Collapse",
+    "brewery": "Sudden Death Brewing Co.",
+    "beer_type": ""
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-09-08T17:45:07+00:00",
+    "serving": "can",
+    "rating": 3.25,
+    "beer_name": "Gamma Ray",
+    "brewery": "Beavertown",
+    "beer_type": ""
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-09-08T17:43:13+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Gamma Ray",
+    "brewery": "Beavertown",
+    "beer_type": ""
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-09-08T17:42:22+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Neck Oil",
+    "brewery": "Beavertown",
+    "beer_type": ""
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-09-08T17:38:47+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Neck Oil",
+    "brewery": "Beavertown",
+    "beer_type": ""
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-09-08T17:36:14+00:00",
+    "serving": "bottle",
+    "rating": 3.25,
+    "beer_name": "Fournier Brut",
+    "brewery": "Fournier-Frères Producteurs-Eleveurs",
+    "beer_type": ""
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-09-08T17:34:26+00:00",
+    "serving": "bottle",
+    "rating": 3.6,
+    "beer_name": "Fournier Brut",
+    "brewery": "Fournier-Frères Producteurs-Eleveurs",
+    "beer_type": ""
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-09-08T17:33:08+00:00",
+    "serving": "bottle",
+    "rating": 2.75,
+    "beer_name": "OG Wheat Doublebock ( עוג חיטה דאבלבוק ענר בזלת)",
+    "brewery": "Golan Brewery (מבשלת הגולן)",
+    "beer_type": ""
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-09-08T17:32:48+00:00",
+    "serving": "bottle",
+    "rating": 3.3,
+    "beer_name": "OG Wheat Doublebock ( עוג חיטה דאבלבוק ענר בזלת)",
+    "brewery": "Golan Brewery (מבשלת הגולן)",
+    "beer_type": ""
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-09-08T17:32:13+00:00",
+    "serving": "bottle",
+    "rating": 2.0,
+    "beer_name": "OG Wheat Doublebock ( עוג חיטה דאבלבוק ענר בזלת)",
+    "brewery": "Golan Brewery (מבשלת הגולן)",
+    "beer_type": ""
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-09-08T17:29:36+00:00",
+    "serving": "draft",
+    "rating": 3.25,
+    "beer_name": "Yuzu Peel Infused Lambic",
+    "brewery": "Oud Beersel",
+    "beer_type": ""
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-09-08T17:28:32+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Kingfisher Strong",
+    "brewery": "United Breweries",
+    "beer_type": ""
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-09-08T17:27:20+00:00",
+    "serving": "can",
+    "rating": 3.0,
+    "beer_name": "Kingfisher Strong",
+    "brewery": "United Breweries",
+    "beer_type": ""
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-09-08T17:25:30+00:00",
+    "serving": "can",
+    "rating": 3.4,
+    "beer_name": "Kingfisher Strong",
+    "brewery": "United Breweries",
+    "beer_type": ""
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-09-08T17:24:56+00:00",
+    "serving": "can",
+    "rating": 3.25,
+    "beer_name": "עלמה 2003 חיטה",
+    "brewery": "HaGibor Brewery (מבשלת הגיבור)",
+    "beer_type": ""
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-09-08T17:23:45+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "עלמה 2003 חיטה",
+    "brewery": "HaGibor Brewery (מבשלת הגיבור)",
+    "beer_type": ""
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-09-08T12:24:24+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Smooth Night",
+    "brewery": "Rewort Brewery",
     "beer_type": ""
   }
 ];
