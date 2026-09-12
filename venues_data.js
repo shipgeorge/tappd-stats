@@ -1,6 +1,6 @@
 // 🍺 BEER STATS DATA - Generated automatically
-// Last updated: 2026-09-11 11:04:41
-// Total records: 22009
+// Last updated: 2026-09-12 10:33:22
+// Total records: 22014
 
 const BEER_DATA = [
   {
@@ -2967,20 +2967,20 @@ const BEER_DATA = [
   {
     "venue": "b7-beer-house",
     "time": "2026-05-29T08:42:24+00:00",
-    "serving": "can",
-    "rating": 3.75,
-    "beer_name": "Hop Elixir: Citra, Citra Hyperboost, Citra Cryo, Citra Dynaboost",
-    "brewery": "Sibeeria Brewery",
-    "beer_type": "IPA - Session New England / Hazy"
-  },
-  {
-    "venue": "b7-beer-house",
-    "time": "2026-05-29T08:42:24+00:00",
     "serving": "draft",
     "rating": 3.75,
     "beer_name": "Prunes In Chocolate",
     "brewery": "Radionov",
     "beer_type": "Homebrew, Porter - Other"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T08:42:24+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Hop Elixir: Citra, Citra Hyperboost, Citra Cryo, Citra Dynaboost",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": "IPA - Session New England / Hazy"
   },
   {
     "venue": "b7-beer-house",
@@ -9652,15 +9652,6 @@ const BEER_DATA = [
     "beer_type": "IPA - American"
   },
   {
-    "venue": "schnitt-brewing-company",
-    "time": "2026-05-08T14:05:01+00:00",
-    "serving": "Unknown",
-    "rating": 3.5,
-    "beer_name": "Cheers Alenbeer",
-    "brewery": "Schnitt Brewing Company﻿",
-    "beer_type": "IPA - Session"
-  },
-  {
     "venue": "b7-beer-house",
     "time": "2026-05-08T14:05:01+00:00",
     "serving": "draft",
@@ -9668,6 +9659,15 @@ const BEER_DATA = [
     "beer_name": "Helix",
     "brewery": "Equilibrium Brewery",
     "beer_type": "Pilsner - German"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-08T14:05:01+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "Cheers Alenbeer",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - Session"
   },
   {
     "venue": "b7-beer-house",
@@ -198082,6 +198082,51 @@ const BEER_DATA = [
     "rating": 3.75,
     "beer_name": "Mongozo Coconut",
     "brewery": "Mongozo",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-09-11T22:02:59+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "שאגת העצלן",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-09-11T12:25:35+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "עסק שחור",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-12T08:34:41+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "Mc Chouffe",
+    "brewery": "Brasserie d'Achouffe",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-12T08:34:17+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Hopangan",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-12T08:33:50+00:00",
+    "serving": "Unknown",
+    "rating": 3.25,
+    "beer_name": "הייזי שמייזי",
+    "brewery": "Herzl (הרצל)",
     "beer_type": ""
   }
 ];
