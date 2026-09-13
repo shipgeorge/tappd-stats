@@ -1,6 +1,6 @@
 // 🍺 BEER STATS DATA - Generated automatically
-// Last updated: 2026-09-12 10:33:22
-// Total records: 22014
+// Last updated: 2026-09-13 11:36:21
+// Total records: 22036
 
 const BEER_DATA = [
   {
@@ -2967,20 +2967,20 @@ const BEER_DATA = [
   {
     "venue": "b7-beer-house",
     "time": "2026-05-29T08:42:24+00:00",
-    "serving": "draft",
-    "rating": 3.75,
-    "beer_name": "Prunes In Chocolate",
-    "brewery": "Radionov",
-    "beer_type": "Homebrew, Porter - Other"
-  },
-  {
-    "venue": "b7-beer-house",
-    "time": "2026-05-29T08:42:24+00:00",
     "serving": "can",
     "rating": 3.75,
     "beer_name": "Hop Elixir: Citra, Citra Hyperboost, Citra Cryo, Citra Dynaboost",
     "brewery": "Sibeeria Brewery",
     "beer_type": "IPA - Session New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T08:42:24+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Prunes In Chocolate",
+    "brewery": "Radionov",
+    "beer_type": "Homebrew, Porter - Other"
   },
   {
     "venue": "b7-beer-house",
@@ -9652,15 +9652,6 @@ const BEER_DATA = [
     "beer_type": "IPA - American"
   },
   {
-    "venue": "b7-beer-house",
-    "time": "2026-05-08T14:05:01+00:00",
-    "serving": "draft",
-    "rating": 4.0,
-    "beer_name": "Helix",
-    "brewery": "Equilibrium Brewery",
-    "beer_type": "Pilsner - German"
-  },
-  {
     "venue": "schnitt-brewing-company",
     "time": "2026-05-08T14:05:01+00:00",
     "serving": "Unknown",
@@ -9668,6 +9659,15 @@ const BEER_DATA = [
     "beer_name": "Cheers Alenbeer",
     "brewery": "Schnitt Brewing Company﻿",
     "beer_type": "IPA - Session"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-08T14:05:01+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Helix",
+    "brewery": "Equilibrium Brewery",
+    "beer_type": "Pilsner - German"
   },
   {
     "venue": "b7-beer-house",
@@ -198127,6 +198127,204 @@ const BEER_DATA = [
     "rating": 3.25,
     "beer_name": "הייזי שמייזי",
     "brewery": "Herzl (הרצל)",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-09-13T11:07:13+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Kama Citra",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-09-13T10:58:23+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Kama Citra",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-09-12T15:18:00+00:00",
+    "serving": "draft",
+    "rating": 2.0,
+    "beer_name": "Let's Get Tropical",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-09-12T14:59:04+00:00",
+    "serving": "bottle",
+    "rating": 3.0,
+    "beer_name": "Mc Chouffe",
+    "brewery": "Brasserie d'Achouffe",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-09-12T14:31:06+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "נקטרון האלים",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-12T18:59:38+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Void Spawn",
+    "brewery": "HORIZONT Brewing",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-12T18:53:57+00:00",
+    "serving": "bottle",
+    "rating": 4.25,
+    "beer_name": "Northern Decadence (Cellar Series)",
+    "brewery": "Põhjala",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-12T18:52:38+00:00",
+    "serving": "bottle",
+    "rating": 4.5,
+    "beer_name": "Northern Decadence (Cellar Series)",
+    "brewery": "Põhjala",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-12T18:36:12+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "Anything Gose: Blood Orange",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-12T18:16:14+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "Yummy Blackcurrant, Prunes & Tonka",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-12T17:55:08+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Kosmos",
+    "brewery": "Põhjala",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-12T17:38:16+00:00",
+    "serving": "can",
+    "rating": 2.5,
+    "beer_name": "Kosmos",
+    "brewery": "Põhjala",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-12T17:34:21+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Void Spawn",
+    "brewery": "HORIZONT Brewing",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-12T17:00:35+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "IPA",
+    "brewery": "מלכת העמק",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-12T16:56:41+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Void Spawn",
+    "brewery": "HORIZONT Brewing",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-12T16:47:01+00:00",
+    "serving": "can",
+    "rating": 4.75,
+    "beer_name": "Star Light",
+    "brewery": "Equilibrium Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-12T16:18:58+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Staropramen Premium / Ležák 12",
+    "brewery": "Pivovary Staropramen",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-12T15:54:39+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "שנה טובה כפרה",
+    "brewery": "Herzl (הרצל)",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-12T15:49:11+00:00",
+    "serving": "draft",
+    "rating": 3.25,
+    "beer_name": "Elvis Juice 5.1%",
+    "brewery": "BrewDog",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-12T14:45:43+00:00",
+    "serving": "draft",
+    "rating": 3.0,
+    "beer_name": "Elvis Juice 5.1%",
+    "brewery": "BrewDog",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-12T14:44:11+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Mc Chouffe",
+    "brewery": "Brasserie d'Achouffe",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-12T14:42:54+00:00",
+    "serving": "draft",
+    "rating": 3.25,
+    "beer_name": "שיקוי",
+    "brewery": "Schnitt Brewing Company﻿",
     "beer_type": ""
   }
 ];
