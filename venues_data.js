@@ -1,6 +1,6 @@
 // 🍺 BEER STATS DATA - Generated automatically
-// Last updated: 2026-09-15 11:33:47
-// Total records: 22072
+// Last updated: 2026-09-16 11:20:55
+// Total records: 22091
 
 const BEER_DATA = [
   {
@@ -2967,20 +2967,20 @@ const BEER_DATA = [
   {
     "venue": "b7-beer-house",
     "time": "2026-05-29T08:42:24+00:00",
-    "serving": "can",
-    "rating": 3.75,
-    "beer_name": "Hop Elixir: Citra, Citra Hyperboost, Citra Cryo, Citra Dynaboost",
-    "brewery": "Sibeeria Brewery",
-    "beer_type": "IPA - Session New England / Hazy"
-  },
-  {
-    "venue": "b7-beer-house",
-    "time": "2026-05-29T08:42:24+00:00",
     "serving": "draft",
     "rating": 3.75,
     "beer_name": "Prunes In Chocolate",
     "brewery": "Radionov",
     "beer_type": "Homebrew, Porter - Other"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T08:42:24+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Hop Elixir: Citra, Citra Hyperboost, Citra Cryo, Citra Dynaboost",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": "IPA - Session New England / Hazy"
   },
   {
     "venue": "b7-beer-house",
@@ -9652,15 +9652,6 @@ const BEER_DATA = [
     "beer_type": "IPA - American"
   },
   {
-    "venue": "schnitt-brewing-company",
-    "time": "2026-05-08T14:05:01+00:00",
-    "serving": "Unknown",
-    "rating": 3.5,
-    "beer_name": "Cheers Alenbeer",
-    "brewery": "Schnitt Brewing Company﻿",
-    "beer_type": "IPA - Session"
-  },
-  {
     "venue": "b7-beer-house",
     "time": "2026-05-08T14:05:01+00:00",
     "serving": "draft",
@@ -9668,6 +9659,15 @@ const BEER_DATA = [
     "beer_name": "Helix",
     "brewery": "Equilibrium Brewery",
     "beer_type": "Pilsner - German"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-08T14:05:01+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "Cheers Alenbeer",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - Session"
   },
   {
     "venue": "b7-beer-house",
@@ -198649,6 +198649,177 @@ const BEER_DATA = [
     "rating": null,
     "beer_name": "שנה טובה כפרה",
     "brewery": "Herzl (הרצל)",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-15T19:22:07+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Anything Gose: Blood Orange",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-15T18:03:11+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Anything Gose: Blood Orange",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-15T17:31:52+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "Baltic Porter Day 2026",
+    "brewery": "Põhjala",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-15T17:28:52+00:00",
+    "serving": "bottle",
+    "rating": 4.25,
+    "beer_name": "Cocobänger",
+    "brewery": "Põhjala",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-15T16:44:01+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "אם המבשלות",
+    "brewery": "BeerBazaar / Mivshelet Ha’Aretz",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-09-15T17:43:39+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Hopangan",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-09-15T17:42:59+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "הפילס שבחדר the Pils In the Room",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-09-15T17:42:31+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Muuumbai",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-09-15T14:15:29+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "נקטרון האלים",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-09-15T14:11:21+00:00",
+    "serving": "draft",
+    "rating": 3.25,
+    "beer_name": "שאגת העצלן",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-09-15T14:06:41+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Sun Drip",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-09-15T14:04:55+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "עסק שחור",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-09-15T13:26:02+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Sun Drip",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-09-15T13:12:12+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "Sessionista",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-09-15T13:12:08+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "Sessionista",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-09-15T12:33:01+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "Sun Drip",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-09-15T12:30:35+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Sun Drip",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-09-15T12:29:15+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Hopangan",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "beerline",
+    "time": "2026-09-15T14:20:23+00:00",
+    "serving": "Unknown",
+    "rating": 4.5,
+    "beer_name": "Mongozo Coconut",
+    "brewery": "Mongozo",
     "beer_type": ""
   }
 ];
