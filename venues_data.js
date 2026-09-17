@@ -1,6 +1,6 @@
 // 🍺 BEER STATS DATA - Generated automatically
-// Last updated: 2026-09-16 11:20:55
-// Total records: 22091
+// Last updated: 2026-09-17 11:29:24
+// Total records: 22262
 
 const BEER_DATA = [
   {
@@ -2967,20 +2967,20 @@ const BEER_DATA = [
   {
     "venue": "b7-beer-house",
     "time": "2026-05-29T08:42:24+00:00",
-    "serving": "draft",
-    "rating": 3.75,
-    "beer_name": "Prunes In Chocolate",
-    "brewery": "Radionov",
-    "beer_type": "Homebrew, Porter - Other"
-  },
-  {
-    "venue": "b7-beer-house",
-    "time": "2026-05-29T08:42:24+00:00",
     "serving": "can",
     "rating": 3.75,
     "beer_name": "Hop Elixir: Citra, Citra Hyperboost, Citra Cryo, Citra Dynaboost",
     "brewery": "Sibeeria Brewery",
     "beer_type": "IPA - Session New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T08:42:24+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Prunes In Chocolate",
+    "brewery": "Radionov",
+    "beer_type": "Homebrew, Porter - Other"
   },
   {
     "venue": "b7-beer-house",
@@ -9652,15 +9652,6 @@ const BEER_DATA = [
     "beer_type": "IPA - American"
   },
   {
-    "venue": "b7-beer-house",
-    "time": "2026-05-08T14:05:01+00:00",
-    "serving": "draft",
-    "rating": 4.0,
-    "beer_name": "Helix",
-    "brewery": "Equilibrium Brewery",
-    "beer_type": "Pilsner - German"
-  },
-  {
     "venue": "schnitt-brewing-company",
     "time": "2026-05-08T14:05:01+00:00",
     "serving": "Unknown",
@@ -9668,6 +9659,15 @@ const BEER_DATA = [
     "beer_name": "Cheers Alenbeer",
     "brewery": "Schnitt Brewing Company﻿",
     "beer_type": "IPA - Session"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-08T14:05:01+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Helix",
+    "brewery": "Equilibrium Brewery",
+    "beer_type": "Pilsner - German"
   },
   {
     "venue": "b7-beer-house",
@@ -198820,6 +198820,1545 @@ const BEER_DATA = [
     "rating": 4.5,
     "beer_name": "Mongozo Coconut",
     "brewery": "Mongozo",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-09-16T19:01:35+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "עסק שחור",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-09-16T19:00:14+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "Twist & Stout",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-09-16T18:17:14+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "Sessionista",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-09-16T17:54:12+00:00",
+    "serving": "draft",
+    "rating": null,
+    "beer_name": "Anything Gose: Blood Orange",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-09-16T17:50:51+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Green (גרין)",
+    "brewery": "Alexander (אלכסנדר)",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-09-16T17:25:55+00:00",
+    "serving": "Unknown",
+    "rating": 4.25,
+    "beer_name": "נקטרון האלים",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-09-16T15:03:10+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "נקטרון האלים",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-09-16T14:53:58+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "נקטרון האלים",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-09-16T14:24:19+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "עסק שחור",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-09-16T13:42:12+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Sessionista",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-09-16T20:16:17+00:00",
+    "serving": "bottle",
+    "rating": 3.75,
+    "beer_name": "Öö Raspberry",
+    "brewery": "Põhjala",
+    "beer_type": ""
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-09-16T19:51:59+00:00",
+    "serving": "can",
+    "rating": 3.25,
+    "beer_name": "Anything Gose: Blood Orange",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-09-16T19:19:28+00:00",
+    "serving": "bottle",
+    "rating": 4.25,
+    "beer_name": "Pime Öö PX (Cellar Series)",
+    "brewery": "Põhjala",
+    "beer_type": ""
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-09-16T19:19:27+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "חוה",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-09-16T18:00:12+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "חלוץ תחת אש",
+    "brewery": "New Pioneer Brewing Co - חלוץ חדש",
+    "beer_type": ""
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-09-16T17:27:21+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Sun Drip",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-09-16T13:59:53+00:00",
+    "serving": "Unknown",
+    "rating": 3.8,
+    "beer_name": "Sun Drip",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "beerline",
+    "time": "2026-09-17T10:44:57+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Öö Raspberry",
+    "brewery": "Põhjala",
+    "beer_type": ""
+  },
+  {
+    "venue": "beerline",
+    "time": "2026-09-17T10:42:50+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "Pime Öö PX (Cellar Series)",
+    "brewery": "Põhjala",
+    "beer_type": ""
+  },
+  {
+    "venue": "beerline",
+    "time": "2026-09-17T10:36:29+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Kosmos",
+    "brewery": "Põhjala",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-16T22:34:46+00:00",
+    "serving": "bottle",
+    "rating": 3.9,
+    "beer_name": "Baltic Porter Day 2026",
+    "brewery": "Põhjala",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-16T22:33:43+00:00",
+    "serving": "bottle",
+    "rating": 3.5,
+    "beer_name": "Öö Raspberry",
+    "brewery": "Põhjala",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-16T22:33:22+00:00",
+    "serving": "can",
+    "rating": 3.0,
+    "beer_name": "Wild Thyme Saison - Vintage 2023",
+    "brewery": "Kykao - Handcrafted",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-16T22:32:28+00:00",
+    "serving": "can",
+    "rating": 3.9,
+    "beer_name": "Dr. Haze",
+    "brewery": "Strange Brew",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-16T22:31:10+00:00",
+    "serving": "can",
+    "rating": 3.7,
+    "beer_name": "Wild Thyme Saison - Vintage 2023",
+    "brewery": "Kykao - Handcrafted",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-16T22:28:02+00:00",
+    "serving": "can",
+    "rating": 4.7,
+    "beer_name": "Stoopid Spaceshake",
+    "brewery": "Vault City Brewing",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-16T22:27:07+00:00",
+    "serving": "can",
+    "rating": null,
+    "beer_name": "WILL IT FLOAT #22",
+    "brewery": "White Dog Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-16T22:25:14+00:00",
+    "serving": "can",
+    "rating": 4.2,
+    "beer_name": "Hazelnut X Vanilla X Coffee Ice Cream Stout",
+    "brewery": "Ārpus Brewing Co.",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-16T22:23:27+00:00",
+    "serving": "can",
+    "rating": 5.0,
+    "beer_name": "P(doom)2 - Chocolate, Caramel & Peanut Butter",
+    "brewery": "Azvex Brewing Company",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-16T22:22:13+00:00",
+    "serving": "can",
+    "rating": 4.8,
+    "beer_name": "Scale of Worlds (SWIRL)",
+    "brewery": "Elmeleven",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-16T22:18:44+00:00",
+    "serving": "can",
+    "rating": 4.3,
+    "beer_name": "Tau",
+    "brewery": "Beak",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-16T22:17:25+00:00",
+    "serving": "can",
+    "rating": 3.9,
+    "beer_name": "Stoopid AF",
+    "brewery": "Vault City Brewing",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-16T22:15:28+00:00",
+    "serving": "can",
+    "rating": 4.1,
+    "beer_name": "Bake-Off: Cranachan",
+    "brewery": "Vault City Brewing",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-16T22:14:16+00:00",
+    "serving": "can",
+    "rating": 4.2,
+    "beer_name": "Bake-Off: Matcha Mochi",
+    "brewery": "Vault City Brewing",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-16T22:12:34+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Bake-Off: NY Cheesecake",
+    "brewery": "Vault City Brewing",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-16T22:10:59+00:00",
+    "serving": "can",
+    "rating": 4.3,
+    "beer_name": "Year 6 - Mango Banana Coconut Crumble Cake",
+    "brewery": "Vault City Brewing",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-16T20:11:47+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "ISN’T BROOKLYN A LITTLE SKETCHY? WHY WOULD YOU LIVE THERE?",
+    "brewery": "Evil Twin Brewing NYC",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-16T19:44:01+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Baltic Porter Day 2026",
+    "brewery": "Põhjala",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-16T19:36:30+00:00",
+    "serving": "can",
+    "rating": 3.25,
+    "beer_name": "Arct IPA Citra, Mosaic, Equanot, Chinook",
+    "brewery": "Maryensztadt",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-16T19:08:56+00:00",
+    "serving": "bottle",
+    "rating": null,
+    "beer_name": "Framboos (2022)",
+    "brewery": "Boerenerf",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-16T19:08:12+00:00",
+    "serving": "bottle",
+    "rating": 4.0,
+    "beer_name": "Framboos (2022)",
+    "brewery": "Boerenerf",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-16T18:47:55+00:00",
+    "serving": "bottle",
+    "rating": 2.5,
+    "beer_name": "Öö Raspberry",
+    "brewery": "Põhjala",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-16T18:47:53+00:00",
+    "serving": "bottle",
+    "rating": 3.5,
+    "beer_name": "Öö Raspberry",
+    "brewery": "Põhjala",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-16T18:32:08+00:00",
+    "serving": "draft",
+    "rating": 3.25,
+    "beer_name": "Anything Gose: Blood Orange",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-16T18:26:27+00:00",
+    "serving": "bottle",
+    "rating": 3.5,
+    "beer_name": "עסק שחור",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-16T18:19:07+00:00",
+    "serving": "draft",
+    "rating": null,
+    "beer_name": "Kama Citra",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-16T18:11:03+00:00",
+    "serving": "bottle",
+    "rating": 4.0,
+    "beer_name": "Framboos (2022)",
+    "brewery": "Boerenerf",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-16T18:01:02+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "Dr. Haze",
+    "brewery": "Strange Brew",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-16T18:00:58+00:00",
+    "serving": "Unknown",
+    "rating": 1.5,
+    "beer_name": "Dr. Haze",
+    "brewery": "Strange Brew",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-16T18:00:46+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Dr. Haze",
+    "brewery": "Strange Brew",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-16T18:00:06+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Dr. Haze",
+    "brewery": "Strange Brew",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-16T17:59:48+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "Dr. Haze",
+    "brewery": "Strange Brew",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-16T17:57:32+00:00",
+    "serving": "bottle",
+    "rating": 3.0,
+    "beer_name": "Wild Thyme Saison - Vintage 2023",
+    "brewery": "Kykao - Handcrafted",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-16T17:56:55+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "Dr. Haze",
+    "brewery": "Strange Brew",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-16T17:56:50+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "Wild Thyme Saison - Vintage 2022",
+    "brewery": "Kykao - Handcrafted",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-16T17:56:16+00:00",
+    "serving": "can",
+    "rating": 5.0,
+    "beer_name": "P(doom)2 - Chocolate, Caramel & Peanut Butter",
+    "brewery": "Azvex Brewing Company",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-16T17:55:33+00:00",
+    "serving": "can",
+    "rating": 3.0,
+    "beer_name": "Wild Thyme Saison - Vintage 2022",
+    "brewery": "Kykao - Handcrafted",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-16T17:55:19+00:00",
+    "serving": "can",
+    "rating": 3.0,
+    "beer_name": "Wild Thyme Saison - Vintage 2023",
+    "brewery": "Kykao - Handcrafted",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-16T17:55:11+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Wild Thyme Saison - Vintage 2022",
+    "brewery": "Kykao - Handcrafted",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-16T17:54:00+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "P(doom)2 - Chocolate, Caramel & Peanut Butter",
+    "brewery": "Azvex Brewing Company",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-16T17:51:52+00:00",
+    "serving": "Unknown",
+    "rating": 5.0,
+    "beer_name": "P(doom)2 - Chocolate, Caramel & Peanut Butter",
+    "brewery": "Azvex Brewing Company",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-16T17:51:42+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "P(doom)2 - Chocolate, Caramel & Peanut Butter",
+    "brewery": "Azvex Brewing Company",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-16T17:51:38+00:00",
+    "serving": "can",
+    "rating": null,
+    "beer_name": "P(doom)2 - Chocolate, Caramel & Peanut Butter",
+    "brewery": "Azvex Brewing Company",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-16T17:51:03+00:00",
+    "serving": "can",
+    "rating": 2.5,
+    "beer_name": "P(doom)2 - Chocolate, Caramel & Peanut Butter",
+    "brewery": "Azvex Brewing Company",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-16T17:50:52+00:00",
+    "serving": "can",
+    "rating": 4.5,
+    "beer_name": "P(doom)2 - Chocolate, Caramel & Peanut Butter",
+    "brewery": "Azvex Brewing Company",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-16T17:44:43+00:00",
+    "serving": "can",
+    "rating": null,
+    "beer_name": "Hazelnut X Vanilla X Coffee Ice Cream Stout",
+    "brewery": "Ārpus Brewing Co.",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-16T17:44:40+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Hazelnut X Vanilla X Coffee Ice Cream Stout",
+    "brewery": "Ārpus Brewing Co.",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-16T17:44:40+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Hazelnut X Vanilla X Coffee Ice Cream Stout",
+    "brewery": "Ārpus Brewing Co.",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-16T17:44:35+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Hazelnut X Vanilla X Coffee Ice Cream Stout",
+    "brewery": "Ārpus Brewing Co.",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-16T17:44:05+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Hazelnut X Vanilla X Coffee Ice Cream Stout",
+    "brewery": "Ārpus Brewing Co.",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-16T17:43:37+00:00",
+    "serving": "can",
+    "rating": 4.5,
+    "beer_name": "Hazelnut X Vanilla X Coffee Ice Cream Stout",
+    "brewery": "Ārpus Brewing Co.",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-16T17:39:21+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "WILL IT FLOAT #22",
+    "brewery": "White Dog Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-16T17:39:15+00:00",
+    "serving": "can",
+    "rating": null,
+    "beer_name": "WILL IT FLOAT #22",
+    "brewery": "White Dog Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-16T17:39:10+00:00",
+    "serving": "can",
+    "rating": 2.25,
+    "beer_name": "WILL IT FLOAT #22",
+    "brewery": "White Dog Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-16T17:38:38+00:00",
+    "serving": "can",
+    "rating": 1.5,
+    "beer_name": "WILL IT FLOAT #22",
+    "brewery": "White Dog Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-16T17:38:26+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "WILL IT FLOAT #22",
+    "brewery": "White Dog Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-16T17:38:18+00:00",
+    "serving": "Unknown",
+    "rating": 1.5,
+    "beer_name": "WILL IT FLOAT #22",
+    "brewery": "White Dog Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-16T17:38:05+00:00",
+    "serving": "can",
+    "rating": 3.0,
+    "beer_name": "WILL IT FLOAT #22",
+    "brewery": "White Dog Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-16T17:35:07+00:00",
+    "serving": "Unknown",
+    "rating": 4.75,
+    "beer_name": "Bake-Off: NY Cheesecake",
+    "brewery": "Vault City Brewing",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-16T17:34:44+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Bake-Off: NY Cheesecake",
+    "brewery": "Vault City Brewing",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-16T17:34:34+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "Bake-Off: NY Cheesecake",
+    "brewery": "Vault City Brewing",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-16T17:34:32+00:00",
+    "serving": "can",
+    "rating": 4.5,
+    "beer_name": "Bake-Off: NY Cheesecake",
+    "brewery": "Vault City Brewing",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-16T17:34:00+00:00",
+    "serving": "can",
+    "rating": 3.0,
+    "beer_name": "Bake-Off: NY Cheesecake",
+    "brewery": "Vault City Brewing",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-16T17:33:31+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Bake-Off: NY Cheesecake",
+    "brewery": "Vault City Brewing",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-16T17:33:13+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Bake-Off: NY Cheesecake",
+    "brewery": "Vault City Brewing",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-16T17:32:56+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Stoopid Spaceshake",
+    "brewery": "Vault City Brewing",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-16T17:28:21+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "Stoopid Spaceshake",
+    "brewery": "Vault City Brewing",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-16T17:28:16+00:00",
+    "serving": "can",
+    "rating": null,
+    "beer_name": "Stoopid Spaceshake",
+    "brewery": "Vault City Brewing",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-16T17:27:35+00:00",
+    "serving": "can",
+    "rating": 1.75,
+    "beer_name": "Stoopid Spaceshake",
+    "brewery": "Vault City Brewing",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-16T17:27:34+00:00",
+    "serving": "Unknown",
+    "rating": 4.75,
+    "beer_name": "Stoopid Spaceshake",
+    "brewery": "Vault City Brewing",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-16T17:27:26+00:00",
+    "serving": "can",
+    "rating": 4.5,
+    "beer_name": "Stoopid Spaceshake",
+    "brewery": "Vault City Brewing",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-16T17:27:20+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Stoopid Spaceshake",
+    "brewery": "Vault City Brewing",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-16T17:27:08+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "Stoopid Spaceshake",
+    "brewery": "Vault City Brewing",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-16T17:25:53+00:00",
+    "serving": "Unknown",
+    "rating": 4.75,
+    "beer_name": "Bake-Off: Cranachan",
+    "brewery": "Vault City Brewing",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-16T17:25:27+00:00",
+    "serving": "can",
+    "rating": 5.0,
+    "beer_name": "Bake-Off: Cranachan",
+    "brewery": "Vault City Brewing",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-16T17:24:09+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Bake-Off: Cranachan",
+    "brewery": "Vault City Brewing",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-16T17:24:08+00:00",
+    "serving": "can",
+    "rating": null,
+    "beer_name": "Bake-Off: Cranachan",
+    "brewery": "Vault City Brewing",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-16T17:23:36+00:00",
+    "serving": "can",
+    "rating": 2.75,
+    "beer_name": "Bake-Off: Cranachan",
+    "brewery": "Vault City Brewing",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-16T17:23:33+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "Bake-Off: Cranachan",
+    "brewery": "Vault City Brewing",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-16T17:23:19+00:00",
+    "serving": "can",
+    "rating": 4.75,
+    "beer_name": "Bake-Off: Cranachan",
+    "brewery": "Vault City Brewing",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-16T17:19:33+00:00",
+    "serving": "can",
+    "rating": 4.75,
+    "beer_name": "MANA - Peach, Apricot & Coconut",
+    "brewery": "Azvex Brewing Company",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-16T17:19:26+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "MANA - Peach, Apricot & Coconut",
+    "brewery": "Azvex Brewing Company",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-16T17:19:07+00:00",
+    "serving": "can",
+    "rating": null,
+    "beer_name": "MANA - Peach, Apricot & Coconut",
+    "brewery": "Azvex Brewing Company",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-16T17:19:01+00:00",
+    "serving": "Unknown",
+    "rating": 4.5,
+    "beer_name": "MANA - Peach, Apricot & Coconut",
+    "brewery": "Azvex Brewing Company",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-16T17:18:20+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "MANA - Peach, Apricot & Coconut",
+    "brewery": "Azvex Brewing Company",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-16T17:18:20+00:00",
+    "serving": "can",
+    "rating": 4.5,
+    "beer_name": "MANA - Peach, Apricot & Coconut",
+    "brewery": "Azvex Brewing Company",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-16T17:17:42+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "MANA - Peach, Apricot & Coconut",
+    "brewery": "Azvex Brewing Company",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-16T17:14:10+00:00",
+    "serving": "Unknown",
+    "rating": 2.25,
+    "beer_name": "Stoopid AF",
+    "brewery": "Vault City Brewing",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-16T17:13:06+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Stoopid AF",
+    "brewery": "Vault City Brewing",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-16T17:13:06+00:00",
+    "serving": "can",
+    "rating": null,
+    "beer_name": "Stoopid AF",
+    "brewery": "Vault City Brewing",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-16T17:12:54+00:00",
+    "serving": "Unknown",
+    "rating": 3.0,
+    "beer_name": "Stoopid AF",
+    "brewery": "Vault City Brewing",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-16T17:11:56+00:00",
+    "serving": "can",
+    "rating": 1.5,
+    "beer_name": "Stoopid AF",
+    "brewery": "Vault City Brewing",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-16T17:11:52+00:00",
+    "serving": "can",
+    "rating": 2.25,
+    "beer_name": "Stoopid AF",
+    "brewery": "Vault City Brewing",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-16T17:11:33+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Stoopid AF",
+    "brewery": "Vault City Brewing",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-16T17:11:11+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Stoopid AF",
+    "brewery": "Vault City Brewing",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-16T17:07:26+00:00",
+    "serving": "can",
+    "rating": null,
+    "beer_name": "Tau",
+    "brewery": "Beak",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-16T17:07:23+00:00",
+    "serving": "can",
+    "rating": 4.5,
+    "beer_name": "Tau",
+    "brewery": "Beak",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-16T17:07:00+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Tau",
+    "brewery": "Beak",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-16T17:06:57+00:00",
+    "serving": "can",
+    "rating": 2.75,
+    "beer_name": "Tau",
+    "brewery": "Beak",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-16T17:06:24+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Tau",
+    "brewery": "Beak",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-16T17:04:48+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "Tau",
+    "brewery": "Beak",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-16T17:03:23+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Tau",
+    "brewery": "Beak",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-16T17:02:03+00:00",
+    "serving": "Unknown",
+    "rating": 2.75,
+    "beer_name": "Slow And Steady",
+    "brewery": "Alexander (אלכסנדר)",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-16T17:00:26+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "Kama Citra",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-16T17:00:23+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "Bake-Off: Matcha Mochi",
+    "brewery": "Vault City Brewing",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-16T17:00:22+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Bake-Off: Matcha Mochi",
+    "brewery": "Vault City Brewing",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-16T17:00:14+00:00",
+    "serving": "Unknown",
+    "rating": 2.75,
+    "beer_name": "Bake-Off: Matcha Mochi",
+    "brewery": "Vault City Brewing",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-16T17:00:02+00:00",
+    "serving": "can",
+    "rating": 4.5,
+    "beer_name": "Bake-Off: Matcha Mochi",
+    "brewery": "Vault City Brewing",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-16T16:59:46+00:00",
+    "serving": "can",
+    "rating": null,
+    "beer_name": "Bake-Off: Matcha Mochi",
+    "brewery": "Vault City Brewing",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-16T16:59:14+00:00",
+    "serving": "draft",
+    "rating": 3.25,
+    "beer_name": "IPA",
+    "brewery": "מלכת העמק",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-16T16:59:03+00:00",
+    "serving": "can",
+    "rating": 2.0,
+    "beer_name": "Bake-Off: Matcha Mochi",
+    "brewery": "Vault City Brewing",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-16T16:58:45+00:00",
+    "serving": "draft",
+    "rating": 3.25,
+    "beer_name": "Slow And Steady",
+    "brewery": "Alexander (אלכסנדר)",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-16T16:58:32+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Bake-Off: Matcha Mochi",
+    "brewery": "Vault City Brewing",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-16T16:58:11+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Bake-Off: Matcha Mochi",
+    "brewery": "Vault City Brewing",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-16T16:55:23+00:00",
+    "serving": "can",
+    "rating": 4.5,
+    "beer_name": "Scale of Worlds (SWIRL)",
+    "brewery": "Elmeleven",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-16T16:54:07+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Scale of Worlds (SWIRL)",
+    "brewery": "Elmeleven",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-16T16:53:23+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Scale of Worlds (SWIRL)",
+    "brewery": "Elmeleven",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-16T16:53:10+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Scale of Worlds (SWIRL)",
+    "brewery": "Elmeleven",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-16T16:52:16+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Scale of Worlds (SWIRL)",
+    "brewery": "Elmeleven",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-16T16:48:09+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Year 6 - Mango Banana Coconut Crumble Cake",
+    "brewery": "Vault City Brewing",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-16T16:46:29+00:00",
+    "serving": "can",
+    "rating": null,
+    "beer_name": "Year 6 - Mango Banana Coconut Crumble Cake",
+    "brewery": "Vault City Brewing",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-16T16:46:27+00:00",
+    "serving": "can",
+    "rating": 4.5,
+    "beer_name": "Year 6 - Mango Banana Coconut Crumble Cake",
+    "brewery": "Vault City Brewing",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-16T16:46:14+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Year 6 - Mango Banana Coconut Crumble Cake",
+    "brewery": "Vault City Brewing",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-16T16:46:09+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "Year 6 - Mango Banana Coconut Crumble Cake",
+    "brewery": "Vault City Brewing",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-16T16:46:05+00:00",
+    "serving": "Unknown",
+    "rating": 2.5,
+    "beer_name": "Year 6 - Mango Banana Coconut Crumble Cake",
+    "brewery": "Vault City Brewing",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-16T16:45:39+00:00",
+    "serving": "draft",
+    "rating": 3.0,
+    "beer_name": "עסק שחור",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-16T16:43:06+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Sun Drip",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-16T16:33:43+00:00",
+    "serving": "draft",
+    "rating": null,
+    "beer_name": "Shadowfarer",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-16T16:24:02+00:00",
+    "serving": "draft",
+    "rating": 2.75,
+    "beer_name": "Sun Drip",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-16T16:19:19+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Stout",
+    "brewery": "Tennent's Caledonian Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-16T16:18:24+00:00",
+    "serving": "draft",
+    "rating": 2.75,
+    "beer_name": "שיקוי",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-16T16:17:52+00:00",
+    "serving": "draft",
+    "rating": null,
+    "beer_name": "Gueuze Tilquin – Draft Version",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-16T16:17:18+00:00",
+    "serving": "Unknown",
+    "rating": 3.25,
+    "beer_name": "Paleraiser",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-16T16:15:12+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "Stout",
+    "brewery": "Tennent's Caledonian Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-16T16:07:18+00:00",
+    "serving": "draft",
+    "rating": 4.5,
+    "beer_name": "Gueuze Tilquin – Draft Version",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-16T16:04:33+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "Kama Citra",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-16T16:03:36+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Slow And Steady",
+    "brewery": "Alexander (אלכסנדר)",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-16T16:03:30+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "Kama Citra",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-16T16:00:57+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Slow And Steady",
+    "brewery": "Alexander (אלכסנדר)",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-16T16:00:01+00:00",
+    "serving": "draft",
+    "rating": 3.0,
+    "beer_name": "שיקוי",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-16T15:57:56+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "עסק שחור",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-16T15:57:42+00:00",
+    "serving": "draft",
+    "rating": 4.5,
+    "beer_name": "עסק שחור",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-16T15:57:18+00:00",
+    "serving": "draft",
+    "rating": 3.25,
+    "beer_name": "Sun Drip",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-16T15:54:20+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "IPA",
+    "brewery": "מלכת העמק",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-16T15:54:05+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Anything Gose: Blood Orange",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-16T15:53:53+00:00",
+    "serving": "draft",
+    "rating": 4.5,
+    "beer_name": "עסק שחור",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-16T15:53:44+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Anything Gose: Blood Orange",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-16T15:53:39+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "IPA",
+    "brewery": "מלכת העמק",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-16T15:53:10+00:00",
+    "serving": "draft",
+    "rating": 4.5,
+    "beer_name": "עסק שחור",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-16T15:33:18+00:00",
+    "serving": "draft",
+    "rating": 4.5,
+    "beer_name": "עסק שחור",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-16T15:09:21+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Sun Drip",
+    "brewery": "Schnitt Brewing Company﻿",
     "beer_type": ""
   }
 ];
