@@ -1,6 +1,6 @@
 // 🍺 BEER STATS DATA - Generated automatically
-// Last updated: 2026-09-17 11:29:24
-// Total records: 22262
+// Last updated: 2026-09-18 11:02:15
+// Total records: 22322
 
 const BEER_DATA = [
   {
@@ -2967,20 +2967,20 @@ const BEER_DATA = [
   {
     "venue": "b7-beer-house",
     "time": "2026-05-29T08:42:24+00:00",
-    "serving": "can",
-    "rating": 3.75,
-    "beer_name": "Hop Elixir: Citra, Citra Hyperboost, Citra Cryo, Citra Dynaboost",
-    "brewery": "Sibeeria Brewery",
-    "beer_type": "IPA - Session New England / Hazy"
-  },
-  {
-    "venue": "b7-beer-house",
-    "time": "2026-05-29T08:42:24+00:00",
     "serving": "draft",
     "rating": 3.75,
     "beer_name": "Prunes In Chocolate",
     "brewery": "Radionov",
     "beer_type": "Homebrew, Porter - Other"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T08:42:24+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Hop Elixir: Citra, Citra Hyperboost, Citra Cryo, Citra Dynaboost",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": "IPA - Session New England / Hazy"
   },
   {
     "venue": "b7-beer-house",
@@ -9652,15 +9652,6 @@ const BEER_DATA = [
     "beer_type": "IPA - American"
   },
   {
-    "venue": "schnitt-brewing-company",
-    "time": "2026-05-08T14:05:01+00:00",
-    "serving": "Unknown",
-    "rating": 3.5,
-    "beer_name": "Cheers Alenbeer",
-    "brewery": "Schnitt Brewing Company﻿",
-    "beer_type": "IPA - Session"
-  },
-  {
     "venue": "b7-beer-house",
     "time": "2026-05-08T14:05:01+00:00",
     "serving": "draft",
@@ -9668,6 +9659,15 @@ const BEER_DATA = [
     "beer_name": "Helix",
     "brewery": "Equilibrium Brewery",
     "beer_type": "Pilsner - German"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-08T14:05:01+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "Cheers Alenbeer",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - Session"
   },
   {
     "venue": "b7-beer-house",
@@ -200359,6 +200359,546 @@ const BEER_DATA = [
     "rating": 3.5,
     "beer_name": "Sun Drip",
     "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-09-17T19:02:12+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Nebulous Trail",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-09-17T19:01:20+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "MAKE IT FRUITY BLUEBERRY CONCORD GRAPE",
+    "brewery": "Evil Twin Brewing NYC",
+    "beer_type": ""
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-09-17T16:57:04+00:00",
+    "serving": "bottle",
+    "rating": 4.0,
+    "beer_name": "Northern Decadence (Cellar Series)",
+    "brewery": "Põhjala",
+    "beer_type": ""
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-09-17T15:58:35+00:00",
+    "serving": "draft",
+    "rating": 4.5,
+    "beer_name": "Shadowfarer",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-09-17T15:05:52+00:00",
+    "serving": "bottle",
+    "rating": 4.25,
+    "beer_name": "אלכסיידר חצי יבש",
+    "brewery": "Alexander (אלכסנדר)",
+    "beer_type": ""
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-09-17T15:02:08+00:00",
+    "serving": "bottle",
+    "rating": 3.8,
+    "beer_name": "אלכסיידר חצי יבש",
+    "brewery": "Alexander (אלכסנדר)",
+    "beer_type": ""
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-09-17T14:58:12+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Bee Pollen Infused Lambic",
+    "brewery": "Oud Beersel",
+    "beer_type": ""
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-09-17T14:44:19+00:00",
+    "serving": "bottle",
+    "rating": 3.7,
+    "beer_name": "Fruitesse 0.0",
+    "brewery": "Brouwerij Liefmans",
+    "beer_type": ""
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-09-17T14:16:57+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "חלוץ תחת אש",
+    "brewery": "New Pioneer Brewing Co - חלוץ חדש",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-09-17T19:35:00+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "Kama Citra",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-09-17T18:37:08+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "Sessionista",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-09-17T18:23:43+00:00",
+    "serving": "draft",
+    "rating": 4.5,
+    "beer_name": "האימפריה מכה שניט",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-09-17T16:52:43+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Twist & Stout",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-09-17T16:50:38+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "עסק שחור",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-09-17T16:50:00+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "עסק שחור",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-09-17T16:42:59+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Twist & Stout",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-09-17T16:11:39+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "IPA",
+    "brewery": "מלכת העמק",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-09-17T15:52:58+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "הפילס שבחדר the Pils In the Room",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-09-17T14:58:28+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "נקטרון האלים",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-09-17T14:57:49+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "עסק שחור",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-09-17T14:56:35+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "עסק שחור",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-09-17T14:51:13+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Sun Drip",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-09-17T14:42:29+00:00",
+    "serving": "draft",
+    "rating": 3.1,
+    "beer_name": "Sessionista",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-09-17T13:55:51+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "עסק שחור",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-09-17T13:26:10+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "עסק שחור",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-09-17T13:21:57+00:00",
+    "serving": "draft",
+    "rating": 3.2,
+    "beer_name": "Sun Drip",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-09-17T13:18:32+00:00",
+    "serving": "draft",
+    "rating": 2.8,
+    "beer_name": "Kama Citra",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-18T09:36:47+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Shadowfarer",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-18T09:29:25+00:00",
+    "serving": "draft",
+    "rating": 4.5,
+    "beer_name": "עסק שחור",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-18T09:21:10+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "Anything Gose: Blood Orange",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-18T09:17:44+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "Sun Drip",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-17T21:21:21+00:00",
+    "serving": "draft",
+    "rating": 3.25,
+    "beer_name": "עסק שחור",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-17T21:15:19+00:00",
+    "serving": "can",
+    "rating": 3.25,
+    "beer_name": "Single Beeri (סינגל בארי)",
+    "brewery": "BeerBazaar / Mivshelet Ha’Aretz",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-17T21:14:49+00:00",
+    "serving": "can",
+    "rating": null,
+    "beer_name": "Mexico 70 2025",
+    "brewery": "Herzl (הרצל)",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-17T21:14:07+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Single Beeri (סינגל בארי)",
+    "brewery": "BeerBazaar / Mivshelet Ha’Aretz",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-17T21:14:07+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Mexico 70 2025",
+    "brewery": "Herzl (הרצל)",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-17T19:53:31+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "Shadowfarer",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-17T19:49:51+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Sun Drip",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-17T19:49:10+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Yummy Blackcurrant, Prunes & Tonka",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-17T19:47:19+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Endless Marathon",
+    "brewery": "HORIZONT Brewing",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-17T19:46:23+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Yummy Blackcurrant, Prunes & Tonka",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-17T19:44:26+00:00",
+    "serving": "can",
+    "rating": null,
+    "beer_name": "Endless Marathon",
+    "brewery": "HORIZONT Brewing",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-17T18:59:18+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Anything Gose: Blood Orange",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-17T17:52:43+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Budweiser Budvar / Czechvar Original",
+    "brewery": "Budějovický Budvar",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-17T17:52:32+00:00",
+    "serving": "draft",
+    "rating": null,
+    "beer_name": "Slow And Steady",
+    "brewery": "Alexander (אלכסנדר)",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-17T17:52:12+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "סיידר תפוחים אלכוהולי חצי יבש",
+    "brewery": "Hamatsesa (המתססה)",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-17T17:51:40+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "Shadowfarer",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-17T17:51:26+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Slow And Steady",
+    "brewery": "Alexander (אלכסנדר)",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-17T17:50:59+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Shadowfarer",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-17T17:45:22+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "Budweiser Budvar / Czechvar Original",
+    "brewery": "Budějovický Budvar",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-17T17:44:27+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "סיידר תפוחים אלכוהולי חצי יבש",
+    "brewery": "Hamatsesa (המתססה)",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-17T17:32:03+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "DUMB FRUIT 1",
+    "brewery": "Evil Twin Brewing NYC",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-17T16:39:03+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Shadowfarer",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-17T16:38:11+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Sun Drip",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-17T16:26:46+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "DemiHydra | Strawberry + Kiwi + Watermelon",
+    "brewery": "Mortalis Brewing Company",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-17T16:18:53+00:00",
+    "serving": "can",
+    "rating": 3.0,
+    "beer_name": "Blackcurrant Sorbet",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-17T16:17:03+00:00",
+    "serving": "can",
+    "rating": 3.7,
+    "beer_name": "Blackcurrant Sorbet",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-17T15:07:06+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "HOW ABOUT ONE OF YOUR EVIL-TWIN-TYPE LONG BEER NAMES?",
+    "brewery": "Evil Twin Brewing NYC",
+    "beer_type": ""
+  },
+  {
+    "venue": "beerz",
+    "time": "2026-09-17T19:33:35+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "TDH Mosaic X Superdelic DIPA",
+    "brewery": "Ārpus Brewing Co.",
+    "beer_type": ""
+  },
+  {
+    "venue": "beerz",
+    "time": "2026-09-17T18:24:24+00:00",
+    "serving": "can",
+    "rating": 4.5,
+    "beer_name": "Ārpus X Pinta Baltic Porter",
+    "brewery": "Ārpus Brewing Co.",
     "beer_type": ""
   }
 ];
