@@ -1,6 +1,6 @@
 // 🍺 BEER STATS DATA - Generated automatically
-// Last updated: 2026-09-19 10:45:40
-// Total records: 22358
+// Last updated: 2026-09-20 11:08:33
+// Total records: 22404
 
 const BEER_DATA = [
   {
@@ -2967,20 +2967,20 @@ const BEER_DATA = [
   {
     "venue": "b7-beer-house",
     "time": "2026-05-29T08:42:24+00:00",
-    "serving": "can",
-    "rating": 3.75,
-    "beer_name": "Hop Elixir: Citra, Citra Hyperboost, Citra Cryo, Citra Dynaboost",
-    "brewery": "Sibeeria Brewery",
-    "beer_type": "IPA - Session New England / Hazy"
-  },
-  {
-    "venue": "b7-beer-house",
-    "time": "2026-05-29T08:42:24+00:00",
     "serving": "draft",
     "rating": 3.75,
     "beer_name": "Prunes In Chocolate",
     "brewery": "Radionov",
     "beer_type": "Homebrew, Porter - Other"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T08:42:24+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Hop Elixir: Citra, Citra Hyperboost, Citra Cryo, Citra Dynaboost",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": "IPA - Session New England / Hazy"
   },
   {
     "venue": "b7-beer-house",
@@ -9652,15 +9652,6 @@ const BEER_DATA = [
     "beer_type": "IPA - American"
   },
   {
-    "venue": "schnitt-brewing-company",
-    "time": "2026-05-08T14:05:01+00:00",
-    "serving": "Unknown",
-    "rating": 3.5,
-    "beer_name": "Cheers Alenbeer",
-    "brewery": "Schnitt Brewing Company﻿",
-    "beer_type": "IPA - Session"
-  },
-  {
     "venue": "b7-beer-house",
     "time": "2026-05-08T14:05:01+00:00",
     "serving": "draft",
@@ -9668,6 +9659,15 @@ const BEER_DATA = [
     "beer_name": "Helix",
     "brewery": "Equilibrium Brewery",
     "beer_type": "Pilsner - German"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-08T14:05:01+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "Cheers Alenbeer",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - Session"
   },
   {
     "venue": "b7-beer-house",
@@ -201223,6 +201223,420 @@ const BEER_DATA = [
     "rating": 3.75,
     "beer_name": "Benediktiner Hell",
     "brewery": "Benediktiner Weissbräu",
+    "beer_type": ""
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-09-20T09:32:49+00:00",
+    "serving": "can",
+    "rating": 3.25,
+    "beer_name": "Gelato: Amalfi Drive",
+    "brewery": "Funky Fluid",
+    "beer_type": ""
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-09-20T09:06:20+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Classy",
+    "brewery": "Funky Fluid",
+    "beer_type": ""
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-09-20T09:04:21+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Classy",
+    "brewery": "Funky Fluid",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-09-20T08:25:21+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "What Was Was",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-09-20T08:24:54+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "Sessionista",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-09-19T21:50:03+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "האימפריה מכה שניט",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-09-19T20:37:41+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Life Gose On",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-09-19T17:51:14+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Sun Drip",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-09-19T17:50:31+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Let's Get Tropical",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-09-19T17:50:07+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "עסק שחור",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-09-19T17:22:13+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "עסק שחור",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-09-19T17:18:00+00:00",
+    "serving": "draft",
+    "rating": 3.25,
+    "beer_name": "שיקוי",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-09-19T17:15:08+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Hopangan",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-09-19T17:12:24+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Life Gose On",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-09-19T17:04:56+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "Let's Get Tropical",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-09-19T15:53:37+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "עסק שחור",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-09-19T11:22:21+00:00",
+    "serving": "draft",
+    "rating": 3.4,
+    "beer_name": "Muuumbai",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-19T20:38:36+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Sun Drip",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-19T20:23:55+00:00",
+    "serving": "can",
+    "rating": 4.5,
+    "beer_name": "MAKE IT FRUITY BLUEBERRY CONCORD GRAPE",
+    "brewery": "Evil Twin Brewing NYC",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-19T20:11:09+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "MAKE IT FRUITY BLUEBERRY CONCORD GRAPE",
+    "brewery": "Evil Twin Brewing NYC",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-19T20:09:58+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Anything Gose: Blood Orange",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-19T20:09:36+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Sun Drip",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-19T19:48:11+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "שנה טובה כפרה",
+    "brewery": "Herzl (הרצל)",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-19T19:45:16+00:00",
+    "serving": "Unknown",
+    "rating": 2.25,
+    "beer_name": "Vedett Extra Pilsner",
+    "brewery": "Duvel Moortgat",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-19T19:41:42+00:00",
+    "serving": "Unknown",
+    "rating": 3.0,
+    "beer_name": "IPA",
+    "brewery": "מלכת העמק",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-19T19:40:09+00:00",
+    "serving": "Unknown",
+    "rating": 3.25,
+    "beer_name": "Gueuze Tilquin – Draft Version",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-19T19:31:15+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Vedett Extra Pilsner",
+    "brewery": "Duvel Moortgat",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-19T19:25:52+00:00",
+    "serving": "Unknown",
+    "rating": 3.0,
+    "beer_name": "סיידר תפוחים אלכוהולי חצי יבש",
+    "brewery": "Hamatsesa (המתססה)",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-19T19:25:39+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "בירהל'ה",
+    "brewery": "Malka (מלכה)",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-19T19:09:53+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "עסק שחור",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-19T19:04:14+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "ISN’T BROOKLYN A LITTLE SKETCHY? WHY WOULD YOU LIVE THERE?",
+    "brewery": "Evil Twin Brewing NYC",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-19T18:56:12+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Shadowfarer",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-19T18:13:38+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Shadowfarer",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-19T17:58:01+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Sun Drip",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-19T17:56:47+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "IPA",
+    "brewery": "מלכת העמק",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-19T17:50:23+00:00",
+    "serving": "draft",
+    "rating": 3.25,
+    "beer_name": "Slow And Steady",
+    "brewery": "Alexander (אלכסנדר)",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-19T17:47:36+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Anything Gose: Blood Orange",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-19T17:45:32+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "שנה טובה כפרה",
+    "brewery": "Herzl (הרצל)",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-19T17:03:46+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "Hydra | Key Lime + Raspberry + Cherry",
+    "brewery": "Mortalis Brewing Company",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-19T17:02:37+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Lager Like It Used To Be - Vienna Edition",
+    "brewery": "Lubrow Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-19T17:01:11+00:00",
+    "serving": "can",
+    "rating": 3.0,
+    "beer_name": "Lager Like It Used To Be - Vienna Edition",
+    "brewery": "Lubrow Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-19T16:49:08+00:00",
+    "serving": "Unknown",
+    "rating": 3.25,
+    "beer_name": "IPA",
+    "brewery": "מלכת העמק",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-19T16:16:52+00:00",
+    "serving": "Unknown",
+    "rating": 2.25,
+    "beer_name": "Paleraiser",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-19T15:43:11+00:00",
+    "serving": "can",
+    "rating": null,
+    "beer_name": "DUMB FRUIT 1",
+    "brewery": "Evil Twin Brewing NYC",
+    "beer_type": ""
+  },
+  {
+    "venue": "beer-station-beersheba-israel",
+    "time": "2026-09-19T15:34:43+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "001 [שם זמני]",
+    "brewery": "Arava Brewery (מבשלת בירה ערבה)",
+    "beer_type": ""
+  },
+  {
+    "venue": "beer-station-beersheba-israel",
+    "time": "2026-09-19T15:06:28+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Krombacher Weizen",
+    "brewery": "Krombacher Gruppe",
     "beer_type": ""
   }
 ];
