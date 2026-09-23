@@ -1,6 +1,6 @@
 // 🍺 BEER STATS DATA - Generated automatically
-// Last updated: 2026-09-22 11:24:41
-// Total records: 22410
+// Last updated: 2026-09-23 11:22:04
+// Total records: 22494
 
 const BEER_DATA = [
   {
@@ -2967,20 +2967,20 @@ const BEER_DATA = [
   {
     "venue": "b7-beer-house",
     "time": "2026-05-29T08:42:24+00:00",
-    "serving": "draft",
-    "rating": 3.75,
-    "beer_name": "Prunes In Chocolate",
-    "brewery": "Radionov",
-    "beer_type": "Homebrew, Porter - Other"
-  },
-  {
-    "venue": "b7-beer-house",
-    "time": "2026-05-29T08:42:24+00:00",
     "serving": "can",
     "rating": 3.75,
     "beer_name": "Hop Elixir: Citra, Citra Hyperboost, Citra Cryo, Citra Dynaboost",
     "brewery": "Sibeeria Brewery",
     "beer_type": "IPA - Session New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T08:42:24+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Prunes In Chocolate",
+    "brewery": "Radionov",
+    "beer_type": "Homebrew, Porter - Other"
   },
   {
     "venue": "b7-beer-house",
@@ -9652,15 +9652,6 @@ const BEER_DATA = [
     "beer_type": "IPA - American"
   },
   {
-    "venue": "b7-beer-house",
-    "time": "2026-05-08T14:05:01+00:00",
-    "serving": "draft",
-    "rating": 4.0,
-    "beer_name": "Helix",
-    "brewery": "Equilibrium Brewery",
-    "beer_type": "Pilsner - German"
-  },
-  {
     "venue": "schnitt-brewing-company",
     "time": "2026-05-08T14:05:01+00:00",
     "serving": "Unknown",
@@ -9668,6 +9659,15 @@ const BEER_DATA = [
     "beer_name": "Cheers Alenbeer",
     "brewery": "Schnitt Brewing Company﻿",
     "beer_type": "IPA - Session"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-08T14:05:01+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Helix",
+    "brewery": "Equilibrium Brewery",
+    "beer_type": "Pilsner - German"
   },
   {
     "venue": "b7-beer-house",
@@ -201691,6 +201691,762 @@ const BEER_DATA = [
     "rating": 3.5,
     "beer_name": "בירהל'ה",
     "brewery": "Malka (מלכה)",
+    "beer_type": ""
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-09-22T17:33:09+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Pale Ale",
+    "brewery": "Sierra Nevada Brewing Co.",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-09-23T09:32:06+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "Let's Get Tropical",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-09-23T09:30:17+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "עסק שחור",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-09-23T09:29:24+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "Life Gose On",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-09-23T09:25:38+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "שיקוי",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-09-22T20:08:08+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Hopzz_ Horizon",
+    "brewery": "PINTA",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-09-22T19:59:21+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Changeling (Raspberry)",
+    "brewery": "Brassneck Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-09-22T19:17:27+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Hop Slayer Peach",
+    "brewery": "Seven Island Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-09-22T19:08:57+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "Smoothie Bowl: Tropi-Berry White Bar",
+    "brewery": "Nepo Brewing",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-09-22T18:40:33+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Muuumbai",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-09-22T18:30:36+00:00",
+    "serving": "can",
+    "rating": 4.5,
+    "beer_name": "Melba (2026)",
+    "brewery": "Ziemia Obiecana",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-09-22T18:15:29+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "עסק שחור",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-09-22T17:47:55+00:00",
+    "serving": "bottle",
+    "rating": 4.5,
+    "beer_name": "Night Shift Vintage 2023 - Vanilla & Cinnamon Bundt Cake Pastry Stout Aged In Tennessee Whiskey Barrels",
+    "brewery": "HORIZONT Brewing",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-09-22T16:47:45+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Let's Get Tropical",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-09-22T16:46:34+00:00",
+    "serving": "draft",
+    "rating": 3.0,
+    "beer_name": "Life Gose On",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-09-22T16:45:53+00:00",
+    "serving": "draft",
+    "rating": 2.5,
+    "beer_name": "שיקוי",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-09-22T15:15:39+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "Sun Drip",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-09-22T15:01:45+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "Easy Ride",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-09-22T15:00:13+00:00",
+    "serving": "Unknown",
+    "rating": 3.25,
+    "beer_name": "Blueberry Brioche",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-09-22T14:59:24+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "Life Gose On",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-09-22T14:58:48+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "Slow And Steady",
+    "brewery": "Alexander (אלכסנדר)",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-09-22T14:58:06+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "עסק שחור",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-09-22T14:53:27+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Sessionista",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-09-22T13:22:39+00:00",
+    "serving": "Unknown",
+    "rating": 4.5,
+    "beer_name": "עסק שחור",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-09-22T12:13:50+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Sessionista",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-09-22T12:04:33+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "Let's Get Tropical",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-09-22T12:03:57+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Weissman",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-23T08:41:10+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "שנה טובה כפרה",
+    "brewery": "Herzl (הרצל)",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-22T23:05:24+00:00",
+    "serving": "can",
+    "rating": 4.4,
+    "beer_name": "Smoothiehunter",
+    "brewery": "Cervejaria Escafandrista",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-22T23:04:54+00:00",
+    "serving": "can",
+    "rating": 3.1,
+    "beer_name": "Gazpacho From Hell",
+    "brewery": "Hackney Church Brew Co.",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-22T23:04:25+00:00",
+    "serving": "bottle",
+    "rating": 4.5,
+    "beer_name": "Sparklepuss: Strawberry Shortcake Rum BA",
+    "brewery": "Hop Hooligans",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-22T23:03:48+00:00",
+    "serving": "can",
+    "rating": 3.8,
+    "beer_name": "Hop Slayer Peach",
+    "brewery": "Seven Island Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-22T23:03:17+00:00",
+    "serving": "can",
+    "rating": 3.9,
+    "beer_name": "Changeling (Raspberry)",
+    "brewery": "Brassneck Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-22T23:02:36+00:00",
+    "serving": "can",
+    "rating": 4.3,
+    "beer_name": "Out of Order: Raspberry Shortcake",
+    "brewery": "RaR Brewing",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-22T23:02:10+00:00",
+    "serving": "can",
+    "rating": null,
+    "beer_name": "Hazy TIPA",
+    "brewery": "Seeker Brewing",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-22T23:01:40+00:00",
+    "serving": "can",
+    "rating": 3.4,
+    "beer_name": "Big Red Milkshake",
+    "brewery": "Seeker Brewing",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-22T22:16:17+00:00",
+    "serving": "can",
+    "rating": 4.3,
+    "beer_name": "Smoothiehunter",
+    "brewery": "Cervejaria Escafandrista",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-22T22:14:32+00:00",
+    "serving": "bottle",
+    "rating": 3.1,
+    "beer_name": "Gazpacho From Hell",
+    "brewery": "Hackney Church Brew Co.",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-22T22:10:38+00:00",
+    "serving": "bottle",
+    "rating": 4.3,
+    "beer_name": "Sparklepuss: Strawberry Shortcake Rum BA",
+    "brewery": "Hop Hooligans",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-22T22:09:47+00:00",
+    "serving": "can",
+    "rating": 3.8,
+    "beer_name": "Hop Slayer Peach",
+    "brewery": "Seven Island Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-22T22:08:04+00:00",
+    "serving": "can",
+    "rating": 3.8,
+    "beer_name": "Changeling (Raspberry)",
+    "brewery": "Brassneck Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-22T22:07:18+00:00",
+    "serving": "can",
+    "rating": 4.3,
+    "beer_name": "Out of Order: Raspberry Shortcake",
+    "brewery": "RaR Brewing",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-22T22:05:27+00:00",
+    "serving": "can",
+    "rating": null,
+    "beer_name": "Hazy TIPA",
+    "brewery": "Seeker Brewing",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-22T22:03:55+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Big Red Milkshake",
+    "brewery": "Seeker Brewing",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-22T22:01:50+00:00",
+    "serving": "can",
+    "rating": 3.7,
+    "beer_name": "Batoni Pomidori",
+    "brewery": "Chito Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-22T22:00:17+00:00",
+    "serving": "bottle",
+    "rating": 4.1,
+    "beer_name": "Sparklepuss: Pina Colada Rum BA (2025, Purple Wax)",
+    "brewery": "Hop Hooligans",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-22T21:51:04+00:00",
+    "serving": "can",
+    "rating": 3.7,
+    "beer_name": "Batoni Pomidori",
+    "brewery": "Chito Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-22T21:50:28+00:00",
+    "serving": "bottle",
+    "rating": 4.0,
+    "beer_name": "Sparklepuss: Pina Colada Rum BA (2025, Purple Wax)",
+    "brewery": "Hop Hooligans",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-22T20:04:05+00:00",
+    "serving": "can",
+    "rating": 4.2,
+    "beer_name": "Smoothiehunter",
+    "brewery": "Cervejaria Escafandrista",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-22T19:59:34+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "Smoothiehunter",
+    "brewery": "Cervejaria Escafandrista",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-22T19:56:39+00:00",
+    "serving": "can",
+    "rating": 3.0,
+    "beer_name": "Gazpacho From Hell",
+    "brewery": "Hackney Church Brew Co.",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-22T19:37:51+00:00",
+    "serving": "can",
+    "rating": 3.25,
+    "beer_name": "Gazpacho From Hell",
+    "brewery": "Hackney Church Brew Co.",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-22T19:33:49+00:00",
+    "serving": "can",
+    "rating": null,
+    "beer_name": "Gazpacho From Hell",
+    "brewery": "Hackney Church Brew Co.",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-22T19:24:54+00:00",
+    "serving": "bottle",
+    "rating": 4.2,
+    "beer_name": "Sparklepuss: Strawberry Shortcake Rum BA",
+    "brewery": "Hop Hooligans",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-22T19:17:19+00:00",
+    "serving": "bottle",
+    "rating": 4.5,
+    "beer_name": "Sparklepuss: Strawberry Shortcake Rum BA",
+    "brewery": "Hop Hooligans",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-22T19:04:56+00:00",
+    "serving": "can",
+    "rating": 3.8,
+    "beer_name": "Hop Slayer Peach",
+    "brewery": "Seven Island Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-22T18:59:46+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Hop Slayer Peach",
+    "brewery": "Seven Island Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-22T18:49:44+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Changeling (Raspberry)",
+    "brewery": "Brassneck Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-22T18:49:25+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Changeling (Raspberry)",
+    "brewery": "Brassneck Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-22T18:39:22+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Out of Order: Raspberry Shortcake",
+    "brewery": "RaR Brewing",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-22T18:33:52+00:00",
+    "serving": "can",
+    "rating": 4.5,
+    "beer_name": "Out of Order: Raspberry Shortcake",
+    "brewery": "RaR Brewing",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-22T18:25:56+00:00",
+    "serving": "can",
+    "rating": null,
+    "beer_name": "Hazy TIPA",
+    "brewery": "Seeker Brewing",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-22T18:25:29+00:00",
+    "serving": "can",
+    "rating": null,
+    "beer_name": "Hazy TIPA",
+    "brewery": "Seeker Brewing",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-22T18:18:06+00:00",
+    "serving": "can",
+    "rating": 3.25,
+    "beer_name": "Big Red Milkshake",
+    "brewery": "Seeker Brewing",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-22T18:15:07+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Big Red Milkshake",
+    "brewery": "Seeker Brewing",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-22T18:05:22+00:00",
+    "serving": "can",
+    "rating": 3.7,
+    "beer_name": "Batoni Pomidori",
+    "brewery": "Chito Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-22T18:04:02+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Batoni Pomidori",
+    "brewery": "Chito Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-22T17:57:12+00:00",
+    "serving": "bottle",
+    "rating": 4.0,
+    "beer_name": "Sparklepuss: Pina Colada Rum BA (2025, Purple Wax)",
+    "brewery": "Hop Hooligans",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-22T17:52:56+00:00",
+    "serving": "bottle",
+    "rating": 4.5,
+    "beer_name": "Sparklepuss: Pina Colada Rum BA (2025, Purple Wax)",
+    "brewery": "Hop Hooligans",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-22T17:42:33+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "Dzban 2026",
+    "brewery": "Ziemia Obiecana",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-22T17:38:25+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Sun Drip",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-22T17:10:32+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Anything Gose: Blood Orange",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-22T16:53:18+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Sun Drip",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-22T15:24:47+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Anything Gose: Blood Orange",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-22T15:24:31+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "עסק שחור",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-22T15:24:00+00:00",
+    "serving": "draft",
+    "rating": null,
+    "beer_name": "סיידר תפוחים אלכוהולי חצי יבש",
+    "brewery": "Hamatsesa (המתססה)",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-22T15:23:07+00:00",
+    "serving": "draft",
+    "rating": null,
+    "beer_name": "Gueuze Tilquin – Draft Version",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-22T15:16:59+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Shadowfarer",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-09-22T15:16:33+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Anything Gose: Blood Orange",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "ursa",
+    "time": "2026-09-22T17:49:51+00:00",
+    "serving": "draft",
+    "rating": null,
+    "beer_name": "Löwenbräu Märzen",
+    "brewery": "Spaten-Franziskaner-Löwenbräu-Gruppe",
+    "beer_type": ""
+  },
+  {
+    "venue": "beerz",
+    "time": "2026-09-22T21:10:10+00:00",
+    "serving": "bottle",
+    "rating": 4.0,
+    "beer_name": "Must Kuld",
+    "brewery": "Põhjala",
+    "beer_type": ""
+  },
+  {
+    "venue": "beerz",
+    "time": "2026-09-22T19:15:10+00:00",
+    "serving": "bottle",
+    "rating": 4.75,
+    "beer_name": "Aecht Schlenkerla Rauchbier – Märzen",
+    "brewery": "Schlenkerla (\"Heller-Bräu\" Trum)",
+    "beer_type": ""
+  },
+  {
+    "venue": "beerz",
+    "time": "2026-09-22T19:11:50+00:00",
+    "serving": "bottle",
+    "rating": 4.75,
+    "beer_name": "Aecht Schlenkerla Rauchbier – Märzen",
+    "brewery": "Schlenkerla (\"Heller-Bräu\" Trum)",
+    "beer_type": ""
+  },
+  {
+    "venue": "beerz",
+    "time": "2026-09-22T19:10:39+00:00",
+    "serving": "bottle",
+    "rating": 4.5,
+    "beer_name": "Ārpus X Pinta Baltic Porter",
+    "brewery": "Ārpus Brewing Co.",
     "beer_type": ""
   }
 ];
