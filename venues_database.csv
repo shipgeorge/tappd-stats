@@ -328,8 +328,8 @@ b7-beer-house,Ziv Shwartzman,"Fri, 29 May 2026 08:44:41 +0000",draft,3.75,Pilsne
 b7-beer-house,Yana O,"Fri, 29 May 2026 08:43:54 +0000",bottle,4.0,Night Shift Vintage 2025 / Russian Imperial Stout Aged In Rhum And Vanilla Macadamia Rum Barrels,HORIZONT Brewing,Stout - Russian Imperial
 b7-beer-house,גל סילברמן,"Fri, 29 May 2026 08:43:40 +0000",bottle,4.7,Experiments In the Kitchen,Mortalis Brewing Company,Stout - Imperial / Double Pastry
 b7-beer-house,Tom Lahav,"Fri, 29 May 2026 08:43:38 +0000",can,4.0,Prague Tap Room 2nd Anniversary,Sibeeria Brewery,IPA - Triple New England / Hazy
-b7-beer-house,Tom Lahav,"Fri, 29 May 2026 08:42:24 +0000",can,3.75,"Hop Elixir: Citra, Citra Hyperboost, Citra Cryo, Citra Dynaboost",Sibeeria Brewery,IPA - Session New England / Hazy
 b7-beer-house,Ziv Shwartzman,"Fri, 29 May 2026 08:42:24 +0000",draft,3.75,Prunes In Chocolate,Radionov,"Homebrew, Porter - Other"
+b7-beer-house,Tom Lahav,"Fri, 29 May 2026 08:42:24 +0000",can,3.75,"Hop Elixir: Citra, Citra Hyperboost, Citra Cryo, Citra Dynaboost",Sibeeria Brewery,IPA - Session New England / Hazy
 b7-beer-house,Ido Cohen,"Fri, 29 May 2026 08:42:17 +0000",bottle,4.0,Night Shift Vintage 2025 / Double Chocolate Imperial Milk Porter  Aged In Bourbon Barrels,HORIZONT Brewing,Porter - Imperial / Double
 b7-beer-house,Mikhail Stolov,"Fri, 29 May 2026 08:41:47 +0000",can,3.75,"Hop Elixir: Citra, Citra Hyperboost, Citra Cryo, Citra Dynaboost",Sibeeria Brewery,IPA - Session New England / Hazy
 b7-beer-house,Ido Cohen,"Fri, 29 May 2026 08:41:42 +0000",bottle,3.9,Night Shift Vintage 2025 / Peanut Butter Jelly Imperial Pastry Stout Aged In Pedro Ximénez Sherry Barrels,HORIZONT Brewing,Stout - Imperial / Double Pastry
@@ -1071,8 +1071,8 @@ schnitt-brewing-company,Andrey Granovsky,"Fri, 08 May 2026 14:26:07 +0000",draft
 lauter,dafi20,"Fri, 08 May 2026 14:26:00 +0000",draft,3.5,Oasis,Negev Brewery (נגב),Blonde / Golden Ale - Other
 schnitt-brewing-company,Dr Troubles,"Fri, 08 May 2026 14:20:50 +0000",draft,3.25,Ice Ice Bockbier,Schnitt Brewing Company﻿,Bock - Eisbock
 b7-beer-house,Oren Hazan,"Fri, 08 May 2026 14:05:49 +0000",draft,4.0,I Love the Smell of Strata In the Morning,Sibeeria Brewery,IPA - American
-schnitt-brewing-company,Yoav Kowalski,"Fri, 08 May 2026 14:05:01 +0000",,3.5,Cheers Alenbeer,Schnitt Brewing Company﻿,IPA - Session
 b7-beer-house,Oren Hazan,"Fri, 08 May 2026 14:05:01 +0000",draft,4.0,Helix,Equilibrium Brewery,Pilsner - German
+schnitt-brewing-company,Yoav Kowalski,"Fri, 08 May 2026 14:05:01 +0000",,3.5,Cheers Alenbeer,Schnitt Brewing Company﻿,IPA - Session
 b7-beer-house,Oren Hazan,"Fri, 08 May 2026 14:04:15 +0000",draft,3.75,רוביקון,New Pioneer Brewing Co - חלוץ חדש,Brown Ale - American
 schnitt-brewing-company,Yoav Kowalski,"Fri, 08 May 2026 14:04:02 +0000",draft,3.25,Ice Ice Bockbier,Schnitt Brewing Company﻿,Bock - Eisbock
 schnitt-brewing-company,Vladimir Kanevsky,"Fri, 08 May 2026 13:59:02 +0000",draft,4.0,Cheers Alenbeer,Schnitt Brewing Company﻿,IPA - Session
@@ -22681,3 +22681,63 @@ schnitt-brewing-company,Alex Sindalovsky,"Mon, 28 Sep 2026 14:05:24 +0000",,2.75
 schnitt-brewing-company,Alex Sindalovsky,"Mon, 28 Sep 2026 14:04:50 +0000",draft,2.75,Pizza Pils,Schnitt Brewing Company﻿,
 schnitt-brewing-company,odi paneth,"Mon, 28 Sep 2026 14:01:20 +0000",,3.75,Sun Drip,Schnitt Brewing Company﻿,
 schnitt-brewing-company,odi paneth,"Mon, 28 Sep 2026 14:00:39 +0000",,3.75,Etrog In the Fog,Schnitt Brewing Company﻿,
+b7-beer-house,Yotam Bar-natan,"Tue, 29 Sep 2026 16:07:49 +0000",draft,3.9,Everyday Life,Sibeeria Brewery,
+b7-beer-house,Yotam Bar-natan,"Tue, 29 Sep 2026 13:40:57 +0000",can,3.9,Neshto Novo/ Нещо Ново,Beer Bastards Brewing,
+schnitt-brewing-company,Roni Waldman,"Wed, 30 Sep 2026 12:13:03 +0000",draft,4.0,Etrog In the Fog,Schnitt Brewing Company﻿,
+schnitt-brewing-company,Gal Sorogon,"Wed, 30 Sep 2026 10:58:27 +0000",draft,3.75,Sun Drip,Schnitt Brewing Company﻿,
+schnitt-brewing-company,Nir Langer,"Wed, 30 Sep 2026 08:28:12 +0000",,,Etrog In the Fog,Schnitt Brewing Company﻿,
+schnitt-brewing-company,Elad Schitrit,"Tue, 29 Sep 2026 20:39:09 +0000",draft,3.0,Lazy Bee Classic,Schnitt Brewing Company﻿,
+schnitt-brewing-company,Elad Schitrit,"Tue, 29 Sep 2026 20:38:07 +0000",draft,3.0,Tea Party: Hibiscus And Wild Berry,Schnitt Brewing Company﻿,
+schnitt-brewing-company,Elad Schitrit,"Tue, 29 Sep 2026 20:37:43 +0000",draft,3.5,Kama Citra,Schnitt Brewing Company﻿,
+schnitt-brewing-company,Elad Schitrit,"Tue, 29 Sep 2026 20:36:36 +0000",draft,3.5,Sun Drip,Schnitt Brewing Company﻿,
+schnitt-brewing-company,TomerOrion,"Tue, 29 Sep 2026 18:14:39 +0000",draft,3.25,Etrog In the Fog,Schnitt Brewing Company﻿,
+schnitt-brewing-company,TomerOrion,"Tue, 29 Sep 2026 18:13:52 +0000",draft,3.5,שיקוי,Schnitt Brewing Company﻿,
+schnitt-brewing-company,Gal Sorogon,"Tue, 29 Sep 2026 17:09:32 +0000",draft,4.0,עסק שחור,Schnitt Brewing Company﻿,
+schnitt-brewing-company,Gal Sorogon,"Tue, 29 Sep 2026 17:08:48 +0000",draft,3.75,Tea Party: Hibiscus And Wild Berry,Schnitt Brewing Company﻿,
+schnitt-brewing-company,Gal Sorogon,"Tue, 29 Sep 2026 17:08:06 +0000",draft,3.75,Mind the Gap,Schnitt Brewing Company﻿,
+schnitt-brewing-company,Gal Sorogon,"Tue, 29 Sep 2026 17:07:19 +0000",draft,3.75,Etrog In the Fog,Schnitt Brewing Company﻿,
+schnitt-brewing-company,Lee Ker,"Tue, 29 Sep 2026 16:47:34 +0000",,,Guava Island 2026,Schnitt Brewing Company﻿,
+schnitt-brewing-company,Lee Ker,"Tue, 29 Sep 2026 16:46:36 +0000",,4.25,Budweiser Budvar / Czechvar DARK,Budějovický Budvar,
+schnitt-brewing-company,Michael Bunin,"Tue, 29 Sep 2026 16:42:19 +0000",draft,3.75,Sun Drip,Schnitt Brewing Company﻿,
+schnitt-brewing-company,ori_e,"Tue, 29 Sep 2026 15:47:55 +0000",draft,3.5,Life Gose On,Schnitt Brewing Company﻿,
+schnitt-brewing-company,ori_e,"Tue, 29 Sep 2026 15:45:27 +0000",draft,3.25,Etrog In the Fog,Schnitt Brewing Company﻿,
+schnitt-brewing-company,Andrey Granovsky,"Tue, 29 Sep 2026 15:15:54 +0000",draft,3.75,Mind the Gap,Schnitt Brewing Company﻿,
+schnitt-brewing-company,Biss-Lee,"Tue, 29 Sep 2026 15:15:52 +0000",draft,3.0,Kama Citra,Schnitt Brewing Company﻿,
+schnitt-brewing-company,Biss-Lee,"Tue, 29 Sep 2026 15:12:27 +0000",draft,2.75,שאגת העצלן,Schnitt Brewing Company﻿,
+schnitt-brewing-company,Yana O,"Tue, 29 Sep 2026 15:01:58 +0000",,3.5,Suktoberfest (סוכטוברפסט),Schnitt Brewing Company﻿,
+schnitt-brewing-company,Mika R,"Tue, 29 Sep 2026 14:48:57 +0000",draft,3.5,Mind the Gap,Schnitt Brewing Company﻿,
+schnitt-brewing-company,odi paneth,"Tue, 29 Sep 2026 14:26:14 +0000",,,Mind the Gap,Schnitt Brewing Company﻿,
+schnitt-brewing-company,Yana O,"Tue, 29 Sep 2026 14:24:29 +0000",,3.75,Tea Party: Hibiscus And Wild Berry,Schnitt Brewing Company﻿,
+schnitt-brewing-company,Ido Kessler,"Tue, 29 Sep 2026 14:01:40 +0000",draft,4.25,Pink Lemonade,Yonder Brewing,
+schnitt-brewing-company,Andrey Granovsky,"Tue, 29 Sep 2026 13:32:32 +0000",draft,3.75,Etrog In the Fog,Schnitt Brewing Company﻿,
+schnitt-brewing-company,Ido Kessler,"Tue, 29 Sep 2026 13:09:32 +0000",draft,3.75,Sun Drip,Schnitt Brewing Company﻿,
+schnitt-brewing-company,Ido Kessler,"Tue, 29 Sep 2026 13:07:46 +0000",,2.5,Tea Party: Hibiscus And Wild Berry,Schnitt Brewing Company﻿,
+lauter,Ido Meir,"Wed, 30 Sep 2026 12:12:39 +0000",,4.0,Anything Gose: Blood Orange,Schnitt Brewing Company﻿,
+lauter,Ido Meir,"Tue, 29 Sep 2026 22:26:09 +0000",,3.75,Spaten Oktoberfest Ur-Märzen / Winter,Spaten-Franziskaner-Löwenbräu-Gruppe,
+lauter,Yuval Shalom,"Tue, 29 Sep 2026 20:24:19 +0000",can,3.75,Hoppy Little Thing,Sierra Nevada Brewing Co.,
+lauter,Yuval Tr,"Tue, 29 Sep 2026 19:41:22 +0000",,4.5,IPA Craft Beer,HaGibor Brewery (מבשלת הגיבור),
+lauter,Ido Meir,"Tue, 29 Sep 2026 19:00:59 +0000",bottle,4.5,Muscabella (2023),Boerenerf,
+lauter,Ido Meir,"Tue, 29 Sep 2026 18:59:46 +0000",draft,4.0,Sun Drip,Schnitt Brewing Company﻿,
+lauter,Niv Gellert,"Tue, 29 Sep 2026 18:56:30 +0000",draft,3.25,Spaten Oktoberfest Ur-Märzen / Winter,Spaten-Franziskaner-Löwenbräu-Gruppe,
+lauter,Amit Carmi,"Tue, 29 Sep 2026 18:55:50 +0000",draft,5.0,Spaten Oktoberfest Ur-Märzen / Winter,Spaten-Franziskaner-Löwenbräu-Gruppe,
+lauter,Sy Co,"Tue, 29 Sep 2026 18:49:23 +0000",bottle,4.25,Northern Decadence (Cellar Series),Põhjala,
+lauter,TomerOrion,"Tue, 29 Sep 2026 17:20:12 +0000",draft,3.0,Spaten Oktoberfest Ur-Märzen / Winter,Spaten-Franziskaner-Löwenbräu-Gruppe,
+lauter,TomerOrion,"Tue, 29 Sep 2026 17:18:40 +0000",draft,2.75,Gueuze Tilquin – Draft Version,Gueuzerie Tilquin,
+lauter,ori_e,"Tue, 29 Sep 2026 17:13:23 +0000",draft,3.0,Kama Citra,Schnitt Brewing Company﻿,
+lauter,Mika R,"Tue, 29 Sep 2026 16:34:12 +0000",,5.0,Beejoya,Schmulz,
+lauter,Lee Ker,"Tue, 29 Sep 2026 16:11:44 +0000",,,Etrog In the Fog,Schnitt Brewing Company﻿,
+lauter,Kelly Inbar,"Tue, 29 Sep 2026 16:11:04 +0000",draft,4.0,Pomegranate Sour,Midbar Brewery,
+lauter,ori_e,"Tue, 29 Sep 2026 16:07:13 +0000",draft,3.75,Delirium Red,Delirium - Huyghe Brewery,
+lauter,Adam Appel,"Tue, 29 Sep 2026 16:05:43 +0000",draft,4.5,Spaten Oktoberfest Ur-Märzen / Winter,Spaten-Franziskaner-Löwenbräu-Gruppe,
+lauter,Tanyshka Past,"Tue, 29 Sep 2026 15:54:10 +0000",draft,4.0,Pomegranate Sour,Midbar Brewery,
+lauter,Mika R,"Tue, 29 Sep 2026 15:43:12 +0000",,3.75,Paleraiser,Schnitt Brewing Company﻿,
+lauter,Mika R,"Tue, 29 Sep 2026 15:42:28 +0000",draft,3.75,IPA Craft Beer,HaGibor Brewery (מבשלת הגיבור),
+lauter,ori_e,"Tue, 29 Sep 2026 15:26:33 +0000",draft,3.5,Pomegranate Sour,Midbar Brewery,
+lauter,Mika R,"Tue, 29 Sep 2026 15:12:28 +0000",,4.0,Sloth & Lion,Schnitt Brewing Company﻿,
+lauter,Lee Ker,"Tue, 29 Sep 2026 15:04:52 +0000",,,Löwenbräu Märzen,Spaten-Franziskaner-Löwenbräu-Gruppe,
+lauter,Lee Ker,"Tue, 29 Sep 2026 15:04:12 +0000",,,Franziskaner Premium Weissbier Naturtrüb,Spaten-Franziskaner-Löwenbräu-Gruppe,
+lauter,Lee Ker,"Tue, 29 Sep 2026 15:02:02 +0000",,,Löwenbräu Märzen,Spaten-Franziskaner-Löwenbräu-Gruppe,
+lauter,Lee Ker,"Tue, 29 Sep 2026 15:01:47 +0000",,,Franziskaner Premium Weissbier Naturtrüb,Spaten-Franziskaner-Löwenbräu-Gruppe,
+lauter,Lee Ker,"Tue, 29 Sep 2026 15:01:33 +0000",,,Spaten Oktoberfest Ur-Märzen / Winter,Spaten-Franziskaner-Löwenbräu-Gruppe,
+lauter,Ido Kessler,"Tue, 29 Sep 2026 13:30:54 +0000",draft,4.0,Pomegranate Sour,Midbar Brewery,
+lauter,Ido Kessler,"Tue, 29 Sep 2026 13:29:58 +0000",draft,4.5,Gueuze Tilquin – Draft Version,Gueuzerie Tilquin,
