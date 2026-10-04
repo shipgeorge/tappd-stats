@@ -1,6 +1,6 @@
 // 🍺 BEER STATS DATA - Generated automatically
-// Last updated: 2026-10-03 11:30:55
-// Total records: 23017
+// Last updated: 2026-10-04 12:12:34
+// Total records: 23036
 
 const BEER_DATA = [
   {
@@ -2967,20 +2967,20 @@ const BEER_DATA = [
   {
     "venue": "b7-beer-house",
     "time": "2026-05-29T08:42:24+00:00",
-    "serving": "can",
-    "rating": 3.75,
-    "beer_name": "Hop Elixir: Citra, Citra Hyperboost, Citra Cryo, Citra Dynaboost",
-    "brewery": "Sibeeria Brewery",
-    "beer_type": "IPA - Session New England / Hazy"
-  },
-  {
-    "venue": "b7-beer-house",
-    "time": "2026-05-29T08:42:24+00:00",
     "serving": "draft",
     "rating": 3.75,
     "beer_name": "Prunes In Chocolate",
     "brewery": "Radionov",
     "beer_type": "Homebrew, Porter - Other"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T08:42:24+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Hop Elixir: Citra, Citra Hyperboost, Citra Cryo, Citra Dynaboost",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": "IPA - Session New England / Hazy"
   },
   {
     "venue": "b7-beer-house",
@@ -9652,15 +9652,6 @@ const BEER_DATA = [
     "beer_type": "IPA - American"
   },
   {
-    "venue": "schnitt-brewing-company",
-    "time": "2026-05-08T14:05:01+00:00",
-    "serving": "Unknown",
-    "rating": 3.5,
-    "beer_name": "Cheers Alenbeer",
-    "brewery": "Schnitt Brewing Company﻿",
-    "beer_type": "IPA - Session"
-  },
-  {
     "venue": "b7-beer-house",
     "time": "2026-05-08T14:05:01+00:00",
     "serving": "draft",
@@ -9668,6 +9659,15 @@ const BEER_DATA = [
     "beer_name": "Helix",
     "brewery": "Equilibrium Brewery",
     "beer_type": "Pilsner - German"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-08T14:05:01+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "Cheers Alenbeer",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - Session"
   },
   {
     "venue": "b7-beer-house",
@@ -207154,6 +207154,177 @@ const BEER_DATA = [
     "rating": 3.75,
     "beer_name": "Hoppy Golden Ale",
     "brewery": "Midbar Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-10-04T10:51:57+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Sun Drip",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-10-04T10:51:28+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "עסק שחור",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-10-04T10:39:06+00:00",
+    "serving": "Unknown",
+    "rating": 3.25,
+    "beer_name": "שיקוי",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-10-04T10:33:15+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "Life Gose On",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-10-04T10:31:04+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "Etrog In the Fog",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-10-03T18:03:46+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "Life Gose On",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-10-03T15:47:55+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Tea Party: Hibiscus And Wild Berry",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-10-03T15:13:14+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Etrog In the Fog",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-10-03T14:44:09+00:00",
+    "serving": "draft",
+    "rating": 3.25,
+    "beer_name": "Tea Party: Hibiscus And Wild Berry",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-10-03T14:02:50+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "עסק שחור",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-10-03T13:08:17+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Sun Drip",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-10-04T10:23:40+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "קומזיץ",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-10-03T20:23:28+00:00",
+    "serving": "bottle",
+    "rating": 4.6,
+    "beer_name": "3 Fonteinen Schaarbeekse Kriek Oogst 2020 (season 20|21) Blend No. 61",
+    "brewery": "Brouwerij 3 Fonteinen",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-10-03T20:21:29+00:00",
+    "serving": "can",
+    "rating": 3.8,
+    "beer_name": "Torpedo Extra IPA",
+    "brewery": "Sierra Nevada Brewing Co.",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-10-03T18:27:59+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Hazy Jane Tropical",
+    "brewery": "BrewDog",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-10-03T15:23:46+00:00",
+    "serving": "can",
+    "rating": 4.2,
+    "beer_name": "Hydra | Peach + Peach + Peach",
+    "brewery": "Mortalis Brewing Company",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-10-03T14:34:46+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "אם המבשלות",
+    "brewery": "BeerBazaar / Mivshelet Ha’Aretz",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-10-03T14:25:42+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "Hazy Day",
+    "brewery": "Greene King",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-10-03T13:11:52+00:00",
+    "serving": "draft",
+    "rating": 3.25,
+    "beer_name": "Anything Gose: Blood Orange",
+    "brewery": "Schnitt Brewing Company﻿",
     "beer_type": ""
   }
 ];
