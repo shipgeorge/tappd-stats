@@ -1,6 +1,6 @@
 // 🍺 BEER STATS DATA - Generated automatically
-// Last updated: 2026-10-06 13:11:39
-// Total records: 23078
+// Last updated: 2026-10-07 13:08:14
+// Total records: 23105
 
 const BEER_DATA = [
   {
@@ -2967,20 +2967,20 @@ const BEER_DATA = [
   {
     "venue": "b7-beer-house",
     "time": "2026-05-29T08:42:24+00:00",
-    "serving": "draft",
-    "rating": 3.75,
-    "beer_name": "Prunes In Chocolate",
-    "brewery": "Radionov",
-    "beer_type": "Homebrew, Porter - Other"
-  },
-  {
-    "venue": "b7-beer-house",
-    "time": "2026-05-29T08:42:24+00:00",
     "serving": "can",
     "rating": 3.75,
     "beer_name": "Hop Elixir: Citra, Citra Hyperboost, Citra Cryo, Citra Dynaboost",
     "brewery": "Sibeeria Brewery",
     "beer_type": "IPA - Session New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T08:42:24+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Prunes In Chocolate",
+    "brewery": "Radionov",
+    "beer_type": "Homebrew, Porter - Other"
   },
   {
     "venue": "b7-beer-house",
@@ -9652,15 +9652,6 @@ const BEER_DATA = [
     "beer_type": "IPA - American"
   },
   {
-    "venue": "b7-beer-house",
-    "time": "2026-05-08T14:05:01+00:00",
-    "serving": "draft",
-    "rating": 4.0,
-    "beer_name": "Helix",
-    "brewery": "Equilibrium Brewery",
-    "beer_type": "Pilsner - German"
-  },
-  {
     "venue": "schnitt-brewing-company",
     "time": "2026-05-08T14:05:01+00:00",
     "serving": "Unknown",
@@ -9668,6 +9659,15 @@ const BEER_DATA = [
     "beer_name": "Cheers Alenbeer",
     "brewery": "Schnitt Brewing Company﻿",
     "beer_type": "IPA - Session"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-08T14:05:01+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Helix",
+    "brewery": "Equilibrium Brewery",
+    "beer_type": "Pilsner - German"
   },
   {
     "venue": "b7-beer-house",
@@ -207703,6 +207703,249 @@ const BEER_DATA = [
     "rating": 3.75,
     "beer_name": "חוה",
     "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-10-06T17:17:29+00:00",
+    "serving": "can",
+    "rating": 4.2,
+    "beer_name": "DUMB FRUIT 1",
+    "brewery": "Evil Twin Brewing NYC",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-10-06T17:16:45+00:00",
+    "serving": "can",
+    "rating": 4.5,
+    "beer_name": "DUMB FRUIT 1",
+    "brewery": "Evil Twin Brewing NYC",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-10-06T17:13:11+00:00",
+    "serving": "can",
+    "rating": 4.4,
+    "beer_name": "DUMB FRUIT 1",
+    "brewery": "Evil Twin Brewing NYC",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-10-06T16:49:44+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Lollihop",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-10-06T19:18:38+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Hazy Jane Tropical",
+    "brewery": "BrewDog",
+    "beer_type": ""
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-10-06T17:28:49+00:00",
+    "serving": "can",
+    "rating": 2.75,
+    "beer_name": "PURPLE RICE LAGER - BATCH 2",
+    "brewery": "Evil Twin Brewing NYC",
+    "beer_type": ""
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-10-06T17:26:37+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "Pastry Factory: Coconut Chocolate Truffles",
+    "brewery": "Moersleutel Craft Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-10-06T17:11:20+00:00",
+    "serving": "can",
+    "rating": 4.5,
+    "beer_name": "Hazy Jane Tropical",
+    "brewery": "BrewDog",
+    "beer_type": ""
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-10-06T16:36:04+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "Pastry Factory: Coconut Chocolate Truffles",
+    "brewery": "Moersleutel Craft Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-10-06T16:35:21+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "10 Years: Exploration",
+    "brewery": "Moersleutel Craft Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-10-06T16:33:35+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Pastry Factory: Coconut Chocolate Truffles",
+    "brewery": "Moersleutel Craft Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-10-06T16:13:40+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Kaaskop Blond",
+    "brewery": "Moersleutel Craft Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-10-06T16:13:30+00:00",
+    "serving": "can",
+    "rating": 3.8,
+    "beer_name": "10 Years: Exploration",
+    "brewery": "Moersleutel Craft Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-10-06T16:10:53+00:00",
+    "serving": "can",
+    "rating": 3.6,
+    "beer_name": "Kaaskop Blond",
+    "brewery": "Moersleutel Craft Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-10-06T15:56:04+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Trail Pass IPA",
+    "brewery": "Sierra Nevada Brewing Co.",
+    "beer_type": ""
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-10-06T15:50:36+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "PURPLE RICE LAGER - BATCH 2",
+    "brewery": "Evil Twin Brewing NYC",
+    "beer_type": ""
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-10-06T15:46:46+00:00",
+    "serving": "can",
+    "rating": 3.25,
+    "beer_name": "Polaban světlý ležák",
+    "brewery": "Pivovar Nymburk",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-10-07T11:53:57+00:00",
+    "serving": "draft",
+    "rating": 4.75,
+    "beer_name": "הפילס שבחדר the Pils In the Room",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-10-07T09:05:14+00:00",
+    "serving": "draft",
+    "rating": null,
+    "beer_name": "עסק שחור",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-10-07T09:04:52+00:00",
+    "serving": "draft",
+    "rating": null,
+    "beer_name": "Tea Party: Hibiscus And Wild Berry",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-10-07T09:04:25+00:00",
+    "serving": "draft",
+    "rating": null,
+    "beer_name": "Sessionista",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-10-07T09:04:01+00:00",
+    "serving": "draft",
+    "rating": null,
+    "beer_name": "Suktoberfest (סוכטוברפסט)",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-10-07T09:03:35+00:00",
+    "serving": "draft",
+    "rating": null,
+    "beer_name": "Life Gose On",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-10-07T09:03:04+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "שיקוי",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-10-06T20:11:34+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Etrog In the Fog",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "beerz",
+    "time": "2026-10-06T19:12:22+00:00",
+    "serving": "can",
+    "rating": 3.0,
+    "beer_name": "Drunken Sailor",
+    "brewery": "CREW Republic",
+    "beer_type": ""
+  },
+  {
+    "venue": "beerz",
+    "time": "2026-10-06T17:14:03+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Jackpot Hazy IPA",
+    "brewery": "CREW Republic",
     "beer_type": ""
   }
 ];
