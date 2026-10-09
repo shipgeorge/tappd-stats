@@ -1,6 +1,6 @@
 // 🍺 BEER STATS DATA - Generated automatically
-// Last updated: 2026-10-08 13:15:26
-// Total records: 23120
+// Last updated: 2026-10-09 13:03:01
+// Total records: 23152
 
 const BEER_DATA = [
   {
@@ -2967,20 +2967,20 @@ const BEER_DATA = [
   {
     "venue": "b7-beer-house",
     "time": "2026-05-29T08:42:24+00:00",
-    "serving": "draft",
-    "rating": 3.75,
-    "beer_name": "Prunes In Chocolate",
-    "brewery": "Radionov",
-    "beer_type": "Homebrew, Porter - Other"
-  },
-  {
-    "venue": "b7-beer-house",
-    "time": "2026-05-29T08:42:24+00:00",
     "serving": "can",
     "rating": 3.75,
     "beer_name": "Hop Elixir: Citra, Citra Hyperboost, Citra Cryo, Citra Dynaboost",
     "brewery": "Sibeeria Brewery",
     "beer_type": "IPA - Session New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T08:42:24+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Prunes In Chocolate",
+    "brewery": "Radionov",
+    "beer_type": "Homebrew, Porter - Other"
   },
   {
     "venue": "b7-beer-house",
@@ -9652,15 +9652,6 @@ const BEER_DATA = [
     "beer_type": "IPA - American"
   },
   {
-    "venue": "b7-beer-house",
-    "time": "2026-05-08T14:05:01+00:00",
-    "serving": "draft",
-    "rating": 4.0,
-    "beer_name": "Helix",
-    "brewery": "Equilibrium Brewery",
-    "beer_type": "Pilsner - German"
-  },
-  {
     "venue": "schnitt-brewing-company",
     "time": "2026-05-08T14:05:01+00:00",
     "serving": "Unknown",
@@ -9668,6 +9659,15 @@ const BEER_DATA = [
     "beer_name": "Cheers Alenbeer",
     "brewery": "Schnitt Brewing Company﻿",
     "beer_type": "IPA - Session"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-08T14:05:01+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Helix",
+    "brewery": "Equilibrium Brewery",
+    "beer_type": "Pilsner - German"
   },
   {
     "venue": "b7-beer-house",
@@ -208081,6 +208081,294 @@ const BEER_DATA = [
     "rating": 3.5,
     "beer_name": "Mind the Gap",
     "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-10-09T11:54:48+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "Hoppy Ever After",
+    "brewery": "New Pioneer Brewing Co - חלוץ חדש",
+    "beer_type": ""
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-10-08T20:00:51+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Mind the Gap",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-10-08T19:43:43+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "קומזיץ",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-10-08T20:32:15+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "עסק שחור",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-10-08T19:51:53+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "What Was Was",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-10-08T19:51:34+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "Sessionista",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-10-08T15:24:03+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Let's Get Tropical",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-10-08T15:22:57+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Hopangan",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-10-08T14:52:03+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "What Was Was Was Was",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-10-08T14:44:07+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "Sessionista",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-10-08T14:13:51+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Jaffa IPA",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-10-08T14:03:25+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Tea Party: Hibiscus And Wild Berry",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-10-09T12:05:17+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "Hazy Day",
+    "brewery": "Greene King",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-10-08T21:29:52+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Californication - Sabro / Citra / Idaho 7",
+    "brewery": "Maryensztadt",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-10-08T20:46:32+00:00",
+    "serving": "bottle",
+    "rating": 4.25,
+    "beer_name": "Night Shift Vintage 2023 - Vanilla & Cinnamon Bundt Cake Pastry Stout Aged In Tennessee Whiskey Barrels",
+    "brewery": "HORIZONT Brewing",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-10-08T20:22:36+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "Twist & Stout",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-10-08T19:17:00+00:00",
+    "serving": "Unknown",
+    "rating": 4.25,
+    "beer_name": "Beer Geek Cocoa Shake",
+    "brewery": "Mikkeller Brewing San Diego",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-10-08T19:01:14+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Even More Hydra",
+    "brewery": "Mortalis Brewing Company",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-10-08T18:33:04+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Twist & Stout",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-10-08T18:17:18+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Delirium Red",
+    "brewery": "Delirium - Huyghe Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-10-08T18:16:33+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Löwenbräu Märzen",
+    "brewery": "Spaten-Franziskaner-Löwenbräu-Gruppe",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-10-08T16:43:20+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Hazy Day",
+    "brewery": "Greene King",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-10-08T16:24:47+00:00",
+    "serving": "can",
+    "rating": 4.5,
+    "beer_name": "DUMB FRUIT 1",
+    "brewery": "Evil Twin Brewing NYC",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-10-08T16:12:27+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "Even More Hydra",
+    "brewery": "Mortalis Brewing Company",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-10-08T15:47:09+00:00",
+    "serving": "Unknown",
+    "rating": 3.0,
+    "beer_name": "Spaten Oktoberfest Ur-Märzen / Winter",
+    "brewery": "Spaten-Franziskaner-Löwenbräu-Gruppe",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-10-08T15:46:59+00:00",
+    "serving": "Unknown",
+    "rating": 3.25,
+    "beer_name": "Löwenbräu Märzen",
+    "brewery": "Spaten-Franziskaner-Löwenbräu-Gruppe",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-10-08T15:46:37+00:00",
+    "serving": "Unknown",
+    "rating": 2.75,
+    "beer_name": "Hazy Day",
+    "brewery": "Greene King",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-10-08T15:46:27+00:00",
+    "serving": "Unknown",
+    "rating": 3.0,
+    "beer_name": "Hoppy Golden Ale",
+    "brewery": "Midbar Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "beer-station-beersheba-israel",
+    "time": "2026-10-08T19:09:02+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Pilsner Urquell",
+    "brewery": "Plzeňský Prazdroj",
+    "beer_type": ""
+  },
+  {
+    "venue": "beer-station-beersheba-israel",
+    "time": "2026-10-08T19:08:43+00:00",
+    "serving": "draft",
+    "rating": 4.5,
+    "beer_name": "Edelweiss Weizenbier",
+    "brewery": "Brau Union Österreich",
+    "beer_type": ""
+  },
+  {
+    "venue": "beerz",
+    "time": "2026-10-09T10:21:28+00:00",
+    "serving": "draft",
+    "rating": 3.8,
+    "beer_name": "Barbãr Bok",
+    "brewery": "Brasserie Lefebvre",
+    "beer_type": ""
+  },
+  {
+    "venue": "beerz",
+    "time": "2026-10-09T10:19:32+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Hazy Queen",
+    "brewery": "HORIZONT Brewing",
     "beer_type": ""
   }
 ];

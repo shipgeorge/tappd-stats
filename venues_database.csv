@@ -328,8 +328,8 @@ b7-beer-house,Ziv Shwartzman,"Fri, 29 May 2026 08:44:41 +0000",draft,3.75,Pilsne
 b7-beer-house,Yana O,"Fri, 29 May 2026 08:43:54 +0000",bottle,4.0,Night Shift Vintage 2025 / Russian Imperial Stout Aged In Rhum And Vanilla Macadamia Rum Barrels,HORIZONT Brewing,Stout - Russian Imperial
 b7-beer-house,גל סילברמן,"Fri, 29 May 2026 08:43:40 +0000",bottle,4.7,Experiments In the Kitchen,Mortalis Brewing Company,Stout - Imperial / Double Pastry
 b7-beer-house,Tom Lahav,"Fri, 29 May 2026 08:43:38 +0000",can,4.0,Prague Tap Room 2nd Anniversary,Sibeeria Brewery,IPA - Triple New England / Hazy
-b7-beer-house,Ziv Shwartzman,"Fri, 29 May 2026 08:42:24 +0000",draft,3.75,Prunes In Chocolate,Radionov,"Homebrew, Porter - Other"
 b7-beer-house,Tom Lahav,"Fri, 29 May 2026 08:42:24 +0000",can,3.75,"Hop Elixir: Citra, Citra Hyperboost, Citra Cryo, Citra Dynaboost",Sibeeria Brewery,IPA - Session New England / Hazy
+b7-beer-house,Ziv Shwartzman,"Fri, 29 May 2026 08:42:24 +0000",draft,3.75,Prunes In Chocolate,Radionov,"Homebrew, Porter - Other"
 b7-beer-house,Ido Cohen,"Fri, 29 May 2026 08:42:17 +0000",bottle,4.0,Night Shift Vintage 2025 / Double Chocolate Imperial Milk Porter  Aged In Bourbon Barrels,HORIZONT Brewing,Porter - Imperial / Double
 b7-beer-house,Mikhail Stolov,"Fri, 29 May 2026 08:41:47 +0000",can,3.75,"Hop Elixir: Citra, Citra Hyperboost, Citra Cryo, Citra Dynaboost",Sibeeria Brewery,IPA - Session New England / Hazy
 b7-beer-house,Ido Cohen,"Fri, 29 May 2026 08:41:42 +0000",bottle,3.9,Night Shift Vintage 2025 / Peanut Butter Jelly Imperial Pastry Stout Aged In Pedro Ximénez Sherry Barrels,HORIZONT Brewing,Stout - Imperial / Double Pastry
@@ -1071,8 +1071,8 @@ schnitt-brewing-company,Andrey Granovsky,"Fri, 08 May 2026 14:26:07 +0000",draft
 lauter,dafi20,"Fri, 08 May 2026 14:26:00 +0000",draft,3.5,Oasis,Negev Brewery (נגב),Blonde / Golden Ale - Other
 schnitt-brewing-company,Dr Troubles,"Fri, 08 May 2026 14:20:50 +0000",draft,3.25,Ice Ice Bockbier,Schnitt Brewing Company﻿,Bock - Eisbock
 b7-beer-house,Oren Hazan,"Fri, 08 May 2026 14:05:49 +0000",draft,4.0,I Love the Smell of Strata In the Morning,Sibeeria Brewery,IPA - American
-b7-beer-house,Oren Hazan,"Fri, 08 May 2026 14:05:01 +0000",draft,4.0,Helix,Equilibrium Brewery,Pilsner - German
 schnitt-brewing-company,Yoav Kowalski,"Fri, 08 May 2026 14:05:01 +0000",,3.5,Cheers Alenbeer,Schnitt Brewing Company﻿,IPA - Session
+b7-beer-house,Oren Hazan,"Fri, 08 May 2026 14:05:01 +0000",draft,4.0,Helix,Equilibrium Brewery,Pilsner - German
 b7-beer-house,Oren Hazan,"Fri, 08 May 2026 14:04:15 +0000",draft,3.75,רוביקון,New Pioneer Brewing Co - חלוץ חדש,Brown Ale - American
 schnitt-brewing-company,Yoav Kowalski,"Fri, 08 May 2026 14:04:02 +0000",draft,3.25,Ice Ice Bockbier,Schnitt Brewing Company﻿,Bock - Eisbock
 schnitt-brewing-company,Vladimir Kanevsky,"Fri, 08 May 2026 13:59:02 +0000",draft,4.0,Cheers Alenbeer,Schnitt Brewing Company﻿,IPA - Session
@@ -23119,3 +23119,35 @@ schnitt-brewing-company,Itai Orr,"Wed, 07 Oct 2026 14:58:31 +0000",draft,3.25,ה
 schnitt-brewing-company,Itai Orr,"Wed, 07 Oct 2026 14:55:48 +0000",draft,3.25,Mind the Gap,Schnitt Brewing Company﻿,
 schnitt-brewing-company,Cormac Mc Donnell,"Wed, 07 Oct 2026 14:42:28 +0000",draft,4.0,Etrog In the Fog,Schnitt Brewing Company﻿,
 schnitt-brewing-company,Cormac Mc Donnell,"Wed, 07 Oct 2026 14:37:47 +0000",draft,3.5,Mind the Gap,Schnitt Brewing Company﻿,
+b7-beer-house,Oren Hazan,"Fri, 09 Oct 2026 11:54:48 +0000",draft,4.25,Hoppy Ever After,New Pioneer Brewing Co - חלוץ חדש,
+b7-beer-house,Dima Shleifman,"Thu, 08 Oct 2026 20:00:51 +0000",can,3.5,Mind the Gap,Schnitt Brewing Company﻿,
+b7-beer-house,Dima Shleifman,"Thu, 08 Oct 2026 19:43:43 +0000",can,3.5,קומזיץ,Schnitt Brewing Company﻿,
+schnitt-brewing-company,amit_shitrit_6786,"Thu, 08 Oct 2026 20:32:15 +0000",,3.75,עסק שחור,Schnitt Brewing Company﻿,
+schnitt-brewing-company,Nadav Cohen,"Thu, 08 Oct 2026 19:51:53 +0000",,4.0,What Was Was,Schnitt Brewing Company﻿,
+schnitt-brewing-company,Nadav Cohen,"Thu, 08 Oct 2026 19:51:34 +0000",,3.75,Sessionista,Schnitt Brewing Company﻿,
+schnitt-brewing-company,Ido Meir,"Thu, 08 Oct 2026 15:24:03 +0000",,4.0,Let's Get Tropical,Schnitt Brewing Company﻿,
+schnitt-brewing-company,Ido Meir,"Thu, 08 Oct 2026 15:22:57 +0000",,4.0,Hopangan,Schnitt Brewing Company﻿,
+schnitt-brewing-company,levlev444,"Thu, 08 Oct 2026 14:52:03 +0000",draft,4.0,What Was Was Was Was,Schnitt Brewing Company﻿,
+schnitt-brewing-company,Yana O,"Thu, 08 Oct 2026 14:44:07 +0000",,3.5,Sessionista,Schnitt Brewing Company﻿,
+schnitt-brewing-company,Yana O,"Thu, 08 Oct 2026 14:13:51 +0000",,4.0,Jaffa IPA,Schnitt Brewing Company﻿,
+schnitt-brewing-company,German Syomov,"Thu, 08 Oct 2026 14:03:25 +0000",draft,3.75,Tea Party: Hibiscus And Wild Berry,Schnitt Brewing Company﻿,
+lauter,Tom Lahav,"Fri, 09 Oct 2026 12:05:17 +0000",,3.5,Hazy Day,Greene King,
+lauter,Nir Langer,"Thu, 08 Oct 2026 21:29:52 +0000",can,3.75,Californication - Sabro / Citra / Idaho 7,Maryensztadt,
+lauter,Elad Schitrit,"Thu, 08 Oct 2026 20:46:32 +0000",bottle,4.25,Night Shift Vintage 2023 - Vanilla & Cinnamon Bundt Cake Pastry Stout Aged In Tennessee Whiskey Barrels,HORIZONT Brewing,
+lauter,amit_shitrit_6786,"Thu, 08 Oct 2026 20:22:36 +0000",,3.5,Twist & Stout,Schnitt Brewing Company﻿,
+lauter,Elad Schitrit,"Thu, 08 Oct 2026 19:17:00 +0000",,4.25,Beer Geek Cocoa Shake,Mikkeller Brewing San Diego,
+lauter,Nir Langer,"Thu, 08 Oct 2026 19:01:14 +0000",can,3.75,Even More Hydra,Mortalis Brewing Company,
+lauter,Nir Langer,"Thu, 08 Oct 2026 18:33:04 +0000",,,Twist & Stout,Schnitt Brewing Company﻿,
+lauter,S C,"Thu, 08 Oct 2026 18:17:18 +0000",draft,3.5,Delirium Red,Delirium - Huyghe Brewery,
+lauter,S C,"Thu, 08 Oct 2026 18:16:33 +0000",draft,3.5,Löwenbräu Märzen,Spaten-Franziskaner-Löwenbräu-Gruppe,
+lauter,S C,"Thu, 08 Oct 2026 16:43:20 +0000",draft,3.5,Hazy Day,Greene King,
+lauter,Ido Meir,"Thu, 08 Oct 2026 16:24:47 +0000",can,4.5,DUMB FRUIT 1,Evil Twin Brewing NYC,
+lauter,S C,"Thu, 08 Oct 2026 16:12:27 +0000",can,4.25,Even More Hydra,Mortalis Brewing Company,
+lauter,NeriyaBeerlowitz,"Thu, 08 Oct 2026 15:47:09 +0000",,3.0,Spaten Oktoberfest Ur-Märzen / Winter,Spaten-Franziskaner-Löwenbräu-Gruppe,
+lauter,NeriyaBeerlowitz,"Thu, 08 Oct 2026 15:46:59 +0000",,3.25,Löwenbräu Märzen,Spaten-Franziskaner-Löwenbräu-Gruppe,
+lauter,NeriyaBeerlowitz,"Thu, 08 Oct 2026 15:46:37 +0000",,2.75,Hazy Day,Greene King,
+lauter,NeriyaBeerlowitz,"Thu, 08 Oct 2026 15:46:27 +0000",,3.0,Hoppy Golden Ale,Midbar Brewery,
+beer-station-beersheba-israel,Vlad Blok,"Thu, 08 Oct 2026 19:09:02 +0000",draft,3.5,Pilsner Urquell,Plzeňský Prazdroj,
+beer-station-beersheba-israel,Vlad Blok,"Thu, 08 Oct 2026 19:08:43 +0000",draft,4.5,Edelweiss Weizenbier,Brau Union Österreich,
+beerz,NightFish,"Fri, 09 Oct 2026 10:21:28 +0000",draft,3.8,Barbãr Bok,Brasserie Lefebvre,
+beerz,NightFish,"Fri, 09 Oct 2026 10:19:32 +0000",draft,4.0,Hazy Queen,HORIZONT Brewing,
