@@ -1,6 +1,6 @@
 // 🍺 BEER STATS DATA - Generated automatically
-// Last updated: 2026-10-10 12:19:09
-// Total records: 23172
+// Last updated: 2026-10-11 12:35:51
+// Total records: 23201
 
 const BEER_DATA = [
   {
@@ -2967,20 +2967,20 @@ const BEER_DATA = [
   {
     "venue": "b7-beer-house",
     "time": "2026-05-29T08:42:24+00:00",
-    "serving": "draft",
-    "rating": 3.75,
-    "beer_name": "Prunes In Chocolate",
-    "brewery": "Radionov",
-    "beer_type": "Homebrew, Porter - Other"
-  },
-  {
-    "venue": "b7-beer-house",
-    "time": "2026-05-29T08:42:24+00:00",
     "serving": "can",
     "rating": 3.75,
     "beer_name": "Hop Elixir: Citra, Citra Hyperboost, Citra Cryo, Citra Dynaboost",
     "brewery": "Sibeeria Brewery",
     "beer_type": "IPA - Session New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T08:42:24+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Prunes In Chocolate",
+    "brewery": "Radionov",
+    "beer_type": "Homebrew, Porter - Other"
   },
   {
     "venue": "b7-beer-house",
@@ -9652,15 +9652,6 @@ const BEER_DATA = [
     "beer_type": "IPA - American"
   },
   {
-    "venue": "b7-beer-house",
-    "time": "2026-05-08T14:05:01+00:00",
-    "serving": "draft",
-    "rating": 4.0,
-    "beer_name": "Helix",
-    "brewery": "Equilibrium Brewery",
-    "beer_type": "Pilsner - German"
-  },
-  {
     "venue": "schnitt-brewing-company",
     "time": "2026-05-08T14:05:01+00:00",
     "serving": "Unknown",
@@ -9668,6 +9659,15 @@ const BEER_DATA = [
     "beer_name": "Cheers Alenbeer",
     "brewery": "Schnitt Brewing Company﻿",
     "beer_type": "IPA - Session"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-08T14:05:01+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Helix",
+    "brewery": "Equilibrium Brewery",
+    "beer_type": "Pilsner - German"
   },
   {
     "venue": "b7-beer-house",
@@ -208549,6 +208549,267 @@ const BEER_DATA = [
     "rating": 3.5,
     "beer_name": "NEIPA",
     "brewery": "Volfas Engelman",
+    "beer_type": ""
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-10-11T11:47:14+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "Möbius",
+    "brewery": "Equilibrium Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-10-11T10:57:44+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Float",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-10-11T09:51:04+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Float",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-10-10T16:30:41+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "עסק שחור",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-10-10T16:29:35+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Twist & Stout",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-10-10T16:16:10+00:00",
+    "serving": "draft",
+    "rating": 3.0,
+    "beer_name": "Sun Drip",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-10-10T15:36:21+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Float",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "porter-and-sons",
+    "time": "2026-10-10T14:17:34+00:00",
+    "serving": "draft",
+    "rating": 4.5,
+    "beer_name": "Meerts Tilquin à la Kriek de Schaerbeek",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-10-10T21:41:59+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "eMCee",
+    "brewery": "Equilibrium Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-10-10T20:24:24+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "Even More Hydra",
+    "brewery": "Mortalis Brewing Company",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-10-10T19:46:37+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "eMCee",
+    "brewery": "Equilibrium Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-10-10T19:07:48+00:00",
+    "serving": "draft",
+    "rating": 3.25,
+    "beer_name": "City Lights",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-10-10T18:45:56+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Tea Party: Hibiscus And Wild Berry",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-10-10T18:44:24+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Lollihop",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-10-10T18:34:32+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "קומזיץ",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-10-10T17:58:12+00:00",
+    "serving": "draft",
+    "rating": 3.6,
+    "beer_name": "קומזיץ",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-10-10T17:57:03+00:00",
+    "serving": "draft",
+    "rating": 3.0,
+    "beer_name": "Hoppy Golden Ale",
+    "brewery": "Midbar Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-10-10T17:51:25+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "קומזיץ",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-10-10T16:58:57+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Tea Party: Hibiscus And Wild Berry",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-10-10T16:47:12+00:00",
+    "serving": "draft",
+    "rating": 3.25,
+    "beer_name": "Hazy Day",
+    "brewery": "Greene King",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-10-10T16:21:55+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Hoppy Lager (לאגר)",
+    "brewery": "Malka (מלכה)",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-10-10T15:59:20+00:00",
+    "serving": "bottle",
+    "rating": 3.75,
+    "beer_name": "Delirium Tremens",
+    "brewery": "Delirium - Huyghe Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-10-10T15:58:37+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "קומזיץ",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-10-10T15:56:52+00:00",
+    "serving": "can",
+    "rating": 3.25,
+    "beer_name": "Double Intergalactica",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-10-10T15:47:21+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Delirium Tremens",
+    "brewery": "Delirium - Huyghe Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-10-10T15:46:37+00:00",
+    "serving": "can",
+    "rating": 4.75,
+    "beer_name": "THIS KIHOSKH NEEDS AN EVEN EVEN MORE MORE MUCH MUCH BIGGER BIGGER BEER SELECTION",
+    "brewery": "Evil Twin Brewing NYC",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-10-10T14:01:37+00:00",
+    "serving": "bottle",
+    "rating": 1.75,
+    "beer_name": "Noa Pecan Mud Cake Stout",
+    "brewery": "Omnipollo",
+    "beer_type": ""
+  },
+  {
+    "venue": "beer-station-beersheba-israel",
+    "time": "2026-10-10T12:29:20+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Pilsner Urquell",
+    "brewery": "Plzeňský Prazdroj",
+    "beer_type": ""
+  },
+  {
+    "venue": "beer-station-beersheba-israel",
+    "time": "2026-10-10T12:28:49+00:00",
+    "serving": "draft",
+    "rating": 3.25,
+    "beer_name": "Prior 8",
+    "brewery": "Brouwerij St.Bernardus",
     "beer_type": ""
   }
 ];
