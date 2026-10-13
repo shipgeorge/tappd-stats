@@ -1,6 +1,6 @@
 // 🍺 BEER STATS DATA - Generated automatically
-// Last updated: 2026-10-12 15:09:09
-// Total records: 23232
+// Last updated: 2026-10-13 14:01:18
+// Total records: 23257
 
 const BEER_DATA = [
   {
@@ -2967,20 +2967,20 @@ const BEER_DATA = [
   {
     "venue": "b7-beer-house",
     "time": "2026-05-29T08:42:24+00:00",
-    "serving": "draft",
-    "rating": 3.75,
-    "beer_name": "Prunes In Chocolate",
-    "brewery": "Radionov",
-    "beer_type": "Homebrew, Porter - Other"
-  },
-  {
-    "venue": "b7-beer-house",
-    "time": "2026-05-29T08:42:24+00:00",
     "serving": "can",
     "rating": 3.75,
     "beer_name": "Hop Elixir: Citra, Citra Hyperboost, Citra Cryo, Citra Dynaboost",
     "brewery": "Sibeeria Brewery",
     "beer_type": "IPA - Session New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T08:42:24+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Prunes In Chocolate",
+    "brewery": "Radionov",
+    "beer_type": "Homebrew, Porter - Other"
   },
   {
     "venue": "b7-beer-house",
@@ -9652,15 +9652,6 @@ const BEER_DATA = [
     "beer_type": "IPA - American"
   },
   {
-    "venue": "b7-beer-house",
-    "time": "2026-05-08T14:05:01+00:00",
-    "serving": "draft",
-    "rating": 4.0,
-    "beer_name": "Helix",
-    "brewery": "Equilibrium Brewery",
-    "beer_type": "Pilsner - German"
-  },
-  {
     "venue": "schnitt-brewing-company",
     "time": "2026-05-08T14:05:01+00:00",
     "serving": "Unknown",
@@ -9668,6 +9659,15 @@ const BEER_DATA = [
     "beer_name": "Cheers Alenbeer",
     "brewery": "Schnitt Brewing Company﻿",
     "beer_type": "IPA - Session"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-08T14:05:01+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Helix",
+    "brewery": "Equilibrium Brewery",
+    "beer_type": "Pilsner - German"
   },
   {
     "venue": "b7-beer-house",
@@ -209089,6 +209089,231 @@ const BEER_DATA = [
     "rating": 4.25,
     "beer_name": "Never Say Never Michelada Tomato Gose",
     "brewery": "Ārpus Brewing Co.",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-10-13T10:59:18+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "Anything Gose: Blood Orange",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-10-13T10:58:55+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "Let's Get Tropical",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-10-12T20:05:27+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Float",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-10-12T20:04:56+00:00",
+    "serving": "draft",
+    "rating": 2.75,
+    "beer_name": "Life Gose On",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-10-12T17:27:05+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Sessionista",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-10-12T17:26:49+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Float",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-10-12T19:57:37+00:00",
+    "serving": "bottle",
+    "rating": 4.25,
+    "beer_name": "Classic Gueuze (2024)",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-10-12T18:34:06+00:00",
+    "serving": "bottle",
+    "rating": 4.25,
+    "beer_name": "Necessary Evil Single Malt English Whisky",
+    "brewery": "Thornbridge Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-10-12T18:29:28+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Hoppy Golden Ale",
+    "brewery": "Midbar Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-10-12T18:28:28+00:00",
+    "serving": "bottle",
+    "rating": 4.5,
+    "beer_name": "Oude Geuze Vieille - Barrel Selection Foeder 21 (2022)",
+    "brewery": "Oud Beersel",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-10-12T17:52:03+00:00",
+    "serving": "bottle",
+    "rating": 3.75,
+    "beer_name": "Classic Gueuze (2024)",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-10-12T17:47:02+00:00",
+    "serving": "bottle",
+    "rating": 3.75,
+    "beer_name": "Classic Gueuze (2024)",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-10-12T17:19:25+00:00",
+    "serving": "bottle",
+    "rating": 4.25,
+    "beer_name": "Faraway Friends (Cellar Series)",
+    "brewery": "Põhjala",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-10-12T17:18:52+00:00",
+    "serving": "bottle",
+    "rating": 4.25,
+    "beer_name": "Faraway Friends (Cellar Series)",
+    "brewery": "Põhjala",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-10-12T16:57:51+00:00",
+    "serving": "bottle",
+    "rating": 4.0,
+    "beer_name": "Northern Decadence (Cellar Series)",
+    "brewery": "Põhjala",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-10-12T16:57:00+00:00",
+    "serving": "bottle",
+    "rating": 4.0,
+    "beer_name": "Northern Decadence (Cellar Series)",
+    "brewery": "Põhjala",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-10-12T16:55:30+00:00",
+    "serving": "bottle",
+    "rating": 4.0,
+    "beer_name": "Northern Decadence (Cellar Series)",
+    "brewery": "Põhjala",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-10-12T16:47:42+00:00",
+    "serving": "bottle",
+    "rating": 3.5,
+    "beer_name": "Pime Öö PX (Cellar Series)",
+    "brewery": "Põhjala",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-10-12T16:33:57+00:00",
+    "serving": "bottle",
+    "rating": 4.0,
+    "beer_name": "Pime Öö PX (Cellar Series)",
+    "brewery": "Põhjala",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-10-12T16:10:45+00:00",
+    "serving": "bottle",
+    "rating": 4.25,
+    "beer_name": "Öö Raspberry",
+    "brewery": "Põhjala",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-10-12T16:07:33+00:00",
+    "serving": "bottle",
+    "rating": 4.0,
+    "beer_name": "Öö Raspberry",
+    "brewery": "Põhjala",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-10-12T15:54:30+00:00",
+    "serving": "bottle",
+    "rating": 4.25,
+    "beer_name": "Baltic Porter Day 2026",
+    "brewery": "Põhjala",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-10-12T15:53:18+00:00",
+    "serving": "bottle",
+    "rating": 4.25,
+    "beer_name": "Baltic Porter Day 2026",
+    "brewery": "Põhjala",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-10-12T15:53:03+00:00",
+    "serving": "bottle",
+    "rating": 4.0,
+    "beer_name": "Baltic Porter Day 2026",
+    "brewery": "Põhjala",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-10-12T15:50:45+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Mind the Gap",
+    "brewery": "Schnitt Brewing Company﻿",
     "beer_type": ""
   }
 ];
