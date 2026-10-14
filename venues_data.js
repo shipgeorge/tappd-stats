@@ -1,6 +1,6 @@
 // 🍺 BEER STATS DATA - Generated automatically
-// Last updated: 2026-10-13 14:01:18
-// Total records: 23257
+// Last updated: 2026-10-14 11:37:58
+// Total records: 23275
 
 const BEER_DATA = [
   {
@@ -2967,20 +2967,20 @@ const BEER_DATA = [
   {
     "venue": "b7-beer-house",
     "time": "2026-05-29T08:42:24+00:00",
-    "serving": "can",
-    "rating": 3.75,
-    "beer_name": "Hop Elixir: Citra, Citra Hyperboost, Citra Cryo, Citra Dynaboost",
-    "brewery": "Sibeeria Brewery",
-    "beer_type": "IPA - Session New England / Hazy"
-  },
-  {
-    "venue": "b7-beer-house",
-    "time": "2026-05-29T08:42:24+00:00",
     "serving": "draft",
     "rating": 3.75,
     "beer_name": "Prunes In Chocolate",
     "brewery": "Radionov",
     "beer_type": "Homebrew, Porter - Other"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T08:42:24+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Hop Elixir: Citra, Citra Hyperboost, Citra Cryo, Citra Dynaboost",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": "IPA - Session New England / Hazy"
   },
   {
     "venue": "b7-beer-house",
@@ -9652,15 +9652,6 @@ const BEER_DATA = [
     "beer_type": "IPA - American"
   },
   {
-    "venue": "schnitt-brewing-company",
-    "time": "2026-05-08T14:05:01+00:00",
-    "serving": "Unknown",
-    "rating": 3.5,
-    "beer_name": "Cheers Alenbeer",
-    "brewery": "Schnitt Brewing Company﻿",
-    "beer_type": "IPA - Session"
-  },
-  {
     "venue": "b7-beer-house",
     "time": "2026-05-08T14:05:01+00:00",
     "serving": "draft",
@@ -9668,6 +9659,15 @@ const BEER_DATA = [
     "beer_name": "Helix",
     "brewery": "Equilibrium Brewery",
     "beer_type": "Pilsner - German"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-08T14:05:01+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "Cheers Alenbeer",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - Session"
   },
   {
     "venue": "b7-beer-house",
@@ -209314,6 +209314,168 @@ const BEER_DATA = [
     "rating": 4.0,
     "beer_name": "Mind the Gap",
     "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-10-13T21:19:01+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "עסק שחור",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-10-13T14:55:03+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Float",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-10-13T18:35:22+00:00",
+    "serving": "can",
+    "rating": 3.0,
+    "beer_name": "Rosé",
+    "brewery": "Volfas Engelman",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-10-13T18:34:02+00:00",
+    "serving": "can",
+    "rating": 3.3,
+    "beer_name": "Rosé",
+    "brewery": "Volfas Engelman",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-10-13T16:56:30+00:00",
+    "serving": "draft",
+    "rating": 3.7,
+    "beer_name": "קומזיץ",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-10-13T16:55:15+00:00",
+    "serving": "draft",
+    "rating": 3.7,
+    "beer_name": "קומזיץ",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-10-13T16:01:37+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Delirium Tremens",
+    "brewery": "Delirium - Huyghe Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-10-13T15:55:00+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Nebulous Trail",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-10-13T14:41:35+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Kriek (2025) - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-10-13T14:41:19+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "קומזיץ",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "berlin-florentin",
+    "time": "2026-10-13T16:10:05+00:00",
+    "serving": "draft",
+    "rating": 5.0,
+    "beer_name": "Shikma IPA",
+    "brewery": "בירה שקמה Shikma Beer",
+    "beer_type": ""
+  },
+  {
+    "venue": "berlin-florentin",
+    "time": "2026-10-13T16:08:40+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "Shikma IPA",
+    "brewery": "בירה שקמה Shikma Beer",
+    "beer_type": ""
+  },
+  {
+    "venue": "berlin-florentin",
+    "time": "2026-10-13T16:06:41+00:00",
+    "serving": "bottle",
+    "rating": 4.5,
+    "beer_name": "Kasteel Rouge 0.0",
+    "brewery": "Kasteel Brouwerij Vanhonsebrouck",
+    "beer_type": ""
+  },
+  {
+    "venue": "beerz",
+    "time": "2026-10-13T19:23:57+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Blackberry X Blueberry X Mango X Pineapple X Peanut Butter Smoothie Sour Ale",
+    "brewery": "Ārpus Brewing Co.",
+    "beer_type": ""
+  },
+  {
+    "venue": "beerz",
+    "time": "2026-10-13T18:29:59+00:00",
+    "serving": "bottle",
+    "rating": 4.0,
+    "beer_name": "Aecht Schlenkerla Eiche – Doppelbock",
+    "brewery": "Schlenkerla (\"Heller-Bräu\" Trum)",
+    "beer_type": ""
+  },
+  {
+    "venue": "beerz",
+    "time": "2026-10-13T15:36:06+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "TDH Galaxy X Citra X Nelson Sauvin DIPA",
+    "brewery": "Ārpus Brewing Co.",
+    "beer_type": ""
+  },
+  {
+    "venue": "beerz",
+    "time": "2026-10-13T15:07:19+00:00",
+    "serving": "can",
+    "rating": 3.9,
+    "beer_name": "TDH Hand-Selected Nectaron X Riwaka IPA",
+    "brewery": "Ārpus Brewing Co.",
+    "beer_type": ""
+  },
+  {
+    "venue": "beerz",
+    "time": "2026-10-13T15:06:46+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "TDH Hand-Selected Nectaron X Riwaka IPA",
+    "brewery": "Ārpus Brewing Co.",
     "beer_type": ""
   }
 ];
