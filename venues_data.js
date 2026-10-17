@@ -1,6 +1,6 @@
 // 🍺 BEER STATS DATA - Generated automatically
-// Last updated: 2026-10-16 11:12:09
-// Total records: 23372
+// Last updated: 2026-10-17 10:31:32
+// Total records: 23507
 
 const BEER_DATA = [
   {
@@ -2967,20 +2967,20 @@ const BEER_DATA = [
   {
     "venue": "b7-beer-house",
     "time": "2026-05-29T08:42:24+00:00",
-    "serving": "draft",
-    "rating": 3.75,
-    "beer_name": "Prunes In Chocolate",
-    "brewery": "Radionov",
-    "beer_type": "Homebrew, Porter - Other"
-  },
-  {
-    "venue": "b7-beer-house",
-    "time": "2026-05-29T08:42:24+00:00",
     "serving": "can",
     "rating": 3.75,
     "beer_name": "Hop Elixir: Citra, Citra Hyperboost, Citra Cryo, Citra Dynaboost",
     "brewery": "Sibeeria Brewery",
     "beer_type": "IPA - Session New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T08:42:24+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Prunes In Chocolate",
+    "brewery": "Radionov",
+    "beer_type": "Homebrew, Porter - Other"
   },
   {
     "venue": "b7-beer-house",
@@ -9652,15 +9652,6 @@ const BEER_DATA = [
     "beer_type": "IPA - American"
   },
   {
-    "venue": "b7-beer-house",
-    "time": "2026-05-08T14:05:01+00:00",
-    "serving": "draft",
-    "rating": 4.0,
-    "beer_name": "Helix",
-    "brewery": "Equilibrium Brewery",
-    "beer_type": "Pilsner - German"
-  },
-  {
     "venue": "schnitt-brewing-company",
     "time": "2026-05-08T14:05:01+00:00",
     "serving": "Unknown",
@@ -9668,6 +9659,15 @@ const BEER_DATA = [
     "beer_name": "Cheers Alenbeer",
     "brewery": "Schnitt Brewing Company﻿",
     "beer_type": "IPA - Session"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-08T14:05:01+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Helix",
+    "brewery": "Equilibrium Brewery",
+    "beer_type": "Pilsner - German"
   },
   {
     "venue": "b7-beer-house",
@@ -210349,6 +210349,1221 @@ const BEER_DATA = [
     "rating": 4.0,
     "beer_name": "Campanula",
     "brewery": "Mortalis Brewing Company",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-10-17T09:51:04+00:00",
+    "serving": "draft",
+    "rating": 3.0,
+    "beer_name": "הפילס שבחדר the Pils In the Room",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-10-16T19:40:33+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "Life Gose On",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-10-16T14:43:03+00:00",
+    "serving": "draft",
+    "rating": 3.0,
+    "beer_name": "קומזיץ",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-10-16T13:47:58+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "עסק שחור",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-10-16T13:25:21+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "C of Hops",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-10-16T12:00:52+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Anything Gose: Blood Orange",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "beerz",
+    "time": "2026-10-16T18:04:00+00:00",
+    "serving": "draft",
+    "rating": 3.9,
+    "beer_name": "Barbãr Bok",
+    "brewery": "Brasserie Lefebvre",
+    "beer_type": ""
+  },
+  {
+    "venue": "beerz",
+    "time": "2026-10-16T18:03:00+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Hazy Queen",
+    "brewery": "HORIZONT Brewing",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-10-17T10:05:53+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Břevnov Ale - 2024",
+    "brewery": "Jebrewsalem",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-10-16T20:57:13+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Blueprints: Orbit Key",
+    "brewery": "Moersleutel Craft Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-10-16T19:51:21+00:00",
+    "serving": "draft",
+    "rating": 3.25,
+    "beer_name": "Emerald Daze",
+    "brewery": "BrewDog",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-10-16T19:41:08+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Lollihop",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-10-16T19:19:37+00:00",
+    "serving": "bottle",
+    "rating": 4.5,
+    "beer_name": "Bzart Kriekenlambiek Millésime 2023",
+    "brewery": "Oud Beersel",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-10-16T19:07:57+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Mango Little Thing",
+    "brewery": "Sierra Nevada Brewing Co.",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-10-16T19:06:45+00:00",
+    "serving": "can",
+    "rating": 4.5,
+    "beer_name": "Never Say Never Michelada Tomato Gose",
+    "brewery": "Ārpus Brewing Co.",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-10-16T18:59:14+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "Emerald Daze",
+    "brewery": "BrewDog",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-10-16T18:55:00+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Emerald Daze",
+    "brewery": "BrewDog",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-10-16T18:52:45+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Californication - Citra, El Dorado & Mosaic",
+    "brewery": "Maryensztadt",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-10-16T18:49:24+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Lollihop",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-10-16T18:47:28+00:00",
+    "serving": "bottle",
+    "rating": 4.0,
+    "beer_name": "Bzart Kriekenlambiek Millésime 2023",
+    "brewery": "Oud Beersel",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-10-16T18:45:29+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Muuumbai DDH",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-10-16T18:41:54+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Spaten Oktoberfest Ur-Märzen / Winter",
+    "brewery": "Spaten-Franziskaner-Löwenbräu-Gruppe",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-10-16T18:38:24+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Tea Party: Hibiscus And Wild Berry",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-10-16T18:24:00+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "PATRONS PROJECT 7.07 // ESBEN BØG-JENSEN // TÆPPEFALD // MIKKELLER // COFFEE COLLECTIVE // IMPERIAL COFFEE STOUT",
+    "brewery": "Northern Monk",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-10-16T18:19:26+00:00",
+    "serving": "draft",
+    "rating": 3.25,
+    "beer_name": "Muuumbai DDH",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-10-16T18:17:58+00:00",
+    "serving": "bottle",
+    "rating": 3.25,
+    "beer_name": "Gueuze",
+    "brewery": "Brouwerij Lindemans",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-10-16T18:17:06+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Muuumbai DDH",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-10-16T18:16:36+00:00",
+    "serving": "draft",
+    "rating": 2.0,
+    "beer_name": "Emerald Daze",
+    "brewery": "BrewDog",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-10-16T18:16:14+00:00",
+    "serving": "bottle",
+    "rating": 4.0,
+    "beer_name": "Bzart Druivenlambiek Millésime 2023",
+    "brewery": "Oud Beersel",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-10-16T18:15:20+00:00",
+    "serving": "can",
+    "rating": 3.25,
+    "beer_name": "Kaapse Bolt",
+    "brewery": "Kaapse Brouwers",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-10-16T18:15:16+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Afloat & Kicking",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-10-16T18:07:41+00:00",
+    "serving": "bottle",
+    "rating": 4.5,
+    "beer_name": "Bzart Druivenlambiek Millésime 2023",
+    "brewery": "Oud Beersel",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-10-16T18:04:53+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "Hydra | Peach + Peach + Peach",
+    "brewery": "Mortalis Brewing Company",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-10-16T17:51:35+00:00",
+    "serving": "Unknown",
+    "rating": 3.25,
+    "beer_name": "Muuumbai DDH",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-10-16T17:50:40+00:00",
+    "serving": "bottle",
+    "rating": 4.0,
+    "beer_name": "Bzart Druivenlambiek Millésime 2023",
+    "brewery": "Oud Beersel",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-10-16T17:40:04+00:00",
+    "serving": "can",
+    "rating": 2.9,
+    "beer_name": "Kaapse Bolt",
+    "brewery": "Kaapse Brouwers",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-10-16T17:38:59+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Green Cape IPA",
+    "brewery": "SeaHorse Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-10-16T17:37:05+00:00",
+    "serving": "bottle",
+    "rating": 3.5,
+    "beer_name": "ZGRYFUS - Blackcurrant & Cherry Pastry Sour Ale",
+    "brewery": "Browar Gryfus",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-10-16T17:36:17+00:00",
+    "serving": "bottle",
+    "rating": 3.9,
+    "beer_name": "Gueuze",
+    "brewery": "Brouwerij Lindemans",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-10-16T17:33:58+00:00",
+    "serving": "can",
+    "rating": 4.1,
+    "beer_name": "Out of Order: Out of Spain",
+    "brewery": "RaR Brewing",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-10-16T17:32:46+00:00",
+    "serving": "can",
+    "rating": 3.4,
+    "beer_name": "Jeju Baengnokdam Ale",
+    "brewery": "Jeju Beer Company",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-10-16T17:31:57+00:00",
+    "serving": "can",
+    "rating": 3.6,
+    "beer_name": "High And Dry",
+    "brewery": "Craft Root",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-10-16T17:30:38+00:00",
+    "serving": "draft",
+    "rating": 4.1,
+    "beer_name": "Afloat & Kicking",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-10-16T17:25:57+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Muuumbai DDH",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-10-16T17:24:00+00:00",
+    "serving": "draft",
+    "rating": 1.0,
+    "beer_name": "Emerald Daze",
+    "brewery": "BrewDog",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-10-16T17:19:48+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Delirium Black Barrel Aged (2025)",
+    "brewery": "Delirium - Huyghe Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-10-16T17:06:44+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Nebulous Trail",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-10-16T17:04:48+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Kaapse Bolt",
+    "brewery": "Kaapse Brouwers",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-10-16T16:57:18+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Kaapse Bolt",
+    "brewery": "Kaapse Brouwers",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-10-16T16:49:02+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Green Cape IPA",
+    "brewery": "SeaHorse Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-10-16T16:46:02+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "TDH Galaxy X Citra X Nelson Sauvin DIPA",
+    "brewery": "Ārpus Brewing Co.",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-10-16T16:45:24+00:00",
+    "serving": "Unknown",
+    "rating": 4.5,
+    "beer_name": "Vigneronne (2023)",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-10-16T16:42:39+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Lollihop",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-10-16T16:41:33+00:00",
+    "serving": "Unknown",
+    "rating": 3.25,
+    "beer_name": "Muuumbai DDH",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-10-16T16:41:05+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "TDH Galaxy X Citra X Nelson Sauvin DIPA",
+    "brewery": "Ārpus Brewing Co.",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-10-16T16:19:45+00:00",
+    "serving": "Unknown",
+    "rating": 4.25,
+    "beer_name": "Hazy Little Thing",
+    "brewery": "Sierra Nevada Brewing Co.",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-10-16T16:18:03+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "High And Dry",
+    "brewery": "Craft Root",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-10-16T16:17:22+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Campanula",
+    "brewery": "Mortalis Brewing Company",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-10-16T16:15:18+00:00",
+    "serving": "bottle",
+    "rating": 4.5,
+    "beer_name": "Vigneronne (2023)",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-10-16T16:02:20+00:00",
+    "serving": "can",
+    "rating": 4.5,
+    "beer_name": "High And Dry",
+    "brewery": "Craft Root",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-10-16T15:25:39+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "TDH Hand-Selected Nectaron X Riwaka IPA",
+    "brewery": "Ārpus Brewing Co.",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-10-16T15:18:35+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Jeju Baengnokdam Ale",
+    "brewery": "Jeju Beer Company",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-10-16T15:18:18+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "Delirium Tremens",
+    "brewery": "Delirium - Huyghe Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-10-16T15:18:02+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "Hydra | Key Lime + Raspberry + Cherry",
+    "brewery": "Mortalis Brewing Company",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-10-16T15:17:55+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "TDH Hand-Selected Nectaron X Riwaka IPA",
+    "brewery": "Ārpus Brewing Co.",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-10-16T15:13:58+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Jeju Baengnokdam Ale",
+    "brewery": "Jeju Beer Company",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-10-16T15:06:56+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Cass Fresh",
+    "brewery": "Oriental Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-10-16T15:06:47+00:00",
+    "serving": "Unknown",
+    "rating": 5.0,
+    "beer_name": "Blackberry X Blueberry X Mango X Pineapple X Peanut Butter Smoothie Sour Ale",
+    "brewery": "Ārpus Brewing Co.",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-10-16T15:06:03+00:00",
+    "serving": "bottle",
+    "rating": 4.75,
+    "beer_name": "Oude Airelle Sauvage Tilquin à l'ancienne (2021-2022)",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-10-16T15:05:32+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Jeju Baengnokdam Ale",
+    "brewery": "Jeju Beer Company",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-10-16T15:03:50+00:00",
+    "serving": "can",
+    "rating": 4.75,
+    "beer_name": "Blackberry X Blueberry X Mango X Pineapple X Peanut Butter Smoothie Sour Ale",
+    "brewery": "Ārpus Brewing Co.",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-10-16T15:03:18+00:00",
+    "serving": "can",
+    "rating": 4.5,
+    "beer_name": "Blackberry X Blueberry X Mango X Pineapple X Peanut Butter Smoothie Sour Ale",
+    "brewery": "Ārpus Brewing Co.",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-10-16T14:58:04+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Muuumbai DDH",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-10-16T14:56:54+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Apple X Mango X Banana X Cinnamon Smoothie Sour Ale",
+    "brewery": "Ārpus Brewing Co.",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-10-16T14:54:08+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "Never Say Never Michelada Tomato Gose",
+    "brewery": "Ārpus Brewing Co.",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-10-16T14:53:33+00:00",
+    "serving": "can",
+    "rating": 3.25,
+    "beer_name": "ReBEERnya Smoked Pilsner",
+    "brewery": "Pravda Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-10-16T14:49:12+00:00",
+    "serving": "Unknown",
+    "rating": 3.25,
+    "beer_name": "Lollihop",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-10-16T14:46:55+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Emerald Daze",
+    "brewery": "BrewDog",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-10-16T14:37:23+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Apple X Mango X Banana X Cinnamon Smoothie Sour Ale",
+    "brewery": "Ārpus Brewing Co.",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-10-16T14:36:07+00:00",
+    "serving": "can",
+    "rating": 4.2,
+    "beer_name": "Never Say Never Michelada Tomato Gose",
+    "brewery": "Ārpus Brewing Co.",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-10-16T14:33:03+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "Never Say Never Michelada Tomato Gose",
+    "brewery": "Ārpus Brewing Co.",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-10-16T14:31:19+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Speedbird OG Transatlantic IPA",
+    "brewery": "BrewDog",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-10-16T14:30:59+00:00",
+    "serving": "draft",
+    "rating": 3.7,
+    "beer_name": "Delirium Red",
+    "brewery": "Delirium - Huyghe Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-10-16T14:30:24+00:00",
+    "serving": "can",
+    "rating": 2.5,
+    "beer_name": "Never Say Never Michelada Tomato Gose",
+    "brewery": "Ārpus Brewing Co.",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-10-16T14:30:20+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "Never Say Never Michelada Tomato Gose",
+    "brewery": "Ārpus Brewing Co.",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-10-16T14:28:00+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Apple X Mango X Banana X Cinnamon Smoothie Sour Ale",
+    "brewery": "Ārpus Brewing Co.",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-10-16T14:26:01+00:00",
+    "serving": "draft",
+    "rating": 3.6,
+    "beer_name": "Delirium Black Barrel Aged",
+    "brewery": "Delirium - Huyghe Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-10-16T14:25:49+00:00",
+    "serving": "can",
+    "rating": 4.5,
+    "beer_name": "Apple X Mango X Banana X Cinnamon Smoothie Sour Ale",
+    "brewery": "Ārpus Brewing Co.",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-10-16T14:25:01+00:00",
+    "serving": "can",
+    "rating": 4.75,
+    "beer_name": "Apple X Mango X Banana X Cinnamon Smoothie Sour Ale",
+    "brewery": "Ārpus Brewing Co.",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-10-16T14:24:48+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Out of Order Feel the Rhythm",
+    "brewery": "RaR Brewing",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-10-16T14:23:45+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Delirium Black Barrel Aged",
+    "brewery": "Delirium - Huyghe Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-10-16T14:23:38+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Out of Order: Out of Spain",
+    "brewery": "RaR Brewing",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-10-16T14:22:49+00:00",
+    "serving": "can",
+    "rating": 4.5,
+    "beer_name": "Apple X Mango X Banana X Cinnamon Smoothie Sour Ale",
+    "brewery": "Ārpus Brewing Co.",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-10-16T14:22:24+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Tea Party: Hibiscus And Wild Berry",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-10-16T14:21:41+00:00",
+    "serving": "can",
+    "rating": 4.5,
+    "beer_name": "Open Craft 2025: Banana, Kiwi, Mango, Lime x Pineapple",
+    "brewery": "Nepo Brewing",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-10-16T14:21:23+00:00",
+    "serving": "can",
+    "rating": 5.0,
+    "beer_name": "Out of Order Feel the Rhythm",
+    "brewery": "RaR Brewing",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-10-16T14:20:07+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "Out of Order: Out of Spain",
+    "brewery": "RaR Brewing",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-10-16T14:19:53+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "Open Craft 2025: Banana, Kiwi, Mango, Lime x Pineapple",
+    "brewery": "Nepo Brewing",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-10-16T14:19:48+00:00",
+    "serving": "can",
+    "rating": 4.5,
+    "beer_name": "Out of Order: Out of Spain",
+    "brewery": "RaR Brewing",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-10-16T14:19:42+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "Muuumbai DDH",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-10-16T14:18:51+00:00",
+    "serving": "can",
+    "rating": 4.25,
+    "beer_name": "Open Craft 2025: Banana, Kiwi, Mango, Lime x Pineapple",
+    "brewery": "Nepo Brewing",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-10-16T14:17:15+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Apple X Mango X Banana X Cinnamon Smoothie Sour Ale",
+    "brewery": "Ārpus Brewing Co.",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-10-16T14:15:06+00:00",
+    "serving": "bottle",
+    "rating": 3.5,
+    "beer_name": "Gueuze",
+    "brewery": "Brouwerij Lindemans",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-10-16T14:12:59+00:00",
+    "serving": "bottle",
+    "rating": 4.5,
+    "beer_name": "Gueuze",
+    "brewery": "Brouwerij Lindemans",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-10-16T14:07:23+00:00",
+    "serving": "bottle",
+    "rating": 5.0,
+    "beer_name": "ReBEERnya Smoked Pilsner",
+    "brewery": "Pravda Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-10-16T14:07:12+00:00",
+    "serving": "bottle",
+    "rating": 3.5,
+    "beer_name": "ZGRYFUS - Blackcurrant & Cherry Pastry Sour Ale",
+    "brewery": "Browar Gryfus",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-10-16T14:04:27+00:00",
+    "serving": "bottle",
+    "rating": 3.25,
+    "beer_name": "ReBEERnya Smoked Pilsner",
+    "brewery": "Pravda Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-10-16T13:58:20+00:00",
+    "serving": "can",
+    "rating": 4.5,
+    "beer_name": "Portuguese Brandy Barrel Aged Imperial Stout",
+    "brewery": "Ārpus Brewing Co.",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-10-16T13:52:23+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Blackberry X Blueberry X Mango X Pineapple X Peanut Butter Smoothie Sour Ale",
+    "brewery": "Ārpus Brewing Co.",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-10-16T13:48:59+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Delirium Black Barrel Aged",
+    "brewery": "Delirium - Huyghe Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-10-16T13:46:08+00:00",
+    "serving": "can",
+    "rating": 4.5,
+    "beer_name": "Blueprints: Orbit Key",
+    "brewery": "Moersleutel Craft Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-10-16T13:38:03+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "Afloat & Kicking",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-10-16T13:37:43+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Blueprints: Orbit Key",
+    "brewery": "Moersleutel Craft Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-10-16T13:37:15+00:00",
+    "serving": "draft",
+    "rating": 2.75,
+    "beer_name": "Emerald Daze",
+    "brewery": "BrewDog",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-10-16T13:30:03+00:00",
+    "serving": "Unknown",
+    "rating": 3.4,
+    "beer_name": "Muuumbai DDH",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-10-16T13:29:04+00:00",
+    "serving": "draft",
+    "rating": 3.25,
+    "beer_name": "Delirium Red",
+    "brewery": "Delirium - Huyghe Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-10-16T13:28:28+00:00",
+    "serving": "draft",
+    "rating": 3.7,
+    "beer_name": "Emerald Daze",
+    "brewery": "BrewDog",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-10-16T13:28:04+00:00",
+    "serving": "draft",
+    "rating": 3.0,
+    "beer_name": "Emerald Daze",
+    "brewery": "BrewDog",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-10-16T13:28:03+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Tea Party: Hibiscus And Wild Berry",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-10-16T13:23:51+00:00",
+    "serving": "Unknown",
+    "rating": 3.25,
+    "beer_name": "Muuumbai DDH",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-10-16T13:07:24+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Delirium Black Barrel Aged",
+    "brewery": "Delirium - Huyghe Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-10-16T12:55:24+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "Blackberry X Blueberry X Mango X Pineapple X Peanut Butter Smoothie Sour Ale",
+    "brewery": "Ārpus Brewing Co.",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-10-16T12:50:52+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Delirium Red",
+    "brewery": "Delirium - Huyghe Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-10-16T12:36:27+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Volfas Engelman Pink Lager",
+    "brewery": "Volfas Engelman",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-10-16T12:34:53+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Delirium Black Barrel Aged",
+    "brewery": "Delirium - Huyghe Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-10-16T11:58:31+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Tea Party: Hibiscus And Wild Berry",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-10-16T11:53:45+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Afloat & Kicking",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-10-16T11:49:34+00:00",
+    "serving": "bottle",
+    "rating": 3.75,
+    "beer_name": "Aecht Schlenkerla Eiche – Doppelbock",
+    "brewery": "Schlenkerla (\"Heller-Bräu\" Trum)",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-10-16T11:48:53+00:00",
+    "serving": "bottle",
+    "rating": 4.25,
+    "beer_name": "Aecht Schlenkerla Eiche – Doppelbock",
+    "brewery": "Schlenkerla (\"Heller-Bräu\" Trum)",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-10-16T11:45:58+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Afloat & Kicking",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-10-16T11:45:40+00:00",
+    "serving": "draft",
+    "rating": 3.0,
+    "beer_name": "Afloat & Kicking",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-10-16T11:44:34+00:00",
+    "serving": "draft",
+    "rating": 3.25,
+    "beer_name": "Emerald Daze",
+    "brewery": "BrewDog",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-10-16T11:37:25+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Lager Like It Used To Be - Vienna Edition",
+    "brewery": "Lubrow Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-10-16T11:32:43+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Lager Like It Used To Be - Vienna Edition",
+    "brewery": "Lubrow Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-10-16T11:20:55+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Afloat & Kicking",
+    "brewery": "Schnitt Brewing Company﻿",
     "beer_type": ""
   }
 ];
