@@ -1,6 +1,6 @@
 // 🍺 BEER STATS DATA - Generated automatically
-// Last updated: 2026-10-18 10:50:46
-// Total records: 23524
+// Last updated: 2026-10-19 12:51:47
+// Total records: 23550
 
 const BEER_DATA = [
   {
@@ -2967,20 +2967,20 @@ const BEER_DATA = [
   {
     "venue": "b7-beer-house",
     "time": "2026-05-29T08:42:24+00:00",
-    "serving": "draft",
-    "rating": 3.75,
-    "beer_name": "Prunes In Chocolate",
-    "brewery": "Radionov",
-    "beer_type": "Homebrew, Porter - Other"
-  },
-  {
-    "venue": "b7-beer-house",
-    "time": "2026-05-29T08:42:24+00:00",
     "serving": "can",
     "rating": 3.75,
     "beer_name": "Hop Elixir: Citra, Citra Hyperboost, Citra Cryo, Citra Dynaboost",
     "brewery": "Sibeeria Brewery",
     "beer_type": "IPA - Session New England / Hazy"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T08:42:24+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Prunes In Chocolate",
+    "brewery": "Radionov",
+    "beer_type": "Homebrew, Porter - Other"
   },
   {
     "venue": "b7-beer-house",
@@ -9652,15 +9652,6 @@ const BEER_DATA = [
     "beer_type": "IPA - American"
   },
   {
-    "venue": "b7-beer-house",
-    "time": "2026-05-08T14:05:01+00:00",
-    "serving": "draft",
-    "rating": 4.0,
-    "beer_name": "Helix",
-    "brewery": "Equilibrium Brewery",
-    "beer_type": "Pilsner - German"
-  },
-  {
     "venue": "schnitt-brewing-company",
     "time": "2026-05-08T14:05:01+00:00",
     "serving": "Unknown",
@@ -9668,6 +9659,15 @@ const BEER_DATA = [
     "beer_name": "Cheers Alenbeer",
     "brewery": "Schnitt Brewing Company﻿",
     "beer_type": "IPA - Session"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-08T14:05:01+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "Helix",
+    "brewery": "Equilibrium Brewery",
+    "beer_type": "Pilsner - German"
   },
   {
     "venue": "b7-beer-house",
@@ -211717,6 +211717,240 @@ const BEER_DATA = [
     "rating": 4.0,
     "beer_name": "Aecht Schlenkerla Rauchbier – Märzen",
     "brewery": "Schlenkerla (\"Heller-Bräu\" Trum)",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-10-18T17:12:32+00:00",
+    "serving": "draft",
+    "rating": 4.6,
+    "beer_name": "Kriek (2025) - Draft Version",
+    "brewery": "Brasserie Cantillon",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-10-18T17:09:46+00:00",
+    "serving": "bottle",
+    "rating": 4.0,
+    "beer_name": "Aecht Schlenkerla Rauchbier – Märzen",
+    "brewery": "Schlenkerla (\"Heller-Bräu\" Trum)",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-10-18T16:43:20+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "Muuumbai DDH",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-10-18T16:37:49+00:00",
+    "serving": "can",
+    "rating": 3.9,
+    "beer_name": "Portuguese Brandy Barrel Aged Imperial Stout",
+    "brewery": "Ārpus Brewing Co.",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-10-18T16:30:03+00:00",
+    "serving": "can",
+    "rating": 4.0,
+    "beer_name": "TDH Galaxy X Citra X Nelson Sauvin DIPA",
+    "brewery": "Ārpus Brewing Co.",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-10-18T16:22:45+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Delirium Black Barrel Aged (2024)",
+    "brewery": "Delirium - Huyghe Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-10-18T16:18:09+00:00",
+    "serving": "Unknown",
+    "rating": 4.25,
+    "beer_name": "Suktoberfest (סוכטוברפסט)",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-10-18T15:56:20+00:00",
+    "serving": "draft",
+    "rating": null,
+    "beer_name": "Zirndorfer Kellerbier - Naturtrüb",
+    "brewery": "Brauerei Zirndorf",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-10-18T15:51:58+00:00",
+    "serving": "draft",
+    "rating": 1.5,
+    "beer_name": "Emerald Daze",
+    "brewery": "BrewDog",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-10-18T15:46:27+00:00",
+    "serving": "draft",
+    "rating": 1.75,
+    "beer_name": "Delirium Black Barrel Aged",
+    "brewery": "Delirium - Huyghe Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-10-19T12:50:17+00:00",
+    "serving": "draft",
+    "rating": 2.75,
+    "beer_name": "C of Hops",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-10-19T12:14:13+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "C of Hops",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-10-19T09:59:11+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "קומזיץ",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-10-18T14:59:08+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "Lazy Bee Hibiscus And Raspberries",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-10-18T14:50:29+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Sessionista",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-10-18T14:48:25+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "Alt Neuland",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-10-18T14:44:44+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "Kama Citra",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-10-18T14:41:39+00:00",
+    "serving": "Unknown",
+    "rating": 2.75,
+    "beer_name": "Float",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-10-18T14:39:40+00:00",
+    "serving": "Unknown",
+    "rating": 3.25,
+    "beer_name": "Muuumbai",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-10-18T14:38:25+00:00",
+    "serving": "Unknown",
+    "rating": 3.25,
+    "beer_name": "Mind the Gap",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-10-18T14:36:32+00:00",
+    "serving": "Unknown",
+    "rating": 2.25,
+    "beer_name": "קומזיץ",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-10-18T14:35:36+00:00",
+    "serving": "Unknown",
+    "rating": 4.5,
+    "beer_name": "עסק שחור",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "porter-and-sons",
+    "time": "2026-10-18T17:21:16+00:00",
+    "serving": "draft",
+    "rating": null,
+    "beer_name": "Maredsous Triple / Tripel",
+    "brewery": "Abbaye de Maredsous",
+    "beer_type": ""
+  },
+  {
+    "venue": "porter-and-sons",
+    "time": "2026-10-18T17:12:02+00:00",
+    "serving": "draft",
+    "rating": 4.5,
+    "beer_name": "Guinness Draught",
+    "brewery": "Guinness",
+    "beer_type": ""
+  },
+  {
+    "venue": "porter-and-sons",
+    "time": "2026-10-18T16:13:00+00:00",
+    "serving": "draft",
+    "rating": 4.5,
+    "beer_name": "Guinness Draught",
+    "brewery": "Guinness",
+    "beer_type": ""
+  },
+  {
+    "venue": "porter-and-sons",
+    "time": "2026-10-18T15:34:46+00:00",
+    "serving": "draft",
+    "rating": 4.5,
+    "beer_name": "Guinness Draught",
+    "brewery": "Guinness",
     "beer_type": ""
   }
 ];
