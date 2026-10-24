@@ -1,6 +1,6 @@
 // 🍺 BEER STATS DATA - Generated automatically
-// Last updated: 2026-10-23 11:26:46
-// Total records: 23708
+// Last updated: 2026-10-24 10:45:04
+// Total records: 23762
 
 const BEER_DATA = [
   {
@@ -2967,20 +2967,20 @@ const BEER_DATA = [
   {
     "venue": "b7-beer-house",
     "time": "2026-05-29T08:42:24+00:00",
-    "serving": "can",
-    "rating": 3.75,
-    "beer_name": "Hop Elixir: Citra, Citra Hyperboost, Citra Cryo, Citra Dynaboost",
-    "brewery": "Sibeeria Brewery",
-    "beer_type": "IPA - Session New England / Hazy"
-  },
-  {
-    "venue": "b7-beer-house",
-    "time": "2026-05-29T08:42:24+00:00",
     "serving": "draft",
     "rating": 3.75,
     "beer_name": "Prunes In Chocolate",
     "brewery": "Radionov",
     "beer_type": "Homebrew, Porter - Other"
+  },
+  {
+    "venue": "b7-beer-house",
+    "time": "2026-05-29T08:42:24+00:00",
+    "serving": "can",
+    "rating": 3.75,
+    "beer_name": "Hop Elixir: Citra, Citra Hyperboost, Citra Cryo, Citra Dynaboost",
+    "brewery": "Sibeeria Brewery",
+    "beer_type": "IPA - Session New England / Hazy"
   },
   {
     "venue": "b7-beer-house",
@@ -9652,15 +9652,6 @@ const BEER_DATA = [
     "beer_type": "IPA - American"
   },
   {
-    "venue": "schnitt-brewing-company",
-    "time": "2026-05-08T14:05:01+00:00",
-    "serving": "Unknown",
-    "rating": 3.5,
-    "beer_name": "Cheers Alenbeer",
-    "brewery": "Schnitt Brewing Company﻿",
-    "beer_type": "IPA - Session"
-  },
-  {
     "venue": "b7-beer-house",
     "time": "2026-05-08T14:05:01+00:00",
     "serving": "draft",
@@ -9668,6 +9659,15 @@ const BEER_DATA = [
     "beer_name": "Helix",
     "brewery": "Equilibrium Brewery",
     "beer_type": "Pilsner - German"
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-05-08T14:05:01+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "Cheers Alenbeer",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": "IPA - Session"
   },
   {
     "venue": "b7-beer-house",
@@ -213373,6 +213373,492 @@ const BEER_DATA = [
     "rating": 4.75,
     "beer_name": "Delirium Red",
     "brewery": "Delirium - Huyghe Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-10-23T19:45:30+00:00",
+    "serving": "draft",
+    "rating": 3.25,
+    "beer_name": "Redwood",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-10-23T19:39:53+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "Muuumbai DDH",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-10-23T19:39:13+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Gueuze Tilquin – Draft Version",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-10-23T16:57:54+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Bits From the Hong",
+    "brewery": "Cloudwater Brew Co.",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-10-23T16:35:18+00:00",
+    "serving": "can",
+    "rating": 4.2,
+    "beer_name": "Ice Cream Alchemy Glacé Mode Bourbon",
+    "brewery": "Mad Scientist",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-10-23T16:09:27+00:00",
+    "serving": "Unknown",
+    "rating": 4.2,
+    "beer_name": "Theory of Hypnosis",
+    "brewery": "TankBusters.Co",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-10-23T16:08:02+00:00",
+    "serving": "can",
+    "rating": 4.5,
+    "beer_name": "Ice Cream Alchemy Glacé Mode Bourbon",
+    "brewery": "Mad Scientist",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-10-23T16:05:26+00:00",
+    "serving": "can",
+    "rating": 3.5,
+    "beer_name": "Bits From the Hong",
+    "brewery": "Cloudwater Brew Co.",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-10-23T15:00:18+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Passiflora (פסיפלורה) - Passion Fruit Ale",
+    "brewery": "Negev Brewery (נגב)",
+    "beer_type": ""
+  },
+  {
+    "venue": "lauter",
+    "time": "2026-10-23T14:19:20+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "Drunken Sailor",
+    "brewery": "CREW Republic",
+    "beer_type": ""
+  },
+  {
+    "venue": "berlin-florentin",
+    "time": "2026-10-23T22:08:31+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Hobgoblin IPA",
+    "brewery": "Marston's Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "berlin-florentin",
+    "time": "2026-10-23T20:28:51+00:00",
+    "serving": "draft",
+    "rating": 3.25,
+    "beer_name": "Shikma IPA",
+    "brewery": "בירה שקמה Shikma Beer",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-10-24T09:59:18+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "C of Hops",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-10-24T09:58:46+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Life Gose On",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-10-24T09:58:12+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "עסק שחור",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-10-24T09:57:42+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Sessionista",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-10-24T09:57:13+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Gueuze Tilquin – Draft Version",
+    "brewery": "Gueuzerie Tilquin",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-10-24T09:56:41+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Muuumbai DDH",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-10-24T09:38:03+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "הקולש בראש",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-10-24T09:37:14+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "Basmati Lager",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-10-24T09:36:20+00:00",
+    "serving": "Unknown",
+    "rating": null,
+    "beer_name": "C of Hops",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-10-23T20:38:20+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Twist & Stout",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-10-23T20:37:25+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "Sessionista",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-10-23T19:49:40+00:00",
+    "serving": "draft",
+    "rating": 3.25,
+    "beer_name": "Redwood",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-10-23T19:48:54+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "קומזיץ",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-10-23T19:46:49+00:00",
+    "serving": "Unknown",
+    "rating": 3.0,
+    "beer_name": "Basmati Lager",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-10-23T19:46:11+00:00",
+    "serving": "Unknown",
+    "rating": 3.25,
+    "beer_name": "הקולש בראש",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-10-23T19:38:28+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Sessionista",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-10-23T19:37:49+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "עסק שחור",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-10-23T19:37:07+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Life Gose On",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-10-23T19:35:33+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "C of Hops",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-10-23T18:19:54+00:00",
+    "serving": "draft",
+    "rating": 2.75,
+    "beer_name": "Sessionista",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-10-23T17:18:21+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Float",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-10-23T15:09:17+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "הקולש בראש",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-10-23T15:02:56+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Redwood",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-10-23T14:51:01+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Redwood",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-10-23T14:50:18+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "הקולש בראש",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-10-23T14:15:00+00:00",
+    "serving": "Unknown",
+    "rating": 3.25,
+    "beer_name": "Basmati Lager",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-10-23T14:09:50+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "הקולש בראש",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-10-23T14:09:29+00:00",
+    "serving": "Unknown",
+    "rating": 2.7,
+    "beer_name": "Basmati Lager",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-10-23T14:08:43+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "הקולש בראש",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-10-23T13:48:17+00:00",
+    "serving": "draft",
+    "rating": 4.0,
+    "beer_name": "הקולש בראש",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-10-23T13:27:33+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Basmati Lager",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-10-23T12:08:39+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Basmati Lager",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-10-23T11:50:54+00:00",
+    "serving": "draft",
+    "rating": 3.75,
+    "beer_name": "Float",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-10-23T11:50:34+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "C of Hops",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-10-23T11:49:53+00:00",
+    "serving": "Unknown",
+    "rating": 3.5,
+    "beer_name": "City Lights",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-10-23T11:49:34+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "Anything Gose: Blood Orange",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "schnitt-brewing-company",
+    "time": "2026-10-23T11:48:49+00:00",
+    "serving": "Unknown",
+    "rating": 3.75,
+    "beer_name": "Basmati Lager",
+    "brewery": "Schnitt Brewing Company﻿",
+    "beer_type": ""
+  },
+  {
+    "venue": "porter-and-sons",
+    "time": "2026-10-23T20:39:43+00:00",
+    "serving": "bottle",
+    "rating": 2.75,
+    "beer_name": "Tonic Water",
+    "brewery": "Thomas Henry",
+    "beer_type": ""
+  },
+  {
+    "venue": "porter-and-sons",
+    "time": "2026-10-23T16:37:06+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Stout",
+    "brewery": "Tennent's Caledonian Brewery",
+    "beer_type": ""
+  },
+  {
+    "venue": "porter-and-sons",
+    "time": "2026-10-23T16:31:45+00:00",
+    "serving": "Unknown",
+    "rating": 4.0,
+    "beer_name": "Guinness Draught",
+    "brewery": "Guinness",
+    "beer_type": ""
+  },
+  {
+    "venue": "porter-and-sons",
+    "time": "2026-10-23T15:53:13+00:00",
+    "serving": "draft",
+    "rating": 3.5,
+    "beer_name": "Lederer Pils",
+    "brewery": "Tucher Bräu",
+    "beer_type": ""
+  },
+  {
+    "venue": "porter-and-sons",
+    "time": "2026-10-23T15:08:11+00:00",
+    "serving": "draft",
+    "rating": 4.25,
+    "beer_name": "Helles Hefe Weizen",
+    "brewery": "Tucher Bräu",
     "beer_type": ""
   }
 ];
